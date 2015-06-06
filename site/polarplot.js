@@ -5,7 +5,6 @@ function zeros (n) {
 }
 window.polarexport = function (data) {
 	data = data.vpp;
-	console.log(data);
 
 	var ret = ['twa/tws;' + data.speeds.join(';')];
 	ret.push(zeros(data.speeds.length + 1));
@@ -97,8 +96,6 @@ window.polarplot = function (container) {
 				['meta-label', 'polar (csv)', '<textarea>' + polarexport(data) + '</textarea>'],
 			]).enter().append('div').attr('class', 'meta-item');
 
-		console.log(data);
-		console.log(polarexport(data));
 		meta.selectAll('.meta-item').html(function (d) {
 			if (typeof d == 'string') {
 				return d;

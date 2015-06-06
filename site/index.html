@@ -97,9 +97,9 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand">ORC club sailboat data</a>
+				<a class="navbar-brand">ORC sailboat data (NED)</a>
 			</div>
-			<div class="collapse navbar-collapse">
+			<div class="collapse navbar-collapse pull-right">
 				<ul class="nav navbar-nav">
 					<li><a href="http://twitter.com/jietermanis">
 							@Jietermanis
@@ -110,12 +110,12 @@
 	</div>
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-4">
+			<div class="col-md-4 col-sm-3">
 				<input type="text" class="form-control" placeholder="naam, type, eigenaar of zeilnummer..." />
 				<div id="list"></div>
 			</div>
-			<div class="col-sm-4" id="chart"></div>
-			<div class="col-sm-4" id="meta"></div>
+			<div class="col-md-4 col-sm-4" id="chart"></div>
+			<div class="col-md-4 col-sm-5" id="meta"></div>
 
 		</div>
 	</div>
@@ -132,6 +132,9 @@
 	<script>
 		var list = d3.select('#list');
 		var plot = polarplot('#chart');
+		function getRandomElement(arr) {
+			return arr[Math.floor(Math.random() * arr.length)];
+		}
 
 		function match_boats(data, needle) {
 			var needle = needle.toLowerCase();
@@ -150,14 +153,25 @@
 				.data(response)
 				.enter()
 					.append('a')
-					.attr({href: '#', class: 'boat'})
+					.attr({href: function (d) { return '#' + d.sailnumber}, class: 'boat'})
 					.on('click', function (d) {
 						plot.render(d);
 					})
 					.html(function (d) {
 						return '<span class="sailnumber">' + d.sailnumber + '</span> ' + d.name +
-							   ' <span class="type">' + d.boat.type + '</span>';
+						       ' <span class="type">' + d.boat.type + '</span>';
 					});
+			if (window.location.hash == '') {
+				plot.render(getRandomElement(response));
+			} else {
+				var sailnumber = window.location.hash.substring(1);
+				console.log(sailnumber);
+				response.forEach(function (boat) {
+					if (boat.sailnumber == sailnumber) {
+						plot.render(boat);
+					}
+				});
+			}
 		});
 
 		d3.select('input').on('keyup', function () {
@@ -174,6 +188,8 @@
 				plot.render(list.selectAll('a:not(.hidden)').data()[0])
 			}
 		});
+
+
 	</script>
 </body>
 </html>

@@ -48,8 +48,13 @@ def parse_rms(filename):
                     'angles': WIND_ANGLES,
                     'speeds': WIND_SPEEDS,
                 },
+                'rating': {
+                    'gph': float(data['GPH']),
+                    'triple_offshore': map(float, [data['OTNLOW'], data['OTNMED'], data['OTNHIG']]),
+                    'triple_inshore': map(float, [data['ITNLOW'], data['ITNMED'], data['ITNHIG']]),
+                },
                 'name': data['NAME'],
-                'sailnumber': data['SAILNUMB'],
+                'sailnumber': data['SAILNUMB'].replace(' ', ''),
                 'owner': data['OWNER'],
                 'boat': {
                     'builder': data['BUILDER'],
@@ -58,9 +63,15 @@ def parse_rms(filename):
                     'year': data['YEAR'],
                     'sizes': {
                         'loa': float(data['LOA']),
+                        'beam': float(data['BMAX']),
                         'draft': float(data['DRAFT']),
                         'displacement': float(data['DSPL']),
+                        'genoa': float(data['GENOA']),
+                        'main': float(data['MAIN']),
+                        'spinnaker': float(data['SYM']),
+                        'spinnaker_asym': float(data['ASYM']),
                     },
+
                 },
                 # 'raw': data,
             }
