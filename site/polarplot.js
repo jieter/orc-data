@@ -50,10 +50,9 @@ window.polarplot = function (container) {
 		.radius(function(d) { return r(d[1]); })
 		.angle(function(d) { return d[0]; });
 
-	var meta = svg.append('g')
+	var meta = d3.select('#meta').append('div')
 		.attr('class', 'meta')
-		.attr('transform', 'translate(' + (width / 2 - 200) + ',' + ((height / 2) - 40) + ')')
-		.append('text');
+		.attr('transform', 'translate(' + (width / 2 - 200) + ',' + ((height / 2) - 40) + ')');
 
 	plot.render = function (data) {
 		var vpp_angles = data.vpp.angles.map(function (d) { return d * deg2rad; });
@@ -68,15 +67,14 @@ window.polarplot = function (container) {
 		lines.transition().duration(200).attr('d', line);
 		lines.exit().remove();
 
-		meta.selectAll('tspan')
+		meta.selectAll('.meta-item')
 			.data([
-				data.sailnumber + ' "' + data.name + '"',
+				'<span class="sailnumber">' + data.sailnumber + '</span>',
+				'<h2>' + data.name + '</h2>',
 				data.boat.type
-			])
-				.enter()
-					.append('tspan').attr({x: 0, dy: '1.4em'});
+			]).enter().append('span').attr('class', 'meta-item');
 
-		meta.selectAll('tspan').text(function (d) { return d; });
+		meta.selectAll('.meta-item').html(function (d) { return d; });
 	};
 
 	return plot;
