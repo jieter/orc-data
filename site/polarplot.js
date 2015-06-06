@@ -2,9 +2,9 @@ var deg2rad = Math.PI / 180;
 
 window.polarplot = function (container) {
 
-	var width = 600,
-		height = 600,
-		radius = Math.min(width, height) / 2 - 30;
+	var width = 300,
+		height = 650,
+		radius = 300 - 30;
 
 	var r = d3.scale.linear().domain([0, 10]).range([0, radius]);
 
@@ -69,12 +69,20 @@ window.polarplot = function (container) {
 
 		meta.selectAll('.meta-item')
 			.data([
-				'<span class="sailnumber">' + data.sailnumber + '</span>',
+				['sailnumber', data.sailnumber],
 				'<h2>' + data.name + '</h2>',
-				data.boat.type
-			]).enter().append('span').attr('class', 'meta-item');
+				['meta-label', 'type', data.boat.type],
+				['meta-label', 'lengte', data.boat.sizes.loa + 'm'],
+				['meta-label', 'diepgang', data.boat.sizes.draft + 'm'],
+			]).enter().append('div').attr('class', 'meta-item');
 
-		meta.selectAll('.meta-item').html(function (d) { return d; });
+		meta.selectAll('.meta-item').html(function (d) {
+			if (typeof d == 'string') {
+				return d;
+			} else {
+				return '<span class="' + d[0] + '">' + d[1] + '</span> ' + (d.length == 3 ? d[2] : '');
+			}
+		});
 	};
 
 	return plot;

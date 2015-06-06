@@ -26,28 +26,34 @@
 		stroke-width: 1.5px;
 	}
 
-	.meta text {
-	    font-size: 13px;
+	.meta span.meta-label {
+		font-weight: 200;
+		font-size: 14px;
+		color: #aaa;
+		padding: 0;
+		display: inline-block;;
+		min-width: 100px;
+
 	}
 
 	#list {
-		height: 500px;
-	    overflow-y: scroll;
+		height: 650px;
+		overflow-y: scroll;
 	}
 	.boat {
-	    padding: 2px 5px;
-	    display: block;
+		padding: 2px 5px;
+		display: block;
 	}
 	.sailnumber {
-	    color: #555;
-	    padding-right: 5px;
-	    display: inline-block;
-	    min-width: 75px;
+		color: #555;
+		padding-right: 5px;
+		display: inline-block;
+		min-width: 75px;
 	}
 	h2 .sailnumber { font-size: 13px; }
 	.type {
-	    color: #aaa;
-	    size: 10px;
+		color: #aaa;
+		size: 10px;
 	}
 
 	/* sticky footer */
@@ -93,73 +99,72 @@
 			</div>
 		</div>
 	</div>
-    <div class="container">
+	<div class="container">
 		<div class="row">
-	        <div class="col-md-4">
-	            <input type="text" class="form-control" placeholder="naam, type, eigenaar of zeilnummer..." />
-	            <div id="list"></div>
-	        </div>
-	        <div class="col-md-4" id="chart"></div>
-	        <div class="col-md-4" id="meta"></div>
+			<div class="col-sm-4">
+				<input type="text" class="form-control" placeholder="naam, type, eigenaar of zeilnummer..." />
+				<div id="list"></div>
+			</div>
+			<div class="col-sm-4" id="chart"></div>
+			<div class="col-sm-4" id="meta"></div>
 
 		</div>
-    </div>
+	</div>
 	<footer id="footer" class="footer">
 		<div class="container">
 			<div class="text-muted text-right">
-				<a href="http://orc.org/index.asp?id=44">Data courtesy ORC.org</a>
+				<a href="http://orc.org/index.asp?id=44">Data &copy; ORC.org</a>
 			</div>
 		</div>
 	</footer>
 
-
 	<script src="http://d3js.org/d3.v3.min.js"></script>
 	<script src="polarplot.js"></script>
 	<script>
-	    var list = d3.select('#list');
-	    var plot = polarplot('#chart');
+		var list = d3.select('#list');
+		var plot = polarplot('#chart');
 
-	    function match_boats(data, needle) {
-	        var needle = needle.toLowerCase();
-	        var values = [data.name, data.sailnumber, data.owner, data.boat.type];
+		function match_boats(data, needle) {
+			var needle = needle.toLowerCase();
+			var values = [data.name, data.sailnumber, data.owner, data.boat.type];
 
-	        for (var i in values) {
-	            var value = values[i];
-	            if (value.toLowerCase().indexOf(needle) != -1) {
-	                return true;
-	            }
-	        }
-	    }
+			for (var i in values) {
+				var value = values[i];
+				if (value.toLowerCase().indexOf(needle) != -1) {
+					return true;
+				}
+			}
+		}
 
-	    d3.json('../NED2015.json', function (response) {
-	        list.selectAll('a')
-	            .data(response)
-	            .enter()
-	                .append('a')
-	                .attr({href: '#', class: 'boat'})
-	                .on('click', function (d) {
-	                    plot.render(d);
-	                })
-	                .html(function (d) {
-	                    return '<span class="sailnumber">' + d.sailnumber + '</span> ' + d.name +
-	                           ' <span class="type">' + d.boat.type + '</span>';
-	                });
-	    });
+		d3.json('../NED2015.json', function (response) {
+			list.selectAll('a')
+				.data(response)
+				.enter()
+					.append('a')
+					.attr({href: '#', class: 'boat'})
+					.on('click', function (d) {
+						plot.render(d);
+					})
+					.html(function (d) {
+						return '<span class="sailnumber">' + d.sailnumber + '</span> ' + d.name +
+							   ' <span class="type">' + d.boat.type + '</span>';
+					});
+		});
 
-	    d3.select('input').on('keyup', function () {
-	        var val = d3.select(this).property('value');
+		d3.select('input').on('keyup', function () {
+			var val = d3.select(this).property('value');
 
-	        if (val == '') {
-	            list.selectAll('a').attr('class', 'boat');
-	        }
-	        list.selectAll('a')
-	            .attr('class', function (d) {
-	                return 'boat' + (!match_boats(d, val) ? ' hidden' : '');
-	            });
-	        if (list.selectAll('a:not(.hidden)')[0].length == 1) {
-	            plot.render(list.selectAll('a:not(.hidden)').data()[0])
-	        }
-	    });
+			if (val == '') {
+				list.selectAll('a').attr('class', 'boat');
+			}
+			list.selectAll('a')
+				.attr('class', function (d) {
+					return 'boat' + (!match_boats(d, val) ? ' hidden' : '');
+				});
+			if (list.selectAll('a:not(.hidden)')[0].length == 1) {
+				plot.render(list.selectAll('a:not(.hidden)').data()[0])
+			}
+		});
 	</script>
 </body>
 </html>
