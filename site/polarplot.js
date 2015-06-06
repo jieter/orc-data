@@ -1,5 +1,25 @@
 var deg2rad = Math.PI / 180;
 
+function zeros (n) {
+	return Array.apply(null, new Array(n)).map(function () { return 0.0; });
+}
+window.polarexport = function (data) {
+	data = data.vpp;
+	console.log(data);
+
+	var ret = ['twa/tws;' + data.speeds.join(';')];
+	ret.push(zeros(data.speeds.length + 1));
+
+	data.angles.forEach(function (angle, i) {
+		var row = [angle];
+		data.speeds.forEach(function (speed) {
+			row.push(data[speed][i]);
+		});
+		ret.push(row.join(';'));
+	});
+
+	return ret.join('\n');
+}
 window.polarplot = function (container) {
 
 	var width = 300,
@@ -74,8 +94,11 @@ window.polarplot = function (container) {
 				['meta-label', 'type', data.boat.type],
 				['meta-label', 'lengte', data.boat.sizes.loa + 'm'],
 				['meta-label', 'diepgang', data.boat.sizes.draft + 'm'],
+				['meta-label', 'polar (csv)', '<textarea>' + polarexport(data) + '</textarea>'],
 			]).enter().append('div').attr('class', 'meta-item');
 
+		console.log(data);
+		console.log(polarexport(data));
 		meta.selectAll('.meta-item').html(function (d) {
 			if (typeof d == 'string') {
 				return d;

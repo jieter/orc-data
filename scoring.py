@@ -46,6 +46,7 @@ def parse_rms(filename):
             ret = {
                 'vpp': {
                     'angles': WIND_ANGLES,
+                    'speeds': WIND_SPEEDS,
                 },
                 'name': data['NAME'],
                 'sailnumber': data['SAILNUMB'],
