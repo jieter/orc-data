@@ -63,8 +63,8 @@ def parse_rms(filename):
                     'year': data['YEAR'],
                     'sizes': {
                         'loa': float(data['LOA']),
-                        'beam': float(data['BMAX']),
-                        'draft': float(data['DRAFT']),
+                        'beam': round(float(data['BMAX']), 2),
+                        'draft': round(float(data['DRAFT']), 2),
                         'displacement': float(data['DSPL']),
                         'genoa': float(data['GENOA']),
                         'main': float(data['MAIN']),
