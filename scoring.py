@@ -23,6 +23,7 @@ def log(*args, **kwargs):
 def time_allowance2speed(arg):
     return round(3600 / float(arg), 2)
 
+
 def format_data(data):
     ret = {
         'sailnumber': data['SAILNUMB'].replace(' ', ''),
@@ -63,6 +64,7 @@ def format_data(data):
 
     return ret
 
+
 def parse_rms(filename):
     with open(filename) as rms:
         header_row = rms.readline()
@@ -83,8 +85,7 @@ def parse_rms(filename):
                 start += length
             return dict(zip(header_names, values))
 
-
-        return [format_data(parse_row(row)) for row in rms if len(row.strip()) > 1000]
+        return [parse_row(row) for row in rms if len(row.strip()) > 1000]
 
 
 def select(boats, key, value):
@@ -116,12 +117,14 @@ if __name__ == '__main__':
 
         elif sys.argv[1] == 'json':
             import json
+
+            data = map(format_data, rms)
             if len(sys.argv) == 3:
                 # use ./scoring.py json <sailnumber> for a single boat.
                 sailno = sys.argv[2]
-                data = select(rms, 'sailnumber', sailno)
+                data = select(data, 'sailnumber', sailno)
                 print(json.dumps(data, indent=2))
             else:
-                data = sorted(rms, key=lambda x: x['name'])
+                data = sorted(data, key=lambda x: x['name'])
                 print(json.dumps(data))
             log('Exported to json')
