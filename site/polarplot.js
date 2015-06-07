@@ -18,14 +18,15 @@ window.polarexport = function (data) {
 }
 window.polarplot = function (container) {
 
+	var containerElement = document.getElementById(container.substring(1));
 	var width = function() {
-		return document.getElementById(container.substring(1)).offsetWidth - 20;
+		return containerElement.offsetWidth - 40;
 	};
 	var height = function () {
-		return Math.min(width() * 2, 700);
+		return width() * 2;
 	};
 	var radius = function () {
-		return width() - 60;
+		return Math.min(550, width() - 80);
 	};
 
 	var r = d3.scale.linear().domain([0, 10]).range([0, radius()]);
@@ -35,10 +36,11 @@ window.polarplot = function (container) {
 		.append('g')
 		.attr('transform', 'translate(' + 10 + ',' + (height() / 2) + ')');
 
+	// speed rings
 	var gr = svg.append('g')
 		.attr('class', 'r axis')
 		.selectAll('g')
-			.data(r.ticks(5).slice(1))
+			.data(r.ticks(10).slice(1))
 			.enter().append('g');
 
 	gr.append('circle').attr('r', r);
@@ -47,13 +49,14 @@ window.polarplot = function (container) {
 		.attr('y', function(d) { return -r(d) - 4; })
 		.attr('transform', 'rotate(15)')
 		.style('text-anchor', 'middle')
-		.text(function(d) { return d + 'kts'; });
+		.text(function(d) { return d % 2 == 0 ? d + 'kts' : ''; });
 
 
+	// wind direction
 	var graph = svg.append('g')
 		.attr('class', 'a axis')
 		.selectAll('g')
-			.data([0, 52, 60, 75, 90, 110, 120, 135, 150].map(function (d) { return d - 90; }))
+			.data([0, 52, 60, 75, 90, 110, 120, 135, 150, 165].map(function (d) { return d - 90; }))
 				.enter().append('g')
 					.attr('transform', function(d) { return 'rotate(' + d + ')'; });
 
@@ -74,7 +77,8 @@ window.polarplot = function (container) {
 
 	var line = d3.svg.line.radial()
 		.radius(function(d) { return r(d[1]); })
-		.angle(function(d) { return d[0]; }); //.interpolate('cardinal');
+		.angle(function(d) { return d[0]; })
+		.interpolate('cardinal');
 
 	var meta = d3.select('#meta').append('div').attr('class', 'meta');
 
@@ -132,6 +136,7 @@ window.polarplot = function (container) {
 	plot.resize = function () {
 
 		if (width() != originalSize) {
+			console.log('resize', width());
 			d3.select(container).attr({
 				width: width(),
 				height: height()

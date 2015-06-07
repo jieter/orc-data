@@ -6,16 +6,16 @@ Omdat de VPP ook wel zinnig is voor anderen, heb ik dit tooltje gemaakt.
 
 
 
-## Gebruikte afkortingen
+## Header names:
 
-voor `<wind>`:  [6, 8, 10, 12, 14, 16, 20]
-voor `<angle>`:  [52, 60, 75, 90, 110, 120, 135, 150]
+for `<wind>`:  [6, 8, 10, 12, 14, 16, 20]
+for `<angle>`:  [52, 60, 75, 90, 110, 120, 135, 150]
 
 - `WL6` Windward / Leeward @ 6kts
 - `OL6` ??
-- `CR6` Circular random @6kts
-- `NSP6` Non spinnaker @6kts
-- `OC6` Ocean for PCS
+- `CR6`(`CR<wind>`) Circular random @6kts
+- `NSP6` (`NSP<wind>`) Non spinnaker @6kts
+- `OC6` (`OC<wind>`) Ocean for PCS
 
 ### VPP:
  - `UA6` (`UA<wind>`) Beat angles
@@ -33,3 +33,6 @@ voor `<angle>`:  [52, 60, 75, 90, 110, 120, 135, 150]
 
 ## Links
  - [Uitleg over certificaat op orc.org](http://orc.org/index.asp?id=23)
+ - OpenCPN book: [weather routing plugin](http://opencpn.org/ocpn/book/export/html/267)
+ - Collapse sidebar (http://www.bootply.com/mL7j0aOINa)
+ - Bootstrap toggle switch (interpolation on/off) http://www.bootstraptoggle.com/
