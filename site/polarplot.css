@@ -18,3 +18,89 @@ svg text {
     stroke: red;
     stroke-width: 1.5px;
 }
+
+.meta span.meta-label {
+    font-weight: 200;
+    font-size: 14px;
+    color: #aaa;
+    padding: 0;
+    display: inline-block;
+    min-width: 100px;
+
+}
+input { margin-bottom: 2px; }
+.meta-item h2 { margin-top: 2px; }
+
+.meta-item textarea {
+    width: 100%;
+    height: 150px;
+    font-family: monospace;
+    font-size: 10px;
+}
+.meta-label.polar {
+    margin-top: 50px;
+}
+
+.sailnumber {
+    color: #555;
+}
+h2 .sailnumber { font-size: 13px; }
+.type {
+    color: #aaa;
+    size: 10px;
+}
+
+textarea {
+    max-width: 500px;
+}
+body, html, .row-offcanvas {
+    height:100%;
+}
+
+body {
+    padding-top: 50px;
+}
+
+#sidebar {
+    width: inherit;
+    min-width: 220px;
+    max-width: 220px;
+    background-color:#f5f5f5;
+    float: left;
+    height:100%;
+    position:relative;
+    overflow-y:auto;
+    overflow-x:hidden;
+}
+#main {
+    height: 100%;
+    overflow: auto;
+    padding-top: 5px;
+}
+
+/*
+ * off Canvas sidebar
+ * --------------------------------------------------
+ */
+@media screen and (max-width: 768px) {
+    .row-offcanvas {
+        position: relative;
+        -webkit-transition: all 0.25s ease-out;
+        -moz-transition: all 0.25s ease-out;
+        transition: all 0.25s ease-out;
+        width:calc(100% + 220px);
+    }
+
+    .row-offcanvas-left	{
+        left: -220px;
+    }
+
+    .row-offcanvas-left.active {
+        left: 0;
+    }
+
+    .sidebar-offcanvas {
+        position: absolute;
+        top: 0;
+    }
+}

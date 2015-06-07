@@ -23,7 +23,7 @@ window.polarplot = function (container) {
 		return containerElement.offsetWidth - 40;
 	};
 	var height = function () {
-		return width() * 2;
+		return Math.min(700, width() * 2);
 	};
 	var radius = function () {
 		return Math.min(550, width() - 80);
@@ -34,7 +34,7 @@ window.polarplot = function (container) {
 	var svg = d3.select(container).append('svg')
 		.attr({width: width(), height: height()})
 		.append('g')
-		.attr('transform', 'translate(' + 10 + ',' + (height() / 2) + ')');
+		.attr('transform', 'translate(' + 10 + ',' + (height() / 2.1) + ')');
 
 	// speed rings
 	var gr = svg.append('g')
@@ -56,7 +56,7 @@ window.polarplot = function (container) {
 	var graph = svg.append('g')
 		.attr('class', 'a axis')
 		.selectAll('g')
-			.data([0, 52, 60, 75, 90, 110, 120, 135, 150, 165].map(function (d) { return d - 90; }))
+			.data([0, 45, 52, 60, 75, 90, 110, 120, 135, 150, 165].map(function (d) { return d - 90; }))
 				.enter().append('g')
 					.attr('transform', function(d) { return 'rotate(' + d + ')'; });
 
@@ -109,10 +109,10 @@ window.polarplot = function (container) {
 		lines.transition().duration(200).attr('d', line);
 		lines.exit().remove();
 
+		d3.select('#name').html(data.name);
 		meta.selectAll('.meta-item')
 			.data([
-				['sailnumber', data.sailnumber],
-				'<h2>' + data.name + '</h2>',
+				['meta-label', 'sailnumber', data.sailnumber],
 				['meta-label', 'type', data.boat.type],
 				['meta-label', 'lengte', data.boat.sizes.loa + 'm'],
 				['meta-label', 'diepgang', data.boat.sizes.draft + 'm'],
@@ -137,7 +137,7 @@ window.polarplot = function (container) {
 
 		if (width() != originalSize) {
 			console.log('resize', width());
-			d3.select(container).attr({
+			d3.select('svg').attr({
 				width: width(),
 				height: height()
 			});
