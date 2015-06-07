@@ -1,85 +1,81 @@
 svg text {
-    font: 10px sans-serif;
+	font: 10px sans-serif;
 }
 
 .axis line,	.axis circle {
-    fill: none;
-    stroke: #777;
-    stroke-dasharray: 1,4;
+	fill: none;
+	stroke: #777;
+	stroke-dasharray: 1,4;
 }
 
 .axis :last-of-type circle {
-    stroke: #333;
-    stroke-dasharray: none;
+	stroke: #333;
+	stroke-dasharray: none;
 }
 
 .line {
-    fill: none;
-    stroke: red;
-    stroke-width: 1.5px;
+	fill: none;
+	stroke: red;
+	stroke-width: 1.5px;
 }
 
 .meta span.meta-label {
-    font-weight: 200;
-    font-size: 14px;
-    color: #aaa;
-    padding: 0;
-    display: inline-block;
-    min-width: 100px;
+	font-weight: 200;
+	font-size: 14px;
+	color: #aaa;
+	padding: 0;
+	display: inline-block;
+	min-width: 100px;
 
 }
 input { margin-bottom: 2px; }
 .meta-item h2 { margin-top: 2px; }
 
 .meta-item textarea {
-    width: 100%;
-    height: 150px;
-    font-family: monospace;
-    font-size: 10px;
+	width: 100%;
+	height: 150px;
+	font-family: monospace;
+	font-size: 10px;
 }
 .meta-label.polar {
-    margin-top: 50px;
+	margin-top: 50px;
 }
 
 .sailnumber {
-    color: #555;
+	color: #555;
 }
 h2 .sailnumber { font-size: 13px; }
 .type {
-    color: #aaa;
-    size: 10px;
+	color: #aaa;
+	size: 10px;
 }
 
 #main-nav {
-    margin-bottom: 5px;
+	margin-bottom: 5px;
 }
 .sidebar-toggle {
-    margin-top: 25px;
+	margin-top: 25px;
 }
 textarea {
-    max-width: 500px;
+	max-width: 500px;
 }
 body, html, .row-offcanvas {
-    height:100%;
-}
-
-body {
-    /*padding-top: 50px;*/
+	height: 100%;
 }
 
 #sidebar {
-    width: inherit;
-    min-width: 220px;
-    max-width: 220px;
-    float: left;
-    height:100%;
-    position:relative;
-    overflow-y:auto;
-    overflow-x:hidden;
+	width: inherit;
+	min-width: 250px;
+	max-width: 250px;
+	float: left;
+	height: 100%;
+	position: relative;
+	overflow-y: auto;
+	overflow-x: hidden;
 }
 #main {
-    overflow: auto;
-    padding-top: 5px;
+	overflow: auto;
+	padding-top: 5px;
 }
 
 /*
@@ -87,24 +83,49 @@ body {
  * --------------------------------------------------
  */
 @media screen and (max-width: 768px) {
-    .row-offcanvas {
-        position: relative;
-        -webkit-transition: all 0.25s ease-out;
-        -moz-transition: all 0.25s ease-out;
-        transition: all 0.25s ease-out;
-        width:calc(100% + 220px);
-    }
+	.row-offcanvas {
+		position: relative;
+		-webkit-transition: all 0.25s ease-out;
+		-moz-transition: all 0.25s ease-out;
+		transition: all 0.25s ease-out;
+		width:calc(100% + 250px);
+	}
 
-    .row-offcanvas-left	{
-        left: -220px;
-    }
+	.row-offcanvas-left	{
+		left: -250px;
+	}
 
-    .row-offcanvas-left.active {
-        left: 0;
-    }
+	.row-offcanvas-left.active {
+		left: 0;
+	}
 
-    .sidebar-offcanvas {
-        position: absolute;
-        top: 0;
-    }
+	.sidebar-offcanvas {
+		position: absolute;
+		top: 0;
+	}
+}
+
+.glyphicon-spin {
+	-webkit-animation: spin 1000ms infinite linear;
+	animation: spin 1000ms infinite linear;
+}
+@-webkit-keyframes spin {
+	0% {
+		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+	100% {
+		-webkit-transform: rotate(359deg);
+		transform: rotate(359deg);
+	}
+}
+@keyframes spin {
+	0% {
+		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+	100% {
+		-webkit-transform: rotate(359deg);
+		transform: rotate(359deg);
+	}
 }

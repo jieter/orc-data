@@ -23,10 +23,10 @@ window.polarplot = function (container) {
 		return containerElement.offsetWidth - 40;
 	};
 	var height = function () {
-		return Math.min(700, width() * 2);
+		return Math.min(window.innerHeight / 1.5, width() * 2);
 	};
 	var radius = function () {
-		return Math.min(550, width() - 80);
+		return Math.min(window.innerHeight / 2.5, width() - 80);
 	};
 
 	var r = d3.scale.linear().domain([0, 10]).range([0, radius()]);
@@ -34,7 +34,7 @@ window.polarplot = function (container) {
 	var svg = d3.select(container).append('svg')
 		.attr({width: width(), height: height()})
 		.append('g')
-		.attr('transform', 'translate(' + 10 + ',' + (height() / 2.1) + ')');
+		.attr('transform', 'translate(' + 10 + ',' + (height() / 2 + 20) + ')');
 
 	// speed rings
 	var gr = svg.append('g')
