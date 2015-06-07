@@ -9,7 +9,7 @@
 	<link rel="stylesheet" href="polarplot.css">
 </head>
 <body>
-	<div class="navbar navbar-default navbar-fixed-top" role="navigation" id="main-nav">
+	<div class="navbar navbar-default navbar-static-top" role="navigation" id="main-nav">
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navigation">
 				<span class="sr-only">Toggle navigation</span>
@@ -19,7 +19,7 @@
 			</button>
 			<a class="navbar-brand">ORC sailboat data (NED)</a>
 		</div>
-		<div class="collapse navbar-collapse">
+		<div class="collapse navbar-collapse" id="main-navigation">
 			<form class="navbar-form navbar-left" role="search">
         		<div class="input-group">
 					<input type="text" class="form-control" placeholder="naam, type, eigenaar of zeilnummer..." />
@@ -47,12 +47,12 @@
 		<div id="main">
 			<div class="col-md-12">
 				<div class="row">
-					<div class="visible-xs col-xs-1">
-						<button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">
-							<i class="glyphicon glyphicon-chevron-left"></i>
+					<div class="visible-xs col-xs-1 sidebar-toggle">
+						<button type="button" class="btn btn-primary btn-sm" data-toggle="offcanvas">
+							<i class="glyphicon glyphicon-menu-hamburger"></i>
 						</button>
 					</div>
-					<h1 class="col-md-offset-6 col-sm-6 col-xs-10" id="name">
+					<h1 class="col-sm-offset-6 col-sm-6 col-xs-10" id="name">
 						Bootnaam
 					</h1>
 				</div>
@@ -68,7 +68,7 @@
 	<script src="polarplot.js"></script>
 
 	<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
-	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.js"></script>
 	<script>
 		$(document).ready(function() {
 			$('[data-toggle=offcanvas]').click(function() {

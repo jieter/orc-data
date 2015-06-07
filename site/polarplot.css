@@ -50,6 +50,9 @@ h2 .sailnumber { font-size: 13px; }
     size: 10px;
 }
 
+.sidebar-toggle {
+    margin-top: 25px;
+}
 textarea {
     max-width: 500px;
 }
@@ -58,14 +61,13 @@ body, html, .row-offcanvas {
 }
 
 body {
-    padding-top: 50px;
+    /*padding-top: 50px;*/
 }
 
 #sidebar {
     width: inherit;
     min-width: 220px;
     max-width: 220px;
-    background-color:#f5f5f5;
     float: left;
     height:100%;
     position:relative;
@@ -73,7 +75,6 @@ body {
     overflow-x:hidden;
 }
 #main {
-    height: 100%;
     overflow: auto;
     padding-top: 5px;
 }
