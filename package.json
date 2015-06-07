@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "bundle": "browserify site/index.js --debug | exorcist site/bundle.js.map > site/bundle.js",
+    "bundle": "browserify site/index.js -o site/bundle.js",
     "watchify": "watchify site/index.js -o 'exorcist site/bundle.js.map > site/bundle.js' -d",
     "lint": "eslint site/src/ site/index.js"
   },

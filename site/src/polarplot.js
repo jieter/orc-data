@@ -38,7 +38,6 @@ module.exports = function polarplot(container) {
 		.style('text-anchor', 'middle')
 		.text(function(d) { return d % 2 === 0 ? d + 'kts' : ''; });
 
-
 	// wind direction
 	var graph = svg.append('g')
 		.attr('class', 'a axis')
@@ -50,8 +49,7 @@ module.exports = function polarplot(container) {
 	graph.append('line').attr('x2', radius());
 
 	var xaxis = function (sel) {
-		sel
-		.attr('x', radius() + 6)
+		sel.attr('x', radius() + 6)
 		.attr('dy', '.35em')
 		.style('text-anchor', function(d) { return d < 270 && d > 90 ? 'end' : null; })
 		.attr('transform', function(d) { return d < 270 && d > 90 ? 'rotate(180 ' + (radius() + 6) + ', 0)' : null; })
@@ -123,26 +121,26 @@ module.exports = function polarplot(container) {
 	};
 	var originalSize = width();
 	plot.resize = function () {
-
-		if (width() !== originalSize) {
-			d3.select('svg').attr({
-				width: width(),
-				height: height()
-			});
-
-			r.range([0, radius()]);
-
-			gr.selectAll('.axis.r circle').attr('r', r);
-			gr.selectAll('.axis.r text').attr('y', function(d) { return -r(d) - 4; });
-
-			graph.selectAll('line').attr('x2', radius());
-			svg.selectAll('.xlabel').call(xaxis);
-
-			svg.selectAll('.line')
-				.transition().duration(200).attr('d', line);
-
-			originalSize = width();
+		if (width() === originalSize) {
+			return;
 		}
+		d3.select('svg').attr({
+			width: width(),
+			height: height()
+		});
+
+		r.range([0, radius()]);
+
+		gr.selectAll('.axis.r circle').attr('r', r);
+		gr.selectAll('.axis.r text').attr('y', function(d) { return -r(d) - 4; });
+
+		graph.selectAll('line').attr('x2', radius());
+		svg.selectAll('.xlabel').call(xaxis);
+
+		svg.selectAll('.line')
+			.transition().duration(200).attr('d', line);
+
+		originalSize = width();
 	};
 
 	return plot;
