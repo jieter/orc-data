@@ -59,8 +59,11 @@ def format_data(data):
     for twa in WIND_ANGLES:
         ret['vpp'][twa] = [time_allowance2speed(data['R%d%d' % (twa, tws)]) for tws in WIND_SPEEDS]
 
-    ret['vpp']['ua'] = [float(data['UA%d' % tws]) for tws in WIND_SPEEDS]
+    ret['vpp']['beat_angle'] = [float(data['UA%d' % tws]) for tws in WIND_SPEEDS]
     ret['vpp']['beat_vmg'] = [time_allowance2speed(data['UP%d' % tws]) for tws in WIND_SPEEDS]
+
+    ret['vpp']['run_angle'] = [float(data['DA%d' % tws]) for tws in WIND_SPEEDS]
+    ret['vpp']['run_vmg'] = [time_allowance2speed(data['D%d' % tws]) for tws in WIND_SPEEDS]
 
     return ret
 

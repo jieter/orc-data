@@ -74,21 +74,30 @@ window.polarplot = function (container) {
 
 	var line = d3.svg.line.radial()
 		.radius(function(d) { return r(d[1]); })
-		.angle(function(d) { return d[0]; });
+		.angle(function(d) { return d[0]; }); //.interpolate('cardinal');
 
-	var meta = d3.select('#meta').append('div')
-		.attr('class', 'meta');
+	var meta = d3.select('#meta').append('div').attr('class', 'meta');
 
 	var plot = function () {};
 	plot.render = function (data) {
 		var vpp_angles = data.vpp.angles.map(function (d) { return d * deg2rad; });
 
 		var vpp_data = data.vpp.speeds.map(function (windspeed, i) {
-			return d3.zip(vpp_angles, data.vpp.angles.map(function (angle) {
+			var series = d3.zip(vpp_angles, data.vpp.angles.map(function (angle) {
 				return data.vpp[angle][i];
 			}));
-		});
+			// prepend beat angle/VMG
+			var beat_angle = data.vpp.beat_angle[i] * deg2rad;
+			var beat_speed = data.vpp.beat_vmg[i] / Math.cos(beat_angle);
+			series.unshift([beat_angle, beat_speed]);
 
+			// append run angle/VMG
+			var run_angle = data.vpp.run_angle[i] * deg2rad;
+			var run_speed = data.vpp.run_vmg[i] / -Math.cos(run_angle);
+			series.push([run_angle, run_speed]);
+
+			return series;
+		});
 		var lines = svg.selectAll('.line').data(vpp_data);
 
 		lines.enter().append('path').attr('class', 'line');
@@ -123,7 +132,10 @@ window.polarplot = function (container) {
 	plot.resize = function () {
 
 		if (width() != originalSize) {
-			d3.select(container).attr({width: width(), height: height()});
+			d3.select(container).attr({
+				width: width(),
+				height: height()
+			});
 
 			r.range([0, radius()]);
 
