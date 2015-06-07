@@ -50,6 +50,9 @@ h2 .sailnumber { font-size: 13px; }
     size: 10px;
 }
 
+#main-nav {
+    margin-bottom: 5px;
+}
 .sidebar-toggle {
     margin-top: 25px;
 }

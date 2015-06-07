@@ -102,6 +102,7 @@
 					.attr({href: function (d) { return '#' + d.sailnumber}, class: 'boat'})
 					.on('click', function (d) {
 						plot.render(d);
+						$('.row-offcanvas').removeClass('active');
 					})
 					.html(function (d) {
 						return '<span class="sailnumber">' + d.sailnumber + '</span> ' + d.name +
