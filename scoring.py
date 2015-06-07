@@ -20,15 +20,55 @@ def log(*args, **kwargs):
     print(*args, **kwargs)
 
 
+def time_allowance2speed(arg):
+    return round(3600 / float(arg), 2)
+
+def format_data(data):
+    ret = {
+        'sailnumber': data['SAILNUMB'].replace(' ', ''),
+        'name': data['NAME'],
+        'owner': data['OWNER'],
+        'rating': {
+            'gph': float(data['GPH']),
+            'triple_offshore': map(float, [data['OTNLOW'], data['OTNMED'], data['OTNHIG']]),
+            'triple_inshore': map(float, [data['ITNLOW'], data['ITNMED'], data['ITNHIG']]),
+        },
+        'boat': {
+            'builder': data['BUILDER'],
+            'type': data['TYPE'],
+            'designer': data['DESIGNER'],
+            'year': data['YEAR'],
+            'sizes': {
+                'loa': float(data['LOA']),
+                'beam': round(float(data['BMAX']), 2),
+                'draft': round(float(data['DRAFT']), 2),
+                'displacement': float(data['DSPL']),
+                'genoa': float(data['GENOA']),
+                'main': float(data['MAIN']),
+                'spinnaker': float(data['SYM']),
+                'spinnaker_asym': float(data['ASYM']),
+            },
+        },
+        # 'raw': data,
+    }
+    ret['vpp'] = {
+        'angles': WIND_ANGLES,
+        'speeds': WIND_SPEEDS,
+    }
+    for twa in WIND_ANGLES:
+        ret['vpp'][twa] = [time_allowance2speed(data['R%d%d' % (twa, tws)]) for tws in WIND_SPEEDS]
+
+    ret['vpp']['ua'] = [float(data['UA%d' % tws]) for tws in WIND_SPEEDS]
+    ret['vpp']['beat_vmg'] = [time_allowance2speed(data['UP%d' % tws]) for tws in WIND_SPEEDS]
+
+    return ret
+
 def parse_rms(filename):
     with open(filename) as rms:
         header_row = rms.readline()
 
         header_names = header_row.split()
         header = zip(header_names, map(len, re.findall(r"([0-9a-zA-Z_.\:-]+\s+)", header_row)))
-
-        def time_allowance2speed(arg):
-            return round(3600 / float(arg), 2)
 
         def parse_row(row):
             values = []
@@ -41,52 +81,15 @@ def parse_rms(filename):
                     sys.exit(1)
                 values.append(value)
                 start += length
-            data = dict(zip(header_names, values))
+            return dict(zip(header_names, values))
 
-            ret = {
-                'vpp': {
-                    'angles': WIND_ANGLES,
-                    'speeds': WIND_SPEEDS,
-                },
-                'rating': {
-                    'gph': float(data['GPH']),
-                    'triple_offshore': map(float, [data['OTNLOW'], data['OTNMED'], data['OTNHIG']]),
-                    'triple_inshore': map(float, [data['ITNLOW'], data['ITNMED'], data['ITNHIG']]),
-                },
-                'name': data['NAME'],
-                'sailnumber': data['SAILNUMB'].replace(' ', ''),
-                'owner': data['OWNER'],
-                'boat': {
-                    'builder': data['BUILDER'],
-                    'type': data['TYPE'],
-                    'designer': data['DESIGNER'],
-                    'year': data['YEAR'],
-                    'sizes': {
-                        'loa': float(data['LOA']),
-                        'beam': round(float(data['BMAX']), 2),
-                        'draft': round(float(data['DRAFT']), 2),
-                        'displacement': float(data['DSPL']),
-                        'genoa': float(data['GENOA']),
-                        'main': float(data['MAIN']),
-                        'spinnaker': float(data['SYM']),
-                        'spinnaker_asym': float(data['ASYM']),
-                    },
 
-                },
-                # 'raw': data,
-            }
-
-            for windspeed in WIND_SPEEDS:
-                ret['vpp'][windspeed] = [time_allowance2speed(data['R%d%d' % (twa, windspeed)]) for twa in WIND_ANGLES]
-
-            return ret
-
-        return [parse_row(row) for row in rms if len(row.strip()) > 1000]
+        return [format_data(parse_row(row)) for row in rms if len(row.strip()) > 1000]
 
 
 def select(boats, key, value):
     for boat in boats:
-        if boat[key] in (value, 'NED %s' % value):
+        if boat[key] in (value, 'NED%s' % value):
             return boat
 
     return None

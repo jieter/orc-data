@@ -135,6 +135,7 @@
 	<script>
 		var list = d3.select('#list');
 		var plot = polarplot('#chart');
+
 		function getRandomElement(arr) {
 			return arr[Math.floor(Math.random() * arr.length)];
 		}
@@ -168,7 +169,7 @@
 				plot.render(getRandomElement(response));
 			} else {
 				var sailnumber = window.location.hash.substring(1);
-				console.log(sailnumber);
+
 				response.forEach(function (boat) {
 					if (boat.sailnumber == sailnumber) {
 						plot.render(boat);
@@ -191,6 +192,9 @@
 				plot.render(list.selectAll('a:not(.hidden)').data()[0])
 			}
 		});
+		d3.select(window).on('resize', function () {
+			plot.resize();
+		})
 
 
 	</script>
