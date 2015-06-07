@@ -65,84 +65,16 @@
 	</div>
 
 	<script src="http://d3js.org/d3.v3.min.js"></script>
-	<script src="polarplot.js"></script>
 
 	<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
 	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.js"></script>
+	<script src="bundle.js"></script>
 	<script>
 		$(document).ready(function() {
 			$('[data-toggle=offcanvas]').click(function() {
 				$('.row-offcanvas').toggleClass('active');
 			});
 		});
-		var list = d3.select('#list');
-		var plot = polarplot('#chart');
-
-		function getRandomElement(arr) {
-			return arr[Math.floor(Math.random() * arr.length)];
-		}
-
-		function match_boats(data, needle) {
-			var needle = needle.toLowerCase();
-			var values = [data.name, data.sailnumber, data.owner, data.boat.type];
-
-			for (var i in values) {
-				var value = values[i];
-				if (value.toLowerCase().indexOf(needle) != -1) {
-					return true;
-				}
-			}
-		}
-
-		d3.json('../NED2015.json', function (response) {
-			list.selectAll('li')
-				.data(response)
-				.enter()
-					.append('li').append('a')
-					.attr({href: function (d) { return '#' + d.sailnumber}, class: 'boat'})
-					.on('click', function (d) {
-						plot.render(d);
-						$('.row-offcanvas').removeClass('active');
-					})
-					.html(function (d) {
-						return '<span class="sailnumber">' + d.sailnumber + '</span> ' + d.name +
-							   '<br /><span class="type">' + d.boat.type + '</span>';
-					});
-			if (window.location.hash == '') {
-				plot.render(getRandomElement(response));
-			} else {
-				var sailnumber = window.location.hash.substring(1);
-
-				response.forEach(function (boat) {
-					if (boat.sailnumber == sailnumber) {
-						plot.render(boat);
-					}
-				});
-			}
-		});
-
-		function search () {
-			var val = d3.select('input').property('value');
-
-			if (val == '') {
-				list.selectAll('a').attr('class', 'boat');
-			}
-			list.selectAll('a')
-				.attr('class', function (d) {
-					return 'boat' + (!match_boats(d, val) ? ' hidden' : '');
-				});
-			if (list.selectAll('a:not(.hidden)')[0].length == 1) {
-				plot.render(list.selectAll('a:not(.hidden)').data()[0])
-			}
-		}
-		d3.select('input').on('keyup', search);
-		d3.select('button').on('click', search);
-
-		d3.select(window).on('resize', function () {
-			plot.resize();
-		})
-
-
 	</script>
 	<script type="text/javascript">
 	  var _gaq = _gaq || [];

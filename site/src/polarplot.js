@@ -1,22 +1,9 @@
+var d3 = require('d3');
+var polarexport = require('./polar-csv.js');
+
 var deg2rad = Math.PI / 180;
 
-function zeros (n) {
-	return Array.apply(null, new Array(n)).map(function () { return 0.0; });
-}
-window.polarexport = function (data) {
-	data = data.vpp;
-
-	var ret = ['twa/tws;' + data.speeds.join(';')];
-	ret.push(zeros(data.speeds.length + 1));
-
-	data.angles.forEach(function (angle) {
-		var row = [angle].concat(data[angle]);
-		ret.push(row.join(';'));
-	});
-
-	return ret.join('\n');
-}
-window.polarplot = function (container) {
+module.exports = function polarplot(container) {
 
 	var containerElement = document.getElementById(container.substring(1));
 	var width = function() {
@@ -49,7 +36,7 @@ window.polarplot = function (container) {
 		.attr('y', function(d) { return -r(d) - 4; })
 		.attr('transform', 'rotate(15)')
 		.style('text-anchor', 'middle')
-		.text(function(d) { return d % 2 == 0 ? d + 'kts' : ''; });
+		.text(function(d) { return d % 2 === 0 ? d + 'kts' : ''; });
 
 
 	// wind direction
@@ -83,6 +70,7 @@ window.polarplot = function (container) {
 	var meta = d3.select('#meta').append('div').attr('class', 'meta');
 
 	var plot = function () {};
+
 	plot.render = function (data) {
 		var vpp_angles = data.vpp.angles.map(function (d) { return d * deg2rad; });
 
@@ -121,14 +109,14 @@ window.polarplot = function (container) {
 				['GPH', data.rating.gph],
 				['offshore TN', data.rating.triple_offshore.join(', ')],
 				['inshore TN', data.rating.triple_inshore.join(', ')],
-				['polar (csv)', '<textarea>' + polarexport(data) + '</textarea>', 'polar'],
+				['polar (csv)', '<textarea>' + polarexport(data) + '</textarea>', 'polar']
 			]).enter().append('div').attr('class', 'meta-item');
 
 		meta.selectAll('.meta-item').html(function (d) {
-			if (typeof d == 'string') {
+			if (typeof d === 'string') {
 				return d;
 			} else {
-				var className = 'meta-label' + (d.length == 3 ? ' ' + d[2] : '');
+				var className = 'meta-label' + (d.length === 3 ? ' ' + d[2] : '');
 				return '<span class="' + className + '">' + d[0] + '</span> ' +  d[1];
 			}
 		});
@@ -136,8 +124,7 @@ window.polarplot = function (container) {
 	var originalSize = width();
 	plot.resize = function () {
 
-		if (width() != originalSize) {
-			console.log('resize', width());
+		if (width() !== originalSize) {
 			d3.select('svg').attr({
 				width: width(),
 				height: height()

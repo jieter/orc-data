@@ -1,5 +1,14 @@
 {
-    "scripts": {
-        "lint": "eslint site/"
-    }
+  "scripts": {
+    "bundle": "browserify site/index.js --debug | exorcist site/bundle.js.map > site/bundle.js",
+    "watchify": "watchify site/index.js -o 'exorcist site/bundle.js.map > site/bundle.js' -d",
+    "lint": "eslint site/src/ site/index.js"
+  },
+  "devDependencies": {
+    "browserify": "^10.2.4",
+    "exorcist": "^0.4.0"
+  },
+  "dependencies": {
+    "d3": "^3.5.5"
+  }
 }
