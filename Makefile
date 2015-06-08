@@ -15,7 +15,7 @@ $(BASE).rms:
 	# Simple wget doesn't work here, the downloaded file only contains the header.
 	curl '$(URL)' $(HEADERS) --compressed > tmp.rms
 
-	# fix header alignment by replaceing in
+	# fix header alignment by replaceing it with hand crafted header
 	{ cat header.rms; tail tmp.rms -n +2; } > $(BASE).rms
 	rm tmp.rms
 
