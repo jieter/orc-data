@@ -9504,11 +9504,79 @@
   this.d3 = d3;
 }();
 },{}],2:[function(require,module,exports){
+var d3 = require('d3');
+var polarplot = require('./src/polarplot.js');
+var getRandomElement = require('./src/array-random.js');
+
+var plot = polarplot('#chart');
+
+function match_boats(data, needle) {
+	needle = needle.toLowerCase();
+	var values = [data.name, data.sailnumber, data.owner, data.boat.type];
+
+	for (var i in values) {
+		var value = values[i];
+		if (value.toLowerCase().indexOf(needle) !== -1) {
+			return true;
+		}
+	}
+}
+
+var list = d3.select('#list');
+d3.json('../NED2015.json', function (response) {
+	list.selectAll('li')
+		.data(response)
+		.enter()
+			.append('li').append('a')
+			.attr({href: function (d) { return '#' + d.sailnumber; }, class: 'boat'})
+			.on('click', function (d) {
+				plot.render(d);
+				d3.select('.row-offcanvas').classed('active', false);
+			})
+			.html(function (d) {
+				return '<span class="sailnumber">' + d.sailnumber + '</span> ' + d.name +
+					   '<br /><span class="type">' + d.boat.type + '</span>';
+			});
+	if (window.location.hash === '') {
+		plot.render(getRandomElement(response));
+	} else {
+		var sailnumber = window.location.hash.substring(1);
+
+		response.forEach(function (boat) {
+			if (boat.sailnumber === sailnumber) {
+				plot.render(boat);
+			}
+		});
+	}
+});
+
+function search() {
+	var val = d3.select('input').property('value');
+
+	if (val === '') {
+		list.selectAll('a').attr('class', 'boat');
+	}
+	list.selectAll('a')
+		.attr('class', function (d) {
+			return 'boat' + (!match_boats(d, val) ? ' hidden' : '');
+		});
+	if (list.selectAll('a:not(.hidden)')[0].length === 1) {
+		plot.render(list.selectAll('a:not(.hidden)').data()[0]);
+	}
+}
+d3.select('input').on('keyup', search);
+d3.select('button').on('click', search);
+
+d3.select(window).on('resize', function () {
+	plot.resize();
+});
+
+},{"./src/array-random.js":3,"./src/polarplot.js":5,"d3":1}],3:[function(require,module,exports){
 module.exports = function getRandomElement(arr) {
 	return arr[Math.floor(Math.random() * arr.length)];
 };
 
-},{}],3:[function(require,module,exports){
+},{}],4:[function(require,module,exports){
 
 function zeros(n) {
 	return Array.apply(null, new Array(n)).map(function () { return 0.0; });
@@ -9528,9 +9596,10 @@ module.exports = function polarexport(data) {
 	return ret.join('\n');
 };
 
-},{}],4:[function(require,module,exports){
+},{}],5:[function(require,module,exports){
 var d3 = require('d3');
-var polarexport = require('./polar-csv.js');
+var polarcsv = require('./polar-csv.js');
+var polartable = require('./polartable.js');
 
 var deg2rad = Math.PI / 180;
 
@@ -9541,10 +9610,10 @@ module.exports = function polarplot(container) {
 		return containerElement.offsetWidth - 40;
 	};
 	var height = function () {
-		return Math.min(window.innerHeight / 1.5, width() * 2);
+		return Math.min(window.innerHeight, width() * 2) - 20;
 	};
 	var radius = function () {
-		return Math.min(window.innerHeight / 2.5, width() - 80);
+		return Math.min(height() / 2.2 - 20, width()) - 40;
 	};
 
 	var r = d3.scale.linear().domain([0, 10]).range([0, radius()]);
@@ -9552,7 +9621,8 @@ module.exports = function polarplot(container) {
 	var svg = d3.select(container).append('svg')
 		.attr({width: width(), height: height()})
 		.append('g')
-		.attr('transform', 'translate(' + 10 + ',' + (height() / 2 + 20) + ')');
+		.attr('transform', 'translate(' + 10 + ',' + (height() / 2) + ')');
+
 
 	// speed rings
 	var gr = svg.append('g')
@@ -9638,7 +9708,8 @@ module.exports = function polarplot(container) {
 				['GPH', data.rating.gph],
 				['offshore TN', data.rating.triple_offshore.join(', ')],
 				['inshore TN', data.rating.triple_inshore.join(', ')],
-				['polar (csv)', '<textarea>' + polarexport(data) + '</textarea>', 'polar']
+				'<div class="table-container"></table>',
+				['polar (csv)', '<textarea>' + polarcsv(data) + '</textarea>', 'polar']
 			]).enter().append('div').attr('class', 'meta-item');
 
 		meta.selectAll('.meta-item').html(function (d) {
@@ -9649,6 +9720,7 @@ module.exports = function polarplot(container) {
 				return '<span class="' + className + '">' + d[0] + '</span> ' +  d[1];
 			}
 		});
+		polartable(meta.select('.table-container'), data);
 	};
 	var originalSize = width();
 	plot.resize = function () {
@@ -9660,6 +9732,7 @@ module.exports = function polarplot(container) {
 			height: height()
 		});
 
+		svg.attr('transform', 'translate(' + 10 + ',' + (height() / 2) + ')');
 		r.range([0, radius()]);
 
 		gr.selectAll('.axis.r circle').attr('r', r);
@@ -9677,73 +9750,39 @@ module.exports = function polarplot(container) {
 	return plot;
 };
 
-},{"./polar-csv.js":3,"d3":1}],5:[function(require,module,exports){
-var d3 = require('d3');
-var polarplot = require('./src/polarplot.js');
-var getRandomElement = require('./src/array-random.js');
+},{"./polar-csv.js":4,"./polartable.js":6,"d3":1}],6:[function(require,module,exports){
+module.exports = function polartable(container, boat) {
+	var vpp = boat.vpp;
 
-var plot = polarplot('#chart');
+	// prepare data:
+	var header = ['Wind velocity'].concat(vpp.speeds);
+	var data = [
+		['Beat angles'].concat(vpp.beat_angle),
+		['Beat VMG'].concat(vpp.beat_vmg),
+	].concat(vpp.angles.map(function (angle) {
+		return [angle + '°'].concat(vpp['' + angle]);
+	})).concat([
+		['Run VMG'].concat(vpp.run_vmg),
+		['Gybe angles'].concat(vpp.run_angle)
+	]);
 
-function match_boats(data, needle) {
-	needle = needle.toLowerCase();
-	var values = [data.name, data.sailnumber, data.owner, data.boat.type];
+	var table = container.selectAll('table').data([0]).enter()
+		.append('table')
+		.attr('class', 'table table-condensed polar-table');
 
-	for (var i in values) {
-		var value = values[i];
-		if (value.toLowerCase().indexOf(needle) !== -1) {
-			return true;
-		}
-	}
-}
+	var thead = table.selectAll('thead').data([0]).enter().append('thead');
+	var tbody = table.selectAll('tbody').data([0]).enter().append('tbody');
 
-var list = d3.select('#list');
-d3.json('../NED2015.json', function (response) {
-	list.selectAll('li')
-		.data(response)
-		.enter()
-			.append('li').append('a')
-			.attr({href: function (d) { return '#' + d.sailnumber; }, class: 'boat'})
-			.on('click', function (d) {
-				plot.render(d);
-				d3.select('.row-offcanvas').classed('active', false);
-			})
-			.html(function (d) {
-				return '<span class="sailnumber">' + d.sailnumber + '</span> ' + d.name +
-					   '<br /><span class="type">' + d.boat.type + '</span>';
-			});
-	if (window.location.hash === '') {
-		plot.render(getRandomElement(response));
-	} else {
-		var sailnumber = window.location.hash.substring(1);
+	thead.selectAll('tr').data([0]).enter().append('tr')
+		.selectAll('th').data(header).enter().append('th').text(function (d) { return d; });
 
-		response.forEach(function (boat) {
-			if (boat.sailnumber === sailnumber) {
-				plot.render(boat);
-			}
-		});
-	}
-});
+	var rows = tbody.selectAll('tr').data(data)
+		.enter().append('tr');
 
-function search() {
-	var val = d3.select('input').property('value');
+	var cells = rows.selectAll('td').data(function (d) { return d; })
+		.enter().append('td');
 
-	if (val === '') {
-		list.selectAll('a').attr('class', 'boat');
-	}
-	list.selectAll('a')
-		.attr('class', function (d) {
-			return 'boat' + (!match_boats(d, val) ? ' hidden' : '');
-		});
-	if (list.selectAll('a:not(.hidden)')[0].length === 1) {
-		plot.render(list.selectAll('a:not(.hidden)').data()[0]);
-	}
-}
-d3.select('input').on('keyup', search);
-d3.select('button').on('click', search);
+	cells.text(function (d) { return d; });
+};
 
-d3.select(window).on('resize', function () {
-	plot.resize();
-});
-
-},{"./src/array-random.js":2,"./src/polarplot.js":4,"d3":1}]},{},[5])
-//# sourceMappingURL=bundle.js.map
+},{}]},{},[2]);

@@ -31,15 +31,28 @@ svg text {
 input { margin-bottom: 2px; }
 .meta-item h2 { margin-top: 2px; }
 
+.meta-label.polar {
+	display: block !important;
+}
 .meta-item textarea {
 	width: 100%;
 	height: 150px;
+	max-width: 500px;
 	font-family: monospace;
 	font-size: 10px;
 }
-.meta-label.polar {
-	margin-top: 50px;
+
+.polar-table {
+	font-size: 12px;
+	max-width: 500px;
 }
+.polar-table tr th {
+	white-space: nowrap;
+}
+.polar-table tr td:first-child {
+	text-align: right;
+}
+
 
 .sailnumber {
 	color: #555;
