@@ -6,30 +6,73 @@ Omdat de VPP ook wel zinnig is voor anderen, heb ik dit tooltje gemaakt.
 
 
 
-## Header names:
-
-for `<wind>`:  [6, 8, 10, 12, 14, 16, 20]
-for `<angle>`:  [52, 60, 75, 90, 110, 120, 135, 150]
-
-- `WL6` Windward / Leeward @ 6kts
-- `OL6` ??
-- `CR6`(`CR<wind>`) Circular random @6kts
-- `NSP6` (`NSP<wind>`) Non spinnaker @6kts
-- `OC6` (`OC<wind>`) Ocean for PCS
-
-### VPP:
- - `UA6` (`UA<wind>`) Beat angles
- - `UP6` Beat VMG
- - `DA6` Gybe angles
- - `D6` Run VMG
- - `R526` (`R<angle><wind>`) time allowance voor 52deg @6kts wind.
-   `3600 / R526` = De te verwachten bootsnelheid bij 52deg twa 6kts tws.
 
 
-### Triple number ratings:
- - `GPH`: General purpose handicap
- - `OTNLOW`, `OTNMED`, `OTNHIG`: Offshore triple number (low, mid, high)
- - `ITNLOW`, `ITNMED`, `ITNHIG`: Inshore triple number (low, mid, high)
+## Columns in `.rms` file:
+
+for `<tws>`:  [6, 8, 10, 12, 14, 16, 20]
+
+for `<twa>`:  [52, 60, 75, 90, 110, 120, 135, 150]
+
+ - `NATCERTN.FILE_ID`
+ - `SAILNUMB` sail number
+ - `NAME` boat name
+ - `TYPE` boat type
+ - `BUILDER` boat builder
+ - `DESIGNER` boat designer
+ - `YEAR`
+ - `CLUB`
+ - `OWNER` name of owner
+ - `ADRS1`
+ - `ADRS2`
+ - `C_Type`
+ - `D`
+ - `CREW` Crew weight (kilograms)
+ - `DD_MM_yyYY HH:MM:SS`
+ - `LOA` Length over all (meters)
+ - `IMSL`
+ - `DRAFT` Draft (meters)
+ - `BMAX` Maximum beam (meters)
+ - `DSPL` Displacement (kg)
+ - `INDEX`
+ - `DA`
+ - `GPH` General purpose handicap
+ - `TMF`
+ - `ILCGA`
+ - `PLT-O`
+ - `PLD-O`
+ - `WL<tws>` Windward / Leeward @tws
+ - `OL<tws>` ?? @tws
+ - `CR<tws>` Circular random @tws
+ - `NSP<tws>` Non spinnaker circular random @tws
+ - `OC<tws>`
+ - `UA<tws>` optimal beat angle @tws (true wind angle)
+ - `DA<tws>` optimal gybe angle @tws (true wind angle)
+ - `UP<tws>` Beat VMG @tws (kts)
+ - `R<twa><tws>` Time allowance @twa/@tws (s/Nautical mile)
+ - `D<tws>` Run VMG @tws (kts)
+ - `OTNLOW` Offshore triple number low
+ - `OTNMED` Offshore triple number mid
+ - `OTNHIG` Offshore triple number high
+ - `ITNLOW` Inshore triple number low
+ - `ITNMED` Inshore triple number mid
+ - `ITNHIG` Inshore triple number high
+ - `DH_TOD`
+ - `DH_TOT`
+ - `PLT-I`
+ - `PLD-I`
+ - `TMF-OF`
+ - `PLT2H`
+ - `PLD2H`
+ - `OSN`
+ - `ReferenceNo`
+ - `CDL`
+ - `DSPS`
+ - `WSS` Wetted surface (m²)
+ - `MAIN` Maximum main sail area (m²)
+ - `GENOA` Maximum genoa area (m²)
+ - `SYM` Maximum symmetrical spinnaker area (m²)
+ - `ASYM` Maximum asymmetrical spinnaker area (m²)
 
 ## Links
  - [Uitleg over certificaat op orc.org](http://orc.org/index.asp?id=23)
