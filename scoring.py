@@ -129,5 +129,5 @@ if __name__ == '__main__':
                 print(json.dumps(data, indent=2))
             else:
                 data = sorted(data, key=lambda x: x['name'])
-                print(json.dumps(data))
+                print(json.dumps(data, separators=(',', ':')))
             log('Exported to json')
