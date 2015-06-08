@@ -16,7 +16,11 @@ svg text {
 .line {
 	fill: none;
 	stroke: red;
-	stroke-width: 1.5px;
+	stroke-width: 1px;
+}
+.vmg-run, .vmg-beat {
+	stroke: steelblue;
+	fill: white;
 }
 
 .meta span.meta-label {

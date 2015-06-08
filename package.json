@@ -1,7 +1,7 @@
 {
   "scripts": {
     "bundle": "browserify site/index.js -o site/bundle.js",
-    "watchify": "watchify site/index.js -o 'exorcist site/bundle.js.map > site/bundle.js' -d",
+    "watchify": "watchify site/index.js -o 'exorcist site/bundle.js.map > site/bundle.js' -vd",
     "lint": "eslint site/src/ site/index.js"
   },
   "devDependencies": {

@@ -24,7 +24,6 @@ module.exports = function polarplot(container) {
 		.append('g')
 		.attr('transform', 'translate(' + 10 + ',' + (height() / 2) + ')');
 
-
 	// speed rings
 	var gr = svg.append('g')
 		.attr('class', 'r axis')
@@ -67,12 +66,24 @@ module.exports = function polarplot(container) {
 		.angle(function(d) { return d[0]; })
 		.interpolate('cardinal');
 
+	var scatter = function (s) {
+		s.attr({
+			// x: function(d) { return r(d[1]) * Math.sin(d[0]); },
+			// y: function(d) { return r(d[1]) * -Math.cos(d[0]); },
+			transform: function (d) {
+				return 'translate(' + (r(d[1]) * Math.sin(d[0])) + ', ' + (r(d[1]) * -Math.cos(d[0])) + ')';
+			},
+			d: d3.svg.symbol().type('diamond').size(32)
+		});
+	};
+
 	var meta = d3.select('#meta').append('div').attr('class', 'meta');
 
 	var plot = function () {};
 
 	plot.render = function (data) {
 		var vpp_angles = data.vpp.angles.map(function (d) { return d * deg2rad; });
+		var run_data = [];
 
 		var vpp_data = data.vpp.speeds.map(function (windspeed, i) {
 			var series = d3.zip(vpp_angles, data.vpp.angles.map(function (angle) {
@@ -87,15 +98,21 @@ module.exports = function polarplot(container) {
 			var run_angle = data.vpp.run_angle[i] * deg2rad;
 			var run_speed = data.vpp.run_vmg[i] / -Math.cos(run_angle);
 			series.push([run_angle, run_speed]);
+			run_data.push([run_angle, run_speed]);
 
-			return series;
+			return series.sort(function (a, b) { return a[0] - b[0]; });
 		});
+
+		var run_points = svg.selectAll('.vmg-run').data(run_data);
+		run_points.enter().append('path').attr('class', 'vmg-run');
+		run_points.exit().remove();
+		run_points.call(scatter);
+
 		var lines = svg.selectAll('.line').data(vpp_data);
-
 		lines.enter().append('path').attr('class', 'line');
-
-		lines.transition().duration(200).attr('d', line);
 		lines.exit().remove();
+		lines.transition().duration(200).attr('d', line);
+
 
 		d3.select('#name').html(data.name);
 		meta.selectAll('.meta-item')
@@ -142,8 +159,8 @@ module.exports = function polarplot(container) {
 		graph.selectAll('line').attr('x2', radius());
 		svg.selectAll('.xlabel').call(xaxis);
 
-		svg.selectAll('.line')
-			.transition().duration(200).attr('d', line);
+		svg.selectAll('.line').transition().duration(200).attr('d', line);
+		svg.selectAll('.vmg-run').transition().duration(200).call(scatter);
 
 		originalSize = width();
 	};
