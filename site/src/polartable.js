@@ -2,7 +2,7 @@ module.exports = function polartable(container, boat) {
 	var vpp = boat.vpp;
 
 	// prepare data:
-	var header = ['Wind velocity'].concat(vpp.speeds);
+	var header = ['Wind velocity'].concat(vpp.speeds.map(function (d) { return d + 'kts'; }));
 	var data = [
 		['Beat angles'].concat(vpp.beat_angle),
 		['Beat VMG'].concat(vpp.beat_vmg)
