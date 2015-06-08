@@ -9646,7 +9646,7 @@ module.exports = function polarplot(container) {
 				.enter().append('g')
 					.attr('transform', function(d) { return 'rotate(' + d + ')'; });
 
-	graph.append('line').attr('x2', radius());
+	graph.append('line').attr({x1: r(1), x2: radius()});
 
 	var xaxis = function (sel) {
 		sel.attr('x', radius() + 6)
@@ -9667,8 +9667,6 @@ module.exports = function polarplot(container) {
 
 	var scatter = function (s) {
 		s.attr({
-			// x: function(d) { return r(d[1]) * Math.sin(d[0]); },
-			// y: function(d) { return r(d[1]) * -Math.cos(d[0]); },
 			transform: function (d) {
 				return 'translate(' + (r(d[1]) * Math.sin(d[0])) + ', ' + (r(d[1]) * -Math.cos(d[0])) + ')';
 			},
