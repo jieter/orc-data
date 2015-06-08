@@ -79,6 +79,7 @@ textarea {
 body, html, .row-offcanvas {
 	height: 100%;
 }
+body { padding-top: 50px; }
 
 #sidebar {
 	width: inherit;
@@ -91,7 +92,8 @@ body, html, .row-offcanvas {
 	overflow-x: hidden;
 }
 #main {
-	overflow: auto;
+	overflow-y: auto;
+	height: 100%;
 	padding-top: 5px;
 }
 
@@ -105,7 +107,7 @@ body, html, .row-offcanvas {
 		-webkit-transition: all 0.25s ease-out;
 		-moz-transition: all 0.25s ease-out;
 		transition: all 0.25s ease-out;
-		width:calc(100% + 250px);
+		width: calc(100% + 250px);
 	}
 
 	.row-offcanvas-left	{
