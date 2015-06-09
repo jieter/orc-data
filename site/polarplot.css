@@ -1,4 +1,4 @@
-svg text {
+svg .axis text {
 	font: 10px sans-serif;
 }
 
@@ -16,10 +16,22 @@ svg text {
 .line {
 	fill: none;
 	stroke: red;
-	stroke-width: 1px;
+	stroke-width: 1.5px;
 }
+.legend rect {
+	fill: white;
+	stroke: black;
+	opacity: 0.8;
+}
+.tws-6 { stroke: #1f77b4; }
+.tws-8 { stroke: #ff7f0e; }
+.tws-10 { stroke: #2ca02c; }
+.tws-12 { stroke: #d62728; }
+.tws-14 { stroke: #9467bd; }
+.tws-16 { stroke: #17becf; }
+.tws-20 { stroke: #e377c2; }
+
 .vmg-run, .vmg-beat {
-	stroke: steelblue;
 	fill: white;
 }
 
