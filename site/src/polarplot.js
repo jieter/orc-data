@@ -11,7 +11,7 @@ module.exports = function polarplot(container) {
 		if (window.innerWidth < 768) {
 			return window.innerHeight;
 		} else {
-			return Math.min(window.innerHeight - 60 , width() * 2);
+			return Math.min(window.innerHeight - 60, width() * 2);
 		}
 	};
 	var radius = function () { return Math.min(height() / 2.2 - 20, width()) - 40; };
@@ -81,7 +81,7 @@ module.exports = function polarplot(container) {
 	var updateLegend = function (sel) {
 		sel.call(d3.legend)
 			.attr('transform', 'translate(' + (width() - 70) + ', ' + (-height() / 2 + 20) + ')');
-	}
+	};
 
 	var plot = function () {};
 
