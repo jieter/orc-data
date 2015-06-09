@@ -6,8 +6,14 @@ var deg2rad = Math.PI / 180;
 module.exports = function polarplot(container) {
 
 	var containerElement = document.getElementById(container.substring(1));
-	var width = function() { return containerElement.offsetWidth - 40; };
-	var height = function () { return Math.min(window.innerHeight, width() * 2) - 20; };
+	var width = function() { return containerElement.offsetWidth - 20; };
+	var height = function () {
+		if (window.innerWidth < 768) {
+			return window.innerHeight;
+		} else {
+			return Math.min(window.innerHeight - 60 , width() * 2);
+		}
+	};
 	var radius = function () { return Math.min(height() / 2.2 - 20, width()) - 40; };
 
 	var svg = d3.select(container).append('svg')
@@ -70,8 +76,12 @@ module.exports = function polarplot(container) {
 		});
 	};
 
-	var legend = svg.append('g').attr('class', 'legend')
-		.attr('transform', 'translate(2, -20)');
+	var legend = svg.append('g').attr('class', 'legend');
+
+	var updateLegend = function (sel) {
+		sel.call(d3.legend)
+			.attr('transform', 'translate(' + (width() - 70) + ', ' + (-height() / 2 + 20) + ')');
+	}
 
 	var plot = function () {};
 
@@ -90,6 +100,7 @@ module.exports = function polarplot(container) {
 			var series = d3.zip(vpp_angles, data.vpp.angles.map(function (angle) {
 				return data.vpp[angle][i];
 			}));
+
 			var vmg2sog = function (beat_angle, vmg) {
 				var angle = beat_angle * deg2rad;
 				var speed = vmg / Math.cos(angle);
@@ -120,7 +131,7 @@ module.exports = function polarplot(container) {
 		lines.exit().remove();
 		lines.transition().duration(200).attr('d', line);
 
-		legend.call(d3.legend);
+		legend.call(updateLegend);
 	};
 
 
@@ -143,7 +154,7 @@ module.exports = function polarplot(container) {
 		graph.selectAll('line').attr('x2', radius());
 		svg.selectAll('.xlabel').call(xaxis);
 
-		legend.call(d3.legend);
+		legend.call(updateLegend);
 
 		svg.selectAll('.line').transition().duration(200).attr('d', line);
 		svg.selectAll('.vmg-run').transition().duration(200).call(scatter);

@@ -9576,6 +9576,271 @@
   this.d3 = d3;
 }();
 },{}],3:[function(require,module,exports){
+module.exports = function getRandomElement(arr) {
+	return arr[Math.floor(Math.random() * arr.length)];
+};
+
+},{}],4:[function(require,module,exports){
+var d3 = require('d3');
+
+var polarcsv = require('./polar-csv.js');
+var polartable = require('./polartable.js');
+
+var meta = d3.select('#meta').attr('class', 'meta');
+
+module.exports = function render_metadata(boat) {
+	d3.select('#name').html(boat.name || '<span class="text-muted">Geen naam bekend</span>');
+
+	meta.selectAll('.meta-item')
+		.data([
+			['zeilnummer', boat.sailnumber],
+			['type', boat.boat.type],
+			['lengte', boat.boat.sizes.loa + 'm'],
+			['diepgang', boat.boat.sizes.draft + 'm'],
+			['breedte', boat.boat.sizes.beam + 'm'],
+			'<br />',
+			['GPH', boat.rating.gph],
+			['offshore TN', boat.rating.triple_offshore.join(', ')],
+			['inshore TN', boat.rating.triple_inshore.join(', ')],
+			'<div class="table-container"></table>',
+			['polar (csv)', '<textarea>' + polarcsv(boat) + '</textarea>', 'polar']
+		]).enter().append('div').attr('class', 'meta-item');
+
+	meta.selectAll('.meta-item').html(function (d) {
+		if (typeof d === 'string') {
+			return d;
+		} else {
+			var className = 'meta-label' + (d.length === 3 ? ' ' + d[2] : '');
+			return '<span class="' + className + '">' + d[0] + '</span> ' +  d[1];
+		}
+	});
+	polartable(meta.select('.table-container'), boat);
+};
+
+},{"./polar-csv.js":5,"./polartable.js":7,"d3":2}],5:[function(require,module,exports){
+
+function zeros(n) {
+	return Array.apply(null, new Array(n)).map(function () { return 0.0; });
+}
+
+module.exports = function polarexport(data) {
+	data = data.vpp;
+
+	var ret = ['twa/tws;' + data.speeds.join(';')];
+	ret.push(zeros(data.speeds.length + 1));
+
+	data.angles.forEach(function (angle) {
+		var row = [angle].concat(data[angle]);
+		ret.push(row.join(';'));
+	});
+
+	return ret.join('\n');
+};
+
+},{}],6:[function(require,module,exports){
+var d3 = require('d3');
+require('d3-legend')(d3);
+
+var deg2rad = Math.PI / 180;
+
+module.exports = function polarplot(container) {
+
+	var containerElement = document.getElementById(container.substring(1));
+	var width = function() { return containerElement.offsetWidth - 20; };
+	var height = function () {
+		if (window.innerWidth < 768) {
+			return window.innerHeight;
+		} else {
+			return Math.min(window.innerHeight - 60 , width() * 2);
+		}
+	};
+	var radius = function () { return Math.min(height() / 2.2 - 20, width()) - 40; };
+
+	var svg = d3.select(container).append('svg')
+		.attr({width: width(), height: height()})
+		.append('g')
+		.attr('transform', 'translate(' + 10 + ',' + (height() / 2) + ')');
+
+	// radial scale
+	var r = d3.scale.linear().domain([0, 10]).range([0, radius()]);
+
+	// speed rings
+	var gr = svg.append('g')
+		.attr('class', 'r axis')
+		.selectAll('g')
+			.data(r.ticks(5).slice(1))
+			.enter().append('g');
+
+	gr.append('circle').attr('r', r);
+
+	gr.append('text').attr({
+			y: function(d) { return -r(d) - 4; },
+			transform: 'rotate(15)'
+		}).style('text-anchor', 'middle')
+		.text(function(d) { return d % 2 === 0 ? d + 'kts' : ''; });
+
+	// wind direction
+	var graph = svg.append('g')
+		.attr('class', 'a axis')
+		.selectAll('g')
+			.data([0, 45, 52, 60, 75, 90, 110, 120, 135, 150, 165].map(function (d) { return d - 90; }))
+				.enter().append('g')
+					.attr('transform', function(d) { return 'rotate(' + d + ')'; });
+
+	graph.append('line').attr({x1: r(1), x2: radius()});
+
+	var xaxis = function (sel) {
+		sel.attr('x', radius() + 6)
+		.attr('dy', '.35em')
+		.style('text-anchor', function(d) { return d < 270 && d > 90 ? 'end' : null; })
+		.attr('transform', function(d) { return d < 270 && d > 90 ? 'rotate(180 ' + (radius() + 6) + ', 0)' : null; })
+		.text(function(d) { return (d + 90) + '°'; });
+	};
+
+	graph.append('text')
+		.attr('class', 'xlabel').call(xaxis);
+
+
+	var line = d3.svg.line.radial()
+		.radius(function(d) { return r(d[1]); })
+		.angle(function(d) { return d[0]; })
+		.interpolate('cardinal');
+
+	// Plot VMG diamonds
+	var scatter = function (s) {
+		s.attr({
+			transform: function (d) {
+				return 'translate(' + (r(d[1]) * Math.sin(d[0])) + ', ' + (r(d[1]) * -Math.cos(d[0])) + ')';
+			},
+			d: d3.svg.symbol().type('diamond').size(32)
+		});
+	};
+
+	var legend = svg.append('g').attr('class', 'legend');
+
+	var updateLegend = function (sel) {
+		sel.call(d3.legend)
+			.attr('transform', 'translate(' + (width() - 70) + ', ' + (-height() / 2 + 20) + ')');
+	}
+
+	var plot = function () {};
+
+	plot.render = function (data) {
+		var vpp_angles = data.vpp.angles.map(function (d) { return d * deg2rad; });
+		var run_data = [];
+
+		var tws_series = function (cssClass) {
+			return function (sel) {
+				sel.attr('class', function (d, i) {
+					return cssClass + ' tws-' + data.vpp.speeds[i];
+				});
+			};
+		};
+		var vpp_data = data.vpp.speeds.map(function (windspeed, i) {
+			var series = d3.zip(vpp_angles, data.vpp.angles.map(function (angle) {
+				return data.vpp[angle][i];
+			}));
+
+			var vmg2sog = function (beat_angle, vmg) {
+				var angle = beat_angle * deg2rad;
+				var speed = vmg / Math.cos(angle);
+				return [angle, speed];
+			};
+
+			series.unshift(vmg2sog(data.vpp.beat_angle[i], data.vpp.beat_vmg[i]));
+
+			var run = vmg2sog(data.vpp.run_angle[i], -data.vpp.run_vmg[i]);
+			series.push(run);
+			run_data.push(run);
+
+			return series.sort(function (a, b) { return a[0] - b[0]; });
+		});
+
+		var run_points = svg.selectAll('.vmg-run').data(run_data);
+		run_points.enter().append('path').call(tws_series('vmg-run'));
+		run_points.exit().remove();
+		run_points.transition().duration(200).call(scatter);
+
+		var lines = svg.selectAll('.line').data(vpp_data);
+		lines.enter().append('path')
+			.call(tws_series('line'))
+			.attr('data-legend', function (d, i) {
+				return '' + data.vpp.speeds[i] + 'kts';
+			});
+
+		lines.exit().remove();
+		lines.transition().duration(200).attr('d', line);
+
+		legend.call(updateLegend);
+	};
+
+
+	var originalSize = width();
+	plot.resize = function () {
+		if (width() === originalSize) {
+			return;
+		}
+		d3.select('svg').attr({
+			width: width(),
+			height: height()
+		});
+
+		svg.attr('transform', 'translate(' + 10 + ',' + (height() / 2) + ')');
+		r.range([0, radius()]);
+
+		gr.selectAll('.axis.r circle').attr('r', r);
+		gr.selectAll('.axis.r text').attr('y', function(d) { return -r(d) - 4; });
+
+		graph.selectAll('line').attr('x2', radius());
+		svg.selectAll('.xlabel').call(xaxis);
+
+		legend.call(updateLegend);
+
+		svg.selectAll('.line').transition().duration(200).attr('d', line);
+		svg.selectAll('.vmg-run').transition().duration(200).call(scatter);
+
+		originalSize = width();
+	};
+
+	return plot;
+};
+
+},{"d3":2,"d3-legend":1}],7:[function(require,module,exports){
+module.exports = function polartable(container, boat) {
+	var vpp = boat.vpp;
+
+	// prepare data:
+	var header = ['Wind velocity'].concat(vpp.speeds.map(function (d) { return d + 'kts'; }));
+	var data = [
+		['Beat angles'].concat(vpp.beat_angle),
+		['Beat VMG'].concat(vpp.beat_vmg)
+	].concat(vpp.angles.map(function (angle) {
+		return [angle + '°'].concat(vpp['' + angle]);
+	})).concat([
+		['Run VMG'].concat(vpp.run_vmg),
+		['Gybe angles'].concat(vpp.run_angle)
+	]);
+
+	var table = container.selectAll('table').data([0]).enter()
+		.append('table')
+		.attr('class', 'table table-condensed polar-table');
+
+	var thead = table.selectAll('thead').data([0]).enter().append('thead');
+	var tbody = table.selectAll('tbody').data([0]).enter().append('tbody');
+
+	thead.selectAll('tr').data([0]).enter().append('tr')
+		.selectAll('th').data(header).enter().append('th').text(function (d) { return d; });
+
+	var rows = tbody.selectAll('tr').data(data)
+		.enter().append('tr');
+
+	var cells = rows.selectAll('td').data(function (d) { return d; })
+		.enter().append('td');
+
+	cells.text(function (d) { return d; });
+};
+
+},{}],8:[function(require,module,exports){
 var d3 = require('d3');
 var polarplot = require('./src/polarplot.js');
 var render_metadata = require('./src/meta.js');
@@ -9662,258 +9927,5 @@ d3.select(window).on('resize', function () {
 	plot.resize();
 });
 
-},{"./src/array-random.js":4,"./src/meta.js":5,"./src/polarplot.js":7,"d3":2}],4:[function(require,module,exports){
-module.exports = function getRandomElement(arr) {
-	return arr[Math.floor(Math.random() * arr.length)];
-};
-
-},{}],5:[function(require,module,exports){
-var d3 = require('d3');
-
-var polarcsv = require('./polar-csv.js');
-var polartable = require('./polartable.js');
-
-var meta = d3.select('#meta').attr('class', 'meta');
-
-module.exports = function render_metadata(boat) {
-	d3.select('#name').html(boat.name || '<span class="text-muted">Geen naam bekend</span>');
-
-	meta.selectAll('.meta-item')
-		.data([
-			['zeilnummer', boat.sailnumber],
-			['type', boat.boat.type],
-			['lengte', boat.boat.sizes.loa + 'm'],
-			['diepgang', boat.boat.sizes.draft + 'm'],
-			['breedte', boat.boat.sizes.beam + 'm'],
-			'<br />',
-			['GPH', boat.rating.gph],
-			['offshore TN', boat.rating.triple_offshore.join(', ')],
-			['inshore TN', boat.rating.triple_inshore.join(', ')],
-			'<div class="table-container"></table>',
-			['polar (csv)', '<textarea>' + polarcsv(boat) + '</textarea>', 'polar']
-		]).enter().append('div').attr('class', 'meta-item');
-
-	meta.selectAll('.meta-item').html(function (d) {
-		if (typeof d === 'string') {
-			return d;
-		} else {
-			var className = 'meta-label' + (d.length === 3 ? ' ' + d[2] : '');
-			return '<span class="' + className + '">' + d[0] + '</span> ' +  d[1];
-		}
-	});
-	polartable(meta.select('.table-container'), boat);
-};
-
-},{"./polar-csv.js":6,"./polartable.js":8,"d3":2}],6:[function(require,module,exports){
-
-function zeros(n) {
-	return Array.apply(null, new Array(n)).map(function () { return 0.0; });
-}
-
-module.exports = function polarexport(data) {
-	data = data.vpp;
-
-	var ret = ['twa/tws;' + data.speeds.join(';')];
-	ret.push(zeros(data.speeds.length + 1));
-
-	data.angles.forEach(function (angle) {
-		var row = [angle].concat(data[angle]);
-		ret.push(row.join(';'));
-	});
-
-	return ret.join('\n');
-};
-
-},{}],7:[function(require,module,exports){
-var d3 = require('d3');
-require('d3-legend')(d3);
-
-var deg2rad = Math.PI / 180;
-
-module.exports = function polarplot(container) {
-
-	var containerElement = document.getElementById(container.substring(1));
-	var width = function() { return containerElement.offsetWidth - 40; };
-	var height = function () { return Math.min(window.innerHeight, width() * 2) - 20; };
-	var radius = function () { return Math.min(height() / 2.2 - 20, width()) - 40; };
-
-	var svg = d3.select(container).append('svg')
-		.attr({width: width(), height: height()})
-		.append('g')
-		.attr('transform', 'translate(' + 10 + ',' + (height() / 2) + ')');
-
-	// radial scale
-	var r = d3.scale.linear().domain([0, 10]).range([0, radius()]);
-
-	// speed rings
-	var gr = svg.append('g')
-		.attr('class', 'r axis')
-		.selectAll('g')
-			.data(r.ticks(5).slice(1))
-			.enter().append('g');
-
-	gr.append('circle').attr('r', r);
-
-	gr.append('text').attr({
-			y: function(d) { return -r(d) - 4; },
-			transform: 'rotate(15)'
-		}).style('text-anchor', 'middle')
-		.text(function(d) { return d % 2 === 0 ? d + 'kts' : ''; });
-
-	// wind direction
-	var graph = svg.append('g')
-		.attr('class', 'a axis')
-		.selectAll('g')
-			.data([0, 45, 52, 60, 75, 90, 110, 120, 135, 150, 165].map(function (d) { return d - 90; }))
-				.enter().append('g')
-					.attr('transform', function(d) { return 'rotate(' + d + ')'; });
-
-	graph.append('line').attr({x1: r(1), x2: radius()});
-
-	var xaxis = function (sel) {
-		sel.attr('x', radius() + 6)
-		.attr('dy', '.35em')
-		.style('text-anchor', function(d) { return d < 270 && d > 90 ? 'end' : null; })
-		.attr('transform', function(d) { return d < 270 && d > 90 ? 'rotate(180 ' + (radius() + 6) + ', 0)' : null; })
-		.text(function(d) { return (d + 90) + '°'; });
-	};
-
-	graph.append('text')
-		.attr('class', 'xlabel').call(xaxis);
-
-
-	var line = d3.svg.line.radial()
-		.radius(function(d) { return r(d[1]); })
-		.angle(function(d) { return d[0]; })
-		.interpolate('cardinal');
-
-	// Plot VMG diamonds
-	var scatter = function (s) {
-		s.attr({
-			transform: function (d) {
-				return 'translate(' + (r(d[1]) * Math.sin(d[0])) + ', ' + (r(d[1]) * -Math.cos(d[0])) + ')';
-			},
-			d: d3.svg.symbol().type('diamond').size(32)
-		});
-	};
-
-	var legend = svg.append('g').attr('class', 'legend')
-		.attr('transform', 'translate(2, -20)');
-
-	var plot = function () {};
-
-	plot.render = function (data) {
-		var vpp_angles = data.vpp.angles.map(function (d) { return d * deg2rad; });
-		var run_data = [];
-
-		var tws_series = function (cssClass) {
-			return function (sel) {
-				sel.attr('class', function (d, i) {
-					return cssClass + ' tws-' + data.vpp.speeds[i];
-				});
-			};
-		};
-		var vpp_data = data.vpp.speeds.map(function (windspeed, i) {
-			var series = d3.zip(vpp_angles, data.vpp.angles.map(function (angle) {
-				return data.vpp[angle][i];
-			}));
-			var vmg2sog = function (beat_angle, vmg) {
-				var angle = beat_angle * deg2rad;
-				var speed = vmg / Math.cos(angle);
-				return [angle, speed];
-			};
-
-			series.unshift(vmg2sog(data.vpp.beat_angle[i], data.vpp.beat_vmg[i]));
-
-			var run = vmg2sog(data.vpp.run_angle[i], -data.vpp.run_vmg[i]);
-			series.push(run);
-			run_data.push(run);
-
-			return series.sort(function (a, b) { return a[0] - b[0]; });
-		});
-
-		var run_points = svg.selectAll('.vmg-run').data(run_data);
-		run_points.enter().append('path').call(tws_series('vmg-run'));
-		run_points.exit().remove();
-		run_points.transition().duration(200).call(scatter);
-
-		var lines = svg.selectAll('.line').data(vpp_data);
-		lines.enter().append('path')
-			.call(tws_series('line'))
-			.attr('data-legend', function (d, i) {
-				return '' + data.vpp.speeds[i] + 'kts';
-			});
-
-		lines.exit().remove();
-		lines.transition().duration(200).attr('d', line);
-
-		legend.call(d3.legend);
-	};
-
-
-	var originalSize = width();
-	plot.resize = function () {
-		if (width() === originalSize) {
-			return;
-		}
-		d3.select('svg').attr({
-			width: width(),
-			height: height()
-		});
-
-		svg.attr('transform', 'translate(' + 10 + ',' + (height() / 2) + ')');
-		r.range([0, radius()]);
-
-		gr.selectAll('.axis.r circle').attr('r', r);
-		gr.selectAll('.axis.r text').attr('y', function(d) { return -r(d) - 4; });
-
-		graph.selectAll('line').attr('x2', radius());
-		svg.selectAll('.xlabel').call(xaxis);
-
-		legend.call(d3.legend);
-
-		svg.selectAll('.line').transition().duration(200).attr('d', line);
-		svg.selectAll('.vmg-run').transition().duration(200).call(scatter);
-
-		originalSize = width();
-	};
-
-	return plot;
-};
-
-},{"d3":2,"d3-legend":1}],8:[function(require,module,exports){
-module.exports = function polartable(container, boat) {
-	var vpp = boat.vpp;
-
-	// prepare data:
-	var header = ['Wind velocity'].concat(vpp.speeds.map(function (d) { return d + 'kts'; }));
-	var data = [
-		['Beat angles'].concat(vpp.beat_angle),
-		['Beat VMG'].concat(vpp.beat_vmg)
-	].concat(vpp.angles.map(function (angle) {
-		return [angle + '°'].concat(vpp['' + angle]);
-	})).concat([
-		['Run VMG'].concat(vpp.run_vmg),
-		['Gybe angles'].concat(vpp.run_angle)
-	]);
-
-	var table = container.selectAll('table').data([0]).enter()
-		.append('table')
-		.attr('class', 'table table-condensed polar-table');
-
-	var thead = table.selectAll('thead').data([0]).enter().append('thead');
-	var tbody = table.selectAll('tbody').data([0]).enter().append('tbody');
-
-	thead.selectAll('tr').data([0]).enter().append('tr')
-		.selectAll('th').data(header).enter().append('th').text(function (d) { return d; });
-
-	var rows = tbody.selectAll('tr').data(data)
-		.enter().append('tr');
-
-	var cells = rows.selectAll('td').data(function (d) { return d; })
-		.enter().append('td');
-
-	cells.text(function (d) { return d; });
-};
-
-},{}]},{},[3]);
+},{"./src/array-random.js":3,"./src/meta.js":4,"./src/polarplot.js":6,"d3":2}]},{},[8])
+//# sourceMappingURL=bundle.js.map
