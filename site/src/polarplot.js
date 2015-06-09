@@ -18,7 +18,6 @@ module.exports = function polarplot(container) {
 	// radial scale
 	var r = d3.scale.linear().domain([0, 10]).range([0, radius()]);
 
-
 	// speed rings
 	var gr = svg.append('g')
 		.attr('class', 'r axis')
@@ -72,7 +71,7 @@ module.exports = function polarplot(container) {
 	};
 
 	var legend = svg.append('g').attr('class', 'legend')
-		.attr('transform', 'translate(2, -20)')
+		.attr('transform', 'translate(2, -20)');
 
 	var plot = function () {};
 
@@ -97,7 +96,7 @@ module.exports = function polarplot(container) {
 				return [angle, speed];
 			};
 
-			series.unshift(vmg2sog(data.vpp.beat_angle[i], data.vpp.beat_vmg[i]))
+			series.unshift(vmg2sog(data.vpp.beat_angle[i], data.vpp.beat_vmg[i]));
 
 			var run = vmg2sog(data.vpp.run_angle[i], -data.vpp.run_vmg[i]);
 			series.push(run);
@@ -119,7 +118,7 @@ module.exports = function polarplot(container) {
 			});
 
 		lines.exit().remove();
-		lines.transition().duration(200).attr('d', line)
+		lines.transition().duration(200).attr('d', line);
 
 		legend.call(d3.legend);
 	};

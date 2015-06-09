@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "test": "npm run lint",
     "bundle": "browserify site/index.js -o site/bundle.js",
     "watchify": "watchify site/index.js -o 'exorcist site/bundle.js.map > site/bundle.js' -vd",
     "lint": "eslint site/src/ site/index.js"
