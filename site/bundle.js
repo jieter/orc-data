@@ -9504,11 +9504,135 @@
   this.d3 = d3;
 }();
 },{}],2:[function(require,module,exports){
+var d3 = require('d3');
+var polarplot = require('./src/polarplot.js');
+var render_metadata = require('./src/meta.js');
+var getRandomElement = require('./src/array-random.js');
+
+var plot = polarplot('#chart');
+
+function match_boats(data, needle) {
+	needle = needle.toLowerCase();
+	var values = [data.name, data.sailnumber, data.owner, data.boat.type];
+
+	for (var i in values) {
+		var value = values[i];
+		if (value.toLowerCase().indexOf(needle) !== -1) {
+			return true;
+		}
+	}
+}
+
+function display_boat(boat) {
+	plot.render(boat);
+	render_metadata(boat);
+
+	d3.selectAll('#list li').classed('active', function (d) {
+		return d.sailnumber === boat.sailnumber;
+	});
+}
+
+var list = d3.select('#list');
+d3.json('../NED2015.json', function (response) {
+	list.selectAll('li')
+		.data(response)
+		.enter()
+			.append('li').attr('id', function (d) { return 'boat-' + d.sailnumber; })
+			.append('a')
+			.attr({href: function (d) { return '#' + d.sailnumber; }, class: 'boat'})
+			.on('click', function (d) {
+				display_boat(d);
+				d3.select('.row-offcanvas').classed('active', false);
+			})
+			.html(function (d) {
+				return '<span class="sailnumber">' + d.sailnumber + '</span> ' + d.name +
+					   '<br /><span class="type">' + d.boat.type + '</span>';
+			});
+
+	if (window.location.hash === '') {
+		// if window width is xs, do not randomly choose a boot but show
+		// selection list
+		if (window.innerWidth < 768) {
+			d3.select('.row-offcanvas').classed('active', true);
+			d3.select('#name').html('<i class="glyphicon glyphicon-arrow-left"></i> Kies een boot');
+		} else {
+			display_boat(getRandomElement(response));
+		}
+	} else {
+		var sailnumber = window.location.hash.substring(1);
+
+		response.forEach(function (boat) {
+			if (boat.sailnumber === sailnumber) {
+				display_boat(boat);
+			}
+		});
+	}
+});
+
+function search() {
+	var val = d3.select('input').property('value');
+
+	if (val === '') {
+		list.selectAll('a').attr('class', 'boat');
+	}
+	list.selectAll('a')
+		.attr('class', function (d) {
+			return 'boat' + (!match_boats(d, val) ? ' hidden' : '');
+		});
+	if (list.selectAll('a:not(.hidden)')[0].length === 1) {
+		plot.render(list.selectAll('a:not(.hidden)').data()[0]);
+	}
+}
+d3.select('input').on('keyup', search);
+d3.select('button').on('click', search);
+
+d3.select(window).on('resize', function () {
+	plot.resize();
+});
+
+},{"./src/array-random.js":3,"./src/meta.js":4,"./src/polarplot.js":6,"d3":1}],3:[function(require,module,exports){
 module.exports = function getRandomElement(arr) {
 	return arr[Math.floor(Math.random() * arr.length)];
 };
 
-},{}],3:[function(require,module,exports){
+},{}],4:[function(require,module,exports){
+var d3 = require('d3');
+
+var polarcsv = require('./polar-csv.js');
+var polartable = require('./polartable.js');
+
+var meta = d3.select('#meta').attr('class', 'meta');
+
+module.exports = function render_metadata(boat) {
+	d3.select('#name').html(boat.name || '<span class="text-muted">Geen naam bekend</span>');
+
+	meta.selectAll('.meta-item')
+		.data([
+			['zeilnummer', boat.sailnumber],
+			['type', boat.boat.type],
+			['lengte', boat.boat.sizes.loa + 'm'],
+			['diepgang', boat.boat.sizes.draft + 'm'],
+			['breedte', boat.boat.sizes.beam + 'm'],
+			'<br />',
+			['GPH', boat.rating.gph],
+			['offshore TN', boat.rating.triple_offshore.join(', ')],
+			['inshore TN', boat.rating.triple_inshore.join(', ')],
+			'<div class="table-container"></table>',
+			['polar (csv)', '<textarea>' + polarcsv(boat) + '</textarea>', 'polar']
+		]).enter().append('div').attr('class', 'meta-item');
+
+	meta.selectAll('.meta-item').html(function (d) {
+		if (typeof d === 'string') {
+			return d;
+		} else {
+			var className = 'meta-label' + (d.length === 3 ? ' ' + d[2] : '');
+			return '<span class="' + className + '">' + d[0] + '</span> ' +  d[1];
+		}
+	});
+	polartable(meta.select('.table-container'), boat);
+};
+
+},{"./polar-csv.js":5,"./polartable.js":7,"d3":1}],5:[function(require,module,exports){
 
 function zeros(n) {
 	return Array.apply(null, new Array(n)).map(function () { return 0.0; });
@@ -9528,10 +9652,8 @@ module.exports = function polarexport(data) {
 	return ret.join('\n');
 };
 
-},{}],4:[function(require,module,exports){
+},{}],6:[function(require,module,exports){
 var d3 = require('d3');
-var polarcsv = require('./polar-csv.js');
-var polartable = require('./polartable.js');
 
 var deg2rad = Math.PI / 180;
 
@@ -9597,6 +9719,7 @@ module.exports = function polarplot(container) {
 		.angle(function(d) { return d[0]; })
 		.interpolate('cardinal');
 
+	// Plot VMG diamonds
 	var scatter = function (s) {
 		s.attr({
 			transform: function (d) {
@@ -9605,9 +9728,6 @@ module.exports = function polarplot(container) {
 			d: d3.svg.symbol().type('diamond').size(32)
 		});
 	};
-
-	var meta = d3.select('#meta').append('div').attr('class', 'meta');
-
 	var plot = function () {};
 
 	plot.render = function (data) {
@@ -9638,37 +9758,14 @@ module.exports = function polarplot(container) {
 		run_points.call(scatter);
 
 		var lines = svg.selectAll('.line').data(vpp_data);
-		lines.enter().append('path').attr('class', 'line');
+		lines.enter().append('path').attr('class', function (d, i) {
+			return 'line tws-' + data.vpp.speeds[i];
+		});
+
 		lines.exit().remove();
 		lines.transition().duration(200).attr('d', line);
-
-
-		d3.select('#name').html(data.name);
-		meta.selectAll('.meta-item')
-			.data([
-				['zeilnummer', data.sailnumber],
-				['type', data.boat.type],
-				['lengte', data.boat.sizes.loa + 'm'],
-				['diepgang', data.boat.sizes.draft + 'm'],
-				['breedte', data.boat.sizes.beam + 'm'],
-				'<br />',
-				['GPH', data.rating.gph],
-				['offshore TN', data.rating.triple_offshore.join(', ')],
-				['inshore TN', data.rating.triple_inshore.join(', ')],
-				'<div class="table-container"></table>',
-				['polar (csv)', '<textarea>' + polarcsv(data) + '</textarea>', 'polar']
-			]).enter().append('div').attr('class', 'meta-item');
-
-		meta.selectAll('.meta-item').html(function (d) {
-			if (typeof d === 'string') {
-				return d;
-			} else {
-				var className = 'meta-label' + (d.length === 3 ? ' ' + d[2] : '');
-				return '<span class="' + className + '">' + d[0] + '</span> ' +  d[1];
-			}
-		});
-		polartable(meta.select('.table-container'), data);
 	};
+
 	var originalSize = width();
 	plot.resize = function () {
 		if (width() === originalSize) {
@@ -9697,7 +9794,7 @@ module.exports = function polarplot(container) {
 	return plot;
 };
 
-},{"./polar-csv.js":3,"./polartable.js":5,"d3":1}],5:[function(require,module,exports){
+},{"d3":1}],7:[function(require,module,exports){
 module.exports = function polartable(container, boat) {
 	var vpp = boat.vpp;
 
@@ -9732,73 +9829,4 @@ module.exports = function polartable(container, boat) {
 	cells.text(function (d) { return d; });
 };
 
-},{}],6:[function(require,module,exports){
-var d3 = require('d3');
-var polarplot = require('./src/polarplot.js');
-var getRandomElement = require('./src/array-random.js');
-
-var plot = polarplot('#chart');
-
-function match_boats(data, needle) {
-	needle = needle.toLowerCase();
-	var values = [data.name, data.sailnumber, data.owner, data.boat.type];
-
-	for (var i in values) {
-		var value = values[i];
-		if (value.toLowerCase().indexOf(needle) !== -1) {
-			return true;
-		}
-	}
-}
-
-var list = d3.select('#list');
-d3.json('../NED2015.json', function (response) {
-	list.selectAll('li')
-		.data(response)
-		.enter()
-			.append('li').append('a')
-			.attr({href: function (d) { return '#' + d.sailnumber; }, class: 'boat'})
-			.on('click', function (d) {
-				plot.render(d);
-				d3.select('.row-offcanvas').classed('active', false);
-			})
-			.html(function (d) {
-				return '<span class="sailnumber">' + d.sailnumber + '</span> ' + d.name +
-					   '<br /><span class="type">' + d.boat.type + '</span>';
-			});
-	if (window.location.hash === '') {
-		plot.render(getRandomElement(response));
-	} else {
-		var sailnumber = window.location.hash.substring(1);
-
-		response.forEach(function (boat) {
-			if (boat.sailnumber === sailnumber) {
-				plot.render(boat);
-			}
-		});
-	}
-});
-
-function search() {
-	var val = d3.select('input').property('value');
-
-	if (val === '') {
-		list.selectAll('a').attr('class', 'boat');
-	}
-	list.selectAll('a')
-		.attr('class', function (d) {
-			return 'boat' + (!match_boats(d, val) ? ' hidden' : '');
-		});
-	if (list.selectAll('a:not(.hidden)')[0].length === 1) {
-		plot.render(list.selectAll('a:not(.hidden)').data()[0]);
-	}
-}
-d3.select('input').on('keyup', search);
-d3.select('button').on('click', search);
-
-d3.select(window).on('resize', function () {
-	plot.resize();
-});
-
-},{"./src/array-random.js":2,"./src/polarplot.js":4,"d3":1}]},{},[6])
-//# sourceMappingURL=bundle.js.map
+},{}]},{},[2]);

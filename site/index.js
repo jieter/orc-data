@@ -1,5 +1,6 @@
 var d3 = require('d3');
 var polarplot = require('./src/polarplot.js');
+var render_metadata = require('./src/meta.js');
 var getRandomElement = require('./src/array-random.js');
 
 var plot = polarplot('#chart');
@@ -16,29 +17,47 @@ function match_boats(data, needle) {
 	}
 }
 
+function display_boat(boat) {
+	plot.render(boat);
+	render_metadata(boat);
+
+	d3.selectAll('#list li').classed('active', function (d) {
+		return d.sailnumber === boat.sailnumber;
+	});
+}
+
 var list = d3.select('#list');
 d3.json('../NED2015.json', function (response) {
 	list.selectAll('li')
 		.data(response)
 		.enter()
-			.append('li').append('a')
+			.append('li').attr('id', function (d) { return 'boat-' + d.sailnumber; })
+			.append('a')
 			.attr({href: function (d) { return '#' + d.sailnumber; }, class: 'boat'})
 			.on('click', function (d) {
-				plot.render(d);
+				display_boat(d);
 				d3.select('.row-offcanvas').classed('active', false);
 			})
 			.html(function (d) {
 				return '<span class="sailnumber">' + d.sailnumber + '</span> ' + d.name +
 					   '<br /><span class="type">' + d.boat.type + '</span>';
 			});
+
 	if (window.location.hash === '') {
-		plot.render(getRandomElement(response));
+		// if window width is xs, do not randomly choose a boot but show
+		// selection list
+		if (window.innerWidth < 768) {
+			d3.select('.row-offcanvas').classed('active', true);
+			d3.select('#name').html('<i class="glyphicon glyphicon-arrow-left"></i> Kies een boot');
+		} else {
+			display_boat(getRandomElement(response));
+		}
 	} else {
 		var sailnumber = window.location.hash.substring(1);
 
 		response.forEach(function (boat) {
 			if (boat.sailnumber === sailnumber) {
-				plot.render(boat);
+				display_boat(boat);
 			}
 		});
 	}

@@ -1,6 +1,4 @@
 var d3 = require('d3');
-var polarcsv = require('./polar-csv.js');
-var polartable = require('./polartable.js');
 
 var deg2rad = Math.PI / 180;
 
@@ -66,6 +64,7 @@ module.exports = function polarplot(container) {
 		.angle(function(d) { return d[0]; })
 		.interpolate('cardinal');
 
+	// Plot VMG diamonds
 	var scatter = function (s) {
 		s.attr({
 			transform: function (d) {
@@ -74,9 +73,6 @@ module.exports = function polarplot(container) {
 			d: d3.svg.symbol().type('diamond').size(32)
 		});
 	};
-
-	var meta = d3.select('#meta').append('div').attr('class', 'meta');
-
 	var plot = function () {};
 
 	plot.render = function (data) {
@@ -107,37 +103,14 @@ module.exports = function polarplot(container) {
 		run_points.call(scatter);
 
 		var lines = svg.selectAll('.line').data(vpp_data);
-		lines.enter().append('path').attr('class', 'line');
+		lines.enter().append('path').attr('class', function (d, i) {
+			return 'line tws-' + data.vpp.speeds[i];
+		});
+
 		lines.exit().remove();
 		lines.transition().duration(200).attr('d', line);
-
-
-		d3.select('#name').html(data.name);
-		meta.selectAll('.meta-item')
-			.data([
-				['zeilnummer', data.sailnumber],
-				['type', data.boat.type],
-				['lengte', data.boat.sizes.loa + 'm'],
-				['diepgang', data.boat.sizes.draft + 'm'],
-				['breedte', data.boat.sizes.beam + 'm'],
-				'<br />',
-				['GPH', data.rating.gph],
-				['offshore TN', data.rating.triple_offshore.join(', ')],
-				['inshore TN', data.rating.triple_inshore.join(', ')],
-				'<div class="table-container"></table>',
-				['polar (csv)', '<textarea>' + polarcsv(data) + '</textarea>', 'polar']
-			]).enter().append('div').attr('class', 'meta-item');
-
-		meta.selectAll('.meta-item').html(function (d) {
-			if (typeof d === 'string') {
-				return d;
-			} else {
-				var className = 'meta-label' + (d.length === 3 ? ' ' + d[2] : '');
-				return '<span class="' + className + '">' + d[0] + '</span> ' +  d[1];
-			}
-		});
-		polartable(meta.select('.table-container'), data);
 	};
+
 	var originalSize = width();
 	plot.resize = function () {
 		if (width() === originalSize) {

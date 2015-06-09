@@ -25,8 +25,8 @@ for `<twa>`:  [52, 60, 75, 90, 110, 120, 135, 150]
  - `OWNER` name of owner
  - `ADRS1`
  - `ADRS2`
- - `C_Type`
- - `D`
+ - `C_Type` Club or international
+ - `D` One of 'C', 'S' or 'R'
  - `CREW` Crew weight (kilograms)
  - `DD_MM_yyYY HH:MM:SS`
  - `LOA` Length over all (meters)

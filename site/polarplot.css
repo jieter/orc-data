@@ -61,6 +61,12 @@ input { margin-bottom: 2px; }
 .sailnumber {
 	color: #555;
 }
+
+#list li.active .sailnumber, #list li.active .type {
+	color: #eee;
+}
+
+
 h2 .sailnumber { font-size: 13px; }
 .type {
 	color: #aaa;
