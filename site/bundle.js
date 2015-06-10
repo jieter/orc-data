@@ -1,76 +1,4 @@
 (function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof require=="function"&&require;if(!u&&a)return a(o,!0);if(i)return i(o,!0);var f=new Error("Cannot find module '"+o+"'");throw f.code="MODULE_NOT_FOUND",f}var l=n[o]={exports:{}};t[o][0].call(l.exports,function(e){var n=t[o][1][e];return s(n?n:e)},l,l.exports,e,t,n,r)}return n[o].exports}var i=typeof require=="function"&&require;for(var o=0;o<r.length;o++)s(r[o]);return s})({1:[function(require,module,exports){
-// d3.legend.js
-// (C) 2012 ziggy.jonsson.nyc@gmail.com
-// MIT licence
-
-(function (root, factory) {
-	if (typeof define === 'function' && define.amd) {
-		// AMD. Register as an anonymous module with d3 as a dependency.
-		define(['d3'], factory);
-	} else if (typeof module === 'object' && module.exports) {
-		// CommonJS
-		module.exports = function(d3) {
-			d3.legend = factory(d3);
-			return d3.legend;
-		};
-	} else {
-		// Browser global.
-		root.d3.legend = factory(root.d3);
-	}
-}(this, function (d3) {
-	return function(g) {
-		g.each(function() {
-			var g = d3.select(this),
-				items = {},
-				svg = d3.select(g.property('nearestViewportElement')),
-				legendPadding = g.attr('data-style-padding') || 5,
-				lb = g.selectAll('.legend-box').data([true]),
-				li = g.selectAll('.legend-items').data([true]);
-
-			lb.enter().append('rect').classed('legend-box', true);
-			li.enter().append('g').classed('legend-items', true);
-
-			svg.selectAll('[data-legend]').each(function() {
-				var self = d3.select(this);
-				items[self.attr('data-legend')] = {
-					pos: self.attr('data-legend-pos') || this.getBBox().y,
-					color: self.style('fill') !== 'none' ? self.style('fill') : self.style('stroke')
-				};
-			});
-
-			items = d3.entries(items).sort(function(a, b) { return a.value.pos - b.value.pos; });
-
-			li.selectAll('text')
-				.data(items, function(d) { return d.key; })
-				.call(function(d) { d.enter().append('text'); })
-				.call(function(d) { d.exit().remove(); })
-				.attr('y', function(d, i) { return i + 'em'; })
-				.attr('x', '1em')
-				.text(function(d) { return d.key; });
-
-			li.selectAll('circle')
-				.data(items, function(d) { return d.key; })
-				.call(function(d) { d.enter().append('circle'); })
-				.call(function(d) { d.exit().remove(); })
-				.attr('cy', function(d, i) { return i - 0.25 + 'em'; })
-				.attr('cx', 0)
-				.attr('r', '0.4em')
-				.style('fill', function(d) {
-					return d.value.color;
-				});
-
-			// Reposition and resize the box
-			var lbbox = li[0][0].getBBox();
-			lb.attr('x', (lbbox.x - legendPadding))
-				.attr('y', (lbbox.y - legendPadding))
-				.attr('height', (lbbox.height + 2 * legendPadding))
-				.attr('width', (lbbox.width + 2 * legendPadding));
-		});
-		return g;
-	};
-}));
-
-},{}],2:[function(require,module,exports){
 !function() {
   var d3 = {
     version: "3.5.5"
@@ -9575,10 +9503,82 @@
   if (typeof define === "function" && define.amd) define(d3); else if (typeof module === "object" && module.exports) module.exports = d3;
   this.d3 = d3;
 }();
-},{}],3:[function(require,module,exports){
+},{}],2:[function(require,module,exports){
 module.exports = function getRandomElement(arr) {
 	return arr[Math.floor(Math.random() * arr.length)];
 };
+
+},{}],3:[function(require,module,exports){
+// d3.legend.js
+// (C) 2012 ziggy.jonsson.nyc@gmail.com
+// MIT licence
+
+(function (root, factory) {
+	if (typeof define === 'function' && define.amd) {
+		// AMD. Register as an anonymous module with d3 as a dependency.
+		define(['d3'], factory);
+	} else if (typeof module === 'object' && module.exports) {
+		// CommonJS
+		module.exports = function(d3) {
+			d3.legend = factory(d3);
+			return d3.legend;
+		};
+	} else {
+		// Browser global.
+		root.d3.legend = factory(root.d3);
+	}
+}(this, function (d3) {
+	return function(g) {
+		g.each(function() {
+			var g = d3.select(this),
+				items = {},
+				svg = d3.select(g.property('nearestViewportElement')),
+				legendPadding = g.attr('data-style-padding') || 5,
+				lb = g.selectAll('.legend-box').data([true]),
+				li = g.selectAll('.legend-items').data([true]);
+
+			lb.enter().append('rect').classed('legend-box', true);
+			li.enter().append('g').classed('legend-items', true);
+
+			svg.selectAll('[data-legend]').each(function() {
+				var self = d3.select(this);
+				items[self.attr('data-legend')] = {
+					pos: self.attr('data-legend-pos') || this.getBBox().y,
+					color: self.style('fill') !== 'none' ? self.style('fill') : self.style('stroke')
+				};
+			});
+
+			items = d3.entries(items).sort(function(a, b) { return a.value.pos - b.value.pos; });
+
+			li.selectAll('text')
+				.data(items, function(d) { return d.key; })
+				.call(function(d) { d.enter().append('text'); })
+				.call(function(d) { d.exit().remove(); })
+				.attr('y', function(d, i) { return i + 'em'; })
+				.attr('x', '1em')
+				.text(function(d) { return d.key; });
+
+			li.selectAll('circle')
+				.data(items, function(d) { return d.key; })
+				.call(function(d) { d.enter().append('circle'); })
+				.call(function(d) { d.exit().remove(); })
+				.attr('cy', function(d, i) { return i - 0.25 + 'em'; })
+				.attr('cx', 0)
+				.attr('r', '0.4em')
+				.style('fill', function(d) {
+					return d.value.color;
+				});
+
+			// Reposition and resize the box
+			var lbbox = li[0][0].getBBox();
+			lb.attr('x', (lbbox.x - legendPadding))
+				.attr('y', (lbbox.y - legendPadding))
+				.attr('height', (lbbox.height + 2 * legendPadding))
+				.attr('width', (lbbox.width + 2 * legendPadding));
+		});
+		return g;
+	};
+}));
 
 },{}],4:[function(require,module,exports){
 var d3 = require('d3');
@@ -9617,7 +9617,7 @@ module.exports = function render_metadata(boat) {
 	polartable(meta.select('.table-container'), boat);
 };
 
-},{"./polar-csv.js":5,"./polartable.js":7,"d3":2}],5:[function(require,module,exports){
+},{"./polar-csv.js":5,"./polartable.js":7,"d3":1}],5:[function(require,module,exports){
 
 function zeros(n) {
 	return Array.apply(null, new Array(n)).map(function () { return 0.0; });
@@ -9639,7 +9639,8 @@ module.exports = function polarexport(data) {
 
 },{}],6:[function(require,module,exports){
 var d3 = require('d3');
-require('d3-legend')(d3);
+require('./d3.legend.js')(d3);
+// require('d3-legend')(d3);
 
 var deg2rad = Math.PI / 180;
 
@@ -9764,8 +9765,13 @@ module.exports = function polarplot(container) {
 		var lines = svg.selectAll('.line').data(vpp_data);
 		lines.enter().append('path')
 			.call(tws_series('line'))
-			.attr('data-legend', function (d, i) {
-				return '' + data.vpp.speeds[i] + 'kts';
+			.attr({
+				'data-legend': function (d, i) {
+					return '' + data.vpp.speeds[i] + 'kts';
+				},
+				'data-legend-pos': function (d, i) {
+					return i;
+				}
 			});
 
 		lines.exit().remove();
@@ -9805,7 +9811,7 @@ module.exports = function polarplot(container) {
 	return plot;
 };
 
-},{"d3":2,"d3-legend":1}],7:[function(require,module,exports){
+},{"./d3.legend.js":3,"d3":1}],7:[function(require,module,exports){
 module.exports = function polartable(container, boat) {
 	var vpp = boat.vpp;
 
@@ -9927,5 +9933,5 @@ d3.select(window).on('resize', function () {
 	plot.resize();
 });
 
-},{"./src/array-random.js":3,"./src/meta.js":4,"./src/polarplot.js":6,"d3":2}]},{},[8])
+},{"./src/array-random.js":2,"./src/meta.js":4,"./src/polarplot.js":6,"d3":1}]},{},[8])
 //# sourceMappingURL=bundle.js.map

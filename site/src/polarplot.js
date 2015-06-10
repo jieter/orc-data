@@ -124,8 +124,13 @@ module.exports = function polarplot(container) {
 		var lines = svg.selectAll('.line').data(vpp_data);
 		lines.enter().append('path')
 			.call(tws_series('line'))
-			.attr('data-legend', function (d, i) {
-				return '' + data.vpp.speeds[i] + 'kts';
+			.attr({
+				'data-legend': function (d, i) {
+					return '' + data.vpp.speeds[i] + 'kts';
+				},
+				'data-legend-pos': function (d, i) {
+					return i;
+				}
 			});
 
 		lines.exit().remove();
