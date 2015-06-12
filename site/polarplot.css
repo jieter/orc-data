@@ -23,6 +23,8 @@ svg .axis text {
 	stroke: #000;
 	opacity: 0.8;
 }
+.highlight {stroke: #000; }
+
 .tws-6 { stroke: #1f77b4; }
 .tws-8 { stroke: #ff7f0e; }
 .tws-10 { stroke: #2ca02c; }
@@ -30,6 +32,10 @@ svg .axis text {
 .tws-14 { stroke: #9467bd; }
 .tws-16 { stroke: #17becf; }
 .tws-20 { stroke: #e377c2; }
+
+.polar-table td:hover {
+	background-color: #eee;
+}
 
 .vmg-run, .vmg-beat {
 	fill: #fff;

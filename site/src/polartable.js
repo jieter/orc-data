@@ -21,13 +21,23 @@ module.exports = function polartable(container, boat) {
 	var tbody = table.selectAll('tbody').data([0]).enter().append('tbody');
 
 	thead.selectAll('tr').data([0]).enter().append('tr')
-		.selectAll('th').data(header).enter().append('th').text(function (d) { return d; });
+		.selectAll('th').data(header).enter().append('th')
+			.text(function (d) { return d; });
 
 	var rows = tbody.selectAll('tr').data(data)
-		.enter().append('tr');
+		.enter().append('tr')
+			.attr('class', function (d, i) {
+				if (i >= 2 && i <= 9) {
+					return 'twa-' + vpp.angles[i - 2];
+				} else {
+					return '';
+				}
+			});
 
 	var cells = rows.selectAll('td').data(function (d) { return d; })
-		.enter().append('td');
+		.enter().append('td').attr('class', function (d, i) {
+			return (i > 0) ? 'tws-' + vpp.speeds[i - 1] : '';
+		});
 
 	cells.text(function (d) { return d; });
 };

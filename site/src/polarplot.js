@@ -85,20 +85,22 @@ module.exports = function polarplot(container) {
 
 	var plot = function () {};
 
+	var vpp;
 	plot.render = function (data) {
-		var vpp_angles = data.vpp.angles.map(function (d) { return d * deg2rad; });
+		vpp = data.vpp;
+		var vpp_angles = vpp.angles.map(function (d) { return d * deg2rad; });
 		var run_data = [];
 
 		var tws_series = function (cssClass) {
 			return function (sel) {
 				sel.attr('class', function (d, i) {
-					return cssClass + ' tws-' + data.vpp.speeds[i];
+					return cssClass + ' tws-' + vpp.speeds[i];
 				});
 			};
 		};
-		var vpp_data = data.vpp.speeds.map(function (windspeed, i) {
-			var series = d3.zip(vpp_angles, data.vpp.angles.map(function (angle) {
-				return data.vpp[angle][i];
+		var vpp_data = vpp.speeds.map(function (windspeed, i) {
+			var series = d3.zip(vpp_angles, vpp.angles.map(function (angle) {
+				return vpp[angle][i];
 			}));
 
 			var vmg2sog = function (beat_angle, vmg) {
@@ -107,9 +109,9 @@ module.exports = function polarplot(container) {
 				return [angle, speed];
 			};
 
-			series.unshift(vmg2sog(data.vpp.beat_angle[i], data.vpp.beat_vmg[i]));
+			series.unshift(vmg2sog(vpp.beat_angle[i], vpp.beat_vmg[i]));
 
-			var run = vmg2sog(data.vpp.run_angle[i], -data.vpp.run_vmg[i]);
+			var run = vmg2sog(vpp.run_angle[i], -vpp.run_vmg[i]);
 			series.push(run);
 			run_data.push(run);
 
@@ -126,7 +128,7 @@ module.exports = function polarplot(container) {
 			.call(tws_series('line'))
 			.attr({
 				'data-legend': function (d, i) {
-					return '' + data.vpp.speeds[i] + 'kts';
+					return '' + vpp.speeds[i] + 'kts';
 				},
 				'data-legend-pos': function (d, i) {
 					return i;
@@ -138,6 +140,29 @@ module.exports = function polarplot(container) {
 
 		legend.call(updateLegend);
 	};
+
+	var highlight;
+
+	d3.select(window).on('mouseover', function () {
+		var target = d3.select(d3.event.target);
+		var targetClass = target.attr('class');
+		var parent = d3.select(d3.event.target.parentNode);
+		var parentClass = parent.attr('class');
+
+		if (targetClass && targetClass.substring(0, 4) === 'tws-' && parent && parentClass.substring(0, 4) === 'twa-') {
+			var tws = +targetClass.substring(4);
+			var twa = +parentClass.substring(4);
+
+			var speed = vpp[twa][vpp.speeds.indexOf(tws)];
+			highlight = svg.selectAll('.highlight').data([[twa * deg2rad, speed]]);
+		} else {
+			highlight = svg.selectAll('.highlight').data([]);
+		}
+		highlight.enter().append('path').attr('class', 'highlight');
+		highlight.exit().remove();
+
+		highlight.transition().duration(50).call(scatter);
+	});
 
 
 	var originalSize = width();
