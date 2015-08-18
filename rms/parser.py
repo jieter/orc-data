@@ -18,6 +18,8 @@ class RMSParseException(Exception):
 def parse_rms(filename):
     '''returns a list of dicts containing the data from filename'''
 
+    country = filename.split('/')[1][0:3]
+
     with open(filename) as rms:
         header_row = rms.readline()
 
@@ -35,7 +37,9 @@ def parse_rms(filename):
 
                 values.append(value)
                 start += length
-            return dict(zip(header_names, values))
+            ret = dict(zip(header_names, values))
+            ret['country'] = country
+            return ret
 
         return [parse_row(row) for row in rms if len(row.strip()) > 1000]
 

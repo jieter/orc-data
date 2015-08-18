@@ -10,7 +10,7 @@ from rms.util import log
 if __name__ == '__main__':
     # display help:
     if len(sys.argv) <= 1:
-        log('Usage: scoring.py json                 print json data for all boats to stdout')
+        log('Usage: scoring.py json                 print json data for all boats to orc-data.json')
         log('       scoring.py json <sailnumber>    print json data for a single boat to stdout')
         log('       scoring.py csv                  pritn csv data for all boats to stdout')
         sys.exit(1)
@@ -25,11 +25,19 @@ if __name__ == '__main__':
         csvwriter(rms)
 
     elif sys.argv[1] == 'json':
-        from rms.json_output import jsonwriter_single, jsonwriter_list
 
         if len(sys.argv) == 3:
+            from rms.json_output import jsonwriter_single
             jsonwriter_single(rms, sys.argv[2])
         else:
+            from rms.json_output import jsonwriter_list
             jsonwriter_list(rms)
 
         log('Exported to json')
+
+    elif sys.argv[1] == 'site':
+        from rms.json_output import jsonwriter_site
+
+        jsonwriter_site(rms)
+
+        log('Exported for website: site/index.json + site/data/*.json')

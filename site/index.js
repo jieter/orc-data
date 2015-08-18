@@ -7,40 +7,43 @@ var plot = polarplot('#chart');
 
 function match_boats (data, needle) {
 	needle = needle.toLowerCase();
-	var values = [data.name, data.sailnumber, data.owner, data.boat.type];
 
-	for (var i in values) {
-		var value = values[i];
+	for (var i in data) {
+		var value = data[i];
 		if (value.toLowerCase().indexOf(needle) !== -1) {
 			return true;
 		}
 	}
 }
 
-function display_boat (boat) {
-	plot.render(boat);
-	render_metadata(boat);
+function display_boat (sailnumber) {
+	console.log('Loading ', sailnumber);
+	d3.json('data/' + sailnumber + '.json', function (boat) {
+		plot.render(boat);
+		render_metadata(boat);
 
-	d3.selectAll('#list li').classed('active', function (d) {
-		return d.sailnumber === boat.sailnumber;
+		d3.selectAll('#list li').classed('active', function (d) {
+			return d[0] === boat.sailnumber;
+		});
 	});
 }
 
 var list = d3.select('#list');
-d3.json('../NED2015.json', function (response) {
+d3.json('index.json', function (response) {
 	list.selectAll('li')
 		.data(response)
 		.enter()
-			.append('li').attr('id', function (d) { return 'boat-' + d.sailnumber; })
+			.append('li').attr('id', function (d) { return 'boat-' + d[0]; })
 			.append('a')
-			.attr({href: function (d) { return '#' + d.sailnumber; }, class: 'boat'})
+			.attr({href: function (d) { return '#' + d[0]; }, class: 'boat'})
 			.on('click', function (d) {
-				display_boat(d);
+				console.log(d);
+				display_boat(d[0]);
 				d3.select('.row-offcanvas').classed('active', false);
 			})
 			.html(function (d) {
-				return '<span class="sailnumber">' + d.sailnumber + '</span> ' + d.name +
-					   '<br /><span class="type">' + d.boat.type + '</span>';
+				return '<span class="sailnumber">' + d[0] + '</span> ' + d[1] +
+				       '<br /><span class="type">' + d[2] + '</span>';
 			});
 
 	if (window.location.hash === '') {
@@ -50,16 +53,12 @@ d3.json('../NED2015.json', function (response) {
 			d3.select('.row-offcanvas').classed('active', true);
 			d3.select('#name').html('<i class="glyphicon glyphicon-arrow-left"></i> Kies een boot');
 		} else {
-			display_boat(getRandomElement(response));
+			var sailnumber = getRandomElement(response)[0];
+			display_boat(sailnumber);
 		}
 	} else {
 		var sailnumber = window.location.hash.substring(1);
-
-		response.forEach(function (boat) {
-			if (boat.sailnumber === sailnumber) {
-				display_boat(boat);
-			}
-		});
+		display_boat(sailnumber);
 	}
 });
 

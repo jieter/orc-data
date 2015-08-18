@@ -73,7 +73,7 @@
 },{}],2:[function(require,module,exports){
 !function() {
   var d3 = {
-    version: "3.5.5"
+    version: "3.5.6"
   };
   var d3_arraySlice = [].slice, d3_array = function(list) {
     return d3_arraySlice.call(list);
@@ -1536,8 +1536,7 @@
     function zoomended(dispatch) {
       if (!--zooming) dispatch({
         type: "zoomend"
-      });
-      center0 = null;
+      }), center0 = null;
     }
     function mousedowned() {
       var that = this, target = d3.event.target, dispatch = event.of(that, arguments), dragged = 0, subject = d3.select(d3_window(that)).on(mousemove, moved).on(mouseup, ended), location0 = location(d3.mouse(that)), dragRestore = d3_event_dragSuppress(that);
@@ -1626,8 +1625,8 @@
     }
     function mousewheeled() {
       var dispatch = event.of(this, arguments);
-      if (mousewheelTimer) clearTimeout(mousewheelTimer); else translate0 = location(center0 = center || d3.mouse(this)), 
-      d3_selection_interrupt.call(this), zoomstarted(dispatch);
+      if (mousewheelTimer) clearTimeout(mousewheelTimer); else d3_selection_interrupt.call(this), 
+      translate0 = location(center0 = center || d3.mouse(this)), zoomstarted(dispatch);
       mousewheelTimer = setTimeout(function() {
         mousewheelTimer = null;
         zoomended(dispatch);
@@ -1772,8 +1771,9 @@
     return v < 16 ? "0" + Math.max(0, v).toString(16) : Math.min(255, v).toString(16);
   }
   function d3_rgb_parse(format, rgb, hsl) {
+    format = format.toLowerCase();
     var r = 0, g = 0, b = 0, m1, m2, color;
-    m1 = /([a-z]+)\((.*)\)/i.exec(format);
+    m1 = /([a-z]+)\((.*)\)/.exec(format);
     if (m1) {
       m2 = m1[2].split(",");
       switch (m1[1]) {
@@ -1788,7 +1788,7 @@
         }
       }
     }
-    if (color = d3_rgb_names.get(format.toLowerCase())) {
+    if (color = d3_rgb_names.get(format)) {
       return rgb(color.r, color.g, color.b);
     }
     if (format != null && format.charAt(0) === "#" && !isNaN(color = parseInt(format.slice(1), 16))) {
@@ -5858,7 +5858,7 @@
   }
   d3.interpolators = [ function(a, b) {
     var t = typeof b;
-    return (t === "string" ? d3_rgb_names.has(b) || /^(#|rgb\(|hsl\()/.test(b) ? d3_interpolateRgb : d3_interpolateString : b instanceof d3_color ? d3_interpolateRgb : Array.isArray(b) ? d3_interpolateArray : t === "object" && isNaN(b) ? d3_interpolateObject : d3_interpolateNumber)(a, b);
+    return (t === "string" ? d3_rgb_names.has(b.toLowerCase()) || /^(#|rgb\(|hsl\()/i.test(b) ? d3_interpolateRgb : d3_interpolateString : b instanceof d3_color ? d3_interpolateRgb : Array.isArray(b) ? d3_interpolateArray : t === "object" && isNaN(b) ? d3_interpolateObject : d3_interpolateNumber)(a, b);
   } ];
   d3.interpolateArray = d3_interpolateArray;
   function d3_interpolateArray(a, b) {
@@ -9576,7 +9576,7 @@
   this.d3 = d3;
 }();
 },{}],3:[function(require,module,exports){
-module.exports = function getRandomElement(arr) {
+module.exports = function getRandomElement (arr) {
 	return arr[Math.floor(Math.random() * arr.length)];
 };
 
@@ -9588,7 +9588,7 @@ var polartable = require('./polartable.js');
 
 var meta = d3.select('#meta').attr('class', 'meta');
 
-module.exports = function render_metadata(boat) {
+module.exports = function render_metadata (boat) {
 	d3.select('#name').html(boat.name || '<span class="text-muted">Geen naam bekend</span>');
 
 	meta.selectAll('.meta-item')
@@ -9619,11 +9619,11 @@ module.exports = function render_metadata(boat) {
 
 },{"./polar-csv.js":5,"./polartable.js":7,"d3":2}],5:[function(require,module,exports){
 
-function zeros(n) {
+function zeros (n) {
 	return Array.apply(null, new Array(n)).map(function () { return 0.0; });
 }
 
-module.exports = function polarexport(data) {
+module.exports = function polarexport (data) {
 	data = data.vpp;
 
 	var ret = ['twa/tws;' + data.speeds.join(';')];
@@ -9643,10 +9643,10 @@ require('d3-legend')(d3);
 
 var deg2rad = Math.PI / 180;
 
-module.exports = function polarplot(container) {
+module.exports = function polarplot (container) {
 
 	var containerElement = document.getElementById(container.substring(1));
-	var width = function() { return containerElement.offsetWidth - 20; };
+	var width = function () { return containerElement.offsetWidth - 20; };
 	var height = function () {
 		if (window.innerWidth < 768) {
 			return window.innerHeight;
@@ -9674,10 +9674,10 @@ module.exports = function polarplot(container) {
 	gr.append('circle').attr('r', r);
 
 	gr.append('text').attr({
-			y: function(d) { return -r(d) - 4; },
+			y: function (d) { return -r(d) - 4; },
 			transform: 'rotate(15)'
 		}).style('text-anchor', 'middle')
-		.text(function(d) { return d % 2 === 0 ? d + 'kts' : ''; });
+		.text(function (d) { return d % 2 === 0 ? d + 'kts' : ''; });
 
 	// wind direction
 	var graph = svg.append('g')
@@ -9685,16 +9685,16 @@ module.exports = function polarplot(container) {
 		.selectAll('g')
 			.data([0, 45, 52, 60, 75, 90, 110, 120, 135, 150, 165].map(function (d) { return d - 90; }))
 				.enter().append('g')
-					.attr('transform', function(d) { return 'rotate(' + d + ')'; });
+					.attr('transform', function (d) { return 'rotate(' + d + ')'; });
 
 	graph.append('line').attr({x1: r(1), x2: radius()});
 
 	var xaxis = function (sel) {
 		sel.attr('x', radius() + 6)
 		.attr('dy', '.35em')
-		.style('text-anchor', function(d) { return d < 270 && d > 90 ? 'end' : null; })
-		.attr('transform', function(d) { return d < 270 && d > 90 ? 'rotate(180 ' + (radius() + 6) + ', 0)' : null; })
-		.text(function(d) { return (d + 90) + '°'; });
+		.style('text-anchor', function (d) { return d < 270 && d > 90 ? 'end' : null; })
+		.attr('transform', function (d) { return d < 270 && d > 90 ? 'rotate(180 ' + (radius() + 6) + ', 0)' : null; })
+		.text(function (d) { return (d + 90) + '°'; });
 	};
 
 	graph.append('text')
@@ -9702,8 +9702,8 @@ module.exports = function polarplot(container) {
 
 
 	var line = d3.svg.line.radial()
-		.radius(function(d) { return r(d[1]); })
-		.angle(function(d) { return d[0]; })
+		.radius(function (d) { return r(d[1]); })
+		.angle(function (d) { return d[0]; })
 		.interpolate('cardinal');
 
 	// Plot VMG diamonds
@@ -9781,6 +9781,7 @@ module.exports = function polarplot(container) {
 		legend.call(updateLegend);
 	};
 
+	var highlight;
 
 	d3.select(window).on('mouseover', function () {
 		var target = d3.select(d3.event.target);
@@ -9793,9 +9794,9 @@ module.exports = function polarplot(container) {
 			var twa = +parentClass.substring(4);
 
 			var speed = vpp[twa][vpp.speeds.indexOf(tws)];
-			var highlight = svg.selectAll('.highlight').data([[twa * deg2rad, speed]]);
+			highlight = svg.selectAll('.highlight').data([[twa * deg2rad, speed]]);
 		} else {
-			var highlight = svg.selectAll('.highlight').data([]);
+			highlight = svg.selectAll('.highlight').data([]);
 		}
 		highlight.enter().append('path').attr('class', 'highlight');
 		highlight.exit().remove();
@@ -9818,7 +9819,7 @@ module.exports = function polarplot(container) {
 		r.range([0, radius()]);
 
 		gr.selectAll('.axis.r circle').attr('r', r);
-		gr.selectAll('.axis.r text').attr('y', function(d) { return -r(d) - 4; });
+		gr.selectAll('.axis.r text').attr('y', function (d) { return -r(d) - 4; });
 
 		graph.selectAll('line').attr('x2', radius());
 		svg.selectAll('.xlabel').call(xaxis);
@@ -9887,42 +9888,45 @@ var getRandomElement = require('./src/array-random.js');
 
 var plot = polarplot('#chart');
 
-function match_boats(data, needle) {
+function match_boats (data, needle) {
 	needle = needle.toLowerCase();
-	var values = [data.name, data.sailnumber, data.owner, data.boat.type];
 
-	for (var i in values) {
-		var value = values[i];
+	for (var i in data) {
+		var value = data[i];
 		if (value.toLowerCase().indexOf(needle) !== -1) {
 			return true;
 		}
 	}
 }
 
-function display_boat(boat) {
-	plot.render(boat);
-	render_metadata(boat);
+function display_boat (sailnumber) {
+	console.log('Loading ', sailnumber);
+	d3.json('data/' + sailnumber + '.json', function (boat) {
+		plot.render(boat);
+		render_metadata(boat);
 
-	d3.selectAll('#list li').classed('active', function (d) {
-		return d.sailnumber === boat.sailnumber;
+		d3.selectAll('#list li').classed('active', function (d) {
+			return d[0] === boat.sailnumber;
+		});
 	});
 }
 
 var list = d3.select('#list');
-d3.json('../NED2015.json', function (response) {
+d3.json('index.json', function (response) {
 	list.selectAll('li')
 		.data(response)
 		.enter()
-			.append('li').attr('id', function (d) { return 'boat-' + d.sailnumber; })
+			.append('li').attr('id', function (d) { return 'boat-' + d[0]; })
 			.append('a')
-			.attr({href: function (d) { return '#' + d.sailnumber; }, class: 'boat'})
+			.attr({href: function (d) { return '#' + d[0]; }, class: 'boat'})
 			.on('click', function (d) {
-				display_boat(d);
+				console.log(d);
+				display_boat(d[0]);
 				d3.select('.row-offcanvas').classed('active', false);
 			})
 			.html(function (d) {
-				return '<span class="sailnumber">' + d.sailnumber + '</span> ' + d.name +
-					   '<br /><span class="type">' + d.boat.type + '</span>';
+				return '<span class="sailnumber">' + d[0] + '</span> ' + d[1] +
+				       '<br /><span class="type">' + d[2] + '</span>';
 			});
 
 	if (window.location.hash === '') {
@@ -9932,20 +9936,16 @@ d3.json('../NED2015.json', function (response) {
 			d3.select('.row-offcanvas').classed('active', true);
 			d3.select('#name').html('<i class="glyphicon glyphicon-arrow-left"></i> Kies een boot');
 		} else {
-			display_boat(getRandomElement(response));
+			var sailnumber = getRandomElement(response)[0];
+			display_boat(sailnumber);
 		}
 	} else {
 		var sailnumber = window.location.hash.substring(1);
-
-		response.forEach(function (boat) {
-			if (boat.sailnumber === sailnumber) {
-				display_boat(boat);
-			}
-		});
+		display_boat(sailnumber);
 	}
 });
 
-function search() {
+function search () {
 	var val = d3.select('input').property('value');
 
 	if (val === '') {

@@ -2,7 +2,7 @@ import json
 
 from util import time_allowance2speed
 
-from . import WIND_ANGLES, WIND_SPEEDS
+from . import COUNTRIES, WIND_ANGLES, WIND_SPEEDS
 
 
 def select(boats, key, value):
@@ -16,8 +16,15 @@ def clean_string(str):
     return unicode(str, errors='replace')
 
 def format_data(data):
+
+    sailnumber = clean_string(data['SAILNUMB']).replace(' ', '').replace('-', '').replace('/', '')
+
+    if sailnumber[0:3] not in COUNTRIES:
+        print('appending country to sailnumber: %s' % sailnumber)
+        sailnumber = data['country'] + sailnumber
+
     ret = {
-        'sailnumber': clean_string(data['SAILNUMB']).replace(' ', '').replace('-', ''),
+        'sailnumber': sailnumber,
         'name': clean_string(data['NAME']),
         'owner': clean_string(data['OWNER']),
         'rating': {
@@ -70,4 +77,23 @@ def jsonwriter_single(rmsdata, sailno):
 def jsonwriter_list(rmsdata):
     data = map(format_data, rmsdata)
     data = sorted(data, key=lambda x: x['name'])
-    print(json.dumps(data, separators=(',', ':')))
+
+    with open('orc-data.json') as outfile:
+        json.dump(data, outfile, separators=(',', ':', ))
+
+
+def jsonwriter_site(rmsdata):
+    data = map(format_data, rmsdata)
+    data = sorted(data, key=lambda x: x['name'])
+    index = [
+        [x['sailnumber'], x['name'], x['boat']['type']] for x in data
+    ]
+
+    with open('site/index.json', 'w+') as outfile:
+        json.dump(index, outfile)
+
+    for boat in data:
+        filename = 'site/data/%s.json' % boat['sailnumber']
+
+        with open(filename, 'w+') as outfile:
+            json.dump(boat, outfile)
