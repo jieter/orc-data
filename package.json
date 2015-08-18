@@ -6,8 +6,8 @@
     "lint": "eslint site/src/ site/index.js"
   },
   "devDependencies": {
-    "browserify": "^10.2.4",
-    "eslint": "^0.22.1",
+    "browserify": "^10.2.6",
+    "eslint": "^1.1.0",
     "exorcist": "^0.4.0"
   },
   "dependencies": {
