@@ -12,8 +12,10 @@ def select(boats, key, value):
 
     return None
 
+
 def clean_string(str):
     return unicode(str, errors='replace')
+
 
 def format_data(data):
 
@@ -86,7 +88,7 @@ def jsonwriter_site(rmsdata):
     data = map(format_data, rmsdata)
     data = sorted(data, key=lambda x: x['name'])
     index = [
-        [x['sailnumber'], x['name'], x['boat']['type']] for x in data
+        [boat['sailnumber'], boat['name'], boat['boat']['type']] for boat in data
     ]
 
     with open('site/index.json', 'w+') as outfile:

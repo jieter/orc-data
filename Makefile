@@ -48,4 +48,4 @@ clean:
 
 test:
 	eslint site/index.js site/src/*
-	flake8 --ignore=E501 .
+	flake8 --ignore=E501 scoring.py rms/*.py
