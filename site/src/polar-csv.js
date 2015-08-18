@@ -1,9 +1,9 @@
 
-function zeros(n) {
+function zeros (n) {
 	return Array.apply(null, new Array(n)).map(function () { return 0.0; });
 }
 
-module.exports = function polarexport(data) {
+module.exports = function polarexport (data) {
 	data = data.vpp;
 
 	var ret = ['twa/tws;' + data.speeds.join(';')];

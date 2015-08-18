@@ -5,7 +5,7 @@ var polartable = require('./polartable.js');
 
 var meta = d3.select('#meta').attr('class', 'meta');
 
-module.exports = function render_metadata(boat) {
+module.exports = function render_metadata (boat) {
 	d3.select('#name').html(boat.name || '<span class="text-muted">Geen naam bekend</span>');
 
 	meta.selectAll('.meta-item')

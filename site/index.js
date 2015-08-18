@@ -5,7 +5,7 @@ var getRandomElement = require('./src/array-random.js');
 
 var plot = polarplot('#chart');
 
-function match_boats(data, needle) {
+function match_boats (data, needle) {
 	needle = needle.toLowerCase();
 	var values = [data.name, data.sailnumber, data.owner, data.boat.type];
 
@@ -17,7 +17,7 @@ function match_boats(data, needle) {
 	}
 }
 
-function display_boat(boat) {
+function display_boat (boat) {
 	plot.render(boat);
 	render_metadata(boat);
 
@@ -63,7 +63,7 @@ d3.json('../NED2015.json', function (response) {
 	}
 });
 
-function search() {
+function search () {
 	var val = d3.select('input').property('value');
 
 	if (val === '') {

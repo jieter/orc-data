@@ -3,10 +3,10 @@ require('d3-legend')(d3);
 
 var deg2rad = Math.PI / 180;
 
-module.exports = function polarplot(container) {
+module.exports = function polarplot (container) {
 
 	var containerElement = document.getElementById(container.substring(1));
-	var width = function() { return containerElement.offsetWidth - 20; };
+	var width = function () { return containerElement.offsetWidth - 20; };
 	var height = function () {
 		if (window.innerWidth < 768) {
 			return window.innerHeight;
@@ -34,10 +34,10 @@ module.exports = function polarplot(container) {
 	gr.append('circle').attr('r', r);
 
 	gr.append('text').attr({
-			y: function(d) { return -r(d) - 4; },
+			y: function (d) { return -r(d) - 4; },
 			transform: 'rotate(15)'
 		}).style('text-anchor', 'middle')
-		.text(function(d) { return d % 2 === 0 ? d + 'kts' : ''; });
+		.text(function (d) { return d % 2 === 0 ? d + 'kts' : ''; });
 
 	// wind direction
 	var graph = svg.append('g')
@@ -45,16 +45,16 @@ module.exports = function polarplot(container) {
 		.selectAll('g')
 			.data([0, 45, 52, 60, 75, 90, 110, 120, 135, 150, 165].map(function (d) { return d - 90; }))
 				.enter().append('g')
-					.attr('transform', function(d) { return 'rotate(' + d + ')'; });
+					.attr('transform', function (d) { return 'rotate(' + d + ')'; });
 
 	graph.append('line').attr({x1: r(1), x2: radius()});
 
 	var xaxis = function (sel) {
 		sel.attr('x', radius() + 6)
 		.attr('dy', '.35em')
-		.style('text-anchor', function(d) { return d < 270 && d > 90 ? 'end' : null; })
-		.attr('transform', function(d) { return d < 270 && d > 90 ? 'rotate(180 ' + (radius() + 6) + ', 0)' : null; })
-		.text(function(d) { return (d + 90) + '°'; });
+		.style('text-anchor', function (d) { return d < 270 && d > 90 ? 'end' : null; })
+		.attr('transform', function (d) { return d < 270 && d > 90 ? 'rotate(180 ' + (radius() + 6) + ', 0)' : null; })
+		.text(function (d) { return (d + 90) + '°'; });
 	};
 
 	graph.append('text')
@@ -62,8 +62,8 @@ module.exports = function polarplot(container) {
 
 
 	var line = d3.svg.line.radial()
-		.radius(function(d) { return r(d[1]); })
-		.angle(function(d) { return d[0]; })
+		.radius(function (d) { return r(d[1]); })
+		.angle(function (d) { return d[0]; })
 		.interpolate('cardinal');
 
 	// Plot VMG diamonds
@@ -179,7 +179,7 @@ module.exports = function polarplot(container) {
 		r.range([0, radius()]);
 
 		gr.selectAll('.axis.r circle').attr('r', r);
-		gr.selectAll('.axis.r text').attr('y', function(d) { return -r(d) - 4; });
+		gr.selectAll('.axis.r text').attr('y', function (d) { return -r(d) - 4; });
 
 		graph.selectAll('line').attr('x2', radius());
 		svg.selectAll('.xlabel').call(xaxis);

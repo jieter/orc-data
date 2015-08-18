@@ -24,3 +24,8 @@ csv: $(BASE).rms
 
 clean:
 	rm $(BASE).*
+	rm -rf data/*.rms
+
+test:
+	eslint site/index.js site/src/*
+	flake8 --ignore=E501 .
