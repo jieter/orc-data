@@ -12,21 +12,23 @@ def select(boats, key, value):
 
     return None
 
+def clean_string(str):
+    return unicode(str, errors='replace')
 
 def format_data(data):
     ret = {
-        'sailnumber': data['SAILNUMB'].replace(' ', ''),
-        'name': data['NAME'],
-        'owner': data['OWNER'],
+        'sailnumber': clean_string(data['SAILNUMB']).replace(' ', '').replace('-', ''),
+        'name': clean_string(data['NAME']),
+        'owner': clean_string(data['OWNER']),
         'rating': {
             'gph': float(data['GPH']),
             'triple_offshore': map(float, [data['OTNLOW'], data['OTNMED'], data['OTNHIG']]),
             'triple_inshore': map(float, [data['ITNLOW'], data['ITNMED'], data['ITNHIG']]),
         },
         'boat': {
-            'builder': data['BUILDER'],
+            'builder': clean_string(data['BUILDER']),
             'type': data['TYPE'],
-            'designer': data['DESIGNER'],
+            'designer': clean_string(data['DESIGNER']),
             'year': data['YEAR'],
             'sizes': {
                 'loa': float(data['LOA']),
@@ -60,6 +62,8 @@ def format_data(data):
 def jsonwriter_single(rmsdata, sailno):
     data = map(format_data, rmsdata)
     data = select(data, 'sailnumber', sailno)
+
+    print data
     print(json.dumps(data, indent=2))
 
 

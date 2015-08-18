@@ -53,6 +53,6 @@ def parse_rms_glob(pattern):
             continue
 
         ret.extend(data)
-        log('Loaded %d boads from %s' % (len(data), filename))
+        log('Loaded %d boats from %s' % (len(data), filename))
 
     return ret
