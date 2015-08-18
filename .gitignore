@@ -2,3 +2,4 @@ ALL2015.rms
 data/
 site/bundle.js.map
 meetbrieven/
+*.pyc

@@ -1,4 +1,14 @@
-URL = http://data.orc.org/public/WPub.dll?action=DownRMS&CountryId=NED
+# Download orc.org RMS files and convert to json/csv using scoring.py
+#
+
+URL = http://data.orc.org/public/WPub.dll?action=DownRMS&CountryId=
+COUNTRIES = ITA NOR ESP NED GRE GER POL CRO FRA SUI ARG AUS POR \
+            LTU FIN RUS BRA EST ISR SWE UKR ROU HUN AUT CAN JPN \
+			KOR ECU PER SLO CHN CYP NLS DEN LAT MLT MNE TUR MRI USA
+
+YEAR = 2015
+
+RMS_FILES = $(addprefix data/, $(addsuffix $(YEAR).rms, $(COUNTRIES)))
 
 HEADERS += -H 'DNT: 1' -H 'Accept-Encoding: gzip, deflate, sdch'
 HEADERS += -H 'Accept-Language: en' -H 'User-Agent: Mozilla/5.0'
@@ -6,21 +16,31 @@ HEADERS += -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,ima
 HEADERS += -H 'Referer: http://data.orc.org/public/WPub.dll'
 HEADERS += -H 'Connection: keep-alive'
 
-BASE=NED2015
+BASE=ALL$(YEAR)
 
-json: $(BASE).rms
-	./scoring.py json > $(BASE).json
+all: json
 
-$(BASE).rms:
-	# Simple wget doesn't work here, with wget the downloaded file only contains the header.
-	curl '$(URL)' $(HEADERS) --compressed > tmp.rms
+rms: $(RMS_FILES)
 
-	# fix header alignment by replaceing it with hand crafted header
-	{ cat header.rms; tail tmp.rms -n +2; } > $(BASE).rms
+data:
+	mkdir -p data/
+
+# Fetch the files from orc.org.
+# Simple wget doesn't work here, with wget the downloaded file only contains the header.
+#
+# Header alignment in these files seems to be broken, we fix header alignment by
+# replacing it with hand crafted header.
+data/%$(YEAR).rms: data
+	curl '$(URL)$*' $(HEADERS) --compressed > tmp.rms
+
+	{ cat header.rms; tail tmp.rms -n +2; } > $@
 	rm tmp.rms
 
-csv: $(BASE).rms
+csv:
 	./scoring.py csv > $(BASE).csv
+
+json:
+	./scoring.py json > $(BASE).json
 
 clean:
 	rm $(BASE).*
