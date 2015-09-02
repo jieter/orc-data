@@ -64,6 +64,13 @@ input { margin-bottom: 2px; }
 	font-size: 10px;
 }
 
+#meta textarea {
+	width: 100%;
+	height: 300px;
+	font-family: monospace;
+	font-size: 10px;
+}
+
 .polar-table {
 	font-size: 12px;
 	max-width: 500px;

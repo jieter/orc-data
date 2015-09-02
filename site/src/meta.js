@@ -1,6 +1,6 @@
 var d3 = require('d3');
 
-var polarcsv = require('./polar-csv.js');
+var polarcsv = require('./polar-csv.js').export;
 var polartable = require('./polartable.js');
 
 var meta = d3.select('#meta').attr('class', 'meta');

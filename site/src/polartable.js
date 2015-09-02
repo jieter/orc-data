@@ -1,4 +1,4 @@
-module.exports = function polartable(container, boat) {
+module.exports = function polartable (container, boat) {
 	var vpp = boat.vpp;
 
 	// prepare data:

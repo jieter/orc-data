@@ -87,7 +87,8 @@ module.exports = function polarplot (container) {
 
 	var vpp;
 	plot.render = function (data) {
-		vpp = data.vpp;
+		vpp = ('vpp' in data) ? data.vpp : data;
+
 		var vpp_angles = vpp.angles.map(function (d) { return d * deg2rad; });
 		var run_data = [];
 
@@ -108,12 +109,14 @@ module.exports = function polarplot (container) {
 				var speed = vmg / Math.cos(angle);
 				return [angle, speed];
 			};
-
-			series.unshift(vmg2sog(vpp.beat_angle[i], vpp.beat_vmg[i]));
-
-			var run = vmg2sog(vpp.run_angle[i], -vpp.run_vmg[i]);
-			series.push(run);
-			run_data.push(run);
+			if (vpp.beat_angle) {
+				series.unshift(vmg2sog(vpp.beat_angle[i], vpp.beat_vmg[i]));
+			}
+			if (vpp.run_angle) {
+				var run = vmg2sog(vpp.run_angle[i], -vpp.run_vmg[i]);
+				series.push(run);
+				run_data.push(run);
+			}
 
 			return series.sort(function (a, b) { return a[0] - b[0]; });
 		});
