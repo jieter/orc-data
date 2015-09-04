@@ -9576,6 +9576,33 @@
   this.d3 = d3;
 }();
 },{}],3:[function(require,module,exports){
+var d3 = require('d3');
+var polarplot = require('./src/polarplot.js');
+
+var import_polar = require('./src/polar-csv.js').import;
+
+var plot = polarplot('#chart');
+
+
+function update() {
+    var csv = d3.select('textarea').property('value');
+
+    var polar = import_polar(csv);
+
+    console.log(polar);
+
+    plot.render(polar);
+}
+
+d3.select('textarea').on('keyup', update);
+
+update();
+
+},{"./src/polar-csv.js":4,"./src/polarplot.js":5,"d3":2}],4:[function(require,module,exports){
+var d3 = require('d3');
+
+var vmg2sog = require('./util.js').vmg2sog;
+
 var CSV_PREAMBLE = 'twa/tws';
 var CSV_SEPARATOR = ';';
 
@@ -9588,6 +9615,7 @@ function int (n) {
 function float (n) {
 	return +n;
 }
+
 function polarimport (str) {
 	str = str.trim();
 
@@ -9595,8 +9623,8 @@ function polarimport (str) {
 		throw 'CSV should start with ' + CSV_PREAMBLE;
 	}
 
-	// split by lines.
-	var rows = str.split(/\r?\n/).filter(function(s) { return s.length > 0 && s[0] != '#'; });
+	// split by lines, filter empty lines and comments (starting with #)
+	var rows = str.split(/\r?\n/).filter(function (s) { return s.length > 0 && s[0] != '#'; });
 
 	var polar = {
 		speeds: rows[0].split(CSV_SEPARATOR).slice(1).map(int),
@@ -9618,14 +9646,22 @@ function polarimport (str) {
 function polarexport (data) {
 	vpp = ('vpp' in data) ? data.vpp : data;
 
-	var ret = [ [CSV_PREAMBLE].concat(data.speeds)];
-	ret.push(zeros(data.speeds.length + 1));
+	var ret = [
+		[CSV_PREAMBLE].concat(vpp.speeds),
+		zeros(vpp.speeds.length + 1)
+	];
 
-	data.angles.forEach(function (angle) {
-		ret.push([angle].concat(data[angle]));
+	vpp.beat_angle.forEach(function (beat_angle, i) {
+		var beat = [beat_angle].concat(zeros(vpp.speeds.length));
+		beat[i + 1] = d3.round(vmg2sog(beat_angle, vpp.beat_vmg[i]), 2);
+		ret.push(beat);
 	});
 
-	return ret.join('\n').map(function (row) { return row.join(CSV_SEPARATOR); });
+	vpp.angles.forEach(function (angle) {
+		ret.push([angle].concat(vpp[angle]));
+	});
+
+	return ret.map(function (row) { return row.join(CSV_SEPARATOR + ' '); }).join('\n');
 }
 
 module.exports = {
@@ -9633,11 +9669,11 @@ module.exports = {
 	import: polarimport
 }
 
-},{}],4:[function(require,module,exports){
+},{"./util.js":6,"d3":2}],5:[function(require,module,exports){
 var d3 = require('d3');
 require('d3-legend')(d3);
 
-var deg2rad = Math.PI / 180;
+var util = require('./util.js');
 
 module.exports = function polarplot (container) {
 
@@ -9725,7 +9761,7 @@ module.exports = function polarplot (container) {
 	plot.render = function (data) {
 		vpp = ('vpp' in data) ? data.vpp : data;
 
-		var vpp_angles = vpp.angles.map(function (d) { return d * deg2rad; });
+		var vpp_angles = vpp.angles.map(function (d) { return d * util.deg2rad; });
 		var run_data = [];
 
 		var tws_series = function (cssClass) {
@@ -9739,12 +9775,13 @@ module.exports = function polarplot (container) {
 			var series = d3.zip(vpp_angles, vpp.angles.map(function (angle) {
 				return vpp[angle][i];
 			}));
+			// filter points with zero SOG
+			series = series.filter(function (a) { return a[1] > 0; });
 
-			var vmg2sog = function (beat_angle, vmg) {
-				var angle = beat_angle * deg2rad;
-				var speed = vmg / Math.cos(angle);
-				return [angle, speed];
-			};
+
+			var vmg2sog = function (degrees, vmg) {
+				return [degrees * util.deg2rad, util.vmg2sog(degrees, vmg)];
+			}
 			if (vpp.beat_angle) {
 				series.unshift(vmg2sog(vpp.beat_angle[i], vpp.beat_vmg[i]));
 			}
@@ -9793,7 +9830,7 @@ module.exports = function polarplot (container) {
 			var twa = +parentClass.substring(4);
 
 			var speed = vpp[twa][vpp.speeds.indexOf(tws)];
-			highlight = svg.selectAll('.highlight').data([[twa * deg2rad, speed]]);
+			highlight = svg.selectAll('.highlight').data([[twa * util.deg2rad, speed]]);
 		} else {
 			highlight = svg.selectAll('.highlight').data([]);
 		}
@@ -9834,28 +9871,15 @@ module.exports = function polarplot (container) {
 	return plot;
 };
 
-},{"d3":2,"d3-legend":1}],5:[function(require,module,exports){
-var d3 = require('d3');
-var polarplot = require('./src/polarplot.js');
+},{"./util.js":6,"d3":2,"d3-legend":1}],6:[function(require,module,exports){
+var deg2rad = Math.PI / 180;
 
-var import_polar = require('./src/polar-csv.js').import;
+module.exports = {
+    deg2rad: deg2rad,
 
-var plot = polarplot('#chart');
+    vmg2sog: function (beat_angle, vmg) {
+        return vmg / Math.cos(beat_angle * deg2rad);
+    }
+};
 
-
-function update() {
-    var csv = d3.select('textarea').property('value');
-
-    var polar = import_polar(csv);
-
-    console.log(polar);
-
-    plot.render(polar);
-}
-
-d3.select('textarea').on('keyup', update);
-
-update();
-
-},{"./src/polar-csv.js":3,"./src/polarplot.js":4,"d3":2}]},{},[5])
-//# sourceMappingURL=bundle.js.map
+},{}]},{},[3]);
