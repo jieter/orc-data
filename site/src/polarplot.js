@@ -1,7 +1,7 @@
 var d3 = require('d3');
 require('d3-legend')(d3);
 
-var deg2rad = Math.PI / 180;
+var util = require('./util.js');
 
 module.exports = function polarplot (container) {
 
@@ -89,7 +89,7 @@ module.exports = function polarplot (container) {
 	plot.render = function (data) {
 		vpp = ('vpp' in data) ? data.vpp : data;
 
-		var vpp_angles = vpp.angles.map(function (d) { return d * deg2rad; });
+		var vpp_angles = vpp.angles.map(function (d) { return d * util.deg2rad; });
 		var run_data = [];
 
 		var tws_series = function (cssClass) {
@@ -103,12 +103,13 @@ module.exports = function polarplot (container) {
 			var series = d3.zip(vpp_angles, vpp.angles.map(function (angle) {
 				return vpp[angle][i];
 			}));
+			// filter points with zero SOG
+			series = series.filter(function (a) { return a[1] > 0; });
 
-			var vmg2sog = function (beat_angle, vmg) {
-				var angle = beat_angle * deg2rad;
-				var speed = vmg / Math.cos(angle);
-				return [angle, speed];
-			};
+
+			var vmg2sog = function (degrees, vmg) {
+				return [degrees * util.deg2rad, util.vmg2sog(degrees, vmg)];
+			}
 			if (vpp.beat_angle) {
 				series.unshift(vmg2sog(vpp.beat_angle[i], vpp.beat_vmg[i]));
 			}
@@ -157,7 +158,7 @@ module.exports = function polarplot (container) {
 			var twa = +parentClass.substring(4);
 
 			var speed = vpp[twa][vpp.speeds.indexOf(tws)];
-			highlight = svg.selectAll('.highlight').data([[twa * deg2rad, speed]]);
+			highlight = svg.selectAll('.highlight').data([[twa * util.deg2rad, speed]]);
 		} else {
 			highlight = svg.selectAll('.highlight').data([]);
 		}

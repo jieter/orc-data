@@ -1,3 +1,7 @@
+var d3 = require('d3');
+
+var vmg2sog = require('./util.js').vmg2sog;
+
 var CSV_PREAMBLE = 'twa/tws';
 var CSV_SEPARATOR = ';';
 
@@ -10,6 +14,7 @@ function int (n) {
 function float (n) {
 	return +n;
 }
+
 function polarimport (str) {
 	str = str.trim();
 
@@ -41,15 +46,21 @@ function polarexport (data) {
 	vpp = ('vpp' in data) ? data.vpp : data;
 
 	var ret = [
-		[CSV_PREAMBLE].concat(data.speeds),
-		zeros(data.speeds.length + 1)
+		[CSV_PREAMBLE].concat(vpp.speeds),
+		zeros(vpp.speeds.length + 1)
 	];
 
-	data.angles.forEach(function (angle) {
-		ret.push([angle].concat(data[angle]));
+	vpp.beat_angle.forEach(function (beat_angle, i) {
+		var beat = [beat_angle].concat(zeros(vpp.speeds.length));
+		beat[i + 1] = d3.round(vmg2sog(beat_angle, vpp.beat_vmg[i]), 2);
+		ret.push(beat);
 	});
 
-	return ret.join('\n').map(function (row) { return row.join(CSV_SEPARATOR); });
+	vpp.angles.forEach(function (angle) {
+		ret.push([angle].concat(vpp[angle]));
+	});
+
+	return ret.map(function (row) { return row.join(CSV_SEPARATOR + ' '); }).join('\n');
 }
 
 module.exports = {
