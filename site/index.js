@@ -1,5 +1,6 @@
 var d3 = require('d3');
 var polarplot = require('./src/polarplot.js');
+var import_polar = require('./src/polar-csv.js').import;
 var render_metadata = require('./src/meta.js');
 var getRandomElement = require('./src/array-random.js');
 
@@ -46,7 +47,19 @@ d3.json('index.json', function (response) {
 				       '<br /><span class="type">' + d[2] + '</span>';
 			});
 
-	if (window.location.hash === '') {
+	var polar_textarea = d3.select('textarea');
+	if (!polar_textarea.empty()) {
+		function render_from_textarea () {
+			var csv = polar_textarea.property('value');
+			var polar = import_polar(csv);
+
+			plot.render(polar);
+		}
+		d3.select('textarea').on('keyup', render_from_textarea);
+
+		render_from_textarea();
+
+	} else if (window.location.hash === '') {
 		// if window width is xs, do not randomly choose a boot but show
 		// selection list
 		if (window.innerWidth < 768) {

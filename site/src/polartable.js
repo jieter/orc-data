@@ -1,16 +1,21 @@
+
+function add_degrees_symbol (d) {
+	return d + '°';
+}
+
 module.exports = function polartable (container, boat) {
 	var vpp = boat.vpp;
 
 	// prepare data:
 	var header = ['Wind velocity'].concat(vpp.speeds.map(function (d) { return d + 'kts'; }));
 	var data = [
-		['Beat angles'].concat(vpp.beat_angle),
+		['Beat angles'].concat(vpp.beat_angle.map(add_degrees_symbol)),
 		['Beat VMG'].concat(vpp.beat_vmg)
 	].concat(vpp.angles.map(function (angle) {
-		return [angle + '°'].concat(vpp['' + angle]);
+		return [add_degrees_symbol(angle)].concat(vpp['' + angle]);
 	})).concat([
 		['Run VMG'].concat(vpp.run_vmg),
-		['Gybe angles'].concat(vpp.run_angle)
+		['Gybe angles'].concat(vpp.run_angle.map(add_degrees_symbol))
 	]);
 
 	var table = container.selectAll('table').data([0]).enter()

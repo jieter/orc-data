@@ -40,15 +40,16 @@
 			<div class="row">
 				<div class="col-lg-5 col-sm-6" id="chart"></div>
 				<div class="col-lg-7 col-sm-6" id="meta">
-<textarea>
+<textarea class="plot-only">
 twa/tws;6;8;10;12;14;16;20
 0;0;0;0;0;0;0;0
 
 # Dit is de polar van https://jieter.github.io/orc-data/site/#ITA14800
-# nullen komen niet terug in de plot dus je kunt je beat VMG er ook in kwijt,
-# door alleen voor die windsnelheid een snelheid in te voeren
-# je moet dan nog wel de vmg omrekenen naar sog: sog = vmg / cos(beat_angle)
+# nullen komen niet terug in de plot, dus de optimale kruishoeken kunnen ook
+# geplot worden door alleen voor die windsnelheid een snelheid in te voeren.
+# Je moet dan nog wel de vmg omrekenen naar sog: sog = vmg / cos(beat_angle)
 
+# Aan de wind
 44.2;5.02;0;0;0;0;0;0
 42.9;0;5.99;0;0;0;0;0
 42.5;0;0;6.81;0;0;0;0
@@ -56,6 +57,7 @@ twa/tws;6;8;10;12;14;16;20
 39.3;0;0;0;0;7.31;0;0
 38.3;0;0;0;0;0;7.39;0
 38.4;0;0;0;0;0;0;7.53
+
 52;5.58;6.71;7.54;7.9;8.06;8.15;8.25
 60;5.97;7.13;7.82;8.14;8.3;8.4;8.49
 75;6.33;7.46;8.03;8.36;8.62;8.83;9.02
@@ -64,6 +66,15 @@ twa/tws;6;8;10;12;14;16;20
 120;6.15;7.54;8.22;8.65;9.15;9.52;10.07
 135;5.48;6.78;7.75;8.26;8.69;9.2;10.45
 150;4.54;5.7;6.76;7.58;8.12;8.52;9.46
+
+# ruime wind
+142.1;4.98;0;0;0;0;0;0
+144.7;0;6.04;0;0;0;0;0
+144.9;0;0;7.15;0;0;0;0
+153.4;0;0;0;7.38;0;0;0
+159.4;0;0;0;0;7.71;0;0
+166.9;0;0;0;0;0;7.92;0
+173.1;0;0;0;0;0;0;8.54
 </textarea>
 				</div>
 			</div>
@@ -74,7 +85,7 @@ twa/tws;6;8;10;12;14;16;20
 
 	<script src="//code.jquery.com/jquery-2.1.4.min.js"></script>
 	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.js"></script>
-	<script src="bundle-csvplot.js"></script>
+	<script src="bundle.js"></script>
 
 	<script type="text/javascript">
 	  var _gaq = _gaq || [];
