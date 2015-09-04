@@ -80,7 +80,7 @@ def jsonwriter_list(rmsdata):
     data = map(format_data, rmsdata)
     data = sorted(data, key=lambda x: x['name'])
 
-    with open('orc-data.json') as outfile:
+    with open('orc-data.json', 'w') as outfile:
         json.dump(data, outfile, separators=(',', ':', ))
 
 
