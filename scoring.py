@@ -12,10 +12,11 @@ if __name__ == '__main__':
     if len(sys.argv) <= 1:
         log('Usage: scoring.py json                 print json data for all boats to orc-data.json')
         log('       scoring.py json <sailnumber>    print json data for a single boat to stdout')
-        log('       scoring.py csv                  pritn csv data for all boats to stdout')
+        log('       scoring.py csv                  print csv data for all boats to stdout')
+        log('       scoring.py site                 Export data for gh-pages site to site/index.json and site/data/*.json')
         sys.exit(1)
 
-    pattern = 'data/*'
+    pattern = 'data/*2016*'
     rms = parse_rms_glob(pattern)
     log('Loaded a total of %d boats with pattern %s.' % (len(rms), pattern))
 

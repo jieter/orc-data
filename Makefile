@@ -6,7 +6,7 @@ COUNTRIES = ITA NOR ESP NED GRE GER POL CRO FRA SUI ARG AUS POR \
             LTU FIN RUS BRA EST ISR SWE UKR ROU HUN AUT CAN JPN \
 			KOR ECU PER SLO CHN CYP NLS DEN LAT MLT MNE TUR MRI USA
 
-YEAR = 2015
+YEAR = 2016
 
 RMS_FILES = $(addprefix data/, $(addsuffix $(YEAR).rms, $(COUNTRIES)))
 
@@ -16,7 +16,7 @@ HEADERS += -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,ima
 HEADERS += -H 'Referer: http://data.orc.org/public/WPub.dll'
 HEADERS += -H 'Connection: keep-alive'
 
-BASE=ALL$(YEAR)
+BASE = ALL$(YEAR)
 
 all: json
 
@@ -42,6 +42,9 @@ csv:
 json:
 	./scoring.py json > $(BASE).json
 
+site:
+	./scoring.py site
+
 clean:
 	rm $(BASE).*
 	rm -rf data/*.rms
@@ -49,3 +52,5 @@ clean:
 test:
 	eslint site/index.js site/src/*
 	flake8 --ignore=E501 scoring.py rms/*.py
+
+.PHONY: site
