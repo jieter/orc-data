@@ -1,4 +1,5 @@
 import json
+import os
 
 from util import time_allowance2speed
 
@@ -24,9 +25,17 @@ def format_data(data):
     if sailnumber[0:3] not in COUNTRIES:
         print('appending country to sailnumber: %s' % sailnumber)
         sailnumber = data['country'] + sailnumber
+    elif data['country'].upper() not in COUNTRIES:
+        print('Fetched country from sailnumber: %s' % sailnumber)
+        data['country'] = sailnumber[0:3]
+    else:
+        print(data)
+        raise
+
 
     ret = {
         'sailnumber': sailnumber,
+        'country': data['country'],
         'name': clean_string(data['NAME']),
         'owner': clean_string(data['OWNER']),
         'rating': {
@@ -87,6 +96,7 @@ def jsonwriter_list(rmsdata):
 def jsonwriter_site(rmsdata):
     data = map(format_data, rmsdata)
     data = sorted(data, key=lambda x: x['name'])
+    data = filter(lambda x: x['country'] in COUNTRIES, data)
     index = [
         [boat['sailnumber'], boat['name'], boat['boat']['type']] for boat in data
     ]
@@ -94,8 +104,13 @@ def jsonwriter_site(rmsdata):
     with open('site/index.json', 'w+') as outfile:
         json.dump(index, outfile)
 
+    for country in COUNTRIES:
+        country_directory = 'site/data/{}/'.format(country)
+        if not os.path.exists(country_directory):
+            os.makedirs(country_directory)
+
     for boat in data:
-        filename = 'site/data/%s.json' % boat['sailnumber']
+        filename = 'site/data/{country}/{sailnumber}.json'.format(**boat)
 
         with open(filename, 'w+') as outfile:
             json.dump(boat, outfile)

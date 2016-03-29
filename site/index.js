@@ -19,7 +19,7 @@ function match_boats (data, needle) {
 
 function display_boat (sailnumber) {
 	console.log('Loading ', sailnumber);
-	d3.json('data/' + sailnumber + '.json', function (boat) {
+	d3.json('data/' + sailnumber.substr(0, 3) + '/' + sailnumber + '.json', function (boat) {
 		plot.render(boat);
 		render_metadata(boat);
 

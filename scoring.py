@@ -7,6 +7,8 @@ import sys
 from rms.parser import parse_rms_glob
 from rms.util import log
 
+YEAR = 2016
+
 if __name__ == '__main__':
     # display help:
     if len(sys.argv) <= 1:
@@ -16,7 +18,7 @@ if __name__ == '__main__':
         log('       scoring.py site                 Export data for gh-pages site to site/index.json and site/data/*.json')
         sys.exit(1)
 
-    pattern = 'data/*2016*'
+    pattern = 'data/{year}/*{year}.rms'.format(year=YEAR)
     rms = parse_rms_glob(pattern)
     log('Loaded a total of %d boats with pattern %s.' % (len(rms), pattern))
 
@@ -29,7 +31,7 @@ if __name__ == '__main__':
 
         if len(sys.argv) == 3:
             from rms.json_output import jsonwriter_single
-            jsonwriter_single(rms, sys.argv[2])
+            jsonwriter_single(rms, sailnumber=sys.argv[2])
         else:
             from rms.json_output import jsonwriter_list
             jsonwriter_list(rms)
