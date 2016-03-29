@@ -79,3 +79,10 @@ for `<twa>`:  [52, 60, 75, 90, 110, 120, 135, 150]
  - OpenCPN book: [weather routing plugin](http://opencpn.org/ocpn/book/export/html/267)
  - Collapse sidebar (http://www.bootply.com/mL7j0aOINa)
  - Bootstrap toggle switch (interpolation on/off) http://www.bootstraptoggle.com/
+
+## update site
+
+- (Pas het jaar aan in `Makefile`)
+- download de nieuwe RMS-files met `make rms`
+- Converteer naar de juiste site-jsons met `make site`
+- Update jaartal en site, update bundle (`npm run bundle`) en commit.

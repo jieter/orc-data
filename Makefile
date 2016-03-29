@@ -8,7 +8,7 @@ COUNTRIES = ITA NOR ESP NED GRE GER POL CRO FRA SUI ARG AUS POR \
 
 YEAR = 2016
 
-RMS_FILES = $(addprefix data/, $(addsuffix $(YEAR).rms, $(COUNTRIES)))
+RMS_FILES = $(addprefix data/$(YEAR)/, $(addsuffix $(YEAR).rms, $(COUNTRIES)))
 
 HEADERS += -H 'DNT: 1' -H 'Accept-Encoding: gzip, deflate, sdch'
 HEADERS += -H 'Accept-Language: en' -H 'User-Agent: Mozilla/5.0'
