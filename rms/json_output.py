@@ -68,9 +68,9 @@ def format_data(data):
     return ret
 
 
-def jsonwriter_single(rmsdata, sailno):
+def jsonwriter_single(rmsdata, sailnumber):
     data = map(format_data, rmsdata)
-    data = select(data, 'sailnumber', sailno)
+    data = select(data, 'sailnumber', sailnumber)
 
     print data
     print(json.dumps(data, indent=2))

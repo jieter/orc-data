@@ -23,16 +23,15 @@ all: json
 rms: $(RMS_FILES)
 
 data:
-	mkdir -p data/
+	mkdir -p data/$(YEAR)
 
 # Fetch the files from orc.org.
-# Simple wget doesn't work here, with wget the downloaded file only contains the header.
-#
-# Header alignment in these files seems to be broken, we fix header alignment by
-# replacing it with hand crafted header.
-data/%$(YEAR).rms: data
+data/$(YEAR)/%$(YEAR).rms: data
+	# Simple wget doesn't work here, with wget the downloaded file only contains the header.
 	curl '$(URL)$*' $(HEADERS) --compressed > tmp.rms
 
+	# Header alignment in these files seems to be broken, we fix header alignment by
+	# replacing it with hand crafted header.
 	{ cat header.rms; tail tmp.rms -n +2; } > $@
 	rm tmp.rms
 
