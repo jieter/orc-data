@@ -20,7 +20,7 @@ module.exports = function render_metadata (boat, extended) {
             ['offshore TN', boat.rating.triple_offshore.join(', ')],
             ['inshore TN', boat.rating.triple_inshore.join(', ')],
             '<div class="table-container"></table>',
-            ['polar (csv)', '<textarea>' + polarcsv(boat, extended) + '</textarea>', 'polar']
+            ['polar (csv)', '<textarea class="' + (extended ? 'csv-extended' : '') + '">' + polarcsv(boat, extended) + '</textarea>', 'polar']
         ]).enter().append('div').attr('class', 'meta-item');
 
     meta.selectAll('.meta-item').html(function (d) {

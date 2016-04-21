@@ -66,9 +66,15 @@ input { margin-bottom: 2px; }
 
 #meta textarea {
 	width: 100%;
-	height: 500px;
+	height: 160px;
 	font-family: monospace;
 	font-size: 10px;
+}
+#meta textarea.plot-only {
+	height: 600px;
+}
+#meta textarea.csv-extended {
+	height: 380px;
 }
 
 .polar-table {
