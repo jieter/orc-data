@@ -49,7 +49,7 @@ clean:
 	rm -rf data/*.rms
 
 test:
-	eslint site/index.js site/src/*
+	npm run lint
 	flake8 --ignore=E501 scoring.py rms/*.py
 
 .PHONY: site
