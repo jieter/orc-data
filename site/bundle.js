@@ -9577,7 +9577,7 @@
 }();
 },{}],3:[function(require,module,exports){
 module.exports = function getRandomElement (arr) {
-	return arr[Math.floor(Math.random() * arr.length)];
+    return arr[Math.floor(Math.random() * arr.length)];
 };
 
 },{}],4:[function(require,module,exports){
@@ -9588,33 +9588,34 @@ var polartable = require('./polartable.js');
 
 var meta = d3.select('#meta').attr('class', 'meta');
 
-module.exports = function render_metadata (boat) {
-	d3.select('#name').html(boat.name || '<span class="text-muted">Geen naam bekend</span>');
+module.exports = function render_metadata (boat, extended) {
+    d3.select('#name').html(boat.name || '<span class="text-muted">Geen naam bekend</span>');
 
-	meta.selectAll('.meta-item')
-		.data([
-			['zeilnummer', boat.sailnumber],
-			['type', boat.boat.type],
-			['lengte', boat.boat.sizes.loa + 'm'],
-			['diepgang', boat.boat.sizes.draft + 'm'],
-			['breedte', boat.boat.sizes.beam + 'm'],
-			'<br />',
-			['GPH', boat.rating.gph],
-			['offshore TN', boat.rating.triple_offshore.join(', ')],
-			['inshore TN', boat.rating.triple_inshore.join(', ')],
-			'<div class="table-container"></table>',
-			['polar (csv)', '<textarea>' + polarcsv(boat) + '</textarea>', 'polar']
-		]).enter().append('div').attr('class', 'meta-item');
+    meta.selectAll('.meta-item')
+        .data([
+            ['zeilnummer', boat.sailnumber],
+            ['type', boat.boat.type],
+            ['lengte', boat.boat.sizes.loa + 'm'],
+            ['diepgang', boat.boat.sizes.draft + 'm'],
+            ['breedte', boat.boat.sizes.beam + 'm'],
+            '<br />',
+            ['GPH', boat.rating.gph],
+            ['offshore TN', boat.rating.triple_offshore.join(', ')],
+            ['inshore TN', boat.rating.triple_inshore.join(', ')],
+            '<div class="table-container"></table>',
+            ['polar (csv)', '<textarea>' + polarcsv(boat, extended) + '</textarea>', 'polar']
+        ]).enter().append('div').attr('class', 'meta-item');
 
-	meta.selectAll('.meta-item').html(function (d) {
-		if (typeof d === 'string') {
-			return d;
-		} else {
-			var className = 'meta-label' + (d.length === 3 ? ' ' + d[2] : '');
-			return '<span class="' + className + '">' + d[0] + '</span> ' +  d[1];
-		}
-	});
-	polartable(meta.select('.table-container'), boat);
+    meta.selectAll('.meta-item').html(function (d) {
+        if (typeof d === 'string') {
+            return d;
+        } else {
+            var className = 'meta-label' + (d.length === 3 ? ' ' + d[2] : '');
+            return '<span class="' + className + '">' + d[0] + '</span> ' +  d[1];
+        }
+    });
+
+    polartable(meta.select('.table-container'), boat);
 };
 
 },{"./polar-csv.js":5,"./polartable.js":7,"d3":2}],5:[function(require,module,exports){
@@ -9626,75 +9627,76 @@ var CSV_PREAMBLE = 'twa/tws';
 var CSV_SEPARATOR = ';';
 
 function zeros (n) {
-	return Array.apply(null, new Array(n)).map(function () { return 0.0; });
+    return Array.apply(null, new Array(n)).map(function () { return 0.0; });
 }
 function int (n) {
-	return parseInt(n);
+    return parseInt(n);
 }
 function float (n) {
-	return +n;
+    return +n;
 }
 
 function polarimport (str) {
-	str = str.trim();
+    str = str.trim();
 
-	if (str.indexOf(CSV_PREAMBLE) !== 0) {
-		throw 'CSV should start with ' + CSV_PREAMBLE;
-	}
+    if (str.indexOf(CSV_PREAMBLE) !== 0) {
+        throw 'CSV should start with ' + CSV_PREAMBLE;
+    }
 
-	// split by lines, filter empty lines and comments (starting with #)
-	var rows = str.split(/\r?\n/).filter(function (s) { return s.length > 0 && s[0] != '#'; });
+    // split by lines, filter empty lines and comments (starting with #)
+    var rows = str.split(/\r?\n/).filter(function (s) { return s.length > 0 && s[0] != '#'; });
 
-	var polar = {
-		speeds: rows[0].split(CSV_SEPARATOR).slice(1).map(int),
-		angles: []
-	};
+    var polar = {
+        speeds: rows[0].split(CSV_SEPARATOR).slice(1).map(int),
+        angles: []
+    };
 
-	rows.slice(1).forEach(function (row) {
-		var items = row.split(CSV_SEPARATOR);
-		var twa = float(items[0]);
+    rows.slice(1).forEach(function (row) {
+        var items = row.split(CSV_SEPARATOR);
+        var twa = float(items[0]);
 
-		polar.angles.push(twa);
-		polar[twa] = items.slice(1).map(float);
-	});
+        polar.angles.push(twa);
+        polar[twa] = items.slice(1).map(float);
+    });
 
-	return polar;
+    return polar;
 }
 
 
 function polarexport (data, extended) {
-	vpp = ('vpp' in data) ? data.vpp : data;
+    vpp = ('vpp' in data) ? data.vpp : data;
 
-	var ret = [
-		[CSV_PREAMBLE].concat(vpp.speeds),
-		zeros(vpp.speeds.length + 1)
-	];
-	
-	if (extended) {
-		vpp.beat_angle.forEach(function (beat_angle, i) {
-			var beat = [beat_angle].concat(zeros(vpp.speeds.length));
-			beat[i + 1] = d3.round(vmg2sog(beat_angle, vpp.beat_vmg[i]), 2);
-			ret.push(beat);
-		});
-	}
+    var ret = [
+        [CSV_PREAMBLE].concat(vpp.speeds),
+        zeros(vpp.speeds.length + 1)
+    ];
 
-	vpp.angles.forEach(function (angle) {
-		ret.push([angle].concat(vpp[angle]));
-	});
-	if (extended) {
-		vpp.run_angle.forEach(function (run_angle, i) {
-			var run = [run_angle].concat(zeros(vpp.speeds.length));
-			run[i + 1] = d3.round(vmg2sog(run_angle, -vpp.run_vmg[i]), 2);
-			ret.push(run);
-		});
-	}
+    if (extended) {
+        vpp.beat_angle.forEach(function (beat_angle, i) {
+            var beat = [beat_angle].concat(zeros(vpp.speeds.length));
+            beat[i + 1] = d3.round(vmg2sog(beat_angle, vpp.beat_vmg[i]), 2);
+            ret.push(beat);
+        });
+    }
 
-	return ret.map(function (row) { return row.join(CSV_SEPARATOR); }).join('\n');
+    vpp.angles.forEach(function (angle) {
+        ret.push([angle].concat(vpp[angle]));
+    });
+
+    if (extended) {
+        vpp.run_angle.forEach(function (run_angle, i) {
+            var run = [run_angle].concat(zeros(vpp.speeds.length));
+            run[i + 1] = d3.round(vmg2sog(run_angle, -vpp.run_vmg[i]), 2);
+            ret.push(run);
+        });
+    }
+
+    return ret.map(function (row) { return row.join(CSV_SEPARATOR); }).join('\n');
 }
 
 module.exports = {
-	export: polarexport,
-	import: polarimport
+    export: polarexport,
+    import: polarimport
 }
 
 },{"./util.js":8,"d3":2}],6:[function(require,module,exports){
@@ -9705,248 +9707,248 @@ var util = require('./util.js');
 
 module.exports = function polarplot (container) {
 
-	var containerElement = document.getElementById(container.substring(1));
-	var width = function () { return containerElement.offsetWidth - 20; };
-	var height = function () {
-		if (window.innerWidth < 768) {
-			return window.innerHeight;
-		} else {
-			return Math.min(window.innerHeight - 60, width() * 2);
-		}
-	};
-	var radius = function () { return Math.min(height() / 2.2 - 20, width()) - 40; };
+    var containerElement = document.getElementById(container.substring(1));
+    var width = function () { return containerElement.offsetWidth - 20; };
+    var height = function () {
+        if (window.innerWidth < 768) {
+            return window.innerHeight;
+        } else {
+            return Math.min(window.innerHeight - 60, width() * 2);
+        }
+    };
+    var radius = function () { return Math.min(height() / 2.2 - 20, width()) - 40; };
 
-	var svg = d3.select(container).append('svg')
-		.attr({width: width(), height: height()})
-		.append('g')
-		.attr('transform', 'translate(' + 10 + ',' + (height() / 2) + ')');
+    var svg = d3.select(container).append('svg')
+        .attr({width: width(), height: height()})
+        .append('g')
+        .attr('transform', 'translate(' + 10 + ',' + (height() / 2) + ')');
 
-	// radial scale
-	var r = d3.scale.linear().domain([0, 10]).range([0, radius()]);
+    // radial scale
+    var r = d3.scale.linear().domain([0, 10]).range([0, radius()]);
 
-	// speed rings
-	var gr = svg.append('g')
-		.attr('class', 'r axis')
-		.selectAll('g')
-			.data(r.ticks(5).slice(1))
-			.enter().append('g');
+    // speed rings
+    var gr = svg.append('g')
+        .attr('class', 'r axis')
+        .selectAll('g')
+            .data(r.ticks(5).slice(1))
+            .enter().append('g');
 
-	gr.append('circle').attr('r', r);
+    gr.append('circle').attr('r', r);
 
-	gr.append('text').attr({
-			y: function (d) { return -r(d) - 4; },
-			transform: 'rotate(15)'
-		}).style('text-anchor', 'middle')
-		.text(function (d) { return d % 2 === 0 ? d + 'kts' : ''; });
+    gr.append('text').attr({
+        y: function (d) { return -r(d) - 4; },
+        transform: 'rotate(15)'
+    }).style('text-anchor', 'middle')
+        .text(function (d) { return d % 2 === 0 ? d + 'kts' : ''; });
 
-	// wind direction
-	var graph = svg.append('g')
-		.attr('class', 'a axis')
-		.selectAll('g')
-			.data([0, 45, 52, 60, 75, 90, 110, 120, 135, 150, 165].map(function (d) { return d - 90; }))
-				.enter().append('g')
-					.attr('transform', function (d) { return 'rotate(' + d + ')'; });
+    // wind direction
+    var graph = svg.append('g')
+        .attr('class', 'a axis')
+        .selectAll('g')
+            .data([0, 45, 52, 60, 75, 90, 110, 120, 135, 150, 165].map(function (d) { return d - 90; }))
+                .enter().append('g')
+                    .attr('transform', function (d) { return 'rotate(' + d + ')'; });
 
-	graph.append('line').attr({x1: r(1), x2: radius()});
+    graph.append('line').attr({x1: r(1), x2: radius()});
 
-	var xaxis = function (sel) {
-		sel.attr('x', radius() + 6)
-		.attr('dy', '.35em')
-		.style('text-anchor', function (d) { return d < 270 && d > 90 ? 'end' : null; })
-		.attr('transform', function (d) { return d < 270 && d > 90 ? 'rotate(180 ' + (radius() + 6) + ', 0)' : null; })
-		.text(function (d) { return (d + 90) + '°'; });
-	};
+    var xaxis = function (sel) {
+        sel.attr('x', radius() + 6)
+        .attr('dy', '.35em')
+        .style('text-anchor', function (d) { return d < 270 && d > 90 ? 'end' : null; })
+        .attr('transform', function (d) { return d < 270 && d > 90 ? 'rotate(180 ' + (radius() + 6) + ', 0)' : null; })
+        .text(function (d) { return (d + 90) + '°'; });
+    };
 
-	graph.append('text')
-		.attr('class', 'xlabel').call(xaxis);
-
-
-	var line = d3.svg.line.radial()
-		.radius(function (d) { return r(d[1]); })
-		.angle(function (d) { return d[0]; })
-		.interpolate('cardinal');
-
-	// Plot VMG diamonds
-	var scatter = function (s) {
-		s.attr({
-			transform: function (d) {
-				return 'translate(' + (r(d[1]) * Math.sin(d[0])) + ', ' + (r(d[1]) * -Math.cos(d[0])) + ')';
-			},
-			d: d3.svg.symbol().type('diamond').size(32)
-		});
-	};
-
-	var legend = svg.append('g').attr('class', 'legend');
-
-	var updateLegend = function (sel) {
-		sel.call(d3.legend)
-			.attr('transform', 'translate(' + (width() - 70) + ', ' + (-height() / 2 + 20) + ')');
-	};
-
-	var plot = function () {};
-
-	var vpp;
-	plot.render = function (data) {
-		vpp = ('vpp' in data) ? data.vpp : data;
-
-		var vpp_angles = vpp.angles.map(function (d) { return d * util.deg2rad; });
-		var run_data = [];
-
-		var tws_series = function (cssClass) {
-			return function (sel) {
-				sel.attr('class', function (d, i) {
-					return cssClass + ' tws-' + vpp.speeds[i];
-				});
-			};
-		};
-		var vpp_data = vpp.speeds.map(function (windspeed, i) {
-			var series = d3.zip(vpp_angles, vpp.angles.map(function (angle) {
-				return vpp[angle][i];
-			}));
-			// filter points with zero SOG
-			series = series.filter(function (a) { return a[1] > 0; });
+    graph.append('text')
+        .attr('class', 'xlabel').call(xaxis);
 
 
-			var vmg2sog = function (degrees, vmg) {
-				return [degrees * util.deg2rad, util.vmg2sog(degrees, vmg)];
-			}
-			if (vpp.beat_angle) {
-				series.unshift(vmg2sog(vpp.beat_angle[i], vpp.beat_vmg[i]));
-			}
-			if (vpp.run_angle) {
-				var run = vmg2sog(vpp.run_angle[i], -vpp.run_vmg[i]);
-				series.push(run);
-				run_data.push(run);
-			}
+    var line = d3.svg.line.radial()
+        .radius(function (d) { return r(d[1]); })
+        .angle(function (d) { return d[0]; })
+        .interpolate('cardinal');
 
-			return series.sort(function (a, b) { return a[0] - b[0]; });
-		});
+    // Plot VMG diamonds
+    var scatter = function (s) {
+        s.attr({
+            transform: function (d) {
+                return 'translate(' + (r(d[1]) * Math.sin(d[0])) + ', ' + (r(d[1]) * -Math.cos(d[0])) + ')';
+            },
+            d: d3.svg.symbol().type('diamond').size(32)
+        });
+    };
 
-		var run_points = svg.selectAll('.vmg-run').data(run_data);
-		run_points.enter().append('path').call(tws_series('vmg-run'));
-		run_points.exit().remove();
-		run_points.transition().duration(200).call(scatter);
+    var legend = svg.append('g').attr('class', 'legend');
 
-		var lines = svg.selectAll('.line').data(vpp_data);
-		lines.enter().append('path')
-			.call(tws_series('line'))
-			.attr({
-				'data-legend': function (d, i) {
-					return '' + vpp.speeds[i] + 'kts';
-				},
-				'data-legend-pos': function (d, i) {
-					return i;
-				}
-			});
+    var updateLegend = function (sel) {
+        sel.call(d3.legend)
+            .attr('transform', 'translate(' + (width() - 70) + ', ' + (-height() / 2 + 20) + ')');
+    };
 
-		lines.exit().remove();
-		lines.transition().duration(200).attr('d', line);
+    var plot = function () {};
 
-		legend.call(updateLegend);
-	};
+    var vpp;
+    plot.render = function (data) {
+        vpp = ('vpp' in data) ? data.vpp : data;
 
-	var highlight;
+        var vpp_angles = vpp.angles.map(function (d) { return d * util.deg2rad; });
+        var run_data = [];
 
-	d3.select(window).on('mouseover', function () {
-		var target = d3.select(d3.event.target);
-		var targetClass = target.attr('class');
-		var parent = d3.select(d3.event.target.parentNode);
-		var parentClass = parent.attr('class');
-
-		if (targetClass && targetClass.substring(0, 4) === 'tws-' && parent && parentClass.substring(0, 4) === 'twa-') {
-			var tws = +targetClass.substring(4);
-			var twa = +parentClass.substring(4);
-
-			var speed = vpp[twa][vpp.speeds.indexOf(tws)];
-			highlight = svg.selectAll('.highlight').data([[twa * util.deg2rad, speed]]);
-		} else {
-			highlight = svg.selectAll('.highlight').data([]);
-		}
-		highlight.enter().append('path').attr('class', 'highlight');
-		highlight.exit().remove();
-
-		highlight.transition().duration(50).call(scatter);
-	});
+        var tws_series = function (cssClass) {
+            return function (sel) {
+                sel.attr('class', function (d, i) {
+                    return cssClass + ' tws-' + vpp.speeds[i];
+                });
+            };
+        };
+        var vpp_data = vpp.speeds.map(function (windspeed, i) {
+            var series = d3.zip(vpp_angles, vpp.angles.map(function (angle) {
+                return vpp[angle][i];
+            }));
+            // filter points with zero SOG
+            series = series.filter(function (a) { return a[1] > 0; });
 
 
-	var originalSize = width();
-	plot.resize = function () {
-		if (width() === originalSize) {
-			return;
-		}
-		d3.select('svg').attr({
-			width: width(),
-			height: height()
-		});
+            var vmg2sog = function (degrees, vmg) {
+                return [degrees * util.deg2rad, util.vmg2sog(degrees, vmg)];
+            }
+            if (vpp.beat_angle) {
+                series.unshift(vmg2sog(vpp.beat_angle[i], vpp.beat_vmg[i]));
+            }
+            if (vpp.run_angle) {
+                var run = vmg2sog(vpp.run_angle[i], -vpp.run_vmg[i]);
+                series.push(run);
+                run_data.push(run);
+            }
 
-		svg.attr('transform', 'translate(' + 10 + ',' + (height() / 2) + ')');
-		r.range([0, radius()]);
+            return series.sort(function (a, b) { return a[0] - b[0]; });
+        });
 
-		gr.selectAll('.axis.r circle').attr('r', r);
-		gr.selectAll('.axis.r text').attr('y', function (d) { return -r(d) - 4; });
+        var run_points = svg.selectAll('.vmg-run').data(run_data);
+        run_points.enter().append('path').call(tws_series('vmg-run'));
+        run_points.exit().remove();
+        run_points.transition().duration(200).call(scatter);
 
-		graph.selectAll('line').attr('x2', radius());
-		svg.selectAll('.xlabel').call(xaxis);
+        var lines = svg.selectAll('.line').data(vpp_data);
+        lines.enter().append('path')
+            .call(tws_series('line'))
+            .attr({
+                'data-legend': function (d, i) {
+                    return '' + vpp.speeds[i] + 'kts';
+                },
+                'data-legend-pos': function (d, i) {
+                    return i;
+                }
+            });
 
-		legend.call(updateLegend);
+        lines.exit().remove();
+        lines.transition().duration(200).attr('d', line);
 
-		svg.selectAll('.line').transition().duration(200).attr('d', line);
-		svg.selectAll('.vmg-run').transition().duration(200).call(scatter);
+        legend.call(updateLegend);
+    };
 
-		originalSize = width();
-	};
+    var highlight;
 
-	return plot;
+    d3.select(window).on('mouseover', function () {
+        var target = d3.select(d3.event.target);
+        var targetClass = target.attr('class');
+        var parent = d3.select(d3.event.target.parentNode);
+        var parentClass = parent.attr('class');
+
+        if (targetClass && targetClass.substring(0, 4) === 'tws-' && parent && parentClass.substring(0, 4) === 'twa-') {
+            var tws = +targetClass.substring(4);
+            var twa = +parentClass.substring(4);
+
+            var speed = vpp[twa][vpp.speeds.indexOf(tws)];
+            highlight = svg.selectAll('.highlight').data([[twa * util.deg2rad, speed]]);
+        } else {
+            highlight = svg.selectAll('.highlight').data([]);
+        }
+        highlight.enter().append('path').attr('class', 'highlight');
+        highlight.exit().remove();
+
+        highlight.transition().duration(50).call(scatter);
+    });
+
+
+    var originalSize = width();
+    plot.resize = function () {
+        if (width() === originalSize) {
+            return;
+        }
+        d3.select('svg').attr({
+            width: width(),
+            height: height()
+        });
+
+        svg.attr('transform', 'translate(' + 10 + ',' + (height() / 2) + ')');
+        r.range([0, radius()]);
+
+        gr.selectAll('.axis.r circle').attr('r', r);
+        gr.selectAll('.axis.r text').attr('y', function (d) { return -r(d) - 4; });
+
+        graph.selectAll('line').attr('x2', radius());
+        svg.selectAll('.xlabel').call(xaxis);
+
+        legend.call(updateLegend);
+
+        svg.selectAll('.line').transition().duration(200).attr('d', line);
+        svg.selectAll('.vmg-run').transition().duration(200).call(scatter);
+
+        originalSize = width();
+    };
+
+    return plot;
 };
 
 },{"./util.js":8,"d3":2,"d3-legend":1}],7:[function(require,module,exports){
 
 function add_degrees_symbol (d) {
-	return d + '°';
+    return d + '°';
 }
 
 module.exports = function polartable (container, boat) {
-	var vpp = boat.vpp;
+    var vpp = boat.vpp;
 
-	// prepare data:
-	var header = ['Wind velocity'].concat(vpp.speeds.map(function (d) { return d + 'kts'; }));
-	var data = [
-		['Beat angles'].concat(vpp.beat_angle.map(add_degrees_symbol)),
-		['Beat VMG'].concat(vpp.beat_vmg)
-	].concat(vpp.angles.map(function (angle) {
-		return [add_degrees_symbol(angle)].concat(vpp['' + angle]);
-	})).concat([
-		['Run VMG'].concat(vpp.run_vmg),
-		['Gybe angles'].concat(vpp.run_angle.map(add_degrees_symbol))
-	]);
+    // prepare data:
+    var header = ['Wind velocity'].concat(vpp.speeds.map(function (d) { return d + 'kts'; }));
+    var data = [
+        ['Beat angles'].concat(vpp.beat_angle.map(add_degrees_symbol)),
+        ['Beat VMG'].concat(vpp.beat_vmg)
+    ].concat(vpp.angles.map(function (angle) {
+        return [add_degrees_symbol(angle)].concat(vpp['' + angle]);
+    })).concat([
+        ['Run VMG'].concat(vpp.run_vmg),
+        ['Gybe angles'].concat(vpp.run_angle.map(add_degrees_symbol))
+    ]);
 
-	var table = container.selectAll('table').data([0]).enter()
-		.append('table')
-		.attr('class', 'table table-condensed polar-table');
+    var table = container.selectAll('table').data([0]).enter()
+        .append('table')
+        .attr('class', 'table table-condensed polar-table');
 
-	var thead = table.selectAll('thead').data([0]).enter().append('thead');
-	var tbody = table.selectAll('tbody').data([0]).enter().append('tbody');
+    var thead = table.selectAll('thead').data([0]).enter().append('thead');
+    var tbody = table.selectAll('tbody').data([0]).enter().append('tbody');
 
-	thead.selectAll('tr').data([0]).enter().append('tr')
-		.selectAll('th').data(header).enter().append('th')
-			.text(function (d) { return d; });
+    thead.selectAll('tr').data([0]).enter().append('tr')
+        .selectAll('th').data(header).enter().append('th')
+            .text(function (d) { return d; });
 
-	var rows = tbody.selectAll('tr').data(data)
-		.enter().append('tr')
-			.attr('class', function (d, i) {
-				if (i >= 2 && i <= 9) {
-					return 'twa-' + vpp.angles[i - 2];
-				} else {
-					return '';
-				}
-			});
+    var rows = tbody.selectAll('tr').data(data)
+        .enter().append('tr')
+            .attr('class', function (d, i) {
+                if (i >= 2 && i <= 9) {
+                    return 'twa-' + vpp.angles[i - 2];
+                } else {
+                    return '';
+                }
+            });
 
-	var cells = rows.selectAll('td').data(function (d) { return d; })
-		.enter().append('td').attr('class', function (d, i) {
-			return (i > 0) ? 'tws-' + vpp.speeds[i - 1] : '';
-		});
+    var cells = rows.selectAll('td').data(function (d) { return d; })
+        .enter().append('td').attr('class', function (d, i) {
+            return (i > 0) ? 'tws-' + vpp.speeds[i - 1] : '';
+        });
 
-	cells.text(function (d) { return d; });
+    cells.text(function (d) { return d; });
 };
 
 },{}],8:[function(require,module,exports){
@@ -9970,93 +9972,104 @@ var getRandomElement = require('./src/array-random.js');
 var plot = polarplot('#chart');
 
 function match_boats (data, needle) {
-	needle = needle.toLowerCase();
+    needle = needle.toLowerCase();
 
-	for (var i in data) {
-		var value = data[i];
-		if (value.toLowerCase().indexOf(needle) !== -1) {
-			return true;
-		}
-	}
+    for (var i in data) {
+        var value = data[i];
+        if (value.toLowerCase().indexOf(needle) !== -1) {
+            return true;
+        }
+    }
 }
 
+var current_sailnumber;
 function display_boat (sailnumber) {
-	console.log('Loading ', sailnumber);
-	d3.json('data/' + sailnumber.substr(0, 3) + '/' + sailnumber + '.json', function (boat) {
-		plot.render(boat);
-		render_metadata(boat);
+    console.log('Loading ', sailnumber);
+    current_sailnumber = sailnumber;
 
-		d3.selectAll('#list li').classed('active', function (d) {
-			return d[0] === boat.sailnumber;
-		});
-	});
+    var extended = d3.select('#extended-csv').property('checked');
+    console.log(d3.select('#extended-csv').property('checked'));
+    d3.json('data/' + sailnumber.substr(0, 3) + '/' + sailnumber + '.json', function (boat) {
+        plot.render(boat);
+        render_metadata(boat, extended);
+
+        d3.selectAll('#list li').classed('active', function (d) {
+            return d[0] === boat.sailnumber;
+        });
+    });
+}
+
+function reload_boat () {
+    display_boat(current_sailnumber);
 }
 
 var list = d3.select('#list');
 d3.json('index.json', function (response) {
-	list.selectAll('li')
-		.data(response)
-		.enter()
-			.append('li').attr('id', function (d) { return 'boat-' + d[0]; })
-			.append('a')
-			.attr({href: function (d) { return '#' + d[0]; }, class: 'boat'})
-			.on('click', function (d) {
-				console.log(d);
-				display_boat(d[0]);
-				d3.select('.row-offcanvas').classed('active', false);
-			})
-			.html(function (d) {
-				return '<span class="sailnumber">' + d[0] + '</span> ' + d[1] +
-				       '<br /><span class="type">' + d[2] + '</span>';
-			});
+    list.selectAll('li')
+        .data(response)
+        .enter()
+            .append('li').attr('id', function (d) { return 'boat-' + d[0]; })
+            .append('a')
+            .attr({href: function (d) { return '#' + d[0]; }, class: 'boat'})
+            .on('click', function (d) {
+                console.log(d);
+                display_boat(d[0]);
+                d3.select('.row-offcanvas').classed('active', false);
+            })
+            .html(function (d) {
+                return '<span class="sailnumber">' + d[0] + '</span> ' + d[1] +
+                       '<br /><span class="type">' + d[2] + '</span>';
+            });
 
-	var polar_textarea = d3.select('textarea');
-	if (!polar_textarea.empty()) {
-		function render_from_textarea () {
-			var csv = polar_textarea.property('value');
-			var polar = import_polar(csv);
+    var polar_textarea = d3.select('textarea');
+    if (!polar_textarea.empty()) {
+        function render_from_textarea () {
+            var csv = polar_textarea.property('value');
+            var polar = import_polar(csv);
 
-			plot.render(polar);
-		}
-		d3.select('textarea').on('keyup', render_from_textarea);
+            plot.render(polar);
+        }
+        d3.select('textarea').on('keyup', render_from_textarea);
 
-		render_from_textarea();
+        render_from_textarea();
 
-	} else if (window.location.hash === '') {
-		// if window width is xs, do not randomly choose a boot but show
-		// selection list
-		if (window.innerWidth < 768) {
-			d3.select('.row-offcanvas').classed('active', true);
-			d3.select('#name').html('<i class="glyphicon glyphicon-arrow-left"></i> Kies een boot');
-		} else {
-			var sailnumber = getRandomElement(response)[0];
-			display_boat(sailnumber);
-		}
-	} else {
-		var sailnumber = window.location.hash.substring(1);
-		display_boat(sailnumber);
-	}
+    } else if (window.location.hash === '') {
+        // if window width is xs, do not randomly choose a boot but show
+        // selection list
+        if (window.innerWidth < 768) {
+            d3.select('.row-offcanvas').classed('active', true);
+            d3.select('#name').html('<i class="glyphicon glyphicon-arrow-left"></i> Kies een boot');
+        } else {
+            var sailnumber = getRandomElement(response)[0];
+            display_boat(sailnumber);
+        }
+    } else {
+        var sailnumber = window.location.hash.substring(1);
+        display_boat(sailnumber);
+    }
 });
 
 function search () {
-	var val = d3.select('input').property('value');
+    var val = d3.select('input').property('value');
 
-	if (val === '') {
-		list.selectAll('a').attr('class', 'boat');
-	}
-	list.selectAll('a')
-		.attr('class', function (d) {
-			return 'boat' + (!match_boats(d, val) ? ' hidden' : '');
-		});
-	if (list.selectAll('a:not(.hidden)')[0].length === 1) {
-		plot.render(list.selectAll('a:not(.hidden)').data()[0]);
-	}
+    if (val === '') {
+        list.selectAll('a').attr('class', 'boat');
+    }
+    list.selectAll('a')
+        .attr('class', function (d) {
+            return 'boat' + (!match_boats(d, val) ? ' hidden' : '');
+        });
+    if (list.selectAll('a:not(.hidden)')[0].length === 1) {
+        plot.render(list.selectAll('a:not(.hidden)').data()[0]);
+    }
 }
 d3.select('input').on('keyup', search);
 d3.select('button').on('click', search);
-
+d3.select('#extended-csv').on('click', function () {
+    reload_boat();
+});
 d3.select(window).on('resize', function () {
-	plot.resize();
+    plot.resize();
 });
 
 },{"./src/array-random.js":3,"./src/meta.js":4,"./src/polar-csv.js":5,"./src/polarplot.js":6,"d3":2}]},{},[9])

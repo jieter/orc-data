@@ -5,7 +5,7 @@ var polartable = require('./polartable.js');
 
 var meta = d3.select('#meta').attr('class', 'meta');
 
-module.exports = function render_metadata (boat) {
+module.exports = function render_metadata (boat, extended) {
     d3.select('#name').html(boat.name || '<span class="text-muted">Geen naam bekend</span>');
 
     meta.selectAll('.meta-item')
@@ -20,7 +20,7 @@ module.exports = function render_metadata (boat) {
             ['offshore TN', boat.rating.triple_offshore.join(', ')],
             ['inshore TN', boat.rating.triple_inshore.join(', ')],
             '<div class="table-container"></table>',
-            ['polar (csv)', '<textarea>' + polarcsv(boat) + '</textarea>', 'polar']
+            ['polar (csv)', '<textarea>' + polarcsv(boat, extended) + '</textarea>', 'polar']
         ]).enter().append('div').attr('class', 'meta-item');
 
     meta.selectAll('.meta-item').html(function (d) {
@@ -31,5 +31,6 @@ module.exports = function render_metadata (boat) {
             return '<span class="' + className + '">' + d[0] + '</span> ' +  d[1];
         }
     });
+
     polartable(meta.select('.table-container'), boat);
 };

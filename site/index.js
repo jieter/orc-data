@@ -17,16 +17,25 @@ function match_boats (data, needle) {
     }
 }
 
+var current_sailnumber;
 function display_boat (sailnumber) {
     console.log('Loading ', sailnumber);
+    current_sailnumber = sailnumber;
+
+    var extended = d3.select('#extended-csv').property('checked');
+    console.log(d3.select('#extended-csv').property('checked'));
     d3.json('data/' + sailnumber.substr(0, 3) + '/' + sailnumber + '.json', function (boat) {
         plot.render(boat);
-        render_metadata(boat);
+        render_metadata(boat, extended);
 
         d3.selectAll('#list li').classed('active', function (d) {
             return d[0] === boat.sailnumber;
         });
     });
+}
+
+function reload_boat () {
+    display_boat(current_sailnumber);
 }
 
 var list = d3.select('#list');
@@ -91,7 +100,9 @@ function search () {
 }
 d3.select('input').on('keyup', search);
 d3.select('button').on('click', search);
-
+d3.select('#extended-csv').on('click', function () {
+    reload_boat();
+});
 d3.select(window).on('resize', function () {
     plot.resize();
 });
