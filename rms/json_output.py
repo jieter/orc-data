@@ -32,7 +32,6 @@ def format_data(data):
         print(data)
         raise
 
-
     ret = {
         'sailnumber': sailnumber,
         'country': data['country'],
@@ -95,20 +94,24 @@ def jsonwriter_list(rmsdata):
 
 def jsonwriter_site(rmsdata):
     data = map(format_data, rmsdata)
+    # sort by name
     data = sorted(data, key=lambda x: x['name'])
+    # filter out boats without country
     data = filter(lambda x: x['country'] in COUNTRIES, data)
-    index = [
-        [boat['sailnumber'], boat['name'], boat['boat']['type']] for boat in data
-    ]
 
+    # write the index
     with open('site/index.json', 'w+') as outfile:
-        json.dump(index, outfile)
+        json.dump([
+            [boat['sailnumber'], boat['name'], boat['boat']['type']] for boat in data
+        ], outfile)
 
+    # create subdirectories for countries
     for country in COUNTRIES:
         country_directory = 'site/data/{}/'.format(country)
         if not os.path.exists(country_directory):
             os.makedirs(country_directory)
 
+    # write data to json
     for boat in data:
         filename = 'site/data/{country}/{sailnumber}.json'.format(**boat)
 
