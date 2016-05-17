@@ -116,4 +116,4 @@ def jsonwriter_site(rmsdata):
         filename = 'site/data/{country}/{sailnumber}.json'.format(**boat)
 
         with open(filename, 'w+') as outfile:
-            json.dump(boat, outfile)
+            json.dump(boat, outfile, indent=2)
