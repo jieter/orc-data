@@ -18,8 +18,10 @@ HEADERS += -H 'Connection: keep-alive'
 
 BASE = ALL$(YEAR)
 
-all: json
+# use `make site` to build new json for the site.
+all: site
 
+# use `make rms` to fetch new files from orc.org
 rms: $(RMS_FILES)
 
 data:
