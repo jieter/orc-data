@@ -28,7 +28,7 @@ for `<twa>`:  [52, 60, 75, 90, 110, 120, 135, 150]
  - `C_Type` Club or international
  - `D` IMS Division, one of 'C' (Cruiser/Racer), 'S' (Sportboat) or 'R' (Racer)
  - `CREW` Crew weight (kilograms)
- - `DD_MM_yyYY HH:MM:SS`
+ - `DD_MM_yyYY HH:MM:SS` Issued on
  - `LOA` Length over all (meters)
  - `IMSL` IMS Sailing Length
  - `DRAFT` Draft (meters)
@@ -51,20 +51,20 @@ for `<twa>`:  [52, 60, 75, 90, 110, 120, 135, 150]
  - `ITNLOW` Inshore triple number low
  - `ITNMED` Inshore triple number mid
  - `ITNHIG` Inshore triple number high
- - `WL<tws>` Windward / Leeward @tws
- - `OL<tws>` ?? @tws
- - `CR<tws>` Circular random @tws
- - `NSP<tws>` Non spinnaker circular random @tws
- - `OC<tws>` Ocean for Performance Curce Scoring (PCS)
- - `UA<tws>` optimal beat angle @tws (true wind angle)
- - `DA<tws>` optimal gybe angle @tws (true wind angle)
- - `UP<tws>` Beat VMG @tws (kts)
- - `R<twa><tws>` Time allowance @twa/@tws (s/Nautical mile)
- - `D<tws>` Run VMG @tws (kts)
  - `DH_TOD` Double Handed Time-on-Distance (offshore)
  - `DH_TOT` Double Handed Time-on-Time (offshore)
  - `PLT2H` Performance Line, Time-on-Time, Double Handed
  - `PLD2H` Performance Line, Time-on-Distance, Double Handed
+ - `WL<tws>` Windward / Leeward @tws
+ - `OL<tws>` ?? @tws
+ - `CR<tws>` Circular random @tws
+ - `NSP<tws>` Non spinnaker circular random @tws
+ - `OC<tws>` Ocean for Performance Curve Scoring (PCS) @tws
+ - `UA<tws>` optimal beat angle @tws (true wind angle)
+ - `DA<tws>` optimal gybe angle @tws (true wind angle)
+ - `UP<tws>` Beat VMG @tws (s/Nautical mile)
+ - `R<twa><tws>` Time allowance @twa/@tws (s/Nautical mile)
+ - `D<tws>` Run VMG @tws (s/Nautical mile)
  - `ReferenceNo`
  - `CDL` Class Division Length
  - `DSPS` Displacement in sailing trim (kg)
