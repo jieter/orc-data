@@ -20,54 +20,54 @@ for `<twa>`:  [52, 60, 75, 90, 110, 120, 135, 150]
  - `TYPE` boat type
  - `BUILDER` boat builder
  - `DESIGNER` boat designer
- - `YEAR`
+ - `YEAR` Series year
  - `CLUB`
  - `OWNER` name of owner
  - `ADRS1`
  - `ADRS2`
  - `C_Type` Club or international
- - `D` One of 'C', 'S' or 'R'
+ - `D` IMS Division, one of 'C' (Cruiser/Racer), 'S' (Sportboat) or 'R' (Racer)
  - `CREW` Crew weight (kilograms)
  - `DD_MM_yyYY HH:MM:SS`
  - `LOA` Length over all (meters)
- - `IMSL`
+ - `IMSL` IMS Sailing Length
  - `DRAFT` Draft (meters)
  - `BMAX` Maximum beam (meters)
  - `DSPL` Displacement (kg)
- - `INDEX`
- - `DA`
+ - `INDEX` Stability Index
+ - `DA` Dynamic Allowance
  - `GPH` General purpose handicap
- - `TMF`
- - `ILCGA`
- - `PLT-O`
- - `PLD-O`
- - `WL<tws>` Windward / Leeward @tws
- - `OL<tws>` ?? @tws
- - `CR<tws>` Circular random @tws
- - `NSP<tws>` Non spinnaker circular random @tws
- - `OC<tws>`
- - `UA<tws>` optimal beat angle @tws (true wind angle)
- - `DA<tws>` optimal gybe angle @tws (true wind angle)
- - `UP<tws>` Beat VMG @tws (kts)
- - `R<twa><tws>` Time allowance @twa/@tws (s/Nautical mile)
- - `D<tws>` Run VMG @tws (kts)
+ - `OSN` Offshore Single Number (Time-on-Distance)
+ - `ILCGA` Time-on-Distance (inshore, single number)
+ - `TMF-OF` Time Multiplying Factor (offshore)
+ - `TMF` Time Multiplying Factor (inshore)
+ - `PLT-O` Performance Line Time-on-Time Offshore
+ - `PLD-O` Performance Line Time-on-Distance Offshore
+ - `PLT-I` Performance Line Time-on-Time Inshore
+ - `PLD-I` Performance Line Time-on-Distance Inshore
  - `OTNLOW` Offshore triple number low
  - `OTNMED` Offshore triple number mid
  - `OTNHIG` Offshore triple number high
  - `ITNLOW` Inshore triple number low
  - `ITNMED` Inshore triple number mid
  - `ITNHIG` Inshore triple number high
- - `DH_TOD`
- - `DH_TOT`
- - `PLT-I`
- - `PLD-I`
- - `TMF-OF`
- - `PLT2H`
- - `PLD2H`
- - `OSN`
+ - `WL<tws>` Windward / Leeward @tws
+ - `OL<tws>` ?? @tws
+ - `CR<tws>` Circular random @tws
+ - `NSP<tws>` Non spinnaker circular random @tws
+ - `OC<tws>` Ocean for Performance Curce Scoring (PCS)
+ - `UA<tws>` optimal beat angle @tws (true wind angle)
+ - `DA<tws>` optimal gybe angle @tws (true wind angle)
+ - `UP<tws>` Beat VMG @tws (kts)
+ - `R<twa><tws>` Time allowance @twa/@tws (s/Nautical mile)
+ - `D<tws>` Run VMG @tws (kts)
+ - `DH_TOD` Double Handed Time-on-Distance (offshore)
+ - `DH_TOT` Double Handed Time-on-Time (offshore)
+ - `PLT2H` Performance Line, Time-on-Time, Double Handed
+ - `PLD2H` Performance Line, Time-on-Distance, Double Handed
  - `ReferenceNo`
- - `CDL`
- - `DSPS`
+ - `CDL` Class Division Length
+ - `DSPS` Displacement in sailing trim (kg)
  - `WSS` Wetted surface (m²)
  - `MAIN` Maximum main sail area (m²)
  - `GENOA` Maximum genoa area (m²)
