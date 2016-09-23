@@ -9598,13 +9598,23 @@ function metaItem(label, className, contents, title) {
 module.exports = function render_metadata (boat, extended) {
     d3.select('#name').html(boat.name || '<span class="text-muted">Name unkown</span>');
 
+    var sizes = boat.boat.sizes;
+
     meta.selectAll('.meta-item')
         .data([
             ['sail number', boat.sailnumber],
             ['type', boat.boat.type],
-            ['length', boat.boat.sizes.loa + 'm', 'length over all'],
-            ['draft', boat.boat.sizes.draft + 'm'],
-            ['beam', boat.boat.sizes.beam + 'm'],
+            ['length', sizes.loa + ' m', 'length over all'],
+            ['displacement', sizes.displacement + ' kg', 'displacement'],
+            ['draft', sizes.draft + ' m'],
+            ['beam', sizes.beam + ' m'],
+            '<br />',
+            [
+                'Max sail area',
+                'main: ' + sizes.main + ' m²' + ', genoa: ' + sizes.genoa + ' m²' +
+                (sizes.spinnaker > 0 ? ', spinnaker: ' + sizes.spinnaker + ' m²' : '') +
+                (sizes.spinnaker_asym > 0 ? ', asym. spinnaker: ' + sizes.spinnaker_asym + 'm²' : '')
+            ],
             '<br />',
             ['GPH', boat.rating.gph, 'General purpose handicap'],
             ['offshore TN', boat.rating.triple_offshore.join(', '), 'Offshore triple number'],
