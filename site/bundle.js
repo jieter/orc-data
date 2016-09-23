@@ -9588,7 +9588,7 @@ var polartable = require('./polartable.js');
 
 var meta = d3.select('#meta').attr('class', 'meta');
 
-function metaItem(label, className, contents, title) {
+function metaItem (label, className, contents, title) {
     var className = 'meta-label' + (className ? ' ' + className : '');
     var title = title ? 'title="' + title + '"' : '';
 
@@ -9603,7 +9603,7 @@ module.exports = function render_metadata (boat, extended) {
     meta.selectAll('.meta-item')
         .data([
             ['sail number', boat.sailnumber],
-            ['type', boat.boat.type],
+            ['type', boat.boat.type, 'Designer: ' + boat.boat.designer],
             ['length', sizes.loa + ' m', 'length over all'],
             ['displacement', sizes.displacement + ' kg', 'displacement'],
             ['draft', sizes.draft + ' m'],
