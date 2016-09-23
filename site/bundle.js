@@ -9588,31 +9588,37 @@ var polartable = require('./polartable.js');
 
 var meta = d3.select('#meta').attr('class', 'meta');
 
+function metaItem(label, className, contents, title) {
+    var className = 'meta-label' + (className ? ' ' + className : '');
+    var title = title ? 'title="' + title + '"' : '';
+
+    return '<span class="' + className + '" ' + title  + '>' + label + '</span> ' + contents;
+}
+
 module.exports = function render_metadata (boat, extended) {
-    d3.select('#name').html(boat.name || '<span class="text-muted">Geen naam bekend</span>');
+    d3.select('#name').html(boat.name || '<span class="text-muted">Name unkown</span>');
 
     meta.selectAll('.meta-item')
         .data([
-            ['zeilnummer', boat.sailnumber],
+            ['sail number', boat.sailnumber],
             ['type', boat.boat.type],
-            ['lengte', boat.boat.sizes.loa + 'm'],
-            ['diepgang', boat.boat.sizes.draft + 'm'],
-            ['breedte', boat.boat.sizes.beam + 'm'],
+            ['length', boat.boat.sizes.loa + 'm', 'length over all'],
+            ['draft', boat.boat.sizes.draft + 'm'],
+            ['beam', boat.boat.sizes.beam + 'm'],
             '<br />',
-            ['GPH', boat.rating.gph],
-            ['offshore TN', boat.rating.triple_offshore.join(', ')],
-            ['inshore TN', boat.rating.triple_inshore.join(', ')],
+            ['GPH', boat.rating.gph, 'General purpose handicap'],
+            ['offshore TN', boat.rating.triple_offshore.join(', '), 'Offshore triple number'],
+            ['inshore TN', boat.rating.triple_inshore.join(', '), 'Inshore triple number'],
             '<div class="table-container"></table>',
-            ['polar (csv)', '<textarea class="' + (extended ? 'csv-extended' : '') + '">' + polarcsv(boat, extended) + '</textarea>', 'polar']
+            metaItem(
+                'polar (csv)',
+                'polar',
+                '<textarea class="' + (extended ? 'csv-extended' : '') + '">' + polarcsv(boat, extended) + '</textarea>'
+            )
         ]).enter().append('div').attr('class', 'meta-item');
 
     meta.selectAll('.meta-item').html(function (d) {
-        if (typeof d === 'string') {
-            return d;
-        } else {
-            var className = 'meta-label' + (d.length === 3 ? ' ' + d[2] : '');
-            return '<span class="' + className + '">' + d[0] + '</span> ' +  d[1];
-        }
+        return (typeof d === 'string') ? d : metaItem(d[0], undefined, d[1], d[2]);
     });
 
     polartable(meta.select('.table-container'), boat);
