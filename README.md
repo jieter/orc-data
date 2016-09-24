@@ -30,7 +30,7 @@ for `<twa>`:  [52, 60, 75, 90, 110, 120, 135, 150]
  - `DD_MM_yyYY HH:MM:SS` Issued on
  - `ReferenceNo`
 
-### Hull 
+### Hull
  - `D` IMS Division, one of 'C' (Cruiser/Racer), 'S' (Sportboat) or 'R' (Racer)
  - `LOA` Length over all (meters)
  - `IMSL` IMS Sailing Length
@@ -39,7 +39,7 @@ for `<twa>`:  [52, 60, 75, 90, 110, 120, 135, 150]
  - `BMAX` Maximum beam (meters)
  - `DSPL` Displacement (kg)
  - `DSPS` Displacement in sailing trim (kg)
- - `CREW` Crew weight (kilograms)
+ - `CREW` Crew weight (kg)
  - `WSS` Wetted surface (m²)
  - `INDEX` Stability Index
  - `DA` Dynamic Allowance
@@ -91,9 +91,9 @@ for `<twa>`:  [52, 60, 75, 90, 110, 120, 135, 150]
  - Collapse sidebar (http://www.bootply.com/mL7j0aOINa)
  - Bootstrap toggle switch (interpolation on/off) http://www.bootstraptoggle.com/
 
-## update site
+## update site voor een nieuw jaar
 
 - (Pas het jaar aan in `Makefile`)
-- download de nieuwe RMS-files met `make rms`
+- Download de nieuwe RMS-files met `make rms`
 - Converteer naar de juiste site-jsons met `make site`
 - Update jaartal en site, update bundle (`npm run bundle`) en commit.

@@ -23,7 +23,7 @@ function display_boat (sailnumber) {
     current_sailnumber = sailnumber;
 
     var extended = d3.select('#extended-csv').property('checked');
-    console.log(d3.select('#extended-csv').property('checked'));
+
     d3.json('data/' + sailnumber.substr(0, 3) + '/' + sailnumber + '.json', function (boat) {
         plot.render(boat);
         render_metadata(boat, extended);
@@ -47,7 +47,6 @@ d3.json('index.json', function (response) {
             .append('a')
             .attr({href: function (d) { return '#' + d[0]; }, class: 'boat'})
             .on('click', function (d) {
-                console.log(d);
                 display_boat(d[0]);
                 d3.select('.row-offcanvas').classed('active', false);
             })

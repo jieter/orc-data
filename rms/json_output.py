@@ -1,5 +1,8 @@
+from __future__ import print_function
+
 import json
 import os
+import sys
 
 from util import time_allowance2speed
 
@@ -23,13 +26,13 @@ def format_data(data):
     sailnumber = clean_string(data['SAILNUMB']).replace(' ', '').replace('-', '').replace('/', '')
 
     if sailnumber[0:3] not in COUNTRIES:
-        print('appending country to sailnumber: %s' % sailnumber)
+        print('appending country to sailnumber: %s' % sailnumber, file=sys.stderr)
         sailnumber = data['country'] + sailnumber
     elif data['country'].upper() not in COUNTRIES:
-        print('Fetched country from sailnumber: %s' % sailnumber)
+        print('Fetched country from sailnumber: %s' % sailnumber, file=sys.stderr)
         data['country'] = sailnumber[0:3]
     else:
-        print(data)
+        print(data, file=sys.stderr)
         raise
 
     ret = {
@@ -39,6 +42,7 @@ def format_data(data):
         'owner': clean_string(data['OWNER']),
         'rating': {
             'gph': float(data['GPH']),
+            'osn': float(data['OSN']),
             'triple_offshore': map(float, [data['OTNLOW'], data['OTNMED'], data['OTNHIG']]),
             'triple_inshore': map(float, [data['ITNLOW'], data['ITNMED'], data['ITNHIG']]),
         },
@@ -56,10 +60,13 @@ def format_data(data):
                 'main': float(data['MAIN']),
                 'spinnaker': float(data['SYM']),
                 'spinnaker_asym': float(data['ASYM']),
+                'crew': float(data['CREW']),
+                'wetted_surface': float(data['WSS']),
             },
         },
         # 'raw': data,
     }
+    # velocity prediction
     ret['vpp'] = {
         'angles': WIND_ANGLES,
         'speeds': WIND_SPEEDS,
@@ -80,7 +87,7 @@ def jsonwriter_single(rmsdata, sailnumber):
     data = map(format_data, rmsdata)
     data = select(data, 'sailnumber', sailnumber)
 
-    print data
+    print(data)
     print(json.dumps(data, indent=2))
 
 

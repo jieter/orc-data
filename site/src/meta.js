@@ -12,28 +12,44 @@ function metaItem (label, className, contents, title) {
     return '<span class="' + className + '" ' + title  + '>' + label + '</span> ' + contents;
 }
 
+function table (data) {
+    var header = '';
+    var contents = '';
+    for (var i = 0; i < data[0].length; i++) {
+        header += '<td class="meta-label">' + data[0][i] + '</td>';
+        contents += '<td>' + data[1][i] + '</td>'
+    }
+    return '<table><tr>' + header + '</tr><tr>' + contents + '</tr></table>';
+}
+
 module.exports = function render_metadata (boat, extended) {
     d3.select('#name').html(boat.name || '<span class="text-muted">Name unkown</span>');
 
     var sizes = boat.boat.sizes;
 
+    var sailsTable = [['main', 'genoa'], [sizes.main + 'm²', sizes.genoa + 'm²']];
+    if (sizes.spinnaker > 0) {
+        sailsTable[0].push('spinnaker');
+        sailsTable[1].push(sizes.spinnaker + 'm²');
+    }
+    if (sizes.spinnaker_asym > 0) {
+        sailsTable[0].push('asym. spinnaker');
+        sailsTable[1].push(sizes.spinnaker_asym + 'm²');
+    }
+
     meta.selectAll('.meta-item')
         .data([
-            ['sail number', boat.sailnumber],
-            ['type', boat.boat.type, 'Designer: ' + boat.boat.designer],
-            ['length', sizes.loa + ' m', 'length over all'],
-            ['displacement', sizes.displacement + ' kg', 'displacement'],
-            ['draft', sizes.draft + ' m'],
-            ['beam', sizes.beam + ' m'],
+            table([
+                ['sail number', 'type', 'designer', 'owner'],
+                [boat.sailnumber, boat.boat.type, boat.boat.designer, boat.owner]
+            ]),
+            table([
+                ['length', 'beam', 'draft', 'displacement'],
+                [sizes.loa + 'm', sizes.beam + 'm', sizes.draft + 'm', sizes.displacement + ' kg']
+            ]),
+            ['Max sail area', table(sailsTable)],
             '<br />',
-            [
-                'Max sail area',
-                'main: ' + sizes.main + ' m²' + ', genoa: ' + sizes.genoa + ' m²' +
-                (sizes.spinnaker > 0 ? ', spinnaker: ' + sizes.spinnaker + ' m²' : '') +
-                (sizes.spinnaker_asym > 0 ? ', asym. spinnaker: ' + sizes.spinnaker_asym + 'm²' : '')
-            ],
-            '<br />',
-            ['GPH', boat.rating.gph, 'General purpose handicap'],
+            table([['GPH', 'OSN'], [boat.rating.gph, boat.rating.osn]]),
             ['offshore TN', boat.rating.triple_offshore.join(', '), 'Offshore triple number'],
             ['inshore TN', boat.rating.triple_inshore.join(', '), 'Inshore triple number'],
             '<div class="table-container"></table>',

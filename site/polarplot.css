@@ -48,8 +48,19 @@ svg .axis text {
 	padding: 0;
 	display: inline-block;
 	min-width: 100px;
-
 }
+
+.meta table {
+	display: inline-block;
+}
+.meta table td {
+	padding-right: 10px;
+	min-width: 100px;
+}
+.meta table .meta-label {
+	color: #888;
+}
+
 input { margin-bottom: 2px; }
 .meta-item h2 { margin-top: 2px; }
 
