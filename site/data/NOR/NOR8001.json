@@ -5,12 +5,13 @@
       1.0919, 
       1.2287
     ], 
-    "gph": 702.2, 
     "triple_inshore": [
       0.6319, 
       0.8756, 
       1.0154
-    ]
+    ], 
+    "gph": 702.2, 
+    "osn": 683.1
   }, 
   "sailnumber": "NOR8001", 
   "name": "Happy", 
@@ -25,10 +26,12 @@
       "spinnaker": 48.5, 
       "loa": 9.85, 
       "draft": 1.46, 
+      "wetted_surface": 18.2, 
       "main": 27.9, 
       "genoa": 21.8, 
       "displacement": 2899.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 505.0
     }, 
     "year": "1981"
   }, 

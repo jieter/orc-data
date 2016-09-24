@@ -5,12 +5,13 @@
       1.1474, 
       1.3385
     ], 
-    "gph": 671.3, 
     "triple_inshore": [
       0.6443, 
       0.9019, 
       1.0962
-    ]
+    ], 
+    "gph": 671.3, 
+    "osn": 650.7
   }, 
   "sailnumber": "GRE1356", 
   "name": "TRITON", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.71, 
       "draft": 1.99, 
+      "wetted_surface": 34.2, 
       "main": 35.5, 
       "genoa": 41.3, 
       "displacement": 7920.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 600.0
     }, 
     "year": "1998"
   }, 

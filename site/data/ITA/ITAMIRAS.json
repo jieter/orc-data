@@ -5,12 +5,13 @@
       0.9905, 
       1.0942
     ], 
-    "gph": 766.1, 
     "triple_inshore": [
       0.6025, 
       0.8038, 
       0.9122
-    ]
+    ], 
+    "gph": 766.1, 
+    "osn": 748.4
   }, 
   "sailnumber": "ITAMIRAS", 
   "name": "MIRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 45.0, 
       "loa": 7.8, 
       "draft": 1.47, 
+      "wetted_surface": 14.0, 
       "main": 15.7, 
       "genoa": 24.3, 
       "displacement": 2138.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 210.0
     }, 
     "year": "1974"
   }, 

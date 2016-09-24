@@ -5,12 +5,13 @@
       1.2075, 
       1.3564
     ], 
-    "gph": 631.3, 
     "triple_inshore": [
       0.7182, 
       0.9805, 
       1.1419
-    ]
+    ], 
+    "gph": 631.3, 
+    "osn": 614.0
   }, 
   "sailnumber": "ITA14575", 
   "name": "CANOPUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.3, 
       "loa": 10.64, 
       "draft": 2.24, 
+      "wetted_surface": 27.2, 
       "main": 39.7, 
       "genoa": 40.6, 
       "displacement": 5972.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 639.0
     }, 
     "year": "2001"
   }, 

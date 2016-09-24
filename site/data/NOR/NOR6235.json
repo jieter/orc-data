@@ -5,12 +5,13 @@
       1.1397, 
       1.2948
     ], 
-    "gph": 665.0, 
     "triple_inshore": [
       0.6888, 
       0.9297, 
       1.0658
-    ]
+    ], 
+    "gph": 665.0, 
+    "osn": 647.0
   }, 
   "sailnumber": "NOR6235", 
   "name": "Nikita", 
@@ -25,10 +26,12 @@
       "spinnaker": 47.6, 
       "loa": 8.5, 
       "draft": 1.73, 
+      "wetted_surface": 14.1, 
       "main": 23.7, 
       "genoa": 19.4, 
       "displacement": 1547.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 369.0
     }, 
     "year": "1979"
   }, 

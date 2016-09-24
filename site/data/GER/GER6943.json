@@ -5,12 +5,13 @@
       1.2104, 
       1.3727
     ], 
-    "gph": 631.5, 
     "triple_inshore": [
       0.7122, 
       0.9828, 
       1.153
-    ]
+    ], 
+    "gph": 631.5, 
+    "osn": 612.5
   }, 
   "sailnumber": "GER6943", 
   "name": "GLUXKIND", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.7, 
       "loa": 10.72, 
       "draft": 2.24, 
+      "wetted_surface": 26.8, 
       "main": 40.2, 
       "genoa": 28.5, 
       "displacement": 5268.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1993"
   }, 

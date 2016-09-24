@@ -5,12 +5,13 @@
       1.1595, 
       1.3424
     ], 
-    "gph": 662.2, 
     "triple_inshore": [
       0.6635, 
       0.9291, 
       1.1258
-    ]
+    ], 
+    "gph": 662.2, 
+    "osn": 641.0
   }, 
   "sailnumber": "GER946", 
   "name": "DANZIGER", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.3, 
       "loa": 11.5, 
       "draft": 2.02, 
+      "wetted_surface": 28.9, 
       "main": 35.9, 
       "genoa": 30.3, 
       "displacement": 6336.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1975"
   }, 

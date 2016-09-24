@@ -5,12 +5,13 @@
       1.449, 
       1.6383
     ], 
-    "gph": 527.2, 
     "triple_inshore": [
       0.848, 
       1.1604, 
       1.334
-    ]
+    ], 
+    "gph": 527.2, 
+    "osn": 513.2
   }, 
   "sailnumber": "PER4698", 
   "name": "HAWK", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.27, 
       "draft": 3.05, 
+      "wetted_surface": 39.3, 
       "main": 63.0, 
       "genoa": 73.2, 
       "displacement": 8289.0, 
-      "spinnaker_asym": 184.0
+      "spinnaker_asym": 184.0, 
+      "crew": 921.0
     }, 
     "year": "1998"
   }, 

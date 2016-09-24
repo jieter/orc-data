@@ -5,12 +5,13 @@
       1.419, 
       1.6063
     ], 
-    "gph": 538.3, 
     "triple_inshore": [
       0.8294, 
       1.1368, 
       1.3362
-    ]
+    ], 
+    "gph": 538.3, 
+    "osn": 524.5
   }, 
   "sailnumber": "GER6336", 
   "name": "BAJAZZO", 
@@ -25,10 +26,12 @@
       "spinnaker": 170.8, 
       "loa": 15.28, 
       "draft": 2.98, 
+      "wetted_surface": 46.7, 
       "main": 75.4, 
       "genoa": 80.1, 
       "displacement": 13360.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1000.0
     }, 
     "year": "2005"
   }, 

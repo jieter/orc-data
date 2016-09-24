@@ -5,12 +5,13 @@
       1.2513, 
       1.4279
     ], 
-    "gph": 611.5, 
     "triple_inshore": [
       0.7287, 
       1.0019, 
       1.1962
-    ]
+    ], 
+    "gph": 611.5, 
+    "osn": 593.9
   }, 
   "sailnumber": "NED1499", 
   "name": "BELUGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 150.5, 
       "loa": 13.868, 
       "draft": 2.35, 
+      "wetted_surface": 41.5, 
       "main": 44.6, 
       "genoa": 72.0, 
       "displacement": 12722.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 865.0
     }, 
     "year": "1980"
   }, 

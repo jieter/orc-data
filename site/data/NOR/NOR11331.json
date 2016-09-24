@@ -5,12 +5,13 @@
       1.1566, 
       1.2909
     ], 
-    "gph": 657.1, 
     "triple_inshore": [
       0.6928, 
       0.931, 
       1.0688
-    ]
+    ], 
+    "gph": 657.1, 
+    "osn": 642.0
   }, 
   "sailnumber": "NOR11331", 
   "name": "Alna II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.35, 
       "draft": 1.62, 
+      "wetted_surface": 24.2, 
       "main": 33.2, 
       "genoa": 40.3, 
       "displacement": 5238.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 600.0
     }, 
     "year": "2001"
   }, 

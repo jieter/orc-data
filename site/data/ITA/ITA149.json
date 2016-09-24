@@ -5,12 +5,13 @@
       1.5422, 
       1.748
     ], 
-    "gph": 493.1, 
     "triple_inshore": [
       0.9182, 
       1.2377, 
       1.4281
-    ]
+    ], 
+    "gph": 493.1, 
+    "osn": 480.3
   }, 
   "sailnumber": "ITA149", 
   "name": "QQ7", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.93, 
       "draft": 3.22, 
+      "wetted_surface": 46.3, 
       "main": 98.2, 
       "genoa": 63.8, 
       "displacement": 10652.0, 
-      "spinnaker_asym": 243.0
+      "spinnaker_asym": 243.0, 
+      "crew": 1064.0
     }, 
     "year": "2002"
   }, 

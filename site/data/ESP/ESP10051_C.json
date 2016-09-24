@@ -5,12 +5,13 @@
       1.1462, 
       1.3467
     ], 
-    "gph": 671.4, 
     "triple_inshore": [
       0.6207, 
       0.885, 
       1.1005
-    ]
+    ], 
+    "gph": 671.4, 
+    "osn": 657.5
   }, 
   "sailnumber": "ESP10051_C", 
   "name": "DON VIRIATO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.82, 
       "draft": 1.56, 
+      "wetted_surface": 31.7, 
       "main": 33.6, 
       "genoa": 38.8, 
       "displacement": 8128.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 200.0
     }, 
     "year": "2007"
   }, 

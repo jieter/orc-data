@@ -5,12 +5,13 @@
       0.9166, 
       1.14
     ], 
-    "gph": 849.1, 
     "triple_inshore": [
       0.491, 
       0.7292, 
       0.9417
-    ]
+    ], 
+    "gph": 849.1, 
+    "osn": 810.3
   }, 
   "sailnumber": "GRE1607", 
   "name": "CORRENTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.97, 
       "draft": 1.89, 
+      "wetted_surface": 22.8, 
       "main": 17.7, 
       "genoa": 18.9, 
       "displacement": 4600.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1993"
   }, 

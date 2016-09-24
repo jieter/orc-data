@@ -5,12 +5,13 @@
       1.1573, 
       1.3436
     ], 
-    "gph": 667.6, 
     "triple_inshore": [
       0.6427, 
       0.9084, 
       1.0951
-    ]
+    ], 
+    "gph": 667.6, 
+    "osn": 646.9
   }, 
   "sailnumber": "ITA16931", 
   "name": "ESCARGOT", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.71, 
       "draft": 2.0, 
+      "wetted_surface": 34.0, 
       "main": 36.5, 
       "genoa": 43.4, 
       "displacement": 7910.0, 
-      "spinnaker_asym": 107.0
+      "spinnaker_asym": 107.0, 
+      "crew": 450.0
     }, 
     "year": "2004"
   }, 

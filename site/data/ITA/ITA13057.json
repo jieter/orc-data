@@ -5,12 +5,13 @@
       1.2276, 
       1.3762
     ], 
-    "gph": 614.8, 
     "triple_inshore": [
       0.7556, 
       0.9967, 
       1.1325
-    ]
+    ], 
+    "gph": 614.8, 
+    "osn": 600.7
   }, 
   "sailnumber": "ITA13057", 
   "name": "BLUE STORM", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.4, 
       "loa": 9.474, 
       "draft": 1.99, 
+      "wetted_surface": 17.9, 
       "main": 35.2, 
       "genoa": 26.1, 
       "displacement": 2398.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1997"
   }, 

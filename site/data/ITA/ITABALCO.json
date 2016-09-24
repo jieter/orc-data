@@ -5,12 +5,13 @@
       0.9972, 
       1.0978
     ], 
-    "gph": 757.6, 
     "triple_inshore": [
       0.6194, 
       0.82, 
       0.9261
-    ]
+    ], 
+    "gph": 757.6, 
+    "osn": 740.5
   }, 
   "sailnumber": "ITABALCO", 
   "name": "BALLA COI LUPI", 
@@ -25,10 +26,12 @@
       "spinnaker": 46.9, 
       "loa": 8.015, 
       "draft": 1.49, 
+      "wetted_surface": 14.0, 
       "main": 16.3, 
       "genoa": 27.7, 
       "displacement": 2242.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1971"
   }, 

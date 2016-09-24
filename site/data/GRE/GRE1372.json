@@ -5,12 +5,13 @@
       1.0089, 
       1.1886
     ], 
-    "gph": 765.6, 
     "triple_inshore": [
       0.5589, 
       0.7866, 
       0.9677
-    ]
+    ], 
+    "gph": 765.6, 
+    "osn": 741.2
   }, 
   "sailnumber": "GRE1372", 
   "name": "HARIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.96, 
       "draft": 1.71, 
+      "wetted_surface": 23.3, 
       "main": 21.0, 
       "genoa": 28.6, 
       "displacement": 5204.0, 
-      "spinnaker_asym": 59.0
+      "spinnaker_asym": 59.0, 
+      "crew": 512.0
     }, 
     "year": "1985"
   }, 

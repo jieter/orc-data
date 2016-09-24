@@ -5,12 +5,13 @@
       1.3103, 
       1.506
     ], 
-    "gph": 584.0, 
     "triple_inshore": [
       0.7635, 
       1.0613, 
       1.2631
-    ]
+    ], 
+    "gph": 584.0, 
+    "osn": 565.3
   }, 
   "sailnumber": "ITA16306", 
   "name": "ANACAONA", 
@@ -25,10 +26,12 @@
       "spinnaker": 149.8, 
       "loa": 12.24, 
       "draft": 2.5, 
+      "wetted_surface": 35.1, 
       "main": 52.7, 
       "genoa": 36.0, 
       "displacement": 8147.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 703.0
     }, 
     "year": "2009"
   }, 

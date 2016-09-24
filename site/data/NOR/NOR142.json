@@ -5,12 +5,13 @@
       1.5129, 
       1.833
     ], 
-    "gph": 507.6, 
     "triple_inshore": [
       0.8388, 
       1.1816, 
       1.4306
-    ]
+    ], 
+    "gph": 507.6, 
+    "osn": 492.6
   }, 
   "sailnumber": "NOR142", 
   "name": "Solo 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.198, 
       "draft": 3.07, 
+      "wetted_surface": 36.9, 
       "main": 64.9, 
       "genoa": 51.6, 
       "displacement": 4500.0, 
-      "spinnaker_asym": 182.0
+      "spinnaker_asym": 182.0, 
+      "crew": 996.0
     }, 
     "year": "2014"
   }, 

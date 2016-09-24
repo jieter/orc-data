@@ -5,12 +5,13 @@
       1.1347, 
       1.317
     ], 
-    "gph": 679.4, 
     "triple_inshore": [
       0.6332, 
       0.8853, 
       1.064
-    ]
+    ], 
+    "gph": 679.4, 
+    "osn": 659.5
   }, 
   "sailnumber": "ESP8724_C", 
   "name": "MARIBE CUARTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.71, 
       "draft": 1.51, 
+      "wetted_surface": 32.1, 
       "main": 35.6, 
       "genoa": 43.9, 
       "displacement": 7573.0, 
-      "spinnaker_asym": 87.0
+      "spinnaker_asym": 87.0, 
+      "crew": 400.0
     }, 
     "year": "1997"
   }, 

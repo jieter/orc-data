@@ -5,12 +5,13 @@
       1.158, 
       1.301
     ], 
-    "gph": 659.6, 
     "triple_inshore": [
       0.6825, 
       0.9348, 
       1.0873
-    ]
+    ], 
+    "gph": 659.6, 
+    "osn": 641.9
   }, 
   "sailnumber": "ITA13398", 
   "name": "FREE LANCE", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.5, 
       "loa": 10.06, 
       "draft": 1.84, 
+      "wetted_surface": 24.6, 
       "main": 34.5, 
       "genoa": 30.8, 
       "displacement": 4838.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1994"
   }, 

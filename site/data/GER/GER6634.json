@@ -5,12 +5,13 @@
       1.1897, 
       1.3397
     ], 
-    "gph": 642.2, 
     "triple_inshore": [
       0.7007, 
       0.9618, 
       1.1206
-    ]
+    ], 
+    "gph": 642.2, 
+    "osn": 624.5
   }, 
   "sailnumber": "GER6634", 
   "name": "DISCO VOLANTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.1, 
       "loa": 10.36, 
       "draft": 1.9, 
+      "wetted_surface": 25.6, 
       "main": 39.8, 
       "genoa": 27.0, 
       "displacement": 5323.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2007"
   }, 

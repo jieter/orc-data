@@ -5,12 +5,13 @@
       1.2032, 
       1.3609
     ], 
-    "gph": 635.2, 
     "triple_inshore": [
       0.7064, 
       0.9696, 
       1.1376
-    ]
+    ], 
+    "gph": 635.2, 
+    "osn": 616.9
   }, 
   "sailnumber": "EST415", 
   "name": "NaVi", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.5, 
       "loa": 10.84, 
       "draft": 2.02, 
+      "wetted_surface": 27.3, 
       "main": 38.2, 
       "genoa": 35.5, 
       "displacement": 6194.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.1769, 
       1.3562
     ], 
-    "gph": 655.3, 
     "triple_inshore": [
       0.6573, 
       0.9221, 
       1.0975
-    ]
+    ], 
+    "gph": 655.3, 
+    "osn": 636.4
   }, 
   "sailnumber": "ESP8832_C", 
   "name": "REPELON", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.32, 
       "draft": 1.74, 
+      "wetted_surface": 35.9, 
       "main": 35.1, 
       "genoa": 49.3, 
       "displacement": 8365.0, 
-      "spinnaker_asym": 116.0
+      "spinnaker_asym": 116.0, 
+      "crew": 350.0
     }, 
     "year": "1998"
   }, 

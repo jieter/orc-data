@@ -5,12 +5,13 @@
       1.2285, 
       1.4022
     ], 
-    "gph": 624.3, 
     "triple_inshore": [
       0.7082, 
       0.9765, 
       1.1541
-    ]
+    ], 
+    "gph": 624.3, 
+    "osn": 605.7
   }, 
   "sailnumber": "NOR10503", 
   "name": "Citius", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.06, 
       "draft": 2.08, 
+      "wetted_surface": 32.0, 
       "main": 46.3, 
       "genoa": 32.6, 
       "displacement": 7640.0, 
-      "spinnaker_asym": 96.0
+      "spinnaker_asym": 96.0, 
+      "crew": 758.0
     }, 
     "year": "2001"
   }, 

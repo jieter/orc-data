@@ -5,12 +5,13 @@
       1.2581, 
       1.413
     ], 
-    "gph": 605.7, 
     "triple_inshore": [
       0.7419, 
       1.0068, 
       1.1679
-    ]
+    ], 
+    "gph": 605.7, 
+    "osn": 591.4
   }, 
   "sailnumber": "FIN11576", 
   "name": "Madame Bla", 
@@ -25,10 +26,12 @@
       "spinnaker": 116.7, 
       "loa": 11.91, 
       "draft": 1.91, 
+      "wetted_surface": 31.6, 
       "main": 49.2, 
       "genoa": 51.9, 
       "displacement": 7314.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "1997"
   }, 

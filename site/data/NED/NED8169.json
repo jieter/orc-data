@@ -5,12 +5,13 @@
       1.0743, 
       1.2522
     ], 
-    "gph": 715.5, 
     "triple_inshore": [
       0.6111, 
       0.8514, 
       1.0415
-    ]
+    ], 
+    "gph": 715.5, 
+    "osn": 692.8
   }, 
   "sailnumber": "NED8169", 
   "name": "Pendragon", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.0, 
       "loa": 10.98, 
       "draft": 1.79, 
+      "wetted_surface": 28.2, 
       "main": 28.4, 
       "genoa": 35.8, 
       "displacement": 7831.0, 
-      "spinnaker_asym": 76.0
+      "spinnaker_asym": 76.0, 
+      "crew": 543.0
     }, 
     "year": "1968"
   }, 

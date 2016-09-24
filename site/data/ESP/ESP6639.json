@@ -5,12 +5,13 @@
       1.104, 
       1.2478
     ], 
-    "gph": 695.8, 
     "triple_inshore": [
       0.6388, 
       0.8899, 
       1.0337
-    ]
+    ], 
+    "gph": 695.8, 
+    "osn": 674.0
   }, 
   "sailnumber": "ESP6639", 
   "name": "FIXIUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.8, 
       "loa": 8.3, 
       "draft": 2.13, 
+      "wetted_surface": 20.3, 
       "main": 27.7, 
       "genoa": 20.8, 
       "displacement": 2697.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       1.2136, 
       1.3593
     ], 
-    "gph": 628.0, 
     "triple_inshore": [
       0.7225, 
       0.9848, 
       1.1419
-    ]
+    ], 
+    "gph": 628.0, 
+    "osn": 611.5
   }, 
   "sailnumber": "ITA15442", 
   "name": "OLANDESE VOLANTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.9, 
       "loa": 10.64, 
       "draft": 2.22, 
+      "wetted_surface": 26.5, 
       "main": 40.0, 
       "genoa": 39.7, 
       "displacement": 5562.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 460.0
     }, 
     "year": "2001"
   }, 

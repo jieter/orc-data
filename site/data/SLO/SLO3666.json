@@ -5,12 +5,13 @@
       1.2034, 
       1.3783
     ], 
-    "gph": 636.2, 
     "triple_inshore": [
       0.6986, 
       0.9709, 
       1.1395
-    ]
+    ], 
+    "gph": 636.2, 
+    "osn": 616.8
   }, 
   "sailnumber": "SLO3666", 
   "name": "Shark", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.0, 
       "loa": 9.8, 
       "draft": 1.92, 
+      "wetted_surface": 23.7, 
       "main": 32.0, 
       "genoa": 27.8, 
       "displacement": 3841.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 500.0
     }, 
     "year": "2007"
   }, 

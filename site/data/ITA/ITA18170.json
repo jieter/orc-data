@@ -5,12 +5,13 @@
       1.3716, 
       1.5511
     ], 
-    "gph": 557.2, 
     "triple_inshore": [
       0.8033, 
       1.1019, 
       1.2937
-    ]
+    ], 
+    "gph": 557.2, 
+    "osn": 542.2
   }, 
   "sailnumber": "ITA18170", 
   "name": "LUDUAN RELOADED", 
@@ -25,10 +26,12 @@
       "spinnaker": 182.2, 
       "loa": 14.1, 
       "draft": 2.6, 
+      "wetted_surface": 42.9, 
       "main": 67.8, 
       "genoa": 58.8, 
       "displacement": 11900.0, 
-      "spinnaker_asym": 181.0
+      "spinnaker_asym": 181.0, 
+      "crew": 920.0
     }, 
     "year": "2008"
   }, 

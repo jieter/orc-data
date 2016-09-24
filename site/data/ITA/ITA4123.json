@@ -5,12 +5,13 @@
       1.3233, 
       1.4895
     ], 
-    "gph": 576.3, 
     "triple_inshore": [
       0.7852, 
       1.0715, 
       1.242
-    ]
+    ], 
+    "gph": 576.3, 
+    "osn": 560.5
   }, 
   "sailnumber": "ITA4123", 
   "name": "CAPITANI CORAGGIOSI", 
@@ -25,10 +26,12 @@
       "spinnaker": 129.4, 
       "loa": 12.35, 
       "draft": 2.51, 
+      "wetted_surface": 32.9, 
       "main": 53.2, 
       "genoa": 43.7, 
       "displacement": 7097.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "2006"
   }, 

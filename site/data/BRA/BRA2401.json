@@ -5,12 +5,13 @@
       1.1348, 
       1.2863
     ], 
-    "gph": 672.2, 
     "triple_inshore": [
       0.6726, 
       0.9217, 
       1.0767
-    ]
+    ], 
+    "gph": 672.2, 
+    "osn": 652.4
   }, 
   "sailnumber": "BRA2401", 
   "name": "LADY MILLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.0, 
       "loa": 9.15, 
       "draft": 1.78, 
+      "wetted_surface": 21.2, 
       "main": 28.6, 
       "genoa": 24.7, 
       "displacement": 3704.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 545.0
     }, 
     "year": "2006"
   }, 

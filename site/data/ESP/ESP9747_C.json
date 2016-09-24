@@ -5,12 +5,13 @@
       1.1693, 
       1.3598
     ], 
-    "gph": 660.7, 
     "triple_inshore": [
       0.6458, 
       0.9287, 
       1.1291
-    ]
+    ], 
+    "gph": 660.7, 
+    "osn": 639.9
   }, 
   "sailnumber": "ESP9747_C", 
   "name": "ATAMAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.62, 
       "draft": 2.13, 
+      "wetted_surface": 32.9, 
       "main": 48.4, 
       "genoa": 52.7, 
       "displacement": 7771.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.2073, 
       1.3596
     ], 
-    "gph": 630.9, 
     "triple_inshore": [
       0.7179, 
       0.977, 
       1.1358
-    ]
+    ], 
+    "gph": 630.9, 
+    "osn": 614.5
   }, 
   "sailnumber": "NED8672", 
   "name": "Effenie", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.3, 
       "loa": 10.64, 
       "draft": 1.82, 
+      "wetted_surface": 26.6, 
       "main": 40.0, 
       "genoa": 37.2, 
       "displacement": 5770.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 647.0
     }, 
     "year": "2001"
   }, 

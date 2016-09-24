@@ -5,12 +5,13 @@
       1.0828, 
       1.2561
     ], 
-    "gph": 713.1, 
     "triple_inshore": [
       0.6004, 
       0.8439, 
       1.0136
-    ]
+    ], 
+    "gph": 713.1, 
+    "osn": 692.6
   }, 
   "sailnumber": "ITA17023", 
   "name": "SECOND LIFE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.532, 
       "draft": 1.68, 
+      "wetted_surface": 31.3, 
       "main": 29.4, 
       "genoa": 40.9, 
       "displacement": 7429.0, 
-      "spinnaker_asym": 116.0
+      "spinnaker_asym": 116.0, 
+      "crew": 668.0
     }, 
     "year": "1989"
   }, 

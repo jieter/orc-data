@@ -5,12 +5,13 @@
       1.2713, 
       1.4955
     ], 
-    "gph": 607.1, 
     "triple_inshore": [
       0.7057, 
       1.0024, 
       1.2342
-    ]
+    ], 
+    "gph": 607.1, 
+    "osn": 587.6
   }, 
   "sailnumber": "NED3777", 
   "name": "ZAZOE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.506, 
       "draft": 2.31, 
+      "wetted_surface": 45.0, 
       "main": 56.1, 
       "genoa": 43.4, 
       "displacement": 12863.0, 
-      "spinnaker_asym": 137.0
+      "spinnaker_asym": 137.0, 
+      "crew": 992.0
     }, 
     "year": "1999"
   }, 

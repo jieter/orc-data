@@ -5,12 +5,13 @@
       1.3636, 
       1.5337
     ], 
-    "gph": 559.1, 
     "triple_inshore": [
       0.8061, 
       1.0971, 
       1.2783
-    ]
+    ], 
+    "gph": 559.1, 
+    "osn": 545.1
   }, 
   "sailnumber": "ITA14593", 
   "name": "CANAPIGLIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 144.0, 
       "loa": 13.99, 
       "draft": 2.66, 
+      "wetted_surface": 39.5, 
       "main": 67.8, 
       "genoa": 52.7, 
       "displacement": 10433.0, 
-      "spinnaker_asym": 152.0
+      "spinnaker_asym": 152.0, 
+      "crew": 893.0
     }, 
     "year": "2003"
   }, 

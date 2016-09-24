@@ -5,12 +5,13 @@
       1.249, 
       1.4217
     ], 
-    "gph": 613.3, 
     "triple_inshore": [
       0.7248, 
       1.0049, 
       1.1859
-    ]
+    ], 
+    "gph": 613.3, 
+    "osn": 594.7
   }, 
   "sailnumber": "ITA13593", 
   "name": "ALLEGRADUE", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.6, 
       "loa": 11.924, 
       "draft": 2.39, 
+      "wetted_surface": 31.4, 
       "main": 45.0, 
       "genoa": 39.4, 
       "displacement": 7266.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 740.0
     }, 
     "year": "1997"
   }, 

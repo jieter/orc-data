@@ -5,12 +5,13 @@
       1.246, 
       1.415
     ], 
-    "gph": 611.1, 
     "triple_inshore": [
       0.7434, 
       1.0162, 
       1.1773
-    ]
+    ], 
+    "gph": 611.1, 
+    "osn": 593.3
   }, 
   "sailnumber": "NED8319", 
   "name": "Daya", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.6, 
       "loa": 9.993, 
       "draft": 2.23, 
+      "wetted_surface": 23.7, 
       "main": 37.6, 
       "genoa": 27.6, 
       "displacement": 4004.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 608.0
     }, 
     "year": "2010"
   }, 

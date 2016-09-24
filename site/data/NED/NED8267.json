@@ -5,12 +5,13 @@
       1.2367, 
       1.3934
     ], 
-    "gph": 617.4, 
     "triple_inshore": [
       0.7233, 
       0.9731, 
       1.1332
-    ]
+    ], 
+    "gph": 617.4, 
+    "osn": 602.5
   }, 
   "sailnumber": "NED8267", 
   "name": "Max", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.634, 
       "draft": 1.71, 
+      "wetted_surface": 37.1, 
       "main": 53.9, 
       "genoa": 43.1, 
       "displacement": 11276.0, 
-      "spinnaker_asym": 154.0
+      "spinnaker_asym": 154.0, 
+      "crew": 700.0
     }, 
     "year": "2009"
   }, 

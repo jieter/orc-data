@@ -5,12 +5,13 @@
       1.2567, 
       1.4284
     ], 
-    "gph": 600.4, 
     "triple_inshore": [
       0.7748, 
       1.0311, 
       1.1859
-    ]
+    ], 
+    "gph": 600.4, 
+    "osn": 584.5
   }, 
   "sailnumber": "ESP8619", 
   "name": "OPTIMUMM", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.4, 
       "loa": 9.435, 
       "draft": 2.17, 
+      "wetted_surface": 18.6, 
       "main": 34.7, 
       "genoa": 20.7, 
       "displacement": 2611.0, 
-      "spinnaker_asym": 92.0
+      "spinnaker_asym": 92.0, 
+      "crew": 578.0
     }, 
     "year": "1996"
   }, 

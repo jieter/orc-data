@@ -5,12 +5,13 @@
       1.1327, 
       1.2932
     ], 
-    "gph": 669.3, 
     "triple_inshore": [
       0.6841, 
       0.9246, 
       1.0552
-    ]
+    ], 
+    "gph": 669.3, 
+    "osn": 650.6
   }, 
   "sailnumber": "BRA2016", 
   "name": "STAND BY ME", 
@@ -25,10 +26,12 @@
       "spinnaker": 35.1, 
       "loa": 7.805, 
       "draft": 1.73, 
+      "wetted_surface": 12.5, 
       "main": 21.4, 
       "genoa": 15.4, 
       "displacement": 1302.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 402.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.2509, 
       1.4209
     ], 
-    "gph": 611.5, 
     "triple_inshore": [
       0.7316, 
       1.0083, 
       1.1877
-    ]
+    ], 
+    "gph": 611.5, 
+    "osn": 593.2
   }, 
   "sailnumber": "GER6962", 
   "name": "WESTERGAST", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.3, 
       "loa": 11.293, 
       "draft": 2.02, 
+      "wetted_surface": 31.9, 
       "main": 48.1, 
       "genoa": 33.4, 
       "displacement": 7364.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2013"
   }, 

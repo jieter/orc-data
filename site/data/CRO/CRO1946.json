@@ -5,12 +5,13 @@
       1.3642, 
       1.5564
     ], 
-    "gph": 560.4, 
     "triple_inshore": [
       0.7925, 
       1.0947, 
       1.2878
-    ]
+    ], 
+    "gph": 560.4, 
+    "osn": 545.3
   }, 
   "sailnumber": "CRO1946", 
   "name": "Moonflower 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 150.5, 
       "loa": 13.5, 
       "draft": 2.42, 
+      "wetted_surface": 37.1, 
       "main": 57.7, 
       "genoa": 58.0, 
       "displacement": 9300.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 947.0
     }, 
     "year": "2010"
   }, 

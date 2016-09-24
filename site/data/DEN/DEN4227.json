@@ -5,12 +5,13 @@
       1.3999, 
       1.5721
     ], 
-    "gph": 542.6, 
     "triple_inshore": [
       0.8416, 
       1.1321, 
       1.2912
-    ]
+    ], 
+    "gph": 542.6, 
+    "osn": 528.5
   }, 
   "sailnumber": "DEN4227", 
   "name": "Sirena", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.96, 
       "draft": 2.74, 
+      "wetted_surface": 34.8, 
       "main": 62.4, 
       "genoa": 49.0, 
       "displacement": 7623.0, 
-      "spinnaker_asym": 185.0
+      "spinnaker_asym": 185.0, 
+      "crew": 1000.0
     }, 
     "year": "2006"
   }, 

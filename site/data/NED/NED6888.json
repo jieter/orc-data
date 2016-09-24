@@ -5,12 +5,13 @@
       1.2484, 
       1.4492
     ], 
-    "gph": 613.6, 
     "triple_inshore": [
       0.7188, 
       0.9922, 
       1.2074
-    ]
+    ], 
+    "gph": 613.6, 
+    "osn": 595.6
   }, 
   "sailnumber": "NED6888", 
   "name": "VRIJHEID", 
@@ -25,10 +26,12 @@
       "spinnaker": 150.6, 
       "loa": 14.4, 
       "draft": 2.49, 
+      "wetted_surface": 43.2, 
       "main": 47.7, 
       "genoa": 75.3, 
       "displacement": 14881.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 882.0
     }, 
     "year": "1983"
   }, 

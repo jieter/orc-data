@@ -5,12 +5,13 @@
       1.1735, 
       1.3492
     ], 
-    "gph": 653.4, 
     "triple_inshore": [
       0.6775, 
       0.9417, 
       1.1264
-    ]
+    ], 
+    "gph": 653.4, 
+    "osn": 632.8
   }, 
   "sailnumber": "NOR13638", 
   "name": "Eneste Soster", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.7, 
       "loa": 10.59, 
       "draft": 1.87, 
+      "wetted_surface": 28.5, 
       "main": 32.8, 
       "genoa": 37.4, 
       "displacement": 6345.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 673.0
     }, 
     "year": "2007"
   }, 

@@ -5,12 +5,13 @@
       0.9621, 
       1.0879
     ], 
-    "gph": 794.3, 
     "triple_inshore": [
       0.5651, 
       0.7728, 
       0.904
-    ]
+    ], 
+    "gph": 794.3, 
+    "osn": 772.3
   }, 
   "sailnumber": "SUI437", 
   "name": "TOPAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 52.1, 
       "loa": 7.9, 
       "draft": 1.33, 
+      "wetted_surface": 16.1, 
       "main": 16.3, 
       "genoa": 19.5, 
       "displacement": 2994.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 396.0
     }, 
     "year": "1977"
   }, 

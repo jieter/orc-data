@@ -5,12 +5,13 @@
       1.1019, 
       1.245
     ], 
-    "gph": 693.5, 
     "triple_inshore": [
       0.6473, 
       0.8839, 
       1.0415
-    ]
+    ], 
+    "gph": 693.5, 
+    "osn": 674.2
   }, 
   "sailnumber": "ITA6889", 
   "name": "MIZAR COCCODRILLO", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.8, 
       "loa": 10.868, 
       "draft": 1.93, 
+      "wetted_surface": 25.6, 
       "main": 20.1, 
       "genoa": 50.9, 
       "displacement": 6360.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1974"
   }, 

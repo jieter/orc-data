@@ -5,12 +5,13 @@
       1.1903, 
       1.3413
     ], 
-    "gph": 638.8, 
     "triple_inshore": [
       0.7101, 
       0.9641, 
       1.1147
-    ]
+    ], 
+    "gph": 638.8, 
+    "osn": 622.7
   }, 
   "sailnumber": "ESP9904_C", 
   "name": "MEIGAS FORA III", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.4, 
       "loa": 10.007, 
       "draft": 1.8, 
+      "wetted_surface": 20.0, 
       "main": 32.1, 
       "genoa": 29.8, 
       "displacement": 3118.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1986"
   }, 

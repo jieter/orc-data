@@ -5,12 +5,13 @@
       1.2093, 
       1.3325
     ], 
-    "gph": 621.1, 
     "triple_inshore": [
       0.7678, 
       0.9989, 
       1.123
-    ]
+    ], 
+    "gph": 621.1, 
+    "osn": 607.4
   }, 
   "sailnumber": "HUN75", 
   "name": "Madicken", 
@@ -25,10 +26,12 @@
       "spinnaker": 141.0, 
       "loa": 10.114, 
       "draft": 1.85, 
+      "wetted_surface": 20.2, 
       "main": 39.3, 
       "genoa": 27.2, 
       "displacement": 3552.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 508.0
     }, 
     "year": "1980"
   }, 

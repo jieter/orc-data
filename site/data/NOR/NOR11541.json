@@ -5,12 +5,13 @@
       1.2433, 
       1.3868
     ], 
-    "gph": 609.8, 
     "triple_inshore": [
       0.7467, 
       0.9986, 
       1.1388
-    ]
+    ], 
+    "gph": 609.8, 
+    "osn": 597.1
   }, 
   "sailnumber": "NOR11541", 
   "name": "JJFLASH", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.75, 
       "draft": 2.12, 
+      "wetted_surface": 25.8, 
       "main": 38.6, 
       "genoa": 44.1, 
       "displacement": 4798.0, 
-      "spinnaker_asym": 107.0
+      "spinnaker_asym": 107.0, 
+      "crew": 628.0
     }, 
     "year": "2001"
   }, 

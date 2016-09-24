@@ -5,12 +5,13 @@
       1.1318, 
       1.3227
     ], 
-    "gph": 681.4, 
     "triple_inshore": [
       0.6334, 
       0.8965, 
       1.0967
-    ]
+    ], 
+    "gph": 681.4, 
+    "osn": 659.3
   }, 
   "sailnumber": "ESP9946_C", 
   "name": "IBANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.23, 
       "draft": 1.94, 
+      "wetted_surface": 32.2, 
       "main": 35.7, 
       "genoa": 42.9, 
       "displacement": 7870.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 712.0
     }, 
     "year": "2011"
   }, 

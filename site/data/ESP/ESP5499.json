@@ -5,12 +5,13 @@
       1.4815, 
       1.6941
     ], 
-    "gph": 513.9, 
     "triple_inshore": [
       0.8689, 
       1.1819, 
       1.3793
-    ]
+    ], 
+    "gph": 513.9, 
+    "osn": 501.5
   }, 
   "sailnumber": "ESP5499", 
   "name": "SIRIUS V", 
@@ -25,10 +26,12 @@
       "spinnaker": 158.3, 
       "loa": 14.865, 
       "draft": 2.79, 
+      "wetted_surface": 41.0, 
       "main": 83.2, 
       "genoa": 72.5, 
       "displacement": 8627.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1083.0
     }, 
     "year": "1999"
   }, 

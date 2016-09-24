@@ -5,12 +5,13 @@
       1.1859, 
       1.3287
     ], 
-    "gph": 640.9, 
     "triple_inshore": [
       0.7154, 
       0.965, 
       1.1088
-    ]
+    ], 
+    "gph": 640.9, 
+    "osn": 623.6
   }, 
   "sailnumber": "ESP10031", 
   "name": "VICTORIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.7, 
       "loa": 9.55, 
       "draft": 1.99, 
+      "wetted_surface": 20.3, 
       "main": 30.4, 
       "genoa": 22.3, 
       "displacement": 3329.0, 
-      "spinnaker_asym": 64.0
+      "spinnaker_asym": 64.0, 
+      "crew": 78.0
     }, 
     "year": "2009"
   }, 

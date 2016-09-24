@@ -5,12 +5,13 @@
       0.9844, 
       1.1691
     ], 
-    "gph": 787.2, 
     "triple_inshore": [
       0.5387, 
       0.7833, 
       0.9719
-    ]
+    ], 
+    "gph": 787.2, 
+    "osn": 758.1
   }, 
   "sailnumber": "GRE1214", 
   "name": "PARASKEVI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.34, 
       "draft": 1.57, 
+      "wetted_surface": 20.9, 
       "main": 21.0, 
       "genoa": 26.2, 
       "displacement": 4000.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1990"
   }, 

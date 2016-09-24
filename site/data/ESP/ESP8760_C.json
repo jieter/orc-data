@@ -5,12 +5,13 @@
       1.2127, 
       1.3948
     ], 
-    "gph": 633.7, 
     "triple_inshore": [
       0.6872, 
       0.9594, 
       1.1476
-    ]
+    ], 
+    "gph": 633.7, 
+    "osn": 615.4
   }, 
   "sailnumber": "ESP8760_C", 
   "name": "TRICKY D", 
@@ -25,10 +26,12 @@
       "spinnaker": 112.5, 
       "loa": 12.67, 
       "draft": 1.66, 
+      "wetted_surface": 36.7, 
       "main": 39.8, 
       "genoa": 52.3, 
       "displacement": 8662.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "2002"
   }, 

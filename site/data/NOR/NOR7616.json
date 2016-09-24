@@ -5,12 +5,13 @@
       1.2516, 
       1.4423
     ], 
-    "gph": 612.2, 
     "triple_inshore": [
       0.723, 
       0.9974, 
       1.2026
-    ]
+    ], 
+    "gph": 612.2, 
+    "osn": 593.9
   }, 
   "sailnumber": "NOR7616", 
   "name": "S/y coral", 
@@ -25,10 +26,12 @@
       "spinnaker": 151.2, 
       "loa": 13.99, 
       "draft": 2.25, 
+      "wetted_surface": 42.5, 
       "main": 44.8, 
       "genoa": 69.1, 
       "displacement": 12977.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 886.0
     }, 
     "year": "1983"
   }, 

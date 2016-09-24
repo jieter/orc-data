@@ -5,12 +5,13 @@
       1.1946, 
       1.3396
     ], 
-    "gph": 630.0, 
     "triple_inshore": [
       0.7368, 
       0.9736, 
       1.1132
-    ]
+    ], 
+    "gph": 630.0, 
+    "osn": 617.5
   }, 
   "sailnumber": "HUN27906", 
   "name": "Loupiot", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.14, 
       "draft": 1.93, 
+      "wetted_surface": 19.5, 
       "main": 30.9, 
       "genoa": 22.8, 
       "displacement": 2915.0, 
-      "spinnaker_asym": 94.0
+      "spinnaker_asym": 94.0, 
+      "crew": 400.0
     }, 
     "year": "1992"
   }, 

@@ -5,12 +5,13 @@
       1.1034, 
       1.3448
     ], 
-    "gph": 706.3, 
     "triple_inshore": [
       0.5762, 
       0.8567, 
       1.0888
-    ]
+    ], 
+    "gph": 706.3, 
+    "osn": 681.9
   }, 
   "sailnumber": "ITAPALME", 
   "name": "PALMERSTON", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.8, 
       "draft": 2.07, 
+      "wetted_surface": 39.6, 
       "main": 35.4, 
       "genoa": 60.6, 
       "displacement": 10023.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1995"
   }, 

@@ -5,12 +5,13 @@
       1.1194, 
       1.2764
     ], 
-    "gph": 682.4, 
     "triple_inshore": [
       0.6423, 
       0.8814, 
       1.0418
-    ]
+    ], 
+    "gph": 682.4, 
+    "osn": 666.8
   }, 
   "sailnumber": "NED7540", 
   "name": "Incognito", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.3, 
       "loa": 10.785, 
       "draft": 1.4, 
+      "wetted_surface": 24.9, 
       "main": 29.4, 
       "genoa": 27.3, 
       "displacement": 5350.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 598.0
     }, 
     "year": "1991"
   }, 

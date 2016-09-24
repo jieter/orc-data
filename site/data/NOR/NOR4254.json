@@ -5,12 +5,13 @@
       1.097, 
       1.2569
     ], 
-    "gph": 698.7, 
     "triple_inshore": [
       0.6342, 
       0.8842, 
       1.0553
-    ]
+    ], 
+    "gph": 698.7, 
+    "osn": 677.3
   }, 
   "sailnumber": "NOR4254", 
   "name": "Supernova", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.0, 
       "loa": 9.87, 
       "draft": 1.72, 
+      "wetted_surface": 22.6, 
       "main": 30.1, 
       "genoa": 21.4, 
       "displacement": 4414.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 548.0
     }, 
     "year": "1971"
   }, 

@@ -5,12 +5,13 @@
       1.2428, 
       1.4212
     ], 
-    "gph": 616.8, 
     "triple_inshore": [
       0.7134, 
       0.9932, 
       1.1822
-    ]
+    ], 
+    "gph": 616.8, 
+    "osn": 599.3
   }, 
   "sailnumber": "NED8357", 
   "name": "DAZE", 
@@ -25,10 +26,12 @@
       "spinnaker": 119.9, 
       "loa": 12.8, 
       "draft": 2.07, 
+      "wetted_surface": 35.4, 
       "main": 46.8, 
       "genoa": 48.3, 
       "displacement": 8946.0, 
-      "spinnaker_asym": 107.0
+      "spinnaker_asym": 107.0, 
+      "crew": 650.0
     }, 
     "year": "1998"
   }, 

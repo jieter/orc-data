@@ -5,12 +5,13 @@
       1.1883, 
       1.3616
     ], 
-    "gph": 643.2, 
     "triple_inshore": [
       0.6912, 
       0.9597, 
       1.1203
-    ]
+    ], 
+    "gph": 643.2, 
+    "osn": 624.2
   }, 
   "sailnumber": "NED6252", 
   "name": "DE ONDEUGD", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.6, 
       "loa": 9.6, 
       "draft": 1.97, 
+      "wetted_surface": 21.4, 
       "main": 35.6, 
       "genoa": 21.3, 
       "displacement": 3076.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 605.0
     }, 
     "year": "1996"
   }, 

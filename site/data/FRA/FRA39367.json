@@ -5,12 +5,13 @@
       1.0999, 
       1.2712
     ], 
-    "gph": 697.7, 
     "triple_inshore": [
       0.6278, 
       0.8775, 
       1.062
-    ]
+    ], 
+    "gph": 697.7, 
+    "osn": 676.6
   }, 
   "sailnumber": "FRA39367", 
   "name": "BILOUT", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.8, 
       "loa": 9.869, 
       "draft": 1.9, 
+      "wetted_surface": 25.4, 
       "main": 28.1, 
       "genoa": 21.7, 
       "displacement": 5542.0, 
-      "spinnaker_asym": 85.0
+      "spinnaker_asym": 85.0, 
+      "crew": 595.0
     }, 
     "year": "2009"
   }, 

@@ -5,12 +5,13 @@
       1.1516, 
       1.3165
     ], 
-    "gph": 665.1, 
     "triple_inshore": [
       0.6683, 
       0.9246, 
       1.1002
-    ]
+    ], 
+    "gph": 665.1, 
+    "osn": 645.0
   }, 
   "sailnumber": "NOR3624", 
   "name": "Cinderella", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.2, 
       "loa": 11.1, 
       "draft": 2.04, 
+      "wetted_surface": 23.6, 
       "main": 32.7, 
       "genoa": 22.8, 
       "displacement": 5107.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 566.0
     }, 
     "year": "1980"
   }, 

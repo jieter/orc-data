@@ -5,12 +5,13 @@
       1.1456, 
       1.291
     ], 
-    "gph": 666.0, 
     "triple_inshore": [
       0.6755, 
       0.9236, 
       1.0799
-    ]
+    ], 
+    "gph": 666.0, 
+    "osn": 648.4
   }, 
   "sailnumber": "NOR7340", 
   "name": "Odrik II", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.0, 
       "loa": 11.02, 
       "draft": 1.87, 
+      "wetted_surface": 25.0, 
       "main": 33.5, 
       "genoa": 37.1, 
       "displacement": 5499.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 609.0
     }, 
     "year": "1983"
   }, 

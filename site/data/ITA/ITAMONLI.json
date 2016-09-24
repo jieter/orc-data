@@ -5,12 +5,13 @@
       1.2391, 
       1.4164
     ], 
-    "gph": 618.8, 
     "triple_inshore": [
       0.7147, 
       0.9891, 
       1.1799
-    ]
+    ], 
+    "gph": 618.8, 
+    "osn": 600.7
   }, 
   "sailnumber": "ITAMONLI", 
   "name": "MONNA LISA", 
@@ -25,10 +26,12 @@
       "spinnaker": 118.2, 
       "loa": 13.425, 
       "draft": 2.25, 
+      "wetted_surface": 39.1, 
       "main": 41.9, 
       "genoa": 64.4, 
       "displacement": 10995.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1988"
   }, 

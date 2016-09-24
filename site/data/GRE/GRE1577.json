@@ -5,12 +5,13 @@
       1.3136, 
       1.4942
     ], 
-    "gph": 583.3, 
     "triple_inshore": [
       0.7612, 
       1.0544, 
       1.2462
-    ]
+    ], 
+    "gph": 583.3, 
+    "osn": 566.4
   }, 
   "sailnumber": "GRE1577", 
   "name": "ARGO 1", 
@@ -25,10 +26,12 @@
       "spinnaker": 122.7, 
       "loa": 13.352, 
       "draft": 2.55, 
+      "wetted_surface": 38.3, 
       "main": 60.1, 
       "genoa": 43.3, 
       "displacement": 9841.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 882.0
     }, 
     "year": "2003"
   }, 

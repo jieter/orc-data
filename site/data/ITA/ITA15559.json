@@ -5,12 +5,13 @@
       1.1522, 
       1.3063
     ], 
-    "gph": 663.7, 
     "triple_inshore": [
       0.6742, 
       0.9178, 
       1.0797
-    ]
+    ], 
+    "gph": 663.7, 
+    "osn": 645.1
   }, 
   "sailnumber": "ITA15559", 
   "name": "ELISEWIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.1, 
       "draft": 2.06, 
+      "wetted_surface": 28.1, 
       "main": 31.5, 
       "genoa": 41.5, 
       "displacement": 6636.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 640.0
     }, 
     "year": "1997"
   }, 

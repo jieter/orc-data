@@ -5,12 +5,13 @@
       1.398, 
       1.5747
     ], 
-    "gph": 544.6, 
     "triple_inshore": [
       0.8292, 
       1.1262, 
       1.3117
-    ]
+    ], 
+    "gph": 544.6, 
+    "osn": 531.2
   }, 
   "sailnumber": "RUS9779", 
   "name": "SOLETE", 
@@ -25,10 +26,12 @@
       "spinnaker": 204.3, 
       "loa": 14.1, 
       "draft": 2.59, 
+      "wetted_surface": 42.4, 
       "main": 72.4, 
       "genoa": 59.8, 
       "displacement": 11493.0, 
-      "spinnaker_asym": 204.0
+      "spinnaker_asym": 204.0, 
+      "crew": 960.0
     }, 
     "year": "2006"
   }, 

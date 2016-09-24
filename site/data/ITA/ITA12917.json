@@ -5,12 +5,13 @@
       1.0683, 
       1.1938
     ], 
-    "gph": 705.1, 
     "triple_inshore": [
       0.6669, 
       0.8803, 
       0.9946
-    ]
+    ], 
+    "gph": 705.1, 
+    "osn": 688.3
   }, 
   "sailnumber": "ITA12917", 
   "name": "GIRO DI BARRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 32.0, 
       "loa": 7.35, 
       "draft": 1.64, 
+      "wetted_surface": 10.2, 
       "main": 19.5, 
       "genoa": 15.2, 
       "displacement": 1174.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1994"
   }, 

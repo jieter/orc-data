@@ -5,12 +5,13 @@
       1.2558, 
       1.4867
     ], 
-    "gph": 602.7, 
     "triple_inshore": [
       0.7535, 
       1.0009, 
       1.1863
-    ]
+    ], 
+    "gph": 602.7, 
+    "osn": 585.5
   }, 
   "sailnumber": "ITA13D81", 
   "name": "MERAK", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.1, 
       "loa": 8.083, 
       "draft": 1.57, 
+      "wetted_surface": 12.9, 
       "main": 22.5, 
       "genoa": 16.1, 
       "displacement": 970.0, 
-      "spinnaker_asym": 64.0
+      "spinnaker_asym": 64.0, 
+      "crew": 420.0
     }, 
     "year": "1992"
   }, 

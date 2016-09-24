@@ -5,12 +5,13 @@
       1.2389, 
       1.3913
     ], 
-    "gph": 613.6, 
     "triple_inshore": [
       0.7424, 
       1.0057, 
       1.1664
-    ]
+    ], 
+    "gph": 613.6, 
+    "osn": 598.1
   }, 
   "sailnumber": "NOR10901", 
   "name": "Betty Boop", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.1, 
       "loa": 10.79, 
       "draft": 2.03, 
+      "wetted_surface": 27.2, 
       "main": 42.9, 
       "genoa": 41.7, 
       "displacement": 6128.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 715.0
     }, 
     "year": "2004"
   }, 

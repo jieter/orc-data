@@ -5,12 +5,13 @@
       1.2665, 
       1.477
     ], 
-    "gph": 610.8, 
     "triple_inshore": [
       0.692, 
       1.0034, 
       1.2265
-    ]
+    ], 
+    "gph": 610.8, 
+    "osn": 593.4
   }, 
   "sailnumber": "GER7301", 
   "name": "SIXTY4", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.305, 
       "draft": 2.36, 
+      "wetted_surface": 39.2, 
       "main": 59.6, 
       "genoa": 42.8, 
       "displacement": 9872.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 920.0
     }, 
     "year": "2010"
   }, 

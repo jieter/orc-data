@@ -5,12 +5,13 @@
       1.218, 
       1.3815
     ], 
-    "gph": 626.5, 
     "triple_inshore": [
       0.7181, 
       0.981, 
       1.1406
-    ]
+    ], 
+    "gph": 626.5, 
+    "osn": 609.3
   }, 
   "sailnumber": "ITA998", 
   "name": "LOW NOISE II", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.2, 
       "loa": 10.3, 
       "draft": 1.91, 
+      "wetted_surface": 25.0, 
       "main": 37.4, 
       "genoa": 32.7, 
       "displacement": 4649.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 630.0
     }, 
     "year": "2014"
   }, 

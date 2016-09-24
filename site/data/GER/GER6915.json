@@ -5,12 +5,13 @@
       1.2518, 
       1.4202
     ], 
-    "gph": 611.1, 
     "triple_inshore": [
       0.7316, 
       1.0096, 
       1.1887
-    ]
+    ], 
+    "gph": 611.1, 
+    "osn": 593.2
   }, 
   "sailnumber": "GER6915", 
   "name": "UMINOKO", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.6, 
       "loa": 11.3, 
       "draft": 2.2, 
+      "wetted_surface": 31.4, 
       "main": 47.1, 
       "genoa": 36.2, 
       "displacement": 7216.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 525.0
     }, 
     "year": "2012"
   }, 

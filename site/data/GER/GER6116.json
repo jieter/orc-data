@@ -5,12 +5,13 @@
       1.3454, 
       1.5651
     ], 
-    "gph": 571.8, 
     "triple_inshore": [
       0.7614, 
       1.0649, 
       1.2925
-    ]
+    ], 
+    "gph": 571.8, 
+    "osn": 554.4
   }, 
   "sailnumber": "GER6116", 
   "name": "FLEUR DE MER", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 16.95, 
       "draft": 3.37, 
+      "wetted_surface": 51.5, 
       "main": 75.9, 
       "genoa": 64.0, 
       "displacement": 17907.0, 
-      "spinnaker_asym": 142.0
+      "spinnaker_asym": 142.0, 
+      "crew": 800.0
     }, 
     "year": "2005"
   }, 

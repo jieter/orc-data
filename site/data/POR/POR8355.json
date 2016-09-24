@@ -5,12 +5,13 @@
       1.2222, 
       1.3883
     ], 
-    "gph": 627.7, 
     "triple_inshore": [
       0.7039, 
       0.9693, 
       1.1364
-    ]
+    ], 
+    "gph": 627.7, 
+    "osn": 609.8
   }, 
   "sailnumber": "POR8355", 
   "name": "AYE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.86, 
       "draft": 1.98, 
+      "wetted_surface": 32.5, 
       "main": 40.6, 
       "genoa": 40.5, 
       "displacement": 7316.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 650.0
     }, 
     "year": "2006"
   }, 

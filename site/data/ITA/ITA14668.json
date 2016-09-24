@@ -5,12 +5,13 @@
       1.1487, 
       1.3122
     ], 
-    "gph": 667.8, 
     "triple_inshore": [
       0.6627, 
       0.9226, 
       1.0968
-    ]
+    ], 
+    "gph": 667.8, 
+    "osn": 647.1
   }, 
   "sailnumber": "ITA14668", 
   "name": "SOTTO VUOTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.2, 
       "loa": 10.3, 
       "draft": 1.96, 
+      "wetted_surface": 25.4, 
       "main": 29.9, 
       "genoa": 32.9, 
       "displacement": 5352.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "2003"
   }, 

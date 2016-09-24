@@ -5,12 +5,13 @@
       1.2324, 
       1.3844
     ], 
-    "gph": 619.7, 
     "triple_inshore": [
       0.726, 
       0.9918, 
       1.1504
-    ]
+    ], 
+    "gph": 619.7, 
+    "osn": 603.0
   }, 
   "sailnumber": "ITA16661", 
   "name": "ZIGOZAGO", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.2, 
       "loa": 11.292, 
       "draft": 2.06, 
+      "wetted_surface": 28.4, 
       "main": 44.8, 
       "genoa": 33.9, 
       "displacement": 6170.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2005"
   }, 

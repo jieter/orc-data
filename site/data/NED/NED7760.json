@@ -5,12 +5,13 @@
       1.2358, 
       1.4
     ], 
-    "gph": 619.2, 
     "triple_inshore": [
       0.7192, 
       0.9842, 
       1.1514
-    ]
+    ], 
+    "gph": 619.2, 
+    "osn": 601.9
   }, 
   "sailnumber": "NED7760", 
   "name": "Narwal", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.785, 
       "draft": 1.95, 
+      "wetted_surface": 32.7, 
       "main": 49.4, 
       "genoa": 34.8, 
       "displacement": 7549.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 781.0
     }, 
     "year": "1998"
   }, 

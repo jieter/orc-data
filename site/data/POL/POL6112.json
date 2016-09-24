@@ -5,12 +5,13 @@
       1.0012, 
       1.1292
     ], 
-    "gph": 765.2, 
     "triple_inshore": [
       0.5854, 
       0.8077, 
       0.9448
-    ]
+    ], 
+    "gph": 765.2, 
+    "osn": 742.2
   }, 
   "sailnumber": "POL6112", 
   "name": "RESUMEE", 
@@ -25,10 +26,12 @@
       "spinnaker": 48.6, 
       "loa": 8.77, 
       "draft": 1.7, 
+      "wetted_surface": 17.0, 
       "main": 17.2, 
       "genoa": 23.4, 
       "displacement": 2990.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 405.0
     }, 
     "year": "1971"
   }, 

@@ -5,12 +5,13 @@
       0.9401, 
       1.0756
     ], 
-    "gph": 815.1, 
     "triple_inshore": [
       0.5449, 
       0.7412, 
       0.8839
-    ]
+    ], 
+    "gph": 815.1, 
+    "osn": 792.6
   }, 
   "sailnumber": "GER7349", 
   "name": "FORTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.15, 
       "draft": 1.39, 
+      "wetted_surface": 16.8, 
       "main": 12.9, 
       "genoa": 20.7, 
       "displacement": 3139.0, 
-      "spinnaker_asym": 42.0
+      "spinnaker_asym": 42.0, 
+      "crew": 240.0
     }, 
     "year": "1976"
   }, 

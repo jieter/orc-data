@@ -5,12 +5,13 @@
       1.1629, 
       1.3085
     ], 
-    "gph": 654.1, 
     "triple_inshore": [
       0.697, 
       0.9473, 
       1.0975
-    ]
+    ], 
+    "gph": 654.1, 
+    "osn": 637.0
   }, 
   "sailnumber": "NED2938", 
   "name": "DWARSKOP", 
@@ -25,10 +26,12 @@
       "spinnaker": 53.6, 
       "loa": 10.012, 
       "draft": 1.85, 
+      "wetted_surface": 20.7, 
       "main": 35.2, 
       "genoa": 27.6, 
       "displacement": 3839.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "1981"
   }, 

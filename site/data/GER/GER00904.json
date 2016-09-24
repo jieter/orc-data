@@ -5,12 +5,13 @@
       0.9723, 
       1.1381
     ], 
-    "gph": 790.5, 
     "triple_inshore": [
       0.552, 
       0.7768, 
       0.9483
-    ]
+    ], 
+    "gph": 790.5, 
+    "osn": 764.7
   }, 
   "sailnumber": "GER00904", 
   "name": "SUNNY", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.6, 
       "loa": 8.0, 
       "draft": 1.51, 
+      "wetted_surface": 14.2, 
       "main": 12.6, 
       "genoa": 14.7, 
       "displacement": 1912.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 280.0
     }, 
     "year": "1986"
   }, 

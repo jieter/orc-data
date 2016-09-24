@@ -5,12 +5,13 @@
       1.2374, 
       1.4214
     ], 
-    "gph": 619.9, 
     "triple_inshore": [
       0.709, 
       0.9892, 
       1.1717
-    ]
+    ], 
+    "gph": 619.9, 
+    "osn": 601.2
   }, 
   "sailnumber": "ITA16639", 
   "name": "SCUGNIZZA", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.4, 
       "loa": 11.41, 
       "draft": 1.99, 
+      "wetted_surface": 30.1, 
       "main": 43.7, 
       "genoa": 33.2, 
       "displacement": 6138.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 870.0
     }, 
     "year": "2010"
   }, 

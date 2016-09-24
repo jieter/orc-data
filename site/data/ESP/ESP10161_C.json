@@ -5,12 +5,13 @@
       1.2227, 
       1.4005
     ], 
-    "gph": 627.5, 
     "triple_inshore": [
       0.7039, 
       0.9755, 
       1.1524
-    ]
+    ], 
+    "gph": 627.5, 
+    "osn": 608.0
   }, 
   "sailnumber": "ESP10161_C", 
   "name": "DERIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.97, 
       "draft": 2.19, 
+      "wetted_surface": 28.4, 
       "main": 41.0, 
       "genoa": 29.9, 
       "displacement": 5890.0, 
-      "spinnaker_asym": 77.0
+      "spinnaker_asym": 77.0, 
+      "crew": 688.0
     }, 
     "year": "2012"
   }, 

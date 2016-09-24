@@ -5,12 +5,13 @@
       1.1802, 
       1.333
     ], 
-    "gph": 648.7, 
     "triple_inshore": [
       0.6914, 
       0.9533, 
       1.1174
-    ]
+    ], 
+    "gph": 648.7, 
+    "osn": 629.2
   }, 
   "sailnumber": "NED7690", 
   "name": "Reverie", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.1, 
       "loa": 10.222, 
       "draft": 1.88, 
+      "wetted_surface": 24.8, 
       "main": 33.6, 
       "genoa": 25.1, 
       "displacement": 4973.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2001"
   }, 

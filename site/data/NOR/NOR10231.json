@@ -5,12 +5,13 @@
       1.0667, 
       1.2274
     ], 
-    "gph": 723.4, 
     "triple_inshore": [
       0.5984, 
       0.8566, 
       1.0234
-    ]
+    ], 
+    "gph": 723.4, 
+    "osn": 699.1
   }, 
   "sailnumber": "NOR10231", 
   "name": "Bella Vela", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.49, 
       "draft": 1.69, 
+      "wetted_surface": 21.4, 
       "main": 25.7, 
       "genoa": 25.2, 
       "displacement": 3554.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 522.0
     }, 
     "year": "1999"
   }, 

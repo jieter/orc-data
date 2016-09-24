@@ -5,12 +5,13 @@
       1.0809, 
       1.2387
     ], 
-    "gph": 707.9, 
     "triple_inshore": [
       0.6311, 
       0.8725, 
       1.0405
-    ]
+    ], 
+    "gph": 707.9, 
+    "osn": 686.3
   }, 
   "sailnumber": "NOR12363", 
   "name": "Kvitungen", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.32, 
       "draft": 1.85, 
+      "wetted_surface": 20.8, 
       "main": 25.4, 
       "genoa": 24.6, 
       "displacement": 4183.0, 
-      "spinnaker_asym": 48.0
+      "spinnaker_asym": 48.0, 
+      "crew": 523.0
     }, 
     "year": "2005"
   }, 

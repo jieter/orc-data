@@ -5,12 +5,13 @@
       1.3371, 
       1.509
     ], 
-    "gph": 569.9, 
     "triple_inshore": [
       0.7945, 
       1.0827, 
       1.2533
-    ]
+    ], 
+    "gph": 569.9, 
+    "osn": 554.4
   }, 
   "sailnumber": "NOR9", 
   "name": "Anarchy", 
@@ -25,10 +26,12 @@
       "spinnaker": 130.8, 
       "loa": 12.35, 
       "draft": 2.49, 
+      "wetted_surface": 32.4, 
       "main": 54.4, 
       "genoa": 43.8, 
       "displacement": 6790.0, 
-      "spinnaker_asym": 109.0
+      "spinnaker_asym": 109.0, 
+      "crew": 786.0
     }, 
     "year": "2007"
   }, 

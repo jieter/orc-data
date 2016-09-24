@@ -5,12 +5,13 @@
       1.0795, 
       1.2182
     ], 
-    "gph": 705.5, 
     "triple_inshore": [
       0.6446, 
       0.8733, 
       1.0224
-    ]
+    ], 
+    "gph": 705.5, 
+    "osn": 686.2
   }, 
   "sailnumber": "ITA10831", 
   "name": "BARALLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.4, 
       "loa": 9.71, 
       "draft": 1.82, 
+      "wetted_surface": 22.5, 
       "main": 23.8, 
       "genoa": 37.8, 
       "displacement": 4990.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1980"
   }, 

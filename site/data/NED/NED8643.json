@@ -5,12 +5,13 @@
       1.0805, 
       1.2446
     ], 
-    "gph": 711.2, 
     "triple_inshore": [
       0.6193, 
       0.8746, 
       1.0539
-    ]
+    ], 
+    "gph": 711.2, 
+    "osn": 688.4
   }, 
   "sailnumber": "NED8643", 
   "name": "Bakvis", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.112, 
       "draft": 1.95, 
+      "wetted_surface": 23.5, 
       "main": 33.9, 
       "genoa": 22.8, 
       "displacement": 5200.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 520.0
     }, 
     "year": "1993"
   }, 

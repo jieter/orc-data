@@ -5,12 +5,13 @@
       1.2103, 
       1.3665
     ], 
-    "gph": 630.0, 
     "triple_inshore": [
       0.717, 
       0.9804, 
       1.1417
-    ]
+    ], 
+    "gph": 630.0, 
+    "osn": 612.9
   }, 
   "sailnumber": "POR3620", 
   "name": "WINE DECK", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.6, 
       "loa": 10.72, 
       "draft": 2.03, 
+      "wetted_surface": 26.4, 
       "main": 38.3, 
       "genoa": 37.5, 
       "displacement": 5227.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 630.0
     }, 
     "year": "1993"
   }, 

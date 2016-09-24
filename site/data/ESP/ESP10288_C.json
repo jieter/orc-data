@@ -5,12 +5,13 @@
       1.1686, 
       1.3376
     ], 
-    "gph": 655.3, 
     "triple_inshore": [
       0.6766, 
       0.9404, 
       1.1169
-    ]
+    ], 
+    "gph": 655.3, 
+    "osn": 635.4
   }, 
   "sailnumber": "ESP10288_C", 
   "name": "SALEROSO 2.0", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.2, 
       "loa": 10.3, 
       "draft": 1.95, 
+      "wetted_surface": 24.9, 
       "main": 32.9, 
       "genoa": 32.1, 
       "displacement": 5148.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "2002"
   }, 

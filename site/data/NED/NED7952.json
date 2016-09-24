@@ -5,12 +5,13 @@
       1.0926, 
       1.2456
     ], 
-    "gph": 700.1, 
     "triple_inshore": [
       0.6405, 
       0.8822, 
       1.0474
-    ]
+    ], 
+    "gph": 700.1, 
+    "osn": 678.9
   }, 
   "sailnumber": "NED7952", 
   "name": "Shadowfax", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.3, 
       "loa": 9.485, 
       "draft": 1.73, 
+      "wetted_surface": 22.1, 
       "main": 29.8, 
       "genoa": 17.5, 
       "displacement": 4656.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 520.0
     }, 
     "year": "1990"
   }, 

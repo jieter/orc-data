@@ -5,12 +5,13 @@
       1.0538, 
       1.2665
     ], 
-    "gph": 734.6, 
     "triple_inshore": [
       0.5795, 
       0.8452, 
       1.0664
-    ]
+    ], 
+    "gph": 734.6, 
+    "osn": 705.4
   }, 
   "sailnumber": "NED8709", 
   "name": "Donna Anna", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.13, 
       "draft": 2.14, 
+      "wetted_surface": 29.9, 
       "main": 29.8, 
       "genoa": 32.7, 
       "displacement": 7470.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 686.0
     }, 
     "year": "2006"
   }, 

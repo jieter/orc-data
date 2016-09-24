@@ -5,12 +5,13 @@
       1.2331, 
       1.4523
     ], 
-    "gph": 614.5, 
     "triple_inshore": [
       0.7383, 
       0.981, 
       1.1529
-    ]
+    ], 
+    "gph": 614.5, 
+    "osn": 597.2
   }, 
   "sailnumber": "SUI100", 
   "name": "IBINADO", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.5, 
       "loa": 8.09, 
       "draft": 1.53, 
+      "wetted_surface": 13.2, 
       "main": 22.5, 
       "genoa": 16.1, 
       "displacement": 971.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 431.0
     }, 
     "year": "1993"
   }, 

@@ -5,12 +5,13 @@
       1.0992, 
       1.2598
     ], 
-    "gph": 696.7, 
     "triple_inshore": [
       0.6393, 
       0.8815, 
       1.053
-    ]
+    ], 
+    "gph": 696.7, 
+    "osn": 675.1
   }, 
   "sailnumber": "ITA13967", 
   "name": "LIBERA", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.2, 
       "loa": 10.415, 
       "draft": 1.81, 
+      "wetted_surface": 24.7, 
       "main": 22.0, 
       "genoa": 37.2, 
       "displacement": 5486.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1986"
   }, 

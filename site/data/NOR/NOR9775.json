@@ -5,12 +5,13 @@
       1.1379, 
       1.2937
     ], 
-    "gph": 672.7, 
     "triple_inshore": [
       0.6644, 
       0.9194, 
       1.0788
-    ]
+    ], 
+    "gph": 672.7, 
+    "osn": 652.2
   }, 
   "sailnumber": "NOR9775", 
   "name": "Bilbo", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.6, 
       "loa": 9.85, 
       "draft": 1.93, 
+      "wetted_surface": 22.2, 
       "main": 26.4, 
       "genoa": 30.8, 
       "displacement": 3833.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 586.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.1841, 
       1.3434
     ], 
-    "gph": 645.3, 
     "triple_inshore": [
       0.693, 
       0.9548, 
       1.1155
-    ]
+    ], 
+    "gph": 645.3, 
+    "osn": 627.5
   }, 
   "sailnumber": "NOR9107", 
   "name": "Vibe II", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.3, 
       "loa": 9.97, 
       "draft": 1.75, 
+      "wetted_surface": 22.6, 
       "main": 32.7, 
       "genoa": 29.4, 
       "displacement": 3959.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 626.0
     }, 
     "year": "1995"
   }, 

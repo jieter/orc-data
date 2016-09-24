@@ -5,12 +5,13 @@
       1.09, 
       1.2235
     ], 
-    "gph": 701.0, 
     "triple_inshore": [
       0.6438, 
       0.8758, 
       1.0173
-    ]
+    ], 
+    "gph": 701.0, 
+    "osn": 681.8
   }, 
   "sailnumber": "ITADREON", 
   "name": "DREAM-ON", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.2, 
       "loa": 9.95, 
       "draft": 1.81, 
+      "wetted_surface": 23.0, 
       "main": 25.1, 
       "genoa": 42.0, 
       "displacement": 5073.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1984"
   }, 

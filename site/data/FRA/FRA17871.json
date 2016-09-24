@@ -5,12 +5,13 @@
       1.1798, 
       1.3716
     ], 
-    "gph": 649.7, 
     "triple_inshore": [
       0.6817, 
       0.9562, 
       1.1359
-    ]
+    ], 
+    "gph": 649.7, 
+    "osn": 627.6
   }, 
   "sailnumber": "FRA17871", 
   "name": "FEND-LA-BISE", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.9, 
       "loa": 9.523, 
       "draft": 1.97, 
+      "wetted_surface": 19.1, 
       "main": 25.6, 
       "genoa": 19.6, 
       "displacement": 2797.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 603.0
     }, 
     "year": "1996"
   }, 

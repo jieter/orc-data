@@ -5,12 +5,13 @@
       1.1594, 
       1.3513
     ], 
-    "gph": 665.7, 
     "triple_inshore": [
       0.6453, 
       0.9137, 
       1.1061
-    ]
+    ], 
+    "gph": 665.7, 
+    "osn": 644.5
   }, 
   "sailnumber": "GRE49555", 
   "name": "THETIS I", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.1, 
       "loa": 11.8, 
       "draft": 1.68, 
+      "wetted_surface": 33.7, 
       "main": 36.3, 
       "genoa": 43.7, 
       "displacement": 7494.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 780.0
     }, 
     "year": "1993"
   }, 

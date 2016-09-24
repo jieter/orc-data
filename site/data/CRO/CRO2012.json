@@ -5,12 +5,13 @@
       1.2091, 
       1.4944
     ], 
-    "gph": 645.8, 
     "triple_inshore": [
       0.6254, 
       0.9408, 
       1.2129
-    ]
+    ], 
+    "gph": 645.8, 
+    "osn": 622.4
   }, 
   "sailnumber": "CRO2012", 
   "name": "Maximus", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 16.16, 
       "draft": 2.38, 
+      "wetted_surface": 60.2, 
       "main": 66.8, 
       "genoa": 59.3, 
       "displacement": 18600.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1251.0
     }, 
     "year": "2013"
   }, 

@@ -5,12 +5,13 @@
       1.2338, 
       1.4098
     ], 
-    "gph": 619.8, 
     "triple_inshore": [
       0.7187, 
       0.9918, 
       1.1808
-    ]
+    ], 
+    "gph": 619.8, 
+    "osn": 601.7
   }, 
   "sailnumber": "ITAORSET", 
   "name": "ORSETTA TRE", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.0, 
       "loa": 11.913, 
       "draft": 2.05, 
+      "wetted_surface": 31.8, 
       "main": 44.4, 
       "genoa": 42.8, 
       "displacement": 8041.0, 
-      "spinnaker_asym": 104.0
+      "spinnaker_asym": 104.0, 
+      "crew": 880.0
     }, 
     "year": "2002"
   }, 

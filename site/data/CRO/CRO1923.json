@@ -5,12 +5,13 @@
       1.2012, 
       1.4262
     ], 
-    "gph": 645.9, 
     "triple_inshore": [
       0.6516, 
       0.9346, 
       1.1494
-    ]
+    ], 
+    "gph": 645.9, 
+    "osn": 623.8
   }, 
   "sailnumber": "CRO1923", 
   "name": "Vaitea", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.734, 
       "draft": 2.11, 
+      "wetted_surface": 46.4, 
       "main": 42.6, 
       "genoa": 47.1, 
       "displacement": 12600.0, 
-      "spinnaker_asym": 146.0
+      "spinnaker_asym": 146.0, 
+      "crew": 945.0
     }, 
     "year": "2010"
   }, 

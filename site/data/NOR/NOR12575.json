@@ -5,12 +5,13 @@
       1.1907, 
       1.3397
     ], 
-    "gph": 641.0, 
     "triple_inshore": [
       0.7043, 
       0.9624, 
       1.1203
-    ]
+    ], 
+    "gph": 641.0, 
+    "osn": 623.4
   }, 
   "sailnumber": "NOR12575", 
   "name": "Extase", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.0, 
       "loa": 10.36, 
       "draft": 1.92, 
+      "wetted_surface": 26.0, 
       "main": 40.9, 
       "genoa": 27.6, 
       "displacement": 5623.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 634.0
     }, 
     "year": "2007"
   }, 

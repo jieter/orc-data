@@ -5,12 +5,13 @@
       1.2275, 
       1.3852
     ], 
-    "gph": 622.2, 
     "triple_inshore": [
       0.7217, 
       0.9845, 
       1.1517
-    ]
+    ], 
+    "gph": 622.2, 
+    "osn": 604.9
   }, 
   "sailnumber": "NOR13001", 
   "name": "Atlantic Rose", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.3, 
       "draft": 2.46, 
+      "wetted_surface": 30.0, 
       "main": 43.7, 
       "genoa": 38.0, 
       "displacement": 7051.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 702.0
     }, 
     "year": "2005"
   }, 

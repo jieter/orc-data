@@ -5,12 +5,13 @@
       1.1036, 
       1.2554
     ], 
-    "gph": 691.7, 
     "triple_inshore": [
       0.6477, 
       0.8775, 
       1.0347
-    ]
+    ], 
+    "gph": 691.7, 
+    "osn": 673.5
   }, 
   "sailnumber": "NOR10311", 
   "name": "Anne Bavari", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.9, 
       "draft": 1.56, 
+      "wetted_surface": 22.5, 
       "main": 28.6, 
       "genoa": 28.0, 
       "displacement": 4830.0, 
-      "spinnaker_asym": 64.0
+      "spinnaker_asym": 64.0, 
+      "crew": 587.0
     }, 
     "year": "2001"
   }, 

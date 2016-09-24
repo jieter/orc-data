@@ -5,12 +5,13 @@
       1.0127, 
       1.1243
     ], 
-    "gph": 743.2, 
     "triple_inshore": [
       0.6384, 
       0.8351, 
       0.9387
-    ]
+    ], 
+    "gph": 743.2, 
+    "osn": 723.9
   }, 
   "sailnumber": "ITAOVOSO", 
   "name": "OVOSODO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.22, 
       "draft": 1.73, 
+      "wetted_surface": 10.8, 
       "main": 18.2, 
       "genoa": 11.2, 
       "displacement": 1117.0, 
-      "spinnaker_asym": 38.0
+      "spinnaker_asym": 38.0, 
+      "crew": 290.0
     }, 
     "year": "1992"
   }, 

@@ -5,12 +5,13 @@
       1.2214, 
       1.4044
     ], 
-    "gph": 626.7, 
     "triple_inshore": [
       0.7101, 
       0.9808, 
       1.1467
-    ]
+    ], 
+    "gph": 626.7, 
+    "osn": 606.4
   }, 
   "sailnumber": "FRA577", 
   "name": "ANJA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.57, 
       "draft": 2.0, 
+      "wetted_surface": 24.6, 
       "main": 34.0, 
       "genoa": 24.8, 
       "displacement": 3900.0, 
-      "spinnaker_asym": 86.0
+      "spinnaker_asym": 86.0, 
+      "crew": 648.0
     }, 
     "year": "1991"
   }, 

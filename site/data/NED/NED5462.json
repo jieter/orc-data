@@ -5,12 +5,13 @@
       1.0668, 
       1.1972
     ], 
-    "gph": 713.2, 
     "triple_inshore": [
       0.6406, 
       0.8642, 
       1.0061
-    ]
+    ], 
+    "gph": 713.2, 
+    "osn": 694.7
   }, 
   "sailnumber": "NED5462", 
   "name": "BLUE LADY", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.9, 
       "loa": 9.35, 
       "draft": 1.86, 
+      "wetted_surface": 21.3, 
       "main": 21.8, 
       "genoa": 39.3, 
       "displacement": 4771.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 479.0
     }, 
     "year": "1977"
   }, 

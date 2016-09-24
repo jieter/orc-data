@@ -5,12 +5,13 @@
       1.215, 
       1.3618
     ], 
-    "gph": 626.8, 
     "triple_inshore": [
       0.7247, 
       0.9852, 
       1.1408
-    ]
+    ], 
+    "gph": 626.8, 
+    "osn": 610.7
   }, 
   "sailnumber": "NOR11312", 
   "name": "Kilroy", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.5, 
       "loa": 10.68, 
       "draft": 2.23, 
+      "wetted_surface": 26.8, 
       "main": 40.7, 
       "genoa": 41.0, 
       "displacement": 5659.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 643.0
     }, 
     "year": "2002"
   }, 

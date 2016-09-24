@@ -5,12 +5,13 @@
       1.2691, 
       1.4394
     ], 
-    "gph": 602.0, 
     "triple_inshore": [
       0.7441, 
       1.0213, 
       1.2015
-    ]
+    ], 
+    "gph": 602.0, 
+    "osn": 585.4
   }, 
   "sailnumber": "NED8040", 
   "name": "Missing Link", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.6, 
       "loa": 12.225, 
       "draft": 2.11, 
+      "wetted_surface": 32.8, 
       "main": 51.6, 
       "genoa": 38.6, 
       "displacement": 8110.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 600.0
     }, 
     "year": "2004"
   }, 

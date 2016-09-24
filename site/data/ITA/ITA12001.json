@@ -5,12 +5,13 @@
       1.2543, 
       1.4202
     ], 
-    "gph": 608.3, 
     "triple_inshore": [
       0.7402, 
       1.0112, 
       1.1875
-    ]
+    ], 
+    "gph": 608.3, 
+    "osn": 591.8
   }, 
   "sailnumber": "ITA12001", 
   "name": "EXTASY", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.4, 
       "loa": 12.52, 
       "draft": 2.21, 
+      "wetted_surface": 31.1, 
       "main": 40.8, 
       "genoa": 54.8, 
       "displacement": 7590.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "1990"
   }, 

@@ -5,12 +5,13 @@
       1.2254, 
       1.4302
     ], 
-    "gph": 626.8, 
     "triple_inshore": [
       0.6951, 
       0.9715, 
       1.1843
-    ]
+    ], 
+    "gph": 626.8, 
+    "osn": 608.0
   }, 
   "sailnumber": "NOR15156", 
   "name": "Medvind", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.0, 
       "loa": 12.83, 
       "draft": 1.85, 
+      "wetted_surface": 36.8, 
       "main": 42.0, 
       "genoa": 49.8, 
       "displacement": 10057.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 881.0
     }, 
     "year": "2004"
   }, 

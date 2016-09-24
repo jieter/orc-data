@@ -5,12 +5,13 @@
       1.366, 
       1.5414
     ], 
-    "gph": 559.7, 
     "triple_inshore": [
       0.7986, 
       1.0934, 
       1.2641
-    ]
+    ], 
+    "gph": 559.7, 
+    "osn": 544.6
   }, 
   "sailnumber": "NED8344", 
   "name": "Zilverzandhaas", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.305, 
       "draft": 2.35, 
+      "wetted_surface": 38.9, 
       "main": 61.8, 
       "genoa": 49.0, 
       "displacement": 9688.0, 
-      "spinnaker_asym": 173.0
+      "spinnaker_asym": 173.0, 
+      "crew": 916.0
     }, 
     "year": "2010"
   }, 

@@ -5,12 +5,13 @@
       1.4231, 
       1.6095
     ], 
-    "gph": 534.9, 
     "triple_inshore": [
       0.8414, 
       1.139, 
       1.3169
-    ]
+    ], 
+    "gph": 534.9, 
+    "osn": 521.4
   }, 
   "sailnumber": "ARG4836", 
   "name": "MERCENARIO 4", 
@@ -25,10 +26,12 @@
       "spinnaker": 137.8, 
       "loa": 13.48, 
       "draft": 2.75, 
+      "wetted_surface": 36.5, 
       "main": 77.9, 
       "genoa": 50.1, 
       "displacement": 7076.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 843.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.1326, 
       1.2894
     ], 
-    "gph": 676.9, 
     "triple_inshore": [
       0.6597, 
       0.922, 
       1.0782
-    ]
+    ], 
+    "gph": 676.9, 
+    "osn": 654.4
   }, 
   "sailnumber": "ESP6221_C", 
   "name": "BLET NEGRE", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.9, 
       "loa": 8.3, 
       "draft": 2.14, 
+      "wetted_surface": 20.2, 
       "main": 27.3, 
       "genoa": 19.4, 
       "displacement": 2613.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "2002"
   }, 

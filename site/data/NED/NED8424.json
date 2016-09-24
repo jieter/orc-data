@@ -5,12 +5,13 @@
       1.2079, 
       1.4445
     ], 
-    "gph": 627.8, 
     "triple_inshore": [
       0.716, 
       0.959, 
       1.1487
-    ]
+    ], 
+    "gph": 627.8, 
+    "osn": 609.2
   }, 
   "sailnumber": "NED8424", 
   "name": "Twenty4Fun", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.509, 
       "draft": 1.52, 
+      "wetted_surface": 12.3, 
       "main": 22.2, 
       "genoa": 11.9, 
       "displacement": 853.0, 
-      "spinnaker_asym": 56.0
+      "spinnaker_asym": 56.0, 
+      "crew": 360.0
     }, 
     "year": "1992"
   }, 

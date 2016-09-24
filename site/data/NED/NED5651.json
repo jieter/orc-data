@@ -5,12 +5,13 @@
       1.2156, 
       1.3976
     ], 
-    "gph": 633.3, 
     "triple_inshore": [
       0.6875, 
       0.9723, 
       1.1487
-    ]
+    ], 
+    "gph": 633.3, 
+    "osn": 613.4
   }, 
   "sailnumber": "NED5651", 
   "name": "BLUE JAY", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.8, 
       "loa": 11.01, 
       "draft": 1.99, 
+      "wetted_surface": 25.4, 
       "main": 37.4, 
       "genoa": 21.1, 
       "displacement": 3879.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1990"
   }, 

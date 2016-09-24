@@ -5,12 +5,13 @@
       1.0922, 
       1.2439
     ], 
-    "gph": 698.9, 
     "triple_inshore": [
       0.6483, 
       0.8825, 
       1.0465
-    ]
+    ], 
+    "gph": 698.9, 
+    "osn": 677.7
   }, 
   "sailnumber": "NED2130", 
   "name": "OERD", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.8, 
       "loa": 10.43, 
       "draft": 2.08, 
+      "wetted_surface": 21.1, 
       "main": 22.8, 
       "genoa": 42.7, 
       "displacement": 5886.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 555.0
     }, 
     "year": "1975"
   }, 

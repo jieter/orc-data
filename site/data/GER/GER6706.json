@@ -5,12 +5,13 @@
       1.2884, 
       1.4656
     ], 
-    "gph": 591.7, 
     "triple_inshore": [
       0.7603, 
       1.0451, 
       1.2269
-    ]
+    ], 
+    "gph": 591.7, 
+    "osn": 575.2
   }, 
   "sailnumber": "GER6706", 
   "name": "CACHAVACHA", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.0, 
       "loa": 11.615, 
       "draft": 2.45, 
+      "wetted_surface": 30.2, 
       "main": 48.9, 
       "genoa": 37.7, 
       "displacement": 6383.0, 
-      "spinnaker_asym": 107.0
+      "spinnaker_asym": 107.0, 
+      "crew": 620.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.1642, 
       1.3503
     ], 
-    "gph": 659.9, 
     "triple_inshore": [
       0.6614, 
       0.9177, 
       1.1024
-    ]
+    ], 
+    "gph": 659.9, 
+    "osn": 640.7
   }, 
   "sailnumber": "ITAOLTRE", 
   "name": "OLTREMARE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.36, 
       "draft": 1.76, 
+      "wetted_surface": 30.4, 
       "main": 30.5, 
       "genoa": 40.6, 
       "displacement": 6910.0, 
-      "spinnaker_asym": 94.0
+      "spinnaker_asym": 94.0, 
+      "crew": 600.0
     }, 
     "year": "2005"
   }, 

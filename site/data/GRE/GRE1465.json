@@ -5,12 +5,13 @@
       0.9391, 
       1.0981
     ], 
-    "gph": 819.9, 
     "triple_inshore": [
       0.5321, 
       0.7475, 
       0.9134
-    ]
+    ], 
+    "gph": 819.9, 
+    "osn": 791.6
   }, 
   "sailnumber": "GRE1465", 
   "name": "TAK", 
@@ -25,10 +26,12 @@
       "spinnaker": 46.2, 
       "loa": 7.935, 
       "draft": 1.5, 
+      "wetted_surface": 17.6, 
       "main": 13.7, 
       "genoa": 19.6, 
       "displacement": 3183.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 434.0
     }, 
     "year": "1992"
   }, 

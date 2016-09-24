@@ -5,12 +5,13 @@
       1.1526, 
       1.2934
     ], 
-    "gph": 653.1, 
     "triple_inshore": [
       0.714, 
       0.9176, 
       1.0339
-    ]
+    ], 
+    "gph": 653.1, 
+    "osn": 640.6
   }, 
   "sailnumber": "FRA39916", 
   "name": "TNT", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.92, 
       "draft": 1.77, 
+      "wetted_surface": 13.8, 
       "main": 23.2, 
       "genoa": 15.8, 
       "displacement": 1247.0, 
-      "spinnaker_asym": 52.0
+      "spinnaker_asym": 52.0, 
+      "crew": 360.0
     }, 
     "year": "1997"
   }, 

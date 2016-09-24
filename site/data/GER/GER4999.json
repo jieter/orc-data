@@ -5,12 +5,13 @@
       1.2246, 
       1.3981
     ], 
-    "gph": 625.6, 
     "triple_inshore": [
       0.709, 
       0.9794, 
       1.1613
-    ]
+    ], 
+    "gph": 625.6, 
+    "osn": 607.1
   }, 
   "sailnumber": "GER4999", 
   "name": "SPEEDY GONZALES", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.7, 
       "loa": 11.785, 
       "draft": 1.98, 
+      "wetted_surface": 33.4, 
       "main": 47.0, 
       "genoa": 36.2, 
       "displacement": 8084.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 735.0
     }, 
     "year": "1998"
   }, 

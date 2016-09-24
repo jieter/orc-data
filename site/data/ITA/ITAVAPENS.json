@@ -5,12 +5,13 @@
       1.0067, 
       1.1391
     ], 
-    "gph": 761.8, 
     "triple_inshore": [
       0.5849, 
       0.8134, 
       0.9442
-    ]
+    ], 
+    "gph": 761.8, 
+    "osn": 737.9
   }, 
   "sailnumber": "ITAVAPENS", 
   "name": "VA'PENSIERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 30.3, 
       "loa": 8.292, 
       "draft": 1.26, 
+      "wetted_surface": 12.2, 
       "main": 15.6, 
       "genoa": 10.1, 
       "displacement": 1446.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1975"
   }, 

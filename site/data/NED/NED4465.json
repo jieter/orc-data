@@ -5,12 +5,13 @@
       1.0926, 
       1.2278
     ], 
-    "gph": 697.0, 
     "triple_inshore": [
       0.6555, 
       0.886, 
       1.032
-    ]
+    ], 
+    "gph": 697.0, 
+    "osn": 677.8
   }, 
   "sailnumber": "NED4465", 
   "name": "OFF COURSE", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.0, 
       "loa": 10.0, 
       "draft": 1.82, 
+      "wetted_surface": 23.0, 
       "main": 23.4, 
       "genoa": 36.6, 
       "displacement": 4926.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 537.0
     }, 
     "year": "1974"
   }, 

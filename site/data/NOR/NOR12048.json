@@ -5,12 +5,13 @@
       1.271, 
       1.4391
     ], 
-    "gph": 600.2, 
     "triple_inshore": [
       0.7472, 
       1.024, 
       1.2001
-    ]
+    ], 
+    "gph": 600.2, 
+    "osn": 584.4
   }, 
   "sailnumber": "NOR12048", 
   "name": "Astrid Sofie", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.2, 
       "loa": 11.98, 
       "draft": 2.11, 
+      "wetted_surface": 32.9, 
       "main": 49.7, 
       "genoa": 49.9, 
       "displacement": 7746.0, 
-      "spinnaker_asym": 104.0
+      "spinnaker_asym": 104.0, 
+      "crew": 797.0
     }, 
     "year": "2003"
   }, 

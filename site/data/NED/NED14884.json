@@ -5,12 +5,13 @@
       1.2273, 
       1.3842
     ], 
-    "gph": 623.2, 
     "triple_inshore": [
       0.7194, 
       0.9903, 
       1.1573
-    ]
+    ], 
+    "gph": 623.2, 
+    "osn": 605.5
   }, 
   "sailnumber": "NED14884", 
   "name": "Checkmate", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.6, 
       "loa": 11.345, 
       "draft": 2.3, 
+      "wetted_surface": 28.9, 
       "main": 43.4, 
       "genoa": 33.1, 
       "displacement": 6400.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.1655, 
       1.3257
     ], 
-    "gph": 647.5, 
     "triple_inshore": [
       0.7181, 
       0.9493, 
       1.0886
-    ]
+    ], 
+    "gph": 647.5, 
+    "osn": 631.3
   }, 
   "sailnumber": "SUI157", 
   "name": "SILENZIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.2, 
       "loa": 8.48, 
       "draft": 1.44, 
+      "wetted_surface": 13.9, 
       "main": 24.3, 
       "genoa": 20.1, 
       "displacement": 1542.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 377.0
     }, 
     "year": "1978"
   }, 

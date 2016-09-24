@@ -5,12 +5,13 @@
       1.1702, 
       1.3645
     ], 
-    "gph": 644.2, 
     "triple_inshore": [
       0.7192, 
       0.9368, 
       1.0979
-    ]
+    ], 
+    "gph": 644.2, 
+    "osn": 626.7
   }, 
   "sailnumber": "GRE1291", 
   "name": "ANOUBIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.04, 
       "draft": 1.75, 
+      "wetted_surface": 11.1, 
       "main": 20.0, 
       "genoa": 12.0, 
       "displacement": 758.0, 
-      "spinnaker_asym": 42.0
+      "spinnaker_asym": 42.0, 
+      "crew": 300.0
     }, 
     "year": "2008"
   }, 

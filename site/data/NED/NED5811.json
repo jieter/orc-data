@@ -5,12 +5,13 @@
       1.2029, 
       1.3642
     ], 
-    "gph": 635.9, 
     "triple_inshore": [
       0.7026, 
       0.9724, 
       1.1416
-    ]
+    ], 
+    "gph": 635.9, 
+    "osn": 617.6
   }, 
   "sailnumber": "NED5811", 
   "name": "Salty Dog", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.7, 
       "loa": 11.01, 
       "draft": 2.05, 
+      "wetted_surface": 27.0, 
       "main": 46.4, 
       "genoa": 24.6, 
       "displacement": 5414.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 580.0
     }, 
     "year": "1992"
   }, 

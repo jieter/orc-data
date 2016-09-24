@@ -5,12 +5,13 @@
       1.2544, 
       1.4375
     ], 
-    "gph": 611.7, 
     "triple_inshore": [
       0.7208, 
       1.0054, 
       1.1942
-    ]
+    ], 
+    "gph": 611.7, 
+    "osn": 592.8
   }, 
   "sailnumber": "NED8134", 
   "name": "Brainwash", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.2, 
       "loa": 12.2, 
       "draft": 2.12, 
+      "wetted_surface": 32.7, 
       "main": 49.9, 
       "genoa": 34.0, 
       "displacement": 7469.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 714.0
     }, 
     "year": "2009"
   }, 

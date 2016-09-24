@@ -5,12 +5,13 @@
       1.0847, 
       1.2342
     ], 
-    "gph": 704.5, 
     "triple_inshore": [
       0.6364, 
       0.8712, 
       1.0333
-    ]
+    ], 
+    "gph": 704.5, 
+    "osn": 684.5
   }, 
   "sailnumber": "NED6818", 
   "name": "TOPOLINO", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.1, 
       "loa": 10.314, 
       "draft": 1.85, 
+      "wetted_surface": 24.8, 
       "main": 23.9, 
       "genoa": 39.1, 
       "displacement": 5616.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 531.0
     }, 
     "year": "1993"
   }, 

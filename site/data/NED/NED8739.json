@@ -5,12 +5,13 @@
       1.088, 
       1.2183
     ], 
-    "gph": 698.9, 
     "triple_inshore": [
       0.6535, 
       0.8822, 
       1.013
-    ]
+    ], 
+    "gph": 698.9, 
+    "osn": 681.1
   }, 
   "sailnumber": "NED8739", 
   "name": "Galathea", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.2, 
       "loa": 9.03, 
       "draft": 1.49, 
+      "wetted_surface": 17.8, 
       "main": 19.2, 
       "genoa": 32.5, 
       "displacement": 3200.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 487.0
     }, 
     "year": "1987"
   }, 

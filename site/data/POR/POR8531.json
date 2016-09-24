@@ -5,12 +5,13 @@
       1.1814, 
       1.3335
     ], 
-    "gph": 646.7, 
     "triple_inshore": [
       0.6957, 
       0.9551, 
       1.1073
-    ]
+    ], 
+    "gph": 646.7, 
+    "osn": 628.1
   }, 
   "sailnumber": "POR8531", 
   "name": "CRISTINA A", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.8, 
       "loa": 9.515, 
       "draft": 1.94, 
+      "wetted_surface": 23.7, 
       "main": 32.5, 
       "genoa": 28.2, 
       "displacement": 4133.0, 
-      "spinnaker_asym": 73.0
+      "spinnaker_asym": 73.0, 
+      "crew": 571.0
     }, 
     "year": "2010"
   }, 

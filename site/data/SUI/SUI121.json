@@ -5,12 +5,13 @@
       1.2638, 
       1.4284
     ], 
-    "gph": 600.4, 
     "triple_inshore": [
       0.7521, 
       1.0155, 
       1.1717
-    ]
+    ], 
+    "gph": 600.4, 
+    "osn": 586.9
   }, 
   "sailnumber": "SUI121", 
   "name": "SYRAH", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.6, 
       "loa": 10.68, 
       "draft": 1.52, 
+      "wetted_surface": 20.9, 
       "main": 36.4, 
       "genoa": 34.5, 
       "displacement": 2929.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1985"
   }, 

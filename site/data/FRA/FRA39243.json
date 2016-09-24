@@ -5,12 +5,13 @@
       1.2023, 
       1.3855
     ], 
-    "gph": 637.9, 
     "triple_inshore": [
       0.6933, 
       0.9696, 
       1.1405
-    ]
+    ], 
+    "gph": 637.9, 
+    "osn": 616.8
   }, 
   "sailnumber": "FRA39243", 
   "name": "SCHEGGIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.6, 
       "loa": 9.79, 
       "draft": 1.9, 
+      "wetted_surface": 23.1, 
       "main": 29.4, 
       "genoa": 26.3, 
       "displacement": 3526.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 400.0
     }, 
     "year": "2008"
   }, 

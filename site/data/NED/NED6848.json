@@ -5,12 +5,13 @@
       1.1734, 
       1.3412
     ], 
-    "gph": 652.0, 
     "triple_inshore": [
       0.6842, 
       0.9444, 
       1.124
-    ]
+    ], 
+    "gph": 652.0, 
+    "osn": 632.2
   }, 
   "sailnumber": "NED6848", 
   "name": "Happy", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.9, 
       "loa": 10.944, 
       "draft": 2.1, 
+      "wetted_surface": 29.9, 
       "main": 37.3, 
       "genoa": 39.8, 
       "displacement": 6772.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 691.0
     }, 
     "year": "1995"
   }, 

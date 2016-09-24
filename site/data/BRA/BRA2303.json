@@ -5,12 +5,13 @@
       1.3316, 
       1.5076
     ], 
-    "gph": 573.6, 
     "triple_inshore": [
       0.7763, 
       1.0616, 
       1.2254
-    ]
+    ], 
+    "gph": 573.6, 
+    "osn": 558.9
   }, 
   "sailnumber": "BRA2303", 
   "name": "CATUANA KIM", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.5, 
       "draft": 2.08, 
+      "wetted_surface": 34.4, 
       "main": 49.6, 
       "genoa": 65.0, 
       "displacement": 7040.0, 
-      "spinnaker_asym": 147.0
+      "spinnaker_asym": 147.0, 
+      "crew": 760.0
     }, 
     "year": "2000"
   }, 

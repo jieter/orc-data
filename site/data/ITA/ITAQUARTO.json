@@ -5,12 +5,13 @@
       1.0765, 
       1.3248
     ], 
-    "gph": 721.3, 
     "triple_inshore": [
       0.5754, 
       0.8518, 
       1.1021
-    ]
+    ], 
+    "gph": 721.3, 
+    "osn": 694.2
   }, 
   "sailnumber": "ITAQUARTO", 
   "name": "QUARTO DI LUNA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.98, 
       "draft": 2.1, 
+      "wetted_surface": 34.2, 
       "main": 39.8, 
       "genoa": 31.8, 
       "displacement": 8940.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "2014"
   }, 

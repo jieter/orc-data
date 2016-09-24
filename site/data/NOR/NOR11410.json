@@ -5,12 +5,13 @@
       1.3225, 
       1.4961
     ], 
-    "gph": 578.4, 
     "triple_inshore": [
       0.7713, 
       1.0611, 
       1.2442
-    ]
+    ], 
+    "gph": 578.4, 
+    "osn": 562.8
   }, 
   "sailnumber": "NOR11410", 
   "name": "New Excuse", 
@@ -25,10 +26,12 @@
       "spinnaker": 120.9, 
       "loa": 13.52, 
       "draft": 2.62, 
+      "wetted_surface": 38.0, 
       "main": 65.1, 
       "genoa": 42.0, 
       "displacement": 9459.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 869.0
     }, 
     "year": "2004"
   }, 

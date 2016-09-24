@@ -5,12 +5,13 @@
       1.1968, 
       1.3539
     ], 
-    "gph": 638.8, 
     "triple_inshore": [
       0.7016, 
       0.9627, 
       1.1289
-    ]
+    ], 
+    "gph": 638.8, 
+    "osn": 620.3
   }, 
   "sailnumber": "GER5736", 
   "name": "KARMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.9, 
       "loa": 10.972, 
       "draft": 1.98, 
+      "wetted_surface": 28.5, 
       "main": 42.3, 
       "genoa": 29.7, 
       "displacement": 6414.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 710.0
     }, 
     "year": "2000"
   }, 

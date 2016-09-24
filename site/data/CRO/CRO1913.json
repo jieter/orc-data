@@ -5,12 +5,13 @@
       1.3058, 
       1.4937
     ], 
-    "gph": 587.6, 
     "triple_inshore": [
       0.7497, 
       1.0419, 
       1.2251
-    ]
+    ], 
+    "gph": 587.6, 
+    "osn": 570.2
   }, 
   "sailnumber": "CRO1913", 
   "name": "Blue Lady II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.73, 
       "draft": 2.66, 
+      "wetted_surface": 33.3, 
       "main": 47.3, 
       "genoa": 50.1, 
       "displacement": 7597.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 856.0
     }, 
     "year": "2006"
   }, 

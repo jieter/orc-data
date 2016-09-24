@@ -5,12 +5,13 @@
       1.0919, 
       1.2505
     ], 
-    "gph": 700.7, 
     "triple_inshore": [
       0.6339, 
       0.8943, 
       1.0411
-    ]
+    ], 
+    "gph": 700.7, 
+    "osn": 679.8
   }, 
   "sailnumber": "ESP4603_C", 
   "name": "CORRECAMINOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.489, 
       "draft": 1.66, 
+      "wetted_surface": 11.5, 
       "main": 20.3, 
       "genoa": 12.2, 
       "displacement": 1138.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 359.0
     }, 
     "year": "1995"
   }, 

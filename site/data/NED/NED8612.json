@@ -5,12 +5,13 @@
       1.1022, 
       1.2345
     ], 
-    "gph": 690.4, 
     "triple_inshore": [
       0.6576, 
       0.8926, 
       1.0282
-    ]
+    ], 
+    "gph": 690.4, 
+    "osn": 673.3
   }, 
   "sailnumber": "NED8612", 
   "name": "Tramontana", 
@@ -25,10 +26,12 @@
       "spinnaker": 51.6, 
       "loa": 9.43, 
       "draft": 1.51, 
+      "wetted_surface": 19.4, 
       "main": 30.2, 
       "genoa": 25.4, 
       "displacement": 3500.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 454.0
     }, 
     "year": "1985"
   }, 

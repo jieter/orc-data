@@ -5,12 +5,13 @@
       1.2075, 
       1.3809
     ], 
-    "gph": 634.1, 
     "triple_inshore": [
       0.6981, 
       0.961, 
       1.1407
-    ]
+    ], 
+    "gph": 634.1, 
+    "osn": 616.2
   }, 
   "sailnumber": "NOR12410", 
   "name": "NN", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.7, 
       "loa": 11.96, 
       "draft": 1.87, 
+      "wetted_surface": 32.9, 
       "main": 41.0, 
       "genoa": 46.5, 
       "displacement": 8200.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 778.0
     }, 
     "year": "2005"
   }, 

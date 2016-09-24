@@ -5,12 +5,13 @@
       1.1656, 
       1.3326
     ], 
-    "gph": 657.3, 
     "triple_inshore": [
       0.6751, 
       0.9387, 
       1.1147
-    ]
+    ], 
+    "gph": 657.3, 
+    "osn": 637.1
   }, 
   "sailnumber": "ESP6780_C", 
   "name": "BOLERO UNO", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.6, 
       "loa": 10.3, 
       "draft": 1.95, 
+      "wetted_surface": 24.9, 
       "main": 32.5, 
       "genoa": 32.4, 
       "displacement": 5148.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 425.0
     }, 
     "year": "2002"
   }, 

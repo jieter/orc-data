@@ -5,12 +5,13 @@
       1.1742, 
       1.3256
     ], 
-    "gph": 649.7, 
     "triple_inshore": [
       0.6955, 
       0.955, 
       1.1118
-    ]
+    ], 
+    "gph": 649.7, 
+    "osn": 630.5
   }, 
   "sailnumber": "NOR14784", 
   "name": "Karstua", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.25, 
       "draft": 2.17, 
+      "wetted_surface": 22.4, 
       "main": 30.8, 
       "genoa": 25.2, 
       "displacement": 3945.0, 
-      "spinnaker_asym": 84.0
+      "spinnaker_asym": 84.0, 
+      "crew": 573.0
     }, 
     "year": "2009"
   }, 

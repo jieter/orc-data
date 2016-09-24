@@ -5,12 +5,13 @@
       1.153, 
       1.3066
     ], 
-    "gph": 661.7, 
     "triple_inshore": [
       0.6817, 
       0.925, 
       1.0941
-    ]
+    ], 
+    "gph": 661.7, 
+    "osn": 644.0
   }, 
   "sailnumber": "NED1300", 
   "name": "STARON", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.9, 
       "loa": 11.69, 
       "draft": 2.06, 
+      "wetted_surface": 28.6, 
       "main": 27.3, 
       "genoa": 54.6, 
       "displacement": 7657.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 592.0
     }, 
     "year": "1968"
   }, 

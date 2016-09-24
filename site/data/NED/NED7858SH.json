@@ -5,12 +5,13 @@
       1.1791, 
       1.3184
     ], 
-    "gph": 646.8, 
     "triple_inshore": [
       0.7009, 
       0.9585, 
       1.0985
-    ]
+    ], 
+    "gph": 646.8, 
+    "osn": 629.1
   }, 
   "sailnumber": "NED7858SH", 
   "name": "Home of Jazz", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.4, 
       "loa": 9.72, 
       "draft": 2.09, 
+      "wetted_surface": 22.2, 
       "main": 30.7, 
       "genoa": 23.5, 
       "displacement": 3527.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 190.0
     }, 
     "year": "2007"
   }, 

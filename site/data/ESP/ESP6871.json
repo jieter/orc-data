@@ -5,12 +5,13 @@
       1.3296, 
       1.5014
     ], 
-    "gph": 574.3, 
     "triple_inshore": [
       0.7799, 
       1.0668, 
       1.2537
-    ]
+    ], 
+    "gph": 574.3, 
+    "osn": 559.4
   }, 
   "sailnumber": "ESP6871", 
   "name": "SCAMPI 45", 
@@ -25,10 +26,12 @@
       "spinnaker": 143.8, 
       "loa": 13.626, 
       "draft": 2.46, 
+      "wetted_surface": 40.3, 
       "main": 60.9, 
       "genoa": 60.1, 
       "displacement": 11072.0, 
-      "spinnaker_asym": 146.0
+      "spinnaker_asym": 146.0, 
+      "crew": 700.0
     }, 
     "year": "2002"
   }, 

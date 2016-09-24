@@ -5,12 +5,13 @@
       1.2012, 
       1.4054
     ], 
-    "gph": 641.5, 
     "triple_inshore": [
       0.6755, 
       0.9539, 
       1.1702
-    ]
+    ], 
+    "gph": 641.5, 
+    "osn": 620.6
   }, 
   "sailnumber": "ITA12786", 
   "name": "ROBESTINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 124.8, 
       "loa": 13.425, 
       "draft": 2.25, 
+      "wetted_surface": 39.1, 
       "main": 39.0, 
       "genoa": 49.0, 
       "displacement": 10995.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 820.0
     }, 
     "year": "1988"
   }, 

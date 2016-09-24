@@ -5,12 +5,13 @@
       1.2367, 
       1.4034
     ], 
-    "gph": 618.9, 
     "triple_inshore": [
       0.717, 
       0.9894, 
       1.1707
-    ]
+    ], 
+    "gph": 618.9, 
+    "osn": 602.1
   }, 
   "sailnumber": "ITA14754", 
   "name": "ARTEMISIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.2, 
       "loa": 12.016, 
       "draft": 2.17, 
+      "wetted_surface": 32.2, 
       "main": 42.1, 
       "genoa": 50.0, 
       "displacement": 7595.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 170.0
     }, 
     "year": "2000"
   }, 

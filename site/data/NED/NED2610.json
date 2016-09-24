@@ -5,12 +5,13 @@
       1.0898, 
       1.2195
     ], 
-    "gph": 697.2, 
     "triple_inshore": [
       0.656, 
       0.8896, 
       1.0237
-    ]
+    ], 
+    "gph": 697.2, 
+    "osn": 679.4
   }, 
   "sailnumber": "NED2610", 
   "name": "SOLUTION TOO", 
@@ -25,10 +26,12 @@
       "spinnaker": 49.5, 
       "loa": 8.663, 
       "draft": 1.69, 
+      "wetted_surface": 17.6, 
       "main": 26.9, 
       "genoa": 25.9, 
       "displacement": 2945.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 490.0
     }, 
     "year": "1978"
   }, 

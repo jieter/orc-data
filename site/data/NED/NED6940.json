@@ -5,12 +5,13 @@
       0.9815, 
       1.0729
     ], 
-    "gph": 769.2, 
     "triple_inshore": [
       0.6105, 
       0.8047, 
       0.8863
-    ]
+    ], 
+    "gph": 769.2, 
+    "osn": 752.6
   }, 
   "sailnumber": "NED6940", 
   "name": "GREENHORN", 
@@ -25,10 +26,12 @@
       "spinnaker": 25.2, 
       "loa": 7.164, 
       "draft": 1.29, 
+      "wetted_surface": 8.3, 
       "main": 14.3, 
       "genoa": 13.6, 
       "displacement": 792.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 186.0
     }, 
     "year": "1979"
   }, 

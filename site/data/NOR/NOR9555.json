@@ -5,12 +5,13 @@
       1.2672, 
       1.4258
     ], 
-    "gph": 600.1, 
     "triple_inshore": [
       0.7532, 
       1.021, 
       1.1934
-    ]
+    ], 
+    "gph": 600.1, 
+    "osn": 586.0
   }, 
   "sailnumber": "NOR9555", 
   "name": "Snehvit", 
@@ -25,10 +26,12 @@
       "spinnaker": 119.0, 
       "loa": 12.38, 
       "draft": 1.97, 
+      "wetted_surface": 31.7, 
       "main": 49.0, 
       "genoa": 56.8, 
       "displacement": 8103.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 747.0
     }, 
     "year": "1998"
   }, 

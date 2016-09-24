@@ -5,12 +5,13 @@
       1.1962, 
       1.3553
     ], 
-    "gph": 639.1, 
     "triple_inshore": [
       0.7025, 
       0.9675, 
       1.1364
-    ]
+    ], 
+    "gph": 639.1, 
+    "osn": 619.8
   }, 
   "sailnumber": "ITA14245", 
   "name": "STUPEFACENTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.5, 
       "loa": 10.64, 
       "draft": 2.08, 
+      "wetted_surface": 26.2, 
       "main": 39.0, 
       "genoa": 27.6, 
       "displacement": 5566.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "2001"
   }, 

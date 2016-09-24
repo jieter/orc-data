@@ -5,12 +5,13 @@
       1.5058, 
       1.7085
     ], 
-    "gph": 505.2, 
     "triple_inshore": [
       0.8926, 
       1.2021, 
       1.3847
-    ]
+    ], 
+    "gph": 505.2, 
+    "osn": 492.5
   }, 
   "sailnumber": "ESP4793", 
   "name": "DUENDE 50", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.17, 
       "draft": 2.85, 
+      "wetted_surface": 45.7, 
       "main": 93.8, 
       "genoa": 60.6, 
       "displacement": 9531.0, 
-      "spinnaker_asym": 197.0
+      "spinnaker_asym": 197.0, 
+      "crew": 970.0
     }, 
     "year": "1993"
   }, 

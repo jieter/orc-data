@@ -5,12 +5,13 @@
       1.1721, 
       1.3446
     ], 
-    "gph": 653.8, 
     "triple_inshore": [
       0.6745, 
       0.9384, 
       1.1211
-    ]
+    ], 
+    "gph": 653.8, 
+    "osn": 634.5
   }, 
   "sailnumber": "NED6332", 
   "name": "Four Leaf", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.4, 
       "loa": 11.414, 
       "draft": 1.95, 
+      "wetted_surface": 28.0, 
       "main": 37.1, 
       "genoa": 36.5, 
       "displacement": 6135.0, 
-      "spinnaker_asym": 80.0
+      "spinnaker_asym": 80.0, 
+      "crew": 647.0
     }, 
     "year": "1986"
   }, 

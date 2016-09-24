@@ -5,12 +5,13 @@
       1.31, 
       1.4867
     ], 
-    "gph": 583.4, 
     "triple_inshore": [
       0.7677, 
       1.0578, 
       1.2384
-    ]
+    ], 
+    "gph": 583.4, 
+    "osn": 566.5
   }, 
   "sailnumber": "JPN6451", 
   "name": "HANAMIZUKI", 
@@ -25,10 +26,12 @@
       "spinnaker": 133.0, 
       "loa": 12.24, 
       "draft": 2.48, 
+      "wetted_surface": 34.5, 
       "main": 54.0, 
       "genoa": 40.4, 
       "displacement": 7668.0, 
-      "spinnaker_asym": 132.0
+      "spinnaker_asym": 132.0, 
+      "crew": 790.0
     }, 
     "year": "2008"
   }, 

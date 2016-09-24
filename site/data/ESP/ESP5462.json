@@ -5,12 +5,13 @@
       1.1214, 
       1.2741
     ], 
-    "gph": 683.9, 
     "triple_inshore": [
       0.6519, 
       0.9051, 
       1.0684
-    ]
+    ], 
+    "gph": 683.9, 
+    "osn": 662.3
   }, 
   "sailnumber": "ESP5462", 
   "name": "AMARENA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.9, 
       "loa": 9.49, 
       "draft": 1.97, 
+      "wetted_surface": 22.9, 
       "main": 25.7, 
       "genoa": 28.0, 
       "displacement": 4253.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 405.0
     }, 
     "year": "1998"
   }, 

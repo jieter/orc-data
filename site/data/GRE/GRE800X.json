@@ -5,12 +5,13 @@
       1.2497, 
       1.403
     ], 
-    "gph": 608.0, 
     "triple_inshore": [
       0.7509, 
       1.0178, 
       1.171
-    ]
+    ], 
+    "gph": 608.0, 
+    "osn": 592.8
   }, 
   "sailnumber": "GRE800X", 
   "name": "ALBIREO", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.0, 
       "loa": 10.6, 
       "draft": 2.18, 
+      "wetted_surface": 24.7, 
       "main": 43.1, 
       "genoa": 32.3, 
       "displacement": 4668.0, 
-      "spinnaker_asym": 84.0
+      "spinnaker_asym": 84.0, 
+      "crew": 700.0
     }, 
     "year": "2006"
   }, 

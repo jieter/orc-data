@@ -5,12 +5,13 @@
       0.9506, 
       1.0829
     ], 
-    "gph": 804.9, 
     "triple_inshore": [
       0.5522, 
       0.7564, 
       0.8912
-    ]
+    ], 
+    "gph": 804.9, 
+    "osn": 782.5
   }, 
   "sailnumber": "GRE49501", 
   "name": "AERIKO", 
@@ -25,10 +26,12 @@
       "spinnaker": 47.0, 
       "loa": 8.54, 
       "draft": 1.39, 
+      "wetted_surface": 19.1, 
       "main": 17.8, 
       "genoa": 29.0, 
       "displacement": 3252.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1979"
   }, 

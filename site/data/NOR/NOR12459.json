@@ -5,12 +5,13 @@
       1.1375, 
       1.2949
     ], 
-    "gph": 674.9, 
     "triple_inshore": [
       0.6561, 
       0.9117, 
       1.0785
-    ]
+    ], 
+    "gph": 674.9, 
+    "osn": 653.6
   }, 
   "sailnumber": "NOR12459", 
   "name": "Free", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.35, 
       "draft": 1.86, 
+      "wetted_surface": 25.5, 
       "main": 27.6, 
       "genoa": 33.6, 
       "displacement": 5440.0, 
-      "spinnaker_asym": 68.0
+      "spinnaker_asym": 68.0, 
+      "crew": 637.0
     }, 
     "year": "2004"
   }, 

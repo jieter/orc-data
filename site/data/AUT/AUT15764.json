@@ -5,12 +5,13 @@
       1.4049, 
       1.5982
     ], 
-    "gph": 538.5, 
     "triple_inshore": [
       0.8538, 
       1.1355, 
       1.3076
-    ]
+    ], 
+    "gph": 538.5, 
+    "osn": 524.8
   }, 
   "sailnumber": "AUT15764", 
   "name": "Visione", 
@@ -25,10 +26,12 @@
       "spinnaker": 147.5, 
       "loa": 12.488, 
       "draft": 2.55, 
+      "wetted_surface": 29.7, 
       "main": 61.9, 
       "genoa": 40.8, 
       "displacement": 5137.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "1997"
   }, 

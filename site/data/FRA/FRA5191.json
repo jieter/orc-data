@@ -5,12 +5,13 @@
       1.2395, 
       1.4045
     ], 
-    "gph": 613.1, 
     "triple_inshore": [
       0.7445, 
       1.0094, 
       1.1644
-    ]
+    ], 
+    "gph": 613.1, 
+    "osn": 596.4
   }, 
   "sailnumber": "FRA5191", 
   "name": "BOULEGUE", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.1, 
       "loa": 10.25, 
       "draft": 1.83, 
+      "wetted_surface": 24.7, 
       "main": 39.3, 
       "genoa": 27.5, 
       "displacement": 3850.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1986"
   }, 

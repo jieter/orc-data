@@ -5,12 +5,13 @@
       1.1804, 
       1.3529
     ], 
-    "gph": 649.1, 
     "triple_inshore": [
       0.6815, 
       0.9424, 
       1.125
-    ]
+    ], 
+    "gph": 649.1, 
+    "osn": 629.9
   }, 
   "sailnumber": "NED6526", 
   "name": "ASTERIX", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.1, 
       "loa": 11.842, 
       "draft": 1.9, 
+      "wetted_surface": 34.0, 
       "main": 42.1, 
       "genoa": 43.3, 
       "displacement": 8593.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 728.0
     }, 
     "year": "1990"
   }, 

@@ -5,12 +5,13 @@
       1.314, 
       1.4786
     ], 
-    "gph": 577.4, 
     "triple_inshore": [
       0.7774, 
       1.0461, 
       1.2129
-    ]
+    ], 
+    "gph": 577.4, 
+    "osn": 566.1
   }, 
   "sailnumber": "GER7360", 
   "name": "VINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.95, 
       "draft": 2.36, 
+      "wetted_surface": 34.3, 
       "main": 51.0, 
       "genoa": 40.7, 
       "displacement": 7889.0, 
-      "spinnaker_asym": 134.0
+      "spinnaker_asym": 134.0, 
+      "crew": 800.0
     }, 
     "year": "2012"
   }, 

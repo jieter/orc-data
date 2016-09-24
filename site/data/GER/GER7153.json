@@ -5,12 +5,13 @@
       1.085, 
       1.2383
     ], 
-    "gph": 706.7, 
     "triple_inshore": [
       0.6262, 
       0.8694, 
       1.0313
-    ]
+    ], 
+    "gph": 706.7, 
+    "osn": 685.7
   }, 
   "sailnumber": "GER7153", 
   "name": "ALTER SCHWEDE", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.9, 
       "loa": 9.912, 
       "draft": 1.74, 
+      "wetted_surface": 22.9, 
       "main": 30.1, 
       "genoa": 21.7, 
       "displacement": 4396.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 526.0
     }, 
     "year": "1985"
   }, 

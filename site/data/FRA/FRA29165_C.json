@@ -5,12 +5,13 @@
       1.2642, 
       1.4316
     ], 
-    "gph": 605.0, 
     "triple_inshore": [
       0.7383, 
       1.0191, 
       1.1937
-    ]
+    ], 
+    "gph": 605.0, 
+    "osn": 587.6
   }, 
   "sailnumber": "FRA29165_C", 
   "name": "MANINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.8, 
       "loa": 11.924, 
       "draft": 2.41, 
+      "wetted_surface": 31.1, 
       "main": 45.4, 
       "genoa": 45.1, 
       "displacement": 6979.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1997"
   }, 

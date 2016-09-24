@@ -5,12 +5,13 @@
       1.1324, 
       1.2854
     ], 
-    "gph": 665.6, 
     "triple_inshore": [
       0.7001, 
       0.924, 
       1.0462
-    ]
+    ], 
+    "gph": 665.6, 
+    "osn": 648.7
   }, 
   "sailnumber": "ESP7210_C", 
   "name": "MALAITA", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.6, 
       "loa": 7.512, 
       "draft": 1.55, 
+      "wetted_surface": 11.5, 
       "main": 21.1, 
       "genoa": 12.8, 
       "displacement": 1138.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1996"
   }, 

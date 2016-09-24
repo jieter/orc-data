@@ -5,12 +5,13 @@
       1.4368, 
       1.6091
     ], 
-    "gph": 530.1, 
     "triple_inshore": [
       0.8534, 
       1.1496, 
       1.3119
-    ]
+    ], 
+    "gph": 530.1, 
+    "osn": 517.1
   }, 
   "sailnumber": "SUI8888", 
   "name": "NASHORN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.235, 
       "draft": 2.52, 
+      "wetted_surface": 42.6, 
       "main": 74.3, 
       "genoa": 53.6, 
       "displacement": 9323.0, 
-      "spinnaker_asym": 214.0
+      "spinnaker_asym": 214.0, 
+      "crew": 900.0
     }, 
     "year": "2005"
   }, 

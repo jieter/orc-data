@@ -5,12 +5,13 @@
       1.0074, 
       1.1182
     ], 
-    "gph": 754.4, 
     "triple_inshore": [
       0.6083, 
       0.8151, 
       0.9276
-    ]
+    ], 
+    "gph": 754.4, 
+    "osn": 735.7
   }, 
   "sailnumber": "ITA16976", 
   "name": "VALENTINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.3, 
       "loa": 8.3, 
       "draft": 1.4, 
+      "wetted_surface": 15.4, 
       "main": 15.1, 
       "genoa": 26.0, 
       "displacement": 2680.0, 
-      "spinnaker_asym": 57.0
+      "spinnaker_asym": 57.0, 
+      "crew": 320.0
     }, 
     "year": "1982"
   }, 

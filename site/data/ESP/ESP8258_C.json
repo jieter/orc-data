@@ -5,12 +5,13 @@
       1.2097, 
       1.3651
     ], 
-    "gph": 630.0, 
     "triple_inshore": [
       0.7185, 
       0.9811, 
       1.1427
-    ]
+    ], 
+    "gph": 630.0, 
+    "osn": 612.9
   }, 
   "sailnumber": "ESP8258_C", 
   "name": "SALAO TU", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.4, 
       "loa": 10.21, 
       "draft": 1.87, 
+      "wetted_surface": 24.5, 
       "main": 33.9, 
       "genoa": 36.3, 
       "displacement": 4752.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 652.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.1594, 
       1.3186
     ], 
-    "gph": 659.9, 
     "triple_inshore": [
       0.6794, 
       0.9405, 
       1.1075
-    ]
+    ], 
+    "gph": 659.9, 
+    "osn": 639.3
   }, 
   "sailnumber": "POR8119", 
   "name": "GOLFINHO M2", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.2, 
       "loa": 9.798, 
       "draft": 2.1, 
+      "wetted_surface": 23.4, 
       "main": 30.6, 
       "genoa": 29.0, 
       "displacement": 4444.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 580.0
     }, 
     "year": "1996"
   }, 

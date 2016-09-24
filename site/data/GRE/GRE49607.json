@@ -5,12 +5,13 @@
       1.0173, 
       1.1755
     ], 
-    "gph": 753.5, 
     "triple_inshore": [
       0.5871, 
       0.8055, 
       0.9713
-    ]
+    ], 
+    "gph": 753.5, 
+    "osn": 731.5
   }, 
   "sailnumber": "GRE49607", 
   "name": "OKIROI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.37, 
       "draft": 1.75, 
+      "wetted_surface": 20.3, 
       "main": 19.1, 
       "genoa": 20.9, 
       "displacement": 4012.0, 
-      "spinnaker_asym": 51.0
+      "spinnaker_asym": 51.0, 
+      "crew": 496.0
     }, 
     "year": "1986"
   }, 

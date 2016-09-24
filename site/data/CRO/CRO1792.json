@@ -5,12 +5,13 @@
       1.3675, 
       1.5591
     ], 
-    "gph": 558.9, 
     "triple_inshore": [
       0.7946, 
       1.0974, 
       1.2893
-    ]
+    ], 
+    "gph": 558.9, 
+    "osn": 544.3
   }, 
   "sailnumber": "CRO1792", 
   "name": "Natus", 
@@ -25,10 +26,12 @@
       "spinnaker": 152.7, 
       "loa": 13.55, 
       "draft": 2.42, 
+      "wetted_surface": 36.9, 
       "main": 57.7, 
       "genoa": 58.0, 
       "displacement": 9157.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 945.0
     }, 
     "year": "2010"
   }, 

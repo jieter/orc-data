@@ -5,12 +5,13 @@
       1.2476, 
       1.3917
     ], 
-    "gph": 611.5, 
     "triple_inshore": [
       0.7401, 
       1.0016, 
       1.1514
-    ]
+    ], 
+    "gph": 611.5, 
+    "osn": 595.8
   }, 
   "sailnumber": "ITA9983", 
   "name": "SUPER ATAX", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.938, 
       "draft": 2.33, 
+      "wetted_surface": 32.2, 
       "main": 41.4, 
       "genoa": 49.0, 
       "displacement": 8033.0, 
-      "spinnaker_asym": 152.0
+      "spinnaker_asym": 152.0, 
+      "crew": 704.0
     }, 
     "year": "1983"
   }, 

@@ -5,12 +5,13 @@
       1.1879, 
       1.346
     ], 
-    "gph": 641.0, 
     "triple_inshore": [
       0.7032, 
       0.9611, 
       1.1108
-    ]
+    ], 
+    "gph": 641.0, 
+    "osn": 624.1
   }, 
   "sailnumber": "ESP1007", 
   "name": "BOND", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.5, 
       "loa": 9.496, 
       "draft": 1.79, 
+      "wetted_surface": 19.4, 
       "main": 31.4, 
       "genoa": 24.3, 
       "displacement": 2434.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 410.0
     }, 
     "year": "1989"
   }, 

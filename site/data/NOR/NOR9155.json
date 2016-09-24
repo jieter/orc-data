@@ -5,12 +5,13 @@
       1.2294, 
       1.3794
     ], 
-    "gph": 620.7, 
     "triple_inshore": [
       0.7244, 
       0.9869, 
       1.1451
-    ]
+    ], 
+    "gph": 620.7, 
+    "osn": 605.0
   }, 
   "sailnumber": "NOR9155", 
   "name": "Havhesten", 
@@ -25,10 +26,12 @@
       "spinnaker": 139.0, 
       "loa": 12.6, 
       "draft": 2.0, 
+      "wetted_surface": 32.3, 
       "main": 48.8, 
       "genoa": 43.3, 
       "displacement": 7841.0, 
-      "spinnaker_asym": 120.0
+      "spinnaker_asym": 120.0, 
+      "crew": 743.0
     }, 
     "year": "1988"
   }, 

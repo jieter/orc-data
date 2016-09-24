@@ -5,12 +5,13 @@
       1.0989, 
       1.2363
     ], 
-    "gph": 690.6, 
     "triple_inshore": [
       0.6627, 
       0.8956, 
       1.0178
-    ]
+    ], 
+    "gph": 690.6, 
+    "osn": 672.7
   }, 
   "sailnumber": "NED8748", 
   "name": "Jojo", 
@@ -25,10 +26,12 @@
       "spinnaker": 48.8, 
       "loa": 7.927, 
       "draft": 1.36, 
+      "wetted_surface": 13.6, 
       "main": 21.3, 
       "genoa": 18.8, 
       "displacement": 1551.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 352.0
     }, 
     "year": "1979"
   }, 

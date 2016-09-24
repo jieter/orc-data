@@ -5,12 +5,13 @@
       1.1213, 
       1.3197
     ], 
-    "gph": 688.5, 
     "triple_inshore": [
       0.6236, 
       0.8785, 
       1.0754
-    ]
+    ], 
+    "gph": 688.5, 
+    "osn": 666.0
   }, 
   "sailnumber": "ITAMARGA", 
   "name": "MARIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.21, 
       "draft": 1.94, 
+      "wetted_surface": 31.9, 
       "main": 31.3, 
       "genoa": 38.1, 
       "displacement": 7848.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 500.0
     }, 
     "year": "2000"
   }, 

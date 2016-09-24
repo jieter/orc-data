@@ -5,12 +5,13 @@
       1.16, 
       1.3143
     ], 
-    "gph": 659.2, 
     "triple_inshore": [
       0.6785, 
       0.9351, 
       1.0979
-    ]
+    ], 
+    "gph": 659.2, 
+    "osn": 640.3
   }, 
   "sailnumber": "ESP2965", 
   "name": "INDIA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.5, 
       "loa": 10.448, 
       "draft": 1.87, 
+      "wetted_surface": 23.8, 
       "main": 35.0, 
       "genoa": 31.1, 
       "displacement": 5188.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 527.0
     }, 
     "year": "1988"
   }, 

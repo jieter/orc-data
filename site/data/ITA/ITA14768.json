@@ -5,12 +5,13 @@
       1.2818, 
       1.4829
     ], 
-    "gph": 599.7, 
     "triple_inshore": [
       0.7257, 
       1.0202, 
       1.23
-    ]
+    ], 
+    "gph": 599.7, 
+    "osn": 581.7
   }, 
   "sailnumber": "ITA14768", 
   "name": "FERULA", 
@@ -25,10 +26,12 @@
       "spinnaker": 123.1, 
       "loa": 13.33, 
       "draft": 2.3, 
+      "wetted_surface": 39.0, 
       "main": 48.9, 
       "genoa": 57.3, 
       "displacement": 10158.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "2004"
   }, 

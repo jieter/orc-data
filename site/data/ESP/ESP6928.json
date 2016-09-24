@@ -5,12 +5,13 @@
       1.1733, 
       1.331
     ], 
-    "gph": 651.4, 
     "triple_inshore": [
       0.6881, 
       0.9457, 
       1.1111
-    ]
+    ], 
+    "gph": 651.4, 
+    "osn": 632.7
   }, 
   "sailnumber": "ESP6928", 
   "name": "AL TARIK IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.6, 
       "loa": 10.3, 
       "draft": 1.96, 
+      "wetted_surface": 25.5, 
       "main": 35.4, 
       "genoa": 34.8, 
       "displacement": 5384.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 620.0
     }, 
     "year": "2003"
   }, 

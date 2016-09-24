@@ -5,12 +5,13 @@
       1.1777, 
       1.3369
     ], 
-    "gph": 648.6, 
     "triple_inshore": [
       0.6947, 
       0.9564, 
       1.1051
-    ]
+    ], 
+    "gph": 648.6, 
+    "osn": 629.2
   }, 
   "sailnumber": "FRA19730", 
   "name": "RACKHAM", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.3, 
       "loa": 8.95, 
       "draft": 2.27, 
+      "wetted_surface": 19.4, 
       "main": 28.7, 
       "genoa": 20.7, 
       "displacement": 2430.0, 
-      "spinnaker_asym": 51.0
+      "spinnaker_asym": 51.0, 
+      "crew": 400.0
     }, 
     "year": "1999"
   }, 

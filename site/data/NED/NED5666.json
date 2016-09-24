@@ -5,12 +5,13 @@
       1.1758, 
       1.328
     ], 
-    "gph": 648.1, 
     "triple_inshore": [
       0.6992, 
       0.9508, 
       1.1139
-    ]
+    ], 
+    "gph": 648.1, 
+    "osn": 630.5
   }, 
   "sailnumber": "NED5666", 
   "name": "ESPRIT DE CELIEDE", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.0, 
       "loa": 11.0, 
       "draft": 2.0, 
+      "wetted_surface": 28.4, 
       "main": 34.8, 
       "genoa": 46.7, 
       "displacement": 6672.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 647.0
     }, 
     "year": "1985"
   }, 

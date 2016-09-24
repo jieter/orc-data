@@ -5,12 +5,13 @@
       1.1942, 
       1.365
     ], 
-    "gph": 641.5, 
     "triple_inshore": [
       0.696, 
       0.9689, 
       1.152
-    ]
+    ], 
+    "gph": 641.5, 
+    "osn": 620.3
   }, 
   "sailnumber": "NED1130", 
   "name": "Twee Gezusters III", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.1, 
       "loa": 10.72, 
       "draft": 2.25, 
+      "wetted_surface": 27.2, 
       "main": 38.6, 
       "genoa": 24.4, 
       "displacement": 5501.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 662.0
     }, 
     "year": "1993"
   }, 

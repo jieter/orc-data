@@ -5,12 +5,13 @@
       1.1768, 
       1.3066
     ], 
-    "gph": 645.9, 
     "triple_inshore": [
       0.7095, 
       0.9543, 
       1.098
-    ]
+    ], 
+    "gph": 645.9, 
+    "osn": 629.9
   }, 
   "sailnumber": "ITA4033", 
   "name": "POKEKIAKKIERE", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.0, 
       "loa": 9.983, 
       "draft": 2.06, 
+      "wetted_surface": 25.1, 
       "main": 36.8, 
       "genoa": 29.3, 
       "displacement": 5229.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 160.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       1.1683, 
       1.3786
     ], 
-    "gph": 660.9, 
     "triple_inshore": [
       0.6487, 
       0.921, 
       1.1359
-    ]
+    ], 
+    "gph": 660.9, 
+    "osn": 638.9
   }, 
   "sailnumber": "ITA13315", 
   "name": "ENZO", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.9, 
       "loa": 13.1, 
       "draft": 2.1, 
+      "wetted_surface": 37.3, 
       "main": 31.6, 
       "genoa": 53.7, 
       "displacement": 9961.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "1984"
   }, 

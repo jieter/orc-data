@@ -5,12 +5,13 @@
       1.2361, 
       1.3912
     ], 
-    "gph": 615.8, 
     "triple_inshore": [
       0.7304, 
       0.9985, 
       1.1696
-    ]
+    ], 
+    "gph": 615.8, 
+    "osn": 600.9
   }, 
   "sailnumber": "NOR10779", 
   "name": "Hermine II", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.5, 
       "loa": 11.33, 
       "draft": 2.37, 
+      "wetted_surface": 29.1, 
       "main": 41.4, 
       "genoa": 46.5, 
       "displacement": 6749.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 716.0
     }, 
     "year": "2004"
   }, 

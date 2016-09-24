@@ -5,12 +5,13 @@
       1.1884, 
       1.3541
     ], 
-    "gph": 643.8, 
     "triple_inshore": [
       0.6821, 
       0.9346, 
       1.1043
-    ]
+    ], 
+    "gph": 643.8, 
+    "osn": 628.4
   }, 
   "sailnumber": "NOR14873", 
   "name": "ANCHRISSI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.99, 
       "draft": 2.01, 
+      "wetted_surface": 33.1, 
       "main": 40.0, 
       "genoa": 27.8, 
       "displacement": 7657.0, 
-      "spinnaker_asym": 92.0
+      "spinnaker_asym": 92.0, 
+      "crew": 740.0
     }, 
     "year": "2010"
   }, 

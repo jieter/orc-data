@@ -5,12 +5,13 @@
       1.115, 
       1.272
     ], 
-    "gph": 681.0, 
     "triple_inshore": [
       0.6688, 
       0.9107, 
       1.0445
-    ]
+    ], 
+    "gph": 681.0, 
+    "osn": 661.2
   }, 
   "sailnumber": "TUR878", 
   "name": "HEDEF YELKEN 8", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.3, 
       "loa": 7.79, 
       "draft": 1.82, 
+      "wetted_surface": 13.6, 
       "main": 21.1, 
       "genoa": 16.1, 
       "displacement": 1405.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1982"
   }, 

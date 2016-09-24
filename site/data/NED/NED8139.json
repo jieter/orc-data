@@ -5,12 +5,13 @@
       1.252, 
       1.4228
     ], 
-    "gph": 610.3, 
     "triple_inshore": [
       0.7383, 
       1.0223, 
       1.1955
-    ]
+    ], 
+    "gph": 610.3, 
+    "osn": 591.0
   }, 
   "sailnumber": "NED8139", 
   "name": "ALU4STARS", 
@@ -25,10 +26,12 @@
       "spinnaker": 114.2, 
       "loa": 10.395, 
       "draft": 3.07, 
+      "wetted_surface": 29.3, 
       "main": 44.7, 
       "genoa": 28.2, 
       "displacement": 5098.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2009"
   }, 

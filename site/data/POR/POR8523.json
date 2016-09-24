@@ -5,12 +5,13 @@
       1.173, 
       1.3684
     ], 
-    "gph": 657.6, 
     "triple_inshore": [
       0.6542, 
       0.9244, 
       1.1201
-    ]
+    ], 
+    "gph": 657.6, 
+    "osn": 636.6
   }, 
   "sailnumber": "POR8523", 
   "name": "TRIDENTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.7, 
       "loa": 12.31, 
       "draft": 1.73, 
+      "wetted_surface": 35.4, 
       "main": 32.9, 
       "genoa": 48.8, 
       "displacement": 8068.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1998"
   }, 

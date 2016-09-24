@@ -5,12 +5,13 @@
       1.1516, 
       1.3137
     ], 
-    "gph": 664.9, 
     "triple_inshore": [
       0.669, 
       0.9252, 
       1.0971
-    ]
+    ], 
+    "gph": 664.9, 
+    "osn": 644.8
   }, 
   "sailnumber": "ESP9063", 
   "name": "MARACANA I", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.8, 
       "loa": 10.3, 
       "draft": 1.97, 
+      "wetted_surface": 25.8, 
       "main": 32.5, 
       "genoa": 33.0, 
       "displacement": 5564.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "2002"
   }, 

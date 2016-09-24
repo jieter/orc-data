@@ -5,12 +5,13 @@
       1.1015, 
       1.2704
     ], 
-    "gph": 698.3, 
     "triple_inshore": [
       0.6255, 
       0.8912, 
       1.0693
-    ]
+    ], 
+    "gph": 698.3, 
+    "osn": 674.8
   }, 
   "sailnumber": "NED8253", 
   "name": "Befana", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.14, 
       "draft": 1.81, 
+      "wetted_surface": 24.0, 
       "main": 33.6, 
       "genoa": 24.1, 
       "displacement": 4718.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 576.0
     }, 
     "year": "2011"
   }, 

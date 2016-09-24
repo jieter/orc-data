@@ -5,12 +5,13 @@
       1.1669, 
       1.3388
     ], 
-    "gph": 656.5, 
     "triple_inshore": [
       0.6764, 
       0.9372, 
       1.1214
-    ]
+    ], 
+    "gph": 656.5, 
+    "osn": 636.2
   }, 
   "sailnumber": "NOR10720", 
   "name": "Bagheera", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.0, 
       "loa": 10.95, 
       "draft": 2.11, 
+      "wetted_surface": 29.9, 
       "main": 39.1, 
       "genoa": 34.6, 
       "displacement": 6894.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 674.0
     }, 
     "year": "2002"
   }, 

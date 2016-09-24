@@ -5,12 +5,13 @@
       1.0467, 
       1.1813
     ], 
-    "gph": 726.8, 
     "triple_inshore": [
       0.6269, 
       0.8451, 
       0.9783
-    ]
+    ], 
+    "gph": 726.8, 
+    "osn": 707.3
   }, 
   "sailnumber": "ESP7463_C", 
   "name": "WISE CHOICE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.461, 
       "draft": 1.45, 
+      "wetted_surface": 15.7, 
       "main": 20.2, 
       "genoa": 15.7, 
       "displacement": 2128.0, 
-      "spinnaker_asym": 45.0
+      "spinnaker_asym": 45.0, 
+      "crew": 350.0
     }, 
     "year": "1986"
   }, 

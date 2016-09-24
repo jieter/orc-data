@@ -5,12 +5,13 @@
       1.0755, 
       1.2225
     ], 
-    "gph": 709.0, 
     "triple_inshore": [
       0.6361, 
       0.8745, 
       1.0039
-    ]
+    ], 
+    "gph": 709.0, 
+    "osn": 687.8
   }, 
   "sailnumber": "NOR10323", 
   "name": "Ladyfix", 
@@ -25,10 +26,12 @@
       "spinnaker": 41.9, 
       "loa": 7.97, 
       "draft": 1.45, 
+      "wetted_surface": 14.5, 
       "main": 20.7, 
       "genoa": 14.6, 
       "displacement": 1446.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 398.0
     }, 
     "year": "1980"
   }, 

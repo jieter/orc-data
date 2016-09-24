@@ -5,12 +5,13 @@
       1.1118, 
       1.2647
     ], 
-    "gph": 680.5, 
     "triple_inshore": [
       0.6785, 
       0.9102, 
       1.0356
-    ]
+    ], 
+    "gph": 680.5, 
+    "osn": 661.5
   }, 
   "sailnumber": "TUR31907", 
   "name": "FB 5", 
@@ -25,10 +26,12 @@
       "spinnaker": 44.6, 
       "loa": 7.512, 
       "draft": 1.56, 
+      "wetted_surface": 12.1, 
       "main": 20.9, 
       "genoa": 10.8, 
       "displacement": 1272.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1997"
   }, 

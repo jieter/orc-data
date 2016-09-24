@@ -5,12 +5,13 @@
       1.0103, 
       1.1331
     ], 
-    "gph": 750.2, 
     "triple_inshore": [
       0.6152, 
       0.8246, 
       0.9351
-    ]
+    ], 
+    "gph": 750.2, 
+    "osn": 729.8
   }, 
   "sailnumber": "NED8585", 
   "name": "Hunter", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.8, 
       "loa": 7.224, 
       "draft": 1.18, 
+      "wetted_surface": 11.0, 
       "main": 15.0, 
       "genoa": 12.2, 
       "displacement": 1109.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 276.0
     }, 
     "year": "1968"
   }, 

@@ -5,12 +5,13 @@
       1.1379, 
       1.2726
     ], 
-    "gph": 670.9, 
     "triple_inshore": [
       0.6718, 
       0.9164, 
       1.0538
-    ]
+    ], 
+    "gph": 670.9, 
+    "osn": 653.4
   }, 
   "sailnumber": "FRA13786B", 
   "name": "TRUBLION", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.3, 
       "loa": 9.7, 
       "draft": 1.86, 
+      "wetted_surface": 19.3, 
       "main": 28.8, 
       "genoa": 19.9, 
       "displacement": 2682.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 150.0
     }, 
     "year": "1979"
   }, 

@@ -5,12 +5,13 @@
       1.1867, 
       1.348
     ], 
-    "gph": 644.5, 
     "triple_inshore": [
       0.6955, 
       0.9585, 
       1.1317
-    ]
+    ], 
+    "gph": 644.5, 
+    "osn": 625.3
   }, 
   "sailnumber": "NED6850", 
   "name": "EALA", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.6, 
       "loa": 10.72, 
       "draft": 2.06, 
+      "wetted_surface": 27.3, 
       "main": 39.3, 
       "genoa": 28.6, 
       "displacement": 5914.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 590.0
     }, 
     "year": "1993"
   }, 

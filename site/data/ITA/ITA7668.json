@@ -5,12 +5,13 @@
       1.1141, 
       1.2684
     ], 
-    "gph": 685.8, 
     "triple_inshore": [
       0.6559, 
       0.8985, 
       1.0648
-    ]
+    ], 
+    "gph": 685.8, 
+    "osn": 665.5
   }, 
   "sailnumber": "ITA7668", 
   "name": "MIDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.3, 
       "loa": 10.38, 
       "draft": 2.0, 
+      "wetted_surface": 23.7, 
       "main": 24.1, 
       "genoa": 39.5, 
       "displacement": 5504.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1977"
   }, 

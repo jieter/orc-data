@@ -5,12 +5,13 @@
       1.2588, 
       1.4113
     ], 
-    "gph": 605.4, 
     "triple_inshore": [
       0.7472, 
       1.0134, 
       1.1578
-    ]
+    ], 
+    "gph": 605.4, 
+    "osn": 589.4
   }, 
   "sailnumber": "RUS2711", 
   "name": "Mirabelle", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.6, 
       "draft": 2.33, 
+      "wetted_surface": 26.9, 
       "main": 40.0, 
       "genoa": 32.3, 
       "displacement": 5051.0, 
-      "spinnaker_asym": 129.0
+      "spinnaker_asym": 129.0, 
+      "crew": 550.0
     }, 
     "year": "2010"
   }, 

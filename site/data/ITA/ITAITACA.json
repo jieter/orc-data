@@ -5,12 +5,13 @@
       1.1009, 
       1.2663
     ], 
-    "gph": 695.9, 
     "triple_inshore": [
       0.6377, 
       0.8849, 
       1.0622
-    ]
+    ], 
+    "gph": 695.9, 
+    "osn": 674.7
   }, 
   "sailnumber": "ITAITACA", 
   "name": "ITACA", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.5, 
       "loa": 9.85, 
       "draft": 1.88, 
+      "wetted_surface": 23.1, 
       "main": 26.6, 
       "genoa": 29.6, 
       "displacement": 5012.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "2001"
   }, 

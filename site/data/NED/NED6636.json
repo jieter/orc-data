@@ -5,12 +5,13 @@
       1.154, 
       1.3015
     ], 
-    "gph": 662.1, 
     "triple_inshore": [
       0.6782, 
       0.931, 
       1.0847
-    ]
+    ], 
+    "gph": 662.1, 
+    "osn": 643.8
   }, 
   "sailnumber": "NED6636", 
   "name": "GULLIVER", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.5, 
       "loa": 10.1, 
       "draft": 1.79, 
+      "wetted_surface": 23.5, 
       "main": 31.2, 
       "genoa": 33.9, 
       "displacement": 4509.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 567.0
     }, 
     "year": "1999"
   }, 

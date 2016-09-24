@@ -5,12 +5,13 @@
       1.2137, 
       1.3783
     ], 
-    "gph": 630.3, 
     "triple_inshore": [
       0.7064, 
       0.9828, 
       1.1538
-    ]
+    ], 
+    "gph": 630.3, 
+    "osn": 612.3
   }, 
   "sailnumber": "GER3836", 
   "name": "MILES & MORE", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.4, 
       "loa": 11.095, 
       "draft": 1.94, 
+      "wetted_surface": 26.4, 
       "main": 43.0, 
       "genoa": 27.3, 
       "displacement": 4860.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 590.0
     }, 
     "year": "1975"
   }, 

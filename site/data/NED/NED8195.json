@@ -5,12 +5,13 @@
       1.1967, 
       1.3572
     ], 
-    "gph": 637.6, 
     "triple_inshore": [
       0.7068, 
       0.9665, 
       1.139
-    ]
+    ], 
+    "gph": 637.6, 
+    "osn": 619.3
   }, 
   "sailnumber": "NED8195", 
   "name": "Hexenketel", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.8, 
       "loa": 11.475, 
       "draft": 2.03, 
+      "wetted_surface": 30.2, 
       "main": 34.9, 
       "genoa": 46.5, 
       "displacement": 7092.0, 
-      "spinnaker_asym": 104.0
+      "spinnaker_asym": 104.0, 
+      "crew": 700.0
     }, 
     "year": "1992"
   }, 

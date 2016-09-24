@@ -5,12 +5,13 @@
       1.4902, 
       1.6929
     ], 
-    "gph": 512.1, 
     "triple_inshore": [
       0.8715, 
       1.1914, 
       1.3809
-    ]
+    ], 
+    "gph": 512.1, 
+    "osn": 498.9
   }, 
   "sailnumber": "ITA1888", 
   "name": "MISTRESS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.18, 
       "draft": 2.7, 
+      "wetted_surface": 45.5, 
       "main": 92.1, 
       "genoa": 58.5, 
       "displacement": 10839.0, 
-      "spinnaker_asym": 181.0
+      "spinnaker_asym": 181.0, 
+      "crew": 1186.0
     }, 
     "year": "2004"
   }, 

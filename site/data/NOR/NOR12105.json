@@ -5,12 +5,13 @@
       1.279, 
       1.4435
     ], 
-    "gph": 596.3, 
     "triple_inshore": [
       0.755, 
       1.033, 
       1.206
-    ]
+    ], 
+    "gph": 596.3, 
+    "osn": 580.4
   }, 
   "sailnumber": "NOR12105", 
   "name": "Xelerator", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.7, 
       "loa": 11.99, 
       "draft": 2.41, 
+      "wetted_surface": 31.1, 
       "main": 48.3, 
       "genoa": 52.2, 
       "displacement": 6983.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 732.0
     }, 
     "year": "1997"
   }, 

@@ -5,12 +5,13 @@
       1.3622, 
       1.5871
     ], 
-    "gph": 565.9, 
     "triple_inshore": [
       0.7597, 
       1.0778, 
       1.3077
-    ]
+    ], 
+    "gph": 565.9, 
+    "osn": 549.2
   }, 
   "sailnumber": "ITA9229", 
   "name": "MIRANDA VI", 
@@ -25,10 +26,12 @@
       "spinnaker": 224.9, 
       "loa": 15.92, 
       "draft": 2.38, 
+      "wetted_surface": 52.8, 
       "main": 52.9, 
       "genoa": 90.9, 
       "displacement": 15769.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 950.0
     }, 
     "year": "1982"
   }, 

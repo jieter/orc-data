@@ -5,12 +5,13 @@
       1.1908, 
       1.3551
     ], 
-    "gph": 642.3, 
     "triple_inshore": [
       0.6957, 
       0.9614, 
       1.1233
-    ]
+    ], 
+    "gph": 642.3, 
+    "osn": 623.9
   }, 
   "sailnumber": "GER4477", 
   "name": "PYLEIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.2, 
       "loa": 9.975, 
       "draft": 1.9, 
+      "wetted_surface": 21.4, 
       "main": 30.6, 
       "genoa": 25.9, 
       "displacement": 3467.0, 
-      "spinnaker_asym": 55.0
+      "spinnaker_asym": 55.0, 
+      "crew": 400.0
     }, 
     "year": "1998"
   }, 

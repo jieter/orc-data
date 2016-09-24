@@ -5,12 +5,13 @@
       1.3491, 
       1.5276
     ], 
-    "gph": 567.8, 
     "triple_inshore": [
       0.7803, 
       1.0741, 
       1.2491
-    ]
+    ], 
+    "gph": 567.8, 
+    "osn": 552.7
   }, 
   "sailnumber": "GER6650", 
   "name": "ADDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.305, 
       "draft": 2.33, 
+      "wetted_surface": 38.1, 
       "main": 60.0, 
       "genoa": 50.3, 
       "displacement": 9076.0, 
-      "spinnaker_asym": 128.0
+      "spinnaker_asym": 128.0, 
+      "crew": 901.0
     }, 
     "year": "2010"
   }, 

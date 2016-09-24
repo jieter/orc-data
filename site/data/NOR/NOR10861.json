@@ -5,12 +5,13 @@
       1.068, 
       1.2025
     ], 
-    "gph": 714.1, 
     "triple_inshore": [
       0.6345, 
       0.8589, 
       0.9992
-    ]
+    ], 
+    "gph": 714.1, 
+    "osn": 694.6
   }, 
   "sailnumber": "NOR10861", 
   "name": "Octarine", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.18, 
       "draft": 1.66, 
+      "wetted_surface": 17.7, 
       "main": 23.4, 
       "genoa": 17.8, 
       "displacement": 3019.0, 
-      "spinnaker_asym": 47.0
+      "spinnaker_asym": 47.0, 
+      "crew": 483.0
     }, 
     "year": "1998"
   }, 

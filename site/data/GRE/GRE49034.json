@@ -5,12 +5,13 @@
       1.1278, 
       1.2838
     ], 
-    "gph": 678.2, 
     "triple_inshore": [
       0.6604, 
       0.9085, 
       1.0744
-    ]
+    ], 
+    "gph": 678.2, 
+    "osn": 658.0
   }, 
   "sailnumber": "GRE49034", 
   "name": "PEGASUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.0, 
       "loa": 10.54, 
       "draft": 1.92, 
+      "wetted_surface": 24.8, 
       "main": 25.9, 
       "genoa": 41.3, 
       "displacement": 5449.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "1984"
   }, 

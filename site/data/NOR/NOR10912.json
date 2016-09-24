@@ -5,12 +5,13 @@
       1.2166, 
       1.3623
     ], 
-    "gph": 625.6, 
     "triple_inshore": [
       0.727, 
       0.9866, 
       1.1414
-    ]
+    ], 
+    "gph": 625.6, 
+    "osn": 609.9
   }, 
   "sailnumber": "NOR10912", 
   "name": "first we take", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.8, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.8, 
       "main": 41.1, 
       "genoa": 42.9, 
       "displacement": 5652.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 642.0
     }, 
     "year": "2002"
   }, 

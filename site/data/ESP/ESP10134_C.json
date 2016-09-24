@@ -5,12 +5,13 @@
       1.0646, 
       1.26
     ], 
-    "gph": 722.2, 
     "triple_inshore": [
       0.5992, 
       0.8391, 
       1.0405
-    ]
+    ], 
+    "gph": 722.2, 
+    "osn": 699.2
   }, 
   "sailnumber": "ESP10134_C", 
   "name": "TROPICANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.8, 
       "loa": 11.095, 
       "draft": 1.49, 
+      "wetted_surface": 28.3, 
       "main": 28.3, 
       "genoa": 31.3, 
       "displacement": 7870.0, 
-      "spinnaker_asym": 71.0
+      "spinnaker_asym": 71.0, 
+      "crew": 659.0
     }, 
     "year": "1990"
   }, 

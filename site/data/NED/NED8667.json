@@ -5,12 +5,13 @@
       1.135, 
       1.3175
     ], 
-    "gph": 680.2, 
     "triple_inshore": [
       0.6349, 
       0.9113, 
       1.1057
-    ]
+    ], 
+    "gph": 680.2, 
+    "osn": 656.5
   }, 
   "sailnumber": "NED8667", 
   "name": "le Barteau", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.94, 
       "draft": 1.93, 
+      "wetted_surface": 28.0, 
       "main": 32.7, 
       "genoa": 30.2, 
       "displacement": 5700.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 673.0
     }, 
     "year": "2007"
   }, 

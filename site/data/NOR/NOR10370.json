@@ -5,12 +5,13 @@
       1.1497, 
       1.3073
     ], 
-    "gph": 665.7, 
     "triple_inshore": [
       0.6718, 
       0.9281, 
       1.095
-    ]
+    ], 
+    "gph": 665.7, 
+    "osn": 645.4
   }, 
   "sailnumber": "NOR10370", 
   "name": "NoName", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.8, 
       "loa": 10.45, 
       "draft": 1.91, 
+      "wetted_surface": 24.0, 
       "main": 33.3, 
       "genoa": 24.1, 
       "displacement": 4928.0, 
-      "spinnaker_asym": 71.0
+      "spinnaker_asym": 71.0, 
+      "crew": 614.0
     }, 
     "year": "1998"
   }, 

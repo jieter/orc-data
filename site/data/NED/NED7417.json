@@ -5,12 +5,13 @@
       1.1464, 
       1.3079
     ], 
-    "gph": 667.3, 
     "triple_inshore": [
       0.671, 
       0.9232, 
       1.0979
-    ]
+    ], 
+    "gph": 667.3, 
+    "osn": 646.8
   }, 
   "sailnumber": "NED7417", 
   "name": "Stille Wilde", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.1, 
       "loa": 11.01, 
       "draft": 2.01, 
+      "wetted_surface": 28.5, 
       "main": 28.9, 
       "genoa": 39.7, 
       "displacement": 6787.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 649.0
     }, 
     "year": "1982"
   }, 

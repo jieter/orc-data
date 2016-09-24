@@ -5,12 +5,13 @@
       1.1735, 
       1.3308
     ], 
-    "gph": 652.5, 
     "triple_inshore": [
       0.681, 
       0.9399, 
       1.1084
-    ]
+    ], 
+    "gph": 652.5, 
+    "osn": 634.2
   }, 
   "sailnumber": "ITA13223", 
   "name": "CASTIGAMATTI 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.0, 
       "loa": 11.121, 
       "draft": 1.95, 
+      "wetted_surface": 28.3, 
       "main": 37.7, 
       "genoa": 38.1, 
       "displacement": 6480.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1993"
   }, 

@@ -5,12 +5,13 @@
       1.2722, 
       1.4305
     ], 
-    "gph": 599.5, 
     "triple_inshore": [
       0.7524, 
       1.0266, 
       1.195
-    ]
+    ], 
+    "gph": 599.5, 
+    "osn": 583.7
   }, 
   "sailnumber": "ESP6810", 
   "name": "GENI0 4", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.0, 
       "loa": 11.924, 
       "draft": 2.42, 
+      "wetted_surface": 31.5, 
       "main": 49.2, 
       "genoa": 48.3, 
       "displacement": 7288.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 778.0
     }, 
     "year": "1997"
   }, 

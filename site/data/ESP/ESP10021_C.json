@@ -5,12 +5,13 @@
       1.3296, 
       1.5153
     ], 
-    "gph": 575.3, 
     "triple_inshore": [
       0.771, 
       1.0645, 
       1.2463
-    ]
+    ], 
+    "gph": 575.3, 
+    "osn": 559.8
   }, 
   "sailnumber": "ESP10021_C", 
   "name": "GLADIATOR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.5, 
       "draft": 2.19, 
+      "wetted_surface": 32.7, 
       "main": 50.2, 
       "genoa": 48.4, 
       "displacement": 6484.0, 
-      "spinnaker_asym": 101.0
+      "spinnaker_asym": 101.0, 
+      "crew": 834.0
     }, 
     "year": "2010"
   }, 

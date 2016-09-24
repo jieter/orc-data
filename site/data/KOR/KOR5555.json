@@ -5,12 +5,13 @@
       1.5388, 
       1.8179
     ], 
-    "gph": 494.5, 
     "triple_inshore": [
       0.8998, 
       1.2155, 
       1.4433
-    ]
+    ], 
+    "gph": 494.5, 
+    "osn": 480.7
   }, 
   "sailnumber": "KOR5555", 
   "name": "SONIC", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.808, 
       "draft": 2.61, 
+      "wetted_surface": 31.5, 
       "main": 64.2, 
       "genoa": 44.0, 
       "displacement": 4347.0, 
-      "spinnaker_asym": 163.0
+      "spinnaker_asym": 163.0, 
+      "crew": 820.0
     }, 
     "year": "2007"
   }, 

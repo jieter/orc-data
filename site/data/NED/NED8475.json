@@ -5,12 +5,13 @@
       1.2259, 
       1.441
     ], 
-    "gph": 631.6, 
     "triple_inshore": [
       0.6673, 
       0.975, 
       1.1994
-    ]
+    ], 
+    "gph": 631.6, 
+    "osn": 610.7
   }, 
   "sailnumber": "NED8475", 
   "name": "Zeearend", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.4, 
       "draft": 2.13, 
+      "wetted_surface": 38.3, 
       "main": 52.9, 
       "genoa": 39.9, 
       "displacement": 8383.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 864.0
     }, 
     "year": "2010"
   }, 

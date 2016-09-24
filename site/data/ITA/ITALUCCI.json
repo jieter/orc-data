@@ -5,12 +5,13 @@
       1.1475, 
       1.3185
     ], 
-    "gph": 668.5, 
     "triple_inshore": [
       0.6536, 
       0.9229, 
       1.1111
-    ]
+    ], 
+    "gph": 668.5, 
+    "osn": 649.8
   }, 
   "sailnumber": "ITALUCCI", 
   "name": "LUCCIOLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.32, 
       "draft": 2.34, 
+      "wetted_surface": 29.2, 
       "main": 34.6, 
       "genoa": 48.6, 
       "displacement": 6914.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1996"
   }, 

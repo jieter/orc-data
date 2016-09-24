@@ -5,12 +5,13 @@
       1.0896, 
       1.215
     ], 
-    "gph": 697.4, 
     "triple_inshore": [
       0.6596, 
       0.8844, 
       1.0194
-    ]
+    ], 
+    "gph": 697.4, 
+    "osn": 679.6
   }, 
   "sailnumber": "ESP1362", 
   "name": "ARDORA III", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.0, 
       "loa": 10.011, 
       "draft": 1.83, 
+      "wetted_surface": 21.6, 
       "main": 21.4, 
       "genoa": 39.4, 
       "displacement": 4631.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1975"
   }, 

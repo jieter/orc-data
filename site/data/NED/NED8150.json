@@ -5,12 +5,13 @@
       1.2329, 
       1.399
     ], 
-    "gph": 619.9, 
     "triple_inshore": [
       0.7235, 
       0.9954, 
       1.1696
-    ]
+    ], 
+    "gph": 619.9, 
+    "osn": 601.7
   }, 
   "sailnumber": "NED8150", 
   "name": "Sea's Out", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.7, 
       "loa": 11.3, 
       "draft": 2.03, 
+      "wetted_surface": 29.2, 
       "main": 44.7, 
       "genoa": 29.5, 
       "displacement": 6393.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2005"
   }, 

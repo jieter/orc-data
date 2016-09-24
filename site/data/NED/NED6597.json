@@ -5,12 +5,13 @@
       1.154, 
       1.2998
     ], 
-    "gph": 658.8, 
     "triple_inshore": [
       0.6928, 
       0.9338, 
       1.0705
-    ]
+    ], 
+    "gph": 658.8, 
+    "osn": 640.7
   }, 
   "sailnumber": "NED6597", 
   "name": "NRJ", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.14, 
       "draft": 1.83, 
+      "wetted_surface": 18.9, 
       "main": 27.9, 
       "genoa": 17.9, 
       "displacement": 2770.0, 
-      "spinnaker_asym": 75.0
+      "spinnaker_asym": 75.0, 
+      "crew": 420.0
     }, 
     "year": "1992"
   }, 

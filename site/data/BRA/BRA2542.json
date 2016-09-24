@@ -5,12 +5,13 @@
       1.1198, 
       1.2697
     ], 
-    "gph": 677.7, 
     "triple_inshore": [
       0.678, 
       0.9216, 
       1.0604
-    ]
+    ], 
+    "gph": 677.7, 
+    "osn": 657.6
   }, 
   "sailnumber": "BRA2542", 
   "name": "GARROTILHO", 
@@ -25,10 +26,12 @@
       "spinnaker": 51.0, 
       "loa": 7.67, 
       "draft": 1.66, 
+      "wetted_surface": 14.9, 
       "main": 23.9, 
       "genoa": 15.2, 
       "displacement": 1893.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 418.0
     }, 
     "year": "2005"
   }, 

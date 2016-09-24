@@ -5,12 +5,13 @@
       1.4466, 
       1.666
     ], 
-    "gph": 532.8, 
     "triple_inshore": [
       0.8134, 
       1.1425, 
       1.354
-    ]
+    ], 
+    "gph": 532.8, 
+    "osn": 517.0
   }, 
   "sailnumber": "CRO2390", 
   "name": "Barba Joze", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.995, 
       "draft": 2.76, 
+      "wetted_surface": 57.5, 
       "main": 83.2, 
       "genoa": 71.2, 
       "displacement": 16508.0, 
-      "spinnaker_asym": 205.0
+      "spinnaker_asym": 205.0, 
+      "crew": 1239.0
     }, 
     "year": "2015"
   }, 

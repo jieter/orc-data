@@ -5,12 +5,13 @@
       1.2742, 
       1.4412
     ], 
-    "gph": 599.5, 
     "triple_inshore": [
       0.7479, 
       1.0282, 
       1.2097
-    ]
+    ], 
+    "gph": 599.5, 
+    "osn": 582.7
   }, 
   "sailnumber": "ESP8323", 
   "name": "SAETTA III", 
@@ -25,10 +26,12 @@
       "spinnaker": 113.8, 
       "loa": 12.12, 
       "draft": 2.49, 
+      "wetted_surface": 33.6, 
       "main": 50.2, 
       "genoa": 48.4, 
       "displacement": 8870.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 720.0
     }, 
     "year": "2006"
   }, 

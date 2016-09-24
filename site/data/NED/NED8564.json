@@ -5,12 +5,13 @@
       0.9422, 
       1.1
     ], 
-    "gph": 818.6, 
     "triple_inshore": [
       0.5282, 
       0.7422, 
       0.9053
-    ]
+    ], 
+    "gph": 818.6, 
+    "osn": 791.5
   }, 
   "sailnumber": "NED8564", 
   "name": "Stal Rust_", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.1, 
       "loa": 9.045, 
       "draft": 1.4, 
+      "wetted_surface": 23.7, 
       "main": 19.0, 
       "genoa": 23.0, 
       "displacement": 5748.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1969"
   }, 

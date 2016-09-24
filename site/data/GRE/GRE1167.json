@@ -5,12 +5,13 @@
       1.0575, 
       1.202
     ], 
-    "gph": 724.1, 
     "triple_inshore": [
       0.619, 
       0.8528, 
       1.0066
-    ]
+    ], 
+    "gph": 724.1, 
+    "osn": 701.6
   }, 
   "sailnumber": "GRE1167", 
   "name": "QUASAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.0, 
       "loa": 9.37, 
       "draft": 1.76, 
+      "wetted_surface": 20.1, 
       "main": 20.2, 
       "genoa": 27.8, 
       "displacement": 4060.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1982"
   }, 

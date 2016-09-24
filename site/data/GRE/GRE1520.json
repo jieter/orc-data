@@ -5,12 +5,13 @@
       1.0513, 
       1.2071
     ], 
-    "gph": 729.4, 
     "triple_inshore": [
       0.6022, 
       0.8225, 
       0.9821
-    ]
+    ], 
+    "gph": 729.4, 
+    "osn": 709.6
   }, 
   "sailnumber": "GRE1520", 
   "name": "HARA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.978, 
       "draft": 1.37, 
+      "wetted_surface": 25.7, 
       "main": 25.7, 
       "genoa": 28.1, 
       "displacement": 5704.0, 
-      "spinnaker_asym": 63.0
+      "spinnaker_asym": 63.0, 
+      "crew": 280.0
     }, 
     "year": "2001"
   }, 

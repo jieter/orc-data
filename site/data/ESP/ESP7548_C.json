@@ -5,12 +5,13 @@
       1.1067, 
       1.2492
     ], 
-    "gph": 689.3, 
     "triple_inshore": [
       0.6558, 
       0.8892, 
       1.0437
-    ]
+    ], 
+    "gph": 689.3, 
+    "osn": 671.0
   }, 
   "sailnumber": "ESP7548_C", 
   "name": "SAMAR II", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.6, 
       "loa": 10.3, 
       "draft": 1.72, 
+      "wetted_surface": 26.8, 
       "main": 28.5, 
       "genoa": 39.8, 
       "displacement": 6187.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1978"
   }, 

@@ -5,12 +5,13 @@
       0.9401, 
       1.0833
     ], 
-    "gph": 814.3, 
     "triple_inshore": [
       0.5464, 
       0.7591, 
       0.9086
-    ]
+    ], 
+    "gph": 814.3, 
+    "osn": 789.2
   }, 
   "sailnumber": "GRE915", 
   "name": "O PANORMITIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 22.8, 
       "loa": 7.3, 
       "draft": 1.36, 
+      "wetted_surface": 11.8, 
       "main": 13.6, 
       "genoa": 11.0, 
       "displacement": 1611.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 314.0
     }, 
     "year": "1985"
   }, 

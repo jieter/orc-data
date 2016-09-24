@@ -5,12 +5,13 @@
       1.294, 
       1.4946
     ], 
-    "gph": 583.0, 
     "triple_inshore": [
       0.7956, 
       1.0532, 
       1.2197
-    ]
+    ], 
+    "gph": 583.0, 
+    "osn": 567.0
   }, 
   "sailnumber": "ITA3111", 
   "name": "MATRIX", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.8, 
       "loa": 9.435, 
       "draft": 2.12, 
+      "wetted_surface": 17.3, 
       "main": 35.8, 
       "genoa": 21.0, 
       "displacement": 2102.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 567.0
     }, 
     "year": "1996"
   }, 

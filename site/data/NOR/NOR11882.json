@@ -5,12 +5,13 @@
       1.1748, 
       1.3462
     ], 
-    "gph": 653.0, 
     "triple_inshore": [
       0.6766, 
       0.9416, 
       1.1183
-    ]
+    ], 
+    "gph": 653.0, 
+    "osn": 632.7
   }, 
   "sailnumber": "NOR11882", 
   "name": "Kong Neptun", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.5, 
       "loa": 11.0, 
       "draft": 1.94, 
+      "wetted_surface": 26.4, 
       "main": 29.9, 
       "genoa": 36.6, 
       "displacement": 5450.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 674.0
     }, 
     "year": "2001"
   }, 

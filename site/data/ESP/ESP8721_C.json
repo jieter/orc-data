@@ -5,12 +5,13 @@
       1.0281, 
       1.2059
     ], 
-    "gph": 748.2, 
     "triple_inshore": [
       0.5833, 
       0.8205, 
       1.0107
-    ]
+    ], 
+    "gph": 748.2, 
+    "osn": 722.7
   }, 
   "sailnumber": "ESP8721_C", 
   "name": "PILENE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.32, 
       "draft": 1.94, 
+      "wetted_surface": 22.8, 
       "main": 26.7, 
       "genoa": 21.5, 
       "displacement": 5494.0, 
-      "spinnaker_asym": 49.0
+      "spinnaker_asym": 49.0, 
+      "crew": 548.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.1571, 
       1.3401
     ], 
-    "gph": 666.1, 
     "triple_inshore": [
       0.6477, 
       0.9308, 
       1.1321
-    ]
+    ], 
+    "gph": 666.1, 
+    "osn": 644.6
   }, 
   "sailnumber": "ITA3700", 
   "name": "WIND BLUE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.215, 
       "draft": 2.36, 
+      "wetted_surface": 28.8, 
       "main": 36.1, 
       "genoa": 37.7, 
       "displacement": 6594.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "2004"
   }, 

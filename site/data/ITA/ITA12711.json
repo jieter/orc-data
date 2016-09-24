@@ -5,12 +5,13 @@
       1.1962, 
       1.3682
     ], 
-    "gph": 641.1, 
     "triple_inshore": [
       0.6877, 
       0.9593, 
       1.1304
-    ]
+    ], 
+    "gph": 641.1, 
+    "osn": 622.7
   }, 
   "sailnumber": "ITA12711", 
   "name": "HAKUNA MATATA", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.6, 
       "loa": 10.632, 
       "draft": 2.0, 
+      "wetted_surface": 24.7, 
       "main": 38.5, 
       "genoa": 26.5, 
       "displacement": 4123.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1991"
   }, 

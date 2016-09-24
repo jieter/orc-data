@@ -5,12 +5,13 @@
       1.2652, 
       1.4279
     ], 
-    "gph": 603.3, 
     "triple_inshore": [
       0.7455, 
       1.0202, 
       1.1941
-    ]
+    ], 
+    "gph": 603.3, 
+    "osn": 587.0
   }, 
   "sailnumber": "BRA2306", 
   "name": "BIJUPIRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.2, 
       "loa": 11.924, 
       "draft": 2.44, 
+      "wetted_surface": 31.8, 
       "main": 47.1, 
       "genoa": 50.9, 
       "displacement": 7525.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 740.0
     }, 
     "year": "1997"
   }, 

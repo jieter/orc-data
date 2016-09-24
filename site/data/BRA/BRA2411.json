@@ -5,12 +5,13 @@
       1.498, 
       1.7818
     ], 
-    "gph": 503.4, 
     "triple_inshore": [
       0.908, 
       1.1856, 
       1.4234
-    ]
+    ], 
+    "gph": 503.4, 
+    "osn": 490.4
   }, 
   "sailnumber": "BRA2411", 
   "name": "DUMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.631, 
       "draft": 2.73, 
+      "wetted_surface": 25.5, 
       "main": 64.1, 
       "genoa": 26.8, 
       "displacement": 2947.0, 
-      "spinnaker_asym": 147.0
+      "spinnaker_asym": 147.0, 
+      "crew": 640.0
     }, 
     "year": "2006"
   }, 

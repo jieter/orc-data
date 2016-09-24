@@ -5,12 +5,13 @@
       1.1132, 
       1.2623
     ], 
-    "gph": 687.8, 
     "triple_inshore": [
       0.6496, 
       0.8966, 
       1.0528
-    ]
+    ], 
+    "gph": 687.8, 
+    "osn": 667.2
   }, 
   "sailnumber": "ESP10041", 
   "name": "ARGALLEIRO", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.9, 
       "loa": 9.52, 
       "draft": 1.68, 
+      "wetted_surface": 22.1, 
       "main": 27.5, 
       "genoa": 26.6, 
       "displacement": 4232.0, 
-      "spinnaker_asym": 55.0
+      "spinnaker_asym": 55.0, 
+      "crew": 400.0
     }, 
     "year": "2003"
   }, 

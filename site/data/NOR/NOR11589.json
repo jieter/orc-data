@@ -5,12 +5,13 @@
       1.1748, 
       1.323
     ], 
-    "gph": 650.0, 
     "triple_inshore": [
       0.6906, 
       0.9468, 
       1.1023
-    ]
+    ], 
+    "gph": 650.0, 
+    "osn": 632.4
   }, 
   "sailnumber": "NOR11589", 
   "name": "Vilma", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.2, 
       "loa": 10.34, 
       "draft": 1.94, 
+      "wetted_surface": 25.2, 
       "main": 34.3, 
       "genoa": 36.5, 
       "displacement": 5174.0, 
-      "spinnaker_asym": 72.0
+      "spinnaker_asym": 72.0, 
+      "crew": 613.0
     }, 
     "year": "2002"
   }, 

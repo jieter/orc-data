@@ -5,12 +5,13 @@
       1.088, 
       1.2438
     ], 
-    "gph": 702.9, 
     "triple_inshore": [
       0.6322, 
       0.8622, 
       1.0219
-    ]
+    ], 
+    "gph": 702.9, 
+    "osn": 684.1
   }, 
   "sailnumber": "NOR15161", 
   "name": "Ivar Siglar", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.9, 
       "draft": 1.54, 
+      "wetted_surface": 22.1, 
       "main": 25.4, 
       "genoa": 31.2, 
       "displacement": 4566.0, 
-      "spinnaker_asym": 51.0
+      "spinnaker_asym": 51.0, 
+      "crew": 580.0
     }, 
     "year": "2001"
   }, 

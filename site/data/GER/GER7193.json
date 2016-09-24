@@ -5,12 +5,13 @@
       1.4142, 
       1.5919
     ], 
-    "gph": 536.0, 
     "triple_inshore": [
       0.8537, 
       1.1488, 
       1.3348
-    ]
+    ], 
+    "gph": 536.0, 
+    "osn": 522.8
   }, 
   "sailnumber": "GER7193", 
   "name": "VINGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 155.0, 
       "loa": 13.829, 
       "draft": 2.84, 
+      "wetted_surface": 38.7, 
       "main": 79.2, 
       "genoa": 56.3, 
       "displacement": 9985.0, 
-      "spinnaker_asym": 153.0
+      "spinnaker_asym": 153.0, 
+      "crew": 885.0
     }, 
     "year": "2001"
   }, 

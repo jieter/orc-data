@@ -5,12 +5,13 @@
       1.2007, 
       1.3599
     ], 
-    "gph": 636.3, 
     "triple_inshore": [
       0.706, 
       0.9699, 
       1.1348
-    ]
+    ], 
+    "gph": 636.3, 
+    "osn": 618.3
   }, 
   "sailnumber": "ITA14141", 
   "name": "SOUL SEEKER", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.8, 
       "loa": 10.72, 
       "draft": 2.02, 
+      "wetted_surface": 26.3, 
       "main": 38.8, 
       "genoa": 30.0, 
       "displacement": 5185.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 610.0
     }, 
     "year": "1993"
   }, 

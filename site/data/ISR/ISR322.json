@@ -5,12 +5,13 @@
       1.3353, 
       1.5105
     ], 
-    "gph": 572.0, 
     "triple_inshore": [
       0.7857, 
       1.0749, 
       1.2392
-    ]
+    ], 
+    "gph": 572.0, 
+    "osn": 555.7
   }, 
   "sailnumber": "ISR322", 
   "name": "Lataka-Be", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 2.4, 
+      "wetted_surface": 32.4, 
       "main": 45.9, 
       "genoa": 49.4, 
       "displacement": 6510.0, 
-      "spinnaker_asym": 135.0
+      "spinnaker_asym": 135.0, 
+      "crew": 864.0
     }, 
     "year": "2003"
   }, 

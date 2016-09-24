@@ -5,12 +5,13 @@
       1.2613, 
       1.4227
     ], 
-    "gph": 606.3, 
     "triple_inshore": [
       0.7371, 
       1.0099, 
       1.177
-    ]
+    ], 
+    "gph": 606.3, 
+    "osn": 589.7
   }, 
   "sailnumber": "ITA15030", 
   "name": "EURIOLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.016, 
       "draft": 2.43, 
+      "wetted_surface": 32.2, 
       "main": 44.6, 
       "genoa": 49.3, 
       "displacement": 7411.0, 
-      "spinnaker_asym": 109.0
+      "spinnaker_asym": 109.0, 
+      "crew": 600.0
     }, 
     "year": "2000"
   }, 

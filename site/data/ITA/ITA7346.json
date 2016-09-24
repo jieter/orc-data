@@ -5,12 +5,13 @@
       1.0507, 
       1.1886
     ], 
-    "gph": 725.7, 
     "triple_inshore": [
       0.6237, 
       0.8528, 
       0.9988
-    ]
+    ], 
+    "gph": 725.7, 
+    "osn": 705.0
   }, 
   "sailnumber": "ITA7346", 
   "name": "LAEGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.9, 
       "loa": 8.98, 
       "draft": 1.67, 
+      "wetted_surface": 18.1, 
       "main": 16.9, 
       "genoa": 31.6, 
       "displacement": 3314.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 380.0
     }, 
     "year": "1977"
   }, 

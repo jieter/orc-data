@@ -5,12 +5,13 @@
       1.2701, 
       1.4208
     ], 
-    "gph": 599.5, 
     "triple_inshore": [
       0.7571, 
       1.0244, 
       1.1885
-    ]
+    ], 
+    "gph": 599.5, 
+    "osn": 584.5
   }, 
   "sailnumber": "ESP8868", 
   "name": "DIMNA", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.5, 
       "loa": 11.924, 
       "draft": 2.4, 
+      "wetted_surface": 30.9, 
       "main": 46.5, 
       "genoa": 49.0, 
       "displacement": 6882.0, 
-      "spinnaker_asym": 105.0
+      "spinnaker_asym": 105.0, 
+      "crew": 170.0
     }, 
     "year": "1998"
   }, 

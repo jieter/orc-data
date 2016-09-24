@@ -5,12 +5,13 @@
       1.244, 
       1.4081
     ], 
-    "gph": 615.5, 
     "triple_inshore": [
       0.7217, 
       0.9954, 
       1.1623
-    ]
+    ], 
+    "gph": 615.5, 
+    "osn": 598.2
   }, 
   "sailnumber": "ITA16508", 
   "name": "KIMOTHOE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.91, 
       "draft": 1.9, 
+      "wetted_surface": 31.3, 
       "main": 45.8, 
       "genoa": 38.3, 
       "displacement": 7080.0, 
-      "spinnaker_asym": 110.0
+      "spinnaker_asym": 110.0, 
+      "crew": 650.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.0932, 
       1.2398
     ], 
-    "gph": 697.6, 
     "triple_inshore": [
       0.6468, 
       0.875, 
       1.0305
-    ]
+    ], 
+    "gph": 697.6, 
+    "osn": 678.7
   }, 
   "sailnumber": "NOR15055", 
   "name": "Barbarella", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.55, 
       "draft": 1.84, 
+      "wetted_surface": 22.3, 
       "main": 27.1, 
       "genoa": 24.6, 
       "displacement": 4677.0, 
-      "spinnaker_asym": 73.0
+      "spinnaker_asym": 73.0, 
+      "crew": 534.0
     }, 
     "year": "2008"
   }, 

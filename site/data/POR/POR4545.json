@@ -5,12 +5,13 @@
       1.3061, 
       1.5025
     ], 
-    "gph": 588.9, 
     "triple_inshore": [
       0.7426, 
       1.0395, 
       1.2424
-    ]
+    ], 
+    "gph": 588.9, 
+    "osn": 570.6
   }, 
   "sailnumber": "POR4545", 
   "name": "MARIAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 136.4, 
       "loa": 13.6, 
       "draft": 2.32, 
+      "wetted_surface": 43.2, 
       "main": 59.0, 
       "genoa": 48.8, 
       "displacement": 11109.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 850.0
     }, 
     "year": "2008"
   }, 

@@ -5,12 +5,13 @@
       1.0927, 
       1.2366
     ], 
-    "gph": 703.0, 
     "triple_inshore": [
       0.6316, 
       0.8761, 
       1.022
-    ]
+    ], 
+    "gph": 703.0, 
+    "osn": 680.5
   }, 
   "sailnumber": "GER7184", 
   "name": "YELLA 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.3, 
       "draft": 2.15, 
+      "wetted_surface": 20.4, 
       "main": 26.6, 
       "genoa": 18.9, 
       "displacement": 2974.0, 
-      "spinnaker_asym": 52.0
+      "spinnaker_asym": 52.0, 
+      "crew": 360.0
     }, 
     "year": "2002"
   }, 

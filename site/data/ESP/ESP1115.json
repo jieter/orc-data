@@ -5,12 +5,13 @@
       1.1354, 
       1.2905
     ], 
-    "gph": 667.1, 
     "triple_inshore": [
       0.6896, 
       0.9197, 
       1.0545
-    ]
+    ], 
+    "gph": 667.1, 
+    "osn": 649.3
   }, 
   "sailnumber": "ESP1115", 
   "name": "PUERTO SHERRY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.032, 
       "draft": 1.5, 
+      "wetted_surface": 13.6, 
       "main": 21.2, 
       "genoa": 13.6, 
       "displacement": 1441.0, 
-      "spinnaker_asym": 63.0
+      "spinnaker_asym": 63.0, 
+      "crew": 340.0
     }, 
     "year": "1993"
   }, 

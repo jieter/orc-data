@@ -5,12 +5,13 @@
       1.3043, 
       1.4683
     ], 
-    "gph": 583.7, 
     "triple_inshore": [
       0.7762, 
       1.0552, 
       1.2239
-    ]
+    ], 
+    "gph": 583.7, 
+    "osn": 568.6
   }, 
   "sailnumber": "GRE8", 
   "name": "ALSOUMA-Allianz", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.4, 
       "loa": 12.1, 
       "draft": 2.4, 
+      "wetted_surface": 30.5, 
       "main": 50.8, 
       "genoa": 50.6, 
       "displacement": 6349.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "2000"
   }, 

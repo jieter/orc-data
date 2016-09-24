@@ -5,12 +5,13 @@
       1.1178, 
       1.2809
     ], 
-    "gph": 679.3, 
     "triple_inshore": [
       0.6725, 
       0.9063, 
       1.0458
-    ]
+    ], 
+    "gph": 679.3, 
+    "osn": 659.3
   }, 
   "sailnumber": "SUI777", 
   "name": "LUCKY MACKY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.41, 
       "draft": 1.57, 
+      "wetted_surface": 12.9, 
       "main": 18.6, 
       "genoa": 12.5, 
       "displacement": 1353.0, 
-      "spinnaker_asym": 53.0
+      "spinnaker_asym": 53.0, 
+      "crew": 419.0
     }, 
     "year": "2008"
   }, 

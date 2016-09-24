@@ -5,12 +5,13 @@
       0.9495, 
       1.0915
     ], 
-    "gph": 805.8, 
     "triple_inshore": [
       0.5542, 
       0.7694, 
       0.9161
-    ]
+    ], 
+    "gph": 805.8, 
+    "osn": 780.7
   }, 
   "sailnumber": "NED2696", 
   "name": "SPOOM", 
@@ -25,10 +26,12 @@
       "spinnaker": 32.1, 
       "loa": 7.23, 
       "draft": 1.47, 
+      "wetted_surface": 11.5, 
       "main": 10.1, 
       "genoa": 14.4, 
       "displacement": 1397.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 299.0
     }, 
     "year": "1978"
   }, 

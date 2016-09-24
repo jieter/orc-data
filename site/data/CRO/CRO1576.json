@@ -5,12 +5,13 @@
       1.1833, 
       1.3378
     ], 
-    "gph": 644.9, 
     "triple_inshore": [
       0.7017, 
       0.9602, 
       1.1212
-    ]
+    ], 
+    "gph": 644.9, 
+    "osn": 626.0
   }, 
   "sailnumber": "CRO1576", 
   "name": "Golf", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.3, 
       "loa": 9.983, 
       "draft": 2.05, 
+      "wetted_surface": 24.6, 
       "main": 32.5, 
       "genoa": 32.8, 
       "displacement": 5000.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 639.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       1.3053, 
       1.4939
     ], 
-    "gph": 588.1, 
     "triple_inshore": [
       0.7495, 
       1.0458, 
       1.2504
-    ]
+    ], 
+    "gph": 588.1, 
+    "osn": 570.2
   }, 
   "sailnumber": "GRE1174", 
   "name": "SARAH", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.715, 
       "draft": 2.5, 
+      "wetted_surface": 42.1, 
       "main": 58.7, 
       "genoa": 48.0, 
       "displacement": 11565.0, 
-      "spinnaker_asym": 154.0
+      "spinnaker_asym": 154.0, 
+      "crew": 931.0
     }, 
     "year": "1989"
   }, 

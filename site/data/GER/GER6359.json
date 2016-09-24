@@ -5,12 +5,13 @@
       1.3045, 
       1.4661
     ], 
-    "gph": 583.1, 
     "triple_inshore": [
       0.7791, 
       1.0556, 
       1.2253
-    ]
+    ], 
+    "gph": 583.1, 
+    "osn": 568.3
   }, 
   "sailnumber": "GER6359", 
   "name": "FINNJA", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.9, 
       "loa": 12.1, 
       "draft": 2.4, 
+      "wetted_surface": 30.6, 
       "main": 50.2, 
       "genoa": 54.4, 
       "displacement": 6365.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2000"
   }, 

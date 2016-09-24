@@ -5,12 +5,13 @@
       1.2406, 
       1.4
     ], 
-    "gph": 613.9, 
     "triple_inshore": [
       0.7395, 
       1.003, 
       1.1529
-    ]
+    ], 
+    "gph": 613.9, 
+    "osn": 597.4
   }, 
   "sailnumber": "FRA9788", 
   "name": "TOINOU 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.0, 
       "loa": 10.632, 
       "draft": 1.99, 
+      "wetted_surface": 24.4, 
       "main": 36.2, 
       "genoa": 27.9, 
       "displacement": 3897.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 520.0
     }, 
     "year": "1991"
   }, 

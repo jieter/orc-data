@@ -5,12 +5,13 @@
       1.2973, 
       1.5072
     ], 
-    "gph": 593.6, 
     "triple_inshore": [
       0.7264, 
       1.0242, 
       1.238
-    ]
+    ], 
+    "gph": 593.6, 
+    "osn": 575.9
   }, 
   "sailnumber": "ESP6315", 
   "name": "JERONIMO II", 
@@ -25,10 +26,12 @@
       "spinnaker": 129.7, 
       "loa": 14.506, 
       "draft": 2.29, 
+      "wetted_surface": 44.0, 
       "main": 59.9, 
       "genoa": 57.4, 
       "displacement": 11989.0, 
-      "spinnaker_asym": 130.0
+      "spinnaker_asym": 130.0, 
+      "crew": 800.0
     }, 
     "year": "1999"
   }, 

@@ -5,12 +5,13 @@
       1.2927, 
       1.4695
     ], 
-    "gph": 592.3, 
     "triple_inshore": [
       0.7521, 
       1.0357, 
       1.2228
-    ]
+    ], 
+    "gph": 592.3, 
+    "osn": 575.6
   }, 
   "sailnumber": "ITA14013", 
   "name": "MUZYKA 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 146.6, 
       "loa": 13.48, 
       "draft": 2.31, 
+      "wetted_surface": 38.8, 
       "main": 49.8, 
       "genoa": 52.0, 
       "displacement": 9992.0, 
-      "spinnaker_asym": 130.0
+      "spinnaker_asym": 130.0, 
+      "crew": 640.0
     }, 
     "year": "1995"
   }, 

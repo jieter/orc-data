@@ -5,12 +5,13 @@
       1.1738, 
       1.3134
     ], 
-    "gph": 648.7, 
     "triple_inshore": [
       0.6999, 
       0.9464, 
       1.0868
-    ]
+    ], 
+    "gph": 648.7, 
+    "osn": 631.6
   }, 
   "sailnumber": "GER6471", 
   "name": "QUIRON", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.598, 
       "draft": 1.93, 
+      "wetted_surface": 21.8, 
       "main": 29.6, 
       "genoa": 24.7, 
       "displacement": 4072.0, 
-      "spinnaker_asym": 104.0
+      "spinnaker_asym": 104.0, 
+      "crew": 655.0
     }, 
     "year": "2009"
   }, 

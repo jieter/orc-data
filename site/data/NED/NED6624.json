@@ -5,12 +5,13 @@
       1.1414, 
       1.3014
     ], 
-    "gph": 671.2, 
     "triple_inshore": [
       0.6652, 
       0.9212, 
       1.0932
-    ]
+    ], 
+    "gph": 671.2, 
+    "osn": 650.1
   }, 
   "sailnumber": "NED6624", 
   "name": "TRI-EAU", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.0, 
       "loa": 10.025, 
       "draft": 1.92, 
+      "wetted_surface": 24.2, 
       "main": 31.1, 
       "genoa": 25.5, 
       "displacement": 5086.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "2001"
   }, 

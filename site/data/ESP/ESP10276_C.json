@@ -5,12 +5,13 @@
       1.0036, 
       1.1344
     ], 
-    "gph": 760.7, 
     "triple_inshore": [
       0.5963, 
       0.8155, 
       0.9546
-    ]
+    ], 
+    "gph": 760.7, 
+    "osn": 737.8
   }, 
   "sailnumber": "ESP10276_C", 
   "name": "ZOFIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 50.8, 
       "loa": 7.94, 
       "draft": 1.65, 
+      "wetted_surface": 15.8, 
       "main": 13.0, 
       "genoa": 27.3, 
       "displacement": 2821.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1975"
   }, 

@@ -5,12 +5,13 @@
       1.0915, 
       1.2611
     ], 
-    "gph": 702.7, 
     "triple_inshore": [
       0.6296, 
       0.8802, 
       1.0622
-    ]
+    ], 
+    "gph": 702.7, 
+    "osn": 680.0
   }, 
   "sailnumber": "NED7779", 
   "name": "op Merote", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.0, 
       "loa": 9.34, 
       "draft": 1.98, 
+      "wetted_surface": 21.5, 
       "main": 23.9, 
       "genoa": 19.4, 
       "displacement": 4004.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 516.0
     }, 
     "year": "1994"
   }, 

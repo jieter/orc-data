@@ -5,12 +5,13 @@
       1.3001, 
       1.5319
     ], 
-    "gph": 594.9, 
     "triple_inshore": [
       0.7165, 
       1.022, 
       1.2528
-    ]
+    ], 
+    "gph": 594.9, 
+    "osn": 575.6
   }, 
   "sailnumber": "ITA16050", 
   "name": "NIBANI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.915, 
       "draft": 2.59, 
+      "wetted_surface": 47.2, 
       "main": 54.1, 
       "genoa": 52.3, 
       "displacement": 13507.0, 
-      "spinnaker_asym": 154.0
+      "spinnaker_asym": 154.0, 
+      "crew": 600.0
     }, 
     "year": "2005"
   }, 

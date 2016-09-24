@@ -5,12 +5,13 @@
       1.1427, 
       1.2884
     ], 
-    "gph": 667.2, 
     "triple_inshore": [
       0.6784, 
       0.9288, 
       1.0828
-    ]
+    ], 
+    "gph": 667.2, 
+    "osn": 648.7
   }, 
   "sailnumber": "GER58", 
   "name": "KUDDEL DADDEL DU", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.3, 
       "loa": 9.295, 
       "draft": 1.86, 
+      "wetted_surface": 21.3, 
       "main": 31.8, 
       "genoa": 25.9, 
       "displacement": 4004.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 460.0
     }, 
     "year": "1999"
   }, 

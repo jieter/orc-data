@@ -5,12 +5,13 @@
       1.4079, 
       1.5873
     ], 
-    "gph": 539.2, 
     "triple_inshore": [
       0.8453, 
       1.1421, 
       1.3301
-    ]
+    ], 
+    "gph": 539.2, 
+    "osn": 525.7
   }, 
   "sailnumber": "ITA45050", 
   "name": "ULIKA", 
@@ -25,10 +26,12 @@
       "spinnaker": 153.4, 
       "loa": 13.829, 
       "draft": 2.84, 
+      "wetted_surface": 38.8, 
       "main": 79.2, 
       "genoa": 55.2, 
       "displacement": 10062.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 975.0
     }, 
     "year": "2002"
   }, 

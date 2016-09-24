@@ -5,12 +5,13 @@
       1.4274, 
       1.6396
     ], 
-    "gph": 540.5, 
     "triple_inshore": [
       0.799, 
       1.1271, 
       1.3347
-    ]
+    ], 
+    "gph": 540.5, 
+    "osn": 524.5
   }, 
   "sailnumber": "ESP9955", 
   "name": "PERLA BLU II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 16.23, 
       "draft": 2.71, 
+      "wetted_surface": 55.3, 
       "main": 88.3, 
       "genoa": 59.8, 
       "displacement": 16007.0, 
-      "spinnaker_asym": 210.0
+      "spinnaker_asym": 210.0, 
+      "crew": 700.0
     }, 
     "year": "2007"
   }, 

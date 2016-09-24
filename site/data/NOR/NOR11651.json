@@ -5,12 +5,13 @@
       1.1419, 
       1.2972
     ], 
-    "gph": 670.0, 
     "triple_inshore": [
       0.6678, 
       0.9232, 
       1.082
-    ]
+    ], 
+    "gph": 670.0, 
+    "osn": 649.9
   }, 
   "sailnumber": "NOR11651", 
   "name": "Batenvar", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.3, 
       "loa": 9.5, 
       "draft": 1.93, 
+      "wetted_surface": 22.2, 
       "main": 26.4, 
       "genoa": 31.2, 
       "displacement": 3814.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 586.0
     }, 
     "year": "1998"
   }, 

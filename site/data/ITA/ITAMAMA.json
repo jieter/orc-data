@@ -5,12 +5,13 @@
       1.1951, 
       1.3756
     ], 
-    "gph": 641.6, 
     "triple_inshore": [
       0.6858, 
       0.9444, 
       1.1287
-    ]
+    ], 
+    "gph": 641.6, 
+    "osn": 623.3
   }, 
   "sailnumber": "ITAMAMA", 
   "name": "MAMA'", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.93, 
       "draft": 1.85, 
+      "wetted_surface": 32.7, 
       "main": 42.3, 
       "genoa": 38.6, 
       "displacement": 8243.0, 
-      "spinnaker_asym": 98.0
+      "spinnaker_asym": 98.0, 
+      "crew": 550.0
     }, 
     "year": "2004"
   }, 

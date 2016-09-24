@@ -5,12 +5,13 @@
       1.0259, 
       1.1487
     ], 
-    "gph": 741.1, 
     "triple_inshore": [
       0.6219, 
       0.8356, 
       0.9695
-    ]
+    ], 
+    "gph": 741.1, 
+    "osn": 720.5
   }, 
   "sailnumber": "NOR5062", 
   "name": "Fortuna VIII", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.8, 
       "loa": 8.57, 
       "draft": 1.69, 
+      "wetted_surface": 17.9, 
       "main": 16.9, 
       "genoa": 26.7, 
       "displacement": 3675.0, 
-      "spinnaker_asym": 57.0
+      "spinnaker_asym": 57.0, 
+      "crew": 420.0
     }, 
     "year": "1979"
   }, 

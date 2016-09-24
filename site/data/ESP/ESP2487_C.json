@@ -5,12 +5,13 @@
       1.1292, 
       1.3053
     ], 
-    "gph": 679.3, 
     "triple_inshore": [
       0.6508, 
       0.9066, 
       1.093
-    ]
+    ], 
+    "gph": 679.3, 
+    "osn": 657.6
   }, 
   "sailnumber": "ESP2487_C", 
   "name": "MIPRACAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.5, 
       "loa": 10.832, 
       "draft": 1.98, 
+      "wetted_surface": 26.1, 
       "main": 28.2, 
       "genoa": 31.8, 
       "displacement": 5593.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1979"
   }, 

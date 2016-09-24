@@ -5,12 +5,13 @@
       1.2184, 
       1.386
     ], 
-    "gph": 626.3, 
     "triple_inshore": [
       0.7142, 
       0.981, 
       1.1471
-    ]
+    ], 
+    "gph": 626.3, 
+    "osn": 610.0
   }, 
   "sailnumber": "NED4884", 
   "name": "BINTANG", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.9, 
       "loa": 10.632, 
       "draft": 2.0, 
+      "wetted_surface": 24.9, 
       "main": 41.3, 
       "genoa": 30.9, 
       "displacement": 4190.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 545.0
     }, 
     "year": "1992"
   }, 

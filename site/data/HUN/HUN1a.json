@@ -5,12 +5,13 @@
       1.3238, 
       1.5294
     ], 
-    "gph": 576.6, 
     "triple_inshore": [
       0.7729, 
       1.062, 
       1.2436
-    ]
+    ], 
+    "gph": 576.6, 
+    "osn": 559.9
   }, 
   "sailnumber": "HUN1a", 
   "name": "Dancing Queen", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.0, 
       "draft": 1.93, 
+      "wetted_surface": 33.4, 
       "main": 51.1, 
       "genoa": 46.8, 
       "displacement": 7500.0, 
-      "spinnaker_asym": 172.0
+      "spinnaker_asym": 172.0, 
+      "crew": 500.0
     }, 
     "year": "2015"
   }, 

@@ -5,12 +5,13 @@
       1.1943, 
       1.3512
     ], 
-    "gph": 640.2, 
     "triple_inshore": [
       0.7013, 
       0.9649, 
       1.1313
-    ]
+    ], 
+    "gph": 640.2, 
+    "osn": 621.5
   }, 
   "sailnumber": "GER5564", 
   "name": "HALBTROCKEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.9, 
       "loa": 10.64, 
       "draft": 2.24, 
+      "wetted_surface": 27.0, 
       "main": 39.9, 
       "genoa": 30.6, 
       "displacement": 5851.0, 
-      "spinnaker_asym": 67.0
+      "spinnaker_asym": 67.0, 
+      "crew": 640.0
     }, 
     "year": "2001"
   }, 

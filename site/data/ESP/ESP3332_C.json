@@ -5,12 +5,13 @@
       1.0772, 
       1.1973
     ], 
-    "gph": 708.0, 
     "triple_inshore": [
       0.6404, 
       0.8699, 
       0.9969
-    ]
+    ], 
+    "gph": 708.0, 
+    "osn": 689.9
   }, 
   "sailnumber": "ESP3332_C", 
   "name": "FENICIA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 51.6, 
       "loa": 9.201, 
       "draft": 1.71, 
+      "wetted_surface": 18.9, 
       "main": 25.4, 
       "genoa": 20.1, 
       "displacement": 3415.0, 
-      "spinnaker_asym": 58.0
+      "spinnaker_asym": 58.0, 
+      "crew": 150.0
     }, 
     "year": "1991"
   }, 

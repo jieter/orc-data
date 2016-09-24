@@ -5,12 +5,13 @@
       1.2289, 
       1.4097
     ], 
-    "gph": 626.6, 
     "triple_inshore": [
       0.6973, 
       0.9826, 
       1.1746
-    ]
+    ], 
+    "gph": 626.6, 
+    "osn": 606.2
   }, 
   "sailnumber": "ITA14312", 
   "name": "SANIRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.5, 
       "loa": 12.016, 
       "draft": 2.44, 
+      "wetted_surface": 32.7, 
       "main": 43.8, 
       "genoa": 46.5, 
       "displacement": 7673.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "2000"
   }, 

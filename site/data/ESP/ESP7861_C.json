@@ -5,12 +5,13 @@
       1.2188, 
       1.3778
     ], 
-    "gph": 627.2, 
     "triple_inshore": [
       0.715, 
       0.9851, 
       1.1612
-    ]
+    ], 
+    "gph": 627.2, 
+    "osn": 609.1
   }, 
   "sailnumber": "ESP7861_C", 
   "name": "MANGUICU SEGUNDO", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.7, 
       "loa": 11.215, 
       "draft": 2.49, 
+      "wetted_surface": 29.4, 
       "main": 40.8, 
       "genoa": 42.9, 
       "displacement": 6781.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "2004"
   }, 

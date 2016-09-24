@@ -5,12 +5,13 @@
       1.0688, 
       1.2249
     ], 
-    "gph": 717.0, 
     "triple_inshore": [
       0.6171, 
       0.862, 
       1.003
-    ]
+    ], 
+    "gph": 717.0, 
+    "osn": 695.1
   }, 
   "sailnumber": "ITA182SOL", 
   "name": "ALDEBARAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 36.4, 
       "loa": 8.18, 
       "draft": 1.3, 
+      "wetted_surface": 11.4, 
       "main": 16.3, 
       "genoa": 8.5, 
       "displacement": 1037.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 257.0
     }, 
     "year": "1969"
   }, 

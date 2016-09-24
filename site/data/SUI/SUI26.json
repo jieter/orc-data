@@ -5,12 +5,13 @@
       1.2182, 
       1.4053
     ], 
-    "gph": 620.5, 
     "triple_inshore": [
       0.7425, 
       0.9854, 
       1.1515
-    ]
+    ], 
+    "gph": 620.5, 
+    "osn": 603.8
   }, 
   "sailnumber": "SUI26", 
   "name": "VOODOO CHILD", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.8, 
       "loa": 8.0, 
       "draft": 1.8, 
+      "wetted_surface": 13.6, 
       "main": 22.0, 
       "genoa": 18.4, 
       "displacement": 1188.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "2009"
   }, 

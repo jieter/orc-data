@@ -5,12 +5,13 @@
       1.2092, 
       1.3868
     ], 
-    "gph": 634.0, 
     "triple_inshore": [
       0.6966, 
       0.9676, 
       1.1559
-    ]
+    ], 
+    "gph": 634.0, 
+    "osn": 614.9
   }, 
   "sailnumber": "ESP7613", 
   "name": "POTOL 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.0, 
       "loa": 11.62, 
       "draft": 2.14, 
+      "wetted_surface": 33.3, 
       "main": 45.0, 
       "genoa": 42.1, 
       "displacement": 8124.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2005"
   }, 

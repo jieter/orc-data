@@ -5,12 +5,13 @@
       1.1548, 
       1.3221
     ], 
-    "gph": 663.7, 
     "triple_inshore": [
       0.6696, 
       0.9294, 
       1.1072
-    ]
+    ], 
+    "gph": 663.7, 
+    "osn": 642.7
   }, 
   "sailnumber": "ITA15950", 
   "name": "NIGNO", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.9, 
       "loa": 10.3, 
       "draft": 1.97, 
+      "wetted_surface": 25.7, 
       "main": 34.1, 
       "genoa": 26.8, 
       "displacement": 5544.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 660.0
     }, 
     "year": "2003"
   }, 

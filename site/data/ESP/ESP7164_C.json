@@ -5,12 +5,13 @@
       1.2193, 
       1.4007
     ], 
-    "gph": 627.1, 
     "triple_inshore": [
       0.7108, 
       0.9877, 
       1.1587
-    ]
+    ], 
+    "gph": 627.1, 
+    "osn": 608.1
   }, 
   "sailnumber": "ESP7164_C", 
   "name": "OZU 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.3, 
       "loa": 10.033, 
       "draft": 1.98, 
+      "wetted_surface": 22.1, 
       "main": 34.6, 
       "genoa": 24.9, 
       "displacement": 3415.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1997"
   }, 

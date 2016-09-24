@@ -5,12 +5,13 @@
       1.1247, 
       1.2527
     ], 
-    "gph": 675.9, 
     "triple_inshore": [
       0.6746, 
       0.9092, 
       1.0476
-    ]
+    ], 
+    "gph": 675.9, 
+    "osn": 660.0
   }, 
   "sailnumber": "NOR4432", 
   "name": "Milska", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.8, 
       "loa": 10.3, 
       "draft": 1.63, 
+      "wetted_surface": 22.4, 
       "main": 32.9, 
       "genoa": 34.5, 
       "displacement": 4774.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 555.0
     }, 
     "year": "1980"
   }, 

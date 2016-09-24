@@ -5,12 +5,13 @@
       1.2474, 
       1.4098
     ], 
-    "gph": 611.2, 
     "triple_inshore": [
       0.7342, 
       1.0053, 
       1.1761
-    ]
+    ], 
+    "gph": 611.2, 
+    "osn": 596.0
   }, 
   "sailnumber": "ESP10112_C", 
   "name": "TUCAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.6, 
       "loa": 12.2, 
       "draft": 1.98, 
+      "wetted_surface": 30.0, 
       "main": 49.5, 
       "genoa": 43.6, 
       "displacement": 7177.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 600.0
     }, 
     "year": "1988"
   }, 

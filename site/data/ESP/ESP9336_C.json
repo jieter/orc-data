@@ -5,12 +5,13 @@
       1.0221, 
       1.1822
     ], 
-    "gph": 749.4, 
     "triple_inshore": [
       0.5913, 
       0.8146, 
       0.9853
-    ]
+    ], 
+    "gph": 749.4, 
+    "osn": 727.3
   }, 
   "sailnumber": "ESP9336_C", 
   "name": "MY LADY", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.1, 
       "loa": 9.34, 
       "draft": 1.58, 
+      "wetted_surface": 23.3, 
       "main": 21.0, 
       "genoa": 28.6, 
       "displacement": 5207.0, 
-      "spinnaker_asym": 61.0
+      "spinnaker_asym": 61.0, 
+      "crew": 450.0
     }, 
     "year": "1976"
   }, 

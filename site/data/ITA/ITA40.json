@@ -5,12 +5,13 @@
       1.3693, 
       1.5644
     ], 
-    "gph": 556.2, 
     "triple_inshore": [
       0.811, 
       1.1078, 
       1.2895
-    ]
+    ], 
+    "gph": 556.2, 
+    "osn": 540.2
   }, 
   "sailnumber": "ITA40", 
   "name": "FUNCHALINHO", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.7, 
       "loa": 11.92, 
       "draft": 2.98, 
+      "wetted_surface": 27.1, 
       "main": 51.8, 
       "genoa": 31.9, 
       "displacement": 4351.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "1998"
   }, 

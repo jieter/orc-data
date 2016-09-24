@@ -5,12 +5,13 @@
       1.2418, 
       1.4112
     ], 
-    "gph": 615.1, 
     "triple_inshore": [
       0.7263, 
       0.9963, 
       1.1756
-    ]
+    ], 
+    "gph": 615.1, 
+    "osn": 598.4
   }, 
   "sailnumber": "NED6615", 
   "name": "ARGEONAUT", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.7, 
       "loa": 11.8, 
       "draft": 1.99, 
+      "wetted_surface": 33.7, 
       "main": 47.0, 
       "genoa": 50.0, 
       "displacement": 8338.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 793.0
     }, 
     "year": "1998"
   }, 

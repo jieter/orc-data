@@ -5,12 +5,13 @@
       1.2148, 
       1.3801
     ], 
-    "gph": 630.3, 
     "triple_inshore": [
       0.7079, 
       0.9811, 
       1.1585
-    ]
+    ], 
+    "gph": 630.3, 
+    "osn": 610.9
   }, 
   "sailnumber": "ESP8748", 
   "name": "PEPINO FLOC", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.0, 
       "loa": 10.73, 
       "draft": 2.01, 
+      "wetted_surface": 27.8, 
       "main": 38.9, 
       "genoa": 32.0, 
       "displacement": 5771.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2006"
   }, 

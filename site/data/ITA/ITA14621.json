@@ -5,12 +5,13 @@
       1.1381, 
       1.292
     ], 
-    "gph": 672.3, 
     "triple_inshore": [
       0.6661, 
       0.9206, 
       1.0796
-    ]
+    ], 
+    "gph": 672.3, 
+    "osn": 651.5
   }, 
   "sailnumber": "ITA14621", 
   "name": "BELLA' M BRIANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.3, 
       "loa": 9.5, 
       "draft": 1.92, 
+      "wetted_surface": 22.4, 
       "main": 23.4, 
       "genoa": 33.5, 
       "displacement": 3892.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.2187, 
       1.4298
     ], 
-    "gph": 619.2, 
     "triple_inshore": [
       0.7405, 
       0.9706, 
       1.1466
-    ]
+    ], 
+    "gph": 619.2, 
+    "osn": 603.2
   }, 
   "sailnumber": "TUR2501", 
   "name": "Ruffles OneDesign", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.619, 
       "draft": 1.79, 
+      "wetted_surface": 12.5, 
       "main": 22.9, 
       "genoa": 13.8, 
       "displacement": 930.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 405.0
     }, 
     "year": "2008"
   }, 

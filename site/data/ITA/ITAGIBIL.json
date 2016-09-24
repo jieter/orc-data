@@ -5,12 +5,13 @@
       1.2501, 
       1.4824
     ], 
-    "gph": 617.6, 
     "triple_inshore": [
       0.6888, 
       0.9759, 
       1.2021
-    ]
+    ], 
+    "gph": 617.6, 
+    "osn": 598.5
   }, 
   "sailnumber": "ITAGIBIL", 
   "name": "GIBILLERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.73, 
       "draft": 2.25, 
+      "wetted_surface": 48.9, 
       "main": 54.8, 
       "genoa": 59.9, 
       "displacement": 14976.0, 
-      "spinnaker_asym": 116.0
+      "spinnaker_asym": 116.0, 
+      "crew": 960.0
     }, 
     "year": "2007"
   }, 

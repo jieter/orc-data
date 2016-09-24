@@ -5,12 +5,13 @@
       1.282, 
       1.4394
     ], 
-    "gph": 595.3, 
     "triple_inshore": [
       0.7576, 
       1.0342, 
       1.2035
-    ]
+    ], 
+    "gph": 595.3, 
+    "osn": 579.5
   }, 
   "sailnumber": "NOR10775", 
   "name": "Flugt VII", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.1, 
       "loa": 12.19, 
       "draft": 2.38, 
+      "wetted_surface": 32.7, 
       "main": 50.6, 
       "genoa": 46.8, 
       "displacement": 7561.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 779.0
     }, 
     "year": "2004"
   }, 

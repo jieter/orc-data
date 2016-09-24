@@ -5,12 +5,13 @@
       1.1712, 
       1.3416
     ], 
-    "gph": 652.9, 
     "triple_inshore": [
       0.6844, 
       0.9511, 
       1.1168
-    ]
+    ], 
+    "gph": 652.9, 
+    "osn": 632.2
   }, 
   "sailnumber": "NED7615", 
   "name": "Fall For", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.0, 
       "loa": 9.15, 
       "draft": 1.97, 
+      "wetted_surface": 21.4, 
       "main": 28.8, 
       "genoa": 22.9, 
       "displacement": 3206.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 578.0
     }, 
     "year": "2006"
   }, 

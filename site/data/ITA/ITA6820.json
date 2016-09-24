@@ -5,12 +5,13 @@
       1.0369, 
       1.171
     ], 
-    "gph": 732.9, 
     "triple_inshore": [
       0.624, 
       0.851, 
       0.9796
-    ]
+    ], 
+    "gph": 732.9, 
+    "osn": 711.6
   }, 
   "sailnumber": "ITA6820", 
   "name": "VIBRISSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 31.8, 
       "loa": 7.39, 
       "draft": 1.59, 
+      "wetted_surface": 11.8, 
       "main": 15.5, 
       "genoa": 18.4, 
       "displacement": 1390.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 330.0
     }, 
     "year": "1968"
   }, 

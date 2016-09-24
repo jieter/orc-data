@@ -5,12 +5,13 @@
       1.3654, 
       1.5517
     ], 
-    "gph": 560.2, 
     "triple_inshore": [
       0.7933, 
       1.0936, 
       1.2885
-    ]
+    ], 
+    "gph": 560.2, 
+    "osn": 545.6
   }, 
   "sailnumber": "ITA264", 
   "name": "ROSMARINE 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 168.8, 
       "loa": 14.1, 
       "draft": 2.6, 
+      "wetted_surface": 42.7, 
       "main": 69.6, 
       "genoa": 58.5, 
       "displacement": 11699.0, 
-      "spinnaker_asym": 128.0
+      "spinnaker_asym": 128.0, 
+      "crew": 900.0
     }, 
     "year": "2008"
   }, 

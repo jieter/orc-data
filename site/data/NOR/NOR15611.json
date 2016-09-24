@@ -5,12 +5,13 @@
       1.3315, 
       1.5033
     ], 
-    "gph": 571.3, 
     "triple_inshore": [
       0.7796, 
       1.0504, 
       1.2359
-    ]
+    ], 
+    "gph": 571.3, 
+    "osn": 560.3
   }, 
   "sailnumber": "NOR15611", 
   "name": "Galatea", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.835, 
       "draft": 2.41, 
+      "wetted_surface": 45.6, 
       "main": 68.6, 
       "genoa": 48.9, 
       "displacement": 15144.0, 
-      "spinnaker_asym": 151.0
+      "spinnaker_asym": 151.0, 
+      "crew": 1018.0
     }, 
     "year": "1995"
   }, 

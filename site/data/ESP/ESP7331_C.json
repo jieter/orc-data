@@ -5,12 +5,13 @@
       1.0688, 
       1.2465
     ], 
-    "gph": 716.5, 
     "triple_inshore": [
       0.6032, 
       0.8374, 
       1.0195
-    ]
+    ], 
+    "gph": 716.5, 
+    "osn": 698.8
   }, 
   "sailnumber": "ESP7331_C", 
   "name": "PAPAGENO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.545, 
       "draft": 1.54, 
+      "wetted_surface": 27.9, 
       "main": 27.8, 
       "genoa": 36.5, 
       "displacement": 6286.0, 
-      "spinnaker_asym": 73.0
+      "spinnaker_asym": 73.0, 
+      "crew": 597.0
     }, 
     "year": "1987"
   }, 

@@ -5,12 +5,13 @@
       1.1477, 
       1.3075
     ], 
-    "gph": 666.9, 
     "triple_inshore": [
       0.6714, 
       0.9288, 
       1.101
-    ]
+    ], 
+    "gph": 666.9, 
+    "osn": 645.7
   }, 
   "sailnumber": "ITA14719", 
   "name": "WYUNA", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.3, 
       "loa": 9.965, 
       "draft": 2.07, 
+      "wetted_surface": 23.2, 
       "main": 26.6, 
       "genoa": 30.6, 
       "displacement": 4701.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2003"
   }, 

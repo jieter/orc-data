@@ -5,12 +5,13 @@
       1.0127, 
       1.1234
     ], 
-    "gph": 752.8, 
     "triple_inshore": [
       0.6046, 
       0.8181, 
       0.9364
-    ]
+    ], 
+    "gph": 752.8, 
+    "osn": 733.5
   }, 
   "sailnumber": "NOR7523", 
   "name": "NN", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.9, 
       "loa": 8.3, 
       "draft": 1.55, 
+      "wetted_surface": 17.0, 
       "main": 22.2, 
       "genoa": 22.0, 
       "displacement": 2963.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 411.0
     }, 
     "year": "1984"
   }, 

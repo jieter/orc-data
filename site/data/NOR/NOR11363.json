@@ -5,12 +5,13 @@
       1.1637, 
       1.3313
     ], 
-    "gph": 658.8, 
     "triple_inshore": [
       0.6645, 
       0.9344, 
       1.1186
-    ]
+    ], 
+    "gph": 658.8, 
+    "osn": 640.8
   }, 
   "sailnumber": "NOR11363", 
   "name": "ONIRO 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.25, 
       "draft": 1.94, 
+      "wetted_surface": 29.9, 
       "main": 41.4, 
       "genoa": 41.7, 
       "displacement": 7264.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 711.0
     }, 
     "year": "1999"
   }, 

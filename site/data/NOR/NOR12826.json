@@ -5,12 +5,13 @@
       1.1409, 
       1.2959
     ], 
-    "gph": 671.0, 
     "triple_inshore": [
       0.6643, 
       0.9072, 
       1.0693
-    ]
+    ], 
+    "gph": 671.0, 
+    "osn": 651.7
   }, 
   "sailnumber": "NOR12826", 
   "name": "Tai", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.6, 
       "draft": 1.89, 
+      "wetted_surface": 27.1, 
       "main": 33.4, 
       "genoa": 29.0, 
       "displacement": 6028.0, 
-      "spinnaker_asym": 76.0
+      "spinnaker_asym": 76.0, 
+      "crew": 645.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.3159, 
       1.4922
     ], 
-    "gph": 580.0, 
     "triple_inshore": [
       0.7762, 
       1.063, 
       1.2241
-    ]
+    ], 
+    "gph": 580.0, 
+    "osn": 563.2
   }, 
   "sailnumber": "PER066", 
   "name": "CHALLWA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.086, 
       "draft": 2.2, 
+      "wetted_surface": 26.3, 
       "main": 37.0, 
       "genoa": 33.9, 
       "displacement": 4350.0, 
-      "spinnaker_asym": 131.0
+      "spinnaker_asym": 131.0, 
+      "crew": 605.0
     }, 
     "year": "2011"
   }, 

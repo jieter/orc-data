@@ -5,12 +5,13 @@
       1.2873, 
       1.4386
     ], 
-    "gph": 591.3, 
     "triple_inshore": [
       0.7699, 
       1.04, 
       1.2007
-    ]
+    ], 
+    "gph": 591.3, 
+    "osn": 576.1
   }, 
   "sailnumber": "FRA19372", 
   "name": "BLUE SHADOW", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.8, 
       "loa": 12.0, 
       "draft": 2.79, 
+      "wetted_surface": 31.6, 
       "main": 53.8, 
       "genoa": 36.0, 
       "displacement": 6598.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 190.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.0187, 
       1.1371
     ], 
-    "gph": 750.0, 
     "triple_inshore": [
       0.6038, 
       0.8268, 
       0.949
-    ]
+    ], 
+    "gph": 750.0, 
+    "osn": 728.3
   }, 
   "sailnumber": "ITAVENUSI", 
   "name": "VENUSIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 46.7, 
       "loa": 8.5, 
       "draft": 1.6, 
+      "wetted_surface": 14.3, 
       "main": 13.6, 
       "genoa": 25.4, 
       "displacement": 2002.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1979"
   }, 

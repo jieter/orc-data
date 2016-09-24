@@ -5,12 +5,13 @@
       1.1766, 
       1.3143
     ], 
-    "gph": 648.4, 
     "triple_inshore": [
       0.6953, 
       0.9358, 
       1.0806
-    ]
+    ], 
+    "gph": 648.4, 
+    "osn": 632.6
   }, 
   "sailnumber": "ITA12962", 
   "name": "ASFODELO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.293, 
       "draft": 1.89, 
+      "wetted_surface": 28.5, 
       "main": 38.8, 
       "genoa": 38.6, 
       "displacement": 6604.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 540.0
     }, 
     "year": "1990"
   }, 

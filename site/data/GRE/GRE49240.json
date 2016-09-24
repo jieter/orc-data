@@ -5,12 +5,13 @@
       1.0161, 
       1.1641
     ], 
-    "gph": 752.3, 
     "triple_inshore": [
       0.5984, 
       0.8171, 
       0.9776
-    ]
+    ], 
+    "gph": 752.3, 
+    "osn": 729.5
   }, 
   "sailnumber": "GRE49240", 
   "name": "KAPETAN THANASIS KLARAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.4, 
       "loa": 9.363, 
       "draft": 1.81, 
+      "wetted_surface": 21.4, 
       "main": 18.5, 
       "genoa": 28.3, 
       "displacement": 5001.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1978"
   }, 

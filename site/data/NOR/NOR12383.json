@@ -5,12 +5,13 @@
       1.4267, 
       1.6264
     ], 
-    "gph": 529.3, 
     "triple_inshore": [
       0.8735, 
       1.1547, 
       1.3327
-    ]
+    ], 
+    "gph": 529.3, 
+    "osn": 515.9
   }, 
   "sailnumber": "NOR12383", 
   "name": "JYSLA LOYE", 
@@ -25,10 +26,12 @@
       "spinnaker": 161.9, 
       "loa": 12.41, 
       "draft": 2.59, 
+      "wetted_surface": 29.8, 
       "main": 64.8, 
       "genoa": 41.2, 
       "displacement": 4989.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 777.0
     }, 
     "year": "1996"
   }, 

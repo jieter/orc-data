@@ -5,12 +5,13 @@
       1.1157, 
       1.2918
     ], 
-    "gph": 687.3, 
     "triple_inshore": [
       0.6362, 
       0.875, 
       1.0563
-    ]
+    ], 
+    "gph": 687.3, 
+    "osn": 668.1
   }, 
   "sailnumber": "GRE1370", 
   "name": "ATHINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.75, 
       "draft": 1.85, 
+      "wetted_surface": 35.8, 
       "main": 34.6, 
       "genoa": 60.5, 
       "displacement": 11340.0, 
-      "spinnaker_asym": 112.0
+      "spinnaker_asym": 112.0, 
+      "crew": 600.0
     }, 
     "year": "1977"
   }, 

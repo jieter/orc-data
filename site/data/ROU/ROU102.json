@@ -5,12 +5,13 @@
       1.1545, 
       1.3749
     ], 
-    "gph": 672.5, 
     "triple_inshore": [
       0.6261, 
       0.9041, 
       1.1159
-    ]
+    ], 
+    "gph": 672.5, 
+    "osn": 648.0
   }, 
   "sailnumber": "ROU102", 
   "name": "Santa Monica", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.5, 
       "draft": 2.07, 
+      "wetted_surface": 34.0, 
       "main": 31.7, 
       "genoa": 32.5, 
       "displacement": 7003.0, 
-      "spinnaker_asym": 102.0
+      "spinnaker_asym": 102.0, 
+      "crew": 962.0
     }, 
     "year": "2014"
   }, 

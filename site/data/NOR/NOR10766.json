@@ -5,12 +5,13 @@
       1.1201, 
       1.2627
     ], 
-    "gph": 683.2, 
     "triple_inshore": [
       0.6561, 
       0.9029, 
       1.0449
-    ]
+    ], 
+    "gph": 683.2, 
+    "osn": 662.7
   }, 
   "sailnumber": "NOR10766", 
   "name": "Pole Pole", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.3, 
       "draft": 2.14, 
+      "wetted_surface": 20.3, 
       "main": 28.8, 
       "genoa": 19.7, 
       "displacement": 2927.0, 
-      "spinnaker_asym": 77.0
+      "spinnaker_asym": 77.0, 
+      "crew": 566.0
     }, 
     "year": "2002"
   }, 

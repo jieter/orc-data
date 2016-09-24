@@ -5,12 +5,13 @@
       1.0436, 
       1.1667
     ], 
-    "gph": 727.9, 
     "triple_inshore": [
       0.6294, 
       0.8477, 
       0.9728
-    ]
+    ], 
+    "gph": 727.9, 
+    "osn": 709.7
   }, 
   "sailnumber": "NED540", 
   "name": "OLIMAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.4, 
       "loa": 8.73, 
       "draft": 1.59, 
+      "wetted_surface": 15.7, 
       "main": 16.0, 
       "genoa": 31.2, 
       "displacement": 2548.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 378.0
     }, 
     "year": "1972"
   }, 

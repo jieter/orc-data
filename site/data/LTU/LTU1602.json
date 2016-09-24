@@ -5,12 +5,13 @@
       1.1404, 
       1.3041
     ], 
-    "gph": 674.2, 
     "triple_inshore": [
       0.6525, 
       0.9174, 
       1.0941
-    ]
+    ], 
+    "gph": 674.2, 
+    "osn": 652.0
   }, 
   "sailnumber": "LTU1602", 
   "name": "Cocopelli", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.3, 
       "loa": 9.96, 
       "draft": 1.95, 
+      "wetted_surface": 25.2, 
       "main": 27.4, 
       "genoa": 25.5, 
       "displacement": 5247.0, 
-      "spinnaker_asym": 74.0
+      "spinnaker_asym": 74.0, 
+      "crew": 450.0
     }, 
     "year": "2011"
   }, 

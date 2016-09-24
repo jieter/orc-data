@@ -5,12 +5,13 @@
       1.1185, 
       1.2627
     ], 
-    "gph": 681.1, 
     "triple_inshore": [
       0.6662, 
       0.9103, 
       1.0543
-    ]
+    ], 
+    "gph": 681.1, 
+    "osn": 662.1
   }, 
   "sailnumber": "NOR5651", 
   "name": "Tomboy II", 
@@ -25,10 +26,12 @@
       "spinnaker": 47.7, 
       "loa": 9.4, 
       "draft": 1.77, 
+      "wetted_surface": 18.3, 
       "main": 28.2, 
       "genoa": 21.9, 
       "displacement": 2928.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 455.0
     }, 
     "year": "1983"
   }, 

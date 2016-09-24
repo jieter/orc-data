@@ -5,12 +5,13 @@
       1.1525, 
       1.3118
     ], 
-    "gph": 662.1, 
     "triple_inshore": [
       0.6785, 
       0.9314, 
       1.0872
-    ]
+    ], 
+    "gph": 662.1, 
+    "osn": 643.3
   }, 
   "sailnumber": "ARG5162", 
   "name": "THONET & VANDER ST", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.3, 
       "loa": 9.35, 
       "draft": 1.66, 
+      "wetted_surface": 21.5, 
       "main": 33.0, 
       "genoa": 24.0, 
       "displacement": 3615.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 599.0
     }, 
     "year": "1996"
   }, 

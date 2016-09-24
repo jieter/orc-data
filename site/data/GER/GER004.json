@@ -5,12 +5,13 @@
       1.2225, 
       1.3978
     ], 
-    "gph": 615.8, 
     "triple_inshore": [
       0.7494, 
       0.9803, 
       1.136
-    ]
+    ], 
+    "gph": 615.8, 
+    "osn": 602.6
   }, 
   "sailnumber": "GER004", 
   "name": "Hoppetosse", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.99, 
       "draft": 1.97, 
+      "wetted_surface": 16.1, 
       "main": 26.0, 
       "genoa": 18.3, 
       "displacement": 1619.0, 
-      "spinnaker_asym": 77.0
+      "spinnaker_asym": 77.0, 
+      "crew": 425.0
     }, 
     "year": "2012"
   }, 

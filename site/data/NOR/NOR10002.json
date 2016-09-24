@@ -5,12 +5,13 @@
       1.2705, 
       1.4297
     ], 
-    "gph": 600.3, 
     "triple_inshore": [
       0.7499, 
       1.0243, 
       1.1983
-    ]
+    ], 
+    "gph": 600.3, 
+    "osn": 584.7
   }, 
   "sailnumber": "NOR10002", 
   "name": "Grand Tante", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.8, 
       "loa": 11.99, 
       "draft": 2.44, 
+      "wetted_surface": 33.0, 
       "main": 49.4, 
       "genoa": 53.3, 
       "displacement": 7818.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 806.0
     }, 
     "year": "2001"
   }, 

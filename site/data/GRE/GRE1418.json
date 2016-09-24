@@ -5,12 +5,13 @@
       1.1496, 
       1.3059
     ], 
-    "gph": 667.3, 
     "triple_inshore": [
       0.6601, 
       0.9121, 
       1.0697
-    ]
+    ], 
+    "gph": 667.3, 
+    "osn": 648.4
   }, 
   "sailnumber": "GRE1418", 
   "name": "AEGLI", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.5, 
       "loa": 11.001, 
       "draft": 1.57, 
+      "wetted_surface": 26.4, 
       "main": 31.2, 
       "genoa": 35.5, 
       "displacement": 5563.0, 
-      "spinnaker_asym": 71.0
+      "spinnaker_asym": 71.0, 
+      "crew": 633.0
     }, 
     "year": "1998"
   }, 

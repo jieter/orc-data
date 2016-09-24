@@ -5,12 +5,13 @@
       1.0428, 
       1.1874
     ], 
-    "gph": 734.6, 
     "triple_inshore": [
       0.608, 
       0.837, 
       0.9913
-    ]
+    ], 
+    "gph": 734.6, 
+    "osn": 712.5
   }, 
   "sailnumber": "GER372", 
   "name": "ROTHAUT", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.5, 
       "loa": 9.71, 
       "draft": 1.75, 
+      "wetted_surface": 19.4, 
       "main": 16.5, 
       "genoa": 32.5, 
       "displacement": 3848.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1974"
   }, 

@@ -5,12 +5,13 @@
       1.4068, 
       1.5949
     ], 
-    "gph": 535.8, 
     "triple_inshore": [
       0.868, 
       1.1361, 
       1.301
-    ]
+    ], 
+    "gph": 535.8, 
+    "osn": 523.2
   }, 
   "sailnumber": "ITA12999", 
   "name": "MARINARIELLO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.904, 
       "draft": 2.4, 
+      "wetted_surface": 29.0, 
       "main": 63.9, 
       "genoa": 40.0, 
       "displacement": 4919.0, 
-      "spinnaker_asym": 168.0
+      "spinnaker_asym": 168.0, 
+      "crew": 870.0
     }, 
     "year": "1992"
   }, 

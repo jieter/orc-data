@@ -5,12 +5,13 @@
       1.0541, 
       1.209
     ], 
-    "gph": 727.4, 
     "triple_inshore": [
       0.6094, 
       0.8589, 
       1.0256
-    ]
+    ], 
+    "gph": 727.4, 
+    "osn": 703.2
   }, 
   "sailnumber": "NOR15451", 
   "name": "Fata Morgana", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.98, 
       "draft": 1.71, 
+      "wetted_surface": 21.1, 
       "main": 26.6, 
       "genoa": 25.0, 
       "displacement": 3983.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 530.0
     }, 
     "year": "2006"
   }, 

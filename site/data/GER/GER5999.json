@@ -5,12 +5,13 @@
       1.255, 
       1.4226
     ], 
-    "gph": 610.4, 
     "triple_inshore": [
       0.7283, 
       1.0079, 
       1.1852
-    ]
+    ], 
+    "gph": 610.4, 
+    "osn": 593.0
   }, 
   "sailnumber": "GER5999", 
   "name": "WHY NOT", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.2, 
       "loa": 12.12, 
       "draft": 2.04, 
+      "wetted_surface": 30.7, 
       "main": 43.3, 
       "genoa": 36.0, 
       "displacement": 6709.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 570.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.14, 
       1.311
     ], 
-    "gph": 672.3, 
     "triple_inshore": [
       0.6598, 
       0.914, 
       1.0946
-    ]
+    ], 
+    "gph": 672.3, 
+    "osn": 651.3
   }, 
   "sailnumber": "NOR7179", 
   "name": "Eva IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.1, 
       "loa": 10.8, 
       "draft": 1.82, 
+      "wetted_surface": 25.9, 
       "main": 27.8, 
       "genoa": 36.1, 
       "displacement": 5746.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 613.0
     }, 
     "year": "1987"
   }, 

@@ -5,12 +5,13 @@
       1.2592, 
       1.4102
     ], 
-    "gph": 604.6, 
     "triple_inshore": [
       0.7433, 
       1.0113, 
       1.1755
-    ]
+    ], 
+    "gph": 604.6, 
+    "osn": 590.9
   }, 
   "sailnumber": "ESP6790_R", 
   "name": "GUAGUANCO II", 
@@ -25,10 +26,12 @@
       "spinnaker": 112.7, 
       "loa": 11.924, 
       "draft": 2.42, 
+      "wetted_surface": 31.4, 
       "main": 48.1, 
       "genoa": 38.1, 
       "displacement": 7210.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 170.0
     }, 
     "year": "1997"
   }, 

@@ -5,12 +5,13 @@
       1.0971, 
       1.2244
     ], 
-    "gph": 686.7, 
     "triple_inshore": [
       0.6849, 
       0.9022, 
       1.0118
-    ]
+    ], 
+    "gph": 686.7, 
+    "osn": 670.3
   }, 
   "sailnumber": "NED8103", 
   "name": "Picasso", 
@@ -25,10 +26,12 @@
       "spinnaker": 41.1, 
       "loa": 7.347, 
       "draft": 1.43, 
+      "wetted_surface": 11.5, 
       "main": 22.6, 
       "genoa": 12.8, 
       "displacement": 1210.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 332.0
     }, 
     "year": "1988"
   }, 

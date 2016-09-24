@@ -5,12 +5,13 @@
       1.2543, 
       1.4122
     ], 
-    "gph": 607.6, 
     "triple_inshore": [
       0.7415, 
       1.0074, 
       1.1747
-    ]
+    ], 
+    "gph": 607.6, 
+    "osn": 592.4
   }, 
   "sailnumber": "NOR13892", 
   "name": "Bagheera", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.0, 
       "loa": 11.99, 
       "draft": 1.97, 
+      "wetted_surface": 33.4, 
       "main": 51.7, 
       "genoa": 49.1, 
       "displacement": 8031.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 792.0
     }, 
     "year": "1999"
   }, 

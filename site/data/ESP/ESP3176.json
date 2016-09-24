@@ -5,12 +5,13 @@
       1.0821, 
       1.215
     ], 
-    "gph": 704.4, 
     "triple_inshore": [
       0.6447, 
       0.8798, 
       1.0219
-    ]
+    ], 
+    "gph": 704.4, 
+    "osn": 684.7
   }, 
   "sailnumber": "ESP3176", 
   "name": "BALDUFA TRES", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.7, 
       "loa": 8.99, 
       "draft": 1.75, 
+      "wetted_surface": 20.1, 
       "main": 27.6, 
       "genoa": 23.8, 
       "displacement": 3830.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1989"
   }, 

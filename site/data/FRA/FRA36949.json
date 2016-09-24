@@ -5,12 +5,13 @@
       1.1866, 
       1.3718
     ], 
-    "gph": 647.8, 
     "triple_inshore": [
       0.6742, 
       0.9435, 
       1.1339
-    ]
+    ], 
+    "gph": 647.8, 
+    "osn": 627.8
   }, 
   "sailnumber": "FRA36949", 
   "name": "KARIBARIO 6", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.5, 
       "loa": 11.71, 
       "draft": 1.97, 
+      "wetted_surface": 33.6, 
       "main": 37.7, 
       "genoa": 45.2, 
       "displacement": 7490.0, 
-      "spinnaker_asym": 78.0
+      "spinnaker_asym": 78.0, 
+      "crew": 720.0
     }, 
     "year": "1998"
   }, 

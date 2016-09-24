@@ -5,12 +5,13 @@
       1.1652, 
       1.3293
     ], 
-    "gph": 658.6, 
     "triple_inshore": [
       0.672, 
       0.9328, 
       1.1089
-    ]
+    ], 
+    "gph": 658.6, 
+    "osn": 638.4
   }, 
   "sailnumber": "ESP2008", 
   "name": "MESTRAL FAST", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.3, 
       "loa": 11.121, 
       "draft": 1.95, 
+      "wetted_surface": 28.4, 
       "main": 36.8, 
       "genoa": 30.1, 
       "displacement": 6513.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1993"
   }, 

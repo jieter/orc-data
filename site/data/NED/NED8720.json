@@ -5,12 +5,13 @@
       1.1738, 
       1.3488
     ], 
-    "gph": 641.6, 
     "triple_inshore": [
       0.7259, 
       0.9449, 
       1.0966
-    ]
+    ], 
+    "gph": 641.6, 
+    "osn": 626.0
   }, 
   "sailnumber": "NED8720", 
   "name": "Splash test", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.25, 
       "draft": 1.61, 
+      "wetted_surface": 14.2, 
       "main": 26.0, 
       "genoa": 16.1, 
       "displacement": 1327.0, 
-      "spinnaker_asym": 68.0
+      "spinnaker_asym": 68.0, 
+      "crew": 400.0
     }, 
     "year": "1998"
   }, 

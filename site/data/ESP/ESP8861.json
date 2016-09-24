@@ -5,12 +5,13 @@
       1.2517, 
       1.4289
     ], 
-    "gph": 611.4, 
     "triple_inshore": [
       0.7268, 
       1.003, 
       1.1939
-    ]
+    ], 
+    "gph": 611.4, 
+    "osn": 593.7
   }, 
   "sailnumber": "ESP8861", 
   "name": "NOVEMBER", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.6, 
       "loa": 12.112, 
       "draft": 2.21, 
+      "wetted_surface": 34.1, 
       "main": 48.5, 
       "genoa": 46.0, 
       "displacement": 9104.0, 
-      "spinnaker_asym": 109.0
+      "spinnaker_asym": 109.0, 
+      "crew": 750.0
     }, 
     "year": "2006"
   }, 

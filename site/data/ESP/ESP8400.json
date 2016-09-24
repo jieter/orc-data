@@ -5,12 +5,13 @@
       1.2426, 
       1.4162
     ], 
-    "gph": 616.7, 
     "triple_inshore": [
       0.7183, 
       0.9955, 
       1.1772
-    ]
+    ], 
+    "gph": 616.7, 
+    "osn": 598.5
   }, 
   "sailnumber": "ESP8400", 
   "name": "LLEVANT BLAU", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.2, 
       "loa": 12.06, 
       "draft": 2.06, 
+      "wetted_surface": 32.0, 
       "main": 45.0, 
       "genoa": 41.3, 
       "displacement": 7754.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "2002"
   }, 

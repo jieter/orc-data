@@ -5,12 +5,13 @@
       1.0926, 
       1.2346
     ], 
-    "gph": 700.0, 
     "triple_inshore": [
       0.644, 
       0.8823, 
       1.0371
-    ]
+    ], 
+    "gph": 700.0, 
+    "osn": 678.9
   }, 
   "sailnumber": "ESP2697_C", 
   "name": "ALELUYA", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.4, 
       "loa": 10.13, 
       "draft": 1.89, 
+      "wetted_surface": 22.7, 
       "main": 22.7, 
       "genoa": 29.7, 
       "displacement": 4965.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 250.0
     }, 
     "year": "1985"
   }, 

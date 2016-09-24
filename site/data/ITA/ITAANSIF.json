@@ -5,12 +5,13 @@
       1.1334, 
       1.3105
     ], 
-    "gph": 680.6, 
     "triple_inshore": [
       0.6367, 
       0.892, 
       1.0736
-    ]
+    ], 
+    "gph": 680.6, 
+    "osn": 658.8
   }, 
   "sailnumber": "ITAANSIF", 
   "name": "ANSIFE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.25, 
       "draft": 1.89, 
+      "wetted_surface": 29.7, 
       "main": 32.1, 
       "genoa": 38.3, 
       "displacement": 6935.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 580.0
     }, 
     "year": "1999"
   }, 

@@ -5,12 +5,13 @@
       1.2485, 
       1.4104
     ], 
-    "gph": 611.4, 
     "triple_inshore": [
       0.7368, 
       1.0055, 
       1.1643
-    ]
+    ], 
+    "gph": 611.4, 
+    "osn": 593.4
   }, 
   "sailnumber": "CRO1928", 
   "name": "Oscar", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.5, 
       "draft": 2.14, 
+      "wetted_surface": 27.0, 
       "main": 39.0, 
       "genoa": 31.1, 
       "displacement": 5350.0, 
-      "spinnaker_asym": 110.0
+      "spinnaker_asym": 110.0, 
+      "crew": 684.0
     }, 
     "year": "2001"
   }, 

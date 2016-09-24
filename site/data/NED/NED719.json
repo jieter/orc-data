@@ -5,12 +5,13 @@
       1.0095, 
       1.1619
     ], 
-    "gph": 759.7, 
     "triple_inshore": [
       0.5802, 
       0.7988, 
       0.9583
-    ]
+    ], 
+    "gph": 759.7, 
+    "osn": 737.3
   }, 
   "sailnumber": "NED719", 
   "name": "MERYN", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.0, 
       "loa": 9.8, 
       "draft": 1.55, 
+      "wetted_surface": 21.2, 
       "main": 21.3, 
       "genoa": 35.6, 
       "displacement": 5373.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 476.0
     }, 
     "year": "1970"
   }, 

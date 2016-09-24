@@ -5,12 +5,13 @@
       1.3471, 
       1.5401
     ], 
-    "gph": 569.3, 
     "triple_inshore": [
       0.7734, 
       1.0752, 
       1.2801
-    ]
+    ], 
+    "gph": 569.3, 
+    "osn": 553.4
   }, 
   "sailnumber": "ITAEMMEG", 
   "name": "EMMEGIESSE", 
@@ -25,10 +26,12 @@
       "spinnaker": 141.2, 
       "loa": 14.506, 
       "draft": 2.82, 
+      "wetted_surface": 44.7, 
       "main": 64.2, 
       "genoa": 74.8, 
       "displacement": 12549.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1999"
   }, 

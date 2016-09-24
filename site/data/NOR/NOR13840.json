@@ -5,12 +5,13 @@
       1.2567, 
       1.4285
     ], 
-    "gph": 609.1, 
     "triple_inshore": [
       0.7286, 
       0.9989, 
       1.1693
-    ]
+    ], 
+    "gph": 609.1, 
+    "osn": 592.0
   }, 
   "sailnumber": "NOR13840", 
   "name": "Galadriel", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 1.96, 
+      "wetted_surface": 35.0, 
       "main": 51.2, 
       "genoa": 38.7, 
       "displacement": 8023.0, 
-      "spinnaker_asym": 129.0
+      "spinnaker_asym": 129.0, 
+      "crew": 784.0
     }, 
     "year": "2002"
   }, 

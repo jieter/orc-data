@@ -5,12 +5,13 @@
       1.079, 
       1.2393
     ], 
-    "gph": 709.7, 
     "triple_inshore": [
       0.6259, 
       0.8693, 
       1.0372
-    ]
+    ], 
+    "gph": 709.7, 
+    "osn": 688.3
   }, 
   "sailnumber": "NED9002", 
   "name": "Fuut", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.75, 
       "draft": 1.6, 
+      "wetted_surface": 19.4, 
       "main": 24.7, 
       "genoa": 17.0, 
       "displacement": 3416.0, 
-      "spinnaker_asym": 46.0
+      "spinnaker_asym": 46.0, 
+      "crew": 518.0
     }, 
     "year": "1997"
   }, 

@@ -5,12 +5,13 @@
       1.2164, 
       1.3604
     ], 
-    "gph": 625.6, 
     "triple_inshore": [
       0.7287, 
       0.9785, 
       1.1151
-    ]
+    ], 
+    "gph": 625.6, 
+    "osn": 609.8
   }, 
   "sailnumber": "ITA17233", 
   "name": "IL PINGONE DI MARE III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.991, 
       "draft": 1.92, 
+      "wetted_surface": 23.4, 
       "main": 34.6, 
       "genoa": 29.8, 
       "displacement": 4227.0, 
-      "spinnaker_asym": 96.0
+      "spinnaker_asym": 96.0, 
+      "crew": 500.0
     }, 
     "year": "2011"
   }, 

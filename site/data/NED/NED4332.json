@@ -5,12 +5,13 @@
       0.9825, 
       1.1075
     ], 
-    "gph": 774.8, 
     "triple_inshore": [
       0.587, 
       0.7889, 
       0.9202
-    ]
+    ], 
+    "gph": 774.8, 
+    "osn": 754.7
   }, 
   "sailnumber": "NED4332", 
   "name": "FUGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 50.5, 
       "loa": 8.551, 
       "draft": 1.2, 
+      "wetted_surface": 16.8, 
       "main": 16.2, 
       "genoa": 24.0, 
       "displacement": 3466.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 409.0
     }, 
     "year": "1989"
   }, 

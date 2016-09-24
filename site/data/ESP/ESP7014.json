@@ -5,12 +5,13 @@
       1.2269, 
       1.3918
     ], 
-    "gph": 623.0, 
     "triple_inshore": [
       0.7174, 
       0.9864, 
       1.137
-    ]
+    ], 
+    "gph": 623.0, 
+    "osn": 604.9
   }, 
   "sailnumber": "ESP7014", 
   "name": "PORT GINESTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.57, 
       "draft": 1.99, 
+      "wetted_surface": 24.4, 
       "main": 33.9, 
       "genoa": 25.9, 
       "displacement": 3700.0, 
-      "spinnaker_asym": 111.0
+      "spinnaker_asym": 111.0, 
+      "crew": 400.0
     }, 
     "year": "1991"
   }, 

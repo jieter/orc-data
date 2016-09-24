@@ -5,12 +5,13 @@
       1.4778, 
       1.6843
     ], 
-    "gph": 518.2, 
     "triple_inshore": [
       0.8585, 
       1.1764, 
       1.4026
-    ]
+    ], 
+    "gph": 518.2, 
+    "osn": 503.9
   }, 
   "sailnumber": "DEN5455", 
   "name": "BLACK JACK", 
@@ -25,10 +26,12 @@
       "spinnaker": 294.6, 
       "loa": 18.85, 
       "draft": 2.95, 
+      "wetted_surface": 67.4, 
       "main": 109.9, 
       "genoa": 86.8, 
       "displacement": 28012.0, 
-      "spinnaker_asym": 244.0
+      "spinnaker_asym": 244.0, 
+      "crew": 800.0
     }, 
     "year": "1994"
   }, 

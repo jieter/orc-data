@@ -5,12 +5,13 @@
       1.2776, 
       1.4905
     ], 
-    "gph": 603.8, 
     "triple_inshore": [
       0.7131, 
       1.0133, 
       1.2305
-    ]
+    ], 
+    "gph": 603.8, 
+    "osn": 584.3
   }, 
   "sailnumber": "ITA15019", 
   "name": "ATHENA", 
@@ -25,10 +26,12 @@
       "spinnaker": 116.7, 
       "loa": 13.715, 
       "draft": 2.27, 
+      "wetted_surface": 39.7, 
       "main": 51.4, 
       "genoa": 41.6, 
       "displacement": 9511.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2004"
   }, 

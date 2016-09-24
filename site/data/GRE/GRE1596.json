@@ -5,12 +5,13 @@
       1.2164, 
       1.3873
     ], 
-    "gph": 630.2, 
     "triple_inshore": [
       0.7032, 
       0.9735, 
       1.1557
-    ]
+    ], 
+    "gph": 630.2, 
+    "osn": 611.3
   }, 
   "sailnumber": "GRE1596", 
   "name": "FAIRYTALE", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.9, 
       "loa": 11.913, 
       "draft": 2.06, 
+      "wetted_surface": 32.5, 
       "main": 46.3, 
       "genoa": 36.1, 
       "displacement": 7873.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 775.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       1.1743, 
       1.3171
     ], 
-    "gph": 648.8, 
     "triple_inshore": [
       0.7, 
       0.9466, 
       1.0896
-    ]
+    ], 
+    "gph": 648.8, 
+    "osn": 631.4
   }, 
   "sailnumber": "ITA14685", 
   "name": "BONITA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.92, 
       "draft": 2.03, 
+      "wetted_surface": 22.2, 
       "main": 28.3, 
       "genoa": 32.3, 
       "displacement": 3962.0, 
-      "spinnaker_asym": 75.0
+      "spinnaker_asym": 75.0, 
+      "crew": 550.0
     }, 
     "year": "2002"
   }, 

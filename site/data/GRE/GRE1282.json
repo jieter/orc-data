@@ -5,12 +5,13 @@
       1.1937, 
       1.3292
     ], 
-    "gph": 636.9, 
     "triple_inshore": [
       0.7187, 
       0.9632, 
       1.1002
-    ]
+    ], 
+    "gph": 636.9, 
+    "osn": 621.1
   }, 
   "sailnumber": "GRE1282", 
   "name": "ANATELOUSSA AFRODITI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.982, 
       "draft": 2.0, 
+      "wetted_surface": 23.6, 
       "main": 34.8, 
       "genoa": 33.6, 
       "displacement": 4630.0, 
-      "spinnaker_asym": 90.0
+      "spinnaker_asym": 90.0, 
+      "crew": 560.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.2338, 
       1.4063
     ], 
-    "gph": 620.6, 
     "triple_inshore": [
       0.7154, 
       0.9899, 
       1.1683
-    ]
+    ], 
+    "gph": 620.6, 
+    "osn": 602.4
   }, 
   "sailnumber": "NOR13937", 
   "name": "MUSTANG SALLY", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.3, 
       "loa": 11.36, 
       "draft": 2.2, 
+      "wetted_surface": 30.6, 
       "main": 41.9, 
       "genoa": 40.9, 
       "displacement": 6758.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 757.0
     }, 
     "year": "2004"
   }, 

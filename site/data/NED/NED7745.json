@@ -5,12 +5,13 @@
       1.1222, 
       1.289
     ], 
-    "gph": 684.4, 
     "triple_inshore": [
       0.647, 
       0.9055, 
       1.0779
-    ]
+    ], 
+    "gph": 684.4, 
+    "osn": 661.3
   }, 
   "sailnumber": "NED7745", 
   "name": "Wild Romance", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.0, 
       "loa": 9.49, 
       "draft": 1.93, 
+      "wetted_surface": 22.2, 
       "main": 25.5, 
       "genoa": 21.9, 
       "displacement": 3782.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1990"
   }, 

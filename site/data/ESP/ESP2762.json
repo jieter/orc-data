@@ -5,12 +5,13 @@
       1.0489, 
       1.174
     ], 
-    "gph": 725.3, 
     "triple_inshore": [
       0.6319, 
       0.856, 
       0.988
-    ]
+    ], 
+    "gph": 725.3, 
+    "osn": 705.8
   }, 
   "sailnumber": "ESP2762", 
   "name": "BONA VENTURA", 
@@ -25,10 +26,12 @@
       "spinnaker": 53.7, 
       "loa": 8.949, 
       "draft": 1.94, 
+      "wetted_surface": 17.8, 
       "main": 26.1, 
       "genoa": 25.1, 
       "displacement": 3242.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1979"
   }, 

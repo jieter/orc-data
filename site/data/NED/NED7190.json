@@ -5,12 +5,13 @@
       1.3513, 
       1.5286
     ], 
-    "gph": 565.2, 
     "triple_inshore": [
       0.7921, 
       1.0847, 
       1.2737
-    ]
+    ], 
+    "gph": 565.2, 
+    "osn": 550.3
   }, 
   "sailnumber": "NED7190", 
   "name": "Wiper one", 
@@ -25,10 +26,12 @@
       "spinnaker": 139.3, 
       "loa": 13.99, 
       "draft": 2.42, 
+      "wetted_surface": 39.0, 
       "main": 59.6, 
       "genoa": 63.3, 
       "displacement": 10503.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 850.0
     }, 
     "year": "2003"
   }, 

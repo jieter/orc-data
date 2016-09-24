@@ -5,12 +5,13 @@
       1.1675, 
       1.3234
     ], 
-    "gph": 655.7, 
     "triple_inshore": [
       0.6796, 
       0.933, 
       1.094
-    ]
+    ], 
+    "gph": 655.7, 
+    "osn": 637.0
   }, 
   "sailnumber": "ESP6992_C", 
   "name": "SAYONARA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.3, 
       "draft": 1.95, 
+      "wetted_surface": 24.9, 
       "main": 31.4, 
       "genoa": 32.7, 
       "displacement": 5148.0, 
-      "spinnaker_asym": 86.0
+      "spinnaker_asym": 86.0, 
+      "crew": 400.0
     }, 
     "year": "2003"
   }, 

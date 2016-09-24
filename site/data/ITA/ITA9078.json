@@ -5,12 +5,13 @@
       1.0408, 
       1.1551
     ], 
-    "gph": 726.9, 
     "triple_inshore": [
       0.639, 
       0.851, 
       0.964
-    ]
+    ], 
+    "gph": 726.9, 
+    "osn": 710.0
   }, 
   "sailnumber": "ITA9078", 
   "name": "SIR BISS", 
@@ -25,10 +26,12 @@
       "spinnaker": 36.5, 
       "loa": 8.775, 
       "draft": 1.63, 
+      "wetted_surface": 12.9, 
       "main": 22.5, 
       "genoa": 19.9, 
       "displacement": 1931.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 310.0
     }, 
     "year": "1979"
   }, 

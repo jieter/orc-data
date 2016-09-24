@@ -5,12 +5,13 @@
       1.0467, 
       1.1789
     ], 
-    "gph": 727.6, 
     "triple_inshore": [
       0.6281, 
       0.8503, 
       0.9902
-    ]
+    ], 
+    "gph": 727.6, 
+    "osn": 707.1
   }, 
   "sailnumber": "NED7516", 
   "name": "Morning Cloud", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.5, 
       "loa": 9.046, 
       "draft": 1.67, 
+      "wetted_surface": 18.3, 
       "main": 18.1, 
       "genoa": 30.2, 
       "displacement": 3450.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 441.0
     }, 
     "year": "1975"
   }, 

@@ -5,12 +5,13 @@
       1.0632, 
       1.2024
     ], 
-    "gph": 718.8, 
     "triple_inshore": [
       0.6262, 
       0.856, 
       1.0083
-    ]
+    ], 
+    "gph": 718.8, 
+    "osn": 698.0
   }, 
   "sailnumber": "GRE49312", 
   "name": "DOCUMENTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.5, 
       "loa": 9.902, 
       "draft": 1.8, 
+      "wetted_surface": 22.5, 
       "main": 21.7, 
       "genoa": 33.7, 
       "displacement": 4959.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1968"
   }, 

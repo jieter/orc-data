@@ -5,12 +5,13 @@
       1.1063, 
       1.2814
     ], 
-    "gph": 697.9, 
     "triple_inshore": [
       0.6198, 
       0.8779, 
       1.056
-    ]
+    ], 
+    "gph": 697.9, 
+    "osn": 674.5
   }, 
   "sailnumber": "GRE1671", 
   "name": "AMFITRITI", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.6, 
       "loa": 10.4, 
       "draft": 1.66, 
+      "wetted_surface": 26.3, 
       "main": 26.2, 
       "genoa": 33.8, 
       "displacement": 5200.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 663.0
     }, 
     "year": "2002"
   }, 

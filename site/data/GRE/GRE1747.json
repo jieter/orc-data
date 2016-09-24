@@ -5,12 +5,13 @@
       1.0354, 
       1.1942
     ], 
-    "gph": 738.4, 
     "triple_inshore": [
       0.6006, 
       0.8188, 
       0.9811
-    ]
+    ], 
+    "gph": 738.4, 
+    "osn": 718.5
   }, 
   "sailnumber": "GRE1747", 
   "name": "TAXIDEFTIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.89, 
       "draft": 1.65, 
+      "wetted_surface": 21.5, 
       "main": 22.1, 
       "genoa": 26.6, 
       "displacement": 3900.0, 
-      "spinnaker_asym": 58.0
+      "spinnaker_asym": 58.0, 
+      "crew": 650.0
     }, 
     "year": "1974"
   }, 

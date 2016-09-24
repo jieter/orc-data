@@ -5,12 +5,13 @@
       1.0817, 
       1.21
     ], 
-    "gph": 701.4, 
     "triple_inshore": [
       0.658, 
       0.8823, 
       1.02
-    ]
+    ], 
+    "gph": 701.4, 
+    "osn": 683.3
   }, 
   "sailnumber": "NOR5794", 
   "name": "Draumen 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.0, 
       "loa": 9.5, 
       "draft": 1.75, 
+      "wetted_surface": 20.7, 
       "main": 29.9, 
       "genoa": 29.5, 
       "displacement": 4679.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 478.0
     }, 
     "year": "1982"
   }, 

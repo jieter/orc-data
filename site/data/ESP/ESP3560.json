@@ -5,12 +5,13 @@
       1.0525, 
       1.1939
     ], 
-    "gph": 726.8, 
     "triple_inshore": [
       0.6124, 
       0.841, 
       0.9859
-    ]
+    ], 
+    "gph": 726.8, 
+    "osn": 706.7
   }, 
   "sailnumber": "ESP3560", 
   "name": "PINGON", 
@@ -25,10 +26,12 @@
       "spinnaker": 52.5, 
       "loa": 9.43, 
       "draft": 1.41, 
+      "wetted_surface": 20.0, 
       "main": 26.4, 
       "genoa": 25.3, 
       "displacement": 3773.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1985"
   }, 

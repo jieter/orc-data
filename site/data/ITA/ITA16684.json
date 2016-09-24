@@ -5,12 +5,13 @@
       1.1612, 
       1.3171
     ], 
-    "gph": 657.7, 
     "triple_inshore": [
       0.6833, 
       0.94, 
       1.1044
-    ]
+    ], 
+    "gph": 657.7, 
+    "osn": 638.6
   }, 
   "sailnumber": "ITA16684", 
   "name": "TATO 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.5, 
       "loa": 10.025, 
       "draft": 1.91, 
+      "wetted_surface": 24.2, 
       "main": 33.4, 
       "genoa": 32.5, 
       "displacement": 5007.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 620.0
     }, 
     "year": "1998"
   }, 

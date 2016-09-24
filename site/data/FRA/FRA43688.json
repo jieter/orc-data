@@ -5,12 +5,13 @@
       1.4025, 
       1.6036
     ], 
-    "gph": 547.8, 
     "triple_inshore": [
       0.8027, 
       1.1188, 
       1.3282
-    ]
+    ], 
+    "gph": 547.8, 
+    "osn": 531.4
   }, 
   "sailnumber": "FRA43688", 
   "name": "SOIZIC", 
@@ -25,10 +26,12 @@
       "spinnaker": 190.8, 
       "loa": 15.15, 
       "draft": 2.6, 
+      "wetted_surface": 49.0, 
       "main": 72.8, 
       "genoa": 61.6, 
       "displacement": 13791.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1067.0
     }, 
     "year": "2010"
   }, 

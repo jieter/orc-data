@@ -5,12 +5,13 @@
       1.2023, 
       1.3783
     ], 
-    "gph": 639.6, 
     "triple_inshore": [
       0.6781, 
       0.9589, 
       1.1414
-    ]
+    ], 
+    "gph": 639.6, 
+    "osn": 622.3
   }, 
   "sailnumber": "NOR14821", 
   "name": "Calypso", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.13, 
       "draft": 1.83, 
+      "wetted_surface": 26.3, 
       "main": 39.8, 
       "genoa": 33.9, 
       "displacement": 4991.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 689.0
     }, 
     "year": "1983"
   }, 

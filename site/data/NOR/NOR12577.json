@@ -5,12 +5,13 @@
       1.228, 
       1.3766
     ], 
-    "gph": 621.3, 
     "triple_inshore": [
       0.7262, 
       0.9823, 
       1.1341
-    ]
+    ], 
+    "gph": 621.3, 
+    "osn": 605.0
   }, 
   "sailnumber": "NOR12577", 
   "name": "VELELLA III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.3, 
       "draft": 1.86, 
+      "wetted_surface": 30.8, 
       "main": 45.0, 
       "genoa": 33.0, 
       "displacement": 6440.0, 
-      "spinnaker_asym": 106.0
+      "spinnaker_asym": 106.0, 
+      "crew": 764.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       1.1364, 
       1.3185
     ], 
-    "gph": 674.8, 
     "triple_inshore": [
       0.6526, 
       0.9075, 
       1.1007
-    ]
+    ], 
+    "gph": 674.8, 
+    "osn": 654.2
   }, 
   "sailnumber": "NED8365", 
   "name": "4 seasons", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.2, 
       "loa": 10.53, 
       "draft": 1.71, 
+      "wetted_surface": 27.2, 
       "main": 31.6, 
       "genoa": 30.3, 
       "displacement": 6370.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 669.0
     }, 
     "year": "2005"
   }, 

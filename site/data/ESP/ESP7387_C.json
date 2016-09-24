@@ -5,12 +5,13 @@
       1.1629, 
       1.3209
     ], 
-    "gph": 658.0, 
     "triple_inshore": [
       0.6772, 
       0.9292, 
       1.0936
-    ]
+    ], 
+    "gph": 658.0, 
+    "osn": 639.3
   }, 
   "sailnumber": "ESP7387_C", 
   "name": "TATAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.3, 
       "draft": 1.95, 
+      "wetted_surface": 24.9, 
       "main": 34.0, 
       "genoa": 30.2, 
       "displacement": 5148.0, 
-      "spinnaker_asym": 72.0
+      "spinnaker_asym": 72.0, 
+      "crew": 420.0
     }, 
     "year": "2002"
   }, 

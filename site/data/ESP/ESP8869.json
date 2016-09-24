@@ -5,12 +5,13 @@
       1.165, 
       1.3235
     ], 
-    "gph": 656.0, 
     "triple_inshore": [
       0.6808, 
       0.9369, 
       1.1039
-    ]
+    ], 
+    "gph": 656.0, 
+    "osn": 637.4
   }, 
   "sailnumber": "ESP8869", 
   "name": "CHISPETREN", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.1, 
       "loa": 10.3, 
       "draft": 1.97, 
+      "wetted_surface": 25.8, 
       "main": 33.3, 
       "genoa": 33.0, 
       "displacement": 5566.0, 
-      "spinnaker_asym": 79.0
+      "spinnaker_asym": 79.0, 
+      "crew": 600.0
     }, 
     "year": "2003"
   }, 

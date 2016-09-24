@@ -5,12 +5,13 @@
       0.9801, 
       1.1409
     ], 
-    "gph": 784.4, 
     "triple_inshore": [
       0.5572, 
       0.7795, 
       0.9423
-    ]
+    ], 
+    "gph": 784.4, 
+    "osn": 758.7
   }, 
   "sailnumber": "NED8692", 
   "name": "Windfall", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.36, 
       "draft": 1.69, 
+      "wetted_surface": 25.6, 
       "main": 25.5, 
       "genoa": 35.4, 
       "displacement": 7500.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 510.0
     }, 
     "year": "1974"
   }, 

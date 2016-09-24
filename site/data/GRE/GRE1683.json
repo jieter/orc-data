@@ -5,12 +5,13 @@
       1.0642, 
       1.2416
     ], 
-    "gph": 722.9, 
     "triple_inshore": [
       0.5993, 
       0.8328, 
       1.007
-    ]
+    ], 
+    "gph": 722.9, 
+    "osn": 701.0
   }, 
   "sailnumber": "GRE1683", 
   "name": "EROMENI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.37, 
       "draft": 1.5, 
+      "wetted_surface": 26.1, 
       "main": 20.9, 
       "genoa": 32.6, 
       "displacement": 5300.0, 
-      "spinnaker_asym": 59.0
+      "spinnaker_asym": 59.0, 
+      "crew": 633.0
     }, 
     "year": "1994"
   }, 

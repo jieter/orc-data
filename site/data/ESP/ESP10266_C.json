@@ -5,12 +5,13 @@
       1.123, 
       1.2795
     ], 
-    "gph": 676.2, 
     "triple_inshore": [
       0.6761, 
       0.924, 
       1.0646
-    ]
+    ], 
+    "gph": 676.2, 
+    "osn": 655.8
   }, 
   "sailnumber": "ESP10266_C", 
   "name": "DTRES", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.3, 
       "loa": 8.0, 
       "draft": 1.83, 
+      "wetted_surface": 13.4, 
       "main": 21.3, 
       "genoa": 16.9, 
       "displacement": 1534.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 375.0
     }, 
     "year": "1982"
   }, 

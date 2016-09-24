@@ -5,12 +5,13 @@
       1.2997, 
       1.4666
     ], 
-    "gph": 583.3, 
     "triple_inshore": [
       0.7856, 
       1.0441, 
       1.1929
-    ]
+    ], 
+    "gph": 583.3, 
+    "osn": 569.0
   }, 
   "sailnumber": "FRA44113", 
   "name": "CAPADO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.255, 
       "draft": 2.41, 
+      "wetted_surface": 25.0, 
       "main": 46.0, 
       "genoa": 29.2, 
       "displacement": 3852.0, 
-      "spinnaker_asym": 120.0
+      "spinnaker_asym": 120.0, 
+      "crew": 637.0
     }, 
     "year": "2011"
   }, 

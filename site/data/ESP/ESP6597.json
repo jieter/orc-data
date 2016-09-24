@@ -5,12 +5,13 @@
       1.1456, 
       1.3029
     ], 
-    "gph": 668.2, 
     "triple_inshore": [
       0.668, 
       0.9261, 
       1.0938
-    ]
+    ], 
+    "gph": 668.2, 
+    "osn": 647.5
   }, 
   "sailnumber": "ESP6597", 
   "name": "ZALATA", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.3, 
       "loa": 9.78, 
       "draft": 2.11, 
+      "wetted_surface": 24.4, 
       "main": 30.4, 
       "genoa": 30.5, 
       "displacement": 4838.0, 
-      "spinnaker_asym": 76.0
+      "spinnaker_asym": 76.0, 
+      "crew": 615.0
     }, 
     "year": "1996"
   }, 

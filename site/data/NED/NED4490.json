@@ -5,12 +5,13 @@
       1.0439, 
       1.196
     ], 
-    "gph": 734.3, 
     "triple_inshore": [
       0.606, 
       0.8366, 
       0.9932
-    ]
+    ], 
+    "gph": 734.3, 
+    "osn": 711.9
   }, 
   "sailnumber": "NED4490", 
   "name": "WINDOW", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.2, 
       "loa": 9.06, 
       "draft": 1.38, 
+      "wetted_surface": 19.5, 
       "main": 19.2, 
       "genoa": 20.8, 
       "displacement": 3570.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 489.0
     }, 
     "year": "1988"
   }, 

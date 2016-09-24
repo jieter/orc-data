@@ -5,12 +5,13 @@
       1.1308, 
       1.3184
     ], 
-    "gph": 681.3, 
     "triple_inshore": [
       0.6377, 
       0.8998, 
       1.0989
-    ]
+    ], 
+    "gph": 681.3, 
+    "osn": 658.7
   }, 
   "sailnumber": "NOR18088", 
   "name": "mipia II", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.6, 
       "loa": 10.95, 
       "draft": 2.11, 
+      "wetted_surface": 30.0, 
       "main": 34.4, 
       "genoa": 33.8, 
       "displacement": 6901.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 673.0
     }, 
     "year": "2002"
   }, 

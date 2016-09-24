@@ -5,12 +5,13 @@
       1.1003, 
       1.2502
     ], 
-    "gph": 695.9, 
     "triple_inshore": [
       0.6401, 
       0.8872, 
       1.0467
-    ]
+    ], 
+    "gph": 695.9, 
+    "osn": 675.2
   }, 
   "sailnumber": "NED483", 
   "name": "RACEBEVER", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.7, 
       "loa": 9.81, 
       "draft": 1.71, 
+      "wetted_surface": 22.4, 
       "main": 31.3, 
       "genoa": 22.3, 
       "displacement": 4306.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 545.0
     }, 
     "year": "1984"
   }, 

@@ -5,12 +5,13 @@
       1.1313, 
       1.2873
     ], 
-    "gph": 676.9, 
     "triple_inshore": [
       0.6525, 
       0.8884, 
       1.0471
-    ]
+    ], 
+    "gph": 676.9, 
+    "osn": 659.4
   }, 
   "sailnumber": "ESP4074_C", 
   "name": "TAO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.3, 
       "draft": 1.63, 
+      "wetted_surface": 29.6, 
       "main": 31.6, 
       "genoa": 44.0, 
       "displacement": 7078.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 240.0
     }, 
     "year": "1986"
   }, 

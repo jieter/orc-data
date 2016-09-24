@@ -5,12 +5,13 @@
       1.2555, 
       1.4101
     ], 
-    "gph": 605.1, 
     "triple_inshore": [
       0.7533, 
       1.0156, 
       1.1711
-    ]
+    ], 
+    "gph": 605.1, 
+    "osn": 590.1
   }, 
   "sailnumber": "GRE3", 
   "name": "VORRAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.5, 
       "loa": 11.36, 
       "draft": 2.08, 
+      "wetted_surface": 27.0, 
       "main": 40.0, 
       "genoa": 49.2, 
       "displacement": 5074.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "1992"
   }, 

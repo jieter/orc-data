@@ -5,12 +5,13 @@
       1.2221, 
       1.3613
     ], 
-    "gph": 623.6, 
     "triple_inshore": [
       0.7283, 
       0.9822, 
       1.1239
-    ]
+    ], 
+    "gph": 623.6, 
+    "osn": 607.7
   }, 
   "sailnumber": "GRE1451", 
   "name": "MUSUKO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.66, 
       "draft": 2.19, 
+      "wetted_surface": 27.3, 
       "main": 40.9, 
       "genoa": 32.2, 
       "displacement": 5430.0, 
-      "spinnaker_asym": 105.0
+      "spinnaker_asym": 105.0, 
+      "crew": 639.0
     }, 
     "year": "2009"
   }, 

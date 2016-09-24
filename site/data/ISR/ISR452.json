@@ -5,12 +5,13 @@
       1.1325, 
       1.3685
     ], 
-    "gph": 685.3, 
     "triple_inshore": [
       0.6077, 
       0.8761, 
       1.0948
-    ]
+    ], 
+    "gph": 685.3, 
+    "osn": 662.1
   }, 
   "sailnumber": "ISR452", 
   "name": "Solara", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.8, 
       "draft": 2.08, 
+      "wetted_surface": 39.8, 
       "main": 34.9, 
       "genoa": 52.3, 
       "displacement": 10174.0, 
-      "spinnaker_asym": 97.0
+      "spinnaker_asym": 97.0, 
+      "crew": 817.0
     }, 
     "year": "1995"
   }, 

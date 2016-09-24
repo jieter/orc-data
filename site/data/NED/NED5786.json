@@ -5,12 +5,13 @@
       1.1443, 
       1.2739
     ], 
-    "gph": 663.8, 
     "triple_inshore": [
       0.6908, 
       0.9175, 
       1.06
-    ]
+    ], 
+    "gph": 663.8, 
+    "osn": 648.7
   }, 
   "sailnumber": "NED5786", 
   "name": "THOMASVAER", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.4, 
       "loa": 11.075, 
       "draft": 1.94, 
+      "wetted_surface": 30.1, 
       "main": 33.0, 
       "genoa": 54.6, 
       "displacement": 8201.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 525.0
     }, 
     "year": "1994"
   }, 

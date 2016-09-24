@@ -5,12 +5,13 @@
       1.0799, 
       1.1941
     ], 
-    "gph": 701.9, 
     "triple_inshore": [
       0.6579, 
       0.8788, 
       0.9908
-    ]
+    ], 
+    "gph": 701.9, 
+    "osn": 685.7
   }, 
   "sailnumber": "GER3662", 
   "name": "WINDLIESE", 
@@ -25,10 +26,12 @@
       "spinnaker": 49.3, 
       "loa": 8.478, 
       "draft": 1.52, 
+      "wetted_surface": 14.7, 
       "main": 20.6, 
       "genoa": 22.3, 
       "displacement": 2055.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 340.0
     }, 
     "year": "1986"
   }, 

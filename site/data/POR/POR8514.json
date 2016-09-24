@@ -5,12 +5,13 @@
       1.1823, 
       1.3478
     ], 
-    "gph": 646.6, 
     "triple_inshore": [
       0.6916, 
       0.9551, 
       1.1249
-    ]
+    ], 
+    "gph": 646.6, 
+    "osn": 627.1
   }, 
   "sailnumber": "POR8514", 
   "name": "MOBILIDADE", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.3, 
       "loa": 10.28, 
       "draft": 1.93, 
+      "wetted_surface": 24.4, 
       "main": 33.0, 
       "genoa": 32.7, 
       "displacement": 4831.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2003"
   }, 

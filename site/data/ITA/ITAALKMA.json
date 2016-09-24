@@ -5,12 +5,13 @@
       1.0391, 
       1.1641
     ], 
-    "gph": 735.9, 
     "triple_inshore": [
       0.6172, 
       0.8507, 
       0.981
-    ]
+    ], 
+    "gph": 735.9, 
+    "osn": 711.9
   }, 
   "sailnumber": "ITAALKMA", 
   "name": "ALKMAAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 50.5, 
       "loa": 7.5, 
       "draft": 2.55, 
+      "wetted_surface": 15.7, 
       "main": 19.0, 
       "genoa": 17.0, 
       "displacement": 2156.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 310.0
     }, 
     "year": "1994"
   }, 

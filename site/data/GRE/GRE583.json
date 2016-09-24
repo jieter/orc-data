@@ -5,12 +5,13 @@
       1.0161, 
       1.1411
     ], 
-    "gph": 751.4, 
     "triple_inshore": [
       0.6013, 
       0.815, 
       0.9456
-    ]
+    ], 
+    "gph": 751.4, 
+    "osn": 731.4
   }, 
   "sailnumber": "GRE583", 
   "name": "JENY-MARI", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.4, 
       "loa": 9.155, 
       "draft": 1.55, 
+      "wetted_surface": 17.9, 
       "main": 17.4, 
       "genoa": 33.3, 
       "displacement": 3283.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 280.0
     }, 
     "year": "1972"
   }, 

@@ -5,12 +5,13 @@
       0.9789, 
       1.1174
     ], 
-    "gph": 781.0, 
     "triple_inshore": [
       0.5763, 
       0.7909, 
       0.9387
-    ]
+    ], 
+    "gph": 781.0, 
+    "osn": 757.0
   }, 
   "sailnumber": "ESP10105_C", 
   "name": "STRATEGOS II", 
@@ -25,10 +26,12 @@
       "spinnaker": 41.7, 
       "loa": 8.052, 
       "draft": 1.66, 
+      "wetted_surface": 16.1, 
       "main": 14.6, 
       "genoa": 22.6, 
       "displacement": 2920.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 240.0
     }, 
     "year": "1981"
   }, 

@@ -5,12 +5,13 @@
       1.2127, 
       1.3596
     ], 
-    "gph": 628.0, 
     "triple_inshore": [
       0.7229, 
       0.983, 
       1.139
-    ]
+    ], 
+    "gph": 628.0, 
+    "osn": 612.0
   }, 
   "sailnumber": "NOR10055", 
   "name": "Kookaburra", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.3, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.8, 
       "main": 39.6, 
       "genoa": 42.7, 
       "displacement": 5652.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 642.0
     }, 
     "year": "2001"
   }, 

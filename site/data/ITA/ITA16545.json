@@ -5,12 +5,13 @@
       1.1534, 
       1.3141
     ], 
-    "gph": 664.2, 
     "triple_inshore": [
       0.6683, 
       0.9278, 
       1.0987
-    ]
+    ], 
+    "gph": 664.2, 
+    "osn": 644.2
   }, 
   "sailnumber": "ITA16545", 
   "name": "SORA LELLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.982, 
       "draft": 2.02, 
+      "wetted_surface": 24.1, 
       "main": 32.5, 
       "genoa": 21.1, 
       "displacement": 4972.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 500.0
     }, 
     "year": "2005"
   }, 

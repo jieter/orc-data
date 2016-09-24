@@ -5,12 +5,13 @@
       1.1424, 
       1.3236
     ], 
-    "gph": 670.5, 
     "triple_inshore": [
       0.661, 
       0.917, 
       1.0876
-    ]
+    ], 
+    "gph": 670.5, 
+    "osn": 649.1
   }, 
   "sailnumber": "NED8674", 
   "name": "Cetus", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.13, 
       "draft": 1.92, 
+      "wetted_surface": 21.2, 
       "main": 27.1, 
       "genoa": 19.5, 
       "displacement": 3000.0, 
-      "spinnaker_asym": 60.0
+      "spinnaker_asym": 60.0, 
+      "crew": 560.0
     }, 
     "year": "1995"
   }, 

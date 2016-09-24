@@ -5,12 +5,13 @@
       1.2167, 
       1.3768
     ], 
-    "gph": 627.3, 
     "triple_inshore": [
       0.7188, 
       0.9893, 
       1.158
-    ]
+    ], 
+    "gph": 627.3, 
+    "osn": 608.7
   }, 
   "sailnumber": "ISR999", 
   "name": "Salona One", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.6, 
       "loa": 10.336, 
       "draft": 2.14, 
+      "wetted_surface": 25.9, 
       "main": 34.7, 
       "genoa": 33.9, 
       "displacement": 5205.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 633.0
     }, 
     "year": "2012"
   }, 

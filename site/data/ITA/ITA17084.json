@@ -5,12 +5,13 @@
       1.3729, 
       1.5806
     ], 
-    "gph": 560.5, 
     "triple_inshore": [
       0.7777, 
       1.0836, 
       1.2894
-    ]
+    ], 
+    "gph": 560.5, 
+    "osn": 544.0
   }, 
   "sailnumber": "ITA17084", 
   "name": "DONNAROSA2.0", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.99, 
       "draft": 2.2, 
+      "wetted_surface": 53.0, 
       "main": 69.6, 
       "genoa": 70.6, 
       "displacement": 16880.0, 
-      "spinnaker_asym": 213.0
+      "spinnaker_asym": 213.0, 
+      "crew": 800.0
     }, 
     "year": "2015"
   }, 

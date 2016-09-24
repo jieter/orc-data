@@ -5,12 +5,13 @@
       1.2312, 
       1.4126
     ], 
-    "gph": 621.5, 
     "triple_inshore": [
       0.719, 
       0.9927, 
       1.1859
-    ]
+    ], 
+    "gph": 621.5, 
+    "osn": 602.0
   }, 
   "sailnumber": "ESP5696_C", 
   "name": "GARABATO", 
@@ -25,10 +26,12 @@
       "spinnaker": 119.2, 
       "loa": 12.512, 
       "draft": 2.25, 
+      "wetted_surface": 31.9, 
       "main": 41.0, 
       "genoa": 42.2, 
       "displacement": 8091.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 727.0
     }, 
     "year": "1990"
   }, 

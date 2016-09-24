@@ -5,12 +5,13 @@
       1.1583, 
       1.3341
     ], 
-    "gph": 664.3, 
     "triple_inshore": [
       0.6537, 
       0.9282, 
       1.1207
-    ]
+    ], 
+    "gph": 664.3, 
+    "osn": 644.2
   }, 
   "sailnumber": "ITA14737", 
   "name": "PICKA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.215, 
       "draft": 2.08, 
+      "wetted_surface": 29.0, 
       "main": 35.8, 
       "genoa": 40.4, 
       "displacement": 6753.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "2004"
   }, 

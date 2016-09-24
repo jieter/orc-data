@@ -5,12 +5,13 @@
       1.3426, 
       1.5201
     ], 
-    "gph": 571.5, 
     "triple_inshore": [
       0.7721, 
       1.0654, 
       1.2443
-    ]
+    ], 
+    "gph": 571.5, 
+    "osn": 556.2
   }, 
   "sailnumber": "ITA17046", 
   "name": "LET ME SEA !", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.1, 
       "draft": 2.56, 
+      "wetted_surface": 41.2, 
       "main": 64.1, 
       "genoa": 53.2, 
       "displacement": 10545.0, 
-      "spinnaker_asym": 135.0
+      "spinnaker_asym": 135.0, 
+      "crew": 480.0
     }, 
     "year": "2008"
   }, 

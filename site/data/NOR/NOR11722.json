@@ -5,12 +5,13 @@
       1.178, 
       1.3278
     ], 
-    "gph": 648.9, 
     "triple_inshore": [
       0.6927, 
       0.943, 
       1.0953
-    ]
+    ], 
+    "gph": 648.9, 
+    "osn": 630.1
   }, 
   "sailnumber": "NOR11722", 
   "name": "Bellini", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.22, 
       "draft": 1.87, 
+      "wetted_surface": 24.8, 
       "main": 31.9, 
       "genoa": 26.9, 
       "displacement": 4862.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 660.0
     }, 
     "year": "2002"
   }, 

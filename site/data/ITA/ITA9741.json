@@ -5,12 +5,13 @@
       1.2758, 
       1.4412
     ], 
-    "gph": 598.3, 
     "triple_inshore": [
       0.7513, 
       1.0284, 
       1.2
-    ]
+    ], 
+    "gph": 598.3, 
+    "osn": 582.2
   }, 
   "sailnumber": "ITA9741", 
   "name": "HEAVEN CAN WAIT", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.3, 
       "loa": 11.924, 
       "draft": 2.39, 
+      "wetted_surface": 30.5, 
       "main": 46.0, 
       "genoa": 49.5, 
       "displacement": 6573.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "1997"
   }, 

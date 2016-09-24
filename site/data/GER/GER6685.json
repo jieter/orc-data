@@ -5,12 +5,13 @@
       1.2605, 
       1.4373
     ], 
-    "gph": 605.9, 
     "triple_inshore": [
       0.725, 
       1.0005, 
       1.1827
-    ]
+    ], 
+    "gph": 605.9, 
+    "osn": 591.5
   }, 
   "sailnumber": "GER6685", 
   "name": "SCHUDDELFROST", 
@@ -25,10 +26,12 @@
       "spinnaker": 112.7, 
       "loa": 11.99, 
       "draft": 1.96, 
+      "wetted_surface": 34.9, 
       "main": 52.6, 
       "genoa": 38.2, 
       "displacement": 8324.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2005"
   }, 

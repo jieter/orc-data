@@ -5,12 +5,13 @@
       1.1702, 
       1.3097
     ], 
-    "gph": 644.9, 
     "triple_inshore": [
       0.7251, 
       0.956, 
       1.0813
-    ]
+    ], 
+    "gph": 644.9, 
+    "osn": 629.2
   }, 
   "sailnumber": "ITA10491", 
   "name": "AMARCORD", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.9, 
       "loa": 8.911, 
       "draft": 1.76, 
+      "wetted_surface": 14.6, 
       "main": 29.6, 
       "genoa": 22.6, 
       "displacement": 2108.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1985"
   }, 

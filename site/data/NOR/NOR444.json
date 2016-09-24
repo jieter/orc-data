@@ -5,12 +5,13 @@
       1.2433, 
       1.4443
     ], 
-    "gph": 616.1, 
     "triple_inshore": [
       0.7156, 
       0.9883, 
       1.2047
-    ]
+    ], 
+    "gph": 616.1, 
+    "osn": 598.0
   }, 
   "sailnumber": "NOR444", 
   "name": "Moonlight", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.36, 
       "draft": 2.52, 
+      "wetted_surface": 44.1, 
       "main": 51.0, 
       "genoa": 68.3, 
       "displacement": 15633.0, 
-      "spinnaker_asym": 134.0
+      "spinnaker_asym": 134.0, 
+      "crew": 892.0
     }, 
     "year": "1983"
   }, 

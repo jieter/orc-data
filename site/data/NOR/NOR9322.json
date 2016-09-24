@@ -5,12 +5,13 @@
       1.1386, 
       1.2946
     ], 
-    "gph": 672.2, 
     "triple_inshore": [
       0.665, 
       0.9201, 
       1.0794
-    ]
+    ], 
+    "gph": 672.2, 
+    "osn": 651.8
   }, 
   "sailnumber": "NOR9322", 
   "name": "Tarzan", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.9, 
       "loa": 9.85, 
       "draft": 1.93, 
+      "wetted_surface": 22.2, 
       "main": 26.4, 
       "genoa": 30.8, 
       "displacement": 3821.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 586.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.0307, 
       1.1544
     ], 
-    "gph": 737.4, 
     "triple_inshore": [
       0.6208, 
       0.8306, 
       0.9535
-    ]
+    ], 
+    "gph": 737.4, 
+    "osn": 718.7
   }, 
   "sailnumber": "NED8249", 
   "name": "Impala", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.5, 
       "draft": 1.44, 
+      "wetted_surface": 14.9, 
       "main": 19.0, 
       "genoa": 14.7, 
       "displacement": 2162.0, 
-      "spinnaker_asym": 50.0
+      "spinnaker_asym": 50.0, 
+      "crew": 436.0
     }, 
     "year": "2005"
   }, 

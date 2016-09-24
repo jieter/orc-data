@@ -5,12 +5,13 @@
       1.2334, 
       1.416
     ], 
-    "gph": 621.5, 
     "triple_inshore": [
       0.7126, 
       0.9918, 
       1.181
-    ]
+    ], 
+    "gph": 621.5, 
+    "osn": 602.1
   }, 
   "sailnumber": "ESP5412_C", 
   "name": "GLODARO", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.6, 
       "loa": 11.75, 
       "draft": 2.41, 
+      "wetted_surface": 32.4, 
       "main": 43.2, 
       "genoa": 44.1, 
       "displacement": 7177.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 720.0
     }, 
     "year": "1998"
   }, 

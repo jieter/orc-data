@@ -5,12 +5,13 @@
       1.21, 
       1.3586
     ], 
-    "gph": 630.0, 
     "triple_inshore": [
       0.7172, 
       0.9752, 
       1.1331
-    ]
+    ], 
+    "gph": 630.0, 
+    "osn": 613.6
   }, 
   "sailnumber": "ESP8811", 
   "name": "BEAGLE", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.3, 
       "loa": 10.972, 
       "draft": 1.98, 
+      "wetted_surface": 28.5, 
       "main": 42.3, 
       "genoa": 39.2, 
       "displacement": 6462.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2001"
   }, 

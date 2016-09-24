@@ -5,12 +5,13 @@
       1.2288, 
       1.3989
     ], 
-    "gph": 622.4, 
     "triple_inshore": [
       0.7183, 
       0.991, 
       1.163
-    ]
+    ], 
+    "gph": 622.4, 
+    "osn": 603.8
   }, 
   "sailnumber": "NOR10304", 
   "name": "Vind-Erla", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.0, 
       "loa": 11.11, 
       "draft": 2.02, 
+      "wetted_surface": 28.0, 
       "main": 40.9, 
       "genoa": 30.5, 
       "displacement": 5478.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 730.0
     }, 
     "year": "1999"
   }, 

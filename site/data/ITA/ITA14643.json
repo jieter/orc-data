@@ -5,12 +5,13 @@
       1.2326, 
       1.4077
     ], 
-    "gph": 622.3, 
     "triple_inshore": [
       0.7091, 
       0.9868, 
       1.1737
-    ]
+    ], 
+    "gph": 622.3, 
+    "osn": 603.8
   }, 
   "sailnumber": "ITA14643", 
   "name": "GRANDE CESARE", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.0, 
       "loa": 12.016, 
       "draft": 2.18, 
+      "wetted_surface": 32.7, 
       "main": 44.2, 
       "genoa": 42.2, 
       "displacement": 7864.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2000"
   }, 

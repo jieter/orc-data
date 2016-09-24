@@ -5,12 +5,13 @@
       1.0739, 
       1.2035
     ], 
-    "gph": 710.0, 
     "triple_inshore": [
       0.6368, 
       0.858, 
       0.9959
-    ]
+    ], 
+    "gph": 710.0, 
+    "osn": 692.7
   }, 
   "sailnumber": "ITAILLYR", 
   "name": "ILLYRJA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.88, 
       "draft": 1.76, 
+      "wetted_surface": 21.1, 
       "main": 21.1, 
       "genoa": 35.1, 
       "displacement": 4594.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 335.0
     }, 
     "year": "1978"
   }, 

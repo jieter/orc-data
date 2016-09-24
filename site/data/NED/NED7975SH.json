@@ -5,12 +5,13 @@
       1.1723, 
       1.3527
     ], 
-    "gph": 654.4, 
     "triple_inshore": [
       0.6733, 
       0.9315, 
       1.1255
-    ]
+    ], 
+    "gph": 654.4, 
+    "osn": 634.6
   }, 
   "sailnumber": "NED7975SH", 
   "name": "Blue June", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.047, 
       "draft": 2.04, 
+      "wetted_surface": 39.0, 
       "main": 43.2, 
       "genoa": 43.1, 
       "displacement": 11772.0, 
-      "spinnaker_asym": 112.0
+      "spinnaker_asym": 112.0, 
+      "crew": 175.0
     }, 
     "year": "1985"
   }, 

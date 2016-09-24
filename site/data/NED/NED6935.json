@@ -5,12 +5,13 @@
       1.2303, 
       1.4095
     ], 
-    "gph": 620.2, 
     "triple_inshore": [
       0.7185, 
       0.9933, 
       1.1692
-    ]
+    ], 
+    "gph": 620.2, 
+    "osn": 603.0
   }, 
   "sailnumber": "NED6935", 
   "name": "GBR-1", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.3, 
       "loa": 10.632, 
       "draft": 2.0, 
+      "wetted_surface": 25.4, 
       "main": 42.4, 
       "genoa": 30.2, 
       "displacement": 4118.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 662.0
     }, 
     "year": "1991"
   }, 

@@ -5,12 +5,13 @@
       1.1393, 
       1.3177
     ], 
-    "gph": 675.7, 
     "triple_inshore": [
       0.6389, 
       0.9123, 
       1.1039
-    ]
+    ], 
+    "gph": 675.7, 
+    "osn": 654.9
   }, 
   "sailnumber": "NOR14206", 
   "name": "El Torres", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.55, 
       "draft": 1.87, 
+      "wetted_surface": 28.5, 
       "main": 36.0, 
       "genoa": 39.1, 
       "displacement": 6338.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 673.0
     }, 
     "year": "2008"
   }, 

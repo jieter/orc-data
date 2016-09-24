@@ -5,12 +5,13 @@
       1.2434, 
       1.4153
     ], 
-    "gph": 617.4, 
     "triple_inshore": [
       0.7136, 
       0.9907, 
       1.1649
-    ]
+    ], 
+    "gph": 617.4, 
+    "osn": 599.5
   }, 
   "sailnumber": "ITAVIADUE", 
   "name": "VIA2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.924, 
       "draft": 2.41, 
+      "wetted_surface": 31.0, 
       "main": 46.7, 
       "genoa": 49.4, 
       "displacement": 6937.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 640.0
     }, 
     "year": "1997"
   }, 

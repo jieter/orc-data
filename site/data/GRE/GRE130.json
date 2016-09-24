@@ -5,12 +5,13 @@
       1.0005, 
       1.1323
     ], 
-    "gph": 762.9, 
     "triple_inshore": [
       0.597, 
       0.8152, 
       0.9564
-    ]
+    ], 
+    "gph": 762.9, 
+    "osn": 739.5
   }, 
   "sailnumber": "GRE130", 
   "name": "LINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 50.2, 
       "loa": 7.94, 
       "draft": 1.64, 
+      "wetted_surface": 15.6, 
       "main": 12.6, 
       "genoa": 21.8, 
       "displacement": 2736.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 393.0
     }, 
     "year": "1980"
   }, 

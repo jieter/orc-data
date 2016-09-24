@@ -5,12 +5,13 @@
       1.1656, 
       1.3356
     ], 
-    "gph": 657.0, 
     "triple_inshore": [
       0.6762, 
       0.9358, 
       1.1178
-    ]
+    ], 
+    "gph": 657.0, 
+    "osn": 636.9
   }, 
   "sailnumber": "NOR10071", 
   "name": "Dulcinea", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.2, 
       "loa": 10.98, 
       "draft": 2.11, 
+      "wetted_surface": 29.9, 
       "main": 36.0, 
       "genoa": 40.6, 
       "displacement": 6894.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 674.0
     }, 
     "year": "2002"
   }, 

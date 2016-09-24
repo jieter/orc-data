@@ -5,12 +5,13 @@
       1.3062, 
       1.4836
     ], 
-    "gph": 585.2, 
     "triple_inshore": [
       0.7618, 
       1.047, 
       1.2378
-    ]
+    ], 
+    "gph": 585.2, 
+    "osn": 569.4
   }, 
   "sailnumber": "ITA16404", 
   "name": "EUGENIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 144.0, 
       "loa": 13.48, 
       "draft": 2.32, 
+      "wetted_surface": 39.0, 
       "main": 49.1, 
       "genoa": 73.7, 
       "displacement": 10177.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1993"
   }, 

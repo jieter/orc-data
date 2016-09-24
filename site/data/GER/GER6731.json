@@ -5,12 +5,13 @@
       1.1307, 
       1.3108
     ], 
-    "gph": 680.8, 
     "triple_inshore": [
       0.6366, 
       0.9093, 
       1.1047
-    ]
+    ], 
+    "gph": 680.8, 
+    "osn": 658.6
   }, 
   "sailnumber": "GER6731", 
   "name": "PRIDE OF PIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.475, 
       "draft": 2.03, 
+      "wetted_surface": 30.0, 
       "main": 34.1, 
       "genoa": 40.6, 
       "displacement": 7035.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 698.0
     }, 
     "year": "1990"
   }, 

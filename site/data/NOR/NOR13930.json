@@ -5,12 +5,13 @@
       1.1931, 
       1.3765
     ], 
-    "gph": 643.6, 
     "triple_inshore": [
       0.6779, 
       0.9418, 
       1.13
-    ]
+    ], 
+    "gph": 643.6, 
+    "osn": 625.2
   }, 
   "sailnumber": "NOR13930", 
   "name": "Iren II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.73, 
       "draft": 1.8, 
+      "wetted_surface": 35.9, 
       "main": 42.0, 
       "genoa": 47.4, 
       "displacement": 9033.0, 
-      "spinnaker_asym": 101.0
+      "spinnaker_asym": 101.0, 
+      "crew": 762.0
     }, 
     "year": "1986"
   }, 

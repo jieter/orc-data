@@ -5,12 +5,13 @@
       1.2736, 
       1.4399
     ], 
-    "gph": 600.6, 
     "triple_inshore": [
       0.7468, 
       1.0281, 
       1.2059
-    ]
+    ], 
+    "gph": 600.6, 
+    "osn": 583.1
   }, 
   "sailnumber": "GER6011", 
   "name": "LUTZIFER", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.9, 
       "loa": 11.84, 
       "draft": 2.41, 
+      "wetted_surface": 31.4, 
       "main": 44.3, 
       "genoa": 39.6, 
       "displacement": 7057.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2003"
   }, 

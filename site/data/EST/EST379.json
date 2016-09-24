@@ -5,12 +5,13 @@
       1.1962, 
       1.3537
     ], 
-    "gph": 638.6, 
     "triple_inshore": [
       0.7044, 
       0.9689, 
       1.1364
-    ]
+    ], 
+    "gph": 638.6, 
+    "osn": 619.6
   }, 
   "sailnumber": "EST379", 
   "name": "AMSERV TOYOTA ST", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.8, 
       "loa": 10.64, 
       "draft": 2.24, 
+      "wetted_surface": 27.2, 
       "main": 37.3, 
       "genoa": 36.1, 
       "displacement": 5941.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 695.0
     }, 
     "year": "2001"
   }, 

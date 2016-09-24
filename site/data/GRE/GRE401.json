@@ -5,12 +5,13 @@
       0.9549, 
       1.1078
     ], 
-    "gph": 804.7, 
     "triple_inshore": [
       0.5465, 
       0.7592, 
       0.9205
-    ]
+    ], 
+    "gph": 804.7, 
+    "osn": 778.8
   }, 
   "sailnumber": "GRE401", 
   "name": "DORIAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.85, 
       "draft": 1.64, 
+      "wetted_surface": 18.8, 
       "main": 14.6, 
       "genoa": 22.9, 
       "displacement": 3720.0, 
-      "spinnaker_asym": 47.0
+      "spinnaker_asym": 47.0, 
+      "crew": 250.0
     }, 
     "year": "1979"
   }, 

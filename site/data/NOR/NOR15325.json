@@ -5,12 +5,13 @@
       1.2017, 
       1.398
     ], 
-    "gph": 638.5, 
     "triple_inshore": [
       0.6874, 
       0.9512, 
       1.1511
-    ]
+    ], 
+    "gph": 638.5, 
+    "osn": 619.3
   }, 
   "sailnumber": "NOR15325", 
   "name": "FEM", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.98, 
       "draft": 2.09, 
+      "wetted_surface": 33.9, 
       "main": 40.8, 
       "genoa": 39.7, 
       "displacement": 8638.0, 
-      "spinnaker_asym": 98.0
+      "spinnaker_asym": 98.0, 
+      "crew": 767.0
     }, 
     "year": "2014"
   }, 

@@ -5,12 +5,13 @@
       1.1363, 
       1.2839
     ], 
-    "gph": 664.1, 
     "triple_inshore": [
       0.6997, 
       0.9273, 
       1.0522
-    ]
+    ], 
+    "gph": 664.1, 
+    "osn": 647.9
   }, 
   "sailnumber": "NOR3167", 
   "name": "Tiger Shark", 
@@ -25,10 +26,12 @@
       "spinnaker": 40.8, 
       "loa": 8.5, 
       "draft": 1.39, 
+      "wetted_surface": 12.9, 
       "main": 23.8, 
       "genoa": 17.3, 
       "displacement": 1492.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 369.0
     }, 
     "year": "1979"
   }, 

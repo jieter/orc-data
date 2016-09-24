@@ -5,12 +5,13 @@
       1.2164, 
       1.4116
     ], 
-    "gph": 632.5, 
     "triple_inshore": [
       0.6864, 
       0.9594, 
       1.1563
-    ]
+    ], 
+    "gph": 632.5, 
+    "osn": 613.6
   }, 
   "sailnumber": "ITA16392", 
   "name": "PULCE 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.6, 
       "draft": 2.1, 
+      "wetted_surface": 35.1, 
       "main": 39.8, 
       "genoa": 48.4, 
       "displacement": 8734.0, 
-      "spinnaker_asym": 92.0
+      "spinnaker_asym": 92.0, 
+      "crew": 500.0
     }, 
     "year": "2009"
   }, 

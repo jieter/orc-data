@@ -5,12 +5,13 @@
       1.1203, 
       1.2698
     ], 
-    "gph": 685.0, 
     "triple_inshore": [
       0.6436, 
       0.883, 
       1.0372
-    ]
+    ], 
+    "gph": 685.0, 
+    "osn": 666.5
   }, 
   "sailnumber": "ISR8888", 
   "name": "Crystal", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.56, 
       "draft": 1.5, 
+      "wetted_surface": 26.8, 
       "main": 40.3, 
       "genoa": 27.5, 
       "displacement": 6474.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 300.0
     }, 
     "year": "2001"
   }, 

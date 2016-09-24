@@ -5,12 +5,13 @@
       1.1348, 
       1.3105
     ], 
-    "gph": 666.1, 
     "triple_inshore": [
       0.6916, 
       0.9154, 
       1.0653
-    ]
+    ], 
+    "gph": 666.1, 
+    "osn": 647.7
   }, 
   "sailnumber": "ITA24042", 
   "name": "VACO A VIENTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.495, 
       "draft": 1.67, 
+      "wetted_surface": 12.4, 
       "main": 18.8, 
       "genoa": 12.6, 
       "displacement": 1057.0, 
-      "spinnaker_asym": 52.0
+      "spinnaker_asym": 52.0, 
+      "crew": 401.0
     }, 
     "year": "1994"
   }, 

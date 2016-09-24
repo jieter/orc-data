@@ -5,12 +5,13 @@
       1.143, 
       1.272
     ], 
-    "gph": 651.5, 
     "triple_inshore": [
       0.7398, 
       0.9296, 
       1.0402
-    ]
+    ], 
+    "gph": 651.5, 
+    "osn": 641.1
   }, 
   "sailnumber": "ITA13246", 
   "name": "SCIATT", 
@@ -25,10 +26,12 @@
       "spinnaker": 40.0, 
       "loa": 7.513, 
       "draft": 1.63, 
+      "wetted_surface": 11.8, 
       "main": 28.0, 
       "genoa": 18.2, 
       "displacement": 1115.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 380.0
     }, 
     "year": "1998"
   }, 

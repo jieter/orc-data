@@ -5,12 +5,13 @@
       1.1748, 
       1.325
     ], 
-    "gph": 650.6, 
     "triple_inshore": [
       0.6882, 
       0.9472, 
       1.1044
-    ]
+    ], 
+    "gph": 650.6, 
+    "osn": 632.2
   }, 
   "sailnumber": "NOR11892", 
   "name": "Bua", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.7, 
       "loa": 10.3, 
       "draft": 1.94, 
+      "wetted_surface": 25.2, 
       "main": 35.9, 
       "genoa": 31.6, 
       "displacement": 5174.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 613.0
     }, 
     "year": "2002"
   }, 

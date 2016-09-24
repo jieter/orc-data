@@ -5,12 +5,13 @@
       1.2177, 
       1.3752
     ], 
-    "gph": 624.6, 
     "triple_inshore": [
       0.7188, 
       0.972, 
       1.118
-    ]
+    ], 
+    "gph": 624.6, 
+    "osn": 609.9
   }, 
   "sailnumber": "NOR15", 
   "name": "Cayenne", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.79, 
       "draft": 1.91, 
+      "wetted_surface": 22.9, 
       "main": 31.8, 
       "genoa": 27.0, 
       "displacement": 3682.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 585.0
     }, 
     "year": "2007"
   }, 

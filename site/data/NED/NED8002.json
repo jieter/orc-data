@@ -5,12 +5,13 @@
       1.239, 
       1.4041
     ], 
-    "gph": 615.9, 
     "triple_inshore": [
       0.7324, 
       1.0036, 
       1.1801
-    ]
+    ], 
+    "gph": 615.9, 
+    "osn": 597.8
   }, 
   "sailnumber": "NED8002", 
   "name": "Virtue", 
@@ -25,10 +26,12 @@
       "spinnaker": 114.1, 
       "loa": 11.345, 
       "draft": 2.04, 
+      "wetted_surface": 29.0, 
       "main": 43.7, 
       "genoa": 33.1, 
       "displacement": 6927.0, 
-      "spinnaker_asym": 104.0
+      "spinnaker_asym": 104.0, 
+      "crew": 714.0
     }, 
     "year": "2004"
   }, 

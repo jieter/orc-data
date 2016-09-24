@@ -5,12 +5,13 @@
       1.1764, 
       1.3354
     ], 
-    "gph": 649.4, 
     "triple_inshore": [
       0.6898, 
       0.9341, 
       1.1
-    ]
+    ], 
+    "gph": 649.4, 
+    "osn": 631.8
   }, 
   "sailnumber": "ESP6817_C", 
   "name": "MATADOR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.95, 
       "draft": 1.99, 
+      "wetted_surface": 31.9, 
       "main": 37.4, 
       "genoa": 43.0, 
       "displacement": 8365.0, 
-      "spinnaker_asym": 105.0
+      "spinnaker_asym": 105.0, 
+      "crew": 600.0
     }, 
     "year": "1995"
   }, 

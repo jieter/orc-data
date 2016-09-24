@@ -5,12 +5,13 @@
       1.2111, 
       1.3735
     ], 
-    "gph": 630.1, 
     "triple_inshore": [
       0.7156, 
       0.9695, 
       1.1484
-    ]
+    ], 
+    "gph": 630.1, 
+    "osn": 612.9
   }, 
   "sailnumber": "FRA99A", 
   "name": "SOLANO", 
@@ -25,10 +26,12 @@
       "spinnaker": 144.2, 
       "loa": 13.442, 
       "draft": 2.22, 
+      "wetted_surface": 37.3, 
       "main": 38.9, 
       "genoa": 65.9, 
       "displacement": 12178.0, 
-      "spinnaker_asym": 141.0
+      "spinnaker_asym": 141.0, 
+      "crew": 772.0
     }, 
     "year": "1972"
   }, 

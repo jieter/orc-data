@@ -5,12 +5,13 @@
       1.381, 
       1.5473
     ], 
-    "gph": 553.0, 
     "triple_inshore": [
       0.8144, 
       1.1117, 
       1.2759
-    ]
+    ], 
+    "gph": 553.0, 
+    "osn": 538.1
   }, 
   "sailnumber": "RUS7777", 
   "name": "X-PRIME", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.305, 
       "draft": 2.71, 
+      "wetted_surface": 39.6, 
       "main": 64.8, 
       "genoa": 49.1, 
       "displacement": 9759.0, 
-      "spinnaker_asym": 195.0
+      "spinnaker_asym": 195.0, 
+      "crew": 870.0
     }, 
     "year": "2010"
   }, 

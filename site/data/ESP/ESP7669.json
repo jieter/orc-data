@@ -5,12 +5,13 @@
       1.255, 
       1.4184
     ], 
-    "gph": 609.3, 
     "triple_inshore": [
       0.7324, 
       1.0047, 
       1.1732
-    ]
+    ], 
+    "gph": 609.3, 
+    "osn": 593.0
   }, 
   "sailnumber": "ESP7669", 
   "name": "KALAMANDURRIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 114.4, 
       "loa": 12.06, 
       "draft": 2.06, 
+      "wetted_surface": 31.1, 
       "main": 49.2, 
       "genoa": 37.4, 
       "displacement": 7108.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 700.0
     }, 
     "year": "2003"
   }, 

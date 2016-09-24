@@ -5,12 +5,13 @@
       1.0712, 
       1.2077
     ], 
-    "gph": 712.5, 
     "triple_inshore": [
       0.6341, 
       0.8728, 
       1.0144
-    ]
+    ], 
+    "gph": 712.5, 
+    "osn": 692.0
   }, 
   "sailnumber": "NED6414", 
   "name": "RED PLANET", 
@@ -25,10 +26,12 @@
       "spinnaker": 46.1, 
       "loa": 9.0, 
       "draft": 1.8, 
+      "wetted_surface": 19.1, 
       "main": 23.7, 
       "genoa": 25.5, 
       "displacement": 2964.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 427.0
     }, 
     "year": "1995"
   }, 

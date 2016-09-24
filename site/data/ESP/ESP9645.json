@@ -5,12 +5,13 @@
       1.1978, 
       1.3432
     ], 
-    "gph": 635.4, 
     "triple_inshore": [
       0.7169, 
       0.9733, 
       1.1244
-    ]
+    ], 
+    "gph": 635.4, 
+    "osn": 618.8
   }, 
   "sailnumber": "ESP9645", 
   "name": "YAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.0, 
       "loa": 9.982, 
       "draft": 2.0, 
+      "wetted_surface": 23.4, 
       "main": 34.6, 
       "genoa": 35.6, 
       "displacement": 4581.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 524.0
     }, 
     "year": "2005"
   }, 

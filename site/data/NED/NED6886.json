@@ -5,12 +5,13 @@
       1.234, 
       1.3929
     ], 
-    "gph": 617.7, 
     "triple_inshore": [
       0.7335, 
       1.0021, 
       1.1654
-    ]
+    ], 
+    "gph": 617.7, 
+    "osn": 600.7
   }, 
   "sailnumber": "NED6886", 
   "name": "CHILLOUT!", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.0, 
       "loa": 10.757, 
       "draft": 2.12, 
+      "wetted_surface": 25.8, 
       "main": 37.1, 
       "genoa": 38.1, 
       "displacement": 4853.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 631.0
     }, 
     "year": "2001"
   }, 

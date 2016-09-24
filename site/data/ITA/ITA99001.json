@@ -5,12 +5,13 @@
       1.3266, 
       1.5079
     ], 
-    "gph": 566.7, 
     "triple_inshore": [
       0.8238, 
       1.071, 
       1.2468
-    ]
+    ], 
+    "gph": 566.7, 
+    "osn": 554.2
   }, 
   "sailnumber": "ITA99001", 
   "name": "ESSENZIALE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 2.1, 
+      "wetted_surface": 19.8, 
       "main": 39.3, 
       "genoa": 25.2, 
       "displacement": 2237.0, 
-      "spinnaker_asym": 107.0
+      "spinnaker_asym": 107.0, 
+      "crew": 400.0
     }, 
     "year": "2008"
   }, 

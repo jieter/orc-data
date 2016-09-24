@@ -5,12 +5,13 @@
       1.0335, 
       1.166
     ], 
-    "gph": 736.8, 
     "triple_inshore": [
       0.6173, 
       0.8421, 
       0.9728
-    ]
+    ], 
+    "gph": 736.8, 
+    "osn": 715.9
   }, 
   "sailnumber": "ITA10058", 
   "name": "GULLIVER", 
@@ -25,10 +26,12 @@
       "spinnaker": 35.4, 
       "loa": 8.014, 
       "draft": 1.51, 
+      "wetted_surface": 12.6, 
       "main": 17.8, 
       "genoa": 14.9, 
       "displacement": 1746.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1979"
   }, 

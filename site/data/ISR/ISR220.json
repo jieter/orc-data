@@ -5,12 +5,13 @@
       0.9916, 
       1.1256
     ], 
-    "gph": 771.5, 
     "triple_inshore": [
       0.5858, 
       0.8171, 
       0.9494
-    ]
+    ], 
+    "gph": 771.5, 
+    "osn": 744.4
   }, 
   "sailnumber": "ISR220", 
   "name": "Peach", 
@@ -25,10 +26,12 @@
       "spinnaker": 33.7, 
       "loa": 6.4, 
       "draft": 2.11, 
+      "wetted_surface": 12.3, 
       "main": 16.2, 
       "genoa": 12.0, 
       "displacement": 1197.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 349.0
     }, 
     "year": "1998"
   }, 

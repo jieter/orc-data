@@ -5,12 +5,13 @@
       1.1702, 
       1.3231
     ], 
-    "gph": 647.4, 
     "triple_inshore": [
       0.6996, 
       0.9344, 
       1.0663
-    ]
+    ], 
+    "gph": 647.4, 
+    "osn": 633.8
   }, 
   "sailnumber": "SWE11128", 
   "name": "Calypso", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.5, 
       "draft": 1.77, 
+      "wetted_surface": 20.2, 
       "main": 25.6, 
       "genoa": 28.1, 
       "displacement": 2809.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 542.0
     }, 
     "year": "1999"
   }, 

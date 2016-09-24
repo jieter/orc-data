@@ -5,12 +5,13 @@
       1.1485, 
       1.3218
     ], 
-    "gph": 667.3, 
     "triple_inshore": [
       0.6637, 
       0.919, 
       1.1073
-    ]
+    ], 
+    "gph": 667.3, 
+    "osn": 646.9
   }, 
   "sailnumber": "GRE1391", 
   "name": "ANASTASIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.72, 
       "draft": 2.19, 
+      "wetted_surface": 31.9, 
       "main": 33.2, 
       "genoa": 44.3, 
       "displacement": 8457.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 500.0
     }, 
     "year": "1982"
   }, 

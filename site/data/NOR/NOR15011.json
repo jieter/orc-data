@@ -5,12 +5,13 @@
       1.1656, 
       1.2939
     ], 
-    "gph": 653.1, 
     "triple_inshore": [
       0.6961, 
       0.9383, 
       1.072
-    ]
+    ], 
+    "gph": 653.1, 
+    "osn": 637.6
   }, 
   "sailnumber": "NOR15011", 
   "name": "Makaira", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.7, 
       "draft": 1.79, 
+      "wetted_surface": 24.7, 
       "main": 35.0, 
       "genoa": 33.3, 
       "displacement": 5044.0, 
-      "spinnaker_asym": 104.0
+      "spinnaker_asym": 104.0, 
+      "crew": 590.0
     }, 
     "year": "1985"
   }, 

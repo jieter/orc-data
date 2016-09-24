@@ -5,12 +5,13 @@
       1.2787, 
       1.43
     ], 
-    "gph": 594.1, 
     "triple_inshore": [
       0.7713, 
       1.041, 
       1.2033
-    ]
+    ], 
+    "gph": 594.1, 
+    "osn": 578.7
   }, 
   "sailnumber": "ITA12358", 
   "name": "MISSKAPPA IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 112.4, 
       "loa": 12.008, 
       "draft": 2.65, 
+      "wetted_surface": 29.0, 
       "main": 43.8, 
       "genoa": 51.7, 
       "displacement": 6306.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1985"
   }, 

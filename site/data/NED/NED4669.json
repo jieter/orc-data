@@ -5,12 +5,13 @@
       1.2164, 
       1.4087
     ], 
-    "gph": 634.1, 
     "triple_inshore": [
       0.6822, 
       0.968, 
       1.1616
-    ]
+    ], 
+    "gph": 634.1, 
+    "osn": 613.2
   }, 
   "sailnumber": "NED4669", 
   "name": "RIETJE", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.6, 
       "loa": 12.337, 
       "draft": 1.88, 
+      "wetted_surface": 27.9, 
       "main": 40.4, 
       "genoa": 24.1, 
       "displacement": 5746.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 749.0
     }, 
     "year": "1987"
   }, 

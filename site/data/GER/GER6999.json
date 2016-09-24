@@ -5,12 +5,13 @@
       1.5231, 
       1.7755
     ], 
-    "gph": 498.2, 
     "triple_inshore": [
       0.903, 
       1.2077, 
       1.4274
-    ]
+    ], 
+    "gph": 498.2, 
+    "osn": 485.4
   }, 
   "sailnumber": "GER6999", 
   "name": "SILVA NEO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.788, 
       "draft": 2.6, 
+      "wetted_surface": 32.0, 
       "main": 62.4, 
       "genoa": 45.1, 
       "displacement": 4293.0, 
-      "spinnaker_asym": 182.0
+      "spinnaker_asym": 182.0, 
+      "crew": 900.0
     }, 
     "year": "2008"
   }, 

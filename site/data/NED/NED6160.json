@@ -5,12 +5,13 @@
       1.2197, 
       1.3852
     ], 
-    "gph": 626.6, 
     "triple_inshore": [
       0.7163, 
       0.9807, 
       1.1347
-    ]
+    ], 
+    "gph": 626.6, 
+    "osn": 607.9
   }, 
   "sailnumber": "NED6160", 
   "name": "I had a dream", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.57, 
       "draft": 2.0, 
+      "wetted_surface": 24.8, 
       "main": 34.3, 
       "genoa": 27.3, 
       "displacement": 3911.0, 
-      "spinnaker_asym": 88.0
+      "spinnaker_asym": 88.0, 
+      "crew": 480.0
     }, 
     "year": "1992"
   }, 

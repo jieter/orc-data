@@ -5,12 +5,13 @@
       0.9764, 
       1.1252
     ], 
-    "gph": 786.4, 
     "triple_inshore": [
       0.5603, 
       0.7808, 
       0.936
-    ]
+    ], 
+    "gph": 786.4, 
+    "osn": 762.0
   }, 
   "sailnumber": "GER2470", 
   "name": "DWARS - GATT", 
@@ -25,10 +26,12 @@
       "spinnaker": 49.7, 
       "loa": 8.745, 
       "draft": 1.63, 
+      "wetted_surface": 18.6, 
       "main": 17.2, 
       "genoa": 21.9, 
       "displacement": 3055.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1975"
   }, 

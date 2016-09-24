@@ -5,12 +5,13 @@
       1.3025, 
       1.4754
     ], 
-    "gph": 586.7, 
     "triple_inshore": [
       0.7627, 
       1.0482, 
       1.227
-    ]
+    ], 
+    "gph": 586.7, 
+    "osn": 570.6
   }, 
   "sailnumber": "ITA15083", 
   "name": "NAMBAWAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 116.2, 
       "loa": 12.48, 
       "draft": 2.35, 
+      "wetted_surface": 32.5, 
       "main": 52.0, 
       "genoa": 43.0, 
       "displacement": 7247.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 675.0
     }, 
     "year": "2005"
   }, 

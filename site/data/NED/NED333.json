@@ -5,12 +5,13 @@
       1.2335, 
       1.386
     ], 
-    "gph": 615.9, 
     "triple_inshore": [
       0.7415, 
       0.9953, 
       1.1351
-    ]
+    ], 
+    "gph": 615.9, 
+    "osn": 600.1
   }, 
   "sailnumber": "NED333", 
   "name": "Xposure", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 1.91, 
+      "wetted_surface": 23.2, 
       "main": 35.2, 
       "genoa": 27.8, 
       "displacement": 4127.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 589.0
     }, 
     "year": "2013"
   }, 

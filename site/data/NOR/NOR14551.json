@@ -5,12 +5,13 @@
       1.1776, 
       1.3554
     ], 
-    "gph": 650.1, 
     "triple_inshore": [
       0.6675, 
       0.9344, 
       1.1252
-    ]
+    ], 
+    "gph": 650.1, 
+    "osn": 633.8
   }, 
   "sailnumber": "NOR14551", 
   "name": "Luna", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.3, 
       "loa": 10.5, 
       "draft": 1.87, 
+      "wetted_surface": 28.5, 
       "main": 33.3, 
       "genoa": 30.6, 
       "displacement": 6338.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 673.0
     }, 
     "year": "2010"
   }, 

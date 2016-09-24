@@ -5,12 +5,13 @@
       1.268, 
       1.4479
     ], 
-    "gph": 606.2, 
     "triple_inshore": [
       0.7217, 
       1.0077, 
       1.1925
-    ]
+    ], 
+    "gph": 606.2, 
+    "osn": 588.8
   }, 
   "sailnumber": "GER6779", 
   "name": "CHACOSITO", 
@@ -25,10 +26,12 @@
       "spinnaker": 112.0, 
       "loa": 12.4, 
       "draft": 2.14, 
+      "wetted_surface": 39.1, 
       "main": 55.1, 
       "genoa": 40.7, 
       "displacement": 8819.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 640.0
     }, 
     "year": "2010"
   }, 

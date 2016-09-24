@@ -5,12 +5,13 @@
       1.047, 
       1.1991
     ], 
-    "gph": 730.5, 
     "triple_inshore": [
       0.5935, 
       0.8274, 
       0.9958
-    ]
+    ], 
+    "gph": 730.5, 
+    "osn": 714.5
   }, 
   "sailnumber": "ESP10311_C", 
   "name": "NORTH FACE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.2, 
       "draft": 1.74, 
+      "wetted_surface": 19.3, 
       "main": 17.6, 
       "genoa": 26.6, 
       "displacement": 3415.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1988"
   }, 

@@ -5,12 +5,13 @@
       1.1944, 
       1.4241
     ], 
-    "gph": 634.7, 
     "triple_inshore": [
       0.7098, 
       0.9449, 
       1.1282
-    ]
+    ], 
+    "gph": 634.7, 
+    "osn": 616.2
   }, 
   "sailnumber": "GER20", 
   "name": "NARVAL", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.5, 
       "loa": 7.15, 
       "draft": 1.56, 
+      "wetted_surface": 10.6, 
       "main": 21.2, 
       "genoa": 12.1, 
       "displacement": 626.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 250.0
     }, 
     "year": "2000"
   }, 

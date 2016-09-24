@@ -5,12 +5,13 @@
       1.3149, 
       1.5
     ], 
-    "gph": 582.2, 
     "triple_inshore": [
       0.7618, 
       1.0553, 
       1.2471
-    ]
+    ], 
+    "gph": 582.2, 
+    "osn": 565.3
   }, 
   "sailnumber": "ITA16808", 
   "name": "TAGORA", 
@@ -25,10 +26,12 @@
       "spinnaker": 122.3, 
       "loa": 12.95, 
       "draft": 2.28, 
+      "wetted_surface": 36.1, 
       "main": 54.1, 
       "genoa": 53.0, 
       "displacement": 8948.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1130.0
     }, 
     "year": "2005"
   }, 

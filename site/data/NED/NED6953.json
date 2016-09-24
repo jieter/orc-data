@@ -5,12 +5,13 @@
       1.3312, 
       1.5053
     ], 
-    "gph": 573.7, 
     "triple_inshore": [
       0.7839, 
       1.0759, 
       1.2514
-    ]
+    ], 
+    "gph": 573.7, 
+    "osn": 557.7
   }, 
   "sailnumber": "NED6953", 
   "name": "FLIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 139.4, 
       "loa": 12.469, 
       "draft": 2.7, 
+      "wetted_surface": 33.1, 
       "main": 48.5, 
       "genoa": 42.0, 
       "displacement": 6669.0, 
-      "spinnaker_asym": 121.0
+      "spinnaker_asym": 121.0, 
+      "crew": 700.0
     }, 
     "year": "1996"
   }, 

@@ -5,12 +5,13 @@
       1.4006, 
       1.5806
     ], 
-    "gph": 539.1, 
     "triple_inshore": [
       0.857, 
       1.1329, 
       1.299
-    ]
+    ], 
+    "gph": 539.1, 
+    "osn": 526.7
   }, 
   "sailnumber": "GRE48", 
   "name": "BANA BIOLETTA 4", 
@@ -25,10 +26,12 @@
       "spinnaker": 139.0, 
       "loa": 12.49, 
       "draft": 2.58, 
+      "wetted_surface": 31.1, 
       "main": 66.5, 
       "genoa": 49.9, 
       "displacement": 5846.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 760.0
     }, 
     "year": "1995"
   }, 

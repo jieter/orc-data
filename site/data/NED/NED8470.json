@@ -5,12 +5,13 @@
       1.1691, 
       1.3077
     ], 
-    "gph": 653.2, 
     "triple_inshore": [
       0.6918, 
       0.9394, 
       1.0873
-    ]
+    ], 
+    "gph": 653.2, 
+    "osn": 635.0
   }, 
   "sailnumber": "NED8470", 
   "name": "Tyger", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.0, 
       "draft": 2.14, 
+      "wetted_surface": 25.4, 
       "main": 32.8, 
       "genoa": 24.6, 
       "displacement": 4927.0, 
-      "spinnaker_asym": 85.0
+      "spinnaker_asym": 85.0, 
+      "crew": 170.0
     }, 
     "year": "2013"
   }, 

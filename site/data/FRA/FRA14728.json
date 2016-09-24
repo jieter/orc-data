@@ -5,12 +5,13 @@
       1.001, 
       1.1318
     ], 
-    "gph": 763.3, 
     "triple_inshore": [
       0.5934, 
       0.8097, 
       0.9483
-    ]
+    ], 
+    "gph": 763.3, 
+    "osn": 740.3
   }, 
   "sailnumber": "FRA14728", 
   "name": "VULCAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 47.2, 
       "loa": 8.248, 
       "draft": 1.66, 
+      "wetted_surface": 16.0, 
       "main": 14.7, 
       "genoa": 23.1, 
       "displacement": 2770.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1973"
   }, 

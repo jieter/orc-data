@@ -5,12 +5,13 @@
       0.9822, 
       1.0928
     ], 
-    "gph": 774.2, 
     "triple_inshore": [
       0.5936, 
       0.7988, 
       0.9119
-    ]
+    ], 
+    "gph": 774.2, 
+    "osn": 753.3
   }, 
   "sailnumber": "ESP10198", 
   "name": "XIC", 
@@ -25,10 +26,12 @@
       "spinnaker": 46.4, 
       "loa": 7.635, 
       "draft": 1.51, 
+      "wetted_surface": 15.2, 
       "main": 16.1, 
       "genoa": 23.9, 
       "displacement": 2550.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1981"
   }, 

@@ -5,12 +5,13 @@
       1.2294, 
       1.3935
     ], 
-    "gph": 622.8, 
     "triple_inshore": [
       0.7147, 
       0.9819, 
       1.1464
-    ]
+    ], 
+    "gph": 622.8, 
+    "osn": 604.4
   }, 
   "sailnumber": "ESP10240", 
   "name": "COTA CERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.97, 
       "draft": 2.18, 
+      "wetted_surface": 28.9, 
       "main": 41.1, 
       "genoa": 30.2, 
       "displacement": 6090.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 699.0
     }, 
     "year": "2012"
   }, 

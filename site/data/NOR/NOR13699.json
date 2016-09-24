@@ -5,12 +5,13 @@
       1.168, 
       1.374
     ], 
-    "gph": 659.8, 
     "triple_inshore": [
       0.6533, 
       0.9252, 
       1.1357
-    ]
+    ], 
+    "gph": 659.8, 
+    "osn": 638.5
   }, 
   "sailnumber": "NOR13699", 
   "name": "Arion", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.1, 
       "loa": 11.52, 
       "draft": 2.01, 
+      "wetted_surface": 32.2, 
       "main": 32.0, 
       "genoa": 41.3, 
       "displacement": 7536.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 736.0
     }, 
     "year": "2007"
   }, 

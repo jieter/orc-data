@@ -5,12 +5,13 @@
       1.1545, 
       1.3275
     ], 
-    "gph": 665.2, 
     "triple_inshore": [
       0.6607, 
       0.9118, 
       1.0934
-    ]
+    ], 
+    "gph": 665.2, 
+    "osn": 645.5
   }, 
   "sailnumber": "GRE1138", 
   "name": "TSIPOURO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.25, 
       "draft": 2.03, 
+      "wetted_surface": 33.8, 
       "main": 38.2, 
       "genoa": 40.8, 
       "displacement": 8944.0, 
-      "spinnaker_asym": 92.0
+      "spinnaker_asym": 92.0, 
+      "crew": 650.0
     }, 
     "year": "1985"
   }, 

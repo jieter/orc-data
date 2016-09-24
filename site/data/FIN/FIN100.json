@@ -5,12 +5,13 @@
       1.2728, 
       1.4384
     ], 
-    "gph": 599.6, 
     "triple_inshore": [
       0.7484, 
       1.0243, 
       1.1934
-    ]
+    ], 
+    "gph": 599.6, 
+    "osn": 583.7
   }, 
   "sailnumber": "FIN100", 
   "name": "Aquamarine", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.3, 
       "loa": 11.995, 
       "draft": 2.1, 
+      "wetted_surface": 32.5, 
       "main": 52.0, 
       "genoa": 47.2, 
       "displacement": 7370.0, 
-      "spinnaker_asym": 87.0
+      "spinnaker_asym": 87.0, 
+      "crew": 730.0
     }, 
     "year": "2001"
   }, 

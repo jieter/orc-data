@@ -5,12 +5,13 @@
       1.4786, 
       1.715
     ], 
-    "gph": 515.3, 
     "triple_inshore": [
       0.86, 
       1.1748, 
       1.3734
-    ]
+    ], 
+    "gph": 515.3, 
+    "osn": 502.1
   }, 
   "sailnumber": "NOR114", 
   "name": "FRYD", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.19, 
       "draft": 3.01, 
+      "wetted_surface": 37.0, 
       "main": 74.9, 
       "genoa": 44.1, 
       "displacement": 5483.0, 
-      "spinnaker_asym": 185.0
+      "spinnaker_asym": 185.0, 
+      "crew": 948.0
     }, 
     "year": "2012"
   }, 

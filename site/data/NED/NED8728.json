@@ -5,12 +5,13 @@
       1.0415, 
       1.2005
     ], 
-    "gph": 739.7, 
     "triple_inshore": [
       0.5935, 
       0.8345, 
       0.997
-    ]
+    ], 
+    "gph": 739.7, 
+    "osn": 714.6
   }, 
   "sailnumber": "NED8728", 
   "name": "Samei", 
@@ -25,10 +26,12 @@
       "spinnaker": 50.3, 
       "loa": 9.24, 
       "draft": 1.7, 
+      "wetted_surface": 18.4, 
       "main": 20.4, 
       "genoa": 22.6, 
       "displacement": 3200.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 461.0
     }, 
     "year": "1983"
   }, 

@@ -5,12 +5,13 @@
       1.1177, 
       1.2855
     ], 
-    "gph": 687.5, 
     "triple_inshore": [
       0.6319, 
       0.8932, 
       1.075
-    ]
+    ], 
+    "gph": 687.5, 
+    "osn": 668.0
   }, 
   "sailnumber": "ITA11728", 
   "name": "MAY BE III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.1, 
       "draft": 2.04, 
+      "wetted_surface": 28.1, 
       "main": 33.5, 
       "genoa": 44.3, 
       "displacement": 6431.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1988"
   }, 

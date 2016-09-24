@@ -5,12 +5,13 @@
       1.1121, 
       1.2722
     ], 
-    "gph": 690.6, 
     "triple_inshore": [
       0.6387, 
       0.8831, 
       1.052
-    ]
+    ], 
+    "gph": 690.6, 
+    "osn": 669.4
   }, 
   "sailnumber": "GRE1343", 
   "name": "MARY LOU", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.025, 
       "draft": 1.94, 
+      "wetted_surface": 25.0, 
       "main": 31.9, 
       "genoa": 31.3, 
       "displacement": 5497.0, 
-      "spinnaker_asym": 74.0
+      "spinnaker_asym": 74.0, 
+      "crew": 570.0
     }, 
     "year": "2003"
   }, 

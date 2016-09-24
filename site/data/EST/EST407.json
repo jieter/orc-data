@@ -5,12 +5,13 @@
       1.202, 
       1.3555
     ], 
-    "gph": 634.9, 
     "triple_inshore": [
       0.7111, 
       0.9749, 
       1.1381
-    ]
+    ], 
+    "gph": 634.9, 
+    "osn": 616.6
   }, 
   "sailnumber": "EST407", 
   "name": "SILVA", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.2, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.7, 
       "main": 37.0, 
       "genoa": 36.5, 
       "displacement": 5780.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 610.0
     }, 
     "year": "2001"
   }, 

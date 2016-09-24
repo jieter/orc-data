@@ -5,12 +5,13 @@
       1.1397, 
       1.3238
     ], 
-    "gph": 673.7, 
     "triple_inshore": [
       0.6508, 
       0.9077, 
       1.1053
-    ]
+    ], 
+    "gph": 673.7, 
+    "osn": 652.6
   }, 
   "sailnumber": "ESP9937_C", 
   "name": "ISABELLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.23, 
       "draft": 1.93, 
+      "wetted_surface": 32.3, 
       "main": 33.6, 
       "genoa": 34.6, 
       "displacement": 7870.0, 
-      "spinnaker_asym": 85.0
+      "spinnaker_asym": 85.0, 
+      "crew": 350.0
     }, 
     "year": "2011"
   }, 

@@ -5,12 +5,13 @@
       1.214, 
       1.377
     ], 
-    "gph": 625.8, 
     "triple_inshore": [
       0.7181, 
       0.9833, 
       1.1397
-    ]
+    ], 
+    "gph": 625.8, 
+    "osn": 610.4
   }, 
   "sailnumber": "NOR13882", 
   "name": "El Dragon III", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.3, 
       "loa": 9.55, 
       "draft": 1.96, 
+      "wetted_surface": 20.3, 
       "main": 29.8, 
       "genoa": 23.5, 
       "displacement": 3318.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 548.0
     }, 
     "year": "2008"
   }, 

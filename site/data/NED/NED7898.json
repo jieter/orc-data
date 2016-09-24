@@ -5,12 +5,13 @@
       1.2144, 
       1.3882
     ], 
-    "gph": 630.4, 
     "triple_inshore": [
       0.7061, 
       0.9711, 
       1.1568
-    ]
+    ], 
+    "gph": 630.4, 
+    "osn": 611.9
   }, 
   "sailnumber": "NED7898", 
   "name": "Crazy D", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.9, 
       "loa": 12.402, 
       "draft": 2.02, 
+      "wetted_surface": 33.2, 
       "main": 45.1, 
       "genoa": 36.0, 
       "displacement": 8897.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 560.0
     }, 
     "year": "2007"
   }, 

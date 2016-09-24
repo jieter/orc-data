@@ -5,12 +5,13 @@
       1.0608, 
       1.175
     ], 
-    "gph": 715.2, 
     "triple_inshore": [
       0.6475, 
       0.8635, 
       0.9852
-    ]
+    ], 
+    "gph": 715.2, 
+    "osn": 697.9
   }, 
   "sailnumber": "ITA8613", 
   "name": "MORNING GLORY", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.3, 
       "loa": 9.16, 
       "draft": 1.67, 
+      "wetted_surface": 17.5, 
       "main": 19.2, 
       "genoa": 32.2, 
       "displacement": 3379.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 380.0
     }, 
     "year": "1977"
   }, 

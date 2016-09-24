@@ -5,12 +5,13 @@
       1.0417, 
       1.1962
     ], 
-    "gph": 733.3, 
     "triple_inshore": [
       0.6086, 
       0.8227, 
       0.9828
-    ]
+    ], 
+    "gph": 733.3, 
+    "osn": 713.9
   }, 
   "sailnumber": "NED8268", 
   "name": "Namorado de Verao", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.1, 
       "draft": 1.5, 
+      "wetted_surface": 22.3, 
       "main": 23.3, 
       "genoa": 23.4, 
       "displacement": 5028.0, 
-      "spinnaker_asym": 61.0
+      "spinnaker_asym": 61.0, 
+      "crew": 500.0
     }, 
     "year": "1983"
   }, 

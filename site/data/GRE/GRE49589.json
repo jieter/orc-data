@@ -5,12 +5,13 @@
       1.0619, 
       1.2074
     ], 
-    "gph": 720.1, 
     "triple_inshore": [
       0.6238, 
       0.8567, 
       1.0119
-    ]
+    ], 
+    "gph": 720.1, 
+    "osn": 698.3
   }, 
   "sailnumber": "GRE49589", 
   "name": "NATASSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.9, 
       "loa": 9.25, 
       "draft": 1.81, 
+      "wetted_surface": 21.5, 
       "main": 21.4, 
       "genoa": 31.9, 
       "displacement": 4255.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 510.0
     }, 
     "year": "1983"
   }, 

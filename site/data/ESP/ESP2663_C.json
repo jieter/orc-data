@@ -5,12 +5,13 @@
       1.0191, 
       1.1312
     ], 
-    "gph": 740.4, 
     "triple_inshore": [
       0.6334, 
       0.8393, 
       0.9414
-    ]
+    ], 
+    "gph": 740.4, 
+    "osn": 722.9
   }, 
   "sailnumber": "ESP2663_C", 
   "name": "BRAV PIRAT", 
@@ -25,10 +26,12 @@
       "spinnaker": 32.8, 
       "loa": 7.7, 
       "draft": 1.26, 
+      "wetted_surface": 11.3, 
       "main": 20.8, 
       "genoa": 14.9, 
       "displacement": 1435.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1977"
   }, 

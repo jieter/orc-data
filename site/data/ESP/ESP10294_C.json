@@ -5,12 +5,13 @@
       1.0843, 
       1.2113
     ], 
-    "gph": 703.2, 
     "triple_inshore": [
       0.6444, 
       0.87, 
       1.0073
-    ]
+    ], 
+    "gph": 703.2, 
+    "osn": 685.8
   }, 
   "sailnumber": "ESP10294_C", 
   "name": "ENTRE DOS AZULES", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.1, 
       "loa": 10.345, 
       "draft": 1.78, 
+      "wetted_surface": 22.3, 
       "main": 25.2, 
       "genoa": 47.3, 
       "displacement": 4900.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1974"
   }, 

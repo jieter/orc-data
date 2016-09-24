@@ -5,12 +5,13 @@
       1.1411, 
       1.3103
     ], 
-    "gph": 676.1, 
     "triple_inshore": [
       0.6407, 
       0.9034, 
       1.08
-    ]
+    ], 
+    "gph": 676.1, 
+    "osn": 654.8
   }, 
   "sailnumber": "GRE1122", 
   "name": "KATERINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.0, 
       "loa": 11.92, 
       "draft": 1.92, 
+      "wetted_surface": 27.9, 
       "main": 30.7, 
       "genoa": 47.3, 
       "displacement": 6300.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1990"
   }, 

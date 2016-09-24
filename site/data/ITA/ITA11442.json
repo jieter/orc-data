@@ -5,12 +5,13 @@
       1.1347, 
       1.2741
     ], 
-    "gph": 671.7, 
     "triple_inshore": [
       0.6758, 
       0.917, 
       1.0643
-    ]
+    ], 
+    "gph": 671.7, 
+    "osn": 654.0
   }, 
   "sailnumber": "ITA11442", 
   "name": "HELSINGOR", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.1, 
       "loa": 10.23, 
       "draft": 1.89, 
+      "wetted_surface": 22.1, 
       "main": 25.9, 
       "genoa": 37.8, 
       "displacement": 4606.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 520.0
     }, 
     "year": "1988"
   }, 

@@ -5,12 +5,13 @@
       1.313, 
       1.4997
     ], 
-    "gph": 584.6, 
     "triple_inshore": [
       0.7543, 
       1.0484, 
       1.245
-    ]
+    ], 
+    "gph": 584.6, 
+    "osn": 567.0
   }, 
   "sailnumber": "ITA14609", 
   "name": "WIRELESS", 
@@ -25,10 +26,12 @@
       "spinnaker": 143.8, 
       "loa": 13.72, 
       "draft": 2.38, 
+      "wetted_surface": 41.5, 
       "main": 58.0, 
       "genoa": 50.5, 
       "displacement": 11225.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 890.0
     }, 
     "year": "2003"
   }, 

@@ -5,12 +5,13 @@
       1.1786, 
       1.3069
     ], 
-    "gph": 638.7, 
     "triple_inshore": [
       0.7169, 
       0.9529, 
       1.085
-    ]
+    ], 
+    "gph": 638.7, 
+    "osn": 629.6
   }, 
   "sailnumber": "HUN879", 
   "name": "Kepi", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.5, 
       "loa": 9.994, 
       "draft": 1.52, 
+      "wetted_surface": 21.1, 
       "main": 35.5, 
       "genoa": 32.8, 
       "displacement": 3950.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1981"
   }, 

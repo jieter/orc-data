@@ -5,12 +5,13 @@
       1.3631, 
       1.5597
     ], 
-    "gph": 563.2, 
     "triple_inshore": [
       0.7807, 
       1.0876, 
       1.2808
-    ]
+    ], 
+    "gph": 563.2, 
+    "osn": 547.0
   }, 
   "sailnumber": "ESP7777_C", 
   "name": "SEVENS", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.6, 
       "loa": 13.585, 
       "draft": 2.9, 
+      "wetted_surface": 34.1, 
       "main": 60.6, 
       "genoa": 37.5, 
       "displacement": 6583.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1996"
   }, 

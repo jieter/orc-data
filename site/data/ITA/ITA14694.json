@@ -5,12 +5,13 @@
       1.4085, 
       1.5886
     ], 
-    "gph": 538.9, 
     "triple_inshore": [
       0.8445, 
       1.1404, 
       1.3258
-    ]
+    ], 
+    "gph": 538.9, 
+    "osn": 525.8
   }, 
   "sailnumber": "ITA14694", 
   "name": "CORATGE", 
@@ -25,10 +26,12 @@
       "spinnaker": 153.4, 
       "loa": 13.829, 
       "draft": 2.83, 
+      "wetted_surface": 38.5, 
       "main": 77.7, 
       "genoa": 55.8, 
       "displacement": 9821.0, 
-      "spinnaker_asym": 153.0
+      "spinnaker_asym": 153.0, 
+      "crew": 985.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.1457, 
       1.298
     ], 
-    "gph": 664.2, 
     "triple_inshore": [
       0.6842, 
       0.9269, 
       1.0657
-    ]
+    ], 
+    "gph": 664.2, 
+    "osn": 646.5
   }, 
   "sailnumber": "FRA35161", 
   "name": "ALISANDRE", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.8, 
       "loa": 8.5, 
       "draft": 1.77, 
+      "wetted_surface": 20.2, 
       "main": 31.1, 
       "genoa": 19.8, 
       "displacement": 2800.0, 
-      "spinnaker_asym": 57.0
+      "spinnaker_asym": 57.0, 
+      "crew": 360.0
     }, 
     "year": "1999"
   }, 

@@ -5,12 +5,13 @@
       1.1595, 
       1.3651
     ], 
-    "gph": 665.9, 
     "triple_inshore": [
       0.6411, 
       0.9141, 
       1.1269
-    ]
+    ], 
+    "gph": 665.9, 
+    "osn": 644.2
   }, 
   "sailnumber": "GRE1368", 
   "name": "DIMITRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.1, 
       "loa": 11.93, 
       "draft": 1.85, 
+      "wetted_surface": 32.8, 
       "main": 40.0, 
       "genoa": 32.3, 
       "displacement": 8283.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2004"
   }, 

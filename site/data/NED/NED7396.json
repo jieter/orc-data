@@ -5,12 +5,13 @@
       1.1683, 
       1.3321
     ], 
-    "gph": 657.5, 
     "triple_inshore": [
       0.6745, 
       0.9413, 
       1.1151
-    ]
+    ], 
+    "gph": 657.5, 
+    "osn": 635.7
   }, 
   "sailnumber": "NED7396", 
   "name": "Whisper", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.5, 
       "loa": 10.45, 
       "draft": 2.12, 
+      "wetted_surface": 27.0, 
       "main": 29.3, 
       "genoa": 30.7, 
       "displacement": 5339.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 460.0
     }, 
     "year": "2003"
   }, 

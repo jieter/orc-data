@@ -5,12 +5,13 @@
       1.0083, 
       1.137
     ], 
-    "gph": 756.9, 
     "triple_inshore": [
       0.5972, 
       0.8157, 
       0.9507
-    ]
+    ], 
+    "gph": 756.9, 
+    "osn": 735.4
   }, 
   "sailnumber": "ITA16876", 
   "name": "TAO TAO", 
@@ -25,10 +26,12 @@
       "spinnaker": 53.8, 
       "loa": 8.455, 
       "draft": 1.61, 
+      "wetted_surface": 16.0, 
       "main": 16.2, 
       "genoa": 23.9, 
       "displacement": 2743.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1979"
   }, 

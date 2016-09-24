@@ -5,12 +5,13 @@
       1.1864, 
       1.3294
     ], 
-    "gph": 641.0, 
     "triple_inshore": [
       0.7058, 
       0.9544, 
       1.1035
-    ]
+    ], 
+    "gph": 641.0, 
+    "osn": 626.5
   }, 
   "sailnumber": "FRA1403B", 
   "name": "ARTABAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.1, 
       "loa": 10.992, 
       "draft": 1.7, 
+      "wetted_surface": 26.4, 
       "main": 39.5, 
       "genoa": 43.3, 
       "displacement": 5449.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 635.0
     }, 
     "year": "1988"
   }, 

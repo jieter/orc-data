@@ -5,12 +5,13 @@
       1.0373, 
       1.1864
     ], 
-    "gph": 738.1, 
     "triple_inshore": [
       0.6045, 
       0.8335, 
       0.9879
-    ]
+    ], 
+    "gph": 738.1, 
+    "osn": 716.0
   }, 
   "sailnumber": "ITA10818", 
   "name": "TARANTELLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.0, 
       "loa": 9.005, 
       "draft": 1.68, 
+      "wetted_surface": 17.3, 
       "main": 16.5, 
       "genoa": 27.0, 
       "displacement": 3016.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 390.0
     }, 
     "year": "1983"
   }, 

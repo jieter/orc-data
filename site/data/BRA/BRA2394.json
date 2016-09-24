@@ -5,12 +5,13 @@
       1.1403, 
       1.2865
     ], 
-    "gph": 668.5, 
     "triple_inshore": [
       0.6792, 
       0.9275, 
       1.0777
-    ]
+    ], 
+    "gph": 668.5, 
+    "osn": 649.2
   }, 
   "sailnumber": "BRA2394", 
   "name": "BRAVISSIMO 4", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.3, 
       "loa": 9.15, 
       "draft": 1.78, 
+      "wetted_surface": 21.2, 
       "main": 30.3, 
       "genoa": 22.1, 
       "displacement": 3720.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 520.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       1.0621, 
       1.2428
     ], 
-    "gph": 725.3, 
     "triple_inshore": [
       0.591, 
       0.845, 
       1.0341
-    ]
+    ], 
+    "gph": 725.3, 
+    "osn": 703.0
   }, 
   "sailnumber": "ESP10154_C", 
   "name": "KAIROS III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.85, 
       "draft": 1.51, 
+      "wetted_surface": 23.4, 
       "main": 27.8, 
       "genoa": 30.5, 
       "displacement": 4603.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 539.0
     }, 
     "year": "2005"
   }, 

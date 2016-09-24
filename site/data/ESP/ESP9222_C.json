@@ -5,12 +5,13 @@
       1.0928, 
       1.2549
     ], 
-    "gph": 702.3, 
     "triple_inshore": [
       0.6226, 
       0.8691, 
       1.045
-    ]
+    ], 
+    "gph": 702.3, 
+    "osn": 681.8
   }, 
   "sailnumber": "ESP9222_C", 
   "name": "MAXGUAY", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.9, 
       "loa": 10.566, 
       "draft": 1.94, 
+      "wetted_surface": 26.5, 
       "main": 27.5, 
       "genoa": 44.3, 
       "displacement": 6583.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1979"
   }, 

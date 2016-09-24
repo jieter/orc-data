@@ -5,12 +5,13 @@
       1.2216, 
       1.3854
     ], 
-    "gph": 626.3, 
     "triple_inshore": [
       0.7103, 
       0.9771, 
       1.1347
-    ]
+    ], 
+    "gph": 626.3, 
+    "osn": 609.2
   }, 
   "sailnumber": "ITA16599", 
   "name": "FIORDILUNA", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.0, 
       "loa": 10.98, 
       "draft": 1.92, 
+      "wetted_surface": 26.8, 
       "main": 40.5, 
       "genoa": 31.4, 
       "displacement": 4681.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "2011"
   }, 

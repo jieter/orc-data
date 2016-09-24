@@ -5,12 +5,13 @@
       1.1541, 
       1.2997
     ], 
-    "gph": 661.6, 
     "triple_inshore": [
       0.6778, 
       0.9254, 
       1.0673
-    ]
+    ], 
+    "gph": 661.6, 
+    "osn": 644.4
   }, 
   "sailnumber": "NOR12136", 
   "name": "Synzygus", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.3, 
       "loa": 10.0, 
       "draft": 1.53, 
+      "wetted_surface": 22.1, 
       "main": 28.9, 
       "genoa": 36.2, 
       "displacement": 3683.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 575.0
     }, 
     "year": "1996"
   }, 

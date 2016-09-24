@@ -5,12 +5,13 @@
       1.0728, 
       1.2022
     ], 
-    "gph": 708.5, 
     "triple_inshore": [
       0.6455, 
       0.8663, 
       1.0037
-    ]
+    ], 
+    "gph": 708.5, 
+    "osn": 691.0
   }, 
   "sailnumber": "NED4799", 
   "name": "Waai", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.4, 
       "loa": 9.483, 
       "draft": 1.62, 
+      "wetted_surface": 20.0, 
       "main": 21.6, 
       "genoa": 39.2, 
       "displacement": 4413.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 495.0
     }, 
     "year": "1975"
   }, 

@@ -5,12 +5,13 @@
       1.0109, 
       1.1806
     ], 
-    "gph": 764.6, 
     "triple_inshore": [
       0.5632, 
       0.8093, 
       0.9854
-    ]
+    ], 
+    "gph": 764.6, 
+    "osn": 736.8
   }, 
   "sailnumber": "ITAALGAT", 
   "name": "ALGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.45, 
       "draft": 1.48, 
+      "wetted_surface": 21.9, 
       "main": 24.7, 
       "genoa": 24.9, 
       "displacement": 4502.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1993"
   }, 

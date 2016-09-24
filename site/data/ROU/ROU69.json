@@ -5,12 +5,13 @@
       1.3947, 
       1.5895
     ], 
-    "gph": 543.9, 
     "triple_inshore": [
       0.8347, 
       1.1235, 
       1.299
-    ]
+    ], 
+    "gph": 543.9, 
+    "osn": 530.4
   }, 
   "sailnumber": "ROU69", 
   "name": "Setsail", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.7, 
       "loa": 12.415, 
       "draft": 2.6, 
+      "wetted_surface": 30.4, 
       "main": 64.4, 
       "genoa": 41.0, 
       "displacement": 5290.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 827.0
     }, 
     "year": "1997"
   }, 

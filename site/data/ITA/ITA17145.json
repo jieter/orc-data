@@ -5,12 +5,13 @@
       1.238, 
       1.4045
     ], 
-    "gph": 617.6, 
     "triple_inshore": [
       0.7207, 
       0.985, 
       1.1562
-    ]
+    ], 
+    "gph": 617.6, 
+    "osn": 601.1
   }, 
   "sailnumber": "ITA17145", 
   "name": "ZORANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 2.0, 
+      "wetted_surface": 33.3, 
       "main": 45.8, 
       "genoa": 46.2, 
       "displacement": 8015.0, 
-      "spinnaker_asym": 99.0
+      "spinnaker_asym": 99.0, 
+      "crew": 500.0
     }, 
     "year": "2006"
   }, 

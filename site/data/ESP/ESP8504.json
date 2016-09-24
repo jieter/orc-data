@@ -5,12 +5,13 @@
       1.1855, 
       1.3289
     ], 
-    "gph": 642.8, 
     "triple_inshore": [
       0.7091, 
       0.9635, 
       1.1175
-    ]
+    ], 
+    "gph": 642.8, 
+    "osn": 624.8
   }, 
   "sailnumber": "ESP8504", 
   "name": "MURIMAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.7, 
       "loa": 9.983, 
       "draft": 2.06, 
+      "wetted_surface": 25.2, 
       "main": 34.6, 
       "genoa": 34.2, 
       "displacement": 5304.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2006"
   }, 

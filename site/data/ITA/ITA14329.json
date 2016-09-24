@@ -5,12 +5,13 @@
       1.3619, 
       1.5344
     ], 
-    "gph": 559.5, 
     "triple_inshore": [
       0.8072, 
       1.096, 
       1.2735
-    ]
+    ], 
+    "gph": 559.5, 
+    "osn": 545.4
   }, 
   "sailnumber": "ITA14329", 
   "name": "GIUMAT +2", 
@@ -25,10 +26,12 @@
       "spinnaker": 152.4, 
       "loa": 13.73, 
       "draft": 2.5, 
+      "wetted_surface": 38.5, 
       "main": 64.8, 
       "genoa": 55.1, 
       "displacement": 9434.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1005.0
     }, 
     "year": "2002"
   }, 

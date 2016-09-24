@@ -5,12 +5,13 @@
       1.2347, 
       1.3768
     ], 
-    "gph": 615.9, 
     "triple_inshore": [
       0.7406, 
       0.9955, 
       1.1375
-    ]
+    ], 
+    "gph": 615.9, 
+    "osn": 600.5
   }, 
   "sailnumber": "SWE5709", 
   "name": "MATTADOR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.757, 
       "draft": 2.14, 
+      "wetted_surface": 26.4, 
       "main": 37.6, 
       "genoa": 43.1, 
       "displacement": 5154.0, 
-      "spinnaker_asym": 113.0
+      "spinnaker_asym": 113.0, 
+      "crew": 650.0
     }, 
     "year": "2004"
   }, 

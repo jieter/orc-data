@@ -5,12 +5,13 @@
       1.0414, 
       1.1734
     ], 
-    "gph": 729.9, 
     "triple_inshore": [
       0.628, 
       0.8525, 
       0.9758
-    ]
+    ], 
+    "gph": 729.9, 
+    "osn": 708.9
   }, 
   "sailnumber": "ESP8364", 
   "name": "ZAMBORELA", 
@@ -25,10 +26,12 @@
       "spinnaker": 34.5, 
       "loa": 7.258, 
       "draft": 1.54, 
+      "wetted_surface": 12.7, 
       "main": 16.2, 
       "genoa": 15.5, 
       "displacement": 1393.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 330.0
     }, 
     "year": "1994"
   }, 

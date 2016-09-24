@@ -5,12 +5,13 @@
       1.1431, 
       1.2787
     ], 
-    "gph": 661.0, 
     "triple_inshore": [
       0.7019, 
       0.9345, 
       1.065
-    ]
+    ], 
+    "gph": 661.0, 
+    "osn": 645.8
   }, 
   "sailnumber": "ITA10602", 
   "name": "PAPERINIK", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.8, 
       "loa": 8.93, 
       "draft": 1.69, 
+      "wetted_surface": 15.5, 
       "main": 30.6, 
       "genoa": 24.9, 
       "displacement": 2381.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 460.0
     }, 
     "year": "1985"
   }, 

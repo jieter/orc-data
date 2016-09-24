@@ -5,12 +5,13 @@
       1.2126, 
       1.3562
     ], 
-    "gph": 626.5, 
     "triple_inshore": [
       0.7203, 
       0.9742, 
       1.1345
-    ]
+    ], 
+    "gph": 626.5, 
+    "osn": 612.8
   }, 
   "sailnumber": "ESP7084", 
   "name": "NOTENOM", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.2, 
       "loa": 10.84, 
       "draft": 2.22, 
+      "wetted_surface": 27.4, 
       "main": 39.0, 
       "genoa": 34.7, 
       "displacement": 6247.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2004"
   }, 

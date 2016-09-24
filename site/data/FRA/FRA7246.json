@@ -5,12 +5,13 @@
       1.0431, 
       1.1674
     ], 
-    "gph": 725.9, 
     "triple_inshore": [
       0.6378, 
       0.8529, 
       0.9591
-    ]
+    ], 
+    "gph": 725.9, 
+    "osn": 707.7
   }, 
   "sailnumber": "FRA7246", 
   "name": "RIOT", 
@@ -25,10 +26,12 @@
       "spinnaker": 23.4, 
       "loa": 7.45, 
       "draft": 1.42, 
+      "wetted_surface": 10.6, 
       "main": 17.7, 
       "genoa": 12.7, 
       "displacement": 1110.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 375.0
     }, 
     "year": "1979"
   }, 

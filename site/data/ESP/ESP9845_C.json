@@ -5,12 +5,13 @@
       1.2266, 
       1.4178
     ], 
-    "gph": 627.8, 
     "triple_inshore": [
       0.6817, 
       0.974, 
       1.1747
-    ]
+    ], 
+    "gph": 627.8, 
+    "osn": 611.1
   }, 
   "sailnumber": "ESP9845_C", 
   "name": "CAPH", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 2.09, 
+      "wetted_surface": 35.0, 
       "main": 47.3, 
       "genoa": 55.8, 
       "displacement": 7771.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "2011"
   }, 

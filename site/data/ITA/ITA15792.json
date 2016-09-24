@@ -5,12 +5,13 @@
       1.1809, 
       1.3254
     ], 
-    "gph": 645.6, 
     "triple_inshore": [
       0.7021, 
       0.9501, 
       1.096
-    ]
+    ], 
+    "gph": 645.6, 
+    "osn": 628.0
   }, 
   "sailnumber": "ITA15792", 
   "name": "XL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.982, 
       "draft": 2.0, 
+      "wetted_surface": 23.6, 
       "main": 34.7, 
       "genoa": 26.1, 
       "displacement": 4599.0, 
-      "spinnaker_asym": 80.0
+      "spinnaker_asym": 80.0, 
+      "crew": 550.0
     }, 
     "year": "2005"
   }, 

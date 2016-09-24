@@ -5,12 +5,13 @@
       1.2847, 
       1.4588
     ], 
-    "gph": 585.5, 
     "triple_inshore": [
       0.7939, 
       1.0333, 
       1.1825
-    ]
+    ], 
+    "gph": 585.5, 
+    "osn": 573.8
   }, 
   "sailnumber": "FRA3600", 
   "name": "PEGASUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.49, 
       "draft": 2.42, 
+      "wetted_surface": 23.0, 
       "main": 50.9, 
       "genoa": 30.5, 
       "displacement": 3166.0, 
-      "spinnaker_asym": 104.0
+      "spinnaker_asym": 104.0, 
+      "crew": 350.0
     }, 
     "year": "2008"
   }, 

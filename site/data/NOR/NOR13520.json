@@ -5,12 +5,13 @@
       1.2274, 
       1.4052
     ], 
-    "gph": 624.1, 
     "triple_inshore": [
       0.6994, 
       0.9769, 
       1.1655
-    ]
+    ], 
+    "gph": 624.1, 
+    "osn": 607.4
   }, 
   "sailnumber": "NOR13520", 
   "name": "Naomi II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.25, 
       "draft": 2.02, 
+      "wetted_surface": 32.3, 
       "main": 44.3, 
       "genoa": 34.0, 
       "displacement": 7428.0, 
-      "spinnaker_asym": 107.0
+      "spinnaker_asym": 107.0, 
+      "crew": 755.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       0.9573, 
       1.0745
     ], 
-    "gph": 793.0, 
     "triple_inshore": [
       0.5832, 
       0.7875, 
       0.9063
-    ]
+    ], 
+    "gph": 793.0, 
+    "osn": 770.9
   }, 
   "sailnumber": "NOR2951", 
   "name": "Milia", 
@@ -25,10 +26,12 @@
       "spinnaker": 32.4, 
       "loa": 7.58, 
       "draft": 1.47, 
+      "wetted_surface": 11.3, 
       "main": 13.3, 
       "genoa": 12.4, 
       "displacement": 1500.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 317.0
     }, 
     "year": "1976"
   }, 

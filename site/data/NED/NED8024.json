@@ -5,12 +5,13 @@
       1.3213, 
       1.5166
     ], 
-    "gph": 581.6, 
     "triple_inshore": [
       0.7562, 
       1.0563, 
       1.2606
-    ]
+    ], 
+    "gph": 581.6, 
+    "osn": 563.3
   }, 
   "sailnumber": "NED8024", 
   "name": "Bombardino", 
@@ -25,10 +26,12 @@
       "spinnaker": 151.7, 
       "loa": 13.665, 
       "draft": 2.41, 
+      "wetted_surface": 43.4, 
       "main": 58.6, 
       "genoa": 51.5, 
       "displacement": 11542.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 908.0
     }, 
     "year": "2007"
   }, 

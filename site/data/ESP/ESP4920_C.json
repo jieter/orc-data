@@ -5,12 +5,13 @@
       1.2449, 
       1.4096
     ], 
-    "gph": 613.6, 
     "triple_inshore": [
       0.7259, 
       0.9937, 
       1.1615
-    ]
+    ], 
+    "gph": 613.6, 
+    "osn": 598.1
   }, 
   "sailnumber": "ESP4920_C", 
   "name": "ARGO NAVIS 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.6, 
       "loa": 11.91, 
       "draft": 1.89, 
+      "wetted_surface": 31.3, 
       "main": 46.1, 
       "genoa": 49.5, 
       "displacement": 6979.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1997"
   }, 

@@ -5,12 +5,13 @@
       1.188, 
       1.3294
     ], 
-    "gph": 639.3, 
     "triple_inshore": [
       0.7073, 
       0.9549, 
       1.1071
-    ]
+    ], 
+    "gph": 639.3, 
+    "osn": 626.0
   }, 
   "sailnumber": "NOR11123", 
   "name": "HYAK", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.9, 
       "loa": 10.34, 
       "draft": 1.94, 
+      "wetted_surface": 25.0, 
       "main": 35.9, 
       "genoa": 55.3, 
       "displacement": 5097.0, 
-      "spinnaker_asym": 73.0
+      "spinnaker_asym": 73.0, 
+      "crew": 612.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.1045, 
       1.2403
     ], 
-    "gph": 682.8, 
     "triple_inshore": [
       0.6846, 
       0.902, 
       1.0147
-    ]
+    ], 
+    "gph": 682.8, 
+    "osn": 666.1
   }, 
   "sailnumber": "ESP25489", 
   "name": "MALAGA CHARTER", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.3, 
       "loa": 7.512, 
       "draft": 1.56, 
+      "wetted_surface": 12.0, 
       "main": 20.6, 
       "genoa": 12.1, 
       "displacement": 1241.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 354.0
     }, 
     "year": "1996"
   }, 

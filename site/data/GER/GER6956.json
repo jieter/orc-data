@@ -5,12 +5,13 @@
       1.057, 
       1.219
     ], 
-    "gph": 726.0, 
     "triple_inshore": [
       0.6085, 
       0.8441, 
       1.0149
-    ]
+    ], 
+    "gph": 726.0, 
+    "osn": 703.1
   }, 
   "sailnumber": "GER6956", 
   "name": "BARINGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.5, 
       "loa": 10.25, 
       "draft": 1.8, 
+      "wetted_surface": 24.6, 
       "main": 24.4, 
       "genoa": 36.4, 
       "displacement": 5750.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 580.0
     }, 
     "year": "1997"
   }, 

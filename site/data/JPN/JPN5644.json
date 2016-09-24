@@ -5,12 +5,13 @@
       1.2511, 
       1.401
     ], 
-    "gph": 605.6, 
     "triple_inshore": [
       0.7601, 
       1.0185, 
       1.1719
-    ]
+    ], 
+    "gph": 605.6, 
+    "osn": 591.2
   }, 
   "sailnumber": "JPN5644", 
   "name": "CORAL REEF", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.6, 
       "loa": 11.363, 
       "draft": 2.1, 
+      "wetted_surface": 27.4, 
       "main": 40.4, 
       "genoa": 52.2, 
       "displacement": 5290.0, 
-      "spinnaker_asym": 97.0
+      "spinnaker_asym": 97.0, 
+      "crew": 659.0
     }, 
     "year": "1992"
   }, 

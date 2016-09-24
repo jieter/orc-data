@@ -5,12 +5,13 @@
       1.3162, 
       1.4792
     ], 
-    "gph": 578.1, 
     "triple_inshore": [
       0.7795, 
       1.0598, 
       1.2317
-    ]
+    ], 
+    "gph": 578.1, 
+    "osn": 564.7
   }, 
   "sailnumber": "NOR8542", 
   "name": "Vela Felicia", 
@@ -25,10 +26,12 @@
       "spinnaker": 115.9, 
       "loa": 13.0, 
       "draft": 2.07, 
+      "wetted_surface": 33.4, 
       "main": 58.6, 
       "genoa": 53.7, 
       "displacement": 7298.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 828.0
     }, 
     "year": "1986"
   }, 

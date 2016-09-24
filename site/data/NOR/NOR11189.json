@@ -5,12 +5,13 @@
       1.3101, 
       1.4841
     ], 
-    "gph": 582.9, 
     "triple_inshore": [
       0.7678, 
       1.0511, 
       1.237
-    ]
+    ], 
+    "gph": 582.9, 
+    "osn": 567.5
   }, 
   "sailnumber": "NOR11189", 
   "name": "piXeline", 
@@ -25,10 +26,12 @@
       "spinnaker": 145.2, 
       "loa": 13.5, 
       "draft": 2.33, 
+      "wetted_surface": 39.4, 
       "main": 50.6, 
       "genoa": 75.1, 
       "displacement": 10361.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 878.0
     }, 
     "year": "1998"
   }, 

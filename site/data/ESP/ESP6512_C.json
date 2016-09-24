@@ -5,12 +5,13 @@
       1.1661, 
       1.3275
     ], 
-    "gph": 657.0, 
     "triple_inshore": [
       0.6739, 
       0.9268, 
       1.0949
-    ]
+    ], 
+    "gph": 657.0, 
+    "osn": 639.1
   }, 
   "sailnumber": "ESP6512_C", 
   "name": "PATAPALO III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.04, 
       "draft": 2.06, 
+      "wetted_surface": 26.9, 
       "main": 31.3, 
       "genoa": 40.9, 
       "displacement": 5692.0, 
-      "spinnaker_asym": 68.0
+      "spinnaker_asym": 68.0, 
+      "crew": 420.0
     }, 
     "year": "1999"
   }, 

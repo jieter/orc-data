@@ -5,12 +5,13 @@
       1.1665, 
       1.3386
     ], 
-    "gph": 647.3, 
     "triple_inshore": [
       0.7175, 
       0.9484, 
       1.0909
-    ]
+    ], 
+    "gph": 647.3, 
+    "osn": 630.3
   }, 
   "sailnumber": "NOR15113", 
   "name": "My Life", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.5, 
       "draft": 1.96, 
+      "wetted_surface": 13.9, 
       "main": 26.2, 
       "genoa": 14.4, 
       "displacement": 1400.0, 
-      "spinnaker_asym": 58.0
+      "spinnaker_asym": 58.0, 
+      "crew": 386.0
     }, 
     "year": "2011"
   }, 

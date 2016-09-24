@@ -5,12 +5,13 @@
       1.2584, 
       1.4434
     ], 
-    "gph": 610.2, 
     "triple_inshore": [
       0.7214, 
       1.0064, 
       1.1981
-    ]
+    ], 
+    "gph": 610.2, 
+    "osn": 591.2
   }, 
   "sailnumber": "NOR11046", 
   "name": "Intermezzo", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.1, 
       "loa": 12.46, 
       "draft": 2.17, 
+      "wetted_surface": 33.4, 
       "main": 48.5, 
       "genoa": 33.9, 
       "displacement": 7831.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 821.0
     }, 
     "year": "2003"
   }, 

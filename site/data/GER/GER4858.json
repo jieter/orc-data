@@ -5,12 +5,13 @@
       1.3289, 
       1.5121
     ], 
-    "gph": 575.3, 
     "triple_inshore": [
       0.7743, 
       1.0595, 
       1.2612
-    ]
+    ], 
+    "gph": 575.3, 
+    "osn": 560.1
   }, 
   "sailnumber": "GER4858", 
   "name": "BIG EASY III", 
@@ -25,10 +26,12 @@
       "spinnaker": 163.2, 
       "loa": 14.835, 
       "draft": 2.42, 
+      "wetted_surface": 45.9, 
       "main": 63.0, 
       "genoa": 74.4, 
       "displacement": 15450.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 950.0
     }, 
     "year": "1995"
   }, 

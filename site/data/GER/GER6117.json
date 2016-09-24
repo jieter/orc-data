@@ -5,12 +5,13 @@
       1.258, 
       1.45
     ], 
-    "gph": 610.8, 
     "triple_inshore": [
       0.7036, 
       0.9973, 
       1.1979
-    ]
+    ], 
+    "gph": 610.8, 
+    "osn": 596.1
   }, 
   "sailnumber": "GER6117", 
   "name": "ENJOY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.73, 
       "draft": 1.87, 
+      "wetted_surface": 33.8, 
       "main": 56.7, 
       "genoa": 41.2, 
       "displacement": 7443.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 826.0
     }, 
     "year": "2006"
   }, 

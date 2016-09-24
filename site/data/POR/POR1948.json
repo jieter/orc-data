@@ -5,12 +5,13 @@
       1.317, 
       1.4972
     ], 
-    "gph": 582.4, 
     "triple_inshore": [
       0.7613, 
       1.0477, 
       1.2392
-    ]
+    ], 
+    "gph": 582.4, 
+    "osn": 565.7
   }, 
   "sailnumber": "POR1948", 
   "name": "QUERO-QUERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.835, 
       "draft": 2.37, 
+      "wetted_surface": 44.3, 
       "main": 60.1, 
       "genoa": 50.0, 
       "displacement": 13956.0, 
-      "spinnaker_asym": 156.0
+      "spinnaker_asym": 156.0, 
+      "crew": 550.0
     }, 
     "year": "1995"
   }, 

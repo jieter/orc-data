@@ -5,12 +5,13 @@
       1.3356, 
       1.5364
     ], 
-    "gph": 573.5, 
     "triple_inshore": [
       0.7669, 
       1.0664, 
       1.2568
-    ]
+    ], 
+    "gph": 573.5, 
+    "osn": 557.7
   }, 
   "sailnumber": "ARG4166", 
   "name": "TOO MATCH", 
@@ -25,10 +26,12 @@
       "spinnaker": 120.1, 
       "loa": 12.64, 
       "draft": 1.98, 
+      "wetted_surface": 32.1, 
       "main": 46.5, 
       "genoa": 48.8, 
       "displacement": 6033.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 806.0
     }, 
     "year": "1995"
   }, 

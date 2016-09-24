@@ -5,12 +5,13 @@
       1.3911, 
       1.558
     ], 
-    "gph": 546.2, 
     "triple_inshore": [
       0.8366, 
       1.1247, 
       1.2808
-    ]
+    ], 
+    "gph": 546.2, 
+    "osn": 532.0
   }, 
   "sailnumber": "NED7842", 
   "name": "SELENE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.96, 
       "draft": 2.75, 
+      "wetted_surface": 34.9, 
       "main": 60.6, 
       "genoa": 48.5, 
       "displacement": 7719.0, 
-      "spinnaker_asym": 183.0
+      "spinnaker_asym": 183.0, 
+      "crew": 890.0
     }, 
     "year": "2006"
   }, 

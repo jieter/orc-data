@@ -5,12 +5,13 @@
       0.9992, 
       1.1853
     ], 
-    "gph": 761.3, 
     "triple_inshore": [
       0.5848, 
       0.7965, 
       0.95
-    ]
+    ], 
+    "gph": 761.3, 
+    "osn": 740.1
   }, 
   "sailnumber": "NOR12850", 
   "name": "Lille Spurven", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.5, 
       "draft": 1.41, 
+      "wetted_surface": 10.1, 
       "main": 13.8, 
       "genoa": 7.2, 
       "displacement": 779.0, 
-      "spinnaker_asym": 27.0
+      "spinnaker_asym": 27.0, 
+      "crew": 290.0
     }, 
     "year": "2002"
   }, 

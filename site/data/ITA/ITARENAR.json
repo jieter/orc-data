@@ -5,12 +5,13 @@
       1.1016, 
       1.3103
     ], 
-    "gph": 685.3, 
     "triple_inshore": [
       0.6676, 
       0.8762, 
       1.0392
-    ]
+    ], 
+    "gph": 685.3, 
+    "osn": 667.7
   }, 
   "sailnumber": "ITARENAR", 
   "name": "RENARDO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.4, 
       "draft": 1.51, 
+      "wetted_surface": 9.7, 
       "main": 18.4, 
       "genoa": 9.9, 
       "displacement": 585.0, 
-      "spinnaker_asym": 41.0
+      "spinnaker_asym": 41.0, 
+      "crew": 270.0
     }, 
     "year": "1997"
   }, 

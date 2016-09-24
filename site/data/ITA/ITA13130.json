@@ -5,12 +5,13 @@
       1.2515, 
       1.4068
     ], 
-    "gph": 607.2, 
     "triple_inshore": [
       0.7502, 
       1.0129, 
       1.1695
-    ]
+    ], 
+    "gph": 607.2, 
+    "osn": 592.1
   }, 
   "sailnumber": "ITA13130", 
   "name": "PROFILO", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.3, 
       "loa": 11.36, 
       "draft": 2.1, 
+      "wetted_surface": 27.4, 
       "main": 40.9, 
       "genoa": 50.5, 
       "displacement": 5366.0, 
-      "spinnaker_asym": 79.0
+      "spinnaker_asym": 79.0, 
+      "crew": 660.0
     }, 
     "year": "1992"
   }, 

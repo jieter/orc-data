@@ -5,12 +5,13 @@
       1.2762, 
       1.4604
     ], 
-    "gph": 598.6, 
     "triple_inshore": [
       0.7468, 
       1.0297, 
       1.1966
-    ]
+    ], 
+    "gph": 598.6, 
+    "osn": 581.1
   }, 
   "sailnumber": "ARG5300", 
   "name": "COLUMBIA - MAD MAX", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.5, 
       "loa": 10.9, 
       "draft": 2.3, 
+      "wetted_surface": 24.8, 
       "main": 38.6, 
       "genoa": 30.7, 
       "displacement": 3767.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "1993"
   }, 

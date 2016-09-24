@@ -5,12 +5,13 @@
       1.1006, 
       1.2406
     ], 
-    "gph": 694.5, 
     "triple_inshore": [
       0.6433, 
       0.8846, 
       1.0317
-    ]
+    ], 
+    "gph": 694.5, 
+    "osn": 675.7
   }, 
   "sailnumber": "NOR7864", 
   "name": "Allegro", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.4, 
       "loa": 9.81, 
       "draft": 1.74, 
+      "wetted_surface": 23.2, 
       "main": 31.2, 
       "genoa": 30.9, 
       "displacement": 4475.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 527.0
     }, 
     "year": "1986"
   }, 

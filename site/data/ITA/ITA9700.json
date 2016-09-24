@@ -5,12 +5,13 @@
       1.1138, 
       1.238
     ], 
-    "gph": 683.3, 
     "triple_inshore": [
       0.6723, 
       0.9052, 
       1.0372
-    ]
+    ], 
+    "gph": 683.3, 
+    "osn": 665.4
   }, 
   "sailnumber": "ITA9700", 
   "name": "UTOPIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.5, 
       "loa": 9.96, 
       "draft": 1.94, 
+      "wetted_surface": 19.9, 
       "main": 21.6, 
       "genoa": 38.3, 
       "displacement": 3960.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1981"
   }, 

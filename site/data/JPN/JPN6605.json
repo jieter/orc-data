@@ -5,12 +5,13 @@
       1.3729, 
       1.5487
     ], 
-    "gph": 556.6, 
     "triple_inshore": [
       0.8042, 
       1.0985, 
       1.2699
-    ]
+    ], 
+    "gph": 556.6, 
+    "osn": 541.8
   }, 
   "sailnumber": "JPN6605", 
   "name": "IRRESISTIBLE 5", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.305, 
       "draft": 2.35, 
+      "wetted_surface": 38.8, 
       "main": 61.7, 
       "genoa": 49.8, 
       "displacement": 9595.0, 
-      "spinnaker_asym": 165.0
+      "spinnaker_asym": 165.0, 
+      "crew": 910.0
     }, 
     "year": "2010"
   }, 

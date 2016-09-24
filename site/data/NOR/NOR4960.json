@@ -5,12 +5,13 @@
       1.103, 
       1.2569
     ], 
-    "gph": 693.9, 
     "triple_inshore": [
       0.6417, 
       0.8883, 
       1.0512
-    ]
+    ], 
+    "gph": 693.9, 
+    "osn": 673.5
   }, 
   "sailnumber": "NOR4960", 
   "name": "Mathilde R33", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.7, 
       "loa": 9.87, 
       "draft": 1.72, 
+      "wetted_surface": 22.6, 
       "main": 31.2, 
       "genoa": 21.8, 
       "displacement": 4414.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 548.0
     }, 
     "year": "1981"
   }, 

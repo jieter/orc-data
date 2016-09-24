@@ -5,12 +5,13 @@
       1.0964, 
       1.2407
     ], 
-    "gph": 697.3, 
     "triple_inshore": [
       0.6445, 
       0.884, 
       1.038
-    ]
+    ], 
+    "gph": 697.3, 
+    "osn": 676.8
   }, 
   "sailnumber": "NED6924", 
   "name": "RAZZLE DAZZLE", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.7, 
       "loa": 9.912, 
       "draft": 1.75, 
+      "wetted_surface": 24.0, 
       "main": 31.8, 
       "genoa": 21.0, 
       "displacement": 4641.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 542.0
     }, 
     "year": "1985"
   }, 

@@ -5,12 +5,13 @@
       1.2577, 
       1.4078
     ], 
-    "gph": 602.8, 
     "triple_inshore": [
       0.7572, 
       1.0213, 
       1.1704
-    ]
+    ], 
+    "gph": 602.8, 
+    "osn": 589.4
   }, 
   "sailnumber": "ISR3", 
   "name": "X-President", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.2, 
       "loa": 10.6, 
       "draft": 2.17, 
+      "wetted_surface": 24.3, 
       "main": 42.8, 
       "genoa": 33.2, 
       "displacement": 4439.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "2005"
   }, 

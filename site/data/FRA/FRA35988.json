@@ -5,12 +5,13 @@
       1.258, 
       1.4407
     ], 
-    "gph": 607.7, 
     "triple_inshore": [
       0.738, 
       1.0224, 
       1.1975
-    ]
+    ], 
+    "gph": 607.7, 
+    "osn": 588.1
   }, 
   "sailnumber": "FRA35988", 
   "name": "ARES", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.7, 
       "loa": 10.617, 
       "draft": 2.15, 
+      "wetted_surface": 24.4, 
       "main": 35.7, 
       "genoa": 28.1, 
       "displacement": 4362.0, 
-      "spinnaker_asym": 79.0
+      "spinnaker_asym": 79.0, 
+      "crew": 640.0
     }, 
     "year": "2005"
   }, 

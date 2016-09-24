@@ -5,12 +5,13 @@
       1.3149, 
       1.4817
     ], 
-    "gph": 581.7, 
     "triple_inshore": [
       0.7721, 
       1.0571, 
       1.2185
-    ]
+    ], 
+    "gph": 581.7, 
+    "osn": 564.9
   }, 
   "sailnumber": "FRA9481", 
   "name": "BICHE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 2.41, 
+      "wetted_surface": 32.7, 
       "main": 46.1, 
       "genoa": 38.6, 
       "displacement": 6727.0, 
-      "spinnaker_asym": 139.0
+      "spinnaker_asym": 139.0, 
+      "crew": 650.0
     }, 
     "year": "2003"
   }, 

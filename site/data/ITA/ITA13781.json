@@ -5,12 +5,13 @@
       1.1836, 
       1.3541
     ], 
-    "gph": 646.8, 
     "triple_inshore": [
       0.6864, 
       0.9518, 
       1.132
-    ]
+    ], 
+    "gph": 646.8, 
+    "osn": 627.8
   }, 
   "sailnumber": "ITA13781", 
   "name": "PIPINA 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.7, 
       "loa": 10.944, 
       "draft": 2.08, 
+      "wetted_surface": 29.0, 
       "main": 38.3, 
       "genoa": 40.6, 
       "displacement": 6243.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2001"
   }, 

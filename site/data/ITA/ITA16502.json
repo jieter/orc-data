@@ -5,12 +5,13 @@
       1.1477, 
       1.3081
     ], 
-    "gph": 667.6, 
     "triple_inshore": [
       0.6628, 
       0.9066, 
       1.0735
-    ]
+    ], 
+    "gph": 667.6, 
+    "osn": 649.3
   }, 
   "sailnumber": "ITA16502", 
   "name": "VERTIGO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.74, 
       "draft": 1.92, 
+      "wetted_surface": 30.9, 
       "main": 34.9, 
       "genoa": 43.9, 
       "displacement": 7781.0, 
-      "spinnaker_asym": 96.0
+      "spinnaker_asym": 96.0, 
+      "crew": 500.0
     }, 
     "year": "1981"
   }, 

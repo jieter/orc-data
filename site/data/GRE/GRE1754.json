@@ -5,12 +5,13 @@
       1.1318, 
       1.3603
     ], 
-    "gph": 686.8, 
     "triple_inshore": [
       0.6073, 
       0.8791, 
       1.0966
-    ]
+    ], 
+    "gph": 686.8, 
+    "osn": 662.6
   }, 
   "sailnumber": "GRE1754", 
   "name": "KIRKI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.84, 
       "draft": 2.03, 
+      "wetted_surface": 37.8, 
       "main": 32.5, 
       "genoa": 43.1, 
       "displacement": 9550.0, 
-      "spinnaker_asym": 94.0
+      "spinnaker_asym": 94.0, 
+      "crew": 750.0
     }, 
     "year": "1994"
   }, 

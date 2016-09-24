@@ -5,12 +5,13 @@
       1.1128, 
       1.2735
     ], 
-    "gph": 687.1, 
     "triple_inshore": [
       0.6507, 
       0.8981, 
       1.0664
-    ]
+    ], 
+    "gph": 687.1, 
+    "osn": 666.7
   }, 
   "sailnumber": "ESP8882_C", 
   "name": "TENTON", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.1, 
       "loa": 10.112, 
       "draft": 1.79, 
+      "wetted_surface": 22.3, 
       "main": 30.8, 
       "genoa": 28.0, 
       "displacement": 4504.0, 
-      "spinnaker_asym": 57.0
+      "spinnaker_asym": 57.0, 
+      "crew": 521.0
     }, 
     "year": "1981"
   }, 

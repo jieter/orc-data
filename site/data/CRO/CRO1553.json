@@ -5,12 +5,13 @@
       1.3242, 
       1.4965
     ], 
-    "gph": 576.2, 
     "triple_inshore": [
       0.7818, 
       1.0711, 
       1.246
-    ]
+    ], 
+    "gph": 576.2, 
+    "osn": 560.4
   }, 
   "sailnumber": "CRO1553", 
   "name": "X-Cite", 
@@ -25,10 +26,12 @@
       "spinnaker": 129.3, 
       "loa": 12.35, 
       "draft": 2.51, 
+      "wetted_surface": 32.9, 
       "main": 53.4, 
       "genoa": 44.4, 
       "displacement": 7124.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 860.0
     }, 
     "year": "2006"
   }, 

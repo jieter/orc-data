@@ -5,12 +5,13 @@
       1.2302, 
       1.446
     ], 
-    "gph": 624.0, 
     "triple_inshore": [
       0.7013, 
       0.9893, 
       1.178
-    ]
+    ], 
+    "gph": 624.0, 
+    "osn": 602.0
   }, 
   "sailnumber": "FRA36006", 
   "name": "MISTRAL", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.5, 
       "loa": 9.5, 
       "draft": 2.36, 
+      "wetted_surface": 25.6, 
       "main": 32.2, 
       "genoa": 26.1, 
       "displacement": 3301.0, 
-      "spinnaker_asym": 79.0
+      "spinnaker_asym": 79.0, 
+      "crew": 655.0
     }, 
     "year": "2007"
   }, 

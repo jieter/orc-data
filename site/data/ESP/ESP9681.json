@@ -5,12 +5,13 @@
       1.3293, 
       1.4985
     ], 
-    "gph": 576.9, 
     "triple_inshore": [
       0.7693, 
       1.056, 
       1.2335
-    ]
+    ], 
+    "gph": 576.9, 
+    "osn": 561.3
   }, 
   "sailnumber": "ESP9681", 
   "name": "PASSION 4", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.2, 
       "draft": 2.58, 
+      "wetted_surface": 46.5, 
       "main": 66.6, 
       "genoa": 56.3, 
       "displacement": 13627.0, 
-      "spinnaker_asym": 132.0
+      "spinnaker_asym": 132.0, 
+      "crew": 450.0
     }, 
     "year": "2006"
   }, 

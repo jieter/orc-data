@@ -5,12 +5,13 @@
       1.2927, 
       1.4838
     ], 
-    "gph": 581.2, 
     "triple_inshore": [
       0.8059, 
       1.0514, 
       1.2185
-    ]
+    ], 
+    "gph": 581.2, 
+    "osn": 567.0
   }, 
   "sailnumber": "SWE11", 
   "name": "Farrari", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.2, 
       "loa": 9.435, 
       "draft": 2.12, 
+      "wetted_surface": 17.3, 
       "main": 36.4, 
       "genoa": 23.8, 
       "displacement": 2111.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 525.0
     }, 
     "year": "1996"
   }, 

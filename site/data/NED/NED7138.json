@@ -5,12 +5,13 @@
       1.2249, 
       1.3947
     ], 
-    "gph": 625.4, 
     "triple_inshore": [
       0.709, 
       0.9737, 
       1.1461
-    ]
+    ], 
+    "gph": 625.4, 
+    "osn": 607.4
   }, 
   "sailnumber": "NED7138", 
   "name": "Blue", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.785, 
       "draft": 1.95, 
+      "wetted_surface": 32.8, 
       "main": 45.3, 
       "genoa": 36.6, 
       "displacement": 7603.0, 
-      "spinnaker_asym": 103.0
+      "spinnaker_asym": 103.0, 
+      "crew": 783.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.2017, 
       1.4797
     ], 
-    "gph": 648.0, 
     "triple_inshore": [
       0.6248, 
       0.9343, 
       1.2088
-    ]
+    ], 
+    "gph": 648.0, 
+    "osn": 626.0
   }, 
   "sailnumber": "CRO2253", 
   "name": "Triton", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.73, 
       "draft": 2.26, 
+      "wetted_surface": 49.9, 
       "main": 52.5, 
       "genoa": 67.2, 
       "displacement": 14935.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1079.0
     }, 
     "year": "2011"
   }, 

@@ -5,12 +5,13 @@
       1.1093, 
       1.2657
     ], 
-    "gph": 689.9, 
     "triple_inshore": [
       0.6449, 
       0.8829, 
       1.0464
-    ]
+    ], 
+    "gph": 689.9, 
+    "osn": 670.5
   }, 
   "sailnumber": "ITA15135", 
   "name": "QUASAR I", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.43, 
       "draft": 1.85, 
+      "wetted_surface": 24.8, 
       "main": 25.7, 
       "genoa": 38.6, 
       "displacement": 5179.0, 
-      "spinnaker_asym": 79.0
+      "spinnaker_asym": 79.0, 
+      "crew": 600.0
     }, 
     "year": "2002"
   }, 

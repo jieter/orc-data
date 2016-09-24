@@ -5,12 +5,13 @@
       1.0212, 
       1.1777
     ], 
-    "gph": 753.1, 
     "triple_inshore": [
       0.581, 
       0.8057, 
       0.9675
-    ]
+    ], 
+    "gph": 753.1, 
+    "osn": 729.7
   }, 
   "sailnumber": "GRE1709", 
   "name": "WILLIAM SHATNER", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.612, 
       "draft": 1.61, 
+      "wetted_surface": 28.7, 
       "main": 27.0, 
       "genoa": 24.0, 
       "displacement": 6700.0, 
-      "spinnaker_asym": 68.0
+      "spinnaker_asym": 68.0, 
+      "crew": 300.0
     }, 
     "year": "1978"
   }, 

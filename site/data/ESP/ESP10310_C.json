@@ -5,12 +5,13 @@
       1.1303, 
       1.2867
     ], 
-    "gph": 670.0, 
     "triple_inshore": [
       0.6874, 
       0.9315, 
       1.0701
-    ]
+    ], 
+    "gph": 670.0, 
+    "osn": 650.7
   }, 
   "sailnumber": "ESP10310_C", 
   "name": "DROOPY UNO", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.7, 
       "loa": 7.85, 
       "draft": 1.83, 
+      "wetted_surface": 13.4, 
       "main": 21.4, 
       "genoa": 18.3, 
       "displacement": 1534.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 385.0
     }, 
     "year": "1982"
   }, 

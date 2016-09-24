@@ -5,12 +5,13 @@
       1.0723, 
       1.2513
     ], 
-    "gph": 717.3, 
     "triple_inshore": [
       0.6089, 
       0.8538, 
       1.0452
-    ]
+    ], 
+    "gph": 717.3, 
+    "osn": 693.5
   }, 
   "sailnumber": "ESP9614", 
   "name": "PIKO NORTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.5, 
       "loa": 9.909, 
       "draft": 1.9, 
+      "wetted_surface": 25.9, 
       "main": 27.6, 
       "genoa": 20.3, 
       "displacement": 5696.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "2009"
   }, 

@@ -5,12 +5,13 @@
       1.2043, 
       1.3569
     ], 
-    "gph": 633.9, 
     "triple_inshore": [
       0.7133, 
       0.9762, 
       1.1394
-    ]
+    ], 
+    "gph": 633.9, 
+    "osn": 615.8
   }, 
   "sailnumber": "ITA15330", 
   "name": "STRANAGENTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.8, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 27.0, 
       "main": 41.2, 
       "genoa": 31.0, 
       "displacement": 5815.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 649.0
     }, 
     "year": "2001"
   }, 

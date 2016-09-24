@@ -5,12 +5,13 @@
       1.3666, 
       1.5362
     ], 
-    "gph": 558.2, 
     "triple_inshore": [
       0.8038, 
       1.0911, 
       1.2548
-    ]
+    ], 
+    "gph": 558.2, 
+    "osn": 544.2
   }, 
   "sailnumber": "PER2008", 
   "name": "ALLEGRO", 
@@ -25,10 +26,12 @@
       "spinnaker": 120.7, 
       "loa": 12.8, 
       "draft": 2.45, 
+      "wetted_surface": 31.4, 
       "main": 61.2, 
       "genoa": 40.0, 
       "displacement": 5757.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 790.0
     }, 
     "year": "2006"
   }, 

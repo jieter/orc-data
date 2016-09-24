@@ -5,12 +5,13 @@
       1.0186, 
       1.137
     ], 
-    "gph": 740.3, 
     "triple_inshore": [
       0.6356, 
       0.8397, 
       0.9445
-    ]
+    ], 
+    "gph": 740.3, 
+    "osn": 721.6
   }, 
   "sailnumber": "ITA9367", 
   "name": "GULLISARA", 
@@ -25,10 +26,12 @@
       "spinnaker": 27.7, 
       "loa": 7.07, 
       "draft": 1.39, 
+      "wetted_surface": 9.7, 
       "main": 17.5, 
       "genoa": 12.6, 
       "displacement": 884.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1981"
   }, 

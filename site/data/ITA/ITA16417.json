@@ -5,12 +5,13 @@
       1.3939, 
       1.5906
     ], 
-    "gph": 549.5, 
     "triple_inshore": [
       0.804, 
       1.1122, 
       1.2887
-    ]
+    ], 
+    "gph": 549.5, 
+    "osn": 534.5
   }, 
   "sailnumber": "ITA16417", 
   "name": "IL MORO DI VENEZIA XXVII", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.86, 
       "draft": 2.34, 
+      "wetted_surface": 32.4, 
       "main": 54.0, 
       "genoa": 46.0, 
       "displacement": 6027.0, 
-      "spinnaker_asym": 151.0
+      "spinnaker_asym": 151.0, 
+      "crew": 640.0
     }, 
     "year": "2009"
   }, 

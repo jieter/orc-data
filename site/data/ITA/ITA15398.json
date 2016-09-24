@@ -5,12 +5,13 @@
       1.2426, 
       1.3924
     ], 
-    "gph": 612.0, 
     "triple_inshore": [
       0.7461, 
       1.0115, 
       1.1631
-    ]
+    ], 
+    "gph": 612.0, 
+    "osn": 596.3
   }, 
   "sailnumber": "ITA15398", 
   "name": "HECTOR X", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.8, 
       "loa": 10.6, 
       "draft": 2.18, 
+      "wetted_surface": 24.7, 
       "main": 41.3, 
       "genoa": 32.8, 
       "displacement": 4650.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 635.0
     }, 
     "year": "2005"
   }, 

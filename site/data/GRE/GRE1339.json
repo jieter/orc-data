@@ -5,12 +5,13 @@
       1.0606, 
       1.2001
     ], 
-    "gph": 723.0, 
     "triple_inshore": [
       0.6187, 
       0.8525, 
       1.0027
-    ]
+    ], 
+    "gph": 723.0, 
+    "osn": 700.5
   }, 
   "sailnumber": "GRE1339", 
   "name": "SARAVA", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.0, 
       "loa": 10.06, 
       "draft": 1.83, 
+      "wetted_surface": 23.5, 
       "main": 24.1, 
       "genoa": 33.5, 
       "displacement": 5154.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1970"
   }, 

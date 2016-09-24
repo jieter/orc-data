@@ -5,12 +5,13 @@
       1.2864, 
       1.4577
     ], 
-    "gph": 594.8, 
     "triple_inshore": [
       0.7501, 
       1.0296, 
       1.2039
-    ]
+    ], 
+    "gph": 594.8, 
+    "osn": 577.9
   }, 
   "sailnumber": "ITA16143", 
   "name": "VALIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.48, 
       "draft": 2.38, 
+      "wetted_surface": 33.8, 
       "main": 52.5, 
       "genoa": 40.1, 
       "displacement": 8090.0, 
-      "spinnaker_asym": 113.0
+      "spinnaker_asym": 113.0, 
+      "crew": 679.0
     }, 
     "year": "2005"
   }, 

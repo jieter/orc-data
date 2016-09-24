@@ -5,12 +5,13 @@
       1.019, 
       1.1839
     ], 
-    "gph": 752.0, 
     "triple_inshore": [
       0.585, 
       0.8205, 
       0.9967
-    ]
+    ], 
+    "gph": 752.0, 
+    "osn": 728.8
   }, 
   "sailnumber": "ESP18494_C", 
   "name": "TRITON", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.535, 
       "draft": 1.75, 
+      "wetted_surface": 21.5, 
       "main": 21.2, 
       "genoa": 33.5, 
       "displacement": 4405.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1979"
   }, 

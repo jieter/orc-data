@@ -5,12 +5,13 @@
       1.2518, 
       1.438
     ], 
-    "gph": 613.3, 
     "triple_inshore": [
       0.7171, 
       1.0037, 
       1.1977
-    ]
+    ], 
+    "gph": 613.3, 
+    "osn": 594.0
   }, 
   "sailnumber": "NED8352", 
   "name": "Fairwinds", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.7, 
       "loa": 12.2, 
       "draft": 2.12, 
+      "wetted_surface": 32.8, 
       "main": 50.3, 
       "genoa": 32.5, 
       "displacement": 7490.0, 
-      "spinnaker_asym": 90.0
+      "spinnaker_asym": 90.0, 
+      "crew": 715.0
     }, 
     "year": "2009"
   }, 

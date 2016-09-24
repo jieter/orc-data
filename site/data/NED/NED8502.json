@@ -5,12 +5,13 @@
       1.2224, 
       1.3853
     ], 
-    "gph": 625.0, 
     "triple_inshore": [
       0.7191, 
       0.991, 
       1.1606
-    ]
+    ], 
+    "gph": 625.0, 
+    "osn": 606.5
   }, 
   "sailnumber": "NED8502", 
   "name": "Allround Sailing", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.8, 
       "loa": 10.66, 
       "draft": 2.21, 
+      "wetted_surface": 27.7, 
       "main": 41.0, 
       "genoa": 31.7, 
       "displacement": 5696.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 670.0
     }, 
     "year": "2009"
   }, 

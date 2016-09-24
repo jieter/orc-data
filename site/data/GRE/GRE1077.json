@@ -5,12 +5,13 @@
       1.036, 
       1.1835
     ], 
-    "gph": 739.5, 
     "triple_inshore": [
       0.6, 
       0.8184, 
       0.9745
-    ]
+    ], 
+    "gph": 739.5, 
+    "osn": 718.9
   }, 
   "sailnumber": "GRE1077", 
   "name": "MARSO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.284, 
       "draft": 1.87, 
+      "wetted_surface": 24.6, 
       "main": 23.6, 
       "genoa": 32.8, 
       "displacement": 5727.0, 
-      "spinnaker_asym": 77.0
+      "spinnaker_asym": 77.0, 
+      "crew": 400.0
     }, 
     "year": "1974"
   }, 

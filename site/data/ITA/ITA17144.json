@@ -5,12 +5,13 @@
       1.1935, 
       1.4172
     ], 
-    "gph": 647.6, 
     "triple_inshore": [
       0.6587, 
       0.9437, 
       1.1766
-    ]
+    ], 
+    "gph": 647.6, 
+    "osn": 625.1
   }, 
   "sailnumber": "ITA17144", 
   "name": "GWAIHIR", 
@@ -25,10 +26,12 @@
       "spinnaker": 114.2, 
       "loa": 13.605, 
       "draft": 2.51, 
+      "wetted_surface": 42.6, 
       "main": 40.3, 
       "genoa": 65.8, 
       "displacement": 11923.0, 
-      "spinnaker_asym": 106.0
+      "spinnaker_asym": 106.0, 
+      "crew": 600.0
     }, 
     "year": "1987"
   }, 

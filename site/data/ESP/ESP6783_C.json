@@ -5,12 +5,13 @@
       1.0351, 
       1.1774
     ], 
-    "gph": 738.3, 
     "triple_inshore": [
       0.6091, 
       0.8454, 
       0.9817
-    ]
+    ], 
+    "gph": 738.3, 
+    "osn": 714.9
   }, 
   "sailnumber": "ESP6783_C", 
   "name": "AGUITA SALA", 
@@ -25,10 +26,12 @@
       "spinnaker": 29.3, 
       "loa": 7.32, 
       "draft": 1.41, 
+      "wetted_surface": 12.2, 
       "main": 16.6, 
       "genoa": 11.8, 
       "displacement": 1435.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 240.0
     }, 
     "year": "1994"
   }, 

@@ -5,12 +5,13 @@
       1.217, 
       1.3707
     ], 
-    "gph": 627.7, 
     "triple_inshore": [
       0.7158, 
       0.9832, 
       1.1432
-    ]
+    ], 
+    "gph": 627.7, 
+    "osn": 610.2
   }, 
   "sailnumber": "BRA2421", 
   "name": "ASBAR IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.9, 
       "loa": 10.66, 
       "draft": 2.2, 
+      "wetted_surface": 27.8, 
       "main": 41.0, 
       "genoa": 32.5, 
       "displacement": 5688.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 645.0
     }, 
     "year": "2009"
   }, 

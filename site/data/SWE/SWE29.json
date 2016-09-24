@@ -5,12 +5,13 @@
       1.3642, 
       1.5502
     ], 
-    "gph": 561.0, 
     "triple_inshore": [
       0.7943, 
       1.0956, 
       1.2862
-    ]
+    ], 
+    "gph": 561.0, 
+    "osn": 545.1
   }, 
   "sailnumber": "SWE29", 
   "name": "ADA", 
@@ -25,10 +26,12 @@
       "spinnaker": 162.4, 
       "loa": 13.698, 
       "draft": 2.55, 
+      "wetted_surface": 39.4, 
       "main": 64.7, 
       "genoa": 45.8, 
       "displacement": 9800.0, 
-      "spinnaker_asym": 142.0
+      "spinnaker_asym": 142.0, 
+      "crew": 720.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       1.3548, 
       1.6143
     ], 
-    "gph": 571.0, 
     "triple_inshore": [
       0.7393, 
       1.0598, 
       1.3158
-    ]
+    ], 
+    "gph": 571.0, 
+    "osn": 552.7
   }, 
   "sailnumber": "ESP9115_C", 
   "name": "PELUXO XI", 
@@ -25,10 +26,12 @@
       "spinnaker": 194.1, 
       "loa": 16.26, 
       "draft": 2.23, 
+      "wetted_surface": 51.1, 
       "main": 58.3, 
       "genoa": 58.8, 
       "displacement": 14256.0, 
-      "spinnaker_asym": 186.0
+      "spinnaker_asym": 186.0, 
+      "crew": 920.0
     }, 
     "year": "2007"
   }, 

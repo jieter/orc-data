@@ -5,12 +5,13 @@
       1.2057, 
       1.3648
     ], 
-    "gph": 633.1, 
     "triple_inshore": [
       0.7124, 
       0.9711, 
       1.1462
-    ]
+    ], 
+    "gph": 633.1, 
+    "osn": 615.2
   }, 
   "sailnumber": "ITA9472", 
   "name": "RITMO", 
@@ -25,10 +26,12 @@
       "spinnaker": 127.9, 
       "loa": 12.408, 
       "draft": 2.29, 
+      "wetted_surface": 34.1, 
       "main": 36.9, 
       "genoa": 60.5, 
       "displacement": 9461.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "1981"
   }, 

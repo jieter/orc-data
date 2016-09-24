@@ -5,12 +5,13 @@
       1.3369, 
       1.507
     ], 
-    "gph": 566.5, 
     "triple_inshore": [
       0.8033, 
       1.0757, 
       1.2297
-    ]
+    ], 
+    "gph": 566.5, 
+    "osn": 553.8
   }, 
   "sailnumber": "NED10111", 
   "name": "Zeilblij", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.085, 
       "draft": 2.22, 
+      "wetted_surface": 25.4, 
       "main": 36.3, 
       "genoa": 34.0, 
       "displacement": 4313.0, 
-      "spinnaker_asym": 130.0
+      "spinnaker_asym": 130.0, 
+      "crew": 650.0
     }, 
     "year": "2011"
   }, 

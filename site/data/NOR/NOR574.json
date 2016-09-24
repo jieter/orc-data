@@ -5,12 +5,13 @@
       1.2147, 
       1.3707
     ], 
-    "gph": 624.9, 
     "triple_inshore": [
       0.7285, 
       0.9865, 
       1.1345
-    ]
+    ], 
+    "gph": 624.9, 
+    "osn": 609.4
   }, 
   "sailnumber": "NOR574", 
   "name": "Blade Runner", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.6, 
       "loa": 10.0, 
       "draft": 1.79, 
+      "wetted_surface": 20.1, 
       "main": 33.5, 
       "genoa": 30.3, 
       "displacement": 2967.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1985"
   }, 

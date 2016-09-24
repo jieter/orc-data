@@ -5,12 +5,13 @@
       1.2297, 
       1.3923
     ], 
-    "gph": 621.2, 
     "triple_inshore": [
       0.7246, 
       0.9934, 
       1.1575
-    ]
+    ], 
+    "gph": 621.2, 
+    "osn": 603.0
   }, 
   "sailnumber": "ITA12950", 
   "name": "COSIXTY 8", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.9, 
       "loa": 11.36, 
       "draft": 2.1, 
+      "wetted_surface": 27.8, 
       "main": 38.3, 
       "genoa": 35.3, 
       "displacement": 5428.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 745.0
     }, 
     "year": "1992"
   }, 

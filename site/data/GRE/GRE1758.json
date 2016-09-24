@@ -5,12 +5,13 @@
       1.1492, 
       1.3681
     ], 
-    "gph": 675.0, 
     "triple_inshore": [
       0.6233, 
       0.8963, 
       1.1092
-    ]
+    ], 
+    "gph": 675.0, 
+    "osn": 651.8
   }, 
   "sailnumber": "GRE1758", 
   "name": "CALYPSO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 2.1, 
+      "wetted_surface": 35.1, 
       "main": 34.9, 
       "genoa": 31.5, 
       "displacement": 7860.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 795.0
     }, 
     "year": "2010"
   }, 

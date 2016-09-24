@@ -5,12 +5,13 @@
       1.118, 
       1.2732
     ], 
-    "gph": 686.4, 
     "triple_inshore": [
       0.6472, 
       0.9009, 
       1.0617
-    ]
+    ], 
+    "gph": 686.4, 
+    "osn": 664.2
   }, 
   "sailnumber": "ITA13551", 
   "name": "DEA SELVATICA", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.8, 
       "loa": 9.5, 
       "draft": 1.92, 
+      "wetted_surface": 22.2, 
       "main": 23.7, 
       "genoa": 27.4, 
       "displacement": 3849.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1996"
   }, 

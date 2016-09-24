@@ -5,12 +5,13 @@
       1.1398, 
       1.2913
     ], 
-    "gph": 669.9, 
     "triple_inshore": [
       0.6745, 
       0.9252, 
       1.0779
-    ]
+    ], 
+    "gph": 669.9, 
+    "osn": 649.9
   }, 
   "sailnumber": "NED7200", 
   "name": "Roxane", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.7, 
       "loa": 8.959, 
       "draft": 1.81, 
+      "wetted_surface": 21.3, 
       "main": 26.2, 
       "genoa": 25.5, 
       "displacement": 3402.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 586.0
     }, 
     "year": "1994"
   }, 

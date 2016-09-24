@@ -5,12 +5,13 @@
       1.1692, 
       1.3196
     ], 
-    "gph": 653.1, 
     "triple_inshore": [
       0.6903, 
       0.9387, 
       1.103
-    ]
+    ], 
+    "gph": 653.1, 
+    "osn": 635.1
   }, 
   "sailnumber": "NED1502", 
   "name": "ROSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 124.0, 
       "loa": 12.7, 
       "draft": 2.06, 
+      "wetted_surface": 30.5, 
       "main": 35.4, 
       "genoa": 47.3, 
       "displacement": 7816.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 615.0
     }, 
     "year": "1970"
   }, 

@@ -5,12 +5,13 @@
       1.2144, 
       1.3802
     ], 
-    "gph": 629.5, 
     "triple_inshore": [
       0.712, 
       0.9811, 
       1.1602
-    ]
+    ], 
+    "gph": 629.5, 
+    "osn": 610.7
   }, 
   "sailnumber": "NED7643", 
   "name": "Joris K", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.1, 
       "loa": 11.215, 
       "draft": 2.08, 
+      "wetted_surface": 28.8, 
       "main": 38.6, 
       "genoa": 37.6, 
       "displacement": 6705.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 711.0
     }, 
     "year": "2003"
   }, 

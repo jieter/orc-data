@@ -5,12 +5,13 @@
       1.2196, 
       1.376
     ], 
-    "gph": 625.7, 
     "triple_inshore": [
       0.7202, 
       0.9852, 
       1.1563
-    ]
+    ], 
+    "gph": 625.7, 
+    "osn": 608.4
   }, 
   "sailnumber": "ITA14751", 
   "name": "LEA IL GABBIERE II?", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.1, 
       "loa": 11.215, 
       "draft": 2.09, 
+      "wetted_surface": 29.3, 
       "main": 41.6, 
       "genoa": 43.0, 
       "displacement": 6906.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 730.0
     }, 
     "year": "2004"
   }, 

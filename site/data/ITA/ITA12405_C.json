@@ -5,12 +5,13 @@
       1.1793, 
       1.3304
     ], 
-    "gph": 647.3, 
     "triple_inshore": [
       0.6956, 
       0.9534, 
       1.1158
-    ]
+    ], 
+    "gph": 647.3, 
+    "osn": 629.7
   }, 
   "sailnumber": "ITA12405_C", 
   "name": "GATTO BOTTIGLIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.977, 
       "draft": 2.03, 
+      "wetted_surface": 25.4, 
       "main": 29.0, 
       "genoa": 43.8, 
       "displacement": 5395.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 320.0
     }, 
     "year": "1992"
   }, 

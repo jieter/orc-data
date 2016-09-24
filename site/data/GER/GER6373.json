@@ -5,12 +5,13 @@
       1.3339, 
       1.5213
     ], 
-    "gph": 573.8, 
     "triple_inshore": [
       0.7572, 
       1.0569, 
       1.2519
-    ]
+    ], 
+    "gph": 573.8, 
+    "osn": 560.7
   }, 
   "sailnumber": "GER6373", 
   "name": "ARCONIA 4", 
@@ -25,10 +26,12 @@
       "spinnaker": 153.7, 
       "loa": 13.775, 
       "draft": 2.3, 
+      "wetted_surface": 39.7, 
       "main": 61.6, 
       "genoa": 47.7, 
       "displacement": 9637.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "2009"
   }, 

@@ -5,12 +5,13 @@
       1.2361, 
       1.4086
     ], 
-    "gph": 619.3, 
     "triple_inshore": [
       0.7151, 
       0.9868, 
       1.1691
-    ]
+    ], 
+    "gph": 619.3, 
+    "osn": 602.3
   }, 
   "sailnumber": "ESP9362", 
   "name": "GIDA III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.895, 
       "draft": 2.13, 
+      "wetted_surface": 34.1, 
       "main": 40.1, 
       "genoa": 51.5, 
       "displacement": 8549.0, 
-      "spinnaker_asym": 121.0
+      "spinnaker_asym": 121.0, 
+      "crew": 450.0
     }, 
     "year": "1998"
   }, 

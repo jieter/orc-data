@@ -5,12 +5,13 @@
       1.2406, 
       1.4024
     ], 
-    "gph": 616.1, 
     "triple_inshore": [
       0.7261, 
       0.9938, 
       1.1728
-    ]
+    ], 
+    "gph": 616.1, 
+    "osn": 599.4
   }, 
   "sailnumber": "ESP10278_C", 
   "name": "BERINGUINYS", 
@@ -25,10 +26,12 @@
       "spinnaker": 141.6, 
       "loa": 12.952, 
       "draft": 2.37, 
+      "wetted_surface": 37.0, 
       "main": 45.8, 
       "genoa": 73.1, 
       "displacement": 10642.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1987"
   }, 

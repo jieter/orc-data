@@ -5,12 +5,13 @@
       1.3021, 
       1.5559
     ], 
-    "gph": 580.7, 
     "triple_inshore": [
       0.7827, 
       1.0331, 
       1.2274
-    ]
+    ], 
+    "gph": 580.7, 
+    "osn": 564.1
   }, 
   "sailnumber": "ITA009", 
   "name": "GAMISEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.618, 
       "draft": 1.94, 
+      "wetted_surface": 13.9, 
       "main": 28.4, 
       "genoa": 20.4, 
       "displacement": 1214.0, 
-      "spinnaker_asym": 66.0
+      "spinnaker_asym": 66.0, 
+      "crew": 480.0
     }, 
     "year": "1995"
   }, 

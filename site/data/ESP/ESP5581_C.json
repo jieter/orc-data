@@ -5,12 +5,13 @@
       1.0437, 
       1.2043
     ], 
-    "gph": 732.9, 
     "triple_inshore": [
       0.6072, 
       0.8382, 
       1.0084
-    ]
+    ], 
+    "gph": 732.9, 
+    "osn": 711.0
   }, 
   "sailnumber": "ESP5581_C", 
   "name": "CRISTINA V", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.4, 
       "loa": 9.535, 
       "draft": 1.75, 
+      "wetted_surface": 21.5, 
       "main": 20.3, 
       "genoa": 31.3, 
       "displacement": 4405.0, 
-      "spinnaker_asym": 57.0
+      "spinnaker_asym": 57.0, 
+      "crew": 280.0
     }, 
     "year": "1979"
   }, 

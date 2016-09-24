@@ -5,12 +5,13 @@
       1.2154, 
       1.3696
     ], 
-    "gph": 624.8, 
     "triple_inshore": [
       0.736, 
       0.9952, 
       1.1428
-    ]
+    ], 
+    "gph": 624.8, 
+    "osn": 607.4
   }, 
   "sailnumber": "NED405", 
   "name": "T.T. SOETICHEYT", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.6, 
       "loa": 9.49, 
       "draft": 2.09, 
+      "wetted_surface": 20.1, 
       "main": 32.6, 
       "genoa": 23.1, 
       "displacement": 3050.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1996"
   }, 

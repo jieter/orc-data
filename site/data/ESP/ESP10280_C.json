@@ -5,12 +5,13 @@
       1.0975, 
       1.2351
     ], 
-    "gph": 694.0, 
     "triple_inshore": [
       0.6545, 
       0.8941, 
       1.038
-    ]
+    ], 
+    "gph": 694.0, 
+    "osn": 674.9
   }, 
   "sailnumber": "ESP10280_C", 
   "name": "VERENICE", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.9, 
       "loa": 9.0, 
       "draft": 1.74, 
+      "wetted_surface": 19.9, 
       "main": 29.3, 
       "genoa": 28.9, 
       "displacement": 3712.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1989"
   }, 

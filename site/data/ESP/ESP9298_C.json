@@ -5,12 +5,13 @@
       1.2595, 
       1.4689
     ], 
-    "gph": 609.9, 
     "triple_inshore": [
       0.7127, 
       0.9986, 
       1.2168
-    ]
+    ], 
+    "gph": 609.9, 
+    "osn": 591.9
   }, 
   "sailnumber": "ESP9298_C", 
   "name": "LLAMPA", 
@@ -25,10 +26,12 @@
       "spinnaker": 119.8, 
       "loa": 12.99, 
       "draft": 2.12, 
+      "wetted_surface": 42.7, 
       "main": 53.8, 
       "genoa": 59.3, 
       "displacement": 11632.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2006"
   }, 

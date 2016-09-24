@@ -5,12 +5,13 @@
       1.0459, 
       1.1941
     ], 
-    "gph": 724.9, 
     "triple_inshore": [
       0.6349, 
       0.8615, 
       0.9879
-    ]
+    ], 
+    "gph": 724.9, 
+    "osn": 702.7
   }, 
   "sailnumber": "ITA88FUN", 
   "name": "DULCIS IN FUNDO", 
@@ -25,10 +26,12 @@
       "spinnaker": 31.7, 
       "loa": 7.06, 
       "draft": 1.55, 
+      "wetted_surface": 10.4, 
       "main": 16.9, 
       "genoa": 11.5, 
       "displacement": 958.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1983"
   }, 

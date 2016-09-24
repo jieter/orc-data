@@ -5,12 +5,13 @@
       1.2595, 
       1.4174
     ], 
-    "gph": 603.3, 
     "triple_inshore": [
       0.7573, 
       1.0267, 
       1.1812
-    ]
+    ], 
+    "gph": 603.3, 
+    "osn": 587.6
   }, 
   "sailnumber": "ITA35212", 
   "name": "OLD FOX 35", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.6, 
       "loa": 10.6, 
       "draft": 2.17, 
+      "wetted_surface": 24.4, 
       "main": 42.7, 
       "genoa": 33.5, 
       "displacement": 4482.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 810.0
     }, 
     "year": "2005"
   }, 

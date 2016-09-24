@@ -5,12 +5,13 @@
       1.0324, 
       1.1831
     ], 
-    "gph": 741.4, 
     "triple_inshore": [
       0.6018, 
       0.8268, 
       0.9854
-    ]
+    ], 
+    "gph": 741.4, 
+    "osn": 719.6
   }, 
   "sailnumber": "NOR4253", 
   "name": "BOR", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.3, 
       "loa": 9.45, 
       "draft": 1.53, 
+      "wetted_surface": 22.0, 
       "main": 21.2, 
       "genoa": 27.2, 
       "displacement": 4347.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 498.0
     }, 
     "year": "1973"
   }, 

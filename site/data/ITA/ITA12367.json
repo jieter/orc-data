@@ -5,12 +5,13 @@
       1.2335, 
       1.3697
     ], 
-    "gph": 613.2, 
     "triple_inshore": [
       0.7542, 
       1.0031, 
       1.1497
-    ]
+    ], 
+    "gph": 613.2, 
+    "osn": 599.9
   }, 
   "sailnumber": "ITA12367", 
   "name": "VAMOS ADELANTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.2, 
       "loa": 11.0, 
       "draft": 2.12, 
+      "wetted_surface": 24.1, 
       "main": 36.8, 
       "genoa": 46.2, 
       "displacement": 4633.0, 
-      "spinnaker_asym": 105.0
+      "spinnaker_asym": 105.0, 
+      "crew": 150.0
     }, 
     "year": "1992"
   }, 

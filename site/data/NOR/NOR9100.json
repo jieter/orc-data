@@ -5,12 +5,13 @@
       1.276, 
       1.4411
     ], 
-    "gph": 596.3, 
     "triple_inshore": [
       0.7614, 
       1.0364, 
       1.2027
-    ]
+    ], 
+    "gph": 596.3, 
+    "osn": 580.1
   }, 
   "sailnumber": "NOR9100", 
   "name": "Virginia", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.8, 
       "loa": 10.97, 
       "draft": 2.26, 
+      "wetted_surface": 26.6, 
       "main": 37.7, 
       "genoa": 47.5, 
       "displacement": 4787.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 671.0
     }, 
     "year": "1995"
   }, 

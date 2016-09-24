@@ -5,12 +5,13 @@
       1.2806, 
       1.4563
     ], 
-    "gph": 597.4, 
     "triple_inshore": [
       0.7492, 
       1.0318, 
       1.2194
-    ]
+    ], 
+    "gph": 597.4, 
+    "osn": 579.4
   }, 
   "sailnumber": "NED7985", 
   "name": "Hideous Kinky", 
@@ -25,10 +26,12 @@
       "spinnaker": 118.5, 
       "loa": 12.259, 
       "draft": 2.15, 
+      "wetted_surface": 34.6, 
       "main": 50.6, 
       "genoa": 39.7, 
       "displacement": 8823.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 854.0
     }, 
     "year": "2007"
   }, 

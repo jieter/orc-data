@@ -5,12 +5,13 @@
       1.1169, 
       1.2961
     ], 
-    "gph": 687.9, 
     "triple_inshore": [
       0.633, 
       0.8788, 
       1.0644
-    ]
+    ], 
+    "gph": 687.9, 
+    "osn": 667.7
   }, 
   "sailnumber": "GRE1609", 
   "name": "HOY HOY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.268, 
       "draft": 1.63, 
+      "wetted_surface": 35.3, 
       "main": 39.5, 
       "genoa": 54.5, 
       "displacement": 10480.0, 
-      "spinnaker_asym": 100.0
+      "spinnaker_asym": 100.0, 
+      "crew": 715.0
     }, 
     "year": "1980"
   }, 

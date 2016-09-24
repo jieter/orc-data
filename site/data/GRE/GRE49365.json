@@ -5,12 +5,13 @@
       0.9499, 
       1.0997
     ], 
-    "gph": 812.6, 
     "triple_inshore": [
       0.5348, 
       0.7552, 
       0.9142
-    ]
+    ], 
+    "gph": 812.6, 
+    "osn": 784.8
   }, 
   "sailnumber": "GRE49365", 
   "name": "SIBA", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.2, 
       "loa": 8.205, 
       "draft": 1.58, 
+      "wetted_surface": 19.6, 
       "main": 14.9, 
       "genoa": 24.3, 
       "displacement": 3801.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1981"
   }, 

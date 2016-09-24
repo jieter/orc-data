@@ -5,12 +5,13 @@
       1.2827, 
       1.4733
     ], 
-    "gph": 599.9, 
     "triple_inshore": [
       0.7264, 
       1.0109, 
       1.1963
-    ]
+    ], 
+    "gph": 599.9, 
+    "osn": 582.5
   }, 
   "sailnumber": "ITAFREEI", 
   "name": "FREE IN THE WIND", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.99, 
       "draft": 2.04, 
+      "wetted_surface": 42.1, 
       "main": 48.9, 
       "genoa": 53.9, 
       "displacement": 11035.0, 
-      "spinnaker_asym": 138.0
+      "spinnaker_asym": 138.0, 
+      "crew": 150.0
     }, 
     "year": "2004"
   }, 

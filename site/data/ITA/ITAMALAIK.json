@@ -5,12 +5,13 @@
       1.2895, 
       1.504
     ], 
-    "gph": 599.1, 
     "triple_inshore": [
       0.7098, 
       1.0032, 
       1.2084
-    ]
+    ], 
+    "gph": 599.1, 
+    "osn": 582.1
   }, 
   "sailnumber": "ITAMALAIK", 
   "name": "MALAIKA 5", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.95, 
       "draft": 1.8, 
+      "wetted_surface": 45.6, 
       "main": 45.6, 
       "genoa": 83.0, 
       "displacement": 13080.0, 
-      "spinnaker_asym": 141.0
+      "spinnaker_asym": 141.0, 
+      "crew": 800.0
     }, 
     "year": "1997"
   }, 

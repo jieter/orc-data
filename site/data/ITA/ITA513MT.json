@@ -5,12 +5,13 @@
       1.0753, 
       1.2125
     ], 
-    "gph": 691.8, 
     "triple_inshore": [
       0.6992, 
       0.8727, 
       0.9925
-    ]
+    ], 
+    "gph": 691.8, 
+    "osn": 679.0
   }, 
   "sailnumber": "ITA513MT", 
   "name": "YAK", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.5, 
       "draft": 1.6, 
+      "wetted_surface": 11.5, 
       "main": 24.7, 
       "genoa": 14.9, 
       "displacement": 1000.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 180.0
     }, 
     "year": "2004"
   }, 

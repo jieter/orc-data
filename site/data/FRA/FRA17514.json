@@ -5,12 +5,13 @@
       1.1355, 
       1.2876
     ], 
-    "gph": 674.1, 
     "triple_inshore": [
       0.6641, 
       0.9159, 
       1.0779
-    ]
+    ], 
+    "gph": 674.1, 
+    "osn": 653.8
   }, 
   "sailnumber": "FRA17514", 
   "name": "ABI", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.9, 
       "loa": 9.798, 
       "draft": 2.11, 
+      "wetted_surface": 24.4, 
       "main": 29.4, 
       "genoa": 32.8, 
       "displacement": 4837.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1996"
   }, 

@@ -5,12 +5,13 @@
       1.4042, 
       1.5825
     ], 
-    "gph": 540.5, 
     "triple_inshore": [
       0.8423, 
       1.137, 
       1.3225
-    ]
+    ], 
+    "gph": 540.5, 
+    "osn": 527.4
   }, 
   "sailnumber": "ESP9400", 
   "name": "RATS ON FIRE", 
@@ -25,10 +26,12 @@
       "spinnaker": 153.5, 
       "loa": 13.829, 
       "draft": 2.84, 
+      "wetted_surface": 38.8, 
       "main": 78.5, 
       "genoa": 54.1, 
       "displacement": 10088.0, 
-      "spinnaker_asym": 153.0
+      "spinnaker_asym": 153.0, 
+      "crew": 950.0
     }, 
     "year": "2001"
   }, 

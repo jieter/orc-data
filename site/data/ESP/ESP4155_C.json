@@ -5,12 +5,13 @@
       0.9857, 
       1.1382
     ], 
-    "gph": 783.5, 
     "triple_inshore": [
       0.5521, 
       0.7775, 
       0.9344
-    ]
+    ], 
+    "gph": 783.5, 
+    "osn": 758.5
   }, 
   "sailnumber": "ESP4155_C", 
   "name": "SNOOPY III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.43, 
       "draft": 1.62, 
+      "wetted_surface": 18.1, 
       "main": 19.0, 
       "genoa": 22.1, 
       "displacement": 2821.0, 
-      "spinnaker_asym": 39.0
+      "spinnaker_asym": 39.0, 
+      "crew": 146.0
     }, 
     "year": "1986"
   }, 

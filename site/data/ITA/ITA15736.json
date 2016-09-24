@@ -5,12 +5,13 @@
       1.1701, 
       1.3098
     ], 
-    "gph": 652.3, 
     "triple_inshore": [
       0.6853, 
       0.9202, 
       1.0745
-    ]
+    ], 
+    "gph": 652.3, 
+    "osn": 638.4
   }, 
   "sailnumber": "ITA15736", 
   "name": "SERENITY", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.0, 
       "loa": 13.635, 
       "draft": 1.83, 
+      "wetted_surface": 31.3, 
       "main": 41.9, 
       "genoa": 49.4, 
       "displacement": 9100.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "1965"
   }, 

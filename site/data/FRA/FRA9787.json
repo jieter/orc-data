@@ -5,12 +5,13 @@
       1.4054, 
       1.6639
     ], 
-    "gph": 544.5, 
     "triple_inshore": [
       0.7925, 
       1.1023, 
       1.3134
-    ]
+    ], 
+    "gph": 544.5, 
+    "osn": 530.8
   }, 
   "sailnumber": "FRA9787", 
   "name": "DIOGENE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.18, 
       "draft": 2.13, 
+      "wetted_surface": 36.9, 
       "main": 50.9, 
       "genoa": 41.5, 
       "displacement": 5322.0, 
-      "spinnaker_asym": 169.0
+      "spinnaker_asym": 169.0, 
+      "crew": 977.0
     }, 
     "year": "2005"
   }, 

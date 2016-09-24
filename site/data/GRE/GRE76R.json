@@ -5,12 +5,13 @@
       1.6589, 
       1.9506
     ], 
-    "gph": 459.9, 
     "triple_inshore": [
       0.9593, 
       1.3091, 
       1.5613
-    ]
+    ], 
+    "gph": 459.9, 
+    "osn": 447.3
   }, 
   "sailnumber": "GRE76R", 
   "name": "BULLET", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.85, 
       "draft": 3.2, 
+      "wetted_surface": 44.5, 
       "main": 92.0, 
       "genoa": 62.9, 
       "displacement": 7425.0, 
-      "spinnaker_asym": 252.0
+      "spinnaker_asym": 252.0, 
+      "crew": 1190.0
     }, 
     "year": "2006"
   }, 

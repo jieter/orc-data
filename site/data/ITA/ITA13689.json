@@ -5,12 +5,13 @@
       1.2568, 
       1.4173
     ], 
-    "gph": 608.0, 
     "triple_inshore": [
       0.7386, 
       1.0121, 
       1.1832
-    ]
+    ], 
+    "gph": 608.0, 
+    "osn": 591.3
   }, 
   "sailnumber": "ITA13689", 
   "name": "ILUKA", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.6, 
       "loa": 11.924, 
       "draft": 2.39, 
+      "wetted_surface": 31.5, 
       "main": 48.7, 
       "genoa": 38.2, 
       "displacement": 7205.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 570.0
     }, 
     "year": "1997"
   }, 

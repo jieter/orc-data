@@ -5,12 +5,13 @@
       1.2732, 
       1.4478
     ], 
-    "gph": 600.3, 
     "triple_inshore": [
       0.7458, 
       1.0296, 
       1.2112
-    ]
+    ], 
+    "gph": 600.3, 
+    "osn": 582.7
   }, 
   "sailnumber": "POR8155", 
   "name": "GIANZO", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.5, 
       "loa": 11.99, 
       "draft": 2.39, 
+      "wetted_surface": 31.1, 
       "main": 44.7, 
       "genoa": 46.5, 
       "displacement": 7027.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 785.0
     }, 
     "year": "2000"
   }, 

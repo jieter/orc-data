@@ -5,12 +5,13 @@
       1.0163, 
       1.1461
     ], 
-    "gph": 747.5, 
     "triple_inshore": [
       0.6153, 
       0.8374, 
       0.963
-    ]
+    ], 
+    "gph": 747.5, 
+    "osn": 725.5
   }, 
   "sailnumber": "ESP631_C", 
   "name": "CALM DAYS", 
@@ -25,10 +26,12 @@
       "spinnaker": 30.0, 
       "loa": 6.578, 
       "draft": 1.45, 
+      "wetted_surface": 11.6, 
       "main": 17.8, 
       "genoa": 10.3, 
       "displacement": 1336.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 250.0
     }, 
     "year": "1986"
   }, 

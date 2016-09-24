@@ -5,12 +5,13 @@
       1.0494, 
       1.2225
     ], 
-    "gph": 733.0, 
     "triple_inshore": [
       0.5926, 
       0.8225, 
       0.9974
-    ]
+    ], 
+    "gph": 733.0, 
+    "osn": 710.7
   }, 
   "sailnumber": "NOR15381", 
   "name": "Henine", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.75, 
       "draft": 1.56, 
+      "wetted_surface": 22.5, 
       "main": 23.5, 
       "genoa": 22.7, 
       "displacement": 4830.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 587.0
     }, 
     "year": "2009"
   }, 

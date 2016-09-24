@@ -5,12 +5,13 @@
       1.1119, 
       1.2707
     ], 
-    "gph": 690.4, 
     "triple_inshore": [
       0.6389, 
       0.9093, 
       1.0764
-    ]
+    ], 
+    "gph": 690.4, 
+    "osn": 667.8
   }, 
   "sailnumber": "NED8675", 
   "name": "OffRoad", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.3, 
       "draft": 2.16, 
+      "wetted_surface": 20.4, 
       "main": 29.1, 
       "genoa": 22.4, 
       "displacement": 2780.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 552.0
     }, 
     "year": "2004"
   }, 

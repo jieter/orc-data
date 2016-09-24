@@ -5,12 +5,13 @@
       1.2218, 
       1.4082
     ], 
-    "gph": 629.3, 
     "triple_inshore": [
       0.6933, 
       0.9744, 
       1.1717
-    ]
+    ], 
+    "gph": 629.3, 
+    "osn": 609.9
   }, 
   "sailnumber": "CRO1381", 
   "name": "Sjor", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.3, 
       "loa": 12.016, 
       "draft": 2.19, 
+      "wetted_surface": 33.1, 
       "main": 46.8, 
       "genoa": 47.3, 
       "displacement": 8196.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "2000"
   }, 

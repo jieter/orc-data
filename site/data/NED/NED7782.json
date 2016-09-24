@@ -5,12 +5,13 @@
       1.2234, 
       1.3801
     ], 
-    "gph": 622.7, 
     "triple_inshore": [
       0.7288, 
       0.9959, 
       1.1598
-    ]
+    ], 
+    "gph": 622.7, 
+    "osn": 605.6
   }, 
   "sailnumber": "NED7782", 
   "name": "Elyxir", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.1, 
       "loa": 10.72, 
       "draft": 2.24, 
+      "wetted_surface": 26.7, 
       "main": 38.5, 
       "genoa": 38.8, 
       "displacement": 5221.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "1993"
   }, 

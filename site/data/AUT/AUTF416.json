@@ -5,12 +5,13 @@
       1.159, 
       1.3558
     ], 
-    "gph": 664.3, 
     "triple_inshore": [
       0.6532, 
       0.919, 
       1.1231
-    ]
+    ], 
+    "gph": 664.3, 
+    "osn": 642.9
   }, 
   "sailnumber": "AUTF416", 
   "name": "ADVENTURE III", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.8, 
       "loa": 12.22, 
       "draft": 2.0, 
+      "wetted_surface": 36.2, 
       "main": 34.2, 
       "genoa": 45.5, 
       "displacement": 8980.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "1990"
   }, 

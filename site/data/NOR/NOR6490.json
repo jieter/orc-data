@@ -5,12 +5,13 @@
       1.1042, 
       1.234
     ], 
-    "gph": 691.0, 
     "triple_inshore": [
       0.6567, 
       0.8994, 
       1.0413
-    ]
+    ], 
+    "gph": 691.0, 
+    "osn": 672.0
   }, 
   "sailnumber": "NOR6490", 
   "name": "Nena", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.6, 
       "loa": 9.95, 
       "draft": 1.74, 
+      "wetted_surface": 17.5, 
       "main": 25.2, 
       "genoa": 19.2, 
       "displacement": 3153.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 518.0
     }, 
     "year": "1976"
   }, 

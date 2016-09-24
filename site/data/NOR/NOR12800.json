@@ -5,12 +5,13 @@
       1.2133, 
       1.3607
     ], 
-    "gph": 627.6, 
     "triple_inshore": [
       0.7227, 
       0.9829, 
       1.1392
-    ]
+    ], 
+    "gph": 627.6, 
+    "osn": 611.9
   }, 
   "sailnumber": "NOR12800", 
   "name": "Vilja", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.5, 
       "loa": 10.64, 
       "draft": 2.22, 
+      "wetted_surface": 26.6, 
       "main": 40.2, 
       "genoa": 42.9, 
       "displacement": 5570.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 641.0
     }, 
     "year": "2002"
   }, 

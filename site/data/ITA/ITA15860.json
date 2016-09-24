@@ -5,12 +5,13 @@
       1.2239, 
       1.4162
     ], 
-    "gph": 628.0, 
     "triple_inshore": [
       0.6981, 
       0.9777, 
       1.1837
-    ]
+    ], 
+    "gph": 628.0, 
+    "osn": 607.9
   }, 
   "sailnumber": "ITA15860", 
   "name": "ZARINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.2, 
       "loa": 12.112, 
       "draft": 2.2, 
+      "wetted_surface": 33.9, 
       "main": 44.1, 
       "genoa": 35.7, 
       "displacement": 8952.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "2006"
   }, 

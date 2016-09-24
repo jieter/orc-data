@@ -5,12 +5,13 @@
       1.2833, 
       1.4651
     ], 
-    "gph": 598.2, 
     "triple_inshore": [
       0.7371, 
       1.0248, 
       1.2137
-    ]
+    ], 
+    "gph": 598.2, 
+    "osn": 580.5
   }, 
   "sailnumber": "ITA16748", 
   "name": "FENICIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 116.2, 
       "loa": 12.73, 
       "draft": 2.27, 
+      "wetted_surface": 34.0, 
       "main": 47.8, 
       "genoa": 41.6, 
       "displacement": 7979.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "2006"
   }, 

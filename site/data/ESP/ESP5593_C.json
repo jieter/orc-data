@@ -5,12 +5,13 @@
       1.2307, 
       1.3995
     ], 
-    "gph": 621.0, 
     "triple_inshore": [
       0.7161, 
       0.9768, 
       1.1634
-    ]
+    ], 
+    "gph": 621.0, 
+    "osn": 605.3
   }, 
   "sailnumber": "ESP5593_C", 
   "name": "RAFAELA", 
@@ -25,10 +26,12 @@
       "spinnaker": 131.7, 
       "loa": 13.4, 
       "draft": 2.39, 
+      "wetted_surface": 42.1, 
       "main": 42.3, 
       "genoa": 81.0, 
       "displacement": 13810.0, 
-      "spinnaker_asym": 131.0
+      "spinnaker_asym": 131.0, 
+      "crew": 480.0
     }, 
     "year": "1974"
   }, 

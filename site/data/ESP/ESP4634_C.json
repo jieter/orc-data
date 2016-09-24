@@ -5,12 +5,13 @@
       1.1215, 
       1.2665
     ], 
-    "gph": 681.7, 
     "triple_inshore": [
       0.6595, 
       0.9097, 
       1.0621
-    ]
+    ], 
+    "gph": 681.7, 
+    "osn": 661.9
   }, 
   "sailnumber": "ESP4634_C", 
   "name": "VEGA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 53.9, 
       "loa": 9.344, 
       "draft": 1.97, 
+      "wetted_surface": 20.5, 
       "main": 27.2, 
       "genoa": 28.0, 
       "displacement": 3663.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1993"
   }, 

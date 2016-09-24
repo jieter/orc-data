@@ -5,12 +5,13 @@
       1.2171, 
       1.3848
     ], 
-    "gph": 617.1, 
     "triple_inshore": [
       0.7511, 
       0.9756, 
       1.1264
-    ]
+    ], 
+    "gph": 617.1, 
+    "osn": 605.9
   }, 
   "sailnumber": "GER012", 
   "name": "Wilde Perle", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.99, 
       "draft": 1.96, 
+      "wetted_surface": 15.9, 
       "main": 26.2, 
       "genoa": 19.3, 
       "displacement": 1525.0, 
-      "spinnaker_asym": 74.0
+      "spinnaker_asym": 74.0, 
+      "crew": 300.0
     }, 
     "year": "2012"
   }, 

@@ -5,12 +5,13 @@
       1.2468, 
       1.4015
     ], 
-    "gph": 609.7, 
     "triple_inshore": [
       0.746, 
       1.0083, 
       1.1677
-    ]
+    ], 
+    "gph": 609.7, 
+    "osn": 594.5
   }, 
   "sailnumber": "NOR8888", 
   "name": "Xcite", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.6, 
       "loa": 11.365, 
       "draft": 2.1, 
+      "wetted_surface": 27.6, 
       "main": 39.0, 
       "genoa": 51.9, 
       "displacement": 5472.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 666.0
     }, 
     "year": "1992"
   }, 

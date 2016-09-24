@@ -5,12 +5,13 @@
       1.1543, 
       1.3009
     ], 
-    "gph": 662.1, 
     "triple_inshore": [
       0.6775, 
       0.9265, 
       1.0857
-    ]
+    ], 
+    "gph": 662.1, 
+    "osn": 643.8
   }, 
   "sailnumber": "GRE49331", 
   "name": "HAPPY CAPTAIN II", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.6, 
       "loa": 11.24, 
       "draft": 1.94, 
+      "wetted_surface": 28.4, 
       "main": 32.0, 
       "genoa": 47.9, 
       "displacement": 6515.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1982"
   }, 

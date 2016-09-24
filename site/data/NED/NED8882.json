@@ -5,12 +5,13 @@
       1.4552, 
       1.693
     ], 
-    "gph": 522.1, 
     "triple_inshore": [
       0.8616, 
       1.1625, 
       1.3646
-    ]
+    ], 
+    "gph": 522.1, 
+    "osn": 508.0
   }, 
   "sailnumber": "NED8882", 
   "name": "Leeloo", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.8, 
       "draft": 2.48, 
+      "wetted_surface": 28.5, 
       "main": 55.6, 
       "genoa": 38.2, 
       "displacement": 4350.0, 
-      "spinnaker_asym": 178.0
+      "spinnaker_asym": 178.0, 
+      "crew": 910.0
     }, 
     "year": "2015"
   }, 

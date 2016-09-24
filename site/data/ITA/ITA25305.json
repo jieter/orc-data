@@ -5,12 +5,13 @@
       1.0996, 
       1.231
     ], 
-    "gph": 685.2, 
     "triple_inshore": [
       0.6847, 
       0.9018, 
       1.0167
-    ]
+    ], 
+    "gph": 685.2, 
+    "osn": 668.7
   }, 
   "sailnumber": "ITA25305", 
   "name": "BOOMERANG", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.4, 
       "loa": 7.512, 
       "draft": 1.57, 
+      "wetted_surface": 12.3, 
       "main": 21.0, 
       "genoa": 13.1, 
       "displacement": 1345.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 330.0
     }, 
     "year": "1997"
   }, 

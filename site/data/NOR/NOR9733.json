@@ -5,12 +5,13 @@
       1.0869, 
       1.2667
     ], 
-    "gph": 710.0, 
     "triple_inshore": [
       0.6062, 
       0.8696, 
       1.0596
-    ]
+    ], 
+    "gph": 710.0, 
+    "osn": 686.1
   }, 
   "sailnumber": "NOR9733", 
   "name": "Villa Vilja", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.63, 
       "draft": 1.88, 
+      "wetted_surface": 24.9, 
       "main": 32.7, 
       "genoa": 32.2, 
       "displacement": 5154.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 599.0
     }, 
     "year": "1999"
   }, 

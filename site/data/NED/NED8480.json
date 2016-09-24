@@ -5,12 +5,13 @@
       1.1946, 
       1.4594
     ], 
-    "gph": 639.8, 
     "triple_inshore": [
       0.6812, 
       0.9318, 
       1.1444
-    ]
+    ], 
+    "gph": 639.8, 
+    "osn": 618.3
   }, 
   "sailnumber": "NED8480", 
   "name": "Grijze Plaag", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.82, 
       "draft": 1.38, 
+      "wetted_surface": 9.5, 
       "main": 17.0, 
       "genoa": 8.3, 
       "displacement": 435.0, 
-      "spinnaker_asym": 41.0
+      "spinnaker_asym": 41.0, 
+      "crew": 225.0
     }, 
     "year": "2011"
   }, 

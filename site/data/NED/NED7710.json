@@ -5,12 +5,13 @@
       1.1864, 
       1.37
     ], 
-    "gph": 647.0, 
     "triple_inshore": [
       0.6803, 
       0.9558, 
       1.1312
-    ]
+    ], 
+    "gph": 647.0, 
+    "osn": 626.1
   }, 
   "sailnumber": "NED7710", 
   "name": "Vuurflits", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.5, 
       "loa": 9.55, 
       "draft": 2.1, 
+      "wetted_surface": 21.0, 
       "main": 31.6, 
       "genoa": 19.9, 
       "displacement": 2994.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 510.0
     }, 
     "year": "2000"
   }, 

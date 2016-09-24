@@ -5,12 +5,13 @@
       1.166, 
       1.2919
     ], 
-    "gph": 653.4, 
     "triple_inshore": [
       0.6943, 
       0.941, 
       1.0766
-    ]
+    ], 
+    "gph": 653.4, 
+    "osn": 637.8
   }, 
   "sailnumber": "GER4159", 
   "name": "SCHRAT II", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.5, 
       "loa": 11.16, 
       "draft": 1.8, 
+      "wetted_surface": 22.4, 
       "main": 29.0, 
       "genoa": 30.8, 
       "displacement": 4155.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1980"
   }, 

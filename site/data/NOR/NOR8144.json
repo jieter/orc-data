@@ -5,12 +5,13 @@
       1.2525, 
       1.4103
     ], 
-    "gph": 608.3, 
     "triple_inshore": [
       0.7445, 
       1.0122, 
       1.1829
-    ]
+    ], 
+    "gph": 608.3, 
+    "osn": 592.2
   }, 
   "sailnumber": "NOR8144", 
   "name": "Roxanne", 
@@ -25,10 +26,12 @@
       "spinnaker": 121.6, 
       "loa": 12.512, 
       "draft": 2.25, 
+      "wetted_surface": 32.2, 
       "main": 40.6, 
       "genoa": 61.5, 
       "displacement": 8137.0, 
-      "spinnaker_asym": 114.0
+      "spinnaker_asym": 114.0, 
+      "crew": 728.0
     }, 
     "year": "1990"
   }, 

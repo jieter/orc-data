@@ -5,12 +5,13 @@
       1.1252, 
       1.2672
     ], 
-    "gph": 671.1, 
     "triple_inshore": [
       0.6933, 
       0.9159, 
       1.0273
-    ]
+    ], 
+    "gph": 671.1, 
+    "osn": 655.2
   }, 
   "sailnumber": "ITA13225", 
   "name": "CHICA", 
@@ -25,10 +26,12 @@
       "spinnaker": 41.6, 
       "loa": 7.7, 
       "draft": 1.68, 
+      "wetted_surface": 11.8, 
       "main": 24.2, 
       "genoa": 12.6, 
       "displacement": 1233.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 378.0
     }, 
     "year": "1998"
   }, 

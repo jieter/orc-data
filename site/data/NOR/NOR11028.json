@@ -5,12 +5,13 @@
       1.1769, 
       1.3236
     ], 
-    "gph": 648.5, 
     "triple_inshore": [
       0.6934, 
       0.9488, 
       1.1023
-    ]
+    ], 
+    "gph": 648.5, 
+    "osn": 631.1
   }, 
   "sailnumber": "NOR11028", 
   "name": "EL DORADO", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.2, 
       "loa": 10.34, 
       "draft": 1.94, 
+      "wetted_surface": 25.2, 
       "main": 35.7, 
       "genoa": 35.2, 
       "displacement": 5174.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 613.0
     }, 
     "year": "2004"
   }, 

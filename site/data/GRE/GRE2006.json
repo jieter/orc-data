@@ -5,12 +5,13 @@
       1.3053, 
       1.4677
     ], 
-    "gph": 583.2, 
     "triple_inshore": [
       0.7787, 
       1.0586, 
       1.2268
-    ]
+    ], 
+    "gph": 583.2, 
+    "osn": 567.9
   }, 
   "sailnumber": "GRE2006", 
   "name": "ELLINIXX", 
@@ -25,10 +26,12 @@
       "spinnaker": 125.6, 
       "loa": 12.1, 
       "draft": 2.42, 
+      "wetted_surface": 31.0, 
       "main": 50.1, 
       "genoa": 49.8, 
       "displacement": 6653.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "2000"
   }, 

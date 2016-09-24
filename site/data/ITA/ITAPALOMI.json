@@ -5,12 +5,13 @@
       1.1616, 
       1.3295
     ], 
-    "gph": 663.6, 
     "triple_inshore": [
       0.6562, 
       0.9192, 
       1.0861
-    ]
+    ], 
+    "gph": 663.6, 
+    "osn": 642.6
   }, 
   "sailnumber": "ITAPALOMI", 
   "name": "PALOMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.69, 
       "draft": 1.93, 
+      "wetted_surface": 27.9, 
       "main": 31.8, 
       "genoa": 37.1, 
       "displacement": 5660.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 500.0
     }, 
     "year": "2007"
   }, 

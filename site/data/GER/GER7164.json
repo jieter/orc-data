@@ -5,12 +5,13 @@
       1.1984, 
       1.3402
     ], 
-    "gph": 635.2, 
     "triple_inshore": [
       0.7188, 
       0.9754, 
       1.1238
-    ]
+    ], 
+    "gph": 635.2, 
+    "osn": 618.3
   }, 
   "sailnumber": "GER7164", 
   "name": "KARUMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.4, 
       "loa": 9.982, 
       "draft": 2.0, 
+      "wetted_surface": 23.7, 
       "main": 35.8, 
       "genoa": 30.8, 
       "displacement": 4675.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 545.0
     }, 
     "year": "2005"
   }, 

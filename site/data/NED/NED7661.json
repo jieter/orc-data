@@ -5,12 +5,13 @@
       1.127, 
       1.3006
     ], 
-    "gph": 679.5, 
     "triple_inshore": [
       0.6496, 
       0.9092, 
       1.0623
-    ]
+    ], 
+    "gph": 679.5, 
+    "osn": 658.3
   }, 
   "sailnumber": "NED7661", 
   "name": "El Toro", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.5, 
       "loa": 9.304, 
       "draft": 1.39, 
+      "wetted_surface": 13.0, 
       "main": 21.3, 
       "genoa": 9.6, 
       "displacement": 1495.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 380.0
     }, 
     "year": "1971"
   }, 

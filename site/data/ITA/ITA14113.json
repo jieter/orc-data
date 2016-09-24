@@ -5,12 +5,13 @@
       1.2647, 
       1.4717
     ], 
-    "gph": 607.7, 
     "triple_inshore": [
       0.716, 
       1.0067, 
       1.225
-    ]
+    ], 
+    "gph": 607.7, 
+    "osn": 589.1
   }, 
   "sailnumber": "ITA14113", 
   "name": "GIN DRY 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 148.8, 
       "loa": 14.03, 
       "draft": 2.44, 
+      "wetted_surface": 42.4, 
       "main": 45.0, 
       "genoa": 69.7, 
       "displacement": 11804.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1998"
   }, 

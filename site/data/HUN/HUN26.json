@@ -5,12 +5,13 @@
       1.2059, 
       1.3904
     ], 
-    "gph": 639.6, 
     "triple_inshore": [
       0.672, 
       0.9534, 
       1.127
-    ]
+    ], 
+    "gph": 639.6, 
+    "osn": 620.8
   }, 
   "sailnumber": "HUN26", 
   "name": "Manoken", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.7, 
       "loa": 13.125, 
       "draft": 1.53, 
+      "wetted_surface": 20.4, 
       "main": 27.2, 
       "genoa": 23.2, 
       "displacement": 3042.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 544.0
     }, 
     "year": "1938"
   }, 

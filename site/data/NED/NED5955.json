@@ -5,12 +5,13 @@
       1.136, 
       1.2743
     ], 
-    "gph": 668.3, 
     "triple_inshore": [
       0.6866, 
       0.917, 
       1.0693
-    ]
+    ], 
+    "gph": 668.3, 
+    "osn": 652.3
   }, 
   "sailnumber": "NED5955", 
   "name": "TIJDGEEST", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.8, 
       "loa": 11.01, 
       "draft": 1.94, 
+      "wetted_surface": 29.3, 
       "main": 31.3, 
       "genoa": 57.3, 
       "displacement": 8460.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 599.0
     }, 
     "year": "1974"
   }, 

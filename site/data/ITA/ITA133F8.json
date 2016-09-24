@@ -5,12 +5,13 @@
       1.1153, 
       1.2617
     ], 
-    "gph": 678.9, 
     "triple_inshore": [
       0.6802, 
       0.9188, 
       1.0515
-    ]
+    ], 
+    "gph": 678.9, 
+    "osn": 660.0
   }, 
   "sailnumber": "ITA133F8", 
   "name": "MENOVENTI", 
@@ -25,10 +26,12 @@
       "spinnaker": 44.2, 
       "loa": 7.79, 
       "draft": 1.84, 
+      "wetted_surface": 14.2, 
       "main": 21.9, 
       "genoa": 18.6, 
       "displacement": 1568.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 411.0
     }, 
     "year": "1981"
   }, 

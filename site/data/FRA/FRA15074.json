@@ -5,12 +5,13 @@
       1.2393, 
       1.4168
     ], 
-    "gph": 614.3, 
     "triple_inshore": [
       0.7234, 
       0.9906, 
       1.1567
-    ]
+    ], 
+    "gph": 614.3, 
+    "osn": 599.5
   }, 
   "sailnumber": "FRA15074", 
   "name": "KIKO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.632, 
       "draft": 1.98, 
+      "wetted_surface": 24.3, 
       "main": 42.4, 
       "genoa": 20.7, 
       "displacement": 3850.0, 
-      "spinnaker_asym": 77.0
+      "spinnaker_asym": 77.0, 
+      "crew": 657.0
     }, 
     "year": "1991"
   }, 

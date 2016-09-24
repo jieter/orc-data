@@ -5,12 +5,13 @@
       1.3455, 
       1.5534
     ], 
-    "gph": 565.3, 
     "triple_inshore": [
       0.7948, 
       1.0771, 
       1.2514
-    ]
+    ], 
+    "gph": 565.3, 
+    "osn": 550.2
   }, 
   "sailnumber": "FRA9449", 
   "name": "XLR8", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.3, 
       "loa": 10.5, 
       "draft": 2.21, 
+      "wetted_surface": 26.6, 
       "main": 48.6, 
       "genoa": 31.6, 
       "displacement": 3260.0, 
-      "spinnaker_asym": 118.0
+      "spinnaker_asym": 118.0, 
+      "crew": 600.0
     }, 
     "year": "1987"
   }, 

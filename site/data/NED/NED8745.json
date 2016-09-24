@@ -5,12 +5,13 @@
       1.0159, 
       1.1854
     ], 
-    "gph": 756.9, 
     "triple_inshore": [
       0.58, 
       0.8218, 
       0.999
-    ]
+    ], 
+    "gph": 756.9, 
+    "osn": 730.2
   }, 
   "sailnumber": "NED8745", 
   "name": "Carino", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.0, 
       "loa": 7.5, 
       "draft": 1.77, 
+      "wetted_surface": 17.2, 
       "main": 17.3, 
       "genoa": 14.7, 
       "displacement": 2240.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 446.0
     }, 
     "year": "2006"
   }, 

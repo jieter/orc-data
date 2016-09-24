@@ -5,12 +5,13 @@
       1.1973, 
       1.3446
     ], 
-    "gph": 636.1, 
     "triple_inshore": [
       0.7143, 
       0.9715, 
       1.1188
-    ]
+    ], 
+    "gph": 636.1, 
+    "osn": 619.1
   }, 
   "sailnumber": "NOR15227", 
   "name": "Kanaloa", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.9, 
       "loa": 9.52, 
       "draft": 1.94, 
+      "wetted_surface": 23.8, 
       "main": 37.6, 
       "genoa": 26.6, 
       "displacement": 4145.0, 
-      "spinnaker_asym": 80.0
+      "spinnaker_asym": 80.0, 
+      "crew": 571.0
     }, 
     "year": "2011"
   }, 

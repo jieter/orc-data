@@ -5,12 +5,13 @@
       1.171, 
       1.3427
     ], 
-    "gph": 654.3, 
     "triple_inshore": [
       0.6789, 
       0.9419, 
       1.127
-    ]
+    ], 
+    "gph": 654.3, 
+    "osn": 633.8
   }, 
   "sailnumber": "NED8519", 
   "name": "Marlene", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.4, 
       "loa": 10.944, 
       "draft": 2.1, 
+      "wetted_surface": 29.6, 
       "main": 36.0, 
       "genoa": 33.3, 
       "displacement": 6747.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 520.0
     }, 
     "year": "2000"
   }, 

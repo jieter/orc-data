@@ -5,12 +5,13 @@
       1.1789, 
       1.3338
     ], 
-    "gph": 648.3, 
     "triple_inshore": [
       0.694, 
       0.9548, 
       1.1157
-    ]
+    ], 
+    "gph": 648.3, 
+    "osn": 629.2
   }, 
   "sailnumber": "FIN11625", 
   "name": "LOW", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.6, 
       "loa": 9.982, 
       "draft": 2.0, 
+      "wetted_surface": 23.7, 
       "main": 34.7, 
       "genoa": 26.3, 
       "displacement": 4616.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 595.0
     }, 
     "year": "2005"
   }, 

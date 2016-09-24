@@ -5,12 +5,13 @@
       1.105, 
       1.2609
     ], 
-    "gph": 696.4, 
     "triple_inshore": [
       0.633, 
       0.88, 
       1.0414
-    ]
+    ], 
+    "gph": 696.4, 
+    "osn": 673.5
   }, 
   "sailnumber": "NOR14385", 
   "name": "Twist", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.9, 
       "draft": 1.89, 
+      "wetted_surface": 22.2, 
       "main": 25.3, 
       "genoa": 24.2, 
       "displacement": 4067.0, 
-      "spinnaker_asym": 58.0
+      "spinnaker_asym": 58.0, 
+      "crew": 605.0
     }, 
     "year": "2001"
   }, 

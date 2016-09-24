@@ -5,12 +5,13 @@
       1.1231, 
       1.2812
     ], 
-    "gph": 684.6, 
     "triple_inshore": [
       0.6403, 
       0.8984, 
       1.0607
-    ]
+    ], 
+    "gph": 684.6, 
+    "osn": 663.8
   }, 
   "sailnumber": "ESP5020_C", 
   "name": "BOHEMIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.7, 
       "loa": 10.49, 
       "draft": 1.8, 
+      "wetted_surface": 24.3, 
       "main": 27.2, 
       "genoa": 42.4, 
       "displacement": 4504.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1982"
   }, 

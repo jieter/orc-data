@@ -5,12 +5,13 @@
       1.1759, 
       1.3128
     ], 
-    "gph": 644.5, 
     "triple_inshore": [
       0.7172, 
       0.9546, 
       1.0827
-    ]
+    ], 
+    "gph": 644.5, 
+    "osn": 628.4
   }, 
   "sailnumber": "GER7165", 
   "name": "JACK FLASH", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.12, 
       "draft": 1.81, 
+      "wetted_surface": 18.1, 
       "main": 30.0, 
       "genoa": 20.0, 
       "displacement": 2639.0, 
-      "spinnaker_asym": 75.0
+      "spinnaker_asym": 75.0, 
+      "crew": 360.0
     }, 
     "year": "1991"
   }, 

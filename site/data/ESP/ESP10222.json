@@ -5,12 +5,13 @@
       1.4043, 
       1.5816
     ], 
-    "gph": 540.5, 
     "triple_inshore": [
       0.8422, 
       1.1369, 
       1.3215
-    ]
+    ], 
+    "gph": 540.5, 
+    "osn": 527.5
   }, 
   "sailnumber": "ESP10222", 
   "name": "PORRON IX", 
@@ -25,10 +26,12 @@
       "spinnaker": 152.0, 
       "loa": 13.829, 
       "draft": 2.84, 
+      "wetted_surface": 38.8, 
       "main": 78.4, 
       "genoa": 53.9, 
       "displacement": 10104.0, 
-      "spinnaker_asym": 152.0
+      "spinnaker_asym": 152.0, 
+      "crew": 1040.0
     }, 
     "year": "2001"
   }, 

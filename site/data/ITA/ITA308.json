@@ -5,12 +5,13 @@
       1.4711, 
       1.6499
     ], 
-    "gph": 518.6, 
     "triple_inshore": [
       0.8669, 
       1.1744, 
       1.353
-    ]
+    ], 
+    "gph": 518.6, 
+    "osn": 505.6
   }, 
   "sailnumber": "ITA308", 
   "name": "BELLAMENTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.95, 
       "draft": 2.85, 
+      "wetted_surface": 50.0, 
       "main": 81.9, 
       "genoa": 70.1, 
       "displacement": 13428.0, 
-      "spinnaker_asym": 229.0
+      "spinnaker_asym": 229.0, 
+      "crew": 550.0
     }, 
     "year": "2004"
   }, 

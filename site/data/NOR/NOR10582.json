@@ -5,12 +5,13 @@
       1.2014, 
       1.3607
     ], 
-    "gph": 635.1, 
     "triple_inshore": [
       0.7071, 
       0.9666, 
       1.1388
-    ]
+    ], 
+    "gph": 635.1, 
+    "osn": 617.9
   }, 
   "sailnumber": "NOR10582", 
   "name": "Greka", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.25, 
       "draft": 1.95, 
+      "wetted_surface": 30.2, 
       "main": 39.6, 
       "genoa": 47.1, 
       "displacement": 7473.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 715.0
     }, 
     "year": "1999"
   }, 

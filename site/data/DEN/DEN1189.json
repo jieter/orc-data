@@ -5,12 +5,13 @@
       1.2708, 
       1.4412
     ], 
-    "gph": 601.4, 
     "triple_inshore": [
       0.7465, 
       1.0267, 
       1.2045
-    ]
+    ], 
+    "gph": 601.4, 
+    "osn": 583.8
   }, 
   "sailnumber": "DEN1189", 
   "name": "TOMCAT", 
@@ -25,10 +26,12 @@
       "spinnaker": 113.6, 
       "loa": 11.924, 
       "draft": 2.41, 
+      "wetted_surface": 31.2, 
       "main": 49.3, 
       "genoa": 37.1, 
       "displacement": 7076.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 740.0
     }, 
     "year": "1997"
   }, 

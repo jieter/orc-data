@@ -5,12 +5,13 @@
       1.166, 
       1.3205
     ], 
-    "gph": 651.7, 
     "triple_inshore": [
       0.7007, 
       0.9415, 
       1.0795
-    ]
+    ], 
+    "gph": 651.7, 
+    "osn": 633.8
   }, 
   "sailnumber": "FRA34614", 
   "name": "MALANGO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.7, 
       "draft": 1.86, 
+      "wetted_surface": 20.0, 
       "main": 27.5, 
       "genoa": 24.6, 
       "displacement": 2876.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 547.0
     }, 
     "year": "2006"
   }, 

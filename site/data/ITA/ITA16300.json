@@ -5,12 +5,13 @@
       1.5534, 
       1.7797
     ], 
-    "gph": 490.6, 
     "triple_inshore": [
       0.9137, 
       1.2439, 
       1.4516
-    ]
+    ], 
+    "gph": 490.6, 
+    "osn": 477.1
   }, 
   "sailnumber": "ITA16300", 
   "name": "ALTAIR 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.0, 
       "draft": 3.49, 
+      "wetted_surface": 43.3, 
       "main": 80.9, 
       "genoa": 62.2, 
       "displacement": 8607.0, 
-      "spinnaker_asym": 235.0
+      "spinnaker_asym": 235.0, 
+      "crew": 890.0
     }, 
     "year": "2009"
   }, 

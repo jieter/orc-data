@@ -5,12 +5,13 @@
       1.2264, 
       1.4069
     ], 
-    "gph": 624.8, 
     "triple_inshore": [
       0.7104, 
       0.9824, 
       1.1766
-    ]
+    ], 
+    "gph": 624.8, 
+    "osn": 605.7
   }, 
   "sailnumber": "NED7856", 
   "name": "Existence", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.8, 
       "loa": 12.432, 
       "draft": 2.05, 
+      "wetted_surface": 35.3, 
       "main": 49.1, 
       "genoa": 34.1, 
       "displacement": 9383.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 782.0
     }, 
     "year": "1995"
   }, 

@@ -5,12 +5,13 @@
       1.1919, 
       1.3773
     ], 
-    "gph": 642.1, 
     "triple_inshore": [
       0.6891, 
       0.9507, 
       1.1448
-    ]
+    ], 
+    "gph": 642.1, 
+    "osn": 623.6
   }, 
   "sailnumber": "ISR40", 
   "name": "Blanc Bleu", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.7, 
       "loa": 12.21, 
       "draft": 1.95, 
+      "wetted_surface": 32.3, 
       "main": 35.8, 
       "genoa": 45.2, 
       "displacement": 8303.0, 
-      "spinnaker_asym": 102.0
+      "spinnaker_asym": 102.0, 
+      "crew": 728.0
     }, 
     "year": "2007"
   }, 

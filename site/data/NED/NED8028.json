@@ -5,12 +5,13 @@
       1.2211, 
       1.3935
     ], 
-    "gph": 625.1, 
     "triple_inshore": [
       0.7076, 
       0.9698, 
       1.1577
-    ]
+    ], 
+    "gph": 625.1, 
+    "osn": 610.6
   }, 
   "sailnumber": "NED8028", 
   "name": "Blueprint", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.7, 
       "loa": 12.4, 
       "draft": 2.11, 
+      "wetted_surface": 34.5, 
       "main": 45.2, 
       "genoa": 35.9, 
       "displacement": 9087.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "2007"
   }, 

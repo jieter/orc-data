@@ -5,12 +5,13 @@
       1.198, 
       1.3994
     ], 
-    "gph": 640.3, 
     "triple_inshore": [
       0.6547, 
       0.9216, 
       1.1338
-    ]
+    ], 
+    "gph": 640.3, 
+    "osn": 628.4
   }, 
   "sailnumber": "NED8407", 
   "name": "Sa Better", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.036, 
       "draft": 1.65, 
+      "wetted_surface": 35.9, 
       "main": 35.7, 
       "genoa": 26.3, 
       "displacement": 7768.0, 
-      "spinnaker_asym": 97.0
+      "spinnaker_asym": 97.0, 
+      "crew": 822.0
     }, 
     "year": "2011"
   }, 

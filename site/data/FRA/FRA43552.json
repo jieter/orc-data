@@ -5,12 +5,13 @@
       1.2372, 
       1.4719
     ], 
-    "gph": 619.5, 
     "triple_inshore": [
       0.7062, 
       0.9964, 
       1.1956
-    ]
+    ], 
+    "gph": 619.5, 
+    "osn": 597.2
   }, 
   "sailnumber": "FRA43552", 
   "name": "POGO VENTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.3, 
       "loa": 9.14, 
       "draft": 2.47, 
+      "wetted_surface": 22.2, 
       "main": 26.0, 
       "genoa": 26.0, 
       "displacement": 2612.0, 
-      "spinnaker_asym": 88.0
+      "spinnaker_asym": 88.0, 
+      "crew": 588.0
     }, 
     "year": "2013"
   }, 

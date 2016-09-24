@@ -5,12 +5,13 @@
       1.2698, 
       1.4878
     ], 
-    "gph": 607.4, 
     "triple_inshore": [
       0.7048, 
       0.9992, 
       1.2195
-    ]
+    ], 
+    "gph": 607.4, 
+    "osn": 588.8
   }, 
   "sailnumber": "NOR11951", 
   "name": "Victoria", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.73, 
       "draft": 2.1, 
+      "wetted_surface": 44.5, 
       "main": 48.3, 
       "genoa": 61.2, 
       "displacement": 11656.0, 
-      "spinnaker_asym": 129.0
+      "spinnaker_asym": 129.0, 
+      "crew": 915.0
     }, 
     "year": "2001"
   }, 

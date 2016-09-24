@@ -5,12 +5,13 @@
       1.1943, 
       1.349
     ], 
-    "gph": 639.7, 
     "triple_inshore": [
       0.7036, 
       0.9641, 
       1.1282
-    ]
+    ], 
+    "gph": 639.7, 
+    "osn": 621.2
   }, 
   "sailnumber": "GER6045", 
   "name": "CHICA", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.4, 
       "loa": 10.515, 
       "draft": 2.0, 
+      "wetted_surface": 27.8, 
       "main": 39.0, 
       "genoa": 30.0, 
       "displacement": 6025.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2007"
   }, 

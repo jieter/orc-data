@@ -5,12 +5,13 @@
       1.3961, 
       1.5709
     ], 
-    "gph": 545.3, 
     "triple_inshore": [
       0.8305, 
       1.1231, 
       1.285
-    ]
+    ], 
+    "gph": 545.3, 
+    "osn": 531.2
   }, 
   "sailnumber": "ITA4150", 
   "name": "GIVE ME FIVE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.7, 
       "draft": 2.57, 
+      "wetted_surface": 34.4, 
       "main": 60.8, 
       "genoa": 46.8, 
       "displacement": 6959.0, 
-      "spinnaker_asym": 175.0
+      "spinnaker_asym": 175.0, 
+      "crew": 830.0
     }, 
     "year": "2007"
   }, 

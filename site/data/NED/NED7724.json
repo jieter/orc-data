@@ -5,12 +5,13 @@
       1.2243, 
       1.4122
     ], 
-    "gph": 626.4, 
     "triple_inshore": [
       0.7033, 
       0.9792, 
       1.1792
-    ]
+    ], 
+    "gph": 626.4, 
+    "osn": 607.3
   }, 
   "sailnumber": "NED7724", 
   "name": "Belle Mare", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.5, 
       "loa": 12.06, 
       "draft": 2.11, 
+      "wetted_surface": 33.0, 
       "main": 44.8, 
       "genoa": 40.0, 
       "displacement": 8329.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 783.0
     }, 
     "year": "2003"
   }, 

@@ -5,12 +5,13 @@
       1.7382, 
       2.0708
     ], 
-    "gph": 437.9, 
     "triple_inshore": [
       1.0085, 
       1.3615, 
       1.6331
-    ]
+    ], 
+    "gph": 437.9, 
+    "osn": 425.8
   }, 
   "sailnumber": "AUS001", 
   "name": "ICHI BAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.85, 
       "draft": 3.61, 
+      "wetted_surface": 45.8, 
       "main": 97.3, 
       "genoa": 65.1, 
       "displacement": 6967.0, 
-      "spinnaker_asym": 271.0
+      "spinnaker_asym": 271.0, 
+      "crew": 1275.0
     }, 
     "year": "2011"
   }, 

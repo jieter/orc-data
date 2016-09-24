@@ -5,12 +5,13 @@
       1.2392, 
       1.3898
     ], 
-    "gph": 612.4, 
     "triple_inshore": [
       0.7426, 
       0.9903, 
       1.1291
-    ]
+    ], 
+    "gph": 612.4, 
+    "osn": 599.3
   }, 
   "sailnumber": "ESP7222", 
   "name": "POLO SEVEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.8, 
       "loa": 10.632, 
       "draft": 1.8, 
+      "wetted_surface": 22.3, 
       "main": 40.6, 
       "genoa": 27.5, 
       "displacement": 3206.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 410.0
     }, 
     "year": "1994"
   }, 

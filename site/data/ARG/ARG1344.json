@@ -5,12 +5,13 @@
       1.1617, 
       1.3105
     ], 
-    "gph": 655.8, 
     "triple_inshore": [
       0.6936, 
       0.9396, 
       1.1015
-    ]
+    ], 
+    "gph": 655.8, 
+    "osn": 638.0
   }, 
   "sailnumber": "ARG1344", 
   "name": "SILHOUETTE II", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.2, 
       "loa": 11.21, 
       "draft": 2.07, 
+      "wetted_surface": 26.8, 
       "main": 31.6, 
       "genoa": 48.2, 
       "displacement": 6855.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 625.0
     }, 
     "year": "1980"
   }, 

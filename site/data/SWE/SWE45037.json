@@ -5,12 +5,13 @@
       1.3807, 
       1.5541
     ], 
-    "gph": 550.1, 
     "triple_inshore": [
       0.8261, 
       1.1134, 
       1.2975
-    ]
+    ], 
+    "gph": 550.1, 
+    "osn": 537.1
   }, 
   "sailnumber": "SWE45037", 
   "name": "Stell", 
@@ -25,10 +26,12 @@
       "spinnaker": 153.9, 
       "loa": 13.829, 
       "draft": 2.33, 
+      "wetted_surface": 39.4, 
       "main": 76.3, 
       "genoa": 56.0, 
       "displacement": 10904.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 850.0
     }, 
     "year": "2001"
   }, 

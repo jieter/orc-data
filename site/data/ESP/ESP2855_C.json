@@ -5,12 +5,13 @@
       1.1085, 
       1.2523
     ], 
-    "gph": 688.7, 
     "triple_inshore": [
       0.6554, 
       0.8976, 
       1.0505
-    ]
+    ], 
+    "gph": 688.7, 
+    "osn": 668.9
   }, 
   "sailnumber": "ESP2855_C", 
   "name": "CAMBRIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.5, 
       "loa": 9.446, 
       "draft": 1.82, 
+      "wetted_surface": 21.6, 
       "main": 29.4, 
       "genoa": 26.8, 
       "displacement": 4279.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1987"
   }, 

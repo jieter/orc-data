@@ -5,12 +5,13 @@
       1.0048, 
       1.178
     ], 
-    "gph": 763.4, 
     "triple_inshore": [
       0.5757, 
       0.7988, 
       0.9826
-    ]
+    ], 
+    "gph": 763.4, 
+    "osn": 738.8
   }, 
   "sailnumber": "NED8615", 
   "name": "Bulletproof", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.3, 
       "loa": 9.43, 
       "draft": 1.63, 
+      "wetted_surface": 22.8, 
       "main": 22.7, 
       "genoa": 19.6, 
       "displacement": 5345.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 537.0
     }, 
     "year": "1985"
   }, 

@@ -5,12 +5,13 @@
       1.2585, 
       1.4364
     ], 
-    "gph": 608.5, 
     "triple_inshore": [
       0.7324, 
       1.0155, 
       1.2024
-    ]
+    ], 
+    "gph": 608.5, 
+    "osn": 589.5
   }, 
   "sailnumber": "GER6607", 
   "name": "ISOBAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.1, 
       "loa": 11.924, 
       "draft": 2.43, 
+      "wetted_surface": 31.8, 
       "main": 48.1, 
       "genoa": 33.9, 
       "displacement": 7387.0, 
-      "spinnaker_asym": 86.0
+      "spinnaker_asym": 86.0, 
+      "crew": 800.0
     }, 
     "year": "1998"
   }, 

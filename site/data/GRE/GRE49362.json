@@ -5,12 +5,13 @@
       1.0799, 
       1.2206
     ], 
-    "gph": 709.0, 
     "triple_inshore": [
       0.6308, 
       0.8712, 
       1.0195
-    ]
+    ], 
+    "gph": 709.0, 
+    "osn": 687.8
   }, 
   "sailnumber": "GRE49362", 
   "name": "JOY OF FREEDOM", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.4, 
       "loa": 9.54, 
       "draft": 1.74, 
+      "wetted_surface": 22.4, 
       "main": 23.7, 
       "genoa": 31.7, 
       "displacement": 3886.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 514.0
     }, 
     "year": "1984"
   }, 

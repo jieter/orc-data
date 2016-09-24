@@ -5,12 +5,13 @@
       1.2747, 
       1.4772
     ], 
-    "gph": 604.3, 
     "triple_inshore": [
       0.7132, 
       0.9994, 
       1.1968
-    ]
+    ], 
+    "gph": 604.3, 
+    "osn": 587.1
   }, 
   "sailnumber": "NOR11412", 
   "name": "Next Wave III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.75, 
       "draft": 2.1, 
+      "wetted_surface": 44.5, 
       "main": 54.0, 
       "genoa": 60.8, 
       "displacement": 11656.0, 
-      "spinnaker_asym": 129.0
+      "spinnaker_asym": 129.0, 
+      "crew": 915.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.1351, 
       1.3446
     ], 
-    "gph": 681.0, 
     "triple_inshore": [
       0.6247, 
       0.9019, 
       1.1176
-    ]
+    ], 
+    "gph": 681.0, 
+    "osn": 657.8
   }, 
   "sailnumber": "NOR10372", 
   "name": "Crisoline", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.83, 
       "draft": 2.01, 
+      "wetted_surface": 32.2, 
       "main": 35.6, 
       "genoa": 36.8, 
       "displacement": 7536.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 736.0
     }, 
     "year": "2002"
   }, 

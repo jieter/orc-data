@@ -5,12 +5,13 @@
       1.1271, 
       1.2931
     ], 
-    "gph": 680.7, 
     "triple_inshore": [
       0.6489, 
       0.9014, 
       1.0744
-    ]
+    ], 
+    "gph": 680.7, 
+    "osn": 660.0
   }, 
   "sailnumber": "NOR11702", 
   "name": "Spleis", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.5, 
       "loa": 10.21, 
       "draft": 1.78, 
+      "wetted_surface": 25.6, 
       "main": 29.7, 
       "genoa": 30.3, 
       "displacement": 5300.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 613.0
     }, 
     "year": "2005"
   }, 

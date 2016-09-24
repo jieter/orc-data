@@ -5,12 +5,13 @@
       1.2827, 
       1.4498
     ], 
-    "gph": 592.9, 
     "triple_inshore": [
       0.7632, 
       1.0399, 
       1.2057
-    ]
+    ], 
+    "gph": 592.9, 
+    "osn": 578.2
   }, 
   "sailnumber": "NOR12221", 
   "name": "Milliways", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.6, 
       "loa": 10.98, 
       "draft": 2.27, 
+      "wetted_surface": 27.5, 
       "main": 48.3, 
       "genoa": 31.3, 
       "displacement": 5477.0, 
-      "spinnaker_asym": 102.0
+      "spinnaker_asym": 102.0, 
+      "crew": 735.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       1.2169, 
       1.3779
     ], 
-    "gph": 628.2, 
     "triple_inshore": [
       0.7139, 
       0.9845, 
       1.1519
-    ]
+    ], 
+    "gph": 628.2, 
+    "osn": 610.0
   }, 
   "sailnumber": "ITA16423", 
   "name": "DAL VERDE AL BLU", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.1, 
       "loa": 10.66, 
       "draft": 2.2, 
+      "wetted_surface": 27.5, 
       "main": 40.7, 
       "genoa": 32.3, 
       "displacement": 5572.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "2009"
   }, 

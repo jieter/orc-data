@@ -5,12 +5,13 @@
       1.2158, 
       1.3882
     ], 
-    "gph": 629.7, 
     "triple_inshore": [
       0.7076, 
       0.976, 
       1.1631
-    ]
+    ], 
+    "gph": 629.7, 
+    "osn": 610.7
   }, 
   "sailnumber": "NED7145", 
   "name": "Bluemotion", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.7, 
       "loa": 11.9, 
       "draft": 2.11, 
+      "wetted_surface": 33.4, 
       "main": 46.1, 
       "genoa": 36.5, 
       "displacement": 8645.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 760.0
     }, 
     "year": "2003"
   }, 

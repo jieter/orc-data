@@ -5,12 +5,13 @@
       1.1556, 
       1.3104
     ], 
-    "gph": 659.7, 
     "triple_inshore": [
       0.6867, 
       0.933, 
       1.1004
-    ]
+    ], 
+    "gph": 659.7, 
+    "osn": 641.4
   }, 
   "sailnumber": "NED2973", 
   "name": "AMERICA JANE II", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.7, 
       "loa": 11.738, 
       "draft": 1.95, 
+      "wetted_surface": 27.4, 
       "main": 29.8, 
       "genoa": 48.7, 
       "displacement": 6680.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 590.0
     }, 
     "year": "1973"
   }, 

@@ -5,12 +5,13 @@
       1.1293, 
       1.293
     ], 
-    "gph": 669.7, 
     "triple_inshore": [
       0.6883, 
       0.9159, 
       1.0517
-    ]
+    ], 
+    "gph": 669.7, 
+    "osn": 651.6
   }, 
   "sailnumber": "ITA24039", 
   "name": "MARY POPPINS", 
@@ -25,10 +26,12 @@
       "spinnaker": 40.4, 
       "loa": 7.495, 
       "draft": 1.68, 
+      "wetted_surface": 12.7, 
       "main": 19.5, 
       "genoa": 13.3, 
       "displacement": 1119.0, 
-      "spinnaker_asym": 52.0
+      "spinnaker_asym": 52.0, 
+      "crew": 400.0
     }, 
     "year": "1994"
   }, 

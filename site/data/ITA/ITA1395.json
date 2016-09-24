@@ -5,12 +5,13 @@
       1.0491, 
       1.1967
     ], 
-    "gph": 727.8, 
     "triple_inshore": [
       0.618, 
       0.8421, 
       0.998
-    ]
+    ], 
+    "gph": 727.8, 
+    "osn": 707.2
   }, 
   "sailnumber": "ITA1395", 
   "name": "PEPE", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.4, 
       "loa": 9.34, 
       "draft": 1.56, 
+      "wetted_surface": 22.7, 
       "main": 25.4, 
       "genoa": 26.9, 
       "displacement": 4810.0, 
-      "spinnaker_asym": 55.0
+      "spinnaker_asym": 55.0, 
+      "crew": 520.0
     }, 
     "year": "1976"
   }, 

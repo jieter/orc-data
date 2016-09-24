@@ -5,12 +5,13 @@
       0.964, 
       1.1162
     ], 
-    "gph": 800.5, 
     "triple_inshore": [
       0.5392, 
       0.7632, 
       0.9157
-    ]
+    ], 
+    "gph": 800.5, 
+    "osn": 774.8
   }, 
   "sailnumber": "NED2506", 
   "name": "Deel II", 
@@ -25,10 +26,12 @@
       "spinnaker": 47.5, 
       "loa": 8.25, 
       "draft": 1.15, 
+      "wetted_surface": 17.3, 
       "main": 15.5, 
       "genoa": 13.3, 
       "displacement": 2300.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 396.0
     }, 
     "year": "1965"
   }, 

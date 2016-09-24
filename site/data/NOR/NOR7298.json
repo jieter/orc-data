@@ -5,12 +5,13 @@
       1.125, 
       1.2659
     ], 
-    "gph": 675.8, 
     "triple_inshore": [
       0.6744, 
       0.9162, 
       1.0574
-    ]
+    ], 
+    "gph": 675.8, 
+    "osn": 658.3
   }, 
   "sailnumber": "NOR7298", 
   "name": "Ina-kristine", 
@@ -25,10 +26,12 @@
       "spinnaker": 47.2, 
       "loa": 9.4, 
       "draft": 1.77, 
+      "wetted_surface": 18.4, 
       "main": 29.5, 
       "genoa": 24.6, 
       "displacement": 2946.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 460.0
     }, 
     "year": "1983"
   }, 

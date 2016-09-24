@@ -5,12 +5,13 @@
       1.2825, 
       1.4491
     ], 
-    "gph": 595.5, 
     "triple_inshore": [
       0.7556, 
       1.0365, 
       1.2106
-    ]
+    ], 
+    "gph": 595.5, 
+    "osn": 578.8
   }, 
   "sailnumber": "ITA14241", 
   "name": "ANTARES", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.8, 
       "loa": 12.1, 
       "draft": 2.42, 
+      "wetted_surface": 31.0, 
       "main": 49.2, 
       "genoa": 39.7, 
       "displacement": 6705.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2000"
   }, 

@@ -5,12 +5,13 @@
       1.259, 
       1.4406
     ], 
-    "gph": 602.9, 
     "triple_inshore": [
       0.7562, 
       1.0182, 
       1.1736
-    ]
+    ], 
+    "gph": 602.9, 
+    "osn": 586.6
   }, 
   "sailnumber": "ITAFEETI", 
   "name": "FEETISSIMO", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.3, 
       "loa": 9.23, 
       "draft": 2.02, 
+      "wetted_surface": 17.9, 
       "main": 29.3, 
       "genoa": 23.1, 
       "displacement": 2100.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "2011"
   }, 

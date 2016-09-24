@@ -5,12 +5,13 @@
       1.0559, 
       1.1924
     ], 
-    "gph": 720.1, 
     "triple_inshore": [
       0.6336, 
       0.8532, 
       0.9853
-    ]
+    ], 
+    "gph": 720.1, 
+    "osn": 700.7
   }, 
   "sailnumber": "ESP8468_C", 
   "name": "ISLA MAROLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.461, 
       "draft": 1.46, 
+      "wetted_surface": 15.6, 
       "main": 20.2, 
       "genoa": 16.0, 
       "displacement": 2128.0, 
-      "spinnaker_asym": 48.0
+      "spinnaker_asym": 48.0, 
+      "crew": 422.0
     }, 
     "year": "2004"
   }, 

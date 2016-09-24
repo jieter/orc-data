@@ -5,12 +5,13 @@
       1.0341, 
       1.2196
     ], 
-    "gph": 746.8, 
     "triple_inshore": [
       0.5758, 
       0.8251, 
       1.016
-    ]
+    ], 
+    "gph": 746.8, 
+    "osn": 720.0
   }, 
   "sailnumber": "NED8514", 
   "name": "Falcon", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.47, 
       "draft": 2.31, 
+      "wetted_surface": 31.3, 
       "main": 26.0, 
       "genoa": 44.1, 
       "displacement": 9278.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 200.0
     }, 
     "year": "1978"
   }, 

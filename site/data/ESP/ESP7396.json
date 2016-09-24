@@ -5,12 +5,13 @@
       1.6745, 
       1.969
     ], 
-    "gph": 454.8, 
     "triple_inshore": [
       0.9743, 
       1.3239, 
       1.5781
-    ]
+    ], 
+    "gph": 454.8, 
+    "osn": 442.2
   }, 
   "sailnumber": "ESP7396", 
   "name": "ROCH", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.85, 
       "draft": 3.18, 
+      "wetted_surface": 43.6, 
       "main": 93.8, 
       "genoa": 63.3, 
       "displacement": 7321.0, 
-      "spinnaker_asym": 247.0
+      "spinnaker_asym": 247.0, 
+      "crew": 1200.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.2544, 
       1.4301
     ], 
-    "gph": 609.9, 
     "triple_inshore": [
       0.7323, 
       1.0139, 
       1.2029
-    ]
+    ], 
+    "gph": 609.9, 
+    "osn": 591.4
   }, 
   "sailnumber": "NED1106", 
   "name": "Havoc", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.5, 
       "loa": 11.615, 
       "draft": 2.5, 
+      "wetted_surface": 32.2, 
       "main": 47.0, 
       "genoa": 36.7, 
       "displacement": 7429.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 712.0
     }, 
     "year": "1999"
   }, 

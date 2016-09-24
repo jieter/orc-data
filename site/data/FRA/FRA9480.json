@@ -5,12 +5,13 @@
       1.3111, 
       1.4801
     ], 
-    "gph": 584.0, 
     "triple_inshore": [
       0.7659, 
       1.0515, 
       1.2125
-    ]
+    ], 
+    "gph": 584.0, 
+    "osn": 567.0
   }, 
   "sailnumber": "FRA9480", 
   "name": "HERA III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 2.4, 
+      "wetted_surface": 33.1, 
       "main": 46.2, 
       "genoa": 37.6, 
       "displacement": 6587.0, 
-      "spinnaker_asym": 134.0
+      "spinnaker_asym": 134.0, 
+      "crew": 650.0
     }, 
     "year": "2003"
   }, 

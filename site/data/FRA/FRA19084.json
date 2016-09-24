@@ -5,12 +5,13 @@
       1.1095, 
       1.2689
     ], 
-    "gph": 689.5, 
     "triple_inshore": [
       0.6481, 
       0.898, 
       1.0624
-    ]
+    ], 
+    "gph": 689.5, 
+    "osn": 668.3
   }, 
   "sailnumber": "FRA19084", 
   "name": "TIR NA NOG 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.9, 
       "loa": 9.12, 
       "draft": 1.72, 
+      "wetted_surface": 20.3, 
       "main": 28.0, 
       "genoa": 19.9, 
       "displacement": 3479.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 523.0
     }, 
     "year": "1994"
   }, 

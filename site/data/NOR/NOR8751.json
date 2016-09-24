@@ -5,12 +5,13 @@
       0.9679, 
       1.1162
     ], 
-    "gph": 794.7, 
     "triple_inshore": [
       0.5557, 
       0.7821, 
       0.9286
-    ]
+    ], 
+    "gph": 794.7, 
+    "osn": 766.9
   }, 
   "sailnumber": "NOR8751", 
   "name": "Bufo b", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.3, 
       "loa": 6.7, 
       "draft": 1.46, 
+      "wetted_surface": 13.4, 
       "main": 10.8, 
       "genoa": 18.1, 
       "displacement": 1511.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 372.0
     }, 
     "year": "1980"
   }, 

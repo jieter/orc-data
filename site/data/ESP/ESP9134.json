@@ -5,12 +5,13 @@
       1.0882, 
       1.2126
     ], 
-    "gph": 698.6, 
     "triple_inshore": [
       0.6556, 
       0.8848, 
       1.0157
-    ]
+    ], 
+    "gph": 698.6, 
+    "osn": 680.8
   }, 
   "sailnumber": "ESP9134", 
   "name": "FLAMENCO", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.4, 
       "loa": 8.99, 
       "draft": 1.75, 
+      "wetted_surface": 20.1, 
       "main": 28.0, 
       "genoa": 27.2, 
       "displacement": 3839.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1989"
   }, 

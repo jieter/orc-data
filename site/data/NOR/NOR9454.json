@@ -5,12 +5,13 @@
       1.1521, 
       1.3022
     ], 
-    "gph": 662.8, 
     "triple_inshore": [
       0.6802, 
       0.9335, 
       1.0874
-    ]
+    ], 
+    "gph": 662.8, 
+    "osn": 643.8
   }, 
   "sailnumber": "NOR9454", 
   "name": "Froken Smilla", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.2, 
       "loa": 9.85, 
       "draft": 1.93, 
+      "wetted_surface": 22.2, 
       "main": 27.5, 
       "genoa": 32.1, 
       "displacement": 3821.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 586.0
     }, 
     "year": "1998"
   }, 

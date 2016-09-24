@@ -5,12 +5,13 @@
       1.1753, 
       1.3264
     ], 
-    "gph": 649.9, 
     "triple_inshore": [
       0.6921, 
       0.9483, 
       1.1069
-    ]
+    ], 
+    "gph": 649.9, 
+    "osn": 631.7
   }, 
   "sailnumber": "ESP9341", 
   "name": "IBEROLIMP - ALHAMBRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.1, 
       "loa": 10.3, 
       "draft": 1.96, 
+      "wetted_surface": 25.5, 
       "main": 35.2, 
       "genoa": 34.0, 
       "displacement": 5355.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 525.0
     }, 
     "year": "2002"
   }, 

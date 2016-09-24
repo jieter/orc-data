@@ -5,12 +5,13 @@
       1.0712, 
       1.2114
     ], 
-    "gph": 708.3, 
     "triple_inshore": [
       0.6467, 
       0.8751, 
       0.9956
-    ]
+    ], 
+    "gph": 708.3, 
+    "osn": 689.0
   }, 
   "sailnumber": "NED8555", 
   "name": "Ex Multiplex", 
@@ -25,10 +26,12 @@
       "spinnaker": 38.0, 
       "loa": 7.347, 
       "draft": 1.25, 
+      "wetted_surface": 11.2, 
       "main": 18.4, 
       "genoa": 12.6, 
       "displacement": 1200.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 323.0
     }, 
     "year": "1988"
   }, 

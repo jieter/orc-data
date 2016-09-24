@@ -5,12 +5,13 @@
       1.0957, 
       1.2461
     ], 
-    "gph": 698.6, 
     "triple_inshore": [
       0.6413, 
       0.8889, 
       1.0444
-    ]
+    ], 
+    "gph": 698.6, 
+    "osn": 676.4
   }, 
   "sailnumber": "ESP7876", 
   "name": "REWIND", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.0, 
       "loa": 8.55, 
       "draft": 1.89, 
+      "wetted_surface": 18.6, 
       "main": 24.8, 
       "genoa": 17.6, 
       "displacement": 2988.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2002"
   }, 

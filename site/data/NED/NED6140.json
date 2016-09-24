@@ -5,12 +5,13 @@
       1.1014, 
       1.2596
     ], 
-    "gph": 695.9, 
     "triple_inshore": [
       0.6398, 
       0.8907, 
       1.0591
-    ]
+    ], 
+    "gph": 695.9, 
+    "osn": 673.7
   }, 
   "sailnumber": "NED6140", 
   "name": "Farouche", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.3, 
       "loa": 9.344, 
       "draft": 1.97, 
+      "wetted_surface": 21.2, 
       "main": 25.9, 
       "genoa": 20.0, 
       "displacement": 3831.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 390.0
     }, 
     "year": "1995"
   }, 

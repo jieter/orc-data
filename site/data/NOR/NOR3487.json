@@ -5,12 +5,13 @@
       1.0346, 
       1.1475
     ], 
-    "gph": 736.0, 
     "triple_inshore": [
       0.6251, 
       0.8422, 
       0.9606
-    ]
+    ], 
+    "gph": 736.0, 
+    "osn": 715.9
   }, 
   "sailnumber": "NOR3487", 
   "name": "S/Y Don't Panic", 
@@ -25,10 +26,12 @@
       "spinnaker": 47.2, 
       "loa": 8.63, 
       "draft": 1.7, 
+      "wetted_surface": 17.6, 
       "main": 19.4, 
       "genoa": 25.6, 
       "displacement": 3128.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 425.0
     }, 
     "year": "1968"
   }, 

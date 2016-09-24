@@ -5,12 +5,13 @@
       1.1501, 
       1.3013
     ], 
-    "gph": 663.2, 
     "triple_inshore": [
       0.6814, 
       0.9276, 
       1.0952
-    ]
+    ], 
+    "gph": 663.2, 
+    "osn": 644.5
   }, 
   "sailnumber": "ESP5401_C", 
   "name": "STRADIVARIUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.2, 
       "loa": 11.23, 
       "draft": 2.06, 
+      "wetted_surface": 27.8, 
       "main": 31.7, 
       "genoa": 47.3, 
       "displacement": 7474.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1979"
   }, 

@@ -5,12 +5,13 @@
       1.2439, 
       1.39
     ], 
-    "gph": 610.8, 
     "triple_inshore": [
       0.7496, 
       1.0129, 
       1.1619
-    ]
+    ], 
+    "gph": 610.8, 
+    "osn": 595.5
   }, 
   "sailnumber": "LTU1111", 
   "name": "NIDA III", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.4, 
       "loa": 10.6, 
       "draft": 2.18, 
+      "wetted_surface": 24.6, 
       "main": 42.3, 
       "genoa": 32.1, 
       "displacement": 4591.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 619.0
     }, 
     "year": "2005"
   }, 

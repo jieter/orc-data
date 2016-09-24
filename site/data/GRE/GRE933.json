@@ -5,12 +5,13 @@
       1.1727, 
       1.3397
     ], 
-    "gph": 652.8, 
     "triple_inshore": [
       0.682, 
       0.9426, 
       1.1206
-    ]
+    ], 
+    "gph": 652.8, 
+    "osn": 632.9
   }, 
   "sailnumber": "GRE933", 
   "name": "VENTUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.3, 
       "loa": 10.944, 
       "draft": 2.1, 
+      "wetted_surface": 29.5, 
       "main": 37.9, 
       "genoa": 36.5, 
       "displacement": 6620.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 630.0
     }, 
     "year": "2000"
   }, 

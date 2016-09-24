@@ -5,12 +5,13 @@
       0.9206, 
       1.0389
     ], 
-    "gph": 828.3, 
     "triple_inshore": [
       0.5492, 
       0.7508, 
       0.8685
-    ]
+    ], 
+    "gph": 828.3, 
+    "osn": 803.8
   }, 
   "sailnumber": "NED8749", 
   "name": "Volare", 
@@ -25,10 +26,12 @@
       "spinnaker": 29.1, 
       "loa": 6.65, 
       "draft": 1.46, 
+      "wetted_surface": 9.3, 
       "main": 11.3, 
       "genoa": 14.0, 
       "displacement": 1318.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 296.0
     }, 
     "year": "1980"
   }, 

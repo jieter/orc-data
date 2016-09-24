@@ -5,12 +5,13 @@
       1.206, 
       1.3538
     ], 
-    "gph": 632.0, 
     "triple_inshore": [
       0.7168, 
       0.9774, 
       1.1354
-    ]
+    ], 
+    "gph": 632.0, 
+    "osn": 615.1
   }, 
   "sailnumber": "ITA15417", 
   "name": "FOMALHAUT", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.7, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.8, 
       "main": 38.9, 
       "genoa": 40.9, 
       "displacement": 5704.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2001"
   }, 

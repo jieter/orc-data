@@ -5,12 +5,13 @@
       1.1812, 
       1.3808
     ], 
-    "gph": 643.7, 
     "triple_inshore": [
       0.6997, 
       0.9537, 
       1.1198
-    ]
+    ], 
+    "gph": 643.7, 
+    "osn": 623.8
   }, 
   "sailnumber": "BRA2760", 
   "name": "Forca 12", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.62, 
       "draft": 1.7, 
+      "wetted_surface": 13.2, 
       "main": 20.6, 
       "genoa": 14.9, 
       "displacement": 1111.0, 
-      "spinnaker_asym": 60.0
+      "spinnaker_asym": 60.0, 
+      "crew": 330.0
     }, 
     "year": "2003"
   }, 

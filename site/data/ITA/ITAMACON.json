@@ -5,12 +5,13 @@
       1.1463, 
       1.3048
     ], 
-    "gph": 667.2, 
     "triple_inshore": [
       0.671, 
       0.9278, 
       1.0878
-    ]
+    ], 
+    "gph": 667.2, 
+    "osn": 646.9
   }, 
   "sailnumber": "ITAMACON", 
   "name": "MACONDO III", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.1, 
       "loa": 9.5, 
       "draft": 1.91, 
+      "wetted_surface": 22.0, 
       "main": 26.4, 
       "genoa": 30.5, 
       "displacement": 3719.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1998"
   }, 

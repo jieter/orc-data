@@ -5,12 +5,13 @@
       1.2489, 
       1.4059
     ], 
-    "gph": 610.1, 
     "triple_inshore": [
       0.7423, 
       1.008, 
       1.1763
-    ]
+    ], 
+    "gph": 610.1, 
+    "osn": 594.0
   }, 
   "sailnumber": "GER3813", 
   "name": "SHODDY", 
@@ -25,10 +26,12 @@
       "spinnaker": 117.8, 
       "loa": 12.512, 
       "draft": 2.23, 
+      "wetted_surface": 31.6, 
       "main": 41.3, 
       "genoa": 57.5, 
       "displacement": 7859.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 669.0
     }, 
     "year": "1991"
   }, 

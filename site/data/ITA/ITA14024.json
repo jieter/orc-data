@@ -5,12 +5,13 @@
       1.1742, 
       1.3485
     ], 
-    "gph": 651.4, 
     "triple_inshore": [
       0.6846, 
       0.9466, 
       1.1351
-    ]
+    ], 
+    "gph": 651.4, 
+    "osn": 631.4
   }, 
   "sailnumber": "ITA14024", 
   "name": "DUCHESSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.0, 
       "loa": 11.32, 
       "draft": 2.34, 
+      "wetted_surface": 29.2, 
       "main": 33.9, 
       "genoa": 44.3, 
       "displacement": 6914.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1996"
   }, 

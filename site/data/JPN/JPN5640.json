@@ -5,12 +5,13 @@
       1.2683, 
       1.435
     ], 
-    "gph": 596.0, 
     "triple_inshore": [
       0.7779, 
       1.0364, 
       1.1853
-    ]
+    ], 
+    "gph": 596.0, 
+    "osn": 580.7
   }, 
   "sailnumber": "JPN5640", 
   "name": "EVERYTHING EVERYTHING", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.9, 
       "loa": 9.972, 
       "draft": 2.01, 
+      "wetted_surface": 20.3, 
       "main": 37.4, 
       "genoa": 33.2, 
       "displacement": 3238.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 595.0
     }, 
     "year": "1996"
   }, 

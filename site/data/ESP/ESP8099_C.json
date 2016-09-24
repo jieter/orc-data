@@ -5,12 +5,13 @@
       1.2126, 
       1.3889
     ], 
-    "gph": 632.6, 
     "triple_inshore": [
       0.6938, 
       0.9548, 
       1.1297
-    ]
+    ], 
+    "gph": 632.6, 
+    "osn": 615.2
   }, 
   "sailnumber": "ESP8099_C", 
   "name": "KAYUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.67, 
       "draft": 1.65, 
+      "wetted_surface": 36.8, 
       "main": 41.8, 
       "genoa": 52.6, 
       "displacement": 8662.0, 
-      "spinnaker_asym": 104.0
+      "spinnaker_asym": 104.0, 
+      "crew": 860.0
     }, 
     "year": "2002"
   }, 

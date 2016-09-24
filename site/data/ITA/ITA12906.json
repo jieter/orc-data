@@ -5,12 +5,13 @@
       1.385, 
       1.5661
     ], 
-    "gph": 547.0, 
     "triple_inshore": [
       0.8385, 
       1.1156, 
       1.274
-    ]
+    ], 
+    "gph": 547.0, 
+    "osn": 533.2
   }, 
   "sailnumber": "ITA12906", 
   "name": "SILVER AGE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 2.57, 
+      "wetted_surface": 28.6, 
       "main": 53.2, 
       "genoa": 49.1, 
       "displacement": 4951.0, 
-      "spinnaker_asym": 134.0
+      "spinnaker_asym": 134.0, 
+      "crew": 765.0
     }, 
     "year": "1995"
   }, 

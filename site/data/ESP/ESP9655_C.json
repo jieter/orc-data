@@ -5,12 +5,13 @@
       1.0104, 
       1.2131
     ], 
-    "gph": 767.4, 
     "triple_inshore": [
       0.5464, 
       0.797, 
       0.9976
-    ]
+    ], 
+    "gph": 767.4, 
+    "osn": 739.5
   }, 
   "sailnumber": "ESP9655_C", 
   "name": "EVASION", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.37, 
       "draft": 1.5, 
+      "wetted_surface": 26.3, 
       "main": 21.1, 
       "genoa": 31.1, 
       "displacement": 5395.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1993"
   }, 

@@ -5,12 +5,13 @@
       1.2097, 
       1.3647
     ], 
-    "gph": 630.8, 
     "triple_inshore": [
       0.7155, 
       0.9809, 
       1.1432
-    ]
+    ], 
+    "gph": 630.8, 
+    "osn": 613.3
   }, 
   "sailnumber": "GRE900", 
   "name": "ZANTINO", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.4, 
       "loa": 10.72, 
       "draft": 2.24, 
+      "wetted_surface": 26.9, 
       "main": 38.9, 
       "genoa": 37.2, 
       "displacement": 5339.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 610.0
     }, 
     "year": "1993"
   }, 

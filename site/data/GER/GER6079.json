@@ -5,12 +5,13 @@
       1.2669, 
       1.4302
     ], 
-    "gph": 601.7, 
     "triple_inshore": [
       0.737, 
       1.0125, 
       1.1877
-    ]
+    ], 
+    "gph": 601.7, 
+    "osn": 588.3
   }, 
   "sailnumber": "GER6079", 
   "name": "XANDUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.8, 
       "loa": 12.2, 
       "draft": 2.09, 
+      "wetted_surface": 32.3, 
       "main": 51.1, 
       "genoa": 37.3, 
       "displacement": 7792.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.3542, 
       1.53
     ], 
-    "gph": 555.3, 
     "triple_inshore": [
       0.8321, 
       1.0931, 
       1.2553
-    ]
+    ], 
+    "gph": 555.3, 
+    "osn": 544.6
   }, 
   "sailnumber": "SUI3", 
   "name": "MISIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.97, 
       "draft": 2.34, 
+      "wetted_surface": 26.8, 
       "main": 54.4, 
       "genoa": 35.5, 
       "displacement": 4146.0, 
-      "spinnaker_asym": 139.0
+      "spinnaker_asym": 139.0, 
+      "crew": 600.0
     }, 
     "year": "2003"
   }, 

@@ -5,12 +5,13 @@
       1.2811, 
       1.444
     ], 
-    "gph": 594.7, 
     "triple_inshore": [
       0.7618, 
       1.0351, 
       1.2131
-    ]
+    ], 
+    "gph": 594.7, 
+    "osn": 579.1
   }, 
   "sailnumber": "NED27", 
   "name": "FORMIDABLE", 
@@ -25,10 +26,12 @@
       "spinnaker": 144.9, 
       "loa": 13.43, 
       "draft": 2.46, 
+      "wetted_surface": 36.0, 
       "main": 41.8, 
       "genoa": 77.2, 
       "displacement": 9382.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 756.0
     }, 
     "year": "1985"
   }, 

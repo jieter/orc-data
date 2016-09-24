@@ -5,12 +5,13 @@
       1.1234, 
       1.2826
     ], 
-    "gph": 674.7, 
     "triple_inshore": [
       0.6788, 
       0.9119, 
       1.0377
-    ]
+    ], 
+    "gph": 674.7, 
+    "osn": 656.5
   }, 
   "sailnumber": "ITA12920", 
   "name": "CELESTINA 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 36.2, 
       "loa": 7.495, 
       "draft": 1.67, 
+      "wetted_surface": 12.5, 
       "main": 19.8, 
       "genoa": 14.8, 
       "displacement": 1060.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1994"
   }, 

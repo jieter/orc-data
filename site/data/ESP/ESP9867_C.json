@@ -5,12 +5,13 @@
       1.2037, 
       1.3875
     ], 
-    "gph": 640.3, 
     "triple_inshore": [
       0.6786, 
       0.9519, 
       1.1352
-    ]
+    ], 
+    "gph": 640.3, 
+    "osn": 620.0
   }, 
   "sailnumber": "ESP9867_C", 
   "name": "EMV DOCE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.754, 
       "draft": 2.17, 
+      "wetted_surface": 32.3, 
       "main": 36.8, 
       "genoa": 37.0, 
       "displacement": 6989.0, 
-      "spinnaker_asym": 94.0
+      "spinnaker_asym": 94.0, 
+      "crew": 600.0
     }, 
     "year": "2006"
   }, 

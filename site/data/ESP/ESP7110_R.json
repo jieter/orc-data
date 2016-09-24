@@ -5,12 +5,13 @@
       1.2626, 
       1.4145
     ], 
-    "gph": 603.6, 
     "triple_inshore": [
       0.7503, 
       1.0188, 
       1.1885
-    ]
+    ], 
+    "gph": 603.6, 
+    "osn": 588.0
   }, 
   "sailnumber": "ESP7110_R", 
   "name": "LA ESTRELLA AZUL", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.2, 
       "loa": 11.924, 
       "draft": 2.44, 
+      "wetted_surface": 31.9, 
       "main": 47.5, 
       "genoa": 50.8, 
       "displacement": 7578.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 170.0
     }, 
     "year": "1997"
   }, 

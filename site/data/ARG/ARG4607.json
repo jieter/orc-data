@@ -5,12 +5,13 @@
       1.4457, 
       1.6401
     ], 
-    "gph": 524.0, 
     "triple_inshore": [
       0.8703, 
       1.1605, 
       1.3406
-    ]
+    ], 
+    "gph": 524.0, 
+    "osn": 511.6
   }, 
   "sailnumber": "ARG4607", 
   "name": "SAN GREGORIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 134.9, 
       "loa": 13.698, 
       "draft": 2.71, 
+      "wetted_surface": 35.0, 
       "main": 76.4, 
       "genoa": 46.4, 
       "displacement": 6594.0, 
-      "spinnaker_asym": 184.0
+      "spinnaker_asym": 184.0, 
+      "crew": 900.0
     }, 
     "year": "2001"
   }, 

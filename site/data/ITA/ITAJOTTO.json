@@ -5,12 +5,13 @@
       1.1338, 
       1.2908
     ], 
-    "gph": 668.6, 
     "triple_inshore": [
       0.6861, 
       0.919, 
       1.0551
-    ]
+    ], 
+    "gph": 668.6, 
+    "osn": 650.2
   }, 
   "sailnumber": "ITAJOTTO", 
   "name": "JOTTO DOMINI VENETI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.032, 
       "draft": 1.51, 
+      "wetted_surface": 13.7, 
       "main": 21.2, 
       "genoa": 13.9, 
       "displacement": 1507.0, 
-      "spinnaker_asym": 63.0
+      "spinnaker_asym": 63.0, 
+      "crew": 340.0
     }, 
     "year": "1997"
   }, 

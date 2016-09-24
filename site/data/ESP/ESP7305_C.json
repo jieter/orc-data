@@ -5,12 +5,13 @@
       1.0711, 
       1.2158
     ], 
-    "gph": 715.2, 
     "triple_inshore": [
       0.6256, 
       0.8621, 
       1.0195
-    ]
+    ], 
+    "gph": 715.2, 
+    "osn": 693.3
   }, 
   "sailnumber": "ESP7305_C", 
   "name": "MAMBAYA", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.0, 
       "loa": 9.75, 
       "draft": 1.89, 
+      "wetted_surface": 22.6, 
       "main": 22.2, 
       "genoa": 35.3, 
       "displacement": 4965.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 250.0
     }, 
     "year": "1985"
   }, 

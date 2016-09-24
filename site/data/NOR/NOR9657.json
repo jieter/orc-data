@@ -5,12 +5,13 @@
       1.0605, 
       1.263
     ], 
-    "gph": 729.7, 
     "triple_inshore": [
       0.5829, 
       0.843, 
       1.0501
-    ]
+    ], 
+    "gph": 729.7, 
+    "osn": 703.3
   }, 
   "sailnumber": "NOR9657", 
   "name": "Siesta", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.92, 
       "draft": 1.95, 
+      "wetted_surface": 27.3, 
       "main": 26.9, 
       "genoa": 36.2, 
       "displacement": 6267.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 620.0
     }, 
     "year": "1999"
   }, 

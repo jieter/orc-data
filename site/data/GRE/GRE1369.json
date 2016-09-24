@@ -5,12 +5,13 @@
       0.9608, 
       1.0847
     ], 
-    "gph": 792.1, 
     "triple_inshore": [
       0.5786, 
       0.7904, 
       0.9179
-    ]
+    ], 
+    "gph": 792.1, 
+    "osn": 767.8
   }, 
   "sailnumber": "GRE1369", 
   "name": "LUCKY LADY", 
@@ -25,10 +26,12 @@
       "spinnaker": 31.6, 
       "loa": 6.22, 
       "draft": 1.77, 
+      "wetted_surface": 11.5, 
       "main": 14.0, 
       "genoa": 10.4, 
       "displacement": 1370.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 270.0
     }, 
     "year": "1992"
   }, 

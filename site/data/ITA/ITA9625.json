@@ -5,12 +5,13 @@
       1.1207, 
       1.2554
     ], 
-    "gph": 678.9, 
     "triple_inshore": [
       0.6771, 
       0.9187, 
       1.0616
-    ]
+    ], 
+    "gph": 678.9, 
+    "osn": 659.2
   }, 
   "sailnumber": "ITA9625", 
   "name": "GAIOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.7, 
       "loa": 9.653, 
       "draft": 2.18, 
+      "wetted_surface": 20.0, 
       "main": 24.9, 
       "genoa": 29.6, 
       "displacement": 3749.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1981"
   }, 

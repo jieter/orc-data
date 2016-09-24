@@ -5,12 +5,13 @@
       1.1245, 
       1.309
     ], 
-    "gph": 684.4, 
     "triple_inshore": [
       0.6371, 
       0.8943, 
       1.0844
-    ]
+    ], 
+    "gph": 684.4, 
+    "osn": 662.2
   }, 
   "sailnumber": "ITAGANDA", 
   "name": "GANDALF", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.0, 
       "loa": 11.33, 
       "draft": 2.02, 
+      "wetted_surface": 27.4, 
       "main": 31.1, 
       "genoa": 39.3, 
       "displacement": 6237.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "1997"
   }, 

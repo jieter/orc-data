@@ -5,12 +5,13 @@
       1.2048, 
       1.3746
     ], 
-    "gph": 635.3, 
     "triple_inshore": [
       0.703, 
       0.972, 
       1.1559
-    ]
+    ], 
+    "gph": 635.3, 
+    "osn": 615.6
   }, 
   "sailnumber": "NED7484", 
   "name": "EARLY BIRD", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.2, 
       "loa": 11.215, 
       "draft": 2.08, 
+      "wetted_surface": 28.9, 
       "main": 39.7, 
       "genoa": 31.3, 
       "displacement": 6737.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 714.0
     }, 
     "year": "2003"
   }, 

@@ -5,12 +5,13 @@
       1.2592, 
       1.4229
     ], 
-    "gph": 606.9, 
     "triple_inshore": [
       0.7369, 
       1.013, 
       1.1899
-    ]
+    ], 
+    "gph": 606.9, 
+    "osn": 590.3
   }, 
   "sailnumber": "ESP6353", 
   "name": "SLICK", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.9, 
       "loa": 11.99, 
       "draft": 2.18, 
+      "wetted_surface": 32.5, 
       "main": 48.4, 
       "genoa": 46.8, 
       "displacement": 7833.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2000"
   }, 

@@ -5,12 +5,13 @@
       1.3618, 
       1.5448
     ], 
-    "gph": 561.0, 
     "triple_inshore": [
       0.7956, 
       1.0933, 
       1.2826
-    ]
+    ], 
+    "gph": 561.0, 
+    "osn": 546.4
   }, 
   "sailnumber": "ITA4552", 
   "name": "QUATTROGATTI", 
@@ -25,10 +26,12 @@
       "spinnaker": 150.5, 
       "loa": 13.74, 
       "draft": 2.62, 
+      "wetted_surface": 37.9, 
       "main": 62.6, 
       "genoa": 55.5, 
       "displacement": 9594.0, 
-      "spinnaker_asym": 147.0
+      "spinnaker_asym": 147.0, 
+      "crew": 910.0
     }, 
     "year": "2003"
   }, 

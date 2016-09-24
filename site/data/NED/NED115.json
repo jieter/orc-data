@@ -5,12 +5,13 @@
       1.2468, 
       1.3986
     ], 
-    "gph": 610.2, 
     "triple_inshore": [
       0.7482, 
       1.0171, 
       1.1717
-    ]
+    ], 
+    "gph": 610.2, 
+    "osn": 593.9
   }, 
   "sailnumber": "NED115", 
   "name": "WHO'S NEXT", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.2, 
       "loa": 10.6, 
       "draft": 2.18, 
+      "wetted_surface": 24.7, 
       "main": 41.4, 
       "genoa": 32.0, 
       "displacement": 4629.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2005"
   }, 

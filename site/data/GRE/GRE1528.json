@@ -5,12 +5,13 @@
       1.0537, 
       1.1876
     ], 
-    "gph": 724.6, 
     "triple_inshore": [
       0.6223, 
       0.8464, 
       0.9851
-    ]
+    ], 
+    "gph": 724.6, 
+    "osn": 704.6
   }, 
   "sailnumber": "GRE1528", 
   "name": "STAVENTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.9, 
       "loa": 9.34, 
       "draft": 1.49, 
+      "wetted_surface": 21.1, 
       "main": 22.5, 
       "genoa": 28.2, 
       "displacement": 3856.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1976"
   }, 

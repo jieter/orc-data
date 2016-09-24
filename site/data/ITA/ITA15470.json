@@ -5,12 +5,13 @@
       1.1854, 
       1.3402
     ], 
-    "gph": 644.1, 
     "triple_inshore": [
       0.7003, 
       0.9622, 
       1.1237
-    ]
+    ], 
+    "gph": 644.1, 
+    "osn": 625.4
   }, 
   "sailnumber": "ITA15470", 
   "name": "PATRICIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.6, 
       "loa": 9.982, 
       "draft": 2.01, 
+      "wetted_surface": 24.2, 
       "main": 35.2, 
       "genoa": 32.0, 
       "displacement": 4847.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 670.0
     }, 
     "year": "2005"
   }, 

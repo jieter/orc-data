@@ -5,12 +5,13 @@
       1.2294, 
       1.4008
     ], 
-    "gph": 622.5, 
     "triple_inshore": [
       0.714, 
       0.9833, 
       1.1631
-    ]
+    ], 
+    "gph": 622.5, 
+    "osn": 604.8
   }, 
   "sailnumber": "NED6428", 
   "name": "GRIEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.7, 
       "loa": 11.785, 
       "draft": 1.98, 
+      "wetted_surface": 33.4, 
       "main": 47.0, 
       "genoa": 41.3, 
       "displacement": 8084.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 790.0
     }, 
     "year": "1998"
   }, 

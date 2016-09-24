@@ -5,12 +5,13 @@
       1.1445, 
       1.3411
     ], 
-    "gph": 662.4, 
     "triple_inshore": [
       0.6858, 
       0.9229, 
       1.0552
-    ]
+    ], 
+    "gph": 662.4, 
+    "osn": 643.7
   }, 
   "sailnumber": "NOR4992", 
   "name": "Alltid Nede", 
@@ -25,10 +26,12 @@
       "spinnaker": 27.9, 
       "loa": 7.05, 
       "draft": 1.4, 
+      "wetted_surface": 11.4, 
       "main": 20.8, 
       "genoa": 13.3, 
       "displacement": 761.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 357.0
     }, 
     "year": "1983"
   }, 

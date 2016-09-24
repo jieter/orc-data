@@ -5,12 +5,13 @@
       1.1864, 
       1.345
     ], 
-    "gph": 637.1, 
     "triple_inshore": [
       0.724, 
       0.9546, 
       1.0961
-    ]
+    ], 
+    "gph": 637.1, 
+    "osn": 621.9
   }, 
   "sailnumber": "SUI27", 
   "name": "SERAFINA III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.0, 
       "draft": 1.73, 
+      "wetted_surface": 14.8, 
       "main": 27.4, 
       "genoa": 14.2, 
       "displacement": 1461.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 370.0
     }, 
     "year": "2012"
   }, 

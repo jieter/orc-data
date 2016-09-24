@@ -5,12 +5,13 @@
       1.2226, 
       1.4129
     ], 
-    "gph": 628.2, 
     "triple_inshore": [
       0.6942, 
       0.9697, 
       1.1688
-    ]
+    ], 
+    "gph": 628.2, 
+    "osn": 609.7
   }, 
   "sailnumber": "NOR9320", 
   "name": "Empire", 
@@ -25,10 +26,12 @@
       "spinnaker": 115.7, 
       "loa": 12.87, 
       "draft": 1.99, 
+      "wetted_surface": 37.9, 
       "main": 44.0, 
       "genoa": 50.9, 
       "displacement": 10038.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 863.0
     }, 
     "year": "1998"
   }, 

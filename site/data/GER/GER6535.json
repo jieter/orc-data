@@ -5,12 +5,13 @@
       1.2081, 
       1.3483
     ], 
-    "gph": 628.3, 
     "triple_inshore": [
       0.7154, 
       0.9732, 
       1.1287
-    ]
+    ], 
+    "gph": 628.3, 
+    "osn": 616.1
   }, 
   "sailnumber": "GER6535", 
   "name": "SEVELINA 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.8, 
       "loa": 10.66, 
       "draft": 2.22, 
+      "wetted_surface": 28.3, 
       "main": 40.4, 
       "genoa": 27.9, 
       "displacement": 6000.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 180.0
     }, 
     "year": "2009"
   }, 

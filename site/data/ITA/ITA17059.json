@@ -5,12 +5,13 @@
       1.466, 
       1.6527
     ], 
-    "gph": 523.0, 
     "triple_inshore": [
       0.8472, 
       1.1697, 
       1.3498
-    ]
+    ], 
+    "gph": 523.0, 
+    "osn": 508.9
   }, 
   "sailnumber": "ITA17059", 
   "name": "TALITHA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.4, 
       "draft": 2.85, 
+      "wetted_surface": 51.1, 
       "main": 90.0, 
       "genoa": 58.0, 
       "displacement": 13504.0, 
-      "spinnaker_asym": 246.0
+      "spinnaker_asym": 246.0, 
+      "crew": 900.0
     }, 
     "year": "2015"
   }, 

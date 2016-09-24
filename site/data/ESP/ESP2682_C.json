@@ -5,12 +5,13 @@
       1.1409, 
       1.3218
     ], 
-    "gph": 675.6, 
     "triple_inshore": [
       0.6423, 
       0.9063, 
       1.0981
-    ]
+    ], 
+    "gph": 675.6, 
+    "osn": 653.8
   }, 
   "sailnumber": "ESP2682_C", 
   "name": "CIES", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.5, 
       "loa": 11.74, 
       "draft": 1.95, 
+      "wetted_surface": 31.8, 
       "main": 35.0, 
       "genoa": 45.9, 
       "displacement": 8387.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1982"
   }, 

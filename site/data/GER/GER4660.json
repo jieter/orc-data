@@ -5,12 +5,13 @@
       1.2498, 
       1.4001
     ], 
-    "gph": 607.3, 
     "triple_inshore": [
       0.7525, 
       1.0106, 
       1.1664
-    ]
+    ], 
+    "gph": 607.3, 
+    "osn": 592.8
   }, 
   "sailnumber": "GER4660", 
   "name": "XENIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.5, 
       "loa": 11.36, 
       "draft": 2.1, 
+      "wetted_surface": 27.4, 
       "main": 39.9, 
       "genoa": 53.6, 
       "displacement": 5370.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1992"
   }, 

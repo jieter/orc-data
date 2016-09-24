@@ -5,12 +5,13 @@
       1.1505, 
       1.3567
     ], 
-    "gph": 668.3, 
     "triple_inshore": [
       0.6486, 
       0.9124, 
       1.1269
-    ]
+    ], 
+    "gph": 668.3, 
+    "osn": 646.8
   }, 
   "sailnumber": "NOR13505", 
   "name": "Second Wind", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.1, 
       "loa": 11.48, 
       "draft": 1.95, 
+      "wetted_surface": 29.1, 
       "main": 28.9, 
       "genoa": 32.9, 
       "displacement": 6351.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2008"
   }, 

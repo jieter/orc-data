@@ -5,12 +5,13 @@
       1.1951, 
       1.3897
     ], 
-    "gph": 642.2, 
     "triple_inshore": [
       0.6822, 
       0.945, 
       1.1457
-    ]
+    ], 
+    "gph": 642.2, 
+    "osn": 623.1
   }, 
   "sailnumber": "ITA16504", 
   "name": "TATTOO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.9, 
       "draft": 2.07, 
+      "wetted_surface": 33.4, 
       "main": 37.5, 
       "genoa": 44.4, 
       "displacement": 8897.0, 
-      "spinnaker_asym": 113.0
+      "spinnaker_asym": 113.0, 
+      "crew": 400.0
     }, 
     "year": "2009"
   }, 

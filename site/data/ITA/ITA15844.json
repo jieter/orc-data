@@ -5,12 +5,13 @@
       1.1967, 
       1.3448
     ], 
-    "gph": 631.4, 
     "triple_inshore": [
       0.7368, 
       0.9741, 
       1.1067
-    ]
+    ], 
+    "gph": 631.4, 
+    "osn": 615.8
   }, 
   "sailnumber": "ITA15844", 
   "name": "FURKOLKJAAF", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.14, 
       "draft": 1.81, 
+      "wetted_surface": 18.5, 
       "main": 30.8, 
       "genoa": 22.3, 
       "displacement": 2623.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 500.0
     }, 
     "year": "1992"
   }, 

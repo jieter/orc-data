@@ -5,12 +5,13 @@
       1.1671, 
       1.3251
     ], 
-    "gph": 654.2, 
     "triple_inshore": [
       0.685, 
       0.941, 
       1.1063
-    ]
+    ], 
+    "gph": 654.2, 
+    "osn": 636.3
   }, 
   "sailnumber": "NOR11136", 
   "name": "Gleden", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.1, 
       "loa": 10.25, 
       "draft": 1.87, 
+      "wetted_surface": 25.2, 
       "main": 34.9, 
       "genoa": 35.4, 
       "displacement": 5023.0, 
-      "spinnaker_asym": 61.0
+      "spinnaker_asym": 61.0, 
+      "crew": 612.0
     }, 
     "year": "2000"
   }, 

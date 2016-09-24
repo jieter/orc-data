@@ -5,12 +5,13 @@
       1.1572, 
       1.3417
     ], 
-    "gph": 664.8, 
     "triple_inshore": [
       0.657, 
       0.9202, 
       1.1112
-    ]
+    ], 
+    "gph": 664.8, 
+    "osn": 643.5
   }, 
   "sailnumber": "NOR15336", 
   "name": "Elise", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.94, 
       "draft": 2.1, 
+      "wetted_surface": 28.2, 
       "main": 31.4, 
       "genoa": 34.1, 
       "displacement": 5683.0, 
-      "spinnaker_asym": 66.0
+      "spinnaker_asym": 66.0, 
+      "crew": 694.0
     }, 
     "year": "2007"
   }, 

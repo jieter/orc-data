@@ -5,12 +5,13 @@
       1.043, 
       1.1556
     ], 
-    "gph": 726.7, 
     "triple_inshore": [
       0.6384, 
       0.8511, 
       0.9612
-    ]
+    ], 
+    "gph": 726.7, 
+    "osn": 709.7
   }, 
   "sailnumber": "NED3925", 
   "name": "ITCH", 
@@ -25,10 +26,12 @@
       "spinnaker": 31.7, 
       "loa": 8.084, 
       "draft": 1.52, 
+      "wetted_surface": 12.5, 
       "main": 19.6, 
       "genoa": 18.3, 
       "displacement": 1435.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 307.0
     }, 
     "year": "1979"
   }, 

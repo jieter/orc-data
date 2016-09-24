@@ -5,12 +5,13 @@
       1.1358, 
       1.2939
     ], 
-    "gph": 674.5, 
     "triple_inshore": [
       0.661, 
       0.9177, 
       1.0794
-    ]
+    ], 
+    "gph": 674.5, 
+    "osn": 653.6
   }, 
   "sailnumber": "ITA14045", 
   "name": "ROBELJO'", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.5, 
       "loa": 9.5, 
       "draft": 1.92, 
+      "wetted_surface": 21.9, 
       "main": 25.4, 
       "genoa": 28.9, 
       "displacement": 3749.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.233, 
       1.4019
     ], 
-    "gph": 614.7, 
     "triple_inshore": [
       0.7464, 
       1.0059, 
       1.1588
-    ]
+    ], 
+    "gph": 614.7, 
+    "osn": 598.3
   }, 
   "sailnumber": "FRA18323", 
   "name": "OJO PIOJO", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.0, 
       "loa": 9.435, 
       "draft": 2.16, 
+      "wetted_surface": 18.3, 
       "main": 33.0, 
       "genoa": 20.4, 
       "displacement": 2490.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 497.0
     }, 
     "year": "1996"
   }, 

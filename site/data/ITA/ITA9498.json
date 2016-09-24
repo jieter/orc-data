@@ -5,12 +5,13 @@
       0.9952, 
       1.1183
     ], 
-    "gph": 764.4, 
     "triple_inshore": [
       0.5978, 
       0.8115, 
       0.9244
-    ]
+    ], 
+    "gph": 764.4, 
+    "osn": 743.9
   }, 
   "sailnumber": "ITA9498", 
   "name": "LEALX", 
@@ -25,10 +26,12 @@
       "spinnaker": 26.0, 
       "loa": 7.52, 
       "draft": 1.38, 
+      "wetted_surface": 9.9, 
       "main": 15.4, 
       "genoa": 12.7, 
       "displacement": 1056.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 340.0
     }, 
     "year": "1978"
   }, 

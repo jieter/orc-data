@@ -5,12 +5,13 @@
       1.179, 
       1.3261
     ], 
-    "gph": 645.9, 
     "triple_inshore": [
       0.704, 
       0.9583, 
       1.1128
-    ]
+    ], 
+    "gph": 645.9, 
+    "osn": 628.5
   }, 
   "sailnumber": "GRE49161", 
   "name": "KOURSAROS", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.3, 
       "loa": 11.022, 
       "draft": 2.0, 
+      "wetted_surface": 24.4, 
       "main": 29.6, 
       "genoa": 44.1, 
       "displacement": 5134.0, 
-      "spinnaker_asym": 88.0
+      "spinnaker_asym": 88.0, 
+      "crew": 605.0
     }, 
     "year": "1986"
   }, 

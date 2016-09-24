@@ -5,12 +5,13 @@
       1.2658, 
       1.4402
     ], 
-    "gph": 604.8, 
     "triple_inshore": [
       0.7346, 
       1.0088, 
       1.18
-    ]
+    ], 
+    "gph": 604.8, 
+    "osn": 587.6
   }, 
   "sailnumber": "FIN10587", 
   "name": "Shangri-La", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.75, 
       "draft": 2.15, 
+      "wetted_surface": 32.2, 
       "main": 44.8, 
       "genoa": 43.8, 
       "displacement": 7474.0, 
-      "spinnaker_asym": 109.0
+      "spinnaker_asym": 109.0, 
+      "crew": 900.0
     }, 
     "year": "2007"
   }, 

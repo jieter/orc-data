@@ -5,12 +5,13 @@
       1.1866, 
       1.3519
     ], 
-    "gph": 646.1, 
     "triple_inshore": [
       0.6685, 
       0.9285, 
       1.0994
-    ]
+    ], 
+    "gph": 646.1, 
+    "osn": 631.3
   }, 
   "sailnumber": "NED8841", 
   "name": "Magic Kingdom", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.0, 
       "loa": 12.468, 
       "draft": 1.63, 
+      "wetted_surface": 35.3, 
       "main": 34.2, 
       "genoa": 44.2, 
       "displacement": 7945.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2007"
   }, 

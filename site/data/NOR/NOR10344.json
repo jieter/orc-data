@@ -5,12 +5,13 @@
       1.0734, 
       1.2201
     ], 
-    "gph": 712.9, 
     "triple_inshore": [
       0.6271, 
       0.8633, 
       1.0166
-    ]
+    ], 
+    "gph": 712.9, 
+    "osn": 691.7
   }, 
   "sailnumber": "NOR10344", 
   "name": "Sofie", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.9, 
       "loa": 9.45, 
       "draft": 1.72, 
+      "wetted_surface": 20.8, 
       "main": 27.6, 
       "genoa": 17.1, 
       "displacement": 4081.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 511.0
     }, 
     "year": "2000"
   }, 

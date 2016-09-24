@@ -5,12 +5,13 @@
       1.1835, 
       1.3497
     ], 
-    "gph": 643.9, 
     "triple_inshore": [
       0.6962, 
       0.9353, 
       1.1127
-    ]
+    ], 
+    "gph": 643.9, 
+    "osn": 628.4
   }, 
   "sailnumber": "NED6861", 
   "name": "Otter", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.45, 
       "draft": 2.06, 
+      "wetted_surface": 42.0, 
       "main": 49.4, 
       "genoa": 65.6, 
       "displacement": 15703.0, 
-      "spinnaker_asym": 142.0
+      "spinnaker_asym": 142.0, 
+      "crew": 779.0
     }, 
     "year": "1995"
   }, 

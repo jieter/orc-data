@@ -5,12 +5,13 @@
       1.2499, 
       1.4134
     ], 
-    "gph": 610.9, 
     "triple_inshore": [
       0.7371, 
       1.0067, 
       1.1674
-    ]
+    ], 
+    "gph": 610.9, 
+    "osn": 592.7
   }, 
   "sailnumber": "CRO1903", 
   "name": "Sierra", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.5, 
       "draft": 2.14, 
+      "wetted_surface": 27.0, 
       "main": 38.5, 
       "genoa": 30.6, 
       "displacement": 5350.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 684.0
     }, 
     "year": "2010"
   }, 

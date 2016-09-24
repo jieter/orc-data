@@ -5,12 +5,13 @@
       1.1934, 
       1.3931
     ], 
-    "gph": 644.7, 
     "triple_inshore": [
       0.6611, 
       0.9382, 
       1.1498
-    ]
+    ], 
+    "gph": 644.7, 
+    "osn": 628.2
   }, 
   "sailnumber": "NOR12479", 
   "name": "Belle Monique", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.86, 
       "draft": 2.2, 
+      "wetted_surface": 33.5, 
       "main": 38.9, 
       "genoa": 37.5, 
       "displacement": 7316.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 804.0
     }, 
     "year": "2007"
   }, 

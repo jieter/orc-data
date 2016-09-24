@@ -5,12 +5,13 @@
       1.1632, 
       1.3245
     ], 
-    "gph": 657.2, 
     "triple_inshore": [
       0.68, 
       0.938, 
       1.1084
-    ]
+    ], 
+    "gph": 657.2, 
+    "osn": 638.2
   }, 
   "sailnumber": "NOR10832", 
   "name": "Sitaren", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.2, 
       "loa": 10.25, 
       "draft": 1.87, 
+      "wetted_surface": 25.2, 
       "main": 33.9, 
       "genoa": 34.6, 
       "displacement": 5023.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 612.0
     }, 
     "year": "2002"
   }, 

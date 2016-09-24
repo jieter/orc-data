@@ -5,12 +5,13 @@
       1.1546, 
       1.2993
     ], 
-    "gph": 660.9, 
     "triple_inshore": [
       0.683, 
       0.933, 
       1.0869
-    ]
+    ], 
+    "gph": 660.9, 
+    "osn": 642.8
   }, 
   "sailnumber": "FRA9721", 
   "name": "LA BELUGUE", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.5, 
       "loa": 9.973, 
       "draft": 1.95, 
+      "wetted_surface": 23.8, 
       "main": 31.9, 
       "genoa": 31.8, 
       "displacement": 4972.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 495.0
     }, 
     "year": "1998"
   }, 

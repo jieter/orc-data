@@ -5,12 +5,13 @@
       1.139, 
       1.3063
     ], 
-    "gph": 672.6, 
     "triple_inshore": [
       0.6613, 
       0.9174, 
       1.0986
-    ]
+    ], 
+    "gph": 672.6, 
+    "osn": 651.7
   }, 
   "sailnumber": "NED8317", 
   "name": "Gast Vrij", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.8, 
       "loa": 10.51, 
       "draft": 1.93, 
+      "wetted_surface": 26.1, 
       "main": 35.6, 
       "genoa": 22.7, 
       "displacement": 5741.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1993"
   }, 

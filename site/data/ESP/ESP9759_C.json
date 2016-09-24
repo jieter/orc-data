@@ -5,12 +5,13 @@
       1.114, 
       1.2918
     ], 
-    "gph": 688.8, 
     "triple_inshore": [
       0.6342, 
       0.886, 
       1.0699
-    ]
+    ], 
+    "gph": 688.8, 
+    "osn": 668.6
   }, 
   "sailnumber": "ESP9759_C", 
   "name": "ZEST", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.9, 
       "loa": 10.83, 
       "draft": 1.66, 
+      "wetted_surface": 26.7, 
       "main": 28.4, 
       "genoa": 37.8, 
       "displacement": 5989.0, 
-      "spinnaker_asym": 67.0
+      "spinnaker_asym": 67.0, 
+      "crew": 624.0
     }, 
     "year": "1991"
   }, 

@@ -5,12 +5,13 @@
       1.1054, 
       1.2334
     ], 
-    "gph": 688.7, 
     "triple_inshore": [
       0.6628, 
       0.8966, 
       1.0288
-    ]
+    ], 
+    "gph": 688.7, 
+    "osn": 670.4
   }, 
   "sailnumber": "NOR14741", 
   "name": "Ea", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.1, 
       "loa": 9.45, 
       "draft": 1.72, 
+      "wetted_surface": 20.8, 
       "main": 27.5, 
       "genoa": 30.5, 
       "displacement": 4081.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 511.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       0.8916, 
       1.0442
     ], 
-    "gph": 862.0, 
     "triple_inshore": [
       0.5051, 
       0.7108, 
       0.8677
-    ]
+    ], 
+    "gph": 862.0, 
+    "osn": 834.0
   }, 
   "sailnumber": "GER7239", 
   "name": "PIPAPO", 
@@ -25,10 +26,12 @@
       "spinnaker": 28.9, 
       "loa": 6.7, 
       "draft": 1.25, 
+      "wetted_surface": 11.4, 
       "main": 10.1, 
       "genoa": 12.0, 
       "displacement": 1485.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 240.0
     }, 
     "year": "1976"
   }, 

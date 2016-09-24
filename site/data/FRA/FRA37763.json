@@ -5,12 +5,13 @@
       1.1099, 
       1.2295
     ], 
-    "gph": 683.8, 
     "triple_inshore": [
       0.6727, 
       0.9054, 
       1.0376
-    ]
+    ], 
+    "gph": 683.8, 
+    "osn": 667.7
   }, 
   "sailnumber": "FRA37763", 
   "name": "LETTY", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.1, 
       "loa": 9.904, 
       "draft": 1.76, 
+      "wetted_surface": 17.8, 
       "main": 25.3, 
       "genoa": 18.9, 
       "displacement": 3316.0, 
-      "spinnaker_asym": 71.0
+      "spinnaker_asym": 71.0, 
+      "crew": 400.0
     }, 
     "year": "1979"
   }, 

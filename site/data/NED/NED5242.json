@@ -5,12 +5,13 @@
       1.0155, 
       1.144
     ], 
-    "gph": 751.0, 
     "triple_inshore": [
       0.6057, 
       0.8218, 
       0.9591
-    ]
+    ], 
+    "gph": 751.0, 
+    "osn": 729.4
   }, 
   "sailnumber": "NED5242", 
   "name": "LAZY SUNDAY", 
@@ -25,10 +26,12 @@
       "spinnaker": 52.2, 
       "loa": 8.47, 
       "draft": 1.58, 
+      "wetted_surface": 17.0, 
       "main": 14.8, 
       "genoa": 27.2, 
       "displacement": 3187.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1971"
   }, 

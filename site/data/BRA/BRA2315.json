@@ -5,12 +5,13 @@
       1.1337, 
       1.2758
     ], 
-    "gph": 671.6, 
     "triple_inshore": [
       0.676, 
       0.9172, 
       1.0599
-    ]
+    ], 
+    "gph": 671.6, 
+    "osn": 653.9
   }, 
   "sailnumber": "BRA2315", 
   "name": "KAMIKAZE XI", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.5, 
       "loa": 9.215, 
       "draft": 1.59, 
+      "wetted_surface": 21.1, 
       "main": 30.5, 
       "genoa": 25.8, 
       "displacement": 3751.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "2006"
   }, 

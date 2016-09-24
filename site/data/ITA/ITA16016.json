@@ -5,12 +5,13 @@
       1.2711, 
       1.4343
     ], 
-    "gph": 600.2, 
     "triple_inshore": [
       0.7502, 
       1.0258, 
       1.1965
-    ]
+    ], 
+    "gph": 600.2, 
+    "osn": 584.2
   }, 
   "sailnumber": "ITA16016", 
   "name": "POQUITO", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.9, 
       "loa": 11.924, 
       "draft": 2.4, 
+      "wetted_surface": 31.5, 
       "main": 49.6, 
       "genoa": 46.2, 
       "displacement": 7293.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 750.0
     }, 
     "year": "1997"
   }, 

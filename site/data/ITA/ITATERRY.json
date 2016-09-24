@@ -5,12 +5,13 @@
       1.0035, 
       1.1422
     ], 
-    "gph": 763.1, 
     "triple_inshore": [
       0.5847, 
       0.801, 
       0.9498
-    ]
+    ], 
+    "gph": 763.1, 
+    "osn": 740.7
   }, 
   "sailnumber": "ITATERRY", 
   "name": "TERRY II", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.6, 
       "loa": 9.387, 
       "draft": 1.79, 
+      "wetted_surface": 21.4, 
       "main": 18.1, 
       "genoa": 32.2, 
       "displacement": 5447.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 468.0
     }, 
     "year": "1974"
   }, 

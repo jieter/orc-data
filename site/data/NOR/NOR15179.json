@@ -5,12 +5,13 @@
       1.3218, 
       1.4993
     ], 
-    "gph": 575.8, 
     "triple_inshore": [
       0.7765, 
       1.061, 
       1.2445
-    ]
+    ], 
+    "gph": 575.8, 
+    "osn": 562.2
   }, 
   "sailnumber": "NOR15179", 
   "name": "St?r", 
@@ -25,10 +26,12 @@
       "spinnaker": 129.5, 
       "loa": 12.2, 
       "draft": 2.2, 
+      "wetted_surface": 35.0, 
       "main": 56.1, 
       "genoa": 38.9, 
       "displacement": 7978.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 828.0
     }, 
     "year": "2011"
   }, 

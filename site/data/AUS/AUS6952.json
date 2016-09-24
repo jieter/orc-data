@@ -5,12 +5,13 @@
       1.663, 
       1.9346
     ], 
-    "gph": 457.6, 
     "triple_inshore": [
       0.9768, 
       1.319, 
       1.5555
-    ]
+    ], 
+    "gph": 457.6, 
+    "osn": 444.9
   }, 
   "sailnumber": "AUS6952", 
   "name": "CELESTIAL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.85, 
       "draft": 3.25, 
+      "wetted_surface": 45.1, 
       "main": 91.8, 
       "genoa": 63.5, 
       "displacement": 8061.0, 
-      "spinnaker_asym": 267.0
+      "spinnaker_asym": 267.0, 
+      "crew": 1105.0
     }, 
     "year": "2006"
   }, 

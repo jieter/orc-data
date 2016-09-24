@@ -5,12 +5,13 @@
       1.2058, 
       1.3599
     ], 
-    "gph": 634.2, 
     "triple_inshore": [
       0.7097, 
       0.9746, 
       1.1454
-    ]
+    ], 
+    "gph": 634.2, 
+    "osn": 615.5
   }, 
   "sailnumber": "ESP9545_C", 
   "name": "ALHENA GG", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.9, 
       "loa": 11.1, 
       "draft": 2.31, 
+      "wetted_surface": 29.7, 
       "main": 39.8, 
       "genoa": 36.0, 
       "displacement": 7029.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1997"
   }, 

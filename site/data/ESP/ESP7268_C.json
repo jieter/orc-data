@@ -5,12 +5,13 @@
       1.1596, 
       1.3527
     ], 
-    "gph": 662.9, 
     "triple_inshore": [
       0.6553, 
       0.9235, 
       1.1236
-    ]
+    ], 
+    "gph": 662.9, 
+    "osn": 642.4
   }, 
   "sailnumber": "ESP7268_C", 
   "name": "TREBOL QUEEN II", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.8, 
       "loa": 11.2, 
       "draft": 1.92, 
+      "wetted_surface": 29.2, 
       "main": 33.9, 
       "genoa": 34.6, 
       "displacement": 6187.0, 
-      "spinnaker_asym": 78.0
+      "spinnaker_asym": 78.0, 
+      "crew": 600.0
     }, 
     "year": "1996"
   }, 

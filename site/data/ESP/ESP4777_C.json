@@ -5,12 +5,13 @@
       1.2594, 
       1.4255
     ], 
-    "gph": 606.5, 
     "triple_inshore": [
       0.7389, 
       1.0133, 
       1.1834
-    ]
+    ], 
+    "gph": 606.5, 
+    "osn": 589.9
   }, 
   "sailnumber": "ESP4777_C", 
   "name": "THRILLER", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.1, 
       "loa": 12.029, 
       "draft": 2.12, 
+      "wetted_surface": 29.8, 
       "main": 38.7, 
       "genoa": 48.7, 
       "displacement": 6088.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1987"
   }, 

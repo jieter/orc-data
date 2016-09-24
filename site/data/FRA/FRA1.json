@@ -5,12 +5,13 @@
       1.3603, 
       1.5633
     ], 
-    "gph": 556.6, 
     "triple_inshore": [
       0.8241, 
       1.0977, 
       1.2855
-    ]
+    ], 
+    "gph": 556.6, 
+    "osn": 541.5
   }, 
   "sailnumber": "FRA1", 
   "name": "Shaker", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.32, 
       "draft": 2.53, 
+      "wetted_surface": 22.4, 
       "main": 41.0, 
       "genoa": 26.2, 
       "displacement": 2715.0, 
-      "spinnaker_asym": 124.0
+      "spinnaker_asym": 124.0, 
+      "crew": 640.0
     }, 
     "year": "2010"
   }, 

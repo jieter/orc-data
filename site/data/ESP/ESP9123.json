@@ -5,12 +5,13 @@
       1.0912, 
       1.2188
     ], 
-    "gph": 696.9, 
     "triple_inshore": [
       0.6571, 
       0.8894, 
       1.0258
-    ]
+    ], 
+    "gph": 696.9, 
+    "osn": 678.5
   }, 
   "sailnumber": "ESP9123", 
   "name": "TOSCA PRIMERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.7, 
       "loa": 9.0, 
       "draft": 1.76, 
+      "wetted_surface": 20.3, 
       "main": 27.7, 
       "genoa": 28.0, 
       "displacement": 3924.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1989"
   }, 

@@ -5,12 +5,13 @@
       1.2116, 
       1.37
     ], 
-    "gph": 629.8, 
     "triple_inshore": [
       0.7155, 
       0.9791, 
       1.149
-    ]
+    ], 
+    "gph": 629.8, 
+    "osn": 612.1
   }, 
   "sailnumber": "NED7936", 
   "name": "Jelle", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.5, 
       "loa": 10.972, 
       "draft": 1.99, 
+      "wetted_surface": 28.9, 
       "main": 40.7, 
       "genoa": 40.3, 
       "displacement": 6706.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 693.0
     }, 
     "year": "2000"
   }, 

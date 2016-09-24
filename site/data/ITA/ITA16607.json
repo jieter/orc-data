@@ -5,12 +5,13 @@
       1.1872, 
       1.3629
     ], 
-    "gph": 646.9, 
     "triple_inshore": [
       0.6785, 
       0.9393, 
       1.1198
-    ]
+    ], 
+    "gph": 646.9, 
+    "osn": 627.7
   }, 
   "sailnumber": "ITA16607", 
   "name": "FRINKY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.27, 
       "draft": 2.03, 
+      "wetted_surface": 33.7, 
       "main": 41.0, 
       "genoa": 38.5, 
       "displacement": 7855.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 500.0
     }, 
     "year": "2009"
   }, 

@@ -5,12 +5,13 @@
       1.2028, 
       1.4236
     ], 
-    "gph": 644.9, 
     "triple_inshore": [
       0.6525, 
       0.9352, 
       1.1457
-    ]
+    ], 
+    "gph": 644.9, 
+    "osn": 623.3
   }, 
   "sailnumber": "CRO2238", 
   "name": "Lunga", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.734, 
       "draft": 2.11, 
+      "wetted_surface": 46.4, 
       "main": 42.9, 
       "genoa": 45.7, 
       "displacement": 12600.0, 
-      "spinnaker_asym": 154.0
+      "spinnaker_asym": 154.0, 
+      "crew": 945.0
     }, 
     "year": "2010"
   }, 

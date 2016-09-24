@@ -5,12 +5,13 @@
       1.1223, 
       1.2706
     ], 
-    "gph": 681.1, 
     "triple_inshore": [
       0.6589, 
       0.9114, 
       1.0667
-    ]
+    ], 
+    "gph": 681.1, 
+    "osn": 661.2
   }, 
   "sailnumber": "GER6585", 
   "name": "BALLERINA 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.2, 
       "loa": 9.476, 
       "draft": 1.93, 
+      "wetted_surface": 20.5, 
       "main": 27.4, 
       "genoa": 27.0, 
       "displacement": 3641.0, 
-      "spinnaker_asym": 53.0
+      "spinnaker_asym": 53.0, 
+      "crew": 400.0
     }, 
     "year": "1998"
   }, 

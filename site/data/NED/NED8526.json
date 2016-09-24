@@ -5,12 +5,13 @@
       1.2502, 
       1.4416
     ], 
-    "gph": 612.7, 
     "triple_inshore": [
       0.7201, 
       1.0007, 
       1.1975
-    ]
+    ], 
+    "gph": 612.7, 
+    "osn": 594.4
   }, 
   "sailnumber": "NED8526", 
   "name": "Boekanier", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.4, 
       "loa": 11.995, 
       "draft": 1.95, 
+      "wetted_surface": 32.8, 
       "main": 49.6, 
       "genoa": 33.0, 
       "displacement": 7431.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2003"
   }, 

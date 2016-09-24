@@ -5,12 +5,13 @@
       1.1661, 
       1.3131
     ], 
-    "gph": 655.0, 
     "triple_inshore": [
       0.6879, 
       0.9431, 
       1.0971
-    ]
+    ], 
+    "gph": 655.0, 
+    "osn": 636.8
   }, 
   "sailnumber": "GER6448", 
   "name": "OTAGO", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.3, 
       "loa": 10.06, 
       "draft": 1.83, 
+      "wetted_surface": 24.4, 
       "main": 35.8, 
       "genoa": 26.6, 
       "displacement": 4671.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1994"
   }, 

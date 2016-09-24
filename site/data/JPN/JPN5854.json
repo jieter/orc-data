@@ -5,12 +5,13 @@
       1.2149, 
       1.3672
     ], 
-    "gph": 620.9, 
     "triple_inshore": [
       0.7476, 
       0.9943, 
       1.141
-    ]
+    ], 
+    "gph": 620.9, 
+    "osn": 606.7
   }, 
   "sailnumber": "JPN5854", 
   "name": "HAYATE", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.9, 
       "loa": 9.5, 
       "draft": 2.0, 
+      "wetted_surface": 19.6, 
       "main": 34.7, 
       "genoa": 36.1, 
       "displacement": 3167.0, 
-      "spinnaker_asym": 71.0
+      "spinnaker_asym": 71.0, 
+      "crew": 542.0
     }, 
     "year": "1999"
   }, 

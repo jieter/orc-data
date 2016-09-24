@@ -5,12 +5,13 @@
       1.0084, 
       1.1391
     ], 
-    "gph": 756.5, 
     "triple_inshore": [
       0.5977, 
       0.8174, 
       0.9539
-    ]
+    ], 
+    "gph": 756.5, 
+    "osn": 735.0
   }, 
   "sailnumber": "ESP9641_C", 
   "name": "CAPITAN HADDOCK", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.7, 
       "loa": 7.993, 
       "draft": 1.56, 
+      "wetted_surface": 15.4, 
       "main": 16.9, 
       "genoa": 29.8, 
       "displacement": 2794.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 375.0
     }, 
     "year": "1980"
   }, 

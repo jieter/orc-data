@@ -5,12 +5,13 @@
       1.1843, 
       1.3926
     ], 
-    "gph": 652.3, 
     "triple_inshore": [
       0.6583, 
       0.9335, 
       1.1378
-    ]
+    ], 
+    "gph": 652.3, 
+    "osn": 630.2
   }, 
   "sailnumber": "ROU238", 
   "name": "Cassiopeia", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.5, 
       "draft": 2.07, 
+      "wetted_surface": 34.1, 
       "main": 31.7, 
       "genoa": 32.5, 
       "displacement": 7003.0, 
-      "spinnaker_asym": 99.0
+      "spinnaker_asym": 99.0, 
+      "crew": 810.0
     }, 
     "year": "2014"
   }, 

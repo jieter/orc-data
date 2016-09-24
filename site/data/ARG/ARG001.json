@@ -5,12 +5,13 @@
       1.4896, 
       1.7288
     ], 
-    "gph": 508.4, 
     "triple_inshore": [
       0.8906, 
       1.1839, 
       1.3906
-    ]
+    ], 
+    "gph": 508.4, 
+    "osn": 495.9
   }, 
   "sailnumber": "ARG001", 
   "name": "MAC", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.32, 
       "draft": 2.6, 
+      "wetted_surface": 30.2, 
       "main": 63.3, 
       "genoa": 41.1, 
       "displacement": 4289.0, 
-      "spinnaker_asym": 168.0
+      "spinnaker_asym": 168.0, 
+      "crew": 905.0
     }, 
     "year": "2008"
   }, 

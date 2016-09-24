@@ -5,12 +5,13 @@
       1.0935, 
       1.2607
     ], 
-    "gph": 702.9, 
     "triple_inshore": [
       0.622, 
       0.8651, 
       1.0349
-    ]
+    ], 
+    "gph": 702.9, 
+    "osn": 681.5
   }, 
   "sailnumber": "GRE741", 
   "name": "ALMYRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.7, 
       "loa": 10.65, 
       "draft": 1.4, 
+      "wetted_surface": 27.7, 
       "main": 29.1, 
       "genoa": 31.7, 
       "displacement": 5930.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1996"
   }, 

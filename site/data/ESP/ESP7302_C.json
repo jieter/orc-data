@@ -5,12 +5,13 @@
       1.221, 
       1.3749
     ], 
-    "gph": 624.3, 
     "triple_inshore": [
       0.7257, 
       0.992, 
       1.155
-    ]
+    ], 
+    "gph": 624.3, 
+    "osn": 607.5
   }, 
   "sailnumber": "ESP7302_C", 
   "name": "EL JALEO", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.4, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.2, 
       "main": 40.0, 
       "genoa": 40.5, 
       "displacement": 5494.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "2001"
   }, 

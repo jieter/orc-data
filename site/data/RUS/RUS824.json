@@ -5,12 +5,13 @@
       1.2087, 
       1.4069
     ], 
-    "gph": 638.0, 
     "triple_inshore": [
       0.677, 
       0.9574, 
       1.1636
-    ]
+    ], 
+    "gph": 638.0, 
+    "osn": 617.3
   }, 
   "sailnumber": "RUS824", 
   "name": "THALASSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.2, 
       "loa": 12.64, 
       "draft": 2.14, 
+      "wetted_surface": 38.3, 
       "main": 35.5, 
       "genoa": 52.4, 
       "displacement": 9672.0, 
-      "spinnaker_asym": 105.0
+      "spinnaker_asym": 105.0, 
+      "crew": 889.0
     }, 
     "year": "2004"
   }, 

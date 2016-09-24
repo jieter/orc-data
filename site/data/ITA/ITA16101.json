@@ -5,12 +5,13 @@
       1.2161, 
       1.3536
     ], 
-    "gph": 623.8, 
     "triple_inshore": [
       0.7369, 
       0.9878, 
       1.1318
-    ]
+    ], 
+    "gph": 623.8, 
+    "osn": 609.3
   }, 
   "sailnumber": "ITA16101", 
   "name": "SCURSUNERA", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.5, 
       "loa": 11.41, 
       "draft": 2.1, 
+      "wetted_surface": 25.8, 
       "main": 43.0, 
       "genoa": 41.1, 
       "displacement": 5563.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 720.0
     }, 
     "year": "1983"
   }, 

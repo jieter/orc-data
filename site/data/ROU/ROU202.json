@@ -5,12 +5,13 @@
       1.0433, 
       1.2125
     ], 
-    "gph": 739.0, 
     "triple_inshore": [
       0.5865, 
       0.8235, 
       1.0023
-    ]
+    ], 
+    "gph": 739.0, 
+    "osn": 715.4
   }, 
   "sailnumber": "ROU202", 
   "name": "Echipa", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.45, 
       "draft": 1.77, 
+      "wetted_surface": 23.3, 
       "main": 26.9, 
       "genoa": 23.2, 
       "displacement": 4700.0, 
-      "spinnaker_asym": 41.0
+      "spinnaker_asym": 41.0, 
+      "crew": 450.0
     }, 
     "year": "1999"
   }, 

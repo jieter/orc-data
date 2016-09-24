@@ -5,12 +5,13 @@
       1.2569, 
       1.4063
     ], 
-    "gph": 600.3, 
     "triple_inshore": [
       0.7556, 
       1.0107, 
       1.187
-    ]
+    ], 
+    "gph": 600.3, 
+    "osn": 591.6
   }, 
   "sailnumber": "NOR28", 
   "name": "Fenris", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.44, 
       "draft": 2.19, 
+      "wetted_surface": 30.8, 
       "main": 66.7, 
       "genoa": 50.8, 
       "displacement": 9227.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 616.0
     }, 
     "year": "1931"
   }, 

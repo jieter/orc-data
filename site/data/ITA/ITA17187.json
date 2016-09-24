@@ -5,12 +5,13 @@
       1.2121, 
       1.3684
     ], 
-    "gph": 629.9, 
     "triple_inshore": [
       0.7116, 
       0.9668, 
       1.1254
-    ]
+    ], 
+    "gph": 629.9, 
+    "osn": 613.4
   }, 
   "sailnumber": "ITA17187", 
   "name": "REWIND", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.95, 
       "draft": 2.0, 
+      "wetted_surface": 30.4, 
       "main": 37.3, 
       "genoa": 48.6, 
       "displacement": 7500.0, 
-      "spinnaker_asym": 133.0
+      "spinnaker_asym": 133.0, 
+      "crew": 750.0
     }, 
     "year": "1997"
   }, 

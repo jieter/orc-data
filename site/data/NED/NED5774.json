@@ -5,12 +5,13 @@
       1.104, 
       1.2443
     ], 
-    "gph": 689.7, 
     "triple_inshore": [
       0.6598, 
       0.8903, 
       1.0427
-    ]
+    ], 
+    "gph": 689.7, 
+    "osn": 671.7
   }, 
   "sailnumber": "NED5774", 
   "name": "BACK BAY", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.3, 
       "loa": 10.33, 
       "draft": 1.88, 
+      "wetted_surface": 25.4, 
       "main": 25.7, 
       "genoa": 44.9, 
       "displacement": 5984.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 537.0
     }, 
     "year": "1988"
   }, 

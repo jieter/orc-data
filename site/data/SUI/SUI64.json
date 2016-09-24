@@ -5,12 +5,13 @@
       1.289, 
       1.4451
     ], 
-    "gph": 589.6, 
     "triple_inshore": [
       0.7675, 
       1.0374, 
       1.2001
-    ]
+    ], 
+    "gph": 589.6, 
+    "osn": 576.2
   }, 
   "sailnumber": "SUI64", 
   "name": "SWIMMINGTOOL", 
@@ -25,10 +26,12 @@
       "spinnaker": 129.6, 
       "loa": 11.58, 
       "draft": 2.13, 
+      "wetted_surface": 31.7, 
       "main": 51.4, 
       "genoa": 39.6, 
       "displacement": 7318.0, 
-      "spinnaker_asym": 103.0
+      "spinnaker_asym": 103.0, 
+      "crew": 650.0
     }, 
     "year": "2011"
   }, 

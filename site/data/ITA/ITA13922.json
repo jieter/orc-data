@@ -5,12 +5,13 @@
       1.1593, 
       1.3038
     ], 
-    "gph": 655.9, 
     "triple_inshore": [
       0.6949, 
       0.9436, 
       1.0841
-    ]
+    ], 
+    "gph": 655.9, 
+    "osn": 638.6
   }, 
   "sailnumber": "ITA13922", 
   "name": "IL COMMENDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.3, 
       "loa": 9.14, 
       "draft": 1.82, 
+      "wetted_surface": 18.9, 
       "main": 27.6, 
       "genoa": 27.9, 
       "displacement": 2742.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1992"
   }, 

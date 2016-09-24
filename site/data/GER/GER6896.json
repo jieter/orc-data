@@ -5,12 +5,13 @@
       1.246, 
       1.4255
     ], 
-    "gph": 614.2, 
     "triple_inshore": [
       0.7138, 
       0.9907, 
       1.1823
-    ]
+    ], 
+    "gph": 614.2, 
+    "osn": 598.6
   }, 
   "sailnumber": "GER6896", 
   "name": "SUSANN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.8, 
       "draft": 2.08, 
+      "wetted_surface": 35.5, 
       "main": 45.7, 
       "genoa": 52.3, 
       "displacement": 9168.0, 
-      "spinnaker_asym": 120.0
+      "spinnaker_asym": 120.0, 
+      "crew": 600.0
     }, 
     "year": "1998"
   }, 

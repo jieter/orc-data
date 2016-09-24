@@ -5,12 +5,13 @@
       1.1293, 
       1.3437
     ], 
-    "gph": 683.8, 
     "triple_inshore": [
       0.6203, 
       0.898, 
       1.1243
-    ]
+    ], 
+    "gph": 683.8, 
+    "osn": 661.1
   }, 
   "sailnumber": "NOR15030", 
   "name": "Olivia", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.12, 
       "draft": 2.07, 
+      "wetted_surface": 33.5, 
       "main": 35.4, 
       "genoa": 42.3, 
       "displacement": 8871.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 781.0
     }, 
     "year": "2009"
   }, 

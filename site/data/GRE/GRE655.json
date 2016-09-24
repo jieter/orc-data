@@ -5,12 +5,13 @@
       1.1809, 
       1.3453
     ], 
-    "gph": 648.1, 
     "triple_inshore": [
       0.6881, 
       0.9497, 
       1.1253
-    ]
+    ], 
+    "gph": 648.1, 
+    "osn": 628.5
   }, 
   "sailnumber": "GRE655", 
   "name": "CHRISTINA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.7, 
       "loa": 11.414, 
       "draft": 1.97, 
+      "wetted_surface": 28.9, 
       "main": 39.5, 
       "genoa": 36.7, 
       "displacement": 6458.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "1986"
   }, 

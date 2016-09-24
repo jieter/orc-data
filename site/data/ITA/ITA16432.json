@@ -5,12 +5,13 @@
       1.1508, 
       1.2953
     ], 
-    "gph": 663.2, 
     "triple_inshore": [
       0.6818, 
       0.9259, 
       1.0749
-    ]
+    ], 
+    "gph": 663.2, 
+    "osn": 644.3
   }, 
   "sailnumber": "ITA16432", 
   "name": "ISTAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.24, 
       "draft": 1.92, 
+      "wetted_surface": 22.6, 
       "main": 28.2, 
       "genoa": 24.4, 
       "displacement": 4097.0, 
-      "spinnaker_asym": 76.0
+      "spinnaker_asym": 76.0, 
+      "crew": 400.0
     }, 
     "year": "2009"
   }, 

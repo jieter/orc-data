@@ -5,12 +5,13 @@
       1.475, 
       1.676
     ], 
-    "gph": 515.3, 
     "triple_inshore": [
       0.8764, 
       1.1858, 
       1.3819
-    ]
+    ], 
+    "gph": 515.3, 
+    "osn": 502.6
   }, 
   "sailnumber": "GRE49294", 
   "name": "DANAI", 
@@ -25,10 +26,12 @@
       "spinnaker": 153.8, 
       "loa": 14.909, 
       "draft": 3.37, 
+      "wetted_surface": 40.6, 
       "main": 86.0, 
       "genoa": 67.1, 
       "displacement": 9179.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1050.0
     }, 
     "year": "1998"
   }, 

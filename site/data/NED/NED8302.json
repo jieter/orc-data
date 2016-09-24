@@ -5,12 +5,13 @@
       1.4126, 
       1.6281
     ], 
-    "gph": 543.6, 
     "triple_inshore": [
       0.8053, 
       1.1207, 
       1.3516
-    ]
+    ], 
+    "gph": 543.6, 
+    "osn": 528.0
   }, 
   "sailnumber": "NED8302", 
   "name": "La Belle", 
@@ -25,10 +26,12 @@
       "spinnaker": 202.8, 
       "loa": 17.175, 
       "draft": 2.7, 
+      "wetted_surface": 57.9, 
       "main": 77.2, 
       "genoa": 88.3, 
       "displacement": 20183.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1252.0
     }, 
     "year": "1997"
   }, 

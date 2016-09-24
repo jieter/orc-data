@@ -5,12 +5,13 @@
       1.182, 
       1.3303
     ], 
-    "gph": 646.0, 
     "triple_inshore": [
       0.6949, 
       0.9469, 
       1.1045
-    ]
+    ], 
+    "gph": 646.0, 
+    "osn": 629.2
   }, 
   "sailnumber": "GRE883", 
   "name": "POSEIDON", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.1, 
       "loa": 11.293, 
       "draft": 1.88, 
+      "wetted_surface": 28.2, 
       "main": 38.5, 
       "genoa": 40.5, 
       "displacement": 6442.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1992"
   }, 

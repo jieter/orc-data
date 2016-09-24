@@ -5,12 +5,13 @@
       1.1452, 
       1.3123
     ], 
-    "gph": 659.1, 
     "triple_inshore": [
       0.7044, 
       0.9358, 
       1.0815
-    ]
+    ], 
+    "gph": 659.1, 
+    "osn": 640.3
   }, 
   "sailnumber": "NOR10028", 
   "name": "Ready lady", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.2, 
       "loa": 7.48, 
       "draft": 1.65, 
+      "wetted_surface": 12.3, 
       "main": 21.7, 
       "genoa": 12.2, 
       "displacement": 1150.0, 
-      "spinnaker_asym": 56.0
+      "spinnaker_asym": 56.0, 
+      "crew": 384.0
     }, 
     "year": "1997"
   }, 

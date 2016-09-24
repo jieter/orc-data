@@ -5,12 +5,13 @@
       1.0088, 
       1.1602
     ], 
-    "gph": 760.5, 
     "triple_inshore": [
       0.5827, 
       0.8122, 
       0.9725
-    ]
+    ], 
+    "gph": 760.5, 
+    "osn": 735.5
   }, 
   "sailnumber": "GRE1191", 
   "name": "PERAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.497, 
       "draft": 1.69, 
+      "wetted_surface": 24.9, 
       "main": 25.1, 
       "genoa": 30.6, 
       "displacement": 5709.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 522.0
     }, 
     "year": "1983"
   }, 

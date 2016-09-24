@@ -5,12 +5,13 @@
       1.1137, 
       1.2628
     ], 
-    "gph": 680.3, 
     "triple_inshore": [
       0.6756, 
       0.9131, 
       1.0443
-    ]
+    ], 
+    "gph": 680.3, 
+    "osn": 661.7
   }, 
   "sailnumber": "NOR5895", 
   "name": "First Kiss", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.6, 
       "loa": 7.86, 
       "draft": 1.83, 
+      "wetted_surface": 13.9, 
       "main": 21.4, 
       "genoa": 18.4, 
       "displacement": 1498.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 407.0
     }, 
     "year": "1985"
   }, 

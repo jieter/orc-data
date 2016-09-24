@@ -5,12 +5,13 @@
       1.4137, 
       1.5941
     ], 
-    "gph": 535.4, 
     "triple_inshore": [
       0.8529, 
       1.1422, 
       1.3325
-    ]
+    ], 
+    "gph": 535.4, 
+    "osn": 524.2
   }, 
   "sailnumber": "GER1909", 
   "name": "MYC-ONE", 
@@ -25,10 +26,12 @@
       "spinnaker": 144.9, 
       "loa": 15.15, 
       "draft": 2.9, 
+      "wetted_surface": 40.4, 
       "main": 91.8, 
       "genoa": 73.3, 
       "displacement": 11179.0, 
-      "spinnaker_asym": 160.0
+      "spinnaker_asym": 160.0, 
+      "crew": 1086.0
     }, 
     "year": "1991"
   }, 

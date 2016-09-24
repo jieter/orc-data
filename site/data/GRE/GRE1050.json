@@ -5,12 +5,13 @@
       1.3938, 
       1.5807
     ], 
-    "gph": 545.8, 
     "triple_inshore": [
       0.8263, 
       1.1207, 
       1.2985
-    ]
+    ], 
+    "gph": 545.8, 
+    "osn": 532.4
   }, 
   "sailnumber": "GRE1050", 
   "name": "ERYTOS II", 
@@ -25,10 +26,12 @@
       "spinnaker": 126.4, 
       "loa": 13.305, 
       "draft": 2.97, 
+      "wetted_surface": 33.9, 
       "main": 69.9, 
       "genoa": 42.3, 
       "displacement": 6811.0, 
-      "spinnaker_asym": 118.0
+      "spinnaker_asym": 118.0, 
+      "crew": 900.0
     }, 
     "year": "1998"
   }, 

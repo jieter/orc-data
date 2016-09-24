@@ -5,12 +5,13 @@
       1.0991, 
       1.2633
     ], 
-    "gph": 696.1, 
     "triple_inshore": [
       0.6428, 
       0.884, 
       1.0637
-    ]
+    ], 
+    "gph": 696.1, 
+    "osn": 674.5
   }, 
   "sailnumber": "NED8403", 
   "name": "Salina", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.1, 
       "loa": 10.406, 
       "draft": 2.02, 
+      "wetted_surface": 26.7, 
       "main": 24.3, 
       "genoa": 36.1, 
       "displacement": 6677.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 576.0
     }, 
     "year": "1979"
   }, 

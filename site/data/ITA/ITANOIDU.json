@@ -5,12 +5,13 @@
       1.0069, 
       1.1319
     ], 
-    "gph": 762.5, 
     "triple_inshore": [
       0.5858, 
       0.8124, 
       0.9396
-    ]
+    ], 
+    "gph": 762.5, 
+    "osn": 737.8
   }, 
   "sailnumber": "ITANOIDU", 
   "name": "NOI DUE", 
@@ -25,10 +26,12 @@
       "spinnaker": 47.4, 
       "loa": 7.5, 
       "draft": 1.45, 
+      "wetted_surface": 15.4, 
       "main": 18.7, 
       "genoa": 15.6, 
       "displacement": 2137.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1994"
   }, 

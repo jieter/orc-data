@@ -5,12 +5,13 @@
       1.1437, 
       1.313
     ], 
-    "gph": 670.6, 
     "triple_inshore": [
       0.6596, 
       0.9203, 
       1.1025
-    ]
+    ], 
+    "gph": 670.6, 
+    "osn": 649.5
   }, 
   "sailnumber": "NED8521", 
   "name": "Good Times", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.76, 
       "draft": 2.17, 
+      "wetted_surface": 27.7, 
       "main": 32.9, 
       "genoa": 35.2, 
       "displacement": 5875.0, 
-      "spinnaker_asym": 57.0
+      "spinnaker_asym": 57.0, 
+      "crew": 604.0
     }, 
     "year": "1982"
   }, 

@@ -5,12 +5,13 @@
       0.9949, 
       1.1751
     ], 
-    "gph": 777.3, 
     "triple_inshore": [
       0.544, 
       0.7743, 
       0.9575
-    ]
+    ], 
+    "gph": 777.3, 
+    "osn": 753.3
   }, 
   "sailnumber": "NED2277", 
   "name": "Tutti", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.004, 
       "draft": 1.73, 
+      "wetted_surface": 24.4, 
       "main": 21.9, 
       "genoa": 23.1, 
       "displacement": 5349.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 512.0
     }, 
     "year": "1976"
   }, 

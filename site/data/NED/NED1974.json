@@ -5,12 +5,13 @@
       1.0359, 
       1.171
     ], 
-    "gph": 736.7, 
     "triple_inshore": [
       0.6137, 
       0.8389, 
       0.986
-    ]
+    ], 
+    "gph": 736.7, 
+    "osn": 715.6
   }, 
   "sailnumber": "NED1974", 
   "name": "Full Grown Man", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.3, 
       "loa": 9.084, 
       "draft": 1.75, 
+      "wetted_surface": 19.3, 
       "main": 20.1, 
       "genoa": 31.1, 
       "displacement": 4024.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 458.0
     }, 
     "year": "1973"
   }, 

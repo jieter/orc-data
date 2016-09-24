@@ -5,12 +5,13 @@
       1.4853, 
       1.7039
     ], 
-    "gph": 514.8, 
     "triple_inshore": [
       0.8595, 
       1.1879, 
       1.3961
-    ]
+    ], 
+    "gph": 514.8, 
+    "osn": 501.1
   }, 
   "sailnumber": "NED777", 
   "name": "Hagar", 
@@ -25,10 +26,12 @@
       "spinnaker": 180.2, 
       "loa": 15.35, 
       "draft": 2.87, 
+      "wetted_surface": 45.7, 
       "main": 96.1, 
       "genoa": 60.7, 
       "displacement": 10757.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1180.0
     }, 
     "year": "1999"
   }, 

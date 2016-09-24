@@ -5,12 +5,13 @@
       1.1617, 
       1.3177
     ], 
-    "gph": 656.0, 
     "triple_inshore": [
       0.6886, 
       0.9281, 
       1.0982
-    ]
+    ], 
+    "gph": 656.0, 
+    "osn": 639.1
   }, 
   "sailnumber": "NED7383", 
   "name": "Annie", 
@@ -25,10 +26,12 @@
       "spinnaker": 129.3, 
       "loa": 12.203, 
       "draft": 2.12, 
+      "wetted_surface": 34.6, 
       "main": 35.2, 
       "genoa": 65.6, 
       "displacement": 11168.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 702.0
     }, 
     "year": "1976"
   }, 

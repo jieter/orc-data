@@ -5,12 +5,13 @@
       1.0431, 
       1.261
     ], 
-    "gph": 745.1, 
     "triple_inshore": [
       0.5556, 
       0.8178, 
       1.032
-    ]
+    ], 
+    "gph": 745.1, 
+    "osn": 718.0
   }, 
   "sailnumber": "ISR22", 
   "name": "Musly 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.624, 
       "draft": 1.53, 
+      "wetted_surface": 31.5, 
       "main": 26.6, 
       "genoa": 40.6, 
       "displacement": 7800.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 769.0
     }, 
     "year": "2003"
   }, 

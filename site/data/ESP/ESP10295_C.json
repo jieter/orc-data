@@ -5,12 +5,13 @@
       1.2305, 
       1.4511
     ], 
-    "gph": 625.9, 
     "triple_inshore": [
       0.6734, 
       0.962, 
       1.1945
-    ]
+    ], 
+    "gph": 625.9, 
+    "osn": 610.3
   }, 
   "sailnumber": "ESP10295_C", 
   "name": "PAPIE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.98, 
       "draft": 1.79, 
+      "wetted_surface": 45.3, 
       "main": 54.3, 
       "genoa": 71.1, 
       "displacement": 13513.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.1149, 
       1.271
     ], 
-    "gph": 680.4, 
     "triple_inshore": [
       0.672, 
       0.9147, 
       1.0521
-    ]
+    ], 
+    "gph": 680.4, 
+    "osn": 661.0
   }, 
   "sailnumber": "FRA946_C", 
   "name": "OLALOLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 37.1, 
       "loa": 8.0, 
       "draft": 1.83, 
+      "wetted_surface": 13.4, 
       "main": 21.4, 
       "genoa": 18.0, 
       "displacement": 1534.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1982"
   }, 

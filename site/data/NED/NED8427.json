@@ -5,12 +5,13 @@
       1.3151, 
       1.4858
     ], 
-    "gph": 580.1, 
     "triple_inshore": [
       0.7798, 
       1.0682, 
       1.2508
-    ]
+    ], 
+    "gph": 580.1, 
+    "osn": 563.4
   }, 
   "sailnumber": "NED8427", 
   "name": "Flirt", 
@@ -25,10 +26,12 @@
       "spinnaker": 125.1, 
       "loa": 12.24, 
       "draft": 2.49, 
+      "wetted_surface": 34.1, 
       "main": 54.0, 
       "genoa": 41.6, 
       "displacement": 8106.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2008"
   }, 

@@ -5,12 +5,13 @@
       1.1167, 
       1.2369
     ], 
-    "gph": 679.8, 
     "triple_inshore": [
       0.6752, 
       0.9044, 
       1.0248
-    ]
+    ], 
+    "gph": 679.8, 
+    "osn": 664.7
   }, 
   "sailnumber": "GRE4997", 
   "name": "STRIGGLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 50.3, 
       "loa": 9.5, 
       "draft": 1.75, 
+      "wetted_surface": 17.3, 
       "main": 30.4, 
       "genoa": 22.1, 
       "displacement": 2914.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 440.0
     }, 
     "year": "1981"
   }, 

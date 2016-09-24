@@ -5,12 +5,13 @@
       1.2132, 
       1.392
     ], 
-    "gph": 630.5, 
     "triple_inshore": [
       0.7015, 
       0.9755, 
       1.1478
-    ]
+    ], 
+    "gph": 630.5, 
+    "osn": 612.7
   }, 
   "sailnumber": "NED4668", 
   "name": "Intense", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.7, 
       "loa": 10.399, 
       "draft": 1.83, 
+      "wetted_surface": 22.7, 
       "main": 30.8, 
       "genoa": 36.0, 
       "displacement": 3394.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 609.0
     }, 
     "year": "1984"
   }, 

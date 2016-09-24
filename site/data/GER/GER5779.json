@@ -5,12 +5,13 @@
       1.2917, 
       1.4592
     ], 
-    "gph": 587.2, 
     "triple_inshore": [
       0.7811, 
       1.0534, 
       1.2116
-    ]
+    ], 
+    "gph": 587.2, 
+    "osn": 571.8
   }, 
   "sailnumber": "GER5779", 
   "name": "MYSTIQUE", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.4, 
       "loa": 10.59, 
       "draft": 2.15, 
+      "wetted_surface": 24.3, 
       "main": 44.5, 
       "genoa": 31.0, 
       "displacement": 4335.0, 
-      "spinnaker_asym": 109.0
+      "spinnaker_asym": 109.0, 
+      "crew": 650.0
     }, 
     "year": "2005"
   }, 

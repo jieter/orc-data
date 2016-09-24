@@ -5,12 +5,13 @@
       1.2447, 
       1.4715
     ], 
-    "gph": 621.3, 
     "triple_inshore": [
       0.6832, 
       0.9768, 
       1.2012
-    ]
+    ], 
+    "gph": 621.3, 
+    "osn": 600.8
   }, 
   "sailnumber": "CRO1680", 
   "name": "Marina Hramina 1", 
@@ -25,10 +26,12 @@
       "spinnaker": 142.7, 
       "loa": 13.99, 
       "draft": 1.8, 
+      "wetted_surface": 41.0, 
       "main": 43.1, 
       "genoa": 58.0, 
       "displacement": 10494.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 955.0
     }, 
     "year": "2005"
   }, 

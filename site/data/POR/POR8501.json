@@ -5,12 +5,13 @@
       1.2466, 
       1.4202
     ], 
-    "gph": 613.9, 
     "triple_inshore": [
       0.7248, 
       0.9999, 
       1.1816
-    ]
+    ], 
+    "gph": 613.9, 
+    "osn": 596.3
   }, 
   "sailnumber": "POR8501", 
   "name": "CARAPAU", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.4, 
       "loa": 11.99, 
       "draft": 2.06, 
+      "wetted_surface": 31.8, 
       "main": 45.3, 
       "genoa": 42.3, 
       "displacement": 7672.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 620.0
     }, 
     "year": "2003"
   }, 

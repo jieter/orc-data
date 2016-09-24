@@ -5,12 +5,13 @@
       1.1955, 
       1.3629
     ], 
-    "gph": 639.6, 
     "triple_inshore": [
       0.695, 
       0.9544, 
       1.1348
-    ]
+    ], 
+    "gph": 639.6, 
+    "osn": 622.5
   }, 
   "sailnumber": "ESP9211_C", 
   "name": "AD LIBITUM", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.3, 
       "draft": 1.98, 
+      "wetted_surface": 33.7, 
       "main": 36.6, 
       "genoa": 58.7, 
       "displacement": 8860.0, 
-      "spinnaker_asym": 107.0
+      "spinnaker_asym": 107.0, 
+      "crew": 500.0
     }, 
     "year": "1994"
   }, 

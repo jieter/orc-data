@@ -5,12 +5,13 @@
       1.5665, 
       1.7849
     ], 
-    "gph": 485.1, 
     "triple_inshore": [
       0.9341, 
       1.2619, 
       1.4637
-    ]
+    ], 
+    "gph": 485.1, 
+    "osn": 472.3
   }, 
   "sailnumber": "GER7155", 
   "name": "JOLLY RED", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.839, 
       "draft": 3.28, 
+      "wetted_surface": 47.6, 
       "main": 99.4, 
       "genoa": 65.0, 
       "displacement": 10904.0, 
-      "spinnaker_asym": 278.0
+      "spinnaker_asym": 278.0, 
+      "crew": 800.0
     }, 
     "year": "2000"
   }, 

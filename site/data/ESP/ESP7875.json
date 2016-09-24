@@ -5,12 +5,13 @@
       1.2166, 
       1.3679
     ], 
-    "gph": 626.0, 
     "triple_inshore": [
       0.7223, 
       0.981, 
       1.1399
-    ]
+    ], 
+    "gph": 626.0, 
+    "osn": 610.0
   }, 
   "sailnumber": "ESP7875", 
   "name": "TRAMENDU", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.9, 
       "loa": 10.972, 
       "draft": 1.98, 
+      "wetted_surface": 28.6, 
       "main": 43.2, 
       "genoa": 42.6, 
       "displacement": 6528.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 780.0
     }, 
     "year": "2001"
   }, 

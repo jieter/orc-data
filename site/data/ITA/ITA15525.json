@@ -5,12 +5,13 @@
       1.195, 
       1.3467
     ], 
-    "gph": 639.5, 
     "triple_inshore": [
       0.7025, 
       0.9658, 
       1.1252
-    ]
+    ], 
+    "gph": 639.5, 
+    "osn": 621.0
   }, 
   "sailnumber": "ITA15525", 
   "name": "EDERAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.1, 
       "loa": 10.64, 
       "draft": 2.22, 
+      "wetted_surface": 26.5, 
       "main": 36.7, 
       "genoa": 36.5, 
       "displacement": 5510.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2001"
   }, 

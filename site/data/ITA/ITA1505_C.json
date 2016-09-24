@@ -5,12 +5,13 @@
       1.0916, 
       1.2672
     ], 
-    "gph": 706.1, 
     "triple_inshore": [
       0.6133, 
       0.8739, 
       1.0439
-    ]
+    ], 
+    "gph": 706.1, 
+    "osn": 683.1
   }, 
   "sailnumber": "ITA1505_C", 
   "name": "MARTA H", 
@@ -25,10 +26,12 @@
       "spinnaker": 50.7, 
       "loa": 9.2, 
       "draft": 1.74, 
+      "wetted_surface": 17.1, 
       "main": 22.6, 
       "genoa": 26.9, 
       "displacement": 2425.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1977"
   }, 

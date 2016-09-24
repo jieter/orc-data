@@ -5,12 +5,13 @@
       1.1685, 
       1.3148
     ], 
-    "gph": 649.8, 
     "triple_inshore": [
       0.705, 
       0.9457, 
       1.0774
-    ]
+    ], 
+    "gph": 649.8, 
+    "osn": 632.5
   }, 
   "sailnumber": "FRA6292", 
   "name": "SAPAJOU", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.14, 
       "draft": 1.82, 
+      "wetted_surface": 18.6, 
       "main": 27.7, 
       "genoa": 23.9, 
       "displacement": 2708.0, 
-      "spinnaker_asym": 79.0
+      "spinnaker_asym": 79.0, 
+      "crew": 510.0
     }, 
     "year": "1992"
   }, 

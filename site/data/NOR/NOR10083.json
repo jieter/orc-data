@@ -5,12 +5,13 @@
       1.1708, 
       1.3131
     ], 
-    "gph": 646.5, 
     "triple_inshore": [
       0.7028, 
       0.9433, 
       1.0803
-    ]
+    ], 
+    "gph": 646.5, 
+    "osn": 632.9
   }, 
   "sailnumber": "NOR10083", 
   "name": "Leken", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.14, 
       "draft": 1.84, 
+      "wetted_surface": 19.3, 
       "main": 29.8, 
       "genoa": 17.8, 
       "displacement": 2938.0, 
-      "spinnaker_asym": 90.0
+      "spinnaker_asym": 90.0, 
+      "crew": 525.0
     }, 
     "year": "2001"
   }, 

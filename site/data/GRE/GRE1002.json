@@ -5,12 +5,13 @@
       1.0608, 
       1.2323
     ], 
-    "gph": 727.1, 
     "triple_inshore": [
       0.5938, 
       0.8462, 
       1.0273
-    ]
+    ], 
+    "gph": 727.1, 
+    "osn": 703.2
   }, 
   "sailnumber": "GRE1002", 
   "name": "KYMOTHOE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.415, 
       "draft": 1.8, 
+      "wetted_surface": 24.5, 
       "main": 25.3, 
       "genoa": 38.2, 
       "displacement": 5354.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 585.0
     }, 
     "year": "1986"
   }, 

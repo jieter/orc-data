@@ -5,12 +5,13 @@
       1.2338, 
       1.4377
     ], 
-    "gph": 624.2, 
     "triple_inshore": [
       0.6884, 
       0.9693, 
       1.1698
-    ]
+    ], 
+    "gph": 624.2, 
+    "osn": 606.2
   }, 
   "sailnumber": "ISR727", 
   "name": "Shachaf 1", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.0, 
       "loa": 13.645, 
       "draft": 1.61, 
+      "wetted_surface": 35.8, 
       "main": 41.1, 
       "genoa": 47.7, 
       "displacement": 8837.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 880.0
     }, 
     "year": "2001"
   }, 

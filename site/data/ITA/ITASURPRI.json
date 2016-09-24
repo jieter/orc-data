@@ -5,12 +5,13 @@
       1.1893, 
       1.372
     ], 
-    "gph": 647.6, 
     "triple_inshore": [
       0.6717, 
       0.9389, 
       1.1223
-    ]
+    ], 
+    "gph": 647.6, 
+    "osn": 627.5
   }, 
   "sailnumber": "ITASURPRI", 
   "name": "SURPRISE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.62, 
       "draft": 2.0, 
+      "wetted_surface": 33.1, 
       "main": 36.9, 
       "genoa": 36.2, 
       "displacement": 7251.0, 
-      "spinnaker_asym": 97.0
+      "spinnaker_asym": 97.0, 
+      "crew": 450.0
     }, 
     "year": "2008"
   }, 

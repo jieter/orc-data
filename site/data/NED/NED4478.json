@@ -5,12 +5,13 @@
       1.1038, 
       1.2393
     ], 
-    "gph": 689.5, 
     "triple_inshore": [
       0.6643, 
       0.8982, 
       1.0421
-    ]
+    ], 
+    "gph": 689.5, 
+    "osn": 670.2
   }, 
   "sailnumber": "NED4478", 
   "name": "TSJOENDER", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.3, 
       "loa": 9.99, 
       "draft": 1.82, 
+      "wetted_surface": 21.6, 
       "main": 21.7, 
       "genoa": 34.7, 
       "displacement": 4511.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 522.0
     }, 
     "year": "1979"
   }, 

@@ -5,12 +5,13 @@
       1.1439, 
       1.2979
     ], 
-    "gph": 668.6, 
     "triple_inshore": [
       0.671, 
       0.9251, 
       1.0887
-    ]
+    ], 
+    "gph": 668.6, 
+    "osn": 648.0
   }, 
   "sailnumber": "ESP4849", 
   "name": "CALAMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.7, 
       "loa": 9.798, 
       "draft": 2.11, 
+      "wetted_surface": 24.4, 
       "main": 30.8, 
       "genoa": 32.2, 
       "displacement": 4851.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 623.0
     }, 
     "year": "1996"
   }, 

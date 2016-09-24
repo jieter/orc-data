@@ -5,12 +5,13 @@
       1.3996, 
       1.5957
     ], 
-    "gph": 542.0, 
     "triple_inshore": [
       0.8377, 
       1.1268, 
       1.3015
-    ]
+    ], 
+    "gph": 542.0, 
+    "osn": 528.5
   }, 
   "sailnumber": "USA40040", 
   "name": "FARR-LAESSIG", 
@@ -25,10 +26,12 @@
       "spinnaker": 112.9, 
       "loa": 12.411, 
       "draft": 2.6, 
+      "wetted_surface": 30.0, 
       "main": 65.0, 
       "genoa": 40.3, 
       "displacement": 5141.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 880.0
     }, 
     "year": "1997"
   }, 

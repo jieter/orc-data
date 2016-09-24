@@ -5,12 +5,13 @@
       0.9946, 
       1.1644
     ], 
-    "gph": 768.7, 
     "triple_inshore": [
       0.5757, 
       0.8026, 
       0.9476
-    ]
+    ], 
+    "gph": 768.7, 
+    "osn": 743.8
   }, 
   "sailnumber": "NED65", 
   "name": "FAST FORWARD", 
@@ -25,10 +26,12 @@
       "spinnaker": 31.3, 
       "loa": 6.505, 
       "draft": 1.24, 
+      "wetted_surface": 11.3, 
       "main": 13.5, 
       "genoa": 9.2, 
       "displacement": 886.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 339.0
     }, 
     "year": "1992"
   }, 

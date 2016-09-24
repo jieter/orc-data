@@ -5,12 +5,13 @@
       1.2404, 
       1.4043
     ], 
-    "gph": 616.0, 
     "triple_inshore": [
       0.7287, 
       1.0033, 
       1.1799
-    ]
+    ], 
+    "gph": 616.0, 
+    "osn": 598.0
   }, 
   "sailnumber": "ESP7625", 
   "name": "TANIT IV - MEDILEVEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.3, 
       "loa": 11.31, 
       "draft": 2.43, 
+      "wetted_surface": 29.5, 
       "main": 45.9, 
       "genoa": 34.2, 
       "displacement": 6856.0, 
-      "spinnaker_asym": 98.0
+      "spinnaker_asym": 98.0, 
+      "crew": 730.0
     }, 
     "year": "2005"
   }, 

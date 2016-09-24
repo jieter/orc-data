@@ -5,12 +5,13 @@
       1.3344, 
       1.5322
     ], 
-    "gph": 575.9, 
     "triple_inshore": [
       0.7616, 
       1.0646, 
       1.2723
-    ]
+    ], 
+    "gph": 575.9, 
+    "osn": 558.2
   }, 
   "sailnumber": "ITA16879", 
   "name": "JEFFERTJE II", 
@@ -25,10 +26,12 @@
       "spinnaker": 143.6, 
       "loa": 14.1, 
       "draft": 2.61, 
+      "wetted_surface": 43.1, 
       "main": 60.6, 
       "genoa": 52.3, 
       "displacement": 12078.0, 
-      "spinnaker_asym": 138.0
+      "spinnaker_asym": 138.0, 
+      "crew": 973.0
     }, 
     "year": "2006"
   }, 

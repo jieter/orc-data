@@ -5,12 +5,13 @@
       0.9036, 
       1.0434
     ], 
-    "gph": 844.1, 
     "triple_inshore": [
       0.5309, 
       0.7346, 
       0.8646
-    ]
+    ], 
+    "gph": 844.1, 
+    "osn": 818.6
   }, 
   "sailnumber": "NOR15359", 
   "name": "Kamloops", 
@@ -25,10 +26,12 @@
       "spinnaker": 20.6, 
       "loa": 5.73, 
       "draft": 1.0, 
+      "wetted_surface": 7.7, 
       "main": 10.2, 
       "genoa": 7.1, 
       "displacement": 671.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 277.0
     }, 
     "year": "1967"
   }, 

@@ -5,12 +5,13 @@
       1.2237, 
       1.3793
     ], 
-    "gph": 623.0, 
     "triple_inshore": [
       0.7243, 
       0.9902, 
       1.1504
-    ]
+    ], 
+    "gph": 623.0, 
+    "osn": 606.3
   }, 
   "sailnumber": "ESP10084", 
   "name": "MISTER J", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.3, 
       "loa": 10.757, 
       "draft": 2.13, 
+      "wetted_surface": 26.0, 
       "main": 37.1, 
       "genoa": 41.9, 
       "displacement": 4958.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 619.0
     }, 
     "year": "2002"
   }, 

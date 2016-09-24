@@ -5,12 +5,13 @@
       1.1007, 
       1.2597
     ], 
-    "gph": 697.4, 
     "triple_inshore": [
       0.6334, 
       0.8866, 
       1.0601
-    ]
+    ], 
+    "gph": 697.4, 
+    "osn": 676.5
   }, 
   "sailnumber": "GER7116", 
   "name": "GUSTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.7, 
       "draft": 1.91, 
+      "wetted_surface": 27.7, 
       "main": 36.3, 
       "genoa": 29.6, 
       "displacement": 6991.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1995"
   }, 

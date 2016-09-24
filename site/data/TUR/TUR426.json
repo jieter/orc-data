@@ -5,12 +5,13 @@
       1.1217, 
       1.2842
     ], 
-    "gph": 686.0, 
     "triple_inshore": [
       0.6411, 
       0.906, 
       1.0587
-    ]
+    ], 
+    "gph": 686.0, 
+    "osn": 662.0
   }, 
   "sailnumber": "TUR426", 
   "name": "MINE", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.3, 
       "loa": 8.0, 
       "draft": 1.71, 
+      "wetted_surface": 16.9, 
       "main": 20.7, 
       "genoa": 12.3, 
       "displacement": 1900.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 425.0
     }, 
     "year": "2003"
   }, 

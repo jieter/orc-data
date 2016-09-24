@@ -5,12 +5,13 @@
       0.9788, 
       1.1503
     ], 
-    "gph": 787.1, 
     "triple_inshore": [
       0.5504, 
       0.7857, 
       0.9687
-    ]
+    ], 
+    "gph": 787.1, 
+    "osn": 759.8
   }, 
   "sailnumber": "ROU231", 
   "name": "Gemma", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.684, 
       "draft": 1.79, 
+      "wetted_surface": 19.9, 
       "main": 16.7, 
       "genoa": 27.2, 
       "displacement": 3937.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1970"
   }, 

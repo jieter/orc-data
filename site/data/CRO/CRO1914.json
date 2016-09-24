@@ -5,12 +5,13 @@
       1.3405, 
       1.5232
     ], 
-    "gph": 570.9, 
     "triple_inshore": [
       0.7754, 
       1.0718, 
       1.2643
-    ]
+    ], 
+    "gph": 570.9, 
+    "osn": 556.2
   }, 
   "sailnumber": "CRO1914", 
   "name": "Calanthe", 
@@ -25,10 +26,12 @@
       "spinnaker": 141.2, 
       "loa": 13.55, 
       "draft": 2.44, 
+      "wetted_surface": 38.0, 
       "main": 57.9, 
       "genoa": 57.2, 
       "displacement": 9900.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "2010"
   }, 

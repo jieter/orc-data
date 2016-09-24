@@ -5,12 +5,13 @@
       1.3486, 
       1.5446
     ], 
-    "gph": 570.8, 
     "triple_inshore": [
       0.7637, 
       1.0688, 
       1.276
-    ]
+    ], 
+    "gph": 570.8, 
+    "osn": 554.0
   }, 
   "sailnumber": "NOR12101", 
   "name": "Vini", 
@@ -25,10 +26,12 @@
       "spinnaker": 176.1, 
       "loa": 14.99, 
       "draft": 2.42, 
+      "wetted_surface": 48.5, 
       "main": 69.2, 
       "genoa": 54.1, 
       "displacement": 14245.0, 
-      "spinnaker_asym": 171.0
+      "spinnaker_asym": 171.0, 
+      "crew": 1061.0
     }, 
     "year": "2006"
   }, 

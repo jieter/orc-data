@@ -5,12 +5,13 @@
       1.2092, 
       1.3814
     ], 
-    "gph": 636.3, 
     "triple_inshore": [
       0.6854, 
       0.952, 
       1.1253
-    ]
+    ], 
+    "gph": 636.3, 
+    "osn": 617.6
   }, 
   "sailnumber": "GRE1956", 
   "name": "AERIKO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.027, 
       "draft": 1.99, 
+      "wetted_surface": 36.1, 
       "main": 50.1, 
       "genoa": 42.2, 
       "displacement": 9072.0, 
-      "spinnaker_asym": 106.0
+      "spinnaker_asym": 106.0, 
+      "crew": 550.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.1246, 
       1.2969
     ], 
-    "gph": 682.4, 
     "triple_inshore": [
       0.6417, 
       0.8959, 
       1.0795
-    ]
+    ], 
+    "gph": 682.4, 
+    "osn": 662.2
   }, 
   "sailnumber": "NED4796", 
   "name": "WINDFALL", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.2, 
       "loa": 11.38, 
       "draft": 1.88, 
+      "wetted_surface": 31.3, 
       "main": 39.6, 
       "genoa": 39.0, 
       "displacement": 7723.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 643.0
     }, 
     "year": "1990"
   }, 

@@ -5,12 +5,13 @@
       1.1741, 
       1.3202
     ], 
-    "gph": 649.5, 
     "triple_inshore": [
       0.694, 
       0.945, 
       1.0875
-    ]
+    ], 
+    "gph": 649.5, 
+    "osn": 631.8
   }, 
   "sailnumber": "NED9477", 
   "name": "", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.61, 
       "draft": 1.91, 
+      "wetted_surface": 21.1, 
       "main": 28.9, 
       "genoa": 24.2, 
       "displacement": 3713.0, 
-      "spinnaker_asym": 106.0
+      "spinnaker_asym": 106.0, 
+      "crew": 585.0
     }, 
     "year": "2009"
   }, 

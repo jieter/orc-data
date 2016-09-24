@@ -5,12 +5,13 @@
       1.1095, 
       1.2545
     ], 
-    "gph": 688.0, 
     "triple_inshore": [
       0.6548, 
       0.896, 
       1.0465
-    ]
+    ], 
+    "gph": 688.0, 
+    "osn": 668.5
   }, 
   "sailnumber": "GER4953", 
   "name": "PICCO BELLO", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.7, 
       "loa": 10.112, 
       "draft": 1.76, 
+      "wetted_surface": 22.6, 
       "main": 30.4, 
       "genoa": 30.0, 
       "displacement": 4408.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1981"
   }, 

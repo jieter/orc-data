@@ -5,12 +5,13 @@
       1.0461, 
       1.1888
     ], 
-    "gph": 730.5, 
     "triple_inshore": [
       0.6138, 
       0.8494, 
       0.9853
-    ]
+    ], 
+    "gph": 730.5, 
+    "osn": 708.3
   }, 
   "sailnumber": "ISR71984", 
   "name": "Hatulie New Wave", 
@@ -25,10 +26,12 @@
       "spinnaker": 36.8, 
       "loa": 7.78, 
       "draft": 1.36, 
+      "wetted_surface": 13.8, 
       "main": 23.0, 
       "genoa": 12.4, 
       "displacement": 1778.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 397.0
     }, 
     "year": "1981"
   }, 

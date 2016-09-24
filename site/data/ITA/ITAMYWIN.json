@@ -5,12 +5,13 @@
       1.1472, 
       1.3505
     ], 
-    "gph": 672.8, 
     "triple_inshore": [
       0.6303, 
       0.9076, 
       1.1204
-    ]
+    ], 
+    "gph": 672.8, 
+    "osn": 652.1
   }, 
   "sailnumber": "ITAMYWIN", 
   "name": "MY WIND", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.688, 
       "draft": 1.82, 
+      "wetted_surface": 34.2, 
       "main": 42.0, 
       "genoa": 42.6, 
       "displacement": 9051.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1993"
   }, 

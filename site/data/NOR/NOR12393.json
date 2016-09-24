@@ -5,12 +5,13 @@
       1.232, 
       1.4089
     ], 
-    "gph": 622.1, 
     "triple_inshore": [
       0.7094, 
       0.985, 
       1.1749
-    ]
+    ], 
+    "gph": 622.1, 
+    "osn": 603.7
   }, 
   "sailnumber": "NOR12393", 
   "name": "ForDehler", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.8, 
       "loa": 12.45, 
       "draft": 2.03, 
+      "wetted_surface": 35.0, 
       "main": 49.0, 
       "genoa": 31.9, 
       "displacement": 9120.0, 
-      "spinnaker_asym": 141.0
+      "spinnaker_asym": 141.0, 
+      "crew": 780.0
     }, 
     "year": "1996"
   }, 

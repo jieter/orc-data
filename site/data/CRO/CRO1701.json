@@ -5,12 +5,13 @@
       1.1631, 
       1.3316
     ], 
-    "gph": 658.7, 
     "triple_inshore": [
       0.6726, 
       0.9358, 
       1.1149
-    ]
+    ], 
+    "gph": 658.7, 
+    "osn": 638.5
   }, 
   "sailnumber": "CRO1701", 
   "name": "Silva", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.8, 
       "loa": 10.3, 
       "draft": 1.96, 
+      "wetted_surface": 25.6, 
       "main": 31.9, 
       "genoa": 32.1, 
       "displacement": 5497.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 632.0
     }, 
     "year": "2009"
   }, 

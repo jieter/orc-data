@@ -5,12 +5,13 @@
       0.9883, 
       1.1922
     ], 
-    "gph": 787.7, 
     "triple_inshore": [
       0.5298, 
       0.7834, 
       0.9861
-    ]
+    ], 
+    "gph": 787.7, 
+    "osn": 755.8
   }, 
   "sailnumber": "GRE1441", 
   "name": "ARPYIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.0, 
       "draft": 1.6, 
+      "wetted_surface": 23.1, 
       "main": 20.5, 
       "genoa": 26.5, 
       "displacement": 4500.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 582.0
     }, 
     "year": "2000"
   }, 

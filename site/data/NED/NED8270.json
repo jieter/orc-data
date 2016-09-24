@@ -5,12 +5,13 @@
       1.1897, 
       1.3517
     ], 
-    "gph": 639.8, 
     "triple_inshore": [
       0.6913, 
       0.9443, 
       1.1082
-    ]
+    ], 
+    "gph": 639.8, 
+    "osn": 627.3
   }, 
   "sailnumber": "NED8270", 
   "name": "Windeffect.nl", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.8, 
       "draft": 1.91, 
+      "wetted_surface": 22.4, 
       "main": 27.4, 
       "genoa": 20.9, 
       "displacement": 3582.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "2007"
   }, 

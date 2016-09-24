@@ -5,12 +5,13 @@
       1.1988, 
       1.3281
     ], 
-    "gph": 628.7, 
     "triple_inshore": [
       0.7468, 
       0.985, 
       1.117
-    ]
+    ], 
+    "gph": 628.7, 
+    "osn": 614.7
   }, 
   "sailnumber": "AUT66", 
   "name": "Vento", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.3, 
       "loa": 10.5, 
       "draft": 1.96, 
+      "wetted_surface": 21.4, 
       "main": 38.8, 
       "genoa": 35.6, 
       "displacement": 3758.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1980"
   }, 

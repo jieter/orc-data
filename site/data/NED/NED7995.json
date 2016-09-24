@@ -5,12 +5,13 @@
       1.1866, 
       1.3331
     ], 
-    "gph": 642.9, 
     "triple_inshore": [
       0.7036, 
       0.9589, 
       1.1163
-    ]
+    ], 
+    "gph": 642.9, 
+    "osn": 625.7
   }, 
   "sailnumber": "NED7995", 
   "name": "De Ruimte", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.1, 
       "loa": 10.36, 
       "draft": 1.93, 
+      "wetted_surface": 26.3, 
       "main": 40.5, 
       "genoa": 27.5, 
       "displacement": 5808.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 570.0
     }, 
     "year": "2007"
   }, 

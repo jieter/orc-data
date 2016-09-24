@@ -5,12 +5,13 @@
       1.2282, 
       1.3801
     ], 
-    "gph": 620.8, 
     "triple_inshore": [
       0.7272, 
       0.9903, 
       1.1546
-    ]
+    ], 
+    "gph": 620.8, 
+    "osn": 604.7
   }, 
   "sailnumber": "NOR11560", 
   "name": "Next Christine", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.7, 
       "loa": 11.35, 
       "draft": 2.04, 
+      "wetted_surface": 29.9, 
       "main": 44.2, 
       "genoa": 43.1, 
       "displacement": 7105.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 720.0
     }, 
     "year": "2004"
   }, 

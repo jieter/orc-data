@@ -5,12 +5,13 @@
       0.9833, 
       1.1069
     ], 
-    "gph": 776.1, 
     "triple_inshore": [
       0.581, 
       0.794, 
       0.915
-    ]
+    ], 
+    "gph": 776.1, 
+    "osn": 754.7
   }, 
   "sailnumber": "NOR8516", 
   "name": "Motvind", 
@@ -25,10 +26,12 @@
       "spinnaker": 41.2, 
       "loa": 7.3, 
       "draft": 1.22, 
+      "wetted_surface": 13.5, 
       "main": 14.8, 
       "genoa": 16.9, 
       "displacement": 1868.0, 
-      "spinnaker_asym": 29.0
+      "spinnaker_asym": 29.0, 
+      "crew": 366.0
     }, 
     "year": "1982"
   }, 

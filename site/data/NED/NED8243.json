@@ -5,12 +5,13 @@
       1.2837, 
       1.4552
     ], 
-    "gph": 596.3, 
     "triple_inshore": [
       0.7461, 
       1.0273, 
       1.2074
-    ]
+    ], 
+    "gph": 596.3, 
+    "osn": 579.9
   }, 
   "sailnumber": "NED8243", 
   "name": "Olympix", 
@@ -25,10 +26,12 @@
       "spinnaker": 116.0, 
       "loa": 12.903, 
       "draft": 2.19, 
+      "wetted_surface": 35.1, 
       "main": 53.9, 
       "genoa": 41.3, 
       "displacement": 8605.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 720.0
     }, 
     "year": "2003"
   }, 

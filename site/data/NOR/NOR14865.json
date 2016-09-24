@@ -5,12 +5,13 @@
       1.2132, 
       1.3651
     ], 
-    "gph": 629.0, 
     "triple_inshore": [
       0.7181, 
       0.974, 
       1.1367
-    ]
+    ], 
+    "gph": 629.0, 
+    "osn": 611.8
   }, 
   "sailnumber": "NOR14865", 
   "name": "Vito 4", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.16, 
       "draft": 2.11, 
+      "wetted_surface": 29.0, 
       "main": 42.9, 
       "genoa": 33.9, 
       "displacement": 6841.0, 
-      "spinnaker_asym": 84.0
+      "spinnaker_asym": 84.0, 
+      "crew": 718.0
     }, 
     "year": "2004"
   }, 

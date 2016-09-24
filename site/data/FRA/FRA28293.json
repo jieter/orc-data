@@ -5,12 +5,13 @@
       1.1359, 
       1.293
     ], 
-    "gph": 674.4, 
     "triple_inshore": [
       0.6624, 
       0.919, 
       1.0817
-    ]
+    ], 
+    "gph": 674.4, 
+    "osn": 653.2
   }, 
   "sailnumber": "FRA28293", 
   "name": "Histos", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.1, 
       "loa": 9.49, 
       "draft": 1.93, 
+      "wetted_surface": 22.1, 
       "main": 23.8, 
       "genoa": 27.9, 
       "displacement": 3796.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 440.0
     }, 
     "year": "1998"
   }, 

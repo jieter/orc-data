@@ -5,12 +5,13 @@
       1.2176, 
       1.3898
     ], 
-    "gph": 628.1, 
     "triple_inshore": [
       0.7104, 
       0.9862, 
       1.1486
-    ]
+    ], 
+    "gph": 628.1, 
+    "osn": 609.6
   }, 
   "sailnumber": "GER6512", 
   "name": "HIGHLANDER", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.2, 
       "loa": 9.98, 
       "draft": 1.94, 
+      "wetted_surface": 22.2, 
       "main": 34.1, 
       "genoa": 26.7, 
       "displacement": 3290.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 585.0
     }, 
     "year": "1986"
   }, 

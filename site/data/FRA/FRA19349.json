@@ -5,12 +5,13 @@
       1.3124, 
       1.4888
     ], 
-    "gph": 581.9, 
     "triple_inshore": [
       0.769, 
       1.0534, 
       1.2387
-    ]
+    ], 
+    "gph": 581.9, 
+    "osn": 566.5
   }, 
   "sailnumber": "FRA19349", 
   "name": "STER WENN 5", 
@@ -25,10 +26,12 @@
       "spinnaker": 148.2, 
       "loa": 13.48, 
       "draft": 2.31, 
+      "wetted_surface": 38.8, 
       "main": 52.7, 
       "genoa": 66.1, 
       "displacement": 10030.0, 
-      "spinnaker_asym": 116.0
+      "spinnaker_asym": 116.0, 
+      "crew": 800.0
     }, 
     "year": "1994"
   }, 

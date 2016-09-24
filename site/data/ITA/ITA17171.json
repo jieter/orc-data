@@ -5,12 +5,13 @@
       0.9416, 
       1.0557
     ], 
-    "gph": 809.0, 
     "triple_inshore": [
       0.5594, 
       0.7535, 
       0.8761
-    ]
+    ], 
+    "gph": 809.0, 
+    "osn": 791.0
   }, 
   "sailnumber": "ITA17171", 
   "name": "PREDATOR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.015, 
       "draft": 1.49, 
+      "wetted_surface": 14.0, 
       "main": 12.5, 
       "genoa": 22.1, 
       "displacement": 2242.0, 
-      "spinnaker_asym": 42.0
+      "spinnaker_asym": 42.0, 
+      "crew": 270.0
     }, 
     "year": "1971"
   }, 

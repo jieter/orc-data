@@ -5,12 +5,13 @@
       1.2218, 
       1.3983
     ], 
-    "gph": 628.3, 
     "triple_inshore": [
       0.7035, 
       0.9817, 
       1.1637
-    ]
+    ], 
+    "gph": 628.3, 
+    "osn": 608.2
   }, 
   "sailnumber": "NOR14043", 
   "name": "Lancing", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.6, 
       "loa": 11.27, 
       "draft": 1.99, 
+      "wetted_surface": 28.2, 
       "main": 38.8, 
       "genoa": 26.1, 
       "displacement": 5619.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 734.0
     }, 
     "year": "2010"
   }, 

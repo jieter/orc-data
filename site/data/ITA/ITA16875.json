@@ -5,12 +5,13 @@
       1.0516, 
       1.1866
     ], 
-    "gph": 727.6, 
     "triple_inshore": [
       0.6161, 
       0.8446, 
       0.9934
-    ]
+    ], 
+    "gph": 727.6, 
+    "osn": 707.0
   }, 
   "sailnumber": "ITA16875", 
   "name": "BAHIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.5, 
       "loa": 9.74, 
       "draft": 1.8, 
+      "wetted_surface": 21.5, 
       "main": 21.3, 
       "genoa": 35.3, 
       "displacement": 4652.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 310.0
     }, 
     "year": "1973"
   }, 

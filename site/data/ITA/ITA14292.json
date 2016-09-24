@@ -5,12 +5,13 @@
       1.2091, 
       1.354
     ], 
-    "gph": 630.5, 
     "triple_inshore": [
       0.7189, 
       0.9788, 
       1.1313
-    ]
+    ], 
+    "gph": 630.5, 
+    "osn": 614.0
   }, 
   "sailnumber": "ITA14292", 
   "name": "IPPOCAMPO", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.6, 
       "loa": 10.64, 
       "draft": 2.18, 
+      "wetted_surface": 26.4, 
       "main": 39.1, 
       "genoa": 38.5, 
       "displacement": 5391.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2001"
   }, 

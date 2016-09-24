@@ -5,12 +5,13 @@
       1.1138, 
       1.2674
     ], 
-    "gph": 684.9, 
     "triple_inshore": [
       0.6542, 
       0.8955, 
       1.0181
-    ]
+    ], 
+    "gph": 684.9, 
+    "osn": 667.1
   }, 
   "sailnumber": "ESP7860", 
   "name": "GALVESTOWN", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.1, 
       "loa": 7.49, 
       "draft": 1.51, 
+      "wetted_surface": 13.2, 
       "main": 22.1, 
       "genoa": 13.6, 
       "displacement": 1231.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 390.0
     }, 
     "year": "2005"
   }, 

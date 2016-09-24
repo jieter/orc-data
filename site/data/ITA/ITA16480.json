@@ -5,12 +5,13 @@
       1.2439, 
       1.4464
     ], 
-    "gph": 619.5, 
     "triple_inshore": [
       0.6979, 
       0.9778, 
       1.1781
-    ]
+    ], 
+    "gph": 619.5, 
+    "osn": 600.6
   }, 
   "sailnumber": "ITA16480", 
   "name": "WHITE PEARL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.41, 
       "draft": 2.06, 
+      "wetted_surface": 38.9, 
       "main": 48.6, 
       "genoa": 41.3, 
       "displacement": 10381.0, 
-      "spinnaker_asym": 111.0
+      "spinnaker_asym": 111.0, 
+      "crew": 560.0
     }, 
     "year": "2010"
   }, 

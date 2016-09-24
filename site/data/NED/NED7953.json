@@ -5,12 +5,13 @@
       1.2115, 
       1.3629
     ], 
-    "gph": 629.1, 
     "triple_inshore": [
       0.7214, 
       0.9824, 
       1.1438
-    ]
+    ], 
+    "gph": 629.1, 
+    "osn": 611.9
   }, 
   "sailnumber": "NED7953", 
   "name": "--", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.7, 
       "loa": 10.515, 
       "draft": 2.01, 
+      "wetted_surface": 27.7, 
       "main": 41.4, 
       "genoa": 31.9, 
       "displacement": 6015.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 667.0
     }, 
     "year": "2007"
   }, 

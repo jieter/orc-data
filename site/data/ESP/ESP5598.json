@@ -5,12 +5,13 @@
       1.2217, 
       1.4059
     ], 
-    "gph": 626.8, 
     "triple_inshore": [
       0.708, 
       0.9857, 
       1.1496
-    ]
+    ], 
+    "gph": 626.8, 
+    "osn": 607.5
   }, 
   "sailnumber": "ESP5598", 
   "name": "FILU", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.3, 
       "loa": 9.55, 
       "draft": 2.07, 
+      "wetted_surface": 20.3, 
       "main": 31.1, 
       "genoa": 20.4, 
       "displacement": 2585.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "2000"
   }, 

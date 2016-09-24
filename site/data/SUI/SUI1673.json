@@ -5,12 +5,13 @@
       1.1174, 
       1.2276
     ], 
-    "gph": 672.3, 
     "triple_inshore": [
       0.7065, 
       0.9183, 
       1.0337
-    ]
+    ], 
+    "gph": 672.3, 
+    "osn": 659.2
   }, 
   "sailnumber": "SUI1673", 
   "name": "SARASOTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.3, 
       "loa": 9.25, 
       "draft": 1.7, 
+      "wetted_surface": 19.1, 
       "main": 29.8, 
       "genoa": 42.4, 
       "displacement": 3552.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 472.0
     }, 
     "year": "1978"
   }, 

@@ -5,12 +5,13 @@
       1.1749, 
       1.3234
     ], 
-    "gph": 650.0, 
     "triple_inshore": [
       0.6904, 
       0.9468, 
       1.1027
-    ]
+    ], 
+    "gph": 650.0, 
+    "osn": 632.4
   }, 
   "sailnumber": "NOR13343", 
   "name": "Jolle", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.4, 
       "loa": 10.3, 
       "draft": 1.94, 
+      "wetted_surface": 25.2, 
       "main": 34.9, 
       "genoa": 34.5, 
       "displacement": 5174.0, 
-      "spinnaker_asym": 76.0
+      "spinnaker_asym": 76.0, 
+      "crew": 613.0
     }, 
     "year": "2002"
   }, 

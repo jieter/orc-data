@@ -5,12 +5,13 @@
       1.094, 
       1.2453
     ], 
-    "gph": 699.2, 
     "triple_inshore": [
       0.6417, 
       0.8862, 
       1.0468
-    ]
+    ], 
+    "gph": 699.2, 
+    "osn": 677.5
   }, 
   "sailnumber": "GER6806", 
   "name": "LAFE", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.4, 
       "loa": 8.75, 
       "draft": 1.61, 
+      "wetted_surface": 19.5, 
       "main": 24.9, 
       "genoa": 20.1, 
       "displacement": 3500.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1998"
   }, 

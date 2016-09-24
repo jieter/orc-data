@@ -5,12 +5,13 @@
       1.382, 
       1.5668
     ], 
-    "gph": 550.1, 
     "triple_inshore": [
       0.8248, 
       1.1112, 
       1.2739
-    ]
+    ], 
+    "gph": 550.1, 
+    "osn": 535.7
   }, 
   "sailnumber": "MLT1248", 
   "name": "FANTAGHIRO'", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.486, 
       "draft": 2.43, 
+      "wetted_surface": 32.2, 
       "main": 62.2, 
       "genoa": 40.5, 
       "displacement": 6243.0, 
-      "spinnaker_asym": 140.0
+      "spinnaker_asym": 140.0, 
+      "crew": 740.0
     }, 
     "year": "1997"
   }, 

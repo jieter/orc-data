@@ -5,12 +5,13 @@
       1.2105, 
       1.3634
     ], 
-    "gph": 630.0, 
     "triple_inshore": [
       0.717, 
       0.9672, 
       1.1376
-    ]
+    ], 
+    "gph": 630.0, 
+    "osn": 613.9
   }, 
   "sailnumber": "ESP6192_C", 
   "name": "SWANY", 
@@ -25,10 +26,12 @@
       "spinnaker": 145.9, 
       "loa": 13.442, 
       "draft": 2.26, 
+      "wetted_surface": 38.1, 
       "main": 45.4, 
       "genoa": 66.0, 
       "displacement": 12820.0, 
-      "spinnaker_asym": 117.0
+      "spinnaker_asym": 117.0, 
+      "crew": 240.0
     }, 
     "year": "1972"
   }, 

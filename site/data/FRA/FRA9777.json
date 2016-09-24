@@ -5,12 +5,13 @@
       1.3256, 
       1.4923
     ], 
-    "gph": 573.4, 
     "triple_inshore": [
       0.7923, 
       1.074, 
       1.2397
-    ]
+    ], 
+    "gph": 573.4, 
+    "osn": 559.2
   }, 
   "sailnumber": "FRA9777", 
   "name": "EYE CANDY", 
@@ -25,10 +26,12 @@
       "spinnaker": 134.3, 
       "loa": 11.795, 
       "draft": 2.62, 
+      "wetted_surface": 30.4, 
       "main": 51.9, 
       "genoa": 39.0, 
       "displacement": 5762.0, 
-      "spinnaker_asym": 133.0
+      "spinnaker_asym": 133.0, 
+      "crew": 700.0
     }, 
     "year": "1999"
   }, 

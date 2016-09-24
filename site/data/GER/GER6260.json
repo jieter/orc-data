@@ -5,12 +5,13 @@
       1.6446, 
       1.8785
     ], 
-    "gph": 464.6, 
     "triple_inshore": [
       0.9528, 
       1.3075, 
       1.5254
-    ]
+    ], 
+    "gph": 464.6, 
+    "osn": 453.0
   }, 
   "sailnumber": "GER6260", 
   "name": "MINNIC", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 18.6, 
       "draft": 3.4, 
+      "wetted_surface": 59.0, 
       "main": 131.4, 
       "genoa": 76.2, 
       "displacement": 16228.0, 
-      "spinnaker_asym": 247.0
+      "spinnaker_asym": 247.0, 
+      "crew": 485.0
     }, 
     "year": "2009"
   }, 

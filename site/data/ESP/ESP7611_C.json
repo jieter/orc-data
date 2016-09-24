@@ -5,12 +5,13 @@
       1.1682, 
       1.3071
     ], 
-    "gph": 651.2, 
     "triple_inshore": [
       0.7007, 
       0.9493, 
       1.0946
-    ]
+    ], 
+    "gph": 651.2, 
+    "osn": 634.6
   }, 
   "sailnumber": "ESP7611_C", 
   "name": "BUCARAMANGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.2, 
       "loa": 9.585, 
       "draft": 1.91, 
+      "wetted_surface": 21.9, 
       "main": 32.3, 
       "genoa": 32.9, 
       "displacement": 4306.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 490.0
     }, 
     "year": "1997"
   }, 

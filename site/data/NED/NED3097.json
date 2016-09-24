@@ -5,12 +5,13 @@
       1.0311, 
       1.1594
     ], 
-    "gph": 734.5, 
     "triple_inshore": [
       0.6291, 
       0.8434, 
       0.9497
-    ]
+    ], 
+    "gph": 734.5, 
+    "osn": 715.8
   }, 
   "sailnumber": "NED3097", 
   "name": "O", 
@@ -25,10 +26,12 @@
       "spinnaker": 25.4, 
       "loa": 6.683, 
       "draft": 1.39, 
+      "wetted_surface": 10.2, 
       "main": 17.2, 
       "genoa": 12.8, 
       "displacement": 832.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 280.0
     }, 
     "year": "1984"
   }, 

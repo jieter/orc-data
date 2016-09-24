@@ -5,12 +5,13 @@
       0.9551, 
       1.107
     ], 
-    "gph": 804.4, 
     "triple_inshore": [
       0.5498, 
       0.7718, 
       0.9313
-    ]
+    ], 
+    "gph": 804.4, 
+    "osn": 776.4
   }, 
   "sailnumber": "NED8684", 
   "name": "RAMRAM", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.47, 
       "draft": 1.47, 
+      "wetted_surface": 17.0, 
       "main": 14.6, 
       "genoa": 20.9, 
       "displacement": 3350.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 443.0
     }, 
     "year": "1971"
   }, 

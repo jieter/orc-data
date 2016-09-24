@@ -5,12 +5,13 @@
       1.0772, 
       1.2303
     ], 
-    "gph": 712.4, 
     "triple_inshore": [
       0.6225, 
       0.8543, 
       1.0147
-    ]
+    ], 
+    "gph": 712.4, 
+    "osn": 690.6
   }, 
   "sailnumber": "NOR14409", 
   "name": "Jorunn og Otto", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.2, 
       "loa": 11.85, 
       "draft": 1.82, 
+      "wetted_surface": 31.1, 
       "main": 29.4, 
       "genoa": 42.5, 
       "displacement": 8975.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 626.0
     }, 
     "year": "1993"
   }, 

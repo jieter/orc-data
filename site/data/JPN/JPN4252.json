@@ -5,12 +5,13 @@
       1.2523, 
       1.4056
     ], 
-    "gph": 604.2, 
     "triple_inshore": [
       0.7648, 
       1.0218, 
       1.1687
-    ]
+    ], 
+    "gph": 604.2, 
+    "osn": 589.4
   }, 
   "sailnumber": "JPN4252", 
   "name": "CRESCENT II", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.3, 
       "loa": 10.002, 
       "draft": 2.11, 
+      "wetted_surface": 21.6, 
       "main": 38.0, 
       "genoa": 34.8, 
       "displacement": 3493.0, 
-      "spinnaker_asym": 84.0
+      "spinnaker_asym": 84.0, 
+      "crew": 535.0
     }, 
     "year": "2001"
   }, 

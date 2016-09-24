@@ -5,12 +5,13 @@
       1.3463, 
       1.5842
     ], 
-    "gph": 560.0, 
     "triple_inshore": [
       0.8195, 
       1.0742, 
       1.2894
-    ]
+    ], 
+    "gph": 560.0, 
+    "osn": 545.3
   }, 
   "sailnumber": "ITA115AS99", 
   "name": "OLD SIMO", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.3, 
       "loa": 9.96, 
       "draft": 1.73, 
+      "wetted_surface": 14.3, 
       "main": 29.6, 
       "genoa": 16.3, 
       "displacement": 1150.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1982"
   }, 

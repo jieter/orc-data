@@ -5,12 +5,13 @@
       1.2265, 
       1.4177
     ], 
-    "gph": 614.7, 
     "triple_inshore": [
       0.7557, 
       0.9933, 
       1.1704
-    ]
+    ], 
+    "gph": 614.7, 
+    "osn": 597.7
   }, 
   "sailnumber": "ITA16365", 
   "name": "EL MORO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.825, 
       "draft": 2.02, 
+      "wetted_surface": 13.3, 
       "main": 22.6, 
       "genoa": 14.2, 
       "displacement": 1050.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 325.0
     }, 
     "year": "2007"
   }, 

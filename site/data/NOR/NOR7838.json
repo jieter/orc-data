@@ -5,12 +5,13 @@
       1.0975, 
       1.2373
     ], 
-    "gph": 694.3, 
     "triple_inshore": [
       0.6541, 
       0.8894, 
       1.0386
-    ]
+    ], 
+    "gph": 694.3, 
+    "osn": 675.0
   }, 
   "sailnumber": "NOR7838", 
   "name": "Martine", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.2, 
       "loa": 9.85, 
       "draft": 1.75, 
+      "wetted_surface": 22.1, 
       "main": 29.6, 
       "genoa": 31.1, 
       "displacement": 4654.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 539.0
     }, 
     "year": "1984"
   }, 

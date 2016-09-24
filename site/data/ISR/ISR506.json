@@ -5,12 +5,13 @@
       1.1201, 
       1.2905
     ], 
-    "gph": 688.0, 
     "triple_inshore": [
       0.6346, 
       0.8875, 
       1.0634
-    ]
+    ], 
+    "gph": 688.0, 
+    "osn": 665.3
   }, 
   "sailnumber": "ISR506", 
   "name": "Galit", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.7, 
       "loa": 11.8, 
       "draft": 1.97, 
+      "wetted_surface": 29.1, 
       "main": 31.9, 
       "genoa": 44.5, 
       "displacement": 7500.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 658.0
     }, 
     "year": "1986"
   }, 

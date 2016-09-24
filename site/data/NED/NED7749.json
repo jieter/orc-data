@@ -5,12 +5,13 @@
       1.133, 
       1.2837
     ], 
-    "gph": 667.8, 
     "triple_inshore": [
       0.6909, 
       0.9172, 
       1.0493
-    ]
+    ], 
+    "gph": 667.8, 
+    "osn": 650.8
   }, 
   "sailnumber": "NED7749", 
   "name": "JOT", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.997, 
       "draft": 1.49, 
+      "wetted_surface": 13.6, 
       "main": 21.2, 
       "genoa": 14.0, 
       "displacement": 1446.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 339.0
     }, 
     "year": "1993"
   }, 

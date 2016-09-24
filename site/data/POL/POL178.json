@@ -5,12 +5,13 @@
       0.9685, 
       1.1068
     ], 
-    "gph": 787.8, 
     "triple_inshore": [
       0.5726, 
       0.7871, 
       0.9287
-    ]
+    ], 
+    "gph": 787.8, 
+    "osn": 764.0
   }, 
   "sailnumber": "POL178", 
   "name": "ZEFIREK", 
@@ -25,10 +26,12 @@
       "spinnaker": 41.4, 
       "loa": 7.24, 
       "draft": 1.54, 
+      "wetted_surface": 12.5, 
       "main": 12.4, 
       "genoa": 16.0, 
       "displacement": 1643.0, 
-      "spinnaker_asym": 31.0
+      "spinnaker_asym": 31.0, 
+      "crew": 308.0
     }, 
     "year": "1976"
   }, 

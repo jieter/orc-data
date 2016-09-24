@@ -5,12 +5,13 @@
       1.2183, 
       1.3668
     ], 
-    "gph": 625.0, 
     "triple_inshore": [
       0.727, 
       0.9891, 
       1.1461
-    ]
+    ], 
+    "gph": 625.0, 
+    "osn": 608.7
   }, 
   "sailnumber": "ESP7194", 
   "name": "PENEQUE", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.4, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.7, 
       "main": 41.4, 
       "genoa": 40.4, 
       "displacement": 5679.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 730.0
     }, 
     "year": "2001"
   }, 

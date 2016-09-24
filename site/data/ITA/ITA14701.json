@@ -5,12 +5,13 @@
       1.2008, 
       1.3549
     ], 
-    "gph": 636.9, 
     "triple_inshore": [
       0.7069, 
       0.9732, 
       1.1377
-    ]
+    ], 
+    "gph": 636.9, 
+    "osn": 617.9
   }, 
   "sailnumber": "ITA14701", 
   "name": "MILONGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.1, 
       "loa": 10.64, 
       "draft": 2.22, 
+      "wetted_surface": 26.5, 
       "main": 39.0, 
       "genoa": 28.9, 
       "displacement": 5571.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "2001"
   }, 

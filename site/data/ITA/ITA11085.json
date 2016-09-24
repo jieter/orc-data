@@ -5,12 +5,13 @@
       1.214, 
       1.3807
     ], 
-    "gph": 630.3, 
     "triple_inshore": [
       0.7085, 
       0.9733, 
       1.1529
-    ]
+    ], 
+    "gph": 630.3, 
+    "osn": 612.2
   }, 
   "sailnumber": "ITA11085", 
   "name": "SCINTILLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.5, 
       "loa": 12.613, 
       "draft": 2.33, 
+      "wetted_surface": 33.3, 
       "main": 33.1, 
       "genoa": 59.9, 
       "displacement": 8928.0, 
-      "spinnaker_asym": 116.0
+      "spinnaker_asym": 116.0, 
+      "crew": 500.0
     }, 
     "year": "1984"
   }, 

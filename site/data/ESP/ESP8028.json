@@ -5,12 +5,13 @@
       1.2297, 
       1.3835
     ], 
-    "gph": 620.5, 
     "triple_inshore": [
       0.7261, 
       0.9908, 
       1.1558
-    ]
+    ], 
+    "gph": 620.5, 
+    "osn": 604.2
   }, 
   "sailnumber": "ESP8028", 
   "name": "COMETA A DOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.9, 
       "loa": 11.257, 
       "draft": 2.04, 
+      "wetted_surface": 29.6, 
       "main": 46.8, 
       "genoa": 32.0, 
       "displacement": 6730.0, 
-      "spinnaker_asym": 90.0
+      "spinnaker_asym": 90.0, 
+      "crew": 480.0
     }, 
     "year": "2005"
   }, 

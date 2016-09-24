@@ -5,12 +5,13 @@
       1.3282, 
       1.4944
     ], 
-    "gph": 573.7, 
     "triple_inshore": [
       0.7901, 
       1.0761, 
       1.2463
-    ]
+    ], 
+    "gph": 573.7, 
+    "osn": 558.3
   }, 
   "sailnumber": "ITA41", 
   "name": "OBELIX", 
@@ -25,10 +26,12 @@
       "spinnaker": 129.8, 
       "loa": 12.35, 
       "draft": 2.51, 
+      "wetted_surface": 33.0, 
       "main": 54.3, 
       "genoa": 46.3, 
       "displacement": 7196.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 850.0
     }, 
     "year": "2006"
   }, 

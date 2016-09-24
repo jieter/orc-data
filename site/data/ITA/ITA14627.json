@@ -5,12 +5,13 @@
       1.079, 
       1.2163
     ], 
-    "gph": 706.1, 
     "triple_inshore": [
       0.6429, 
       0.8718, 
       1.0183
-    ]
+    ], 
+    "gph": 706.1, 
+    "osn": 686.9
   }, 
   "sailnumber": "ITA14627", 
   "name": "MY DREAMS", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.9, 
       "loa": 9.71, 
       "draft": 1.8, 
+      "wetted_surface": 21.9, 
       "main": 24.8, 
       "genoa": 35.6, 
       "displacement": 4675.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1980"
   }, 

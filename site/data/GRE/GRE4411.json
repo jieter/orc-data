@@ -5,12 +5,13 @@
       1.3428, 
       1.5219
     ], 
-    "gph": 567.7, 
     "triple_inshore": [
       0.7934, 
       1.0856, 
       1.2679
-    ]
+    ], 
+    "gph": 567.7, 
+    "osn": 552.2
   }, 
   "sailnumber": "GRE4411", 
   "name": "BLUE SEAL", 
@@ -25,10 +26,12 @@
       "spinnaker": 121.4, 
       "loa": 12.465, 
       "draft": 2.58, 
+      "wetted_surface": 32.8, 
       "main": 49.3, 
       "genoa": 55.1, 
       "displacement": 6886.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 820.0
     }, 
     "year": "1994"
   }, 

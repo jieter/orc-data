@@ -5,12 +5,13 @@
       1.1504, 
       1.2918
     ], 
-    "gph": 660.2, 
     "triple_inshore": [
       0.6848, 
       0.9133, 
       1.0691
-    ]
+    ], 
+    "gph": 660.2, 
+    "osn": 647.3
   }, 
   "sailnumber": "NED6109", 
   "name": "BRANTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.9, 
       "draft": 1.76, 
+      "wetted_surface": 30.0, 
       "main": 39.3, 
       "genoa": 38.4, 
       "displacement": 8185.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 607.0
     }, 
     "year": "1998"
   }, 

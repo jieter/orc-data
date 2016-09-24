@@ -5,12 +5,13 @@
       1.1766, 
       1.3332
     ], 
-    "gph": 646.9, 
     "triple_inshore": [
       0.7013, 
       0.9568, 
       1.1084
-    ]
+    ], 
+    "gph": 646.9, 
+    "osn": 629.3
   }, 
   "sailnumber": "GRE49249", 
   "name": "OKYALOS V", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.4, 
       "loa": 10.034, 
       "draft": 1.85, 
+      "wetted_surface": 20.3, 
       "main": 36.4, 
       "genoa": 26.3, 
       "displacement": 3330.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "1986"
   }, 

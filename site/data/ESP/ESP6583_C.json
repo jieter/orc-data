@@ -5,12 +5,13 @@
       1.1785, 
       1.35
     ], 
-    "gph": 650.0, 
     "triple_inshore": [
       0.679, 
       0.9312, 
       1.1077
-    ]
+    ], 
+    "gph": 650.0, 
+    "osn": 632.1
   }, 
   "sailnumber": "ESP6583_C", 
   "name": "NEQUE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.233, 
       "draft": 1.95, 
+      "wetted_surface": 30.8, 
       "main": 38.8, 
       "genoa": 41.4, 
       "displacement": 7375.0, 
-      "spinnaker_asym": 87.0
+      "spinnaker_asym": 87.0, 
+      "crew": 375.0
     }, 
     "year": "2000"
   }, 

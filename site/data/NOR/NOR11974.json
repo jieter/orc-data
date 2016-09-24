@@ -5,12 +5,13 @@
       1.1598, 
       1.2838
     ], 
-    "gph": 652.4, 
     "triple_inshore": [
       0.7114, 
       0.9466, 
       1.0768
-    ]
+    ], 
+    "gph": 652.4, 
+    "osn": 637.9
   }, 
   "sailnumber": "NOR11974", 
   "name": "Havstrygern", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.7, 
       "loa": 10.59, 
       "draft": 1.76, 
+      "wetted_surface": 23.4, 
       "main": 35.4, 
       "genoa": 40.6, 
       "displacement": 4826.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 553.0
     }, 
     "year": "1984"
   }, 

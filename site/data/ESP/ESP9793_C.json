@@ -5,12 +5,13 @@
       1.3122, 
       1.508
     ], 
-    "gph": 583.3, 
     "triple_inshore": [
       0.7551, 
       1.0452, 
       1.254
-    ]
+    ], 
+    "gph": 583.3, 
+    "osn": 567.6
   }, 
   "sailnumber": "ESP9793_C", 
   "name": "CLASAJAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 153.5, 
       "loa": 14.54, 
       "draft": 2.45, 
+      "wetted_surface": 45.7, 
       "main": 62.6, 
       "genoa": 72.5, 
       "displacement": 13711.0, 
-      "spinnaker_asym": 166.0
+      "spinnaker_asym": 166.0, 
+      "crew": 450.0
     }, 
     "year": "1993"
   }, 

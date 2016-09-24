@@ -5,12 +5,13 @@
       1.1978, 
       1.3558
     ], 
-    "gph": 638.0, 
     "triple_inshore": [
       0.7019, 
       0.9586, 
       1.1237
-    ]
+    ], 
+    "gph": 638.0, 
+    "osn": 620.4
   }, 
   "sailnumber": "NED8561", 
   "name": "Zee/Deler", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.972, 
       "draft": 1.97, 
+      "wetted_surface": 28.1, 
       "main": 40.5, 
       "genoa": 31.9, 
       "displacement": 6200.0, 
-      "spinnaker_asym": 75.0
+      "spinnaker_asym": 75.0, 
+      "crew": 450.0
     }, 
     "year": "2000"
   }, 

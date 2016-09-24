@@ -5,12 +5,13 @@
       1.1537, 
       1.2951
     ], 
-    "gph": 658.9, 
     "triple_inshore": [
       0.6924, 
       0.9398, 
       1.0902
-    ]
+    ], 
+    "gph": 658.9, 
+    "osn": 642.2
   }, 
   "sailnumber": "NOR3196", 
   "name": "Iggy", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.9, 
       "loa": 10.102, 
       "draft": 1.92, 
+      "wetted_surface": 21.0, 
       "main": 35.4, 
       "genoa": 30.8, 
       "displacement": 4096.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 525.0
     }, 
     "year": "0"
   }, 

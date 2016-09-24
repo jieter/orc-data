@@ -5,12 +5,13 @@
       0.9299, 
       1.0408
     ], 
-    "gph": 815.3, 
     "triple_inshore": [
       0.5682, 
       0.764, 
       0.864
-    ]
+    ], 
+    "gph": 815.3, 
+    "osn": 793.0
   }, 
   "sailnumber": "ITA605MET", 
   "name": "YANEZ", 
@@ -25,10 +26,12 @@
       "spinnaker": 24.7, 
       "loa": 6.0, 
       "draft": 0.97, 
+      "wetted_surface": 9.2, 
       "main": 10.0, 
       "genoa": 12.3, 
       "displacement": 802.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 270.0
     }, 
     "year": "1968"
   }, 

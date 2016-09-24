@@ -5,12 +5,13 @@
       1.2731, 
       1.4404
     ], 
-    "gph": 599.7, 
     "triple_inshore": [
       0.7485, 
       1.0232, 
       1.198
-    ]
+    ], 
+    "gph": 599.7, 
+    "osn": 583.1
   }, 
   "sailnumber": "ITA15571", 
   "name": "NINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.27, 
       "draft": 2.44, 
+      "wetted_surface": 33.5, 
       "main": 52.5, 
       "genoa": 46.5, 
       "displacement": 8223.0, 
-      "spinnaker_asym": 97.0
+      "spinnaker_asym": 97.0, 
+      "crew": 460.0
     }, 
     "year": "2007"
   }, 

@@ -5,12 +5,13 @@
       1.2193, 
       1.3983
     ], 
-    "gph": 629.5, 
     "triple_inshore": [
       0.7, 
       0.9736, 
       1.1636
-    ]
+    ], 
+    "gph": 629.5, 
+    "osn": 610.3
   }, 
   "sailnumber": "ITA16332", 
   "name": "MY TWINS", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.3, 
       "loa": 12.06, 
       "draft": 2.08, 
+      "wetted_surface": 32.6, 
       "main": 42.9, 
       "genoa": 40.0, 
       "displacement": 8188.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2003"
   }, 

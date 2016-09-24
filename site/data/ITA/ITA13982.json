@@ -5,12 +5,13 @@
       1.1443, 
       1.2955
     ], 
-    "gph": 670.1, 
     "triple_inshore": [
       0.6636, 
       0.9213, 
       1.0817
-    ]
+    ], 
+    "gph": 670.1, 
+    "osn": 650.3
   }, 
   "sailnumber": "ITA13982", 
   "name": "OSIRATRILLI", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.1, 
       "loa": 9.798, 
       "draft": 2.09, 
+      "wetted_surface": 23.8, 
       "main": 33.1, 
       "genoa": 36.3, 
       "displacement": 4496.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1996"
   }, 

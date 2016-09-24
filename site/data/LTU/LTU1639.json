@@ -5,12 +5,13 @@
       1.1974, 
       1.3574
     ], 
-    "gph": 635.8, 
     "triple_inshore": [
       0.7099, 
       0.9729, 
       1.1256
-    ]
+    ], 
+    "gph": 635.8, 
+    "osn": 618.9
   }, 
   "sailnumber": "LTU1639", 
   "name": "ESOX", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.2, 
       "loa": 10.0, 
       "draft": 1.85, 
+      "wetted_surface": 21.3, 
       "main": 33.2, 
       "genoa": 27.5, 
       "displacement": 3288.0, 
-      "spinnaker_asym": 48.0
+      "spinnaker_asym": 48.0, 
+      "crew": 530.0
     }, 
     "year": "1985"
   }, 

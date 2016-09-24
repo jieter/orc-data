@@ -5,12 +5,13 @@
       1.1845, 
       1.3319
     ], 
-    "gph": 643.7, 
     "triple_inshore": [
       0.6986, 
       0.9526, 
       1.1108
-    ]
+    ], 
+    "gph": 643.7, 
+    "osn": 627.8
   }, 
   "sailnumber": "GER5372", 
   "name": "MUESLI", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.2, 
       "loa": 11.4, 
       "draft": 1.78, 
+      "wetted_surface": 25.9, 
       "main": 39.0, 
       "genoa": 37.4, 
       "displacement": 5474.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1993"
   }, 

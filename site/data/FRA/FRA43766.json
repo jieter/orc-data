@@ -5,12 +5,13 @@
       1.1837, 
       1.3754
     ], 
-    "gph": 646.5, 
     "triple_inshore": [
       0.6839, 
       0.9423, 
       1.1236
-    ]
+    ], 
+    "gph": 646.5, 
+    "osn": 627.0
   }, 
   "sailnumber": "FRA43766", 
   "name": "PAPILLON", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.01, 
       "draft": 1.91, 
+      "wetted_surface": 27.6, 
       "main": 36.1, 
       "genoa": 27.8, 
       "displacement": 5130.0, 
-      "spinnaker_asym": 102.0
+      "spinnaker_asym": 102.0, 
+      "crew": 705.0
     }, 
     "year": "2010"
   }, 

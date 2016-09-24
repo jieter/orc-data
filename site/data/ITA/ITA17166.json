@@ -5,12 +5,13 @@
       1.2976, 
       1.4753
     ], 
-    "gph": 590.0, 
     "triple_inshore": [
       0.7499, 
       1.0214, 
       1.2046
-    ]
+    ], 
+    "gph": 590.0, 
+    "osn": 575.3
   }, 
   "sailnumber": "ITA17166", 
   "name": "LIVIA V", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.828, 
       "draft": 2.32, 
+      "wetted_surface": 51.1, 
       "main": 64.0, 
       "genoa": 86.7, 
       "displacement": 18000.0, 
-      "spinnaker_asym": 162.0
+      "spinnaker_asym": 162.0, 
+      "crew": 800.0
     }, 
     "year": "1988"
   }, 

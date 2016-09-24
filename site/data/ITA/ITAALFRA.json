@@ -5,12 +5,13 @@
       1.2214, 
       1.4001
     ], 
-    "gph": 631.5, 
     "triple_inshore": [
       0.6863, 
       0.9664, 
       1.145
-    ]
+    ], 
+    "gph": 631.5, 
+    "osn": 612.0
   }, 
   "sailnumber": "ITAALFRA", 
   "name": "ALFRAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 2.06, 
+      "wetted_surface": 35.0, 
       "main": 37.7, 
       "genoa": 44.2, 
       "displacement": 8298.0, 
-      "spinnaker_asym": 144.0
+      "spinnaker_asym": 144.0, 
+      "crew": 600.0
     }, 
     "year": "2010"
   }, 

@@ -5,12 +5,13 @@
       1.2, 
       1.3782
     ], 
-    "gph": 641.3, 
     "triple_inshore": [
       0.6848, 
       0.9549, 
       1.1359
-    ]
+    ], 
+    "gph": 641.3, 
+    "osn": 620.4
   }, 
   "sailnumber": "NOR14903", 
   "name": "Seileren", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.5, 
       "draft": 2.33, 
+      "wetted_surface": 30.3, 
       "main": 34.9, 
       "genoa": 31.4, 
       "displacement": 6526.0, 
-      "spinnaker_asym": 78.0
+      "spinnaker_asym": 78.0, 
+      "crew": 723.0
     }, 
     "year": "2012"
   }, 

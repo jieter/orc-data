@@ -5,12 +5,13 @@
       1.1372, 
       1.2913
     ], 
-    "gph": 672.1, 
     "triple_inshore": [
       0.6649, 
       0.9095, 
       1.0691
-    ]
+    ], 
+    "gph": 672.1, 
+    "osn": 653.6
   }, 
   "sailnumber": "GRE1301", 
   "name": "ANEMOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.1, 
       "loa": 10.865, 
       "draft": 1.73, 
+      "wetted_surface": 26.7, 
       "main": 31.6, 
       "genoa": 39.0, 
       "displacement": 5879.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1999"
   }, 

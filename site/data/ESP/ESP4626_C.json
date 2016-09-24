@@ -5,12 +5,13 @@
       1.129, 
       1.292
     ], 
-    "gph": 681.7, 
     "triple_inshore": [
       0.6367, 
       0.907, 
       1.0804
-    ]
+    ], 
+    "gph": 681.7, 
+    "osn": 661.6
   }, 
   "sailnumber": "ESP4626_C", 
   "name": "NATAO II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.114, 
       "draft": 2.09, 
+      "wetted_surface": 23.4, 
       "main": 31.0, 
       "genoa": 31.8, 
       "displacement": 4366.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 290.0
     }, 
     "year": "1996"
   }, 

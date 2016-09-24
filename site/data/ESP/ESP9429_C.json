@@ -5,12 +5,13 @@
       1.2332, 
       1.448
     ], 
-    "gph": 625.6, 
     "triple_inshore": [
       0.682, 
       0.9587, 
       1.1622
-    ]
+    ], 
+    "gph": 625.6, 
+    "osn": 607.5
   }, 
   "sailnumber": "ESP9429_C", 
   "name": "KAILOA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.985, 
       "draft": 1.89, 
+      "wetted_surface": 49.1, 
       "main": 46.7, 
       "genoa": 73.0, 
       "displacement": 13810.0, 
-      "spinnaker_asym": 135.0
+      "spinnaker_asym": 135.0, 
+      "crew": 480.0
     }, 
     "year": "1992"
   }, 

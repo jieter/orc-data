@@ -5,12 +5,13 @@
       1.1693, 
       1.3471
     ], 
-    "gph": 645.0, 
     "triple_inshore": [
       0.7186, 
       0.9415, 
       1.091
-    ]
+    ], 
+    "gph": 645.0, 
+    "osn": 628.6
   }, 
   "sailnumber": "NED8409", 
   "name": "3 J's", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.25, 
       "draft": 1.61, 
+      "wetted_surface": 14.3, 
       "main": 25.0, 
       "genoa": 15.4, 
       "displacement": 1337.0, 
-      "spinnaker_asym": 66.0
+      "spinnaker_asym": 66.0, 
+      "crew": 425.0
     }, 
     "year": "1998"
   }, 

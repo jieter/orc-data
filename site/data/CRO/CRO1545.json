@@ -5,12 +5,13 @@
       1.2251, 
       1.3817
     ], 
-    "gph": 624.1, 
     "triple_inshore": [
       0.7188, 
       0.9874, 
       1.1539
-    ]
+    ], 
+    "gph": 624.1, 
+    "osn": 606.6
   }, 
   "sailnumber": "CRO1545", 
   "name": "Andela X", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.5, 
       "loa": 11.345, 
       "draft": 2.01, 
+      "wetted_surface": 28.9, 
       "main": 43.3, 
       "genoa": 33.3, 
       "displacement": 6446.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 690.0
     }, 
     "year": "2004"
   }, 

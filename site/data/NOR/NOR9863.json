@@ -5,12 +5,13 @@
       1.1702, 
       1.317
     ], 
-    "gph": 651.3, 
     "triple_inshore": [
       0.6949, 
       0.9485, 
       1.1045
-    ]
+    ], 
+    "gph": 651.3, 
+    "osn": 634.0
   }, 
   "sailnumber": "NOR9863", 
   "name": "Adrenelan", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.2, 
       "loa": 10.45, 
       "draft": 1.91, 
+      "wetted_surface": 24.0, 
       "main": 34.5, 
       "genoa": 35.5, 
       "displacement": 4928.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 614.0
     }, 
     "year": "2000"
   }, 

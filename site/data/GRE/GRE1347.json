@@ -5,12 +5,13 @@
       1.0857, 
       1.2356
     ], 
-    "gph": 705.5, 
     "triple_inshore": [
       0.6306, 
       0.8639, 
       1.024
-    ]
+    ], 
+    "gph": 705.5, 
+    "osn": 685.0
   }, 
   "sailnumber": "GRE1347", 
   "name": "OSTRIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.45, 
       "draft": 1.77, 
+      "wetted_surface": 23.3, 
       "main": 26.9, 
       "genoa": 23.1, 
       "displacement": 4700.0, 
-      "spinnaker_asym": 63.0
+      "spinnaker_asym": 63.0, 
+      "crew": 400.0
     }, 
     "year": "2007"
   }, 

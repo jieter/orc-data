@@ -5,12 +5,13 @@
       0.9951, 
       1.1264
     ], 
-    "gph": 769.3, 
     "triple_inshore": [
       0.5849, 
       0.8049, 
       0.9474
-    ]
+    ], 
+    "gph": 769.3, 
+    "osn": 745.0
   }, 
   "sailnumber": "ESP10271_C", 
   "name": "ALEA", 
@@ -25,10 +26,12 @@
       "spinnaker": 48.6, 
       "loa": 7.49, 
       "draft": 1.57, 
+      "wetted_surface": 16.7, 
       "main": 18.3, 
       "genoa": 16.3, 
       "displacement": 3090.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 270.0
     }, 
     "year": "2000"
   }, 

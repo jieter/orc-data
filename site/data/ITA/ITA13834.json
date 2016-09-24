@@ -5,12 +5,13 @@
       1.303, 
       1.5094
     ], 
-    "gph": 590.4, 
     "triple_inshore": [
       0.733, 
       1.029, 
       1.2392
-    ]
+    ], 
+    "gph": 590.4, 
+    "osn": 573.5
   }, 
   "sailnumber": "ITA13834", 
   "name": "ALCOR V", 
@@ -25,10 +26,12 @@
       "spinnaker": 131.7, 
       "loa": 14.506, 
       "draft": 2.28, 
+      "wetted_surface": 43.8, 
       "main": 59.2, 
       "genoa": 66.8, 
       "displacement": 11900.0, 
-      "spinnaker_asym": 124.0
+      "spinnaker_asym": 124.0, 
+      "crew": 770.0
     }, 
     "year": "1999"
   }, 

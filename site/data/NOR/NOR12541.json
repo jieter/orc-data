@@ -5,12 +5,13 @@
       1.3094, 
       1.4768
     ], 
-    "gph": 582.7, 
     "triple_inshore": [
       0.7746, 
       1.0596, 
       1.2364
-    ]
+    ], 
+    "gph": 582.7, 
+    "osn": 566.5
   }, 
   "sailnumber": "NOR12541", 
   "name": "Eureka", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.27, 
       "draft": 2.38, 
+      "wetted_surface": 34.6, 
       "main": 54.1, 
       "genoa": 41.3, 
       "displacement": 8299.0, 
-      "spinnaker_asym": 143.0
+      "spinnaker_asym": 143.0, 
+      "crew": 837.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       1.1363, 
       1.2847
     ], 
-    "gph": 664.7, 
     "triple_inshore": [
       0.6967, 
       0.917, 
       1.045
-    ]
+    ], 
+    "gph": 664.7, 
+    "osn": 649.2
   }, 
   "sailnumber": "ITA1144_C", 
   "name": "VALENTINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.032, 
       "draft": 1.5, 
+      "wetted_surface": 13.2, 
       "main": 21.9, 
       "genoa": 14.0, 
       "displacement": 1425.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 300.0
     }, 
     "year": "2008"
   }, 

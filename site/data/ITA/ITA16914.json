@@ -5,12 +5,13 @@
       1.1823, 
       1.3483
     ], 
-    "gph": 648.0, 
     "triple_inshore": [
       0.6863, 
       0.9541, 
       1.1309
-    ]
+    ], 
+    "gph": 648.0, 
+    "osn": 627.7
   }, 
   "sailnumber": "ITA16914", 
   "name": "VELENO", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.2, 
       "loa": 10.427, 
       "draft": 2.13, 
+      "wetted_surface": 27.5, 
       "main": 28.6, 
       "genoa": 38.5, 
       "displacement": 5673.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 480.0
     }, 
     "year": "2004"
   }, 

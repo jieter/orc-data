@@ -5,12 +5,13 @@
       1.0999, 
       1.2512
     ], 
-    "gph": 694.8, 
     "triple_inshore": [
       0.6472, 
       0.8903, 
       1.0521
-    ]
+    ], 
+    "gph": 694.8, 
+    "osn": 674.0
   }, 
   "sailnumber": "NOR10750", 
   "name": "Duppen", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.7, 
       "loa": 9.15, 
       "draft": 1.91, 
+      "wetted_surface": 21.6, 
       "main": 26.8, 
       "genoa": 29.1, 
       "displacement": 4351.0, 
-      "spinnaker_asym": 48.0
+      "spinnaker_asym": 48.0, 
+      "crew": 544.0
     }, 
     "year": "2003"
   }, 

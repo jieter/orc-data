@@ -5,12 +5,13 @@
       1.1298, 
       1.2708
     ], 
-    "gph": 675.8, 
     "triple_inshore": [
       0.67, 
       0.9136, 
       1.0677
-    ]
+    ], 
+    "gph": 675.8, 
+    "osn": 656.7
   }, 
   "sailnumber": "GER6198", 
   "name": "HAVKARLEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.1, 
       "loa": 10.3, 
       "draft": 1.89, 
+      "wetted_surface": 27.2, 
       "main": 27.4, 
       "genoa": 47.5, 
       "displacement": 6117.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1977"
   }, 

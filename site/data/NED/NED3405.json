@@ -5,12 +5,13 @@
       1.3924, 
       1.6319
     ], 
-    "gph": 555.0, 
     "triple_inshore": [
       0.7742, 
       1.104, 
       1.358
-    ]
+    ], 
+    "gph": 555.0, 
+    "osn": 536.1
   }, 
   "sailnumber": "NED3405", 
   "name": "HannaH", 
@@ -25,10 +26,12 @@
       "spinnaker": 161.8, 
       "loa": 17.0, 
       "draft": 5.57, 
+      "wetted_surface": 61.2, 
       "main": 96.9, 
       "genoa": 52.5, 
       "displacement": 20463.0, 
-      "spinnaker_asym": 190.0
+      "spinnaker_asym": 190.0, 
+      "crew": 1265.0
     }, 
     "year": "1998"
   }, 

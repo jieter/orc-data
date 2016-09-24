@@ -5,12 +5,13 @@
       1.2225, 
       1.3588
     ], 
-    "gph": 622.8, 
     "triple_inshore": [
       0.7305, 
       0.9865, 
       1.1319
-    ]
+    ], 
+    "gph": 622.8, 
+    "osn": 607.2
   }, 
   "sailnumber": "ESP7366_C", 
   "name": "HUAYRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.757, 
       "draft": 2.19, 
+      "wetted_surface": 27.7, 
       "main": 38.2, 
       "genoa": 43.3, 
       "displacement": 6068.0, 
-      "spinnaker_asym": 128.0
+      "spinnaker_asym": 128.0, 
+      "crew": 300.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.1148, 
       1.2615
     ], 
-    "gph": 677.1, 
     "triple_inshore": [
       0.6903, 
       0.9161, 
       1.0374
-    ]
+    ], 
+    "gph": 677.1, 
+    "osn": 658.6
   }, 
   "sailnumber": "ITA25285", 
   "name": "BREAK WIND", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.5, 
       "loa": 7.512, 
       "draft": 1.57, 
+      "wetted_surface": 12.2, 
       "main": 20.7, 
       "genoa": 12.9, 
       "displacement": 1310.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 390.0
     }, 
     "year": "1997"
   }, 

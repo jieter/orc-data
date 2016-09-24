@@ -5,12 +5,13 @@
       1.1576, 
       1.3058
     ], 
-    "gph": 660.0, 
     "triple_inshore": [
       0.6814, 
       0.9337, 
       1.0934
-    ]
+    ], 
+    "gph": 660.0, 
+    "osn": 641.6
   }, 
   "sailnumber": "GER5427", 
   "name": "LONGO MAI", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.4, 
       "loa": 10.615, 
       "draft": 1.89, 
+      "wetted_surface": 26.2, 
       "main": 34.7, 
       "genoa": 34.4, 
       "displacement": 5834.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1994"
   }, 

@@ -5,12 +5,13 @@
       1.0851, 
       1.2499
     ], 
-    "gph": 705.9, 
     "triple_inshore": [
       0.6293, 
       0.8725, 
       1.0458
-    ]
+    ], 
+    "gph": 705.9, 
+    "osn": 684.3
   }, 
   "sailnumber": "ESP5383_C", 
   "name": "ATRIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.0, 
       "loa": 9.97, 
       "draft": 1.77, 
+      "wetted_surface": 21.3, 
       "main": 23.0, 
       "genoa": 28.8, 
       "displacement": 4103.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1985"
   }, 

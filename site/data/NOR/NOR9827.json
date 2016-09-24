@@ -5,12 +5,13 @@
       1.1132, 
       1.2594
     ], 
-    "gph": 684.8, 
     "triple_inshore": [
       0.6575, 
       0.8779, 
       1.0317
-    ]
+    ], 
+    "gph": 684.8, 
+    "osn": 668.0
   }, 
   "sailnumber": "NOR9827", 
   "name": "NN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.22, 
       "draft": 1.76, 
+      "wetted_surface": 33.3, 
       "main": 41.3, 
       "genoa": 42.9, 
       "displacement": 9850.0, 
-      "spinnaker_asym": 94.0
+      "spinnaker_asym": 94.0, 
+      "crew": 644.0
     }, 
     "year": "1993"
   }, 

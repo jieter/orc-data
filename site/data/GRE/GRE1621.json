@@ -5,12 +5,13 @@
       0.9984, 
       1.1218
     ], 
-    "gph": 761.1, 
     "triple_inshore": [
       0.6044, 
       0.813, 
       0.9399
-    ]
+    ], 
+    "gph": 761.1, 
+    "osn": 740.6
   }, 
   "sailnumber": "GRE1621", 
   "name": "POCKET ROCKET", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.1, 
       "loa": 8.2, 
       "draft": 1.52, 
+      "wetted_surface": 15.2, 
       "main": 14.7, 
       "genoa": 24.7, 
       "displacement": 2566.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 389.0
     }, 
     "year": "1977"
   }, 

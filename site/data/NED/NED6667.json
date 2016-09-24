@@ -5,12 +5,13 @@
       1.2936, 
       1.4484
     ], 
-    "gph": 590.4, 
     "triple_inshore": [
       0.761, 
       1.0395, 
       1.1973
-    ]
+    ], 
+    "gph": 590.4, 
+    "osn": 574.7
   }, 
   "sailnumber": "NED6667", 
   "name": "J Quattro", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.244, 
       "draft": 2.17, 
+      "wetted_surface": 33.1, 
       "main": 47.1, 
       "genoa": 44.7, 
       "displacement": 7121.0, 
-      "spinnaker_asym": 159.0
+      "spinnaker_asym": 159.0, 
+      "crew": 400.0
     }, 
     "year": "2001"
   }, 

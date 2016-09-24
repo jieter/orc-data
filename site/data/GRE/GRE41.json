@@ -5,12 +5,13 @@
       0.9725, 
       1.1017
     ], 
-    "gph": 783.5, 
     "triple_inshore": [
       0.5814, 
       0.7871, 
       0.9248
-    ]
+    ], 
+    "gph": 783.5, 
+    "osn": 761.1
   }, 
   "sailnumber": "GRE41", 
   "name": "SAITA", 
@@ -25,10 +26,12 @@
       "spinnaker": 45.8, 
       "loa": 7.89, 
       "draft": 1.6, 
+      "wetted_surface": 17.2, 
       "main": 16.0, 
       "genoa": 26.6, 
       "displacement": 3421.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 421.0
     }, 
     "year": "1980"
   }, 

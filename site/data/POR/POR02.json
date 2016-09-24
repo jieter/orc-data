@@ -5,12 +5,13 @@
       0.9993, 
       1.1518
     ], 
-    "gph": 773.7, 
     "triple_inshore": [
       0.5589, 
       0.7974, 
       0.9518
-    ]
+    ], 
+    "gph": 773.7, 
+    "osn": 746.3
   }, 
   "sailnumber": "POR02", 
   "name": "PARALELO 32", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.187, 
       "draft": 1.4, 
+      "wetted_surface": 20.9, 
       "main": 27.8, 
       "genoa": 23.4, 
       "displacement": 4034.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 484.0
     }, 
     "year": "2004"
   }, 

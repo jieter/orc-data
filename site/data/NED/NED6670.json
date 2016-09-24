@@ -5,12 +5,13 @@
       1.1754, 
       1.3456
     ], 
-    "gph": 651.8, 
     "triple_inshore": [
       0.6767, 
       0.9436, 
       1.1252
-    ]
+    ], 
+    "gph": 651.8, 
+    "osn": 632.6
   }, 
   "sailnumber": "NED6670", 
   "name": "AMAZONE", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.5, 
       "loa": 11.2, 
       "draft": 1.85, 
+      "wetted_surface": 28.0, 
       "main": 39.6, 
       "genoa": 27.9, 
       "displacement": 5965.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 643.0
     }, 
     "year": "1990"
   }, 

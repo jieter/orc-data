@@ -5,12 +5,13 @@
       1.1433, 
       1.2767
     ], 
-    "gph": 659.9, 
     "triple_inshore": [
       0.7081, 
       0.9303, 
       1.0486
-    ]
+    ], 
+    "gph": 659.9, 
+    "osn": 644.1
   }, 
   "sailnumber": "ITA14797", 
   "name": "GRANDE VENTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 45.9, 
       "loa": 8.038, 
       "draft": 1.62, 
+      "wetted_surface": 13.5, 
       "main": 22.4, 
       "genoa": 18.4, 
       "displacement": 1457.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 310.0
     }, 
     "year": "2004"
   }, 

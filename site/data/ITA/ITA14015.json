@@ -5,12 +5,13 @@
       1.3105, 
       1.4848
     ], 
-    "gph": 581.2, 
     "triple_inshore": [
       0.7767, 
       1.062, 
       1.2396
-    ]
+    ], 
+    "gph": 581.2, 
+    "osn": 565.5
   }, 
   "sailnumber": "ITA14015", 
   "name": "X-ALTAIR", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.7, 
       "loa": 12.1, 
       "draft": 2.4, 
+      "wetted_surface": 30.6, 
       "main": 49.9, 
       "genoa": 53.5, 
       "displacement": 6364.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2000"
   }, 

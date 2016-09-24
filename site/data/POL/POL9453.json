@@ -5,12 +5,13 @@
       0.8715, 
       1.0299
     ], 
-    "gph": 885.6, 
     "triple_inshore": [
       0.4903, 
       0.7005, 
       0.8639
-    ]
+    ], 
+    "gph": 885.6, 
+    "osn": 851.7
   }, 
   "sailnumber": "POL9453", 
   "name": "Mary Lou", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.906, 
       "draft": 1.47, 
+      "wetted_surface": 14.6, 
       "main": 11.1, 
       "genoa": 17.4, 
       "displacement": 2299.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 318.0
     }, 
     "year": "1976"
   }, 

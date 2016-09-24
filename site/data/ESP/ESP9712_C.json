@@ -5,12 +5,13 @@
       1.2403, 
       1.4503
     ], 
-    "gph": 623.3, 
     "triple_inshore": [
       0.6826, 
       0.9647, 
       1.1695
-    ]
+    ], 
+    "gph": 623.3, 
+    "osn": 604.7
   }, 
   "sailnumber": "ESP9712_C", 
   "name": "BAHIA DE MAZARRON", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.75, 
       "draft": 2.03, 
+      "wetted_surface": 47.4, 
       "main": 55.6, 
       "genoa": 65.4, 
       "displacement": 13810.0, 
-      "spinnaker_asym": 138.0
+      "spinnaker_asym": 138.0, 
+      "crew": 960.0
     }, 
     "year": "2006"
   }, 

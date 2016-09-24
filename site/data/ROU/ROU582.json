@@ -5,12 +5,13 @@
       1.115, 
       1.3186
     ], 
-    "gph": 694.0, 
     "triple_inshore": [
       0.6119, 
       0.8708, 
       1.0726
-    ]
+    ], 
+    "gph": 694.0, 
+    "osn": 671.1
   }, 
   "sailnumber": "ROU582", 
   "name": "Esperanta", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.624, 
       "draft": 1.9, 
+      "wetted_surface": 32.3, 
       "main": 32.4, 
       "genoa": 42.4, 
       "displacement": 7800.0, 
-      "spinnaker_asym": 75.0
+      "spinnaker_asym": 75.0, 
+      "crew": 978.0
     }, 
     "year": "2001"
   }, 

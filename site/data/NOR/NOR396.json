@@ -5,12 +5,13 @@
       1.0111, 
       1.184
     ], 
-    "gph": 758.8, 
     "triple_inshore": [
       0.5786, 
       0.8042, 
       0.9854
-    ]
+    ], 
+    "gph": 758.8, 
+    "osn": 734.9
   }, 
   "sailnumber": "NOR396", 
   "name": "MOY", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.3, 
       "loa": 9.6, 
       "draft": 1.56, 
+      "wetted_surface": 20.8, 
       "main": 19.5, 
       "genoa": 25.0, 
       "displacement": 4243.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 471.0
     }, 
     "year": "1972"
   }, 

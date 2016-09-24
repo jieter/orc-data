@@ -5,12 +5,13 @@
       1.1395, 
       1.3029
     ], 
-    "gph": 672.8, 
     "triple_inshore": [
       0.659, 
       0.9209, 
       1.0864
-    ]
+    ], 
+    "gph": 672.8, 
+    "osn": 651.2
   }, 
   "sailnumber": "ITA16412", 
   "name": "NAUTICUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.9, 
       "loa": 9.5, 
       "draft": 1.91, 
+      "wetted_surface": 21.8, 
       "main": 25.6, 
       "genoa": 27.0, 
       "displacement": 3661.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 530.0
     }, 
     "year": "1998"
   }, 

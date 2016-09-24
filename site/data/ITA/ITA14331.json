@@ -5,12 +5,13 @@
       1.1317, 
       1.2739
     ], 
-    "gph": 675.7, 
     "triple_inshore": [
       0.6655, 
       0.913, 
       1.0612
-    ]
+    ], 
+    "gph": 675.7, 
+    "osn": 656.6
   }, 
   "sailnumber": "ITA14331", 
   "name": "NIMAR II", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.0, 
       "loa": 9.5, 
       "draft": 1.92, 
+      "wetted_surface": 22.3, 
       "main": 26.3, 
       "genoa": 29.6, 
       "displacement": 3843.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1998"
   }, 

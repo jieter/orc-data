@@ -5,12 +5,13 @@
       1.284, 
       1.4518
     ], 
-    "gph": 593.7, 
     "triple_inshore": [
       0.7598, 
       1.0404, 
       1.2153
-    ]
+    ], 
+    "gph": 593.7, 
+    "osn": 577.6
   }, 
   "sailnumber": "RUS655", 
   "name": "GASTION", 
@@ -25,10 +26,12 @@
       "spinnaker": 114.9, 
       "loa": 11.924, 
       "draft": 2.42, 
+      "wetted_surface": 31.6, 
       "main": 48.1, 
       "genoa": 48.4, 
       "displacement": 7300.0, 
-      "spinnaker_asym": 100.0
+      "spinnaker_asym": 100.0, 
+      "crew": 738.0
     }, 
     "year": "1997"
   }, 

@@ -5,12 +5,13 @@
       1.114, 
       1.2845
     ], 
-    "gph": 690.4, 
     "triple_inshore": [
       0.6337, 
       0.8857, 
       1.0673
-    ]
+    ], 
+    "gph": 690.4, 
+    "osn": 668.9
   }, 
   "sailnumber": "ITA14481", 
   "name": "EMANUELA", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.8, 
       "loa": 11.24, 
       "draft": 1.98, 
+      "wetted_surface": 28.7, 
       "main": 30.0, 
       "genoa": 46.5, 
       "displacement": 6933.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1982"
   }, 

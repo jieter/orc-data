@@ -5,12 +5,13 @@
       1.2065, 
       1.3619
     ], 
-    "gph": 633.2, 
     "triple_inshore": [
       0.7097, 
       0.976, 
       1.1394
-    ]
+    ], 
+    "gph": 633.2, 
+    "osn": 616.0
   }, 
   "sailnumber": "NED406", 
   "name": "Bestevaer", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.6, 
       "loa": 11.01, 
       "draft": 2.05, 
+      "wetted_surface": 26.8, 
       "main": 45.5, 
       "genoa": 28.0, 
       "displacement": 5333.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1991"
   }, 

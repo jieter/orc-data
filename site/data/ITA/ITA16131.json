@@ -5,12 +5,13 @@
       1.2565, 
       1.424
     ], 
-    "gph": 608.9, 
     "triple_inshore": [
       0.7343, 
       1.0117, 
       1.1891
-    ]
+    ], 
+    "gph": 608.9, 
+    "osn": 591.3
   }, 
   "sailnumber": "ITA16131", 
   "name": "ALVAROSKY", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.4, 
       "loa": 11.99, 
       "draft": 2.21, 
+      "wetted_surface": 31.4, 
       "main": 48.0, 
       "genoa": 37.2, 
       "displacement": 7214.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "2001"
   }, 

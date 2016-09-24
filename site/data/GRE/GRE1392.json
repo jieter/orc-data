@@ -5,12 +5,13 @@
       1.1134, 
       1.2833
     ], 
-    "gph": 689.1, 
     "triple_inshore": [
       0.6393, 
       0.8859, 
       1.0631
-    ]
+    ], 
+    "gph": 689.1, 
+    "osn": 668.1
   }, 
   "sailnumber": "GRE1392", 
   "name": "XANTHIPI", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.7, 
       "loa": 11.298, 
       "draft": 1.86, 
+      "wetted_surface": 28.9, 
       "main": 26.2, 
       "genoa": 37.6, 
       "displacement": 6940.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 675.0
     }, 
     "year": "1980"
   }, 

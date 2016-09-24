@@ -5,12 +5,13 @@
       1.2322, 
       1.3891
     ], 
-    "gph": 621.1, 
     "triple_inshore": [
       0.722, 
       0.993, 
       1.1672
-    ]
+    ], 
+    "gph": 621.1, 
+    "osn": 602.9
   }, 
   "sailnumber": "ESP9506", 
   "name": "GARNATXA III", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.1, 
       "loa": 11.34, 
       "draft": 2.31, 
+      "wetted_surface": 31.7, 
       "main": 46.4, 
       "genoa": 34.9, 
       "displacement": 7489.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "2008"
   }, 

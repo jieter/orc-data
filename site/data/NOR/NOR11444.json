@@ -5,12 +5,13 @@
       1.3278, 
       1.5017
     ], 
-    "gph": 575.0, 
     "triple_inshore": [
       0.7771, 
       1.0637, 
       1.2475
-    ]
+    ], 
+    "gph": 575.0, 
+    "osn": 560.2
   }, 
   "sailnumber": "NOR11444", 
   "name": "Safir", 
@@ -25,10 +26,12 @@
       "spinnaker": 123.2, 
       "loa": 13.35, 
       "draft": 2.3, 
+      "wetted_surface": 38.9, 
       "main": 57.5, 
       "genoa": 63.9, 
       "displacement": 10110.0, 
-      "spinnaker_asym": 155.0
+      "spinnaker_asym": 155.0, 
+      "crew": 898.0
     }, 
     "year": "2002"
   }, 

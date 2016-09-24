@@ -5,12 +5,13 @@
       1.1481, 
       1.3101
     ], 
-    "gph": 666.6, 
     "triple_inshore": [
       0.6696, 
       0.9292, 
       1.0942
-    ]
+    ], 
+    "gph": 666.6, 
+    "osn": 646.3
   }, 
   "sailnumber": "ESP5685_C", 
   "name": "MARINA SEIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.6, 
       "loa": 9.49, 
       "draft": 1.94, 
+      "wetted_surface": 21.6, 
       "main": 25.7, 
       "genoa": 31.5, 
       "displacement": 3712.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1998"
   }, 

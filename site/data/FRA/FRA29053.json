@@ -5,12 +5,13 @@
       1.1839, 
       1.3817
     ], 
-    "gph": 648.4, 
     "triple_inshore": [
       0.6757, 
       0.9497, 
       1.1385
-    ]
+    ], 
+    "gph": 648.4, 
+    "osn": 627.1
   }, 
   "sailnumber": "FRA29053", 
   "name": "GUMMO", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.6, 
       "loa": 10.0, 
       "draft": 1.98, 
+      "wetted_surface": 24.4, 
       "main": 32.0, 
       "genoa": 20.6, 
       "displacement": 3869.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "2002"
   }, 

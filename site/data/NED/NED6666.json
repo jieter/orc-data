@@ -5,12 +5,13 @@
       1.0937, 
       1.2293
     ], 
-    "gph": 696.1, 
     "triple_inshore": [
       0.6544, 
       0.8849, 
       1.0295
-    ]
+    ], 
+    "gph": 696.1, 
+    "osn": 677.9
   }, 
   "sailnumber": "NED6666", 
   "name": "Njord", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.8, 
       "loa": 9.868, 
       "draft": 1.79, 
+      "wetted_surface": 20.7, 
       "main": 25.8, 
       "genoa": 32.8, 
       "displacement": 4297.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 509.0
     }, 
     "year": "1978"
   }, 

@@ -5,12 +5,13 @@
       1.0987, 
       1.2701
     ], 
-    "gph": 700.6, 
     "triple_inshore": [
       0.6251, 
       0.8783, 
       1.0601
-    ]
+    ], 
+    "gph": 700.6, 
+    "osn": 677.2
   }, 
   "sailnumber": "ESP7329_C", 
   "name": "KROMI", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.3, 
       "loa": 10.54, 
       "draft": 1.93, 
+      "wetted_surface": 25.2, 
       "main": 27.5, 
       "genoa": 32.1, 
       "displacement": 5593.0, 
-      "spinnaker_asym": 67.0
+      "spinnaker_asym": 67.0, 
+      "crew": 340.0
     }, 
     "year": "1984"
   }, 

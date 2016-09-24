@@ -5,12 +5,13 @@
       1.1106, 
       1.2725
     ], 
-    "gph": 691.8, 
     "triple_inshore": [
       0.6378, 
       0.8928, 
       1.0614
-    ]
+    ], 
+    "gph": 691.8, 
+    "osn": 669.5
   }, 
   "sailnumber": "ESP5448_C", 
   "name": "LAGUN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.49, 
       "draft": 1.92, 
+      "wetted_surface": 22.1, 
       "main": 23.9, 
       "genoa": 25.4, 
       "displacement": 3712.0, 
-      "spinnaker_asym": 49.0
+      "spinnaker_asym": 49.0, 
+      "crew": 160.0
     }, 
     "year": "1998"
   }, 

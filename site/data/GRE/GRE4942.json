@@ -5,12 +5,13 @@
       0.9136, 
       1.0405
     ], 
-    "gph": 838.8, 
     "triple_inshore": [
       0.532, 
       0.7341, 
       0.8649
-    ]
+    ], 
+    "gph": 838.8, 
+    "osn": 813.1
   }, 
   "sailnumber": "GRE4942", 
   "name": "SIBYLLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 41.0, 
       "loa": 7.249, 
       "draft": 1.42, 
+      "wetted_surface": 13.0, 
       "main": 12.1, 
       "genoa": 20.9, 
       "displacement": 2147.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 280.0
     }, 
     "year": "1973"
   }, 

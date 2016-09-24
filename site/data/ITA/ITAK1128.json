@@ -5,12 +5,13 @@
       1.249, 
       1.4029
     ], 
-    "gph": 591.7, 
     "triple_inshore": [
       0.8286, 
       1.0197, 
       1.1922
-    ]
+    ], 
+    "gph": 591.7, 
+    "osn": 584.1
   }, 
   "sailnumber": "ITAK1128", 
   "name": "TOMAHAWK", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.5, 
       "draft": 2.3, 
+      "wetted_surface": 12.8, 
       "main": 30.2, 
       "genoa": 20.5, 
       "displacement": 1125.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 425.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.2092, 
       1.3738
     ], 
-    "gph": 632.4, 
     "triple_inshore": [
       0.7096, 
       0.9797, 
       1.1535
-    ]
+    ], 
+    "gph": 632.4, 
+    "osn": 612.7
   }, 
   "sailnumber": "GER6835", 
   "name": "LOTTCHEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.5, 
       "loa": 10.455, 
       "draft": 2.23, 
+      "wetted_surface": 28.4, 
       "main": 41.1, 
       "genoa": 31.0, 
       "displacement": 5979.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 770.0
     }, 
     "year": "2009"
   }, 

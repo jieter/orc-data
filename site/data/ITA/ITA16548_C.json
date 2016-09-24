@@ -5,12 +5,13 @@
       1.3944, 
       1.6002
     ], 
-    "gph": 551.4, 
     "triple_inshore": [
       0.7918, 
       1.1061, 
       1.3091
-    ]
+    ], 
+    "gph": 551.4, 
+    "osn": 535.5
   }, 
   "sailnumber": "ITA16548_C", 
   "name": "STAMITZ", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.9, 
       "draft": 2.55, 
+      "wetted_surface": 50.5, 
       "main": 75.4, 
       "genoa": 57.9, 
       "displacement": 13645.0, 
-      "spinnaker_asym": 165.0
+      "spinnaker_asym": 165.0, 
+      "crew": 380.0
     }, 
     "year": "2007"
   }, 

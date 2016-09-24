@@ -5,12 +5,13 @@
       1.0634, 
       1.2293
     ], 
-    "gph": 723.9, 
     "triple_inshore": [
       0.6001, 
       0.8506, 
       1.0276
-    ]
+    ], 
+    "gph": 723.9, 
+    "osn": 701.1
   }, 
   "sailnumber": "GRE1495", 
   "name": "CRISTEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.307, 
       "draft": 2.01, 
+      "wetted_surface": 27.7, 
       "main": 26.4, 
       "genoa": 49.7, 
       "displacement": 7030.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1976"
   }, 

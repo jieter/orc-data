@@ -5,12 +5,13 @@
       1.5454, 
       1.795
     ], 
-    "gph": 493.8, 
     "triple_inshore": [
       0.8999, 
       1.2314, 
       1.4437
-    ]
+    ], 
+    "gph": 493.8, 
+    "osn": 479.4
   }, 
   "sailnumber": "GER6365", 
   "name": "SHAKTI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.03, 
       "draft": 2.91, 
+      "wetted_surface": 38.2, 
       "main": 71.3, 
       "genoa": 51.7, 
       "displacement": 6474.0, 
-      "spinnaker_asym": 200.0
+      "spinnaker_asym": 200.0, 
+      "crew": 1020.0
     }, 
     "year": "2006"
   }, 

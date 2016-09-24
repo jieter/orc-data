@@ -5,12 +5,13 @@
       1.0075, 
       1.1143
     ], 
-    "gph": 747.7, 
     "triple_inshore": [
       0.6277, 
       0.8246, 
       0.9184
-    ]
+    ], 
+    "gph": 747.7, 
+    "osn": 732.3
   }, 
   "sailnumber": "NOR5280", 
   "name": "Back in black", 
@@ -25,10 +26,12 @@
       "spinnaker": 25.1, 
       "loa": 6.86, 
       "draft": 1.41, 
+      "wetted_surface": 8.7, 
       "main": 16.8, 
       "genoa": 12.7, 
       "displacement": 807.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 248.0
     }, 
     "year": "1985"
   }, 

@@ -5,12 +5,13 @@
       1.2142, 
       1.396
     ], 
-    "gph": 631.5, 
     "triple_inshore": [
       0.6972, 
       0.9632, 
       1.1539
-    ]
+    ], 
+    "gph": 631.5, 
+    "osn": 613.2
   }, 
   "sailnumber": "NED7086", 
   "name": "TWISTER", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.06, 
       "draft": 2.1, 
+      "wetted_surface": 32.6, 
       "main": 44.2, 
       "genoa": 40.3, 
       "displacement": 8091.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 777.0
     }, 
     "year": "2003"
   }, 

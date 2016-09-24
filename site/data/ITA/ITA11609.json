@@ -5,12 +5,13 @@
       1.1861, 
       1.3282
     ], 
-    "gph": 640.9, 
     "triple_inshore": [
       0.7096, 
       0.9534, 
       1.1053
-    ]
+    ], 
+    "gph": 640.9, 
+    "osn": 626.2
   }, 
   "sailnumber": "ITA11609", 
   "name": "SHERAZADE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.977, 
       "draft": 2.03, 
+      "wetted_surface": 25.3, 
       "main": 31.0, 
       "genoa": 53.1, 
       "displacement": 5386.0, 
-      "spinnaker_asym": 86.0
+      "spinnaker_asym": 86.0, 
+      "crew": 600.0
     }, 
     "year": "1989"
   }, 

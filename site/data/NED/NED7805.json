@@ -5,12 +5,13 @@
       1.2651, 
       1.4422
     ], 
-    "gph": 606.9, 
     "triple_inshore": [
       0.728, 
       1.0074, 
       1.193
-    ]
+    ], 
+    "gph": 606.9, 
+    "osn": 588.4
   }, 
   "sailnumber": "NED7805", 
   "name": "Siren Song", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.49, 
       "draft": 2.32, 
+      "wetted_surface": 37.8, 
       "main": 51.9, 
       "genoa": 35.5, 
       "displacement": 9777.0, 
-      "spinnaker_asym": 118.0
+      "spinnaker_asym": 118.0, 
+      "crew": 600.0
     }, 
     "year": "2006"
   }, 

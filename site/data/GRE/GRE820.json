@@ -5,12 +5,13 @@
       1.2264, 
       1.3982
     ], 
-    "gph": 624.3, 
     "triple_inshore": [
       0.7132, 
       0.9862, 
       1.1678
-    ]
+    ], 
+    "gph": 624.3, 
+    "osn": 605.7
   }, 
   "sailnumber": "GRE820", 
   "name": "MELISSA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.8, 
       "loa": 11.71, 
       "draft": 2.44, 
+      "wetted_surface": 33.5, 
       "main": 42.3, 
       "genoa": 47.3, 
       "displacement": 7810.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1999"
   }, 

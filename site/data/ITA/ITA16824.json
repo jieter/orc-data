@@ -5,12 +5,13 @@
       1.2459, 
       1.4139
     ], 
-    "gph": 614.2, 
     "triple_inshore": [
       0.7274, 
       1.0052, 
       1.178
-    ]
+    ], 
+    "gph": 614.2, 
+    "osn": 596.0
   }, 
   "sailnumber": "ITA16824", 
   "name": "LOLLOLILLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.4, 
       "loa": 10.97, 
       "draft": 2.17, 
+      "wetted_surface": 28.6, 
       "main": 43.0, 
       "genoa": 32.7, 
       "displacement": 5912.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 630.0
     }, 
     "year": "2011"
   }, 

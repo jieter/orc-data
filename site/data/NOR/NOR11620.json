@@ -5,12 +5,13 @@
       1.2375, 
       1.3856
     ], 
-    "gph": 614.9, 
     "triple_inshore": [
       0.7375, 
       0.9987, 
       1.1596
-    ]
+    ], 
+    "gph": 614.9, 
+    "osn": 600.1
   }, 
   "sailnumber": "NOR11620", 
   "name": "MetaXa", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.9, 
       "loa": 11.35, 
       "draft": 2.04, 
+      "wetted_surface": 29.9, 
       "main": 47.6, 
       "genoa": 43.2, 
       "displacement": 7105.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 720.0
     }, 
     "year": "2004"
   }, 

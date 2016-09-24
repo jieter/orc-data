@@ -5,12 +5,13 @@
       1.1867, 
       1.377
     ], 
-    "gph": 650.7, 
     "triple_inshore": [
       0.659, 
       0.9252, 
       1.1086
-    ]
+    ], 
+    "gph": 650.7, 
+    "osn": 630.9
   }, 
   "sailnumber": "ESP10010", 
   "name": "SALAO DOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.94, 
       "draft": 1.83, 
+      "wetted_surface": 38.5, 
       "main": 43.6, 
       "genoa": 35.9, 
       "displacement": 9237.0, 
-      "spinnaker_asym": 112.0
+      "spinnaker_asym": 112.0, 
+      "crew": 660.0
     }, 
     "year": "2004"
   }, 

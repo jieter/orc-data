@@ -5,12 +5,13 @@
       1.2109, 
       1.3844
     ], 
-    "gph": 632.7, 
     "triple_inshore": [
       0.6999, 
       0.9717, 
       1.1547
-    ]
+    ], 
+    "gph": 632.7, 
+    "osn": 613.7
   }, 
   "sailnumber": "NOR13582", 
   "name": "MoJo", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.29, 
       "draft": 2.04, 
+      "wetted_surface": 29.6, 
       "main": 43.6, 
       "genoa": 30.2, 
       "displacement": 6653.0, 
-      "spinnaker_asym": 78.0
+      "spinnaker_asym": 78.0, 
+      "crew": 733.0
     }, 
     "year": "2005"
   }, 

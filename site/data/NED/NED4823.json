@@ -5,12 +5,13 @@
       1.2967, 
       1.4839
     ], 
-    "gph": 592.8, 
     "triple_inshore": [
       0.7454, 
       1.041, 
       1.2466
-    ]
+    ], 
+    "gph": 592.8, 
+    "osn": 573.4
   }, 
   "sailnumber": "NED4823", 
   "name": "MAGIC MACHINE", 
@@ -25,10 +26,12 @@
       "spinnaker": 156.5, 
       "loa": 13.61, 
       "draft": 2.88, 
+      "wetted_surface": 45.6, 
       "main": 53.6, 
       "genoa": 55.5, 
       "displacement": 13337.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 669.0
     }, 
     "year": "1991"
   }, 

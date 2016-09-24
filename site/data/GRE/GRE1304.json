@@ -5,12 +5,13 @@
       1.1432, 
       1.3675
     ], 
-    "gph": 679.5, 
     "triple_inshore": [
       0.6138, 
       0.8847, 
       1.0952
-    ]
+    ], 
+    "gph": 679.5, 
+    "osn": 656.2
   }, 
   "sailnumber": "GRE1304", 
   "name": "OCEANOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.645, 
       "draft": 1.64, 
+      "wetted_surface": 37.0, 
       "main": 32.2, 
       "genoa": 41.4, 
       "displacement": 9600.0, 
-      "spinnaker_asym": 104.0
+      "spinnaker_asym": 104.0, 
+      "crew": 750.0
     }, 
     "year": "2002"
   }, 

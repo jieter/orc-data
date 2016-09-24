@@ -5,12 +5,13 @@
       1.0685, 
       1.2203
     ], 
-    "gph": 715.9, 
     "triple_inshore": [
       0.6242, 
       0.8618, 
       1.0217
-    ]
+    ], 
+    "gph": 715.9, 
+    "osn": 694.6
   }, 
   "sailnumber": "NED8531", 
   "name": "Bojangles", 
@@ -25,10 +26,12 @@
       "spinnaker": 51.1, 
       "loa": 9.43, 
       "draft": 1.51, 
+      "wetted_surface": 20.5, 
       "main": 26.1, 
       "genoa": 23.3, 
       "displacement": 3901.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 494.0
     }, 
     "year": "1985"
   }, 

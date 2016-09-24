@@ -5,12 +5,13 @@
       1.2478, 
       1.4078
     ], 
-    "gph": 610.1, 
     "triple_inshore": [
       0.7434, 
       1.0113, 
       1.1728
-    ]
+    ], 
+    "gph": 610.1, 
+    "osn": 593.8
   }, 
   "sailnumber": "FIN15476", 
   "name": "Kind of Magic", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.5, 
       "loa": 11.36, 
       "draft": 2.11, 
+      "wetted_surface": 27.7, 
       "main": 38.4, 
       "genoa": 46.7, 
       "displacement": 5549.0, 
-      "spinnaker_asym": 92.0
+      "spinnaker_asym": 92.0, 
+      "crew": 750.0
     }, 
     "year": "1992"
   }, 

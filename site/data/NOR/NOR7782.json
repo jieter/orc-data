@@ -5,12 +5,13 @@
       1.0898, 
       1.2223
     ], 
-    "gph": 699.8, 
     "triple_inshore": [
       0.6458, 
       0.8809, 
       1.023
-    ]
+    ], 
+    "gph": 699.8, 
+    "osn": 681.2
   }, 
   "sailnumber": "NOR7782", 
   "name": "Dancing Queen", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.8, 
       "loa": 9.75, 
       "draft": 1.72, 
+      "wetted_surface": 22.7, 
       "main": 32.4, 
       "genoa": 29.3, 
       "displacement": 4880.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 492.0
     }, 
     "year": "1988"
   }, 

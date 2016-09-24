@@ -5,12 +5,13 @@
       1.081, 
       1.2353
     ], 
-    "gph": 708.7, 
     "triple_inshore": [
       0.6261, 
       0.8665, 
       1.0273
-    ]
+    ], 
+    "gph": 708.7, 
+    "osn": 687.9
   }, 
   "sailnumber": "ITA17040", 
   "name": "LADY ELEONORA", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.8, 
       "loa": 10.111, 
       "draft": 1.8, 
+      "wetted_surface": 23.2, 
       "main": 28.3, 
       "genoa": 34.0, 
       "displacement": 4898.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1976"
   }, 

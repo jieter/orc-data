@@ -5,12 +5,13 @@
       1.3332, 
       1.5005
     ], 
-    "gph": 573.2, 
     "triple_inshore": [
       0.7819, 
       1.0644, 
       1.2366
-    ]
+    ], 
+    "gph": 573.2, 
+    "osn": 558.1
   }, 
   "sailnumber": "ESP4386_C", 
   "name": "BARBABLU", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.34, 
       "draft": 2.4, 
+      "wetted_surface": 44.3, 
       "main": 68.5, 
       "genoa": 52.8, 
       "displacement": 12325.0, 
-      "spinnaker_asym": 186.0
+      "spinnaker_asym": 186.0, 
+      "crew": 655.0
     }, 
     "year": "1988"
   }, 

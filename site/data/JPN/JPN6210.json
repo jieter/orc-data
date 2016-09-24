@@ -5,12 +5,13 @@
       1.2639, 
       1.4452
     ], 
-    "gph": 603.2, 
     "triple_inshore": [
       0.7409, 
       1.022, 
       1.1976
-    ]
+    ], 
+    "gph": 603.2, 
+    "osn": 587.0
   }, 
   "sailnumber": "JPN6210", 
   "name": "RAIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.5, 
       "loa": 10.99, 
       "draft": 2.05, 
+      "wetted_surface": 25.4, 
       "main": 41.3, 
       "genoa": 37.1, 
       "displacement": 4262.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 656.0
     }, 
     "year": "1993"
   }, 

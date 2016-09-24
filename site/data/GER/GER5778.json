@@ -5,12 +5,13 @@
       1.3989, 
       1.6072
     ], 
-    "gph": 546.9, 
     "triple_inshore": [
       0.8107, 
       1.1237, 
       1.3205
-    ]
+    ], 
+    "gph": 546.9, 
+    "osn": 531.2
   }, 
   "sailnumber": "GER5778", 
   "name": "NEROROSSOVENTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 124.2, 
       "loa": 13.87, 
       "draft": 2.79, 
+      "wetted_surface": 35.0, 
       "main": 65.3, 
       "genoa": 42.1, 
       "displacement": 7004.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "1991"
   }, 

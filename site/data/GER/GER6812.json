@@ -5,12 +5,13 @@
       1.0766, 
       1.2366
     ], 
-    "gph": 714.4, 
     "triple_inshore": [
       0.6109, 
       0.8614, 
       1.0224
-    ]
+    ], 
+    "gph": 714.4, 
+    "osn": 692.8
   }, 
   "sailnumber": "GER6812", 
   "name": "MANANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 35.9, 
       "loa": 10.0, 
       "draft": 1.31, 
+      "wetted_surface": 15.3, 
       "main": 20.7, 
       "genoa": 14.3, 
       "displacement": 2210.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 240.0
     }, 
     "year": "1945"
   }, 

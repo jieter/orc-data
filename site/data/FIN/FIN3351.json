@@ -5,12 +5,13 @@
       1.1262, 
       1.2648
     ], 
-    "gph": 676.2, 
     "triple_inshore": [
       0.6705, 
       0.9086, 
       1.057
-    ]
+    ], 
+    "gph": 676.2, 
+    "osn": 658.9
   }, 
   "sailnumber": "FIN3351", 
   "name": "Tiare", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.4, 
       "loa": 10.543, 
       "draft": 1.88, 
+      "wetted_surface": 24.2, 
       "main": 38.8, 
       "genoa": 31.7, 
       "displacement": 5817.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1985"
   }, 

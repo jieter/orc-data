@@ -5,12 +5,13 @@
       1.2112, 
       1.3647
     ], 
-    "gph": 630.6, 
     "triple_inshore": [
       0.7147, 
       0.9767, 
       1.1409
-    ]
+    ], 
+    "gph": 630.6, 
+    "osn": 613.4
   }, 
   "sailnumber": "ESP7363", 
   "name": "PRESTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.4, 
       "loa": 10.84, 
       "draft": 2.09, 
+      "wetted_surface": 27.4, 
       "main": 40.9, 
       "genoa": 29.7, 
       "displacement": 6162.0, 
-      "spinnaker_asym": 77.0
+      "spinnaker_asym": 77.0, 
+      "crew": 450.0
     }, 
     "year": "2005"
   }, 

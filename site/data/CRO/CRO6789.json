@@ -5,12 +5,13 @@
       1.5858, 
       1.7976
     ], 
-    "gph": 481.1, 
     "triple_inshore": [
       0.9292, 
       1.2688, 
       1.4774
-    ]
+    ], 
+    "gph": 481.1, 
+    "osn": 468.5
   }, 
   "sailnumber": "CRO6789", 
   "name": "Marina Kastela", 
@@ -25,10 +26,12 @@
       "spinnaker": 263.4, 
       "loa": 17.4, 
       "draft": 3.33, 
+      "wetted_surface": 56.3, 
       "main": 124.3, 
       "genoa": 78.1, 
       "displacement": 14746.0, 
-      "spinnaker_asym": 255.0
+      "spinnaker_asym": 255.0, 
+      "crew": 1330.0
     }, 
     "year": "2003"
   }, 

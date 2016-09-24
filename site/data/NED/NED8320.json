@@ -5,12 +5,13 @@
       1.0891, 
       1.2357
     ], 
-    "gph": 701.7, 
     "triple_inshore": [
       0.6402, 
       0.8809, 
       1.0363
-    ]
+    ], 
+    "gph": 701.7, 
+    "osn": 680.8
   }, 
   "sailnumber": "NED8320", 
   "name": "Dehlemma", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.5, 
       "loa": 8.75, 
       "draft": 1.62, 
+      "wetted_surface": 19.9, 
       "main": 25.9, 
       "genoa": 21.1, 
       "displacement": 3701.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1997"
   }, 

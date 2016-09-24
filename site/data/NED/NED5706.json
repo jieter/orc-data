@@ -5,12 +5,13 @@
       1.1263, 
       1.278
     ], 
-    "gph": 676.7, 
     "triple_inshore": [
       0.6705, 
       0.9073, 
       1.0726
-    ]
+    ], 
+    "gph": 676.7, 
+    "osn": 657.3
   }, 
   "sailnumber": "NED5706", 
   "name": "SODRA ENDE", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.2, 
       "loa": 11.04, 
       "draft": 1.67, 
+      "wetted_surface": 30.1, 
       "main": 31.4, 
       "genoa": 41.6, 
       "displacement": 7954.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1988"
   }, 

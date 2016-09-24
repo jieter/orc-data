@@ -5,12 +5,13 @@
       1.3483, 
       1.5239
     ], 
-    "gph": 568.1, 
     "triple_inshore": [
       0.7821, 
       1.0792, 
       1.2533
-    ]
+    ], 
+    "gph": 568.1, 
+    "osn": 552.1
   }, 
   "sailnumber": "ESP10282", 
   "name": "YRCUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.89, 
       "draft": 2.39, 
+      "wetted_surface": 38.1, 
       "main": 59.5, 
       "genoa": 45.9, 
       "displacement": 8685.0, 
-      "spinnaker_asym": 159.0
+      "spinnaker_asym": 159.0, 
+      "crew": 880.0
     }, 
     "year": "2013"
   }, 

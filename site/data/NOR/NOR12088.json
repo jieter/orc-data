@@ -5,12 +5,13 @@
       1.2727, 
       1.4358
     ], 
-    "gph": 600.1, 
     "triple_inshore": [
       0.745, 
       1.0136, 
       1.1736
-    ]
+    ], 
+    "gph": 600.1, 
+    "osn": 584.7
   }, 
   "sailnumber": "NOR12088", 
   "name": "Ose", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 1.95, 
+      "wetted_surface": 34.7, 
       "main": 51.0, 
       "genoa": 51.3, 
       "displacement": 7918.0, 
-      "spinnaker_asym": 133.0
+      "spinnaker_asym": 133.0, 
+      "crew": 781.0
     }, 
     "year": "2002"
   }, 

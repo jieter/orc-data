@@ -5,12 +5,13 @@
       1.2717, 
       1.4775
     ], 
-    "gph": 605.7, 
     "triple_inshore": [
       0.716, 
       1.009, 
       1.2169
-    ]
+    ], 
+    "gph": 605.7, 
+    "osn": 586.2
   }, 
   "sailnumber": "CRO2095", 
   "name": "Varianta", 
@@ -25,10 +26,12 @@
       "spinnaker": 114.0, 
       "loa": 13.15, 
       "draft": 2.18, 
+      "wetted_surface": 39.8, 
       "main": 54.5, 
       "genoa": 43.2, 
       "displacement": 9800.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 856.0
     }, 
     "year": "2010"
   }, 

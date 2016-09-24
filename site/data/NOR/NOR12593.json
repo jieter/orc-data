@@ -5,12 +5,13 @@
       1.1037, 
       1.2459
     ], 
-    "gph": 690.4, 
     "triple_inshore": [
       0.6569, 
       0.8859, 
       1.0359
-    ]
+    ], 
+    "gph": 690.4, 
+    "osn": 671.6
   }, 
   "sailnumber": "NOR12593", 
   "name": "LilleFix", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.55, 
       "draft": 1.84, 
+      "wetted_surface": 22.3, 
       "main": 29.9, 
       "genoa": 24.8, 
       "displacement": 4684.0, 
-      "spinnaker_asym": 73.0
+      "spinnaker_asym": 73.0, 
+      "crew": 534.0
     }, 
     "year": "2007"
   }, 

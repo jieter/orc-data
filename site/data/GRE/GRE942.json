@@ -5,12 +5,13 @@
       0.9488, 
       1.0737
     ], 
-    "gph": 809.1, 
     "triple_inshore": [
       0.5476, 
       0.7643, 
       0.8909
-    ]
+    ], 
+    "gph": 809.1, 
+    "osn": 783.6
   }, 
   "sailnumber": "GRE942", 
   "name": "NOTOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.89, 
       "draft": 1.28, 
+      "wetted_surface": 16.1, 
       "main": 17.3, 
       "genoa": 23.2, 
       "displacement": 2418.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 391.0
     }, 
     "year": "1982"
   }, 

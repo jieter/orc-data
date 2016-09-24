@@ -5,12 +5,13 @@
       1.2171, 
       1.3541
     ], 
-    "gph": 625.8, 
     "triple_inshore": [
       0.7266, 
       0.9762, 
       1.1135
-    ]
+    ], 
+    "gph": 625.8, 
+    "osn": 610.2
   }, 
   "sailnumber": "ITA5311", 
   "name": "ZUMBETTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.815, 
       "draft": 2.09, 
+      "wetted_surface": 28.1, 
       "main": 37.9, 
       "genoa": 35.3, 
       "displacement": 5413.0, 
-      "spinnaker_asym": 117.0
+      "spinnaker_asym": 117.0, 
+      "crew": 500.0
     }, 
     "year": "2000"
   }, 

@@ -5,12 +5,13 @@
       1.2764, 
       1.4351
     ], 
-    "gph": 600.4, 
     "triple_inshore": [
       0.7424, 
       1.0229, 
       1.1854
-    ]
+    ], 
+    "gph": 600.4, 
+    "osn": 583.1
   }, 
   "sailnumber": "NED9112", 
   "name": "Ajeto", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.19, 
       "draft": 2.3, 
+      "wetted_surface": 33.8, 
       "main": 46.7, 
       "genoa": 38.8, 
       "displacement": 7329.0, 
-      "spinnaker_asym": 138.0
+      "spinnaker_asym": 138.0, 
+      "crew": 190.0
     }, 
     "year": "2006"
   }, 

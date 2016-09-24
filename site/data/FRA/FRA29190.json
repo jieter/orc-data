@@ -5,12 +5,13 @@
       1.3128, 
       1.5057
     ], 
-    "gph": 586.6, 
     "triple_inshore": [
       0.7372, 
       1.0289, 
       1.2229
-    ]
+    ], 
+    "gph": 586.6, 
+    "osn": 570.8
   }, 
   "sailnumber": "FRA29190", 
   "name": "COCHIEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.98, 
       "draft": 2.3, 
+      "wetted_surface": 49.9, 
       "main": 56.1, 
       "genoa": 86.1, 
       "displacement": 13056.0, 
-      "spinnaker_asym": 145.0
+      "spinnaker_asym": 145.0, 
+      "crew": 600.0
     }, 
     "year": "2000"
   }, 

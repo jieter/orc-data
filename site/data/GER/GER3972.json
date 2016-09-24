@@ -5,12 +5,13 @@
       1.2518, 
       1.4523
     ], 
-    "gph": 612.1, 
     "triple_inshore": [
       0.7184, 
       0.992, 
       1.2068
-    ]
+    ], 
+    "gph": 612.1, 
+    "osn": 594.5
   }, 
   "sailnumber": "GER3972", 
   "name": "LOGOFF", 
@@ -25,10 +26,12 @@
       "spinnaker": 169.2, 
       "loa": 14.517, 
       "draft": 2.41, 
+      "wetted_surface": 50.1, 
       "main": 55.6, 
       "genoa": 72.9, 
       "displacement": 17407.0, 
-      "spinnaker_asym": 170.0
+      "spinnaker_asym": 170.0, 
+      "crew": 928.0
     }, 
     "year": "1991"
   }, 

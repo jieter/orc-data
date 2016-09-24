@@ -5,12 +5,13 @@
       1.153, 
       1.3303
     ], 
-    "gph": 655.0, 
     "triple_inshore": [
       0.7028, 
       0.9286, 
       1.0762
-    ]
+    ], 
+    "gph": 655.0, 
+    "osn": 638.4
   }, 
   "sailnumber": "ITA046P", 
   "name": "OCAPPA", 
@@ -25,10 +26,12 @@
       "spinnaker": 46.3, 
       "loa": 7.495, 
       "draft": 1.76, 
+      "wetted_surface": 11.3, 
       "main": 18.8, 
       "genoa": 15.9, 
       "displacement": 850.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 255.0
     }, 
     "year": "1996"
   }, 

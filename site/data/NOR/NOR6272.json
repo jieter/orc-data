@@ -5,12 +5,13 @@
       1.0789, 
       1.237
     ], 
-    "gph": 709.4, 
     "triple_inshore": [
       0.6281, 
       0.8697, 
       1.0367
-    ]
+    ], 
+    "gph": 709.4, 
+    "osn": 687.9
   }, 
   "sailnumber": "NOR6272", 
   "name": "Bat", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.3, 
       "loa": 9.458, 
       "draft": 1.73, 
+      "wetted_surface": 21.8, 
       "main": 26.2, 
       "genoa": 25.8, 
       "displacement": 4181.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 514.0
     }, 
     "year": "1985"
   }, 

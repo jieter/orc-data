@@ -5,12 +5,13 @@
       1.1332, 
       1.3254
     ], 
-    "gph": 674.8, 
     "triple_inshore": [
       0.6564, 
       0.8909, 
       1.0881
-    ]
+    ], 
+    "gph": 674.8, 
+    "osn": 655.5
   }, 
   "sailnumber": "NED7518", 
   "name": "De Ruyter", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.399, 
       "draft": 2.71, 
+      "wetted_surface": 37.4, 
       "main": 42.0, 
       "genoa": 43.1, 
       "displacement": 14882.0, 
-      "spinnaker_asym": 123.0
+      "spinnaker_asym": 123.0, 
+      "crew": 752.0
     }, 
     "year": "1984"
   }, 

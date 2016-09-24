@@ -5,12 +5,13 @@
       1.1249, 
       1.247
     ], 
-    "gph": 678.9, 
     "triple_inshore": [
       0.6663, 
       0.899, 
       1.026
-    ]
+    ], 
+    "gph": 678.9, 
+    "osn": 661.7
   }, 
   "sailnumber": "ITAAREQU", 
   "name": "AREQUIPA 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.72, 
       "draft": 1.82, 
+      "wetted_surface": 21.9, 
       "main": 30.2, 
       "genoa": 25.4, 
       "displacement": 4125.0, 
-      "spinnaker_asym": 72.0
+      "spinnaker_asym": 72.0, 
+      "crew": 500.0
     }, 
     "year": "2004"
   }, 

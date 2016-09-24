@@ -5,12 +5,13 @@
       1.1283, 
       1.295
     ], 
-    "gph": 680.4, 
     "triple_inshore": [
       0.6497, 
       0.91, 
       1.0808
-    ]
+    ], 
+    "gph": 680.4, 
+    "osn": 657.9
   }, 
   "sailnumber": "NED7585", 
   "name": "The 1st One", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.8, 
       "loa": 9.49, 
       "draft": 1.92, 
+      "wetted_surface": 22.0, 
       "main": 26.3, 
       "genoa": 20.5, 
       "displacement": 3679.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1998"
   }, 

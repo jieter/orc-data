@@ -5,12 +5,13 @@
       1.0542, 
       1.209
     ], 
-    "gph": 726.8, 
     "triple_inshore": [
       0.6146, 
       0.8501, 
       1.0113
-    ]
+    ], 
+    "gph": 726.8, 
+    "osn": 703.8
   }, 
   "sailnumber": "GRE1040", 
   "name": "SOKRATIS P.", 
@@ -25,10 +26,12 @@
       "spinnaker": 53.0, 
       "loa": 9.25, 
       "draft": 1.72, 
+      "wetted_surface": 19.7, 
       "main": 19.3, 
       "genoa": 24.8, 
       "displacement": 3585.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 485.0
     }, 
     "year": "1986"
   }, 

@@ -5,12 +5,13 @@
       1.1318, 
       1.2975
     ], 
-    "gph": 676.9, 
     "triple_inshore": [
       0.6525, 
       0.9008, 
       1.076
-    ]
+    ], 
+    "gph": 676.9, 
+    "osn": 657.7
   }, 
   "sailnumber": "ITA16723", 
   "name": "ATTENTI AL LUPO", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.0, 
       "loa": 11.42, 
       "draft": 1.85, 
+      "wetted_surface": 32.7, 
       "main": 31.9, 
       "genoa": 50.2, 
       "displacement": 8055.0, 
-      "spinnaker_asym": 85.0
+      "spinnaker_asym": 85.0, 
+      "crew": 350.0
     }, 
     "year": "1995"
   }, 

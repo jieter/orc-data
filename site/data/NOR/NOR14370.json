@@ -5,12 +5,13 @@
       1.1432, 
       1.3026
     ], 
-    "gph": 669.2, 
     "triple_inshore": [
       0.6676, 
       0.9188, 
       1.084
-    ]
+    ], 
+    "gph": 669.2, 
+    "osn": 649.4
   }, 
   "sailnumber": "NOR14370", 
   "name": "Fri vind", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.4, 
       "loa": 10.35, 
       "draft": 1.74, 
+      "wetted_surface": 24.7, 
       "main": 34.2, 
       "genoa": 22.2, 
       "displacement": 5188.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 608.0
     }, 
     "year": "2005"
   }, 

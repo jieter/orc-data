@@ -5,12 +5,13 @@
       1.3565, 
       1.5418
     ], 
-    "gph": 563.9, 
     "triple_inshore": [
       0.7891, 
       1.087, 
       1.2765
-    ]
+    ], 
+    "gph": 563.9, 
+    "osn": 548.6
   }, 
   "sailnumber": "DEN201", 
   "name": "Stony 7", 
@@ -25,10 +26,12 @@
       "spinnaker": 139.9, 
       "loa": 13.305, 
       "draft": 2.35, 
+      "wetted_surface": 38.8, 
       "main": 62.4, 
       "genoa": 50.3, 
       "displacement": 9580.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 875.0
     }, 
     "year": "2010"
   }, 

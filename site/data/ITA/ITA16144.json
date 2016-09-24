@@ -5,12 +5,13 @@
       1.6546, 
       1.8914
     ], 
-    "gph": 463.9, 
     "triple_inshore": [
       0.9548, 
       1.3303, 
       1.5626
-    ]
+    ], 
+    "gph": 463.9, 
+    "osn": 449.6
   }, 
   "sailnumber": "ITA16144", 
   "name": "ITACENTODUE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 18.83, 
       "draft": 3.97, 
+      "wetted_surface": 64.1, 
       "main": 116.7, 
       "genoa": 92.6, 
       "displacement": 17370.0, 
-      "spinnaker_asym": 520.0
+      "spinnaker_asym": 520.0, 
+      "crew": 1360.0
     }, 
     "year": "2006"
   }, 

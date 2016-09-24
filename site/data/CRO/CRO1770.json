@@ -5,12 +5,13 @@
       1.1955, 
       1.3688
     ], 
-    "gph": 641.5, 
     "triple_inshore": [
       0.692, 
       0.9643, 
       1.1483
-    ]
+    ], 
+    "gph": 641.5, 
+    "osn": 620.6
   }, 
   "sailnumber": "CRO1770", 
   "name": "Juventus", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.3, 
       "loa": 10.66, 
       "draft": 2.23, 
+      "wetted_surface": 28.1, 
       "main": 38.0, 
       "genoa": 28.1, 
       "displacement": 6050.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 663.0
     }, 
     "year": "2009"
   }, 

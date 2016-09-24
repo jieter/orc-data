@@ -5,12 +5,13 @@
       1.1287, 
       1.2986
     ], 
-    "gph": 680.4, 
     "triple_inshore": [
       0.6421, 
       0.8907, 
       1.0678
-    ]
+    ], 
+    "gph": 680.4, 
+    "osn": 661.1
   }, 
   "sailnumber": "NOR11537", 
   "name": "Salome", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.64, 
       "draft": 1.7, 
+      "wetted_surface": 31.3, 
       "main": 48.3, 
       "genoa": 30.8, 
       "displacement": 8265.0, 
-      "spinnaker_asym": 63.0
+      "spinnaker_asym": 63.0, 
+      "crew": 687.0
     }, 
     "year": "2005"
   }, 

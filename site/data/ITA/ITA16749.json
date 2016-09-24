@@ -5,12 +5,13 @@
       1.3214, 
       1.4817
     ], 
-    "gph": 576.3, 
     "triple_inshore": [
       0.786, 
       1.0627, 
       1.2177
-    ]
+    ], 
+    "gph": 576.3, 
+    "osn": 561.4
   }, 
   "sailnumber": "ITA16749", 
   "name": "LEONE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 2.48, 
+      "wetted_surface": 30.6, 
       "main": 47.4, 
       "genoa": 51.7, 
       "displacement": 5940.0, 
-      "spinnaker_asym": 122.0
+      "spinnaker_asym": 122.0, 
+      "crew": 450.0
     }, 
     "year": "2003"
   }, 

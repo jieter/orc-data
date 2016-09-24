@@ -5,12 +5,13 @@
       1.2528, 
       1.4399
     ], 
-    "gph": 613.5, 
     "triple_inshore": [
       0.7143, 
       1.002, 
       1.1963
-    ]
+    ], 
+    "gph": 613.5, 
+    "osn": 594.3
   }, 
   "sailnumber": "GER2937", 
   "name": "DIESKOPP", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.3, 
       "loa": 12.094, 
       "draft": 2.55, 
+      "wetted_surface": 34.1, 
       "main": 50.6, 
       "genoa": 33.9, 
       "displacement": 7691.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 725.0
     }, 
     "year": "2006"
   }, 

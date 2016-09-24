@@ -5,12 +5,13 @@
       1.1373, 
       1.3186
     ], 
-    "gph": 676.6, 
     "triple_inshore": [
       0.6428, 
       0.9036, 
       1.0898
-    ]
+    ], 
+    "gph": 676.6, 
+    "osn": 655.5
   }, 
   "sailnumber": "GRE3000", 
   "name": "ANEMOESSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.8, 
       "loa": 10.96, 
       "draft": 1.55, 
+      "wetted_surface": 25.9, 
       "main": 24.4, 
       "genoa": 34.1, 
       "displacement": 5500.0, 
-      "spinnaker_asym": 64.0
+      "spinnaker_asym": 64.0, 
+      "crew": 400.0
     }, 
     "year": "2004"
   }, 

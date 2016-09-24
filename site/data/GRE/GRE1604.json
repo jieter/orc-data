@@ -5,12 +5,13 @@
       1.1325, 
       1.2861
     ], 
-    "gph": 673.4, 
     "triple_inshore": [
       0.6711, 
       0.9117, 
       1.0807
-    ]
+    ], 
+    "gph": 673.4, 
+    "osn": 654.3
   }, 
   "sailnumber": "GRE1604", 
   "name": "CHRISTINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.4, 
       "loa": 11.266, 
       "draft": 2.0, 
+      "wetted_surface": 28.6, 
       "main": 28.2, 
       "genoa": 48.5, 
       "displacement": 7850.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1978"
   }, 

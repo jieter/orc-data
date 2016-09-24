@@ -5,12 +5,13 @@
       1.0032, 
       1.1411
     ], 
-    "gph": 762.3, 
     "triple_inshore": [
       0.5904, 
       0.8112, 
       0.958
-    ]
+    ], 
+    "gph": 762.3, 
+    "osn": 739.3
   }, 
   "sailnumber": "FRA8033", 
   "name": "CIPANGO III", 
@@ -25,10 +26,12 @@
       "spinnaker": 53.8, 
       "loa": 8.248, 
       "draft": 1.68, 
+      "wetted_surface": 16.7, 
       "main": 15.8, 
       "genoa": 22.7, 
       "displacement": 3084.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1973"
   }, 

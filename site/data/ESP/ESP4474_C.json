@@ -5,12 +5,13 @@
       1.0938, 
       1.2579
     ], 
-    "gph": 702.1, 
     "triple_inshore": [
       0.6251, 
       0.8715, 
       1.0394
-    ]
+    ], 
+    "gph": 702.1, 
+    "osn": 680.4
   }, 
   "sailnumber": "ESP4474_C", 
   "name": "CRUZ DEL SUR", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.0, 
       "loa": 9.98, 
       "draft": 1.53, 
+      "wetted_surface": 23.3, 
       "main": 22.2, 
       "genoa": 34.3, 
       "displacement": 4504.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1986"
   }, 

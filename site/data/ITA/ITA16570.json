@@ -5,12 +5,13 @@
       1.2479, 
       1.4009
     ], 
-    "gph": 609.9, 
     "triple_inshore": [
       0.7344, 
       0.9986, 
       1.1498
-    ]
+    ], 
+    "gph": 609.9, 
+    "osn": 596.0
   }, 
   "sailnumber": "ITA16570", 
   "name": "ALDEBARAN 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.5, 
       "draft": 2.13, 
+      "wetted_surface": 26.2, 
       "main": 37.3, 
       "genoa": 30.1, 
       "displacement": 5016.0, 
-      "spinnaker_asym": 99.0
+      "spinnaker_asym": 99.0, 
+      "crew": 400.0
     }, 
     "year": "2001"
   }, 

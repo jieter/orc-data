@@ -5,12 +5,13 @@
       1.1066, 
       1.2484
     ], 
-    "gph": 687.4, 
     "triple_inshore": [
       0.6653, 
       0.8967, 
       1.0501
-    ]
+    ], 
+    "gph": 687.4, 
+    "osn": 668.6
   }, 
   "sailnumber": "NOR13508", 
   "name": "Bretanus III", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.7, 
       "loa": 10.32, 
       "draft": 1.87, 
+      "wetted_surface": 25.0, 
       "main": 34.1, 
       "genoa": 28.3, 
       "displacement": 6164.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 536.0
     }, 
     "year": "2008"
   }, 

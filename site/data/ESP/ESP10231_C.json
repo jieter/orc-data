@@ -5,12 +5,13 @@
       1.3474, 
       1.5413
     ], 
-    "gph": 569.5, 
     "triple_inshore": [
       0.7765, 
       1.082, 
       1.2877
-    ]
+    ], 
+    "gph": 569.5, 
+    "osn": 552.1
   }, 
   "sailnumber": "ESP10231_C", 
   "name": "SVINGA 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 148.7, 
       "loa": 13.665, 
       "draft": 2.75, 
+      "wetted_surface": 41.3, 
       "main": 64.1, 
       "genoa": 46.4, 
       "displacement": 10741.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "2007"
   }, 

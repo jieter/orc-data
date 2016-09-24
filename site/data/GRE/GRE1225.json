@@ -5,12 +5,13 @@
       1.0646, 
       1.2384
     ], 
-    "gph": 723.2, 
     "triple_inshore": [
       0.5984, 
       0.8379, 
       1.0128
-    ]
+    ], 
+    "gph": 723.2, 
+    "osn": 701.2
   }, 
   "sailnumber": "GRE1225", 
   "name": "NELA", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.7, 
       "loa": 10.54, 
       "draft": 1.49, 
+      "wetted_surface": 26.1, 
       "main": 25.9, 
       "genoa": 31.9, 
       "displacement": 5692.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 591.0
     }, 
     "year": "1990"
   }, 

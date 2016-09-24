@@ -5,12 +5,13 @@
       1.2171, 
       1.3893
     ], 
-    "gph": 630.0, 
     "triple_inshore": [
       0.7009, 
       0.9732, 
       1.1524
-    ]
+    ], 
+    "gph": 630.0, 
+    "osn": 611.4
   }, 
   "sailnumber": "ITA3157", 
   "name": "CUORE MATTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.8, 
       "loa": 11.27, 
       "draft": 2.01, 
+      "wetted_surface": 32.9, 
       "main": 44.7, 
       "genoa": 40.9, 
       "displacement": 7400.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2009"
   }, 

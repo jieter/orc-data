@@ -5,12 +5,13 @@
       1.3229, 
       1.4839
     ], 
-    "gph": 575.8, 
     "triple_inshore": [
       0.7888, 
       1.0709, 
       1.2371
-    ]
+    ], 
+    "gph": 575.8, 
+    "osn": 560.5
   }, 
   "sailnumber": "ITA15665", 
   "name": "JOX", 
@@ -25,10 +26,12 @@
       "spinnaker": 135.7, 
       "loa": 12.35, 
       "draft": 2.51, 
+      "wetted_surface": 33.0, 
       "main": 53.6, 
       "genoa": 44.1, 
       "displacement": 7207.0, 
-      "spinnaker_asym": 120.0
+      "spinnaker_asym": 120.0, 
+      "crew": 770.0
     }, 
     "year": "2007"
   }, 

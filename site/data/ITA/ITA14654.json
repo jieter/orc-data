@@ -5,12 +5,13 @@
       1.8244, 
       2.1046
     ], 
-    "gph": 417.2, 
     "triple_inshore": [
       1.0566, 
       1.433, 
       1.6888
-    ]
+    ], 
+    "gph": 417.2, 
+    "osn": 409.3
   }, 
   "sailnumber": "ITA14654", 
   "name": "IDRUSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 24.505, 
       "draft": 4.02, 
+      "wetted_surface": 82.6, 
       "main": 197.3, 
       "genoa": 143.6, 
       "displacement": 24767.0, 
-      "spinnaker_asym": 406.0
+      "spinnaker_asym": 406.0, 
+      "crew": 1900.0
     }, 
     "year": "1995"
   }, 

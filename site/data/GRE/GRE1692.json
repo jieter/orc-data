@@ -5,12 +5,13 @@
       0.9807, 
       1.1333
     ], 
-    "gph": 787.5, 
     "triple_inshore": [
       0.5471, 
       0.7667, 
       0.9186
-    ]
+    ], 
+    "gph": 787.5, 
+    "osn": 763.0
   }, 
   "sailnumber": "GRE1692", 
   "name": "PEGASUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.872, 
       "draft": 1.39, 
+      "wetted_surface": 18.7, 
       "main": 15.4, 
       "genoa": 23.4, 
       "displacement": 3100.0, 
-      "spinnaker_asym": 50.0
+      "spinnaker_asym": 50.0, 
+      "crew": 320.0
     }, 
     "year": "1989"
   }, 

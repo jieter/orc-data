@@ -5,12 +5,13 @@
       1.0249, 
       1.1866
     ], 
-    "gph": 750.1, 
     "triple_inshore": [
       0.5838, 
       0.8143, 
       0.9775
-    ]
+    ], 
+    "gph": 750.1, 
+    "osn": 726.9
   }, 
   "sailnumber": "ITABERNI", 
   "name": "BERNIE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.772, 
       "draft": 1.9, 
+      "wetted_surface": 18.8, 
       "main": 19.5, 
       "genoa": 23.6, 
       "displacement": 2801.0, 
-      "spinnaker_asym": 45.0
+      "spinnaker_asym": 45.0, 
+      "crew": 480.0
     }, 
     "year": "1989"
   }, 

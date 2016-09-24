@@ -5,12 +5,13 @@
       1.1579, 
       1.3114
     ], 
-    "gph": 658.6, 
     "triple_inshore": [
       0.6767, 
       0.9297, 
       1.0953
-    ]
+    ], 
+    "gph": 658.6, 
+    "osn": 642.7
   }, 
   "sailnumber": "ESP2937", 
   "name": "RETI", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.9, 
       "loa": 10.448, 
       "draft": 1.99, 
+      "wetted_surface": 24.4, 
       "main": 35.4, 
       "genoa": 29.2, 
       "displacement": 5434.0, 
-      "spinnaker_asym": 58.0
+      "spinnaker_asym": 58.0, 
+      "crew": 535.0
     }, 
     "year": "1989"
   }, 

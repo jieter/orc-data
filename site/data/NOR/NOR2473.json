@@ -5,12 +5,13 @@
       0.8179, 
       0.9322
     ], 
-    "gph": 938.7, 
     "triple_inshore": [
       0.4726, 
       0.6603, 
       0.7666
-    ]
+    ], 
+    "gph": 938.7, 
+    "osn": 906.7
   }, 
   "sailnumber": "NOR2473", 
   "name": "Karin", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 5.18, 
       "draft": 0.94, 
+      "wetted_surface": 8.3, 
       "main": 7.4, 
       "genoa": 8.9, 
       "displacement": 685.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 237.0
     }, 
     "year": "1968"
   }, 

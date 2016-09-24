@@ -5,12 +5,13 @@
       1.3268, 
       1.518
     ], 
-    "gph": 577.3, 
     "triple_inshore": [
       0.7679, 
       1.0624, 
       1.2671
-    ]
+    ], 
+    "gph": 577.3, 
+    "osn": 560.5
   }, 
   "sailnumber": "NED7754", 
   "name": "Who's next", 
@@ -25,10 +26,12 @@
       "spinnaker": 134.3, 
       "loa": 13.99, 
       "draft": 2.47, 
+      "wetted_surface": 40.7, 
       "main": 63.1, 
       "genoa": 48.1, 
       "displacement": 11929.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 871.0
     }, 
     "year": "2003"
   }, 

@@ -5,12 +5,13 @@
       1.4211, 
       1.6088
     ], 
-    "gph": 535.4, 
     "triple_inshore": [
       0.8472, 
       1.1436, 
       1.3096
-    ]
+    ], 
+    "gph": 535.4, 
+    "osn": 521.1
   }, 
   "sailnumber": "ITA17090", 
   "name": "ARLY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.085, 
       "draft": 3.39, 
+      "wetted_surface": 33.7, 
       "main": 59.5, 
       "genoa": 55.1, 
       "displacement": 6556.0, 
-      "spinnaker_asym": 137.0
+      "spinnaker_asym": 137.0, 
+      "crew": 912.0
     }, 
     "year": "1999"
   }, 

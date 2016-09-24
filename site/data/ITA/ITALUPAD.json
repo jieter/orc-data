@@ -5,12 +5,13 @@
       1.1116, 
       1.2611
     ], 
-    "gph": 687.9, 
     "triple_inshore": [
       0.6426, 
       0.8919, 
       1.0532
-    ]
+    ], 
+    "gph": 687.9, 
+    "osn": 671.0
   }, 
   "sailnumber": "ITALUPAD", 
   "name": "LUPA DI MARE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.02, 
       "draft": 1.9, 
+      "wetted_surface": 27.5, 
       "main": 32.3, 
       "genoa": 52.3, 
       "displacement": 6471.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1982"
   }, 

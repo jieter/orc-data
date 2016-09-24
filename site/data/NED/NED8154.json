@@ -5,12 +5,13 @@
       1.1286, 
       1.288
     ], 
-    "gph": 678.7, 
     "triple_inshore": [
       0.6573, 
       0.91, 
       1.0799
-    ]
+    ], 
+    "gph": 678.7, 
+    "osn": 657.2
   }, 
   "sailnumber": "NED8154", 
   "name": "Simply First", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.7, 
       "loa": 9.798, 
       "draft": 1.81, 
+      "wetted_surface": 24.1, 
       "main": 29.1, 
       "genoa": 23.7, 
       "displacement": 4849.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "1996"
   }, 

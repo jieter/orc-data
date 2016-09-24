@@ -5,12 +5,13 @@
       1.189, 
       1.3403
     ], 
-    "gph": 642.2, 
     "triple_inshore": [
       0.7017, 
       0.9599, 
       1.1187
-    ]
+    ], 
+    "gph": 642.2, 
+    "osn": 624.6
   }, 
   "sailnumber": "NOR14037", 
   "name": "Slappa 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.3, 
       "loa": 10.36, 
       "draft": 1.92, 
+      "wetted_surface": 25.9, 
       "main": 39.3, 
       "genoa": 28.3, 
       "displacement": 5585.0, 
-      "spinnaker_asym": 66.0
+      "spinnaker_asym": 66.0, 
+      "crew": 634.0
     }, 
     "year": "2008"
   }, 

@@ -5,12 +5,13 @@
       1.1423, 
       1.3342
     ], 
-    "gph": 674.3, 
     "triple_inshore": [
       0.6403, 
       0.9131, 
       1.1172
-    ]
+    ], 
+    "gph": 674.3, 
+    "osn": 653.5
   }, 
   "sailnumber": "NOR15394", 
   "name": "Sigvaldson", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 1.98, 
+      "wetted_surface": 33.0, 
       "main": 46.9, 
       "genoa": 30.2, 
       "displacement": 8970.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 735.0
     }, 
     "year": "2012"
   }, 

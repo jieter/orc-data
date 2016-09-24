@@ -5,12 +5,13 @@
       1.2306, 
       1.3816
     ], 
-    "gph": 619.9, 
     "triple_inshore": [
       0.7277, 
       0.9924, 
       1.1531
-    ]
+    ], 
+    "gph": 619.9, 
+    "osn": 603.6
   }, 
   "sailnumber": "ESP8267", 
   "name": "VELL MARI", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.0, 
       "loa": 11.345, 
       "draft": 2.02, 
+      "wetted_surface": 29.4, 
       "main": 43.8, 
       "genoa": 40.4, 
       "displacement": 6728.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 705.0
     }, 
     "year": "2004"
   }, 

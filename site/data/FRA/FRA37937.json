@@ -5,12 +5,13 @@
       1.2422, 
       1.405
     ], 
-    "gph": 615.5, 
     "triple_inshore": [
       0.7298, 
       1.0003, 
       1.1636
-    ]
+    ], 
+    "gph": 615.5, 
+    "osn": 597.0
   }, 
   "sailnumber": "FRA37937", 
   "name": "OURSY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.6, 
       "draft": 2.36, 
+      "wetted_surface": 26.6, 
       "main": 37.4, 
       "genoa": 29.3, 
       "displacement": 5223.0, 
-      "spinnaker_asym": 88.0
+      "spinnaker_asym": 88.0, 
+      "crew": 500.0
     }, 
     "year": "2010"
   }, 

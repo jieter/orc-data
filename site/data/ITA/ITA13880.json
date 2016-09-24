@@ -5,12 +5,13 @@
       1.2804, 
       1.4443
     ], 
-    "gph": 596.1, 
     "triple_inshore": [
       0.7558, 
       1.037, 
       1.2114
-    ]
+    ], 
+    "gph": 596.1, 
+    "osn": 579.5
   }, 
   "sailnumber": "ITA13880", 
   "name": "Blue Magic", 
@@ -25,10 +26,12 @@
       "spinnaker": 120.5, 
       "loa": 11.924, 
       "draft": 2.43, 
+      "wetted_surface": 31.6, 
       "main": 47.9, 
       "genoa": 46.9, 
       "displacement": 7350.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 748.0
     }, 
     "year": "1997"
   }, 

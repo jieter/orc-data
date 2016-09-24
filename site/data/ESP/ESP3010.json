@@ -5,12 +5,13 @@
       1.1434, 
       1.3011
     ], 
-    "gph": 669.5, 
     "triple_inshore": [
       0.6654, 
       0.9191, 
       1.0861
-    ]
+    ], 
+    "gph": 669.5, 
+    "osn": 649.9
   }, 
   "sailnumber": "ESP3010", 
   "name": "GENIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.2, 
       "loa": 10.448, 
       "draft": 1.87, 
+      "wetted_surface": 23.9, 
       "main": 34.5, 
       "genoa": 29.6, 
       "displacement": 5268.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 525.0
     }, 
     "year": "1988"
   }, 

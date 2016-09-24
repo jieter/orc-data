@@ -5,12 +5,13 @@
       1.0167, 
       1.1602
     ], 
-    "gph": 748.6, 
     "triple_inshore": [
       0.6044, 
       0.827, 
       0.9488
-    ]
+    ], 
+    "gph": 748.6, 
+    "osn": 726.3
   }, 
   "sailnumber": "ITA3J22", 
   "name": "MY ITALIAN DREAM", 
@@ -25,10 +26,12 @@
       "spinnaker": 30.3, 
       "loa": 6.853, 
       "draft": 1.17, 
+      "wetted_surface": 10.2, 
       "main": 13.9, 
       "genoa": 9.3, 
       "displacement": 848.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 235.0
     }, 
     "year": "1989"
   }, 

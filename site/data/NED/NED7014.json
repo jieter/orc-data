@@ -5,12 +5,13 @@
       1.1685, 
       1.3152
     ], 
-    "gph": 652.2, 
     "triple_inshore": [
       0.6923, 
       0.9365, 
       1.098
-    ]
+    ], 
+    "gph": 652.2, 
+    "osn": 635.8
   }, 
   "sailnumber": "NED7014", 
   "name": "Norrsken", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.309, 
       "draft": 2.02, 
+      "wetted_surface": 26.8, 
       "main": 40.3, 
       "genoa": 34.1, 
       "displacement": 6482.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 380.0
     }, 
     "year": "1985"
   }, 

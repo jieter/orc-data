@@ -5,12 +5,13 @@
       1.2418, 
       1.466
     ], 
-    "gph": 622.8, 
     "triple_inshore": [
       0.6804, 
       0.9732, 
       1.1939
-    ]
+    ], 
+    "gph": 622.8, 
+    "osn": 602.9
   }, 
   "sailnumber": "NOR14467", 
   "name": "Cariane", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.93, 
       "draft": 2.01, 
+      "wetted_surface": 42.7, 
       "main": 43.2, 
       "genoa": 61.4, 
       "displacement": 10622.0, 
-      "spinnaker_asym": 133.0
+      "spinnaker_asym": 133.0, 
+      "crew": 955.0
     }, 
     "year": "2004"
   }, 

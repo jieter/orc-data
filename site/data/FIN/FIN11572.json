@@ -5,12 +5,13 @@
       1.219, 
       1.3807
     ], 
-    "gph": 627.2, 
     "triple_inshore": [
       0.7164, 
       0.9884, 
       1.1586
-    ]
+    ], 
+    "gph": 627.2, 
+    "osn": 608.2
   }, 
   "sailnumber": "FIN11572", 
   "name": "Bianco", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.9, 
       "loa": 10.66, 
       "draft": 2.31, 
+      "wetted_surface": 27.5, 
       "main": 40.3, 
       "genoa": 31.3, 
       "displacement": 5708.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 720.0
     }, 
     "year": "2009"
   }, 

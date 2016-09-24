@@ -5,12 +5,13 @@
       1.4138, 
       1.5951
     ], 
-    "gph": 531.0, 
     "triple_inshore": [
       0.8732, 
       1.1359, 
       1.2985
-    ]
+    ], 
+    "gph": 531.0, 
+    "osn": 521.7
   }, 
   "sailnumber": "GER1275", 
   "name": "CAPRICORNO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.47, 
       "draft": 2.53, 
+      "wetted_surface": 27.6, 
       "main": 59.2, 
       "genoa": 52.5, 
       "displacement": 4718.0, 
-      "spinnaker_asym": 153.0
+      "spinnaker_asym": 153.0, 
+      "crew": 820.0
     }, 
     "year": "1994"
   }, 

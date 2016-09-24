@@ -5,12 +5,13 @@
       1.2383, 
       1.4051
     ], 
-    "gph": 617.8, 
     "triple_inshore": [
       0.7214, 
       0.9913, 
       1.166
-    ]
+    ], 
+    "gph": 617.8, 
+    "osn": 600.7
   }, 
   "sailnumber": "ROU45", 
   "name": "Mojo", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.1, 
       "loa": 11.91, 
       "draft": 1.93, 
+      "wetted_surface": 32.4, 
       "main": 50.0, 
       "genoa": 37.8, 
       "displacement": 7800.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 870.0
     }, 
     "year": "1998"
   }, 

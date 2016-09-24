@@ -5,12 +5,13 @@
       0.9334, 
       1.0949
     ], 
-    "gph": 824.7, 
     "triple_inshore": [
       0.5245, 
       0.7316, 
       0.8982
-    ]
+    ], 
+    "gph": 824.7, 
+    "osn": 799.1
   }, 
   "sailnumber": "GRE1491", 
   "name": "IVILATO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.32, 
       "draft": 1.62, 
+      "wetted_surface": 17.7, 
       "main": 15.0, 
       "genoa": 16.9, 
       "displacement": 3110.0, 
-      "spinnaker_asym": 46.0
+      "spinnaker_asym": 46.0, 
+      "crew": 340.0
     }, 
     "year": "1985"
   }, 

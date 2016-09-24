@@ -5,12 +5,13 @@
       1.1762, 
       1.3465
     ], 
-    "gph": 650.7, 
     "triple_inshore": [
       0.6852, 
       0.9445, 
       1.1302
-    ]
+    ], 
+    "gph": 650.7, 
+    "osn": 631.0
   }, 
   "sailnumber": "NOR4473", 
   "name": "Lise", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.1, 
       "loa": 11.9, 
       "draft": 2.26, 
+      "wetted_surface": 32.8, 
       "main": 32.6, 
       "genoa": 51.5, 
       "displacement": 8776.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 693.0
     }, 
     "year": "1983"
   }, 

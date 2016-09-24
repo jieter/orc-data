@@ -5,12 +5,13 @@
       1.2569, 
       1.4071
     ], 
-    "gph": 604.3, 
     "triple_inshore": [
       0.7583, 
       1.0151, 
       1.1549
-    ]
+    ], 
+    "gph": 604.3, 
+    "osn": 588.7
   }, 
   "sailnumber": "ITA16785", 
   "name": "QUANTUM", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.25, 
       "draft": 2.03, 
+      "wetted_surface": 23.3, 
       "main": 39.7, 
       "genoa": 27.5, 
       "displacement": 3628.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 560.0
     }, 
     "year": "2005"
   }, 

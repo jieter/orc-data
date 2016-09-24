@@ -5,12 +5,13 @@
       1.2896, 
       1.481
     ], 
-    "gph": 595.3, 
     "triple_inshore": [
       0.7408, 
       1.0255, 
       1.2235
-    ]
+    ], 
+    "gph": 595.3, 
+    "osn": 577.5
   }, 
   "sailnumber": "GRE280", 
   "name": "ALTER EGO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.302, 
       "draft": 2.72, 
+      "wetted_surface": 45.1, 
       "main": 52.0, 
       "genoa": 67.0, 
       "displacement": 14000.0, 
-      "spinnaker_asym": 152.0
+      "spinnaker_asym": 152.0, 
+      "crew": 800.0
     }, 
     "year": "1989"
   }, 

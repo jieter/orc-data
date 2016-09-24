@@ -5,12 +5,13 @@
       1.0202, 
       1.1723
     ], 
-    "gph": 749.5, 
     "triple_inshore": [
       0.5913, 
       0.8094, 
       0.9661
-    ]
+    ], 
+    "gph": 749.5, 
+    "osn": 729.1
   }, 
   "sailnumber": "NED8549", 
   "name": "Harkelijn", 
@@ -25,10 +26,12 @@
       "spinnaker": 53.5, 
       "loa": 9.43, 
       "draft": 1.11, 
+      "wetted_surface": 21.2, 
       "main": 25.2, 
       "genoa": 18.8, 
       "displacement": 4359.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 509.0
     }, 
     "year": "1983"
   }, 

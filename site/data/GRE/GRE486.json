@@ -5,12 +5,13 @@
       1.1, 
       1.2419
     ], 
-    "gph": 693.9, 
     "triple_inshore": [
       0.6509, 
       0.8884, 
       1.04
-    ]
+    ], 
+    "gph": 693.9, 
+    "osn": 674.2
   }, 
   "sailnumber": "GRE486", 
   "name": "ADRASTEIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.1, 
       "loa": 10.112, 
       "draft": 1.79, 
+      "wetted_surface": 23.9, 
       "main": 30.2, 
       "genoa": 31.1, 
       "displacement": 4916.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1982"
   }, 

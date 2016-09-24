@@ -5,12 +5,13 @@
       1.2128, 
       1.3597
     ], 
-    "gph": 628.8, 
     "triple_inshore": [
       0.7211, 
       0.9843, 
       1.1418
-    ]
+    ], 
+    "gph": 628.8, 
+    "osn": 611.8
   }, 
   "sailnumber": "ITA15368", 
   "name": "TIMBACTU", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.3, 
       "loa": 10.64, 
       "draft": 2.22, 
+      "wetted_surface": 26.7, 
       "main": 38.9, 
       "genoa": 38.5, 
       "displacement": 5602.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "2001"
   }, 

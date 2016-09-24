@@ -5,12 +5,13 @@
       1.1128, 
       1.2986
     ], 
-    "gph": 695.0, 
     "triple_inshore": [
       0.6216, 
       0.8868, 
       1.081
-    ]
+    ], 
+    "gph": 695.0, 
+    "osn": 669.5
   }, 
   "sailnumber": "POR1318", 
   "name": "ALF", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.0, 
       "loa": 11.225, 
       "draft": 2.22, 
+      "wetted_surface": 27.2, 
       "main": 29.8, 
       "genoa": 29.5, 
       "displacement": 5413.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1989"
   }, 

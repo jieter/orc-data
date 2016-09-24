@@ -5,12 +5,13 @@
       1.1349, 
       1.2913
     ], 
-    "gph": 675.2, 
     "triple_inshore": [
       0.6605, 
       0.9167, 
       1.0775
-    ]
+    ], 
+    "gph": 675.2, 
+    "osn": 654.0
   }, 
   "sailnumber": "GER7138", 
   "name": "AOIFE M.", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.1, 
       "loa": 9.49, 
       "draft": 1.94, 
+      "wetted_surface": 22.1, 
       "main": 26.1, 
       "genoa": 27.1, 
       "displacement": 3824.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1998"
   }, 

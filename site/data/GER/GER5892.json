@@ -5,12 +5,13 @@
       1.1858, 
       1.3292
     ], 
-    "gph": 638.2, 
     "triple_inshore": [
       0.7275, 
       0.9669, 
       1.0975
-    ]
+    ], 
+    "gph": 638.2, 
+    "osn": 621.8
   }, 
   "sailnumber": "GER5892", 
   "name": "FATHER'S JOY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.12, 
       "draft": 1.92, 
+      "wetted_surface": 19.1, 
       "main": 30.6, 
       "genoa": 22.0, 
       "displacement": 2735.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 460.0
     }, 
     "year": "1992"
   }, 

@@ -5,12 +5,13 @@
       1.1604, 
       1.3239
     ], 
-    "gph": 660.4, 
     "triple_inshore": [
       0.671, 
       0.9291, 
       1.1017
-    ]
+    ], 
+    "gph": 660.4, 
+    "osn": 640.7
   }, 
   "sailnumber": "GRE1073", 
   "name": "ASSANTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.4, 
       "loa": 11.03, 
       "draft": 1.93, 
+      "wetted_surface": 27.3, 
       "main": 31.8, 
       "genoa": 38.9, 
       "displacement": 5979.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "2003"
   }, 

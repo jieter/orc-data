@@ -5,12 +5,13 @@
       1.3025, 
       1.449
     ], 
-    "gph": 585.2, 
     "triple_inshore": [
       0.7755, 
       1.0495, 
       1.1984
-    ]
+    ], 
+    "gph": 585.2, 
+    "osn": 570.0
   }, 
   "sailnumber": "NED8009SH", 
   "name": "Jam Session", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.19, 
       "draft": 2.22, 
+      "wetted_surface": 32.2, 
       "main": 47.8, 
       "genoa": 41.2, 
       "displacement": 6906.0, 
-      "spinnaker_asym": 155.0
+      "spinnaker_asym": 155.0, 
+      "crew": 170.0
     }, 
     "year": "2006"
   }, 

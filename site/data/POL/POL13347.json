@@ -5,12 +5,13 @@
       1.0745, 
       1.2262
     ], 
-    "gph": 712.4, 
     "triple_inshore": [
       0.6275, 
       0.8642, 
       1.028
-    ]
+    ], 
+    "gph": 712.4, 
+    "osn": 690.9
   }, 
   "sailnumber": "POL13347", 
   "name": "VATAHA", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.3, 
       "loa": 9.785, 
       "draft": 1.84, 
+      "wetted_surface": 22.1, 
       "main": 21.7, 
       "genoa": 28.9, 
       "displacement": 4713.0, 
-      "spinnaker_asym": 68.0
+      "spinnaker_asym": 68.0, 
+      "crew": 360.0
     }, 
     "year": "1981"
   }, 

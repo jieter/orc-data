@@ -5,12 +5,13 @@
       1.1584, 
       1.3144
     ], 
-    "gph": 659.3, 
     "triple_inshore": [
       0.6807, 
       0.9367, 
       1.0911
-    ]
+    ], 
+    "gph": 659.3, 
+    "osn": 640.5
   }, 
   "sailnumber": "ITA14448", 
   "name": "BAOBAB", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.0, 
       "loa": 9.633, 
       "draft": 1.91, 
+      "wetted_surface": 20.6, 
       "main": 32.5, 
       "genoa": 21.8, 
       "displacement": 3390.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1996"
   }, 

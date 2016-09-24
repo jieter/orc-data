@@ -5,12 +5,13 @@
       0.9693, 
       1.1552
     ], 
-    "gph": 797.8, 
     "triple_inshore": [
       0.5329, 
       0.7609, 
       0.9446
-    ]
+    ], 
+    "gph": 797.8, 
+    "osn": 769.3
   }, 
   "sailnumber": "GRE886", 
   "name": "ONAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.4, 
       "loa": 10.612, 
       "draft": 1.78, 
+      "wetted_surface": 33.0, 
       "main": 27.2, 
       "genoa": 28.0, 
       "displacement": 9743.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1978"
   }, 

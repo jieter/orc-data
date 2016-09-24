@@ -5,12 +5,13 @@
       1.2282, 
       1.3993
     ], 
-    "gph": 622.1, 
     "triple_inshore": [
       0.7218, 
       0.9921, 
       1.176
-    ]
+    ], 
+    "gph": 622.1, 
+    "osn": 603.3
   }, 
   "sailnumber": "NED8306", 
   "name": "SparklinGS", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.2, 
       "loa": 11.313, 
       "draft": 2.15, 
+      "wetted_surface": 30.2, 
       "main": 43.2, 
       "genoa": 34.5, 
       "displacement": 7381.0, 
-      "spinnaker_asym": 88.0
+      "spinnaker_asym": 88.0, 
+      "crew": 719.0
     }, 
     "year": "2005"
   }, 

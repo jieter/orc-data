@@ -5,12 +5,13 @@
       1.2221, 
       1.3961
     ], 
-    "gph": 625.0, 
     "triple_inshore": [
       0.7118, 
       0.9823, 
       1.1474
-    ]
+    ], 
+    "gph": 625.0, 
+    "osn": 608.0
   }, 
   "sailnumber": "ESP4224", 
   "name": "QUIRON", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.6, 
       "loa": 10.632, 
       "draft": 2.0, 
+      "wetted_surface": 24.6, 
       "main": 41.8, 
       "genoa": 29.2, 
       "displacement": 4081.0, 
-      "spinnaker_asym": 53.0
+      "spinnaker_asym": 53.0, 
+      "crew": 680.0
     }, 
     "year": "1991"
   }, 

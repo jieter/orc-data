@@ -5,12 +5,13 @@
       1.1804, 
       1.3404
     ], 
-    "gph": 648.3, 
     "triple_inshore": [
       0.6902, 
       0.9556, 
       1.1167
-    ]
+    ], 
+    "gph": 648.3, 
+    "osn": 628.2
   }, 
   "sailnumber": "ITA16524", 
   "name": "MILES AHEAD", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.2, 
       "loa": 9.46, 
       "draft": 1.94, 
+      "wetted_surface": 23.5, 
       "main": 30.9, 
       "genoa": 25.9, 
       "displacement": 4055.0, 
-      "spinnaker_asym": 78.0
+      "spinnaker_asym": 78.0, 
+      "crew": 500.0
     }, 
     "year": "2009"
   }, 

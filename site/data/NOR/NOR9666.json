@@ -5,12 +5,13 @@
       1.1351, 
       1.2922
     ], 
-    "gph": 674.4, 
     "triple_inshore": [
       0.6618, 
       0.9171, 
       1.0779
-    ]
+    ], 
+    "gph": 674.4, 
+    "osn": 653.4
   }, 
   "sailnumber": "NOR9666", 
   "name": "Spin Off", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.6, 
       "loa": 9.85, 
       "draft": 1.93, 
+      "wetted_surface": 22.2, 
       "main": 25.0, 
       "genoa": 31.2, 
       "displacement": 3821.0, 
-      "spinnaker_asym": 57.0
+      "spinnaker_asym": 57.0, 
+      "crew": 586.0
     }, 
     "year": "1998"
   }, 

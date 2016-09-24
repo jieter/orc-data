@@ -5,12 +5,13 @@
       1.2179, 
       1.3691
     ], 
-    "gph": 626.6, 
     "triple_inshore": [
       0.721, 
       0.9845, 
       1.1459
-    ]
+    ], 
+    "gph": 626.6, 
+    "osn": 609.5
   }, 
   "sailnumber": "GRE517", 
   "name": "ALLEGORIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.7, 
       "loa": 10.84, 
       "draft": 2.0, 
+      "wetted_surface": 26.4, 
       "main": 40.9, 
       "genoa": 30.3, 
       "displacement": 5676.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2004"
   }, 

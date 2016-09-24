@@ -5,12 +5,13 @@
       1.0187, 
       1.1542
     ], 
-    "gph": 751.4, 
     "triple_inshore": [
       0.5966, 
       0.8245, 
       0.9658
-    ]
+    ], 
+    "gph": 751.4, 
+    "osn": 728.4
   }, 
   "sailnumber": "NOR7908", 
   "name": "Passe Gal", 
@@ -25,10 +26,12 @@
       "spinnaker": 35.3, 
       "loa": 8.3, 
       "draft": 1.57, 
+      "wetted_surface": 17.8, 
       "main": 22.8, 
       "genoa": 20.3, 
       "displacement": 2904.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 413.0
     }, 
     "year": "1981"
   }, 

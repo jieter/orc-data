@@ -5,12 +5,13 @@
       1.4024, 
       1.5814
     ], 
-    "gph": 542.9, 
     "triple_inshore": [
       0.835, 
       1.1336, 
       1.2982
-    ]
+    ], 
+    "gph": 542.9, 
+    "osn": 528.0
   }, 
   "sailnumber": "NOR12243", 
   "name": "Karoline", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.071, 
       "draft": 2.74, 
+      "wetted_surface": 36.2, 
       "main": 66.5, 
       "genoa": 45.3, 
       "displacement": 7904.0, 
-      "spinnaker_asym": 190.0
+      "spinnaker_asym": 190.0, 
+      "crew": 827.0
     }, 
     "year": "2006"
   }, 

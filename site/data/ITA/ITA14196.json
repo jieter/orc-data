@@ -5,12 +5,13 @@
       1.0985, 
       1.2713
     ], 
-    "gph": 701.8, 
     "triple_inshore": [
       0.613, 
       0.8753, 
       1.0597
-    ]
+    ], 
+    "gph": 701.8, 
+    "osn": 680.2
   }, 
   "sailnumber": "ITA14196", 
   "name": "LYBRE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.24, 
       "draft": 1.92, 
+      "wetted_surface": 27.1, 
       "main": 29.8, 
       "genoa": 40.5, 
       "displacement": 5903.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1982"
   }, 

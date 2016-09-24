@@ -5,12 +5,13 @@
       1.24, 
       1.4133
     ], 
-    "gph": 618.0, 
     "triple_inshore": [
       0.7176, 
       0.9931, 
       1.1761
-    ]
+    ], 
+    "gph": 618.0, 
+    "osn": 599.6
   }, 
   "sailnumber": "NED7935", 
   "name": "Flying Dolphin", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.3, 
       "loa": 12.06, 
       "draft": 2.19, 
+      "wetted_surface": 31.7, 
       "main": 47.0, 
       "genoa": 34.1, 
       "displacement": 7749.0, 
-      "spinnaker_asym": 101.0
+      "spinnaker_asym": 101.0, 
+      "crew": 803.0
     }, 
     "year": "2003"
   }, 

@@ -5,12 +5,13 @@
       1.2869, 
       1.4561
     ], 
-    "gph": 594.3, 
     "triple_inshore": [
       0.7499, 
       1.0306, 
       1.2074
-    ]
+    ], 
+    "gph": 594.3, 
+    "osn": 578.2
   }, 
   "sailnumber": "NOR12043", 
   "name": "Glory Days", 
@@ -25,10 +26,12 @@
       "spinnaker": 116.3, 
       "loa": 12.93, 
       "draft": 2.2, 
+      "wetted_surface": 35.6, 
       "main": 53.8, 
       "genoa": 48.5, 
       "displacement": 8986.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 855.0
     }, 
     "year": "2003"
   }, 

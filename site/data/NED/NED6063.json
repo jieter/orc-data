@@ -5,12 +5,13 @@
       1.2307, 
       1.4538
     ], 
-    "gph": 625.5, 
     "triple_inshore": [
       0.6892, 
       0.9655, 
       1.1918
-    ]
+    ], 
+    "gph": 625.5, 
+    "osn": 605.7
   }, 
   "sailnumber": "NED6063", 
   "name": "ANTARES", 
@@ -25,10 +26,12 @@
       "spinnaker": 174.4, 
       "loa": 16.24, 
       "draft": 2.32, 
+      "wetted_surface": 62.2, 
       "main": 60.8, 
       "genoa": 76.9, 
       "displacement": 23884.0, 
-      "spinnaker_asym": 153.0
+      "spinnaker_asym": 153.0, 
+      "crew": 1224.0
     }, 
     "year": "1983"
   }, 

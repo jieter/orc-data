@@ -5,12 +5,13 @@
       1.1648, 
       1.3124
     ], 
-    "gph": 653.9, 
     "triple_inshore": [
       0.6944, 
       0.9489, 
       1.1033
-    ]
+    ], 
+    "gph": 653.9, 
+    "osn": 636.1
   }, 
   "sailnumber": "ITA15553", 
   "name": "IDRIL", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.1, 
       "loa": 9.53, 
       "draft": 1.92, 
+      "wetted_surface": 19.9, 
       "main": 32.3, 
       "genoa": 23.2, 
       "displacement": 3577.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 380.0
     }, 
     "year": "1996"
   }, 

@@ -5,12 +5,13 @@
       1.1343, 
       1.274
     ], 
-    "gph": 671.2, 
     "triple_inshore": [
       0.6793, 
       0.917, 
       1.0682
-    ]
+    ], 
+    "gph": 671.2, 
+    "osn": 653.4
   }, 
   "sailnumber": "LTU1616", 
   "name": "IDEFIX 2016", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.7, 
       "loa": 10.4, 
       "draft": 2.0, 
+      "wetted_surface": 26.3, 
       "main": 29.0, 
       "genoa": 43.2, 
       "displacement": 6304.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1986"
   }, 

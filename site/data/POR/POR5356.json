@@ -5,12 +5,13 @@
       1.3765, 
       1.552
     ], 
-    "gph": 555.3, 
     "triple_inshore": [
       0.8078, 
       1.1063, 
       1.2806
-    ]
+    ], 
+    "gph": 555.3, 
+    "osn": 539.8
   }, 
   "sailnumber": "POR5356", 
   "name": "EAGLE TWO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.305, 
       "draft": 2.69, 
+      "wetted_surface": 39.8, 
       "main": 65.2, 
       "genoa": 48.1, 
       "displacement": 9739.0, 
-      "spinnaker_asym": 166.0
+      "spinnaker_asym": 166.0, 
+      "crew": 800.0
     }, 
     "year": "2011"
   }, 

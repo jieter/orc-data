@@ -5,12 +5,13 @@
       1.1305, 
       1.3262
     ], 
-    "gph": 683.2, 
     "triple_inshore": [
       0.623, 
       0.8975, 
       1.1033
-    ]
+    ], 
+    "gph": 683.2, 
+    "osn": 661.1
   }, 
   "sailnumber": "ITA10958", 
   "name": "SCILLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.613, 
       "draft": 2.13, 
+      "wetted_surface": 33.5, 
       "main": 38.9, 
       "genoa": 48.7, 
       "displacement": 8833.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1984"
   }, 

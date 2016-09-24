@@ -5,12 +5,13 @@
       1.0467, 
       1.2053
     ], 
-    "gph": 735.8, 
     "triple_inshore": [
       0.5891, 
       0.8339, 
       1.0018
-    ]
+    ], 
+    "gph": 735.8, 
+    "osn": 713.9
   }, 
   "sailnumber": "GRE1645", 
   "name": "ALHIMISTIS ONEIROU", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.14, 
       "draft": 1.85, 
+      "wetted_surface": 25.6, 
       "main": 23.2, 
       "genoa": 52.2, 
       "displacement": 6046.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 549.0
     }, 
     "year": "1976"
   }, 

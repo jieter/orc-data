@@ -5,12 +5,13 @@
       1.1728, 
       1.3654
     ], 
-    "gph": 654.9, 
     "triple_inshore": [
       0.6669, 
       0.9239, 
       1.1183
-    ]
+    ], 
+    "gph": 654.9, 
+    "osn": 635.4
   }, 
   "sailnumber": "ITA15966", 
   "name": "VOLENTIERI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.93, 
       "draft": 1.85, 
+      "wetted_surface": 32.7, 
       "main": 34.9, 
       "genoa": 38.7, 
       "displacement": 8243.0, 
-      "spinnaker_asym": 88.0
+      "spinnaker_asym": 88.0, 
+      "crew": 550.0
     }, 
     "year": "2004"
   }, 

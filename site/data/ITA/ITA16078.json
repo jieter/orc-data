@@ -5,12 +5,13 @@
       1.3071, 
       1.4899
     ], 
-    "gph": 586.1, 
     "triple_inshore": [
       0.7556, 
       1.0412, 
       1.2242
-    ]
+    ], 
+    "gph": 586.1, 
+    "osn": 569.3
   }, 
   "sailnumber": "ITA16078", 
   "name": "PESTIFERA 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.33, 
       "draft": 2.31, 
+      "wetted_surface": 39.2, 
       "main": 53.8, 
       "genoa": 60.9, 
       "displacement": 10350.0, 
-      "spinnaker_asym": 138.0
+      "spinnaker_asym": 138.0, 
+      "crew": 850.0
     }, 
     "year": "2004"
   }, 

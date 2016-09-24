@@ -5,12 +5,13 @@
       1.1332, 
       1.3269
     ], 
-    "gph": 677.8, 
     "triple_inshore": [
       0.6449, 
       0.8987, 
       1.1022
-    ]
+    ], 
+    "gph": 677.8, 
+    "osn": 656.4
   }, 
   "sailnumber": "NED6927", 
   "name": "CULLUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.4, 
       "loa": 11.98, 
       "draft": 2.03, 
+      "wetted_surface": 36.0, 
       "main": 31.8, 
       "genoa": 46.9, 
       "displacement": 10824.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 801.0
     }, 
     "year": "1999"
   }, 

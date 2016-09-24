@@ -5,12 +5,13 @@
       1.1033, 
       1.2501
     ], 
-    "gph": 694.1, 
     "triple_inshore": [
       0.6443, 
       0.8907, 
       1.0449
-    ]
+    ], 
+    "gph": 694.1, 
+    "osn": 673.0
   }, 
   "sailnumber": "FRA16532", 
   "name": "OVERDOSE BRAVO", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.5, 
       "loa": 9.344, 
       "draft": 1.98, 
+      "wetted_surface": 21.0, 
       "main": 25.7, 
       "genoa": 26.2, 
       "displacement": 3875.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1993"
   }, 

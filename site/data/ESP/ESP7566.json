@@ -5,12 +5,13 @@
       1.2837, 
       1.4662
     ], 
-    "gph": 599.4, 
     "triple_inshore": [
       0.7295, 
       1.0161, 
       1.2019
-    ]
+    ], 
+    "gph": 599.4, 
+    "osn": 581.8
   }, 
   "sailnumber": "ESP7566", 
   "name": "LAZY DOG", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.578, 
       "draft": 2.33, 
+      "wetted_surface": 40.3, 
       "main": 50.9, 
       "genoa": 53.0, 
       "displacement": 11116.0, 
-      "spinnaker_asym": 138.0
+      "spinnaker_asym": 138.0, 
+      "crew": 485.0
     }, 
     "year": "2003"
   }, 

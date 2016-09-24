@@ -5,12 +5,13 @@
       1.1716, 
       1.3288
     ], 
-    "gph": 653.7, 
     "triple_inshore": [
       0.6796, 
       0.9378, 
       1.1066
-    ]
+    ], 
+    "gph": 653.7, 
+    "osn": 635.3
   }, 
   "sailnumber": "ITA16781", 
   "name": "ANEMONE", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.4, 
       "loa": 11.121, 
       "draft": 1.95, 
+      "wetted_surface": 28.4, 
       "main": 36.6, 
       "genoa": 38.6, 
       "displacement": 6519.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1993"
   }, 

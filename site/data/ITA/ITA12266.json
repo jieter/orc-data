@@ -5,12 +5,13 @@
       1.2103, 
       1.3523
     ], 
-    "gph": 626.2, 
     "triple_inshore": [
       0.734, 
       0.9853, 
       1.1379
-    ]
+    ], 
+    "gph": 626.2, 
+    "osn": 611.3
   }, 
   "sailnumber": "ITA12266", 
   "name": "WHISKY ECHO", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.0, 
       "loa": 10.65, 
       "draft": 2.18, 
+      "wetted_surface": 22.2, 
       "main": 37.5, 
       "genoa": 39.1, 
       "displacement": 4068.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 200.0
     }, 
     "year": "1992"
   }, 

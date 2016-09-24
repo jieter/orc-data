@@ -5,12 +5,13 @@
       1.1943, 
       1.3447
     ], 
-    "gph": 637.4, 
     "triple_inshore": [
       0.7086, 
       0.9651, 
       1.121
-    ]
+    ], 
+    "gph": 637.4, 
+    "osn": 621.7
   }, 
   "sailnumber": "NOR7111", 
   "name": "somle", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.0, 
       "loa": 11.0, 
       "draft": 1.7, 
+      "wetted_surface": 26.4, 
       "main": 41.8, 
       "genoa": 31.7, 
       "displacement": 5354.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 636.0
     }, 
     "year": "1986"
   }, 

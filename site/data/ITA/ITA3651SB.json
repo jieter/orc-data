@@ -5,12 +5,13 @@
       1.0595, 
       1.2254
     ], 
-    "gph": 708.5, 
     "triple_inshore": [
       0.6644, 
       0.8583, 
       0.9999
-    ]
+    ], 
+    "gph": 708.5, 
+    "osn": 690.0
   }, 
   "sailnumber": "ITA3651SB", 
   "name": "ARIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.073, 
       "draft": 1.5, 
+      "wetted_surface": 9.6, 
       "main": 17.7, 
       "genoa": 8.9, 
       "displacement": 678.0, 
-      "spinnaker_asym": 44.0
+      "spinnaker_asym": 44.0, 
+      "crew": 270.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.546, 
       1.7925
     ], 
-    "gph": 488.3, 
     "triple_inshore": [
       0.916, 
       1.2039, 
       1.4363
-    ]
+    ], 
+    "gph": 488.3, 
+    "osn": 480.5
   }, 
   "sailnumber": "NOR9340", 
   "name": "LA STREGA BIANCA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.28, 
       "draft": 2.28, 
+      "wetted_surface": 27.1, 
       "main": 59.6, 
       "genoa": 42.3, 
       "displacement": 2641.0, 
-      "spinnaker_asym": 113.0
+      "spinnaker_asym": 113.0, 
+      "crew": 852.0
     }, 
     "year": "2004"
   }, 

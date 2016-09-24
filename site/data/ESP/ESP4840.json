@@ -5,12 +5,13 @@
       1.1462, 
       1.3003
     ], 
-    "gph": 667.9, 
     "triple_inshore": [
       0.6708, 
       0.9276, 
       1.0917
-    ]
+    ], 
+    "gph": 667.9, 
+    "osn": 647.2
   }, 
   "sailnumber": "ESP4840", 
   "name": "GOLAFRE II", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.9, 
       "loa": 9.798, 
       "draft": 2.1, 
+      "wetted_surface": 24.2, 
       "main": 30.9, 
       "genoa": 28.8, 
       "displacement": 4701.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1997"
   }, 

@@ -5,12 +5,13 @@
       1.2175, 
       1.3796
     ], 
-    "gph": 627.1, 
     "triple_inshore": [
       0.7153, 
       0.9791, 
       1.1437
-    ]
+    ], 
+    "gph": 627.1, 
+    "osn": 610.5
   }, 
   "sailnumber": "ITA10869", 
   "name": "FREEDOM", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.3, 
       "loa": 11.59, 
       "draft": 2.04, 
+      "wetted_surface": 24.7, 
       "main": 42.5, 
       "genoa": 24.3, 
       "displacement": 4676.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "1985"
   }, 

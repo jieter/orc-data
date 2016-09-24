@@ -5,12 +5,13 @@
       1.2142, 
       1.4181
     ], 
-    "gph": 613.8, 
     "triple_inshore": [
       0.7793, 
       0.9657, 
       1.1435
-    ]
+    ], 
+    "gph": 613.8, 
+    "osn": 600.3
   }, 
   "sailnumber": "SUI805", 
   "name": "KEEP COOL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.8, 
       "draft": 1.76, 
+      "wetted_surface": 9.8, 
       "main": 22.0, 
       "genoa": 12.5, 
       "displacement": 603.0, 
-      "spinnaker_asym": 59.0
+      "spinnaker_asym": 59.0, 
+      "crew": 350.0
     }, 
     "year": "2007"
   }, 

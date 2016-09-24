@@ -5,12 +5,13 @@
       1.1272, 
       1.2713
     ], 
-    "gph": 677.9, 
     "triple_inshore": [
       0.6627, 
       0.9143, 
       1.0598
-    ]
+    ], 
+    "gph": 677.9, 
+    "osn": 658.4
   }, 
   "sailnumber": "ITA16145", 
   "name": "LOUCURA", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.8, 
       "loa": 9.492, 
       "draft": 1.9, 
+      "wetted_surface": 19.3, 
       "main": 26.6, 
       "genoa": 23.8, 
       "displacement": 3036.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 465.0
     }, 
     "year": "1978"
   }, 

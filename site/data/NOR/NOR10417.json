@@ -5,12 +5,13 @@
       1.1637, 
       1.3154
     ], 
-    "gph": 656.7, 
     "triple_inshore": [
       0.6832, 
       0.9419, 
       1.1018
-    ]
+    ], 
+    "gph": 656.7, 
+    "osn": 637.8
   }, 
   "sailnumber": "NOR10417", 
   "name": "Mymlen", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.4, 
       "loa": 10.45, 
       "draft": 1.91, 
+      "wetted_surface": 24.0, 
       "main": 33.1, 
       "genoa": 32.3, 
       "displacement": 4928.0, 
-      "spinnaker_asym": 61.0
+      "spinnaker_asym": 61.0, 
+      "crew": 614.0
     }, 
     "year": "1998"
   }, 

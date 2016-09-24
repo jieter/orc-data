@@ -5,12 +5,13 @@
       1.1385, 
       1.2974
     ], 
-    "gph": 672.5, 
     "triple_inshore": [
       0.6638, 
       0.9208, 
       1.0825
-    ]
+    ], 
+    "gph": 672.5, 
+    "osn": 651.3
   }, 
   "sailnumber": "NED6806", 
   "name": "FIRST BLUE", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.7, 
       "loa": 9.49, 
       "draft": 1.92, 
+      "wetted_surface": 22.0, 
       "main": 24.4, 
       "genoa": 30.8, 
       "displacement": 3679.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "2000"
   }, 

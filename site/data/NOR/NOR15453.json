@@ -5,12 +5,13 @@
       0.9045, 
       1.0829
     ], 
-    "gph": 846.5, 
     "triple_inshore": [
       0.514, 
       0.7223, 
       0.871
-    ]
+    ], 
+    "gph": 846.5, 
+    "osn": 819.6
   }, 
   "sailnumber": "NOR15453", 
   "name": "4ALL", 
@@ -25,10 +26,12 @@
       "spinnaker": 20.2, 
       "loa": 5.51, 
       "draft": 1.12, 
+      "wetted_surface": 8.2, 
       "main": 10.5, 
       "genoa": 6.5, 
       "displacement": 515.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 278.0
     }, 
     "year": "2001"
   }, 

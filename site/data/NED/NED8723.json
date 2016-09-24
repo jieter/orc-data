@@ -5,12 +5,13 @@
       1.0546, 
       1.1856
     ], 
-    "gph": 722.4, 
     "triple_inshore": [
       0.6304, 
       0.8584, 
       0.9994
-    ]
+    ], 
+    "gph": 722.4, 
+    "osn": 702.3
   }, 
   "sailnumber": "NED8723", 
   "name": "Off line", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.2, 
       "loa": 9.084, 
       "draft": 1.71, 
+      "wetted_surface": 18.4, 
       "main": 20.3, 
       "genoa": 27.4, 
       "displacement": 3580.0, 
-      "spinnaker_asym": 58.0
+      "spinnaker_asym": 58.0, 
+      "crew": 448.0
     }, 
     "year": "1973"
   }, 

@@ -5,12 +5,13 @@
       1.292, 
       1.4851
     ], 
-    "gph": 594.4, 
     "triple_inshore": [
       0.7392, 
       1.0347, 
       1.2382
-    ]
+    ], 
+    "gph": 594.4, 
+    "osn": 576.0
   }, 
   "sailnumber": "ITA16462", 
   "name": "LUCKY STAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 122.0, 
       "loa": 12.95, 
       "draft": 2.35, 
+      "wetted_surface": 37.2, 
       "main": 50.6, 
       "genoa": 45.8, 
       "displacement": 9413.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 765.0
     }, 
     "year": "2005"
   }, 

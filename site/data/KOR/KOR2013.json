@@ -5,12 +5,13 @@
       1.2127, 
       1.3649
     ], 
-    "gph": 624.7, 
     "triple_inshore": [
       0.7381, 
       0.9799, 
       1.1107
-    ]
+    ], 
+    "gph": 624.7, 
+    "osn": 609.3
   }, 
   "sailnumber": "KOR2013", 
   "name": "BLUE QUEEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.45, 
       "draft": 1.83, 
+      "wetted_surface": 18.8, 
       "main": 31.8, 
       "genoa": 23.0, 
       "displacement": 2556.0, 
-      "spinnaker_asym": 77.0
+      "spinnaker_asym": 77.0, 
+      "crew": 548.0
     }, 
     "year": "1995"
   }, 

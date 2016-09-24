@@ -5,12 +5,13 @@
       1.1127, 
       1.305
     ], 
-    "gph": 695.5, 
     "triple_inshore": [
       0.6151, 
       0.8928, 
       1.0965
-    ]
+    ], 
+    "gph": 695.5, 
+    "osn": 670.1
   }, 
   "sailnumber": "NOR15158", 
   "name": "Le Soleil", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.69, 
       "draft": 1.95, 
+      "wetted_surface": 28.4, 
       "main": 31.5, 
       "genoa": 31.8, 
       "displacement": 5978.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 676.0
     }, 
     "year": "2007"
   }, 

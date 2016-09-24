@@ -5,12 +5,13 @@
       1.1323, 
       1.3155
     ], 
-    "gph": 678.2, 
     "triple_inshore": [
       0.6443, 
       0.9032, 
       1.0874
-    ]
+    ], 
+    "gph": 678.2, 
+    "osn": 657.1
   }, 
   "sailnumber": "NOR9693", 
   "name": "Itu", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.5, 
       "loa": 10.35, 
       "draft": 1.78, 
+      "wetted_surface": 24.1, 
       "main": 27.8, 
       "genoa": 32.6, 
       "displacement": 4450.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 583.0
     }, 
     "year": "1998"
   }, 

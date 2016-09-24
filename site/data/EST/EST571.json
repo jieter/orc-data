@@ -5,12 +5,13 @@
       1.2004, 
       1.3584
     ], 
-    "gph": 636.3, 
     "triple_inshore": [
       0.7071, 
       0.9725, 
       1.1399
-    ]
+    ], 
+    "gph": 636.3, 
+    "osn": 617.4
   }, 
   "sailnumber": "EST571", 
   "name": "FREYA", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.4, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.9, 
       "main": 38.0, 
       "genoa": 34.6, 
       "displacement": 5792.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2001"
   }, 

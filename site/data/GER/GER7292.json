@@ -5,12 +5,13 @@
       1.1259, 
       1.279
     ], 
-    "gph": 676.8, 
     "triple_inshore": [
       0.6556, 
       0.9017, 
       1.0464
-    ]
+    ], 
+    "gph": 676.8, 
+    "osn": 660.7
   }, 
   "sailnumber": "GER7292", 
   "name": "HEBBES II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.35, 
       "draft": 1.97, 
+      "wetted_surface": 16.6, 
       "main": 24.5, 
       "genoa": 12.4, 
       "displacement": 1928.0, 
-      "spinnaker_asym": 45.0
+      "spinnaker_asym": 45.0, 
+      "crew": 320.0
     }, 
     "year": "2012"
   }, 

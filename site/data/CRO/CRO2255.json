@@ -5,12 +5,13 @@
       1.1515, 
       1.3815
     ], 
-    "gph": 675.1, 
     "triple_inshore": [
       0.6106, 
       0.9006, 
       1.1309
-    ]
+    ], 
+    "gph": 675.1, 
+    "osn": 652.7
   }, 
   "sailnumber": "CRO2255", 
   "name": "Spirit 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.645, 
       "draft": 1.94, 
+      "wetted_surface": 37.7, 
       "main": 41.5, 
       "genoa": 50.9, 
       "displacement": 9600.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 895.0
     }, 
     "year": "2003"
   }, 

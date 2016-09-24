@@ -5,12 +5,13 @@
       1.155, 
       1.317
     ], 
-    "gph": 664.4, 
     "triple_inshore": [
       0.6514, 
       0.9098, 
       1.0684
-    ]
+    ], 
+    "gph": 664.4, 
+    "osn": 649.4
   }, 
   "sailnumber": "NOR10371", 
   "name": "Hera 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.03, 
       "draft": 1.43, 
+      "wetted_surface": 26.3, 
       "main": 37.2, 
       "genoa": 39.9, 
       "displacement": 4323.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 646.0
     }, 
     "year": "1989"
   }, 

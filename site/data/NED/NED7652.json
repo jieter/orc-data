@@ -5,12 +5,13 @@
       1.1453, 
       1.3043
     ], 
-    "gph": 667.7, 
     "triple_inshore": [
       0.6708, 
       0.9274, 
       1.089
-    ]
+    ], 
+    "gph": 667.7, 
+    "osn": 647.4
   }, 
   "sailnumber": "NED7652", 
   "name": "Bowmore", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.9, 
       "loa": 9.49, 
       "draft": 1.93, 
+      "wetted_surface": 22.1, 
       "main": 25.5, 
       "genoa": 31.2, 
       "displacement": 3758.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 584.0
     }, 
     "year": "1998"
   }, 

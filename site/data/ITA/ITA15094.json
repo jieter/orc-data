@@ -5,12 +5,13 @@
       1.21, 
       1.3893
     ], 
-    "gph": 633.3, 
     "triple_inshore": [
       0.701, 
       0.9705, 
       1.1635
-    ]
+    ], 
+    "gph": 633.3, 
+    "osn": 613.8
   }, 
   "sailnumber": "ITA15094", 
   "name": "MERCUZIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.1, 
       "loa": 12.613, 
       "draft": 2.32, 
+      "wetted_surface": 33.3, 
       "main": 35.5, 
       "genoa": 55.2, 
       "displacement": 8813.0, 
-      "spinnaker_asym": 100.0
+      "spinnaker_asym": 100.0, 
+      "crew": 650.0
     }, 
     "year": "1984"
   }, 

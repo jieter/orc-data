@@ -5,12 +5,13 @@
       1.2294, 
       1.3889
     ], 
-    "gph": 620.6, 
     "triple_inshore": [
       0.7263, 
       0.9961, 
       1.1688
-    ]
+    ], 
+    "gph": 620.6, 
+    "osn": 603.2
   }, 
   "sailnumber": "NOR11956", 
   "name": "Morild", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.7, 
       "loa": 11.16, 
       "draft": 2.37, 
+      "wetted_surface": 29.1, 
       "main": 40.8, 
       "genoa": 43.5, 
       "displacement": 6749.0, 
-      "spinnaker_asym": 72.0
+      "spinnaker_asym": 72.0, 
+      "crew": 716.0
     }, 
     "year": "2004"
   }, 

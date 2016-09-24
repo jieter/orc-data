@@ -5,12 +5,13 @@
       0.9297, 
       1.0777
     ], 
-    "gph": 830.9, 
     "triple_inshore": [
       0.5213, 
       0.7449, 
       0.8961
-    ]
+    ], 
+    "gph": 830.9, 
+    "osn": 801.1
   }, 
   "sailnumber": "ITALEMAU", 
   "name": "LE MAURE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.178, 
       "draft": 1.46, 
+      "wetted_surface": 16.4, 
       "main": 14.3, 
       "genoa": 22.1, 
       "displacement": 2724.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1978"
   }, 

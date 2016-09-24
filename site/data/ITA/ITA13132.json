@@ -5,12 +5,13 @@
       1.1322, 
       1.2778
     ], 
-    "gph": 664.0, 
     "triple_inshore": [
       0.7137, 
       0.9288, 
       1.0592
-    ]
+    ], 
+    "gph": 664.0, 
+    "osn": 647.5
   }, 
   "sailnumber": "ITA13132", 
   "name": "FARR-FALLONE", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.1, 
       "loa": 7.345, 
       "draft": 1.6, 
+      "wetted_surface": 12.8, 
       "main": 24.6, 
       "genoa": 16.9, 
       "displacement": 1234.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1994"
   }, 

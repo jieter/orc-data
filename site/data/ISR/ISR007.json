@@ -5,12 +5,13 @@
       1.2336, 
       1.376
     ], 
-    "gph": 616.4, 
     "triple_inshore": [
       0.7409, 
       1.0012, 
       1.1572
-    ]
+    ], 
+    "gph": 616.4, 
+    "osn": 600.8
   }, 
   "sailnumber": "ISR007", 
   "name": "Seabiscuit", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.7, 
       "loa": 10.84, 
       "draft": 2.03, 
+      "wetted_surface": 27.5, 
       "main": 42.9, 
       "genoa": 38.6, 
       "displacement": 6330.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 720.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.1422, 
       1.307
     ], 
-    "gph": 661.3, 
     "triple_inshore": [
       0.7021, 
       0.9373, 
       1.0699
-    ]
+    ], 
+    "gph": 661.3, 
+    "osn": 641.8
   }, 
   "sailnumber": "ESP25308_C", 
   "name": "SAIL AND SEE BARCELONA", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.2, 
       "loa": 7.512, 
       "draft": 1.56, 
+      "wetted_surface": 11.4, 
       "main": 20.5, 
       "genoa": 12.8, 
       "displacement": 1138.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1996"
   }, 

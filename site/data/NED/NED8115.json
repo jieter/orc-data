@@ -5,12 +5,13 @@
       1.4687, 
       1.6856
     ], 
-    "gph": 521.8, 
     "triple_inshore": [
       0.829, 
       1.1601, 
       1.3916
-    ]
+    ], 
+    "gph": 521.8, 
+    "osn": 509.7
   }, 
   "sailnumber": "NED8115", 
   "name": "Dante", 
@@ -25,10 +26,12 @@
       "spinnaker": 227.2, 
       "loa": 16.88, 
       "draft": 2.61, 
+      "wetted_surface": 58.0, 
       "main": 88.6, 
       "genoa": 57.7, 
       "displacement": 18099.0, 
-      "spinnaker_asym": 228.0
+      "spinnaker_asym": 228.0, 
+      "crew": 1364.0
     }, 
     "year": "2008"
   }, 

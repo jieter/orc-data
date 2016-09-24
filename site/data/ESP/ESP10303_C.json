@@ -5,12 +5,13 @@
       1.2695, 
       1.4537
     ], 
-    "gph": 603.8, 
     "triple_inshore": [
       0.7243, 
       0.9933, 
       1.1773
-    ]
+    ], 
+    "gph": 603.8, 
+    "osn": 589.0
   }, 
   "sailnumber": "ESP10303_C", 
   "name": "5 MARES", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.63, 
       "draft": 2.01, 
+      "wetted_surface": 47.0, 
       "main": 59.7, 
       "genoa": 87.5, 
       "displacement": 14800.0, 
-      "spinnaker_asym": 175.0
+      "spinnaker_asym": 175.0, 
+      "crew": 650.0
     }, 
     "year": "1998"
   }, 

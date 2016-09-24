@@ -5,12 +5,13 @@
       1.1755, 
       1.3347
     ], 
-    "gph": 649.7, 
     "triple_inshore": [
       0.6921, 
       0.9564, 
       1.1151
-    ]
+    ], 
+    "gph": 649.7, 
+    "osn": 630.3
   }, 
   "sailnumber": "NED8215", 
   "name": "Hagelslag", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.8, 
       "loa": 9.503, 
       "draft": 1.93, 
+      "wetted_surface": 20.7, 
       "main": 32.4, 
       "genoa": 20.4, 
       "displacement": 3333.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 508.0
     }, 
     "year": "1994"
   }, 

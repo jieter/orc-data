@@ -5,12 +5,13 @@
       1.2828, 
       1.4528
     ], 
-    "gph": 595.2, 
     "triple_inshore": [
       0.7548, 
       1.0379, 
       1.2156
-    ]
+    ], 
+    "gph": 595.2, 
+    "osn": 578.5
   }, 
   "sailnumber": "ISR501", 
   "name": "Yam-2", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.1, 
       "loa": 11.924, 
       "draft": 2.41, 
+      "wetted_surface": 31.1, 
       "main": 48.5, 
       "genoa": 47.2, 
       "displacement": 7000.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 741.0
     }, 
     "year": "1997"
   }, 

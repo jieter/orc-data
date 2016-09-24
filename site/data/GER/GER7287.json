@@ -5,12 +5,13 @@
       1.3738, 
       1.5625
     ], 
-    "gph": 558.2, 
     "triple_inshore": [
       0.7922, 
       1.0979, 
       1.2972
-    ]
+    ], 
+    "gph": 558.2, 
+    "osn": 542.4
   }, 
   "sailnumber": "GER7287", 
   "name": "JOKALE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.95, 
       "draft": 2.55, 
+      "wetted_surface": 44.2, 
       "main": 68.7, 
       "genoa": 51.3, 
       "displacement": 11853.0, 
-      "spinnaker_asym": 163.0
+      "spinnaker_asym": 163.0, 
+      "crew": 800.0
     }, 
     "year": "2014"
   }, 

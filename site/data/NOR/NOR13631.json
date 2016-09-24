@@ -5,12 +5,13 @@
       1.1497, 
       1.3501
     ], 
-    "gph": 673.5, 
     "triple_inshore": [
       0.6304, 
       0.9155, 
       1.1226
-    ]
+    ], 
+    "gph": 673.5, 
+    "osn": 650.0
   }, 
   "sailnumber": "NOR13631", 
   "name": "Lille Myh", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.62, 
       "draft": 1.98, 
+      "wetted_surface": 32.3, 
       "main": 36.8, 
       "genoa": 37.6, 
       "displacement": 7255.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 754.0
     }, 
     "year": "2006"
   }, 

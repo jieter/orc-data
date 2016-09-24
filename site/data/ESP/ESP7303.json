@@ -5,12 +5,13 @@
       1.2448, 
       1.4036
     ], 
-    "gph": 614.0, 
     "triple_inshore": [
       0.7276, 
       0.9955, 
       1.164
-    ]
+    ], 
+    "gph": 614.0, 
+    "osn": 598.0
   }, 
   "sailnumber": "ESP7303", 
   "name": "ALBA ALBA", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.0, 
       "loa": 12.06, 
       "draft": 2.06, 
+      "wetted_surface": 32.0, 
       "main": 48.0, 
       "genoa": 44.6, 
       "displacement": 7755.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "2003"
   }, 

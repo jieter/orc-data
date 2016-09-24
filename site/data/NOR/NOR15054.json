@@ -5,12 +5,13 @@
       1.1292, 
       1.317
     ], 
-    "gph": 682.2, 
     "triple_inshore": [
       0.6358, 
       0.8975, 
       1.0959
-    ]
+    ], 
+    "gph": 682.2, 
+    "osn": 660.0
   }, 
   "sailnumber": "NOR15054", 
   "name": "Lazy", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.0, 
       "loa": 10.95, 
       "draft": 2.11, 
+      "wetted_surface": 30.0, 
       "main": 36.1, 
       "genoa": 33.5, 
       "displacement": 6901.0, 
-      "spinnaker_asym": 76.0
+      "spinnaker_asym": 76.0, 
+      "crew": 673.0
     }, 
     "year": "2002"
   }, 

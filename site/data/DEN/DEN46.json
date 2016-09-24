@@ -5,12 +5,13 @@
       1.3566, 
       1.5325
     ], 
-    "gph": 563.1, 
     "triple_inshore": [
       0.796, 
       1.0904, 
       1.2771
-    ]
+    ], 
+    "gph": 563.1, 
+    "osn": 548.2
   }, 
   "sailnumber": "DEN46", 
   "name": "Freedom", 
@@ -25,10 +26,12 @@
       "spinnaker": 142.8, 
       "loa": 13.99, 
       "draft": 2.66, 
+      "wetted_surface": 39.6, 
       "main": 68.1, 
       "genoa": 50.9, 
       "displacement": 10559.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 960.0
     }, 
     "year": "2003"
   }, 

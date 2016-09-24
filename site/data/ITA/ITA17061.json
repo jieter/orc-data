@@ -5,12 +5,13 @@
       1.0933, 
       1.303
     ], 
-    "gph": 709.7, 
     "triple_inshore": [
       0.5899, 
       0.8612, 
       1.0718
-    ]
+    ], 
+    "gph": 709.7, 
+    "osn": 685.0
   }, 
   "sailnumber": "ITA17061", 
   "name": "MIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.3, 
       "draft": 2.08, 
+      "wetted_surface": 34.1, 
       "main": 33.7, 
       "genoa": 49.0, 
       "displacement": 8416.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 502.0
     }, 
     "year": "1997"
   }, 

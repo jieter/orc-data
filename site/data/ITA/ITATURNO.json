@@ -5,12 +5,13 @@
       1.1787, 
       1.3547
     ], 
-    "gph": 650.4, 
     "triple_inshore": [
       0.6769, 
       0.9316, 
       1.1111
-    ]
+    ], 
+    "gph": 650.4, 
+    "osn": 632.4
   }, 
   "sailnumber": "ITATURNO", 
   "name": "TURNOVER", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 1.95, 
+      "wetted_surface": 32.1, 
       "main": 36.8, 
       "genoa": 43.1, 
       "displacement": 8220.0, 
-      "spinnaker_asym": 115.0
+      "spinnaker_asym": 115.0, 
+      "crew": 630.0
     }, 
     "year": "2000"
   }, 

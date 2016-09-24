@@ -5,12 +5,13 @@
       1.1665, 
       1.3292
     ], 
-    "gph": 653.8, 
     "triple_inshore": [
       0.6916, 
       0.9419, 
       1.1186
-    ]
+    ], 
+    "gph": 653.8, 
+    "osn": 634.6
   }, 
   "sailnumber": "ITA8583", 
   "name": "BLUE WITCH", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.7, 
       "loa": 11.841, 
       "draft": 2.12, 
+      "wetted_surface": 30.2, 
       "main": 29.6, 
       "genoa": 56.3, 
       "displacement": 8162.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1978"
   }, 

@@ -5,12 +5,13 @@
       1.0574, 
       1.227
     ], 
-    "gph": 724.5, 
     "triple_inshore": [
       0.6105, 
       0.847, 
       1.0241
-    ]
+    ], 
+    "gph": 724.5, 
+    "osn": 702.1
   }, 
   "sailnumber": "ITA16888", 
   "name": "LUCETTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 51.6, 
       "loa": 9.3, 
       "draft": 1.45, 
+      "wetted_surface": 21.0, 
       "main": 20.0, 
       "genoa": 28.6, 
       "displacement": 4100.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1989"
   }, 

@@ -5,12 +5,13 @@
       1.2295, 
       1.421
     ], 
-    "gph": 623.9, 
     "triple_inshore": [
       0.7012, 
       0.9756, 
       1.177
-    ]
+    ], 
+    "gph": 623.9, 
+    "osn": 606.0
   }, 
   "sailnumber": "NED7367", 
   "name": "BREEJE VEERTIEN II", 
@@ -25,10 +26,12 @@
       "spinnaker": 126.4, 
       "loa": 13.37, 
       "draft": 1.95, 
+      "wetted_surface": 37.7, 
       "main": 45.3, 
       "genoa": 54.1, 
       "displacement": 10219.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 821.0
     }, 
     "year": "1994"
   }, 

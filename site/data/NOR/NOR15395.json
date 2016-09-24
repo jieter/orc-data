@@ -5,12 +5,13 @@
       1.2822, 
       1.4565
     ], 
-    "gph": 597.5, 
     "triple_inshore": [
       0.741, 
       1.016, 
       1.1963
-    ]
+    ], 
+    "gph": 597.5, 
+    "osn": 580.9
   }, 
   "sailnumber": "NOR15395", 
   "name": "Lyra", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.15, 
       "draft": 2.21, 
+      "wetted_surface": 41.0, 
       "main": 65.0, 
       "genoa": 36.5, 
       "displacement": 11599.0, 
-      "spinnaker_asym": 153.0
+      "spinnaker_asym": 153.0, 
+      "crew": 880.0
     }, 
     "year": "2007"
   }, 

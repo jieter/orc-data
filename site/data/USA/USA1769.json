@@ -5,12 +5,13 @@
       1.3135, 
       1.4981
     ], 
-    "gph": 585.6, 
     "triple_inshore": [
       0.7495, 
       1.0428, 
       1.2309
-    ]
+    ], 
+    "gph": 585.6, 
+    "osn": 567.6
   }, 
   "sailnumber": "USA1769", 
   "name": "Malemok", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.68, 
       "draft": 2.29, 
+      "wetted_surface": 45.5, 
       "main": 58.2, 
       "genoa": 47.3, 
       "displacement": 12477.0, 
-      "spinnaker_asym": 169.0
+      "spinnaker_asym": 169.0, 
+      "crew": 752.0
     }, 
     "year": "2007"
   }, 

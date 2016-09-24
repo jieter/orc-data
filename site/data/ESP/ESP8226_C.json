@@ -5,12 +5,13 @@
       1.0963, 
       1.287
     ], 
-    "gph": 702.3, 
     "triple_inshore": [
       0.6162, 
       0.87, 
       1.0698
-    ]
+    ], 
+    "gph": 702.3, 
+    "osn": 679.4
   }, 
   "sailnumber": "ESP8226_C", 
   "name": "LAUSAMAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.18, 
       "draft": 1.78, 
+      "wetted_surface": 25.5, 
       "main": 24.6, 
       "genoa": 26.1, 
       "displacement": 5296.0, 
-      "spinnaker_asym": 71.0
+      "spinnaker_asym": 71.0, 
+      "crew": 500.0
     }, 
     "year": "2005"
   }, 

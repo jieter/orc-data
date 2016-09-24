@@ -5,12 +5,13 @@
       1.0933, 
       1.2383
     ], 
-    "gph": 681.2, 
     "triple_inshore": [
       0.7061, 
       0.8951, 
       1.0237
-    ]
+    ], 
+    "gph": 681.2, 
+    "osn": 668.8
   }, 
   "sailnumber": "FRA488", 
   "name": "ZEBULON", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.5, 
       "draft": 1.6, 
+      "wetted_surface": 11.4, 
       "main": 24.7, 
       "genoa": 12.2, 
       "displacement": 975.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 180.0
     }, 
     "year": "2007"
   }, 

@@ -5,12 +5,13 @@
       1.3349, 
       1.5561
     ], 
-    "gph": 578.4, 
     "triple_inshore": [
       0.7429, 
       1.0469, 
       1.2687
-    ]
+    ], 
+    "gph": 578.4, 
+    "osn": 560.6
   }, 
   "sailnumber": "GRE1194", 
   "name": "NEVERLAND", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 16.13, 
       "draft": 2.41, 
+      "wetted_surface": 61.4, 
       "main": 80.4, 
       "genoa": 53.7, 
       "displacement": 21532.0, 
-      "spinnaker_asym": 160.0
+      "spinnaker_asym": 160.0, 
+      "crew": 1000.0
     }, 
     "year": "2003"
   }, 

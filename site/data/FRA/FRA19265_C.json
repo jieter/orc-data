@@ -5,12 +5,13 @@
       1.2488, 
       1.4517
     ], 
-    "gph": 616.3, 
     "triple_inshore": [
       0.6889, 
       0.9776, 
       1.1946
-    ]
+    ], 
+    "gph": 616.3, 
+    "osn": 602.0
   }, 
   "sailnumber": "FRA19265_C", 
   "name": "MABOYA V", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.963, 
       "draft": 1.78, 
+      "wetted_surface": 47.1, 
       "main": 60.8, 
       "genoa": 71.3, 
       "displacement": 14305.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1991"
   }, 

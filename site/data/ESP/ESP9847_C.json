@@ -5,12 +5,13 @@
       1.1534, 
       1.3532
     ], 
-    "gph": 668.6, 
     "triple_inshore": [
       0.6413, 
       0.902, 
       1.1022
-    ]
+    ], 
+    "gph": 668.6, 
+    "osn": 648.3
   }, 
   "sailnumber": "ESP9847_C", 
   "name": "AITANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.82, 
       "draft": 1.56, 
+      "wetted_surface": 31.7, 
       "main": 38.8, 
       "genoa": 36.2, 
       "displacement": 8128.0, 
-      "spinnaker_asym": 87.0
+      "spinnaker_asym": 87.0, 
+      "crew": 500.0
     }, 
     "year": "2007"
   }, 

@@ -5,12 +5,13 @@
       1.2887, 
       1.4568
     ], 
-    "gph": 592.3, 
     "triple_inshore": [
       0.7549, 
       1.0327, 
       1.21
-    ]
+    ], 
+    "gph": 592.3, 
+    "osn": 577.4
   }, 
   "sailnumber": "NOR11229", 
   "name": "HeiltVilt", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.9, 
       "loa": 12.46, 
       "draft": 2.17, 
+      "wetted_surface": 33.4, 
       "main": 53.9, 
       "genoa": 53.8, 
       "displacement": 7831.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 821.0
     }, 
     "year": "2003"
   }, 

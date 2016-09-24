@@ -5,12 +5,13 @@
       0.9979, 
       1.1336
     ], 
-    "gph": 763.2, 
     "triple_inshore": [
       0.5955, 
       0.8118, 
       0.9444
-    ]
+    ], 
+    "gph": 763.2, 
+    "osn": 741.2
   }, 
   "sailnumber": "NED8625", 
   "name": "Miroir du Fou", 
@@ -25,10 +26,12 @@
       "spinnaker": 41.1, 
       "loa": 7.56, 
       "draft": 1.52, 
+      "wetted_surface": 13.4, 
       "main": 12.7, 
       "genoa": 21.2, 
       "displacement": 1700.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 344.0
     }, 
     "year": "1977"
   }, 

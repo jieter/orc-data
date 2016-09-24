@@ -5,12 +5,13 @@
       1.2803, 
       1.4708
     ], 
-    "gph": 598.5, 
     "triple_inshore": [
       0.7387, 
       1.0286, 
       1.2254
-    ]
+    ], 
+    "gph": 598.5, 
+    "osn": 580.4
   }, 
   "sailnumber": "ITA16006", 
   "name": "YEMANJA' II", 
@@ -25,10 +26,12 @@
       "spinnaker": 115.2, 
       "loa": 12.259, 
       "draft": 2.13, 
+      "wetted_surface": 34.2, 
       "main": 49.7, 
       "genoa": 42.7, 
       "displacement": 8334.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 650.0
     }, 
     "year": "2005"
   }, 

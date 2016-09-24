@@ -5,12 +5,13 @@
       1.2477, 
       1.3971
     ], 
-    "gph": 609.2, 
     "triple_inshore": [
       0.7504, 
       1.015, 
       1.1649
-    ]
+    ], 
+    "gph": 609.2, 
+    "osn": 593.8
   }, 
   "sailnumber": "ITA15535", 
   "name": "X-REAL", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.9, 
       "loa": 10.6, 
       "draft": 2.17, 
+      "wetted_surface": 24.3, 
       "main": 41.1, 
       "genoa": 33.1, 
       "displacement": 4411.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2005"
   }, 

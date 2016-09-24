@@ -5,12 +5,13 @@
       1.3136, 
       1.492
     ], 
-    "gph": 573.3, 
     "triple_inshore": [
       0.8108, 
       1.0632, 
       1.24
-    ]
+    ], 
+    "gph": 573.3, 
+    "osn": 560.5
   }, 
   "sailnumber": "BRA2389", 
   "name": "BICHO GRILO", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.2, 
       "loa": 9.98, 
       "draft": 2.5, 
+      "wetted_surface": 21.5, 
       "main": 41.3, 
       "genoa": 26.5, 
       "displacement": 2509.0, 
-      "spinnaker_asym": 110.0
+      "spinnaker_asym": 110.0, 
+      "crew": 550.0
     }, 
     "year": "2009"
   }, 

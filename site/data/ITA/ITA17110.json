@@ -5,12 +5,13 @@
       1.5078, 
       1.7094
     ], 
-    "gph": 506.6, 
     "triple_inshore": [
       0.8795, 
       1.198, 
       1.379
-    ]
+    ], 
+    "gph": 506.6, 
+    "osn": 493.8
   }, 
   "sailnumber": "ITA17110", 
   "name": "ALIAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.97, 
       "draft": 2.88, 
+      "wetted_surface": 54.1, 
       "main": 100.5, 
       "genoa": 67.0, 
       "displacement": 12085.0, 
-      "spinnaker_asym": 243.0
+      "spinnaker_asym": 243.0, 
+      "crew": 1132.0
     }, 
     "year": "2014"
   }, 

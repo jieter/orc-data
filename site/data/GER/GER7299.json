@@ -5,12 +5,13 @@
       1.1899, 
       1.3265
     ], 
-    "gph": 639.1, 
     "triple_inshore": [
       0.7148, 
       0.9599, 
       1.0965
-    ]
+    ], 
+    "gph": 639.1, 
+    "osn": 623.1
   }, 
   "sailnumber": "GER7299", 
   "name": "LEESEERATTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.515, 
       "draft": 1.94, 
+      "wetted_surface": 23.8, 
       "main": 35.4, 
       "genoa": 28.5, 
       "displacement": 4085.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 350.0
     }, 
     "year": "2010"
   }, 

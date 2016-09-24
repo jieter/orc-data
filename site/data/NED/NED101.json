@@ -5,12 +5,13 @@
       1.2192, 
       1.4011
     ], 
-    "gph": 629.6, 
     "triple_inshore": [
       0.6984, 
       0.973, 
       1.1552
-    ]
+    ], 
+    "gph": 629.6, 
+    "osn": 610.1
   }, 
   "sailnumber": "NED101", 
   "name": "SailSelect", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.7, 
       "loa": 11.27, 
       "draft": 1.97, 
+      "wetted_surface": 31.8, 
       "main": 44.0, 
       "genoa": 31.3, 
       "displacement": 6526.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2012"
   }, 

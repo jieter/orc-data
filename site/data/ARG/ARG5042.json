@@ -5,12 +5,13 @@
       1.2195, 
       1.3943
     ], 
-    "gph": 629.7, 
     "triple_inshore": [
       0.7063, 
       0.9836, 
       1.1764
-    ]
+    ], 
+    "gph": 629.7, 
+    "osn": 608.4
   }, 
   "sailnumber": "ARG5042", 
   "name": "CARECA", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.6, 
       "loa": 12.02, 
       "draft": 1.25, 
+      "wetted_surface": 32.4, 
       "main": 44.5, 
       "genoa": 37.6, 
       "displacement": 9052.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 776.0
     }, 
     "year": "2006"
   }, 

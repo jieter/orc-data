@@ -5,12 +5,13 @@
       1.0481, 
       1.1999
     ], 
-    "gph": 737.2, 
     "triple_inshore": [
       0.5858, 
       0.8323, 
       0.9893
-    ]
+    ], 
+    "gph": 737.2, 
+    "osn": 713.8
   }, 
   "sailnumber": "NOR6351", 
   "name": "Carita", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.6, 
       "loa": 9.4, 
       "draft": 1.57, 
+      "wetted_surface": 20.8, 
       "main": 29.5, 
       "genoa": 32.2, 
       "displacement": 3662.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 531.0
     }, 
     "year": "1983"
   }, 

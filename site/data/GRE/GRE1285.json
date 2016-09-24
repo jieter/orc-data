@@ -5,12 +5,13 @@
       1.0546, 
       1.2215
     ], 
-    "gph": 727.0, 
     "triple_inshore": [
       0.6078, 
       0.8449, 
       1.0208
-    ]
+    ], 
+    "gph": 727.0, 
+    "osn": 704.3
   }, 
   "sailnumber": "GRE1285", 
   "name": "MARINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.0, 
       "loa": 9.34, 
       "draft": 1.59, 
+      "wetted_surface": 20.7, 
       "main": 17.8, 
       "genoa": 28.4, 
       "displacement": 4036.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1990"
   }, 

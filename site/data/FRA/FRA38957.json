@@ -5,12 +5,13 @@
       1.2811, 
       1.5091
     ], 
-    "gph": 589.5, 
     "triple_inshore": [
       0.7784, 
       1.0215, 
       1.2042
-    ]
+    ], 
+    "gph": 589.5, 
+    "osn": 573.1
   }, 
   "sailnumber": "FRA38957", 
   "name": "WHY NOT 4", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.622, 
       "draft": 1.94, 
+      "wetted_surface": 14.0, 
       "main": 29.2, 
       "genoa": 16.8, 
       "displacement": 1245.0, 
-      "spinnaker_asym": 58.0
+      "spinnaker_asym": 58.0, 
+      "crew": 460.0
     }, 
     "year": "1996"
   }, 

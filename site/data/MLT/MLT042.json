@@ -5,12 +5,13 @@
       1.3486, 
       1.5219
     ], 
-    "gph": 565.5, 
     "triple_inshore": [
       0.7949, 
       1.0842, 
       1.2576
-    ]
+    ], 
+    "gph": 565.5, 
+    "osn": 551.0
   }, 
   "sailnumber": "MLT042", 
   "name": "HISPANIOLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.0, 
       "loa": 12.54, 
       "draft": 2.56, 
+      "wetted_surface": 31.7, 
       "main": 61.4, 
       "genoa": 40.7, 
       "displacement": 6590.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 900.0
     }, 
     "year": "2004"
   }, 

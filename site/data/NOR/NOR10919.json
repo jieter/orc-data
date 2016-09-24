@@ -5,12 +5,13 @@
       1.3245, 
       1.5492
     ], 
-    "gph": 580.6, 
     "triple_inshore": [
       0.7424, 
       1.0435, 
       1.2647
-    ]
+    ], 
+    "gph": 580.6, 
+    "osn": 563.9
   }, 
   "sailnumber": "NOR10919", 
   "name": "MALEVI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.94, 
       "draft": 2.1, 
+      "wetted_surface": 43.3, 
       "main": 51.1, 
       "genoa": 68.8, 
       "displacement": 10975.0, 
-      "spinnaker_asym": 137.0
+      "spinnaker_asym": 137.0, 
+      "crew": 992.0
     }, 
     "year": "2002"
   }, 

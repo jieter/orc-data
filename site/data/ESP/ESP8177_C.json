@@ -5,12 +5,13 @@
       1.1177, 
       1.2933
     ], 
-    "gph": 687.8, 
     "triple_inshore": [
       0.6406, 
       0.9, 
       1.09
-    ]
+    ], 
+    "gph": 687.8, 
+    "osn": 664.2
   }, 
   "sailnumber": "ESP8177_C", 
   "name": "ANA-HELENA", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.3, 
       "loa": 9.81, 
       "draft": 1.95, 
+      "wetted_surface": 22.6, 
       "main": 28.0, 
       "genoa": 27.2, 
       "displacement": 4900.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 605.0
     }, 
     "year": "2003"
   }, 

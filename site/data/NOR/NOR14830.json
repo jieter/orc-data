@@ -5,12 +5,13 @@
       1.1623, 
       1.3151
     ], 
-    "gph": 657.0, 
     "triple_inshore": [
       0.6849, 
       0.9426, 
       1.1025
-    ]
+    ], 
+    "gph": 657.0, 
+    "osn": 637.6
   }, 
   "sailnumber": "NOR14830", 
   "name": "Egensjo", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.252, 
       "draft": 1.92, 
+      "wetted_surface": 22.8, 
       "main": 30.7, 
       "genoa": 23.9, 
       "displacement": 4187.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 582.0
     }, 
     "year": "2009"
   }, 

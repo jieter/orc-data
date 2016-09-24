@@ -5,12 +5,13 @@
       1.0999, 
       1.2462
     ], 
-    "gph": 695.6, 
     "triple_inshore": [
       0.6438, 
       0.8878, 
       1.044
-    ]
+    ], 
+    "gph": 695.6, 
+    "osn": 675.0
   }, 
   "sailnumber": "ESP9940_C", 
   "name": "HUBARA", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.4, 
       "loa": 9.446, 
       "draft": 1.71, 
+      "wetted_surface": 21.1, 
       "main": 29.4, 
       "genoa": 24.7, 
       "displacement": 4306.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1987"
   }, 

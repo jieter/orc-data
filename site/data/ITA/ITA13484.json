@@ -5,12 +5,13 @@
       1.2721, 
       1.4312
     ], 
-    "gph": 599.5, 
     "triple_inshore": [
       0.7523, 
       1.0262, 
       1.195
-    ]
+    ], 
+    "gph": 599.5, 
+    "osn": 583.8
   }, 
   "sailnumber": "ITA13484", 
   "name": "MAGICA LUCE", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.2, 
       "loa": 11.924, 
       "draft": 2.41, 
+      "wetted_surface": 31.1, 
       "main": 47.2, 
       "genoa": 49.0, 
       "displacement": 6975.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 635.0
     }, 
     "year": "1997"
   }, 

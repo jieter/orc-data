@@ -5,12 +5,13 @@
       1.1246, 
       1.313
     ], 
-    "gph": 687.2, 
     "triple_inshore": [
       0.6227, 
       0.879, 
       1.0685
-    ]
+    ], 
+    "gph": 687.2, 
+    "osn": 665.3
   }, 
   "sailnumber": "ITASERMA", 
   "name": "SERMAX", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.624, 
       "draft": 1.89, 
+      "wetted_surface": 32.2, 
       "main": 33.6, 
       "genoa": 41.8, 
       "displacement": 7721.0, 
-      "spinnaker_asym": 77.0
+      "spinnaker_asym": 77.0, 
+      "crew": 440.0
     }, 
     "year": "1999"
   }, 

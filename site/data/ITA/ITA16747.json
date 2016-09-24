@@ -5,12 +5,13 @@
       1.3441, 
       1.5065
     ], 
-    "gph": 569.1, 
     "triple_inshore": [
       0.7878, 
       1.0761, 
       1.2432
-    ]
+    ], 
+    "gph": 569.1, 
+    "osn": 553.8
   }, 
   "sailnumber": "ITA16747", 
   "name": "DAMANHUR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.72, 
       "draft": 2.74, 
+      "wetted_surface": 40.6, 
       "main": 59.3, 
       "genoa": 52.7, 
       "displacement": 10391.0, 
-      "spinnaker_asym": 173.0
+      "spinnaker_asym": 173.0, 
+      "crew": 600.0
     }, 
     "year": "2004"
   }, 

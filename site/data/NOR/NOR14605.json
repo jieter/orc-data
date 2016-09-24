@@ -5,12 +5,13 @@
       1.2185, 
       1.3807
     ], 
-    "gph": 627.2, 
     "triple_inshore": [
       0.7158, 
       0.9856, 
       1.1616
-    ]
+    ], 
+    "gph": 627.2, 
+    "osn": 608.8
   }, 
   "sailnumber": "NOR14605", 
   "name": "Carolina av alvoen II", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.3, 
       "loa": 11.33, 
       "draft": 2.37, 
+      "wetted_surface": 29.1, 
       "main": 38.8, 
       "genoa": 42.0, 
       "displacement": 6749.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 716.0
     }, 
     "year": "2003"
   }, 

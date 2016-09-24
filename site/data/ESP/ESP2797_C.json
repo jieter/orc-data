@@ -5,12 +5,13 @@
       1.0663, 
       1.2312
     ], 
-    "gph": 721.3, 
     "triple_inshore": [
       0.606, 
       0.8601, 
       1.0353
-    ]
+    ], 
+    "gph": 721.3, 
+    "osn": 697.4
   }, 
   "sailnumber": "ESP2797_C", 
   "name": "ALPISPA 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.112, 
       "draft": 1.76, 
+      "wetted_surface": 22.2, 
       "main": 29.3, 
       "genoa": 26.9, 
       "displacement": 4306.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1981"
   }, 

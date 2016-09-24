@@ -5,12 +5,13 @@
       1.2119, 
       1.3804
     ], 
-    "gph": 632.7, 
     "triple_inshore": [
       0.6955, 
       0.9546, 
       1.1232
-    ]
+    ], 
+    "gph": 632.7, 
+    "osn": 615.7
   }, 
   "sailnumber": "ESP4392", 
   "name": "MEDETA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.688, 
       "draft": 1.78, 
+      "wetted_surface": 34.7, 
       "main": 45.6, 
       "genoa": 48.3, 
       "displacement": 8509.0, 
-      "spinnaker_asym": 98.0
+      "spinnaker_asym": 98.0, 
+      "crew": 680.0
     }, 
     "year": "1993"
   }, 

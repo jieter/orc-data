@@ -5,12 +5,13 @@
       1.2556, 
       1.4256
     ], 
-    "gph": 607.8, 
     "triple_inshore": [
       0.738, 
       1.0098, 
       1.1909
-    ]
+    ], 
+    "gph": 607.8, 
+    "osn": 591.7
   }, 
   "sailnumber": "ITA12123", 
   "name": "X-LIVE", 
@@ -25,10 +26,12 @@
       "spinnaker": 116.7, 
       "loa": 12.5, 
       "draft": 2.23, 
+      "wetted_surface": 31.9, 
       "main": 42.5, 
       "genoa": 61.6, 
       "displacement": 7920.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 740.0
     }, 
     "year": "1991"
   }, 

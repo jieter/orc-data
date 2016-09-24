@@ -5,12 +5,13 @@
       1.2248, 
       1.388
     ], 
-    "gph": 624.2, 
     "triple_inshore": [
       0.7136, 
       0.9831, 
       1.1551
-    ]
+    ], 
+    "gph": 624.2, 
+    "osn": 607.1
   }, 
   "sailnumber": "GRE4954", 
   "name": "AELLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 123.8, 
       "loa": 12.2, 
       "draft": 2.01, 
+      "wetted_surface": 31.4, 
       "main": 47.1, 
       "genoa": 40.4, 
       "displacement": 7906.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 727.0
     }, 
     "year": "1988"
   }, 

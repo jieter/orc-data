@@ -5,12 +5,13 @@
       1.1747, 
       1.3387
     ], 
-    "gph": 652.0, 
     "triple_inshore": [
       0.6805, 
       0.9413, 
       1.1121
-    ]
+    ], 
+    "gph": 652.0, 
+    "osn": 633.2
   }, 
   "sailnumber": "NED6303", 
   "name": "SNOOPY", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.5, 
       "loa": 11.378, 
       "draft": 1.52, 
+      "wetted_surface": 30.2, 
       "main": 44.8, 
       "genoa": 28.6, 
       "displacement": 6103.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 663.0
     }, 
     "year": "1991"
   }, 

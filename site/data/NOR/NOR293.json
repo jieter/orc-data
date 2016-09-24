@@ -5,12 +5,13 @@
       1.0118, 
       1.163
     ], 
-    "gph": 760.8, 
     "triple_inshore": [
       0.5735, 
       0.8098, 
       0.9573
-    ]
+    ], 
+    "gph": 760.8, 
+    "osn": 736.6
   }, 
   "sailnumber": "NOR293", 
   "name": "Daddy`s", 
@@ -25,10 +26,12 @@
       "spinnaker": 28.4, 
       "loa": 8.94, 
       "draft": 1.19, 
+      "wetted_surface": 13.5, 
       "main": 18.2, 
       "genoa": 11.0, 
       "displacement": 1708.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 285.0
     }, 
     "year": "1950"
   }, 

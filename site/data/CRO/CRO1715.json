@@ -5,12 +5,13 @@
       1.3126, 
       1.5001
     ], 
-    "gph": 584.2, 
     "triple_inshore": [
       0.7537, 
       1.0425, 
       1.2412
-    ]
+    ], 
+    "gph": 584.2, 
+    "osn": 567.7
   }, 
   "sailnumber": "CRO1715", 
   "name": "Karpo", 
@@ -25,10 +26,12 @@
       "spinnaker": 160.8, 
       "loa": 13.58, 
       "draft": 2.1, 
+      "wetted_surface": 45.9, 
       "main": 62.5, 
       "genoa": 52.7, 
       "displacement": 12895.0, 
-      "spinnaker_asym": 164.0
+      "spinnaker_asym": 164.0, 
+      "crew": 870.0
     }, 
     "year": "2007"
   }, 

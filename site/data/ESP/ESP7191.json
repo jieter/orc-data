@@ -5,12 +5,13 @@
       1.206, 
       1.3721
     ], 
-    "gph": 635.8, 
     "triple_inshore": [
       0.6962, 
       0.9643, 
       1.1381
-    ]
+    ], 
+    "gph": 635.8, 
+    "osn": 617.2
   }, 
   "sailnumber": "ESP7191", 
   "name": "OLIMPIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.7, 
       "loa": 11.848, 
       "draft": 2.07, 
+      "wetted_surface": 30.4, 
       "main": 38.8, 
       "genoa": 40.0, 
       "displacement": 6778.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "2000"
   }, 

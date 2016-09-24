@@ -5,12 +5,13 @@
       1.2374, 
       1.3888
     ], 
-    "gph": 614.2, 
     "triple_inshore": [
       0.7398, 
       0.9992, 
       1.1681
-    ]
+    ], 
+    "gph": 614.2, 
+    "osn": 599.7
   }, 
   "sailnumber": "ESP2841_C", 
   "name": "CALMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.3, 
       "loa": 12.18, 
       "draft": 2.24, 
+      "wetted_surface": 31.0, 
       "main": 57.8, 
       "genoa": 51.5, 
       "displacement": 7672.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 75.0
     }, 
     "year": "1982"
   }, 

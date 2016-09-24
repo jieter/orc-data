@@ -5,12 +5,13 @@
       1.2221, 
       1.4202
     ], 
-    "gph": 630.9, 
     "triple_inshore": [
       0.6841, 
       0.9569, 
       1.156
-    ]
+    ], 
+    "gph": 630.9, 
+    "osn": 611.9
   }, 
   "sailnumber": "ISR72524", 
   "name": "Karakahia", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.44, 
       "draft": 2.06, 
+      "wetted_surface": 47.4, 
       "main": 45.3, 
       "genoa": 67.7, 
       "displacement": 14656.0, 
-      "spinnaker_asym": 137.0
+      "spinnaker_asym": 137.0, 
+      "crew": 982.0
     }, 
     "year": "1987"
   }, 

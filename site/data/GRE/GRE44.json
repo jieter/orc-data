@@ -5,12 +5,13 @@
       1.3726, 
       1.5437
     ], 
-    "gph": 555.0, 
     "triple_inshore": [
       0.8148, 
       1.1058, 
       1.2722
-    ]
+    ], 
+    "gph": 555.0, 
+    "osn": 540.3
   }, 
   "sailnumber": "GRE44", 
   "name": "MELITI IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 138.2, 
       "loa": 12.66, 
       "draft": 2.39, 
+      "wetted_surface": 31.2, 
       "main": 59.8, 
       "genoa": 40.6, 
       "displacement": 6038.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 780.0
     }, 
     "year": "2004"
   }, 

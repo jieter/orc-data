@@ -5,12 +5,13 @@
       1.2018, 
       1.3612
     ], 
-    "gph": 633.6, 
     "triple_inshore": [
       0.716, 
       0.9794, 
       1.1311
-    ]
+    ], 
+    "gph": 633.6, 
+    "osn": 615.7
   }, 
   "sailnumber": "FIN9703", 
   "name": "Jasmiina", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.9, 
       "loa": 9.577, 
       "draft": 2.03, 
+      "wetted_surface": 18.8, 
       "main": 29.1, 
       "genoa": 25.1, 
       "displacement": 2758.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "2000"
   }, 

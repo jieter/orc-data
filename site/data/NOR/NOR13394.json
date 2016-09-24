@@ -5,12 +5,13 @@
       1.241, 
       1.4065
     ], 
-    "gph": 615.7, 
     "triple_inshore": [
       0.7279, 
       1.002, 
       1.1832
-    ]
+    ], 
+    "gph": 615.7, 
+    "osn": 598.2
   }, 
   "sailnumber": "NOR13394", 
   "name": "La Nina", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.5, 
       "loa": 11.9, 
       "draft": 2.46, 
+      "wetted_surface": 32.6, 
       "main": 45.6, 
       "genoa": 48.8, 
       "displacement": 8158.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 742.0
     }, 
     "year": "2001"
   }, 

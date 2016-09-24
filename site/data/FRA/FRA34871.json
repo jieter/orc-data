@@ -5,12 +5,13 @@
       1.1845, 
       1.3477
     ], 
-    "gph": 644.8, 
     "triple_inshore": [
       0.697, 
       0.9544, 
       1.1105
-    ]
+    ], 
+    "gph": 644.8, 
+    "osn": 625.3
   }, 
   "sailnumber": "FRA34871", 
   "name": "WALHALLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.6, 
       "draft": 2.0, 
+      "wetted_surface": 22.9, 
       "main": 30.0, 
       "genoa": 24.8, 
       "displacement": 3730.0, 
-      "spinnaker_asym": 84.0
+      "spinnaker_asym": 84.0, 
+      "crew": 510.0
     }, 
     "year": "2003"
   }, 

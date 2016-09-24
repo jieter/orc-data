@@ -5,12 +5,13 @@
       1.4356, 
       1.6267
     ], 
-    "gph": 530.0, 
     "triple_inshore": [
       0.849, 
       1.1475, 
       1.3298
-    ]
+    ], 
+    "gph": 530.0, 
+    "osn": 517.1
   }, 
   "sailnumber": "BRA2283", 
   "name": "CHROMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 134.1, 
       "loa": 13.83, 
       "draft": 2.63, 
+      "wetted_surface": 36.4, 
       "main": 78.5, 
       "genoa": 49.6, 
       "displacement": 7400.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 920.0
     }, 
     "year": "2006"
   }, 

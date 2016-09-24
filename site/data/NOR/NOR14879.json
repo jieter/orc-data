@@ -5,12 +5,13 @@
       1.1675, 
       1.3489
     ], 
-    "gph": 657.8, 
     "triple_inshore": [
       0.6585, 
       0.9272, 
       1.1278
-    ]
+    ], 
+    "gph": 657.8, 
+    "osn": 640.6
   }, 
   "sailnumber": "NOR14879", 
   "name": "Veiva", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.16, 
       "draft": 2.1, 
+      "wetted_surface": 28.8, 
       "main": 40.0, 
       "genoa": 30.4, 
       "displacement": 6815.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 718.0
     }, 
     "year": "2007"
   }, 

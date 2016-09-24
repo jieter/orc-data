@@ -5,12 +5,13 @@
       1.1564, 
       1.33
     ], 
-    "gph": 663.3, 
     "triple_inshore": [
       0.6645, 
       0.9227, 
       1.1013
-    ]
+    ], 
+    "gph": 663.3, 
+    "osn": 643.3
   }, 
   "sailnumber": "NOR11605", 
   "name": "Sirkus", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.9, 
       "loa": 10.96, 
       "draft": 1.56, 
+      "wetted_surface": 26.1, 
       "main": 30.5, 
       "genoa": 32.3, 
       "displacement": 5674.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "2001"
   }, 

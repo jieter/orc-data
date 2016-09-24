@@ -5,12 +5,13 @@
       1.166, 
       1.3455
     ], 
-    "gph": 657.8, 
     "triple_inshore": [
       0.6721, 
       0.9357, 
       1.127
-    ]
+    ], 
+    "gph": 657.8, 
+    "osn": 636.8
   }, 
   "sailnumber": "ESP5891_C", 
   "name": "FOSC", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.1, 
       "loa": 10.944, 
       "draft": 2.1, 
+      "wetted_surface": 29.4, 
       "main": 37.9, 
       "genoa": 28.1, 
       "displacement": 6484.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1999"
   }, 

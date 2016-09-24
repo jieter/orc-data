@@ -5,12 +5,13 @@
       1.2845, 
       1.4536
     ], 
-    "gph": 592.4, 
     "triple_inshore": [
       0.764, 
       1.0354, 
       1.186
-    ]
+    ], 
+    "gph": 592.4, 
+    "osn": 576.8
   }, 
   "sailnumber": "ESP9998", 
   "name": "DON PEDRO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.91, 
       "draft": 2.31, 
+      "wetted_surface": 24.5, 
       "main": 41.5, 
       "genoa": 30.4, 
       "displacement": 4058.0, 
-      "spinnaker_asym": 121.0
+      "spinnaker_asym": 121.0, 
+      "crew": 630.0
     }, 
     "year": "1993"
   }, 

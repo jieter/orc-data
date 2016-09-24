@@ -5,12 +5,13 @@
       1.2855, 
       1.5167
     ], 
-    "gph": 591.0, 
     "triple_inshore": [
       0.7604, 
       1.0182, 
       1.2114
-    ]
+    ], 
+    "gph": 591.0, 
+    "osn": 574.6
   }, 
   "sailnumber": "NED8619", 
   "name": "Yang", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.67, 
       "draft": 1.69, 
+      "wetted_surface": 16.7, 
       "main": 27.5, 
       "genoa": 19.5, 
       "displacement": 1302.0, 
-      "spinnaker_asym": 79.0
+      "spinnaker_asym": 79.0, 
+      "crew": 425.0
     }, 
     "year": "2015"
   }, 

@@ -5,12 +5,13 @@
       1.0936, 
       1.2371
     ], 
-    "gph": 697.9, 
     "triple_inshore": [
       0.6473, 
       0.881, 
       1.0362
-    ]
+    ], 
+    "gph": 697.9, 
+    "osn": 678.3
   }, 
   "sailnumber": "NED8710", 
   "name": "Vento", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.6, 
       "loa": 10.44, 
       "draft": 1.87, 
+      "wetted_surface": 24.8, 
       "main": 24.5, 
       "genoa": 36.9, 
       "displacement": 5580.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 527.0
     }, 
     "year": "1986"
   }, 

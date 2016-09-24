@@ -5,12 +5,13 @@
       1.0688, 
       1.1829
     ], 
-    "gph": 708.3, 
     "triple_inshore": [
       0.6587, 
       0.8768, 
       0.995
-    ]
+    ], 
+    "gph": 708.3, 
+    "osn": 690.3
   }, 
   "sailnumber": "SUI228", 
   "name": "BELUGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.6, 
       "loa": 8.478, 
       "draft": 1.68, 
+      "wetted_surface": 17.3, 
       "main": 21.2, 
       "genoa": 23.8, 
       "displacement": 3020.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1980"
   }, 

@@ -5,12 +5,13 @@
       1.1514, 
       1.3199
     ], 
-    "gph": 667.0, 
     "triple_inshore": [
       0.6534, 
       0.9247, 
       1.1073
-    ]
+    ], 
+    "gph": 667.0, 
+    "osn": 648.0
   }, 
   "sailnumber": "NED8738", 
   "name": "Freestyle", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.944, 
       "draft": 2.08, 
+      "wetted_surface": 29.0, 
       "main": 39.9, 
       "genoa": 38.9, 
       "displacement": 6300.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.3018, 
       1.4836
     ], 
-    "gph": 589.5, 
     "triple_inshore": [
       0.7481, 
       1.0381, 
       1.2243
-    ]
+    ], 
+    "gph": 589.5, 
+    "osn": 572.4
   }, 
   "sailnumber": "GER6556", 
   "name": "HAVANA 44", 
@@ -25,10 +26,12 @@
       "spinnaker": 153.3, 
       "loa": 13.15, 
       "draft": 2.18, 
+      "wetted_surface": 40.1, 
       "main": 59.0, 
       "genoa": 48.1, 
       "displacement": 9877.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2010"
   }, 

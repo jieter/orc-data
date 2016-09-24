@@ -5,12 +5,13 @@
       0.9854, 
       1.1265
     ], 
-    "gph": 773.6, 
     "triple_inshore": [
       0.5836, 
       0.7985, 
       0.9452
-    ]
+    ], 
+    "gph": 773.6, 
+    "osn": 751.6
   }, 
   "sailnumber": "ITA16904", 
   "name": "CIABATTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 45.4, 
       "loa": 7.8, 
       "draft": 1.6, 
+      "wetted_surface": 15.0, 
       "main": 14.3, 
       "genoa": 24.0, 
       "displacement": 2326.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1973"
   }, 

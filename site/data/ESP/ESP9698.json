@@ -5,12 +5,13 @@
       1.2409, 
       1.4006
     ], 
-    "gph": 615.9, 
     "triple_inshore": [
       0.7238, 
       0.9841, 
       1.151
-    ]
+    ], 
+    "gph": 615.9, 
+    "osn": 600.2
   }, 
   "sailnumber": "ESP9698", 
   "name": "DEFENDER", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 2.11, 
+      "wetted_surface": 37.6, 
       "main": 54.6, 
       "genoa": 50.0, 
       "displacement": 9857.0, 
-      "spinnaker_asym": 115.0
+      "spinnaker_asym": 115.0, 
+      "crew": 550.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       1.1238, 
       1.2777
     ], 
-    "gph": 674.4, 
     "triple_inshore": [
       0.6791, 
       0.9076, 
       1.0398
-    ]
+    ], 
+    "gph": 674.4, 
+    "osn": 656.8
   }, 
   "sailnumber": "ESP984", 
   "name": "NAUTICO CORMORAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.032, 
       "draft": 1.51, 
+      "wetted_surface": 13.8, 
       "main": 21.3, 
       "genoa": 13.3, 
       "displacement": 1521.0, 
-      "spinnaker_asym": 63.0
+      "spinnaker_asym": 63.0, 
+      "crew": 329.0
     }, 
     "year": "1993"
   }, 

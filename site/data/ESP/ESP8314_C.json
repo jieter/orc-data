@@ -5,12 +5,13 @@
       1.1915, 
       1.3742
     ], 
-    "gph": 643.7, 
     "triple_inshore": [
       0.6827, 
       0.9438, 
       1.1315
-    ]
+    ], 
+    "gph": 643.7, 
+    "osn": 625.0
   }, 
   "sailnumber": "ESP8314_C", 
   "name": "TRUFETA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.562, 
       "draft": 1.99, 
+      "wetted_surface": 30.8, 
       "main": 37.0, 
       "genoa": 41.9, 
       "displacement": 7375.0, 
-      "spinnaker_asym": 87.0
+      "spinnaker_asym": 87.0, 
+      "crew": 650.0
     }, 
     "year": "2008"
   }, 

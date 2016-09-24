@@ -5,12 +5,13 @@
       1.0843, 
       1.2167
     ], 
-    "gph": 702.5, 
     "triple_inshore": [
       0.648, 
       0.8801, 
       1.0034
-    ]
+    ], 
+    "gph": 702.5, 
+    "osn": 682.9
   }, 
   "sailnumber": "ITA10755", 
   "name": "ARDUINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 50.9, 
       "loa": 8.305, 
       "draft": 1.45, 
+      "wetted_surface": 14.9, 
       "main": 19.4, 
       "genoa": 18.5, 
       "displacement": 1800.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1986"
   }, 

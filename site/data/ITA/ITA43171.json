@@ -5,12 +5,13 @@
       1.3031, 
       1.4783
     ], 
-    "gph": 587.7, 
     "triple_inshore": [
       0.7541, 
       1.0393, 
       1.2187
-    ]
+    ], 
+    "gph": 587.7, 
+    "osn": 571.6
   }, 
   "sailnumber": "ITA43171", 
   "name": "SOUND OF SILENCE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.95, 
       "draft": 2.35, 
+      "wetted_surface": 37.2, 
       "main": 53.8, 
       "genoa": 56.1, 
       "displacement": 9413.0, 
-      "spinnaker_asym": 120.0
+      "spinnaker_asym": 120.0, 
+      "crew": 750.0
     }, 
     "year": "2005"
   }, 

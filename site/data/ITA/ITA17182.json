@@ -5,12 +5,13 @@
       1.4262, 
       1.6797
     ], 
-    "gph": 536.9, 
     "triple_inshore": [
       0.7912, 
       1.1176, 
       1.3613
-    ]
+    ], 
+    "gph": 536.9, 
+    "osn": 525.6
   }, 
   "sailnumber": "ITA17182", 
   "name": "PROFILO 2.0", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.99, 
       "draft": 2.6, 
+      "wetted_surface": 45.1, 
       "main": 73.7, 
       "genoa": 51.0, 
       "displacement": 10715.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2016"
   }, 

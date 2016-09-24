@@ -5,12 +5,13 @@
       1.151, 
       1.3317
     ], 
-    "gph": 662.6, 
     "triple_inshore": [
       0.6767, 
       0.9279, 
       1.0944
-    ]
+    ], 
+    "gph": 662.6, 
+    "osn": 642.4
   }, 
   "sailnumber": "ITA13926", 
   "name": "WHITE MAGIC", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.14, 
       "draft": 1.84, 
+      "wetted_surface": 19.1, 
       "main": 27.4, 
       "genoa": 17.9, 
       "displacement": 2890.0, 
-      "spinnaker_asym": 72.0
+      "spinnaker_asym": 72.0, 
+      "crew": 420.0
     }, 
     "year": "1992"
   }, 

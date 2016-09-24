@@ -5,12 +5,13 @@
       1.2244, 
       1.3772
     ], 
-    "gph": 623.1, 
     "triple_inshore": [
       0.7256, 
       0.9918, 
       1.1549
-    ]
+    ], 
+    "gph": 623.1, 
+    "osn": 605.6
   }, 
   "sailnumber": "ESP7154", 
   "name": "WHITE SPIRIT II", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.9, 
       "loa": 10.84, 
       "draft": 2.01, 
+      "wetted_surface": 26.8, 
       "main": 38.9, 
       "genoa": 36.1, 
       "displacement": 5967.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 712.0
     }, 
     "year": "2004"
   }, 

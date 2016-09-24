@@ -5,12 +5,13 @@
       1.4002, 
       1.5722
     ], 
-    "gph": 541.6, 
     "triple_inshore": [
       0.8257, 
       1.1059, 
       1.2795
-    ]
+    ], 
+    "gph": 541.6, 
+    "osn": 533.0
   }, 
   "sailnumber": "HUN752", 
   "name": "Sirocco", 
@@ -25,10 +26,12 @@
       "spinnaker": 265.9, 
       "loa": 18.55, 
       "draft": 1.86, 
+      "wetted_surface": 39.8, 
       "main": 73.3, 
       "genoa": 45.6, 
       "displacement": 9992.0, 
-      "spinnaker_asym": 234.0
+      "spinnaker_asym": 234.0, 
+      "crew": 750.0
     }, 
     "year": "1943"
   }, 

@@ -5,12 +5,13 @@
       1.3834, 
       1.5692
     ], 
-    "gph": 550.9, 
     "triple_inshore": [
       0.8143, 
       1.1114, 
       1.292
-    ]
+    ], 
+    "gph": 550.9, 
+    "osn": 536.9
   }, 
   "sailnumber": "SUI4207", 
   "name": "KUKA", 
@@ -25,10 +26,12 @@
       "spinnaker": 149.7, 
       "loa": 12.84, 
       "draft": 2.57, 
+      "wetted_surface": 35.6, 
       "main": 59.5, 
       "genoa": 47.3, 
       "displacement": 6887.0, 
-      "spinnaker_asym": 152.0
+      "spinnaker_asym": 152.0, 
+      "crew": 530.0
     }, 
     "year": "2007"
   }, 

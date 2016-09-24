@@ -5,12 +5,13 @@
       1.2136, 
       1.3966
     ], 
-    "gph": 630.2, 
     "triple_inshore": [
       0.6974, 
       0.9733, 
       1.147
-    ]
+    ], 
+    "gph": 630.2, 
+    "osn": 612.5
   }, 
   "sailnumber": "FRA43663", 
   "name": "KETAL", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.0, 
       "loa": 9.79, 
       "draft": 1.91, 
+      "wetted_surface": 23.4, 
       "main": 31.1, 
       "genoa": 26.6, 
       "displacement": 3654.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 510.0
     }, 
     "year": "2007"
   }, 

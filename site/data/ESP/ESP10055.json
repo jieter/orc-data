@@ -5,12 +5,13 @@
       1.2391, 
       1.4051
     ], 
-    "gph": 617.6, 
     "triple_inshore": [
       0.7224, 
       0.9977, 
       1.1701
-    ]
+    ], 
+    "gph": 617.6, 
+    "osn": 600.1
   }, 
   "sailnumber": "ESP10055", 
   "name": "DALE ANDAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.1, 
       "loa": 10.97, 
       "draft": 2.19, 
+      "wetted_surface": 28.9, 
       "main": 43.3, 
       "genoa": 33.1, 
       "displacement": 6106.0, 
-      "spinnaker_asym": 84.0
+      "spinnaker_asym": 84.0, 
+      "crew": 485.0
     }, 
     "year": "2013"
   }, 

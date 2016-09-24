@@ -5,12 +5,13 @@
       1.1257, 
       1.283
     ], 
-    "gph": 671.6, 
     "triple_inshore": [
       0.6871, 
       0.905, 
       1.034
-    ]
+    ], 
+    "gph": 671.6, 
+    "osn": 655.0
   }, 
   "sailnumber": "ITA24034", 
   "name": "NONNA MIRTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.495, 
       "draft": 1.67, 
+      "wetted_surface": 12.4, 
       "main": 19.5, 
       "genoa": 13.3, 
       "displacement": 1057.0, 
-      "spinnaker_asym": 50.0
+      "spinnaker_asym": 50.0, 
+      "crew": 375.0
     }, 
     "year": "1994"
   }, 

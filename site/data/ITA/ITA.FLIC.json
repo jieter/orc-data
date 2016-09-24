@@ -5,12 +5,13 @@
       1.0944, 
       1.2609
     ], 
-    "gph": 700.8, 
     "triple_inshore": [
       0.6281, 
       0.8662, 
       1.0375
-    ]
+    ], 
+    "gph": 700.8, 
+    "osn": 680.6
   }, 
   "sailnumber": "ITA.FLIC", 
   "name": "FLIC", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.85, 
       "draft": 1.55, 
+      "wetted_surface": 22.6, 
       "main": 24.2, 
       "genoa": 29.5, 
       "displacement": 4653.0, 
-      "spinnaker_asym": 58.0
+      "spinnaker_asym": 58.0, 
+      "crew": 480.0
     }, 
     "year": "2007"
   }, 

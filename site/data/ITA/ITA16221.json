@@ -5,12 +5,13 @@
       1.3117, 
       1.4749
     ], 
-    "gph": 582.0, 
     "triple_inshore": [
       0.7746, 
       1.0574, 
       1.2207
-    ]
+    ], 
+    "gph": 582.0, 
+    "osn": 565.8
   }, 
   "sailnumber": "ITA16221", 
   "name": "CHESTRESS 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.19, 
       "draft": 2.38, 
+      "wetted_surface": 33.1, 
       "main": 50.4, 
       "genoa": 42.9, 
       "displacement": 7332.0, 
-      "spinnaker_asym": 144.0
+      "spinnaker_asym": 144.0, 
+      "crew": 675.0
     }, 
     "year": "2006"
   }, 

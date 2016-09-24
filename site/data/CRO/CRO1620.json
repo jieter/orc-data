@@ -5,12 +5,13 @@
       1.194, 
       1.3817
     ], 
-    "gph": 642.4, 
     "triple_inshore": [
       0.6821, 
       0.9475, 
       1.1411
-    ]
+    ], 
+    "gph": 642.4, 
+    "osn": 623.8
   }, 
   "sailnumber": "CRO1620", 
   "name": "Anna Maria", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.7, 
       "loa": 12.14, 
       "draft": 1.87, 
+      "wetted_surface": 33.1, 
       "main": 39.4, 
       "genoa": 46.8, 
       "displacement": 8340.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 779.0
     }, 
     "year": "2004"
   }, 

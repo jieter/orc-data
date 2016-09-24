@@ -5,12 +5,13 @@
       1.1071, 
       1.2616
     ], 
-    "gph": 693.1, 
     "triple_inshore": [
       0.6392, 
       0.8755, 
       1.0368
-    ]
+    ], 
+    "gph": 693.1, 
+    "osn": 672.6
   }, 
   "sailnumber": "NOR11361", 
   "name": "CAOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.43, 
       "draft": 1.72, 
+      "wetted_surface": 27.8, 
       "main": 26.7, 
       "genoa": 36.1, 
       "displacement": 6232.0, 
-      "spinnaker_asym": 73.0
+      "spinnaker_asym": 73.0, 
+      "crew": 688.0
     }, 
     "year": "2003"
   }, 

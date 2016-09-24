@@ -5,12 +5,13 @@
       0.9855, 
       1.1184
     ], 
-    "gph": 774.0, 
     "triple_inshore": [
       0.5831, 
       0.7954, 
       0.9322
-    ]
+    ], 
+    "gph": 774.0, 
+    "osn": 752.1
   }, 
   "sailnumber": "NED8658", 
   "name": "Kyan", 
@@ -25,10 +26,12 @@
       "spinnaker": 47.2, 
       "loa": 8.0, 
       "draft": 1.45, 
+      "wetted_surface": 15.6, 
       "main": 15.0, 
       "genoa": 22.6, 
       "displacement": 2400.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 364.0
     }, 
     "year": "1977"
   }, 

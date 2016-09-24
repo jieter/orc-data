@@ -5,12 +5,13 @@
       1.2375, 
       1.4037
     ], 
-    "gph": 617.4, 
     "triple_inshore": [
       0.7271, 
       1.0002, 
       1.1689
-    ]
+    ], 
+    "gph": 617.4, 
+    "osn": 599.3
   }, 
   "sailnumber": "NOR9983", 
   "name": "Pulverheksa", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.1, 
       "loa": 11.11, 
       "draft": 2.02, 
+      "wetted_surface": 28.0, 
       "main": 40.3, 
       "genoa": 31.1, 
       "displacement": 5478.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 730.0
     }, 
     "year": "1999"
   }, 

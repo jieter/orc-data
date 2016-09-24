@@ -5,12 +5,13 @@
       1.2075, 
       1.3582
     ], 
-    "gph": 631.7, 
     "triple_inshore": [
       0.7159, 
       0.9794, 
       1.1391
-    ]
+    ], 
+    "gph": 631.7, 
+    "osn": 614.2
   }, 
   "sailnumber": "ESP7515", 
   "name": "CORMORAN CERO CINCO", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.7, 
       "loa": 10.64, 
       "draft": 2.28, 
+      "wetted_surface": 26.8, 
       "main": 40.3, 
       "genoa": 36.2, 
       "displacement": 5637.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 705.0
     }, 
     "year": "2001"
   }, 

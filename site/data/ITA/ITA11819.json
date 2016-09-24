@@ -5,12 +5,13 @@
       1.1133, 
       1.2624
     ], 
-    "gph": 687.7, 
     "triple_inshore": [
       0.6545, 
       0.9013, 
       1.0617
-    ]
+    ], 
+    "gph": 687.7, 
+    "osn": 666.0
   }, 
   "sailnumber": "ITA11819", 
   "name": "ETA BETA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.5, 
       "loa": 10.15, 
       "draft": 1.96, 
+      "wetted_surface": 22.3, 
       "main": 21.6, 
       "genoa": 30.3, 
       "displacement": 4393.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1978"
   }, 

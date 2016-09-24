@@ -5,12 +5,13 @@
       0.9731, 
       1.0701
     ], 
-    "gph": 784.2, 
     "triple_inshore": [
       0.5813, 
       0.7832, 
       0.8852
-    ]
+    ], 
+    "gph": 784.2, 
+    "osn": 764.7
   }, 
   "sailnumber": "NOR14829", 
   "name": "Lady Fransiska", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.3, 
       "draft": 1.55, 
+      "wetted_surface": 17.0, 
       "main": 22.8, 
       "genoa": 20.6, 
       "displacement": 2963.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 411.0
     }, 
     "year": "1981"
   }, 

@@ -5,12 +5,13 @@
       1.0895, 
       1.2917
     ], 
-    "gph": 704.5, 
     "triple_inshore": [
       0.6195, 
       0.8717, 
       1.0441
-    ]
+    ], 
+    "gph": 704.5, 
+    "osn": 681.3
   }, 
   "sailnumber": "ITA16846", 
   "name": "EASY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.07, 
       "draft": 1.65, 
+      "wetted_surface": 13.1, 
       "main": 18.5, 
       "genoa": 10.8, 
       "displacement": 1387.0, 
-      "spinnaker_asym": 30.0
+      "spinnaker_asym": 30.0, 
+      "crew": 450.0
     }, 
     "year": "2011"
   }, 

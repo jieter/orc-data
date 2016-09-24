@@ -5,12 +5,13 @@
       1.1953, 
       1.3635
     ], 
-    "gph": 639.9, 
     "triple_inshore": [
       0.6994, 
       0.9631, 
       1.1445
-    ]
+    ], 
+    "gph": 639.9, 
+    "osn": 620.4
   }, 
   "sailnumber": "NED7436", 
   "name": "Simply Blue", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.9, 
       "loa": 11.26, 
       "draft": 1.73, 
+      "wetted_surface": 29.0, 
       "main": 36.0, 
       "genoa": 32.4, 
       "displacement": 6841.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.2189, 
       1.3739
     ], 
-    "gph": 625.2, 
     "triple_inshore": [
       0.725, 
       0.9909, 
       1.1547
-    ]
+    ], 
+    "gph": 625.2, 
+    "osn": 608.3
   }, 
   "sailnumber": "NOR9362", 
   "name": "eXpence", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.4, 
       "loa": 11.0, 
       "draft": 2.25, 
+      "wetted_surface": 27.1, 
       "main": 39.3, 
       "genoa": 41.2, 
       "displacement": 5459.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 661.0
     }, 
     "year": "1998"
   }, 

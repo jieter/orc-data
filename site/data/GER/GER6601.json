@@ -5,12 +5,13 @@
       1.1179, 
       1.2861
     ], 
-    "gph": 673.7, 
     "triple_inshore": [
       0.694, 
       0.9025, 
       1.052
-    ]
+    ], 
+    "gph": 673.7, 
+    "osn": 655.0
   }, 
   "sailnumber": "GER6601", 
   "name": "RHEPRO 21", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.421, 
       "draft": 1.5, 
+      "wetted_surface": 10.3, 
       "main": 19.0, 
       "genoa": 8.8, 
       "displacement": 693.0, 
-      "spinnaker_asym": 39.0
+      "spinnaker_asym": 39.0, 
+      "crew": 250.0
     }, 
     "year": "2009"
   }, 

@@ -5,12 +5,13 @@
       1.0598, 
       1.2065
     ], 
-    "gph": 721.3, 
     "triple_inshore": [
       0.6231, 
       0.8548, 
       1.0107
-    ]
+    ], 
+    "gph": 721.3, 
+    "osn": 699.7
   }, 
   "sailnumber": "NED6610", 
   "name": "\"Switch\"", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.0, 
       "loa": 9.8, 
       "draft": 1.77, 
+      "wetted_surface": 20.4, 
       "main": 19.8, 
       "genoa": 30.5, 
       "displacement": 4195.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 501.0
     }, 
     "year": "1986"
   }, 

@@ -5,12 +5,13 @@
       1.2333, 
       1.3991
     ], 
-    "gph": 619.3, 
     "triple_inshore": [
       0.7205, 
       0.9831, 
       1.1528
-    ]
+    ], 
+    "gph": 619.3, 
+    "osn": 603.2
   }, 
   "sailnumber": "NED8621", 
   "name": "Passatempo", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.28, 
       "draft": 1.93, 
+      "wetted_surface": 31.9, 
       "main": 46.8, 
       "genoa": 44.3, 
       "displacement": 7200.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 743.0
     }, 
     "year": "2005"
   }, 

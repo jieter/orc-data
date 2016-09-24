@@ -5,12 +5,13 @@
       1.1029, 
       1.2727
     ], 
-    "gph": 698.6, 
     "triple_inshore": [
       0.622, 
       0.8776, 
       1.0495
-    ]
+    ], 
+    "gph": 698.6, 
+    "osn": 675.7
   }, 
   "sailnumber": "ESP7309_C", 
   "name": "BLANC", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.9, 
       "loa": 10.0, 
       "draft": 1.59, 
+      "wetted_surface": 23.1, 
       "main": 26.7, 
       "genoa": 32.8, 
       "displacement": 4405.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2002"
   }, 

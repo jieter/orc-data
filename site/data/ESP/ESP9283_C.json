@@ -5,12 +5,13 @@
       0.9616, 
       1.0886
     ], 
-    "gph": 791.5, 
     "triple_inshore": [
       0.5779, 
       0.7907, 
       0.9218
-    ]
+    ], 
+    "gph": 791.5, 
+    "osn": 767.2
   }, 
   "sailnumber": "ESP9283_C", 
   "name": "O RAPOSO", 
@@ -25,10 +26,12 @@
       "spinnaker": 34.7, 
       "loa": 6.22, 
       "draft": 1.77, 
+      "wetted_surface": 11.5, 
       "main": 13.6, 
       "genoa": 11.1, 
       "displacement": 1372.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1991"
   }, 

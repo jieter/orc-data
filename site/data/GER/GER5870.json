@@ -5,12 +5,13 @@
       1.147, 
       1.3239
     ], 
-    "gph": 668.4, 
     "triple_inshore": [
       0.6583, 
       0.9175, 
       1.1093
-    ]
+    ], 
+    "gph": 668.4, 
+    "osn": 648.4
   }, 
   "sailnumber": "GER5870", 
   "name": "HUNT", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.0, 
       "loa": 11.255, 
       "draft": 1.97, 
+      "wetted_surface": 29.9, 
       "main": 39.4, 
       "genoa": 28.1, 
       "displacement": 7345.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1993"
   }, 

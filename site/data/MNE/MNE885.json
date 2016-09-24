@@ -5,12 +5,13 @@
       1.2263, 
       1.4194
     ], 
-    "gph": 626.8, 
     "triple_inshore": [
       0.6965, 
       0.9768, 
       1.1786
-    ]
+    ], 
+    "gph": 626.8, 
+    "osn": 607.3
   }, 
   "sailnumber": "MNE885", 
   "name": "Bojana", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.9, 
       "loa": 13.085, 
       "draft": 1.95, 
+      "wetted_surface": 34.3, 
       "main": 38.8, 
       "genoa": 48.2, 
       "displacement": 8538.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 765.0
     }, 
     "year": "1989"
   }, 

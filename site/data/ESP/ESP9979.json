@@ -5,12 +5,13 @@
       1.3266, 
       1.4977
     ], 
-    "gph": 575.2, 
     "triple_inshore": [
       0.7835, 
       1.0731, 
       1.2471
-    ]
+    ], 
+    "gph": 575.2, 
+    "osn": 559.4
   }, 
   "sailnumber": "ESP9979", 
   "name": "EXPERTO CATADOR", 
@@ -25,10 +26,12 @@
       "spinnaker": 130.8, 
       "loa": 12.35, 
       "draft": 2.51, 
+      "wetted_surface": 32.9, 
       "main": 52.2, 
       "genoa": 45.7, 
       "displacement": 7023.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "2008"
   }, 

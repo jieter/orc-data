@@ -5,12 +5,13 @@
       1.0863, 
       1.2487
     ], 
-    "gph": 696.0, 
     "triple_inshore": [
       0.6637, 
       0.894, 
       1.0246
-    ]
+    ], 
+    "gph": 696.0, 
+    "osn": 675.2
   }, 
   "sailnumber": "ESP10270_C", 
   "name": "ATRAPAVENTS", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.4, 
       "loa": 6.5, 
       "draft": 1.65, 
+      "wetted_surface": 14.2, 
       "main": 24.5, 
       "genoa": 16.5, 
       "displacement": 1386.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1995"
   }, 

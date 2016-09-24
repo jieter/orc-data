@@ -5,12 +5,13 @@
       1.1889, 
       1.3284
     ], 
-    "gph": 640.9, 
     "triple_inshore": [
       0.7069, 
       0.9555, 
       1.0973
-    ]
+    ], 
+    "gph": 640.9, 
+    "osn": 624.5
   }, 
   "sailnumber": "SUI808", 
   "name": "AQUARIUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 1.75, 
+      "wetted_surface": 22.8, 
       "main": 31.3, 
       "genoa": 30.4, 
       "displacement": 4047.0, 
-      "spinnaker_asym": 84.0
+      "spinnaker_asym": 84.0, 
+      "crew": 450.0
     }, 
     "year": "1996"
   }, 

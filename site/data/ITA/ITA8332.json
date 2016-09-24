@@ -5,12 +5,13 @@
       1.111, 
       1.2495
     ], 
-    "gph": 685.0, 
     "triple_inshore": [
       0.666, 
       0.9, 
       1.0495
-    ]
+    ], 
+    "gph": 685.0, 
+    "osn": 667.1
   }, 
   "sailnumber": "ITA8332", 
   "name": "BLU MOON", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.0, 
       "loa": 10.24, 
       "draft": 1.86, 
+      "wetted_surface": 23.9, 
       "main": 26.1, 
       "genoa": 43.1, 
       "displacement": 5461.0, 
-      "spinnaker_asym": 86.0
+      "spinnaker_asym": 86.0, 
+      "crew": 430.0
     }, 
     "year": "1978"
   }, 

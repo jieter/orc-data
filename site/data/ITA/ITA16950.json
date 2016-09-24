@@ -5,12 +5,13 @@
       1.2471, 
       1.4279
     ], 
-    "gph": 614.6, 
     "triple_inshore": [
       0.7205, 
       0.9979, 
       1.1681
-    ]
+    ], 
+    "gph": 614.6, 
+    "osn": 595.3
   }, 
   "sailnumber": "ITA16950", 
   "name": "LUNATIKA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.8, 
       "draft": 2.16, 
+      "wetted_surface": 28.6, 
       "main": 38.1, 
       "genoa": 30.5, 
       "displacement": 5293.0, 
-      "spinnaker_asym": 112.0
+      "spinnaker_asym": 112.0, 
+      "crew": 675.0
     }, 
     "year": "2013"
   }, 

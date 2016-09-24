@@ -5,12 +5,13 @@
       1.1822, 
       1.3272
     ], 
-    "gph": 639.2, 
     "triple_inshore": [
       0.7173, 
       0.9525, 
       1.0909
-    ]
+    ], 
+    "gph": 639.2, 
+    "osn": 626.2
   }, 
   "sailnumber": "NED4941", 
   "name": "\"Skip Intro\"", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.8, 
       "loa": 9.495, 
       "draft": 1.77, 
+      "wetted_surface": 19.8, 
       "main": 28.3, 
       "genoa": 19.3, 
       "displacement": 2604.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1989"
   }, 

@@ -5,12 +5,13 @@
       0.9198, 
       1.0519
     ], 
-    "gph": 828.2, 
     "triple_inshore": [
       0.5464, 
       0.7469, 
       0.8773
-    ]
+    ], 
+    "gph": 828.2, 
+    "osn": 803.6
   }, 
   "sailnumber": "ITA17167", 
   "name": "GIRAVOLTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 34.0, 
       "loa": 6.7, 
       "draft": 1.29, 
+      "wetted_surface": 10.8, 
       "main": 8.9, 
       "genoa": 15.1, 
       "displacement": 1183.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 365.0
     }, 
     "year": "1977"
   }, 

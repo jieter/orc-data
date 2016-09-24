@@ -5,12 +5,13 @@
       1.0394, 
       1.1723
     ], 
-    "gph": 733.9, 
     "triple_inshore": [
       0.6162, 
       0.8406, 
       0.9824
-    ]
+    ], 
+    "gph": 733.9, 
+    "osn": 713.6
   }, 
   "sailnumber": "NED2884", 
   "name": "SCHAAKMAT", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.4, 
       "loa": 9.084, 
       "draft": 1.72, 
+      "wetted_surface": 18.6, 
       "main": 19.9, 
       "genoa": 31.2, 
       "displacement": 3652.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 460.0
     }, 
     "year": "1973"
   }, 

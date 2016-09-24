@@ -5,12 +5,13 @@
       1.2008, 
       1.3835
     ], 
-    "gph": 640.7, 
     "triple_inshore": [
       0.6835, 
       0.9615, 
       1.155
-    ]
+    ], 
+    "gph": 640.7, 
+    "osn": 619.5
   }, 
   "sailnumber": "CRO2007", 
   "name": "Sportski vuk", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.5, 
       "loa": 11.313, 
       "draft": 2.13, 
+      "wetted_surface": 29.5, 
       "main": 44.4, 
       "genoa": 30.4, 
       "displacement": 6885.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 702.0
     }, 
     "year": "2005"
   }, 

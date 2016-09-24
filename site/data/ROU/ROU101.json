@@ -5,12 +5,13 @@
       1.2605, 
       1.4612
     ], 
-    "gph": 611.4, 
     "triple_inshore": [
       0.7104, 
       1.0037, 
       1.2064
-    ]
+    ], 
+    "gph": 611.4, 
+    "osn": 591.2
   }, 
   "sailnumber": "ROU101", 
   "name": "Alexandra", 
@@ -25,10 +26,12 @@
       "spinnaker": 117.5, 
       "loa": 12.59, 
       "draft": 2.11, 
+      "wetted_surface": 36.7, 
       "main": 41.4, 
       "genoa": 43.2, 
       "displacement": 8284.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 930.0
     }, 
     "year": "2007"
   }, 

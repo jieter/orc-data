@@ -5,12 +5,13 @@
       1.3282, 
       1.4978
     ], 
-    "gph": 572.6, 
     "triple_inshore": [
       0.7849, 
       1.063, 
       1.2451
-    ]
+    ], 
+    "gph": 572.6, 
+    "osn": 560.0
   }, 
   "sailnumber": "NOR12130", 
   "name": "Chablis", 
@@ -25,10 +26,12 @@
       "spinnaker": 124.2, 
       "loa": 13.35, 
       "draft": 1.96, 
+      "wetted_surface": 37.6, 
       "main": 63.2, 
       "genoa": 74.2, 
       "displacement": 10401.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 900.0
     }, 
     "year": "2004"
   }, 

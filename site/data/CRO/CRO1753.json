@@ -5,12 +5,13 @@
       1.3094, 
       1.5156
     ], 
-    "gph": 587.4, 
     "triple_inshore": [
       0.741, 
       1.0435, 
       1.2583
-    ]
+    ], 
+    "gph": 587.4, 
+    "osn": 569.2
   }, 
   "sailnumber": "CRO1753", 
   "name": "White Horse", 
@@ -25,10 +26,12 @@
       "spinnaker": 135.5, 
       "loa": 13.61, 
       "draft": 2.56, 
+      "wetted_surface": 41.4, 
       "main": 51.0, 
       "genoa": 65.4, 
       "displacement": 10531.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 973.0
     }, 
     "year": "2002"
   }, 

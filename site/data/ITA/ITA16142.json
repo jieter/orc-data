@@ -5,12 +5,13 @@
       1.2259, 
       1.392
     ], 
-    "gph": 624.5, 
     "triple_inshore": [
       0.7125, 
       0.9746, 
       1.1495
-    ]
+    ], 
+    "gph": 624.5, 
+    "osn": 606.9
   }, 
   "sailnumber": "ITA16142", 
   "name": "SOFT", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.06, 
       "draft": 2.11, 
+      "wetted_surface": 33.5, 
       "main": 45.0, 
       "genoa": 42.1, 
       "displacement": 8926.0, 
-      "spinnaker_asym": 113.0
+      "spinnaker_asym": 113.0, 
+      "crew": 780.0
     }, 
     "year": "2003"
   }, 

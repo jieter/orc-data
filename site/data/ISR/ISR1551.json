@@ -5,12 +5,13 @@
       1.2638, 
       1.4315
     ], 
-    "gph": 604.9, 
     "triple_inshore": [
       0.7394, 
       1.0186, 
       1.199
-    ]
+    ], 
+    "gph": 604.9, 
+    "osn": 587.9
   }, 
   "sailnumber": "ISR1551", 
   "name": "Second Life", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.3, 
       "loa": 12.016, 
       "draft": 2.44, 
+      "wetted_surface": 33.0, 
       "main": 47.8, 
       "genoa": 49.0, 
       "displacement": 7870.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "2000"
   }, 

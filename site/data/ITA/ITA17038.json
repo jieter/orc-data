@@ -5,12 +5,13 @@
       1.4244, 
       1.6153
     ], 
-    "gph": 535.2, 
     "triple_inshore": [
       0.837, 
       1.1407, 
       1.33
-    ]
+    ], 
+    "gph": 535.2, 
+    "osn": 521.6
   }, 
   "sailnumber": "ITA17038", 
   "name": "DIDGERIDOO", 
@@ -25,10 +26,12 @@
       "spinnaker": 113.1, 
       "loa": 14.2, 
       "draft": 2.82, 
+      "wetted_surface": 40.6, 
       "main": 74.6, 
       "genoa": 53.8, 
       "displacement": 8834.0, 
-      "spinnaker_asym": 171.0
+      "spinnaker_asym": 171.0, 
+      "crew": 932.0
     }, 
     "year": "1997"
   }, 

@@ -5,12 +5,13 @@
       1.1806, 
       1.3801
     ], 
-    "gph": 650.3, 
     "triple_inshore": [
       0.6724, 
       0.9322, 
       1.1366
-    ]
+    ], 
+    "gph": 650.3, 
+    "osn": 630.7
   }, 
   "sailnumber": "ITA16718", 
   "name": "PK BOO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.9, 
       "draft": 2.08, 
+      "wetted_surface": 33.7, 
       "main": 33.9, 
       "genoa": 44.6, 
       "displacement": 9147.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 550.0
     }, 
     "year": "2009"
   }, 

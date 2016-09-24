@@ -5,12 +5,13 @@
       1.2335, 
       1.3982
     ], 
-    "gph": 619.0, 
     "triple_inshore": [
       0.7242, 
       0.9887, 
       1.1618
-    ]
+    ], 
+    "gph": 619.0, 
+    "osn": 601.9
   }, 
   "sailnumber": "HUN3803", 
   "name": "Amina", 
@@ -25,10 +26,12 @@
       "spinnaker": 131.6, 
       "loa": 11.3, 
       "draft": 1.6, 
+      "wetted_surface": 31.4, 
       "main": 48.8, 
       "genoa": 33.3, 
       "displacement": 8105.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2013"
   }, 

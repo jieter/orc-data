@@ -5,12 +5,13 @@
       1.1284, 
       1.27
     ], 
-    "gph": 675.8, 
     "triple_inshore": [
       0.671, 
       0.9103, 
       1.0475
-    ]
+    ], 
+    "gph": 675.8, 
+    "osn": 656.6
   }, 
   "sailnumber": "JPN5390", 
   "name": "TOMBOY-1", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.3, 
       "draft": 1.84, 
+      "wetted_surface": 20.3, 
       "main": 28.4, 
       "genoa": 22.1, 
       "displacement": 2917.0, 
-      "spinnaker_asym": 75.0
+      "spinnaker_asym": 75.0, 
+      "crew": 571.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       1.2494, 
       1.4622
     ], 
-    "gph": 618.1, 
     "triple_inshore": [
       0.6908, 
       0.976, 
       1.1862
-    ]
+    ], 
+    "gph": 618.1, 
+    "osn": 599.8
   }, 
   "sailnumber": "GRE1046", 
   "name": "STAVROS TOU NOTOU", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.91, 
       "draft": 1.98, 
+      "wetted_surface": 49.9, 
       "main": 52.2, 
       "genoa": 70.4, 
       "displacement": 14000.0, 
-      "spinnaker_asym": 131.0
+      "spinnaker_asym": 131.0, 
+      "crew": 971.0
     }, 
     "year": "1989"
   }, 

@@ -5,12 +5,13 @@
       1.2297, 
       1.3873
     ], 
-    "gph": 620.3, 
     "triple_inshore": [
       0.7276, 
       0.9963, 
       1.1685
-    ]
+    ], 
+    "gph": 620.3, 
+    "osn": 603.1
   }, 
   "sailnumber": "NOR11341", 
   "name": "Storm Fighter", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.0, 
       "loa": 11.16, 
       "draft": 2.37, 
+      "wetted_surface": 29.1, 
       "main": 40.9, 
       "genoa": 45.4, 
       "displacement": 6749.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 716.0
     }, 
     "year": "2003"
   }, 

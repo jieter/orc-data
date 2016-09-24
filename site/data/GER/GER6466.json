@@ -5,12 +5,13 @@
       1.2756, 
       1.4527
     ], 
-    "gph": 599.9, 
     "triple_inshore": [
       0.7409, 
       1.0278, 
       1.2146
-    ]
+    ], 
+    "gph": 599.9, 
+    "osn": 582.6
   }, 
   "sailnumber": "GER6466", 
   "name": "ILLUM", 
@@ -25,10 +26,12 @@
       "spinnaker": 119.9, 
       "loa": 12.8, 
       "draft": 2.29, 
+      "wetted_surface": 34.2, 
       "main": 45.5, 
       "genoa": 52.6, 
       "displacement": 8047.0, 
-      "spinnaker_asym": 121.0
+      "spinnaker_asym": 121.0, 
+      "crew": 700.0
     }, 
     "year": "1998"
   }, 

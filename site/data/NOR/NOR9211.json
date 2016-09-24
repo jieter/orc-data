@@ -5,12 +5,13 @@
       1.1681, 
       1.3404
     ], 
-    "gph": 654.2, 
     "triple_inshore": [
       0.6809, 
       0.9351, 
       1.1168
-    ]
+    ], 
+    "gph": 654.2, 
+    "osn": 635.7
   }, 
   "sailnumber": "NOR9211", 
   "name": "Virazon", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.8, 
       "loa": 11.85, 
       "draft": 1.85, 
+      "wetted_surface": 29.4, 
       "main": 34.7, 
       "genoa": 43.6, 
       "displacement": 7191.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 682.0
     }, 
     "year": "1996"
   }, 

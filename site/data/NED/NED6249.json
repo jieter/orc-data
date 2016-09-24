@@ -5,12 +5,13 @@
       1.2321, 
       1.4118
     ], 
-    "gph": 624.3, 
     "triple_inshore": [
       0.7031, 
       0.9864, 
       1.171
-    ]
+    ], 
+    "gph": 624.3, 
+    "osn": 604.1
   }, 
   "sailnumber": "NED6249", 
   "name": "RAGAZZI", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.7, 
       "loa": 12.337, 
       "draft": 1.9, 
+      "wetted_surface": 28.5, 
       "main": 37.5, 
       "genoa": 30.4, 
       "displacement": 6101.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "1987"
   }, 

@@ -5,12 +5,13 @@
       1.0366, 
       1.1603
     ], 
-    "gph": 733.8, 
     "triple_inshore": [
       0.6246, 
       0.8416, 
       0.9669
-    ]
+    ], 
+    "gph": 733.8, 
+    "osn": 714.3
   }, 
   "sailnumber": "NED765", 
   "name": "WILD AT HEART PART TWO", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.9, 
       "loa": 8.725, 
       "draft": 1.59, 
+      "wetted_surface": 15.7, 
       "main": 15.5, 
       "genoa": 32.0, 
       "displacement": 2548.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 378.0
     }, 
     "year": "1972"
   }, 

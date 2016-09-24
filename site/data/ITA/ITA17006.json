@@ -5,12 +5,13 @@
       1.3775, 
       1.5794
     ], 
-    "gph": 544.9, 
     "triple_inshore": [
       0.8436, 
       1.1027, 
       1.2922
-    ]
+    ], 
+    "gph": 544.9, 
+    "osn": 536.3
   }, 
   "sailnumber": "ITA17006", 
   "name": "INTERCEPTOR M34", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.34, 
       "draft": 2.52, 
+      "wetted_surface": 22.2, 
       "main": 41.1, 
       "genoa": 26.4, 
       "displacement": 2700.0, 
-      "spinnaker_asym": 125.0
+      "spinnaker_asym": 125.0, 
+      "crew": 650.0
     }, 
     "year": "2010"
   }, 

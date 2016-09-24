@@ -5,12 +5,13 @@
       1.2008, 
       1.3901
     ], 
-    "gph": 641.5, 
     "triple_inshore": [
       0.6735, 
       0.9622, 
       1.1645
-    ]
+    ], 
+    "gph": 641.5, 
+    "osn": 621.3
   }, 
   "sailnumber": "NOR13922", 
   "name": "Mango", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.98, 
       "draft": 2.11, 
+      "wetted_surface": 32.7, 
       "main": 49.4, 
       "genoa": 34.1, 
       "displacement": 7644.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 794.0
     }, 
     "year": "2001"
   }, 

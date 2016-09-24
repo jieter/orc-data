@@ -5,12 +5,13 @@
       1.2871, 
       1.4995
     ], 
-    "gph": 599.4, 
     "triple_inshore": [
       0.7117, 
       1.0248, 
       1.2551
-    ]
+    ], 
+    "gph": 599.4, 
+    "osn": 582.4
   }, 
   "sailnumber": "NED8721", 
   "name": "Esprit", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.16, 
       "draft": 2.6, 
+      "wetted_surface": 46.8, 
       "main": 71.1, 
       "genoa": 50.6, 
       "displacement": 13985.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1022.0
     }, 
     "year": "2007"
   }, 

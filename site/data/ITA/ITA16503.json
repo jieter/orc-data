@@ -5,12 +5,13 @@
       1.2773, 
       1.4839
     ], 
-    "gph": 602.3, 
     "triple_inshore": [
       0.7205, 
       1.016, 
       1.23
-    ]
+    ], 
+    "gph": 602.3, 
+    "osn": 583.7
   }, 
   "sailnumber": "ITA16503", 
   "name": "YANEZ", 
@@ -25,10 +26,12 @@
       "spinnaker": 127.2, 
       "loa": 13.33, 
       "draft": 2.3, 
+      "wetted_surface": 39.0, 
       "main": 49.9, 
       "genoa": 51.5, 
       "displacement": 10158.0, 
-      "spinnaker_asym": 112.0
+      "spinnaker_asym": 112.0, 
+      "crew": 640.0
     }, 
     "year": "2003"
   }, 

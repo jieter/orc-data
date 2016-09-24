@@ -5,12 +5,13 @@
       1.0433, 
       1.2246
     ], 
-    "gph": 736.3, 
     "triple_inshore": [
       0.5706, 
       0.8089, 
       1.0107
-    ]
+    ], 
+    "gph": 736.3, 
+    "osn": 720.4
   }, 
   "sailnumber": "NED8269", 
   "name": "Desperado", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.68, 
       "draft": 1.95, 
+      "wetted_surface": 24.2, 
       "main": 21.8, 
       "genoa": 26.9, 
       "displacement": 5372.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "2000"
   }, 

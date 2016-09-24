@@ -5,12 +5,13 @@
       1.2562, 
       1.4093
     ], 
-    "gph": 605.0, 
     "triple_inshore": [
       0.7563, 
       1.0247, 
       1.1783
-    ]
+    ], 
+    "gph": 605.0, 
+    "osn": 589.1
   }, 
   "sailnumber": "ITA15350", 
   "name": "WILD DOG", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.2, 
       "loa": 10.6, 
       "draft": 2.17, 
+      "wetted_surface": 24.2, 
       "main": 41.9, 
       "genoa": 32.6, 
       "displacement": 4381.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 580.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.034, 
       1.1653
     ], 
-    "gph": 737.1, 
     "triple_inshore": [
       0.6162, 
       0.8295, 
       0.974
-    ]
+    ], 
+    "gph": 737.1, 
+    "osn": 717.7
   }, 
   "sailnumber": "GER4106", 
   "name": "MARAJUSO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.415, 
       "draft": 1.74, 
+      "wetted_surface": 19.5, 
       "main": 25.7, 
       "genoa": 21.5, 
       "displacement": 4151.0, 
-      "spinnaker_asym": 44.0
+      "spinnaker_asym": 44.0, 
+      "crew": 400.0
     }, 
     "year": "1982"
   }, 

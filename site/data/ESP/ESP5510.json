@@ -5,12 +5,13 @@
       1.1397, 
       1.2895
     ], 
-    "gph": 671.4, 
     "triple_inshore": [
       0.6666, 
       0.9206, 
       1.0765
-    ]
+    ], 
+    "gph": 671.4, 
+    "osn": 651.9
   }, 
   "sailnumber": "ESP5510", 
   "name": "FALBALA", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.6, 
       "loa": 9.49, 
       "draft": 1.93, 
+      "wetted_surface": 22.5, 
       "main": 27.9, 
       "genoa": 29.3, 
       "displacement": 3818.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1998"
   }, 

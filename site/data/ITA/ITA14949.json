@@ -5,12 +5,13 @@
       1.3035, 
       1.4604
     ], 
-    "gph": 584.8, 
     "triple_inshore": [
       0.774, 
       1.0486, 
       1.2015
-    ]
+    ], 
+    "gph": 584.8, 
+    "osn": 569.5
   }, 
   "sailnumber": "ITA14949", 
   "name": "SIR BISS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.795, 
       "draft": 2.64, 
+      "wetted_surface": 31.1, 
       "main": 49.8, 
       "genoa": 38.7, 
       "displacement": 6150.0, 
-      "spinnaker_asym": 122.0
+      "spinnaker_asym": 122.0, 
+      "crew": 730.0
     }, 
     "year": "2000"
   }, 

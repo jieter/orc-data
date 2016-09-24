@@ -5,12 +5,13 @@
       1.3377, 
       1.5284
     ], 
-    "gph": 574.4, 
     "triple_inshore": [
       0.748, 
       1.0408, 
       1.2313
-    ]
+    ], 
+    "gph": 574.4, 
+    "osn": 561.1
   }, 
   "sailnumber": "NOR14892", 
   "name": "Silvergirl", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.98, 
       "draft": 2.09, 
+      "wetted_surface": 52.8, 
       "main": 64.1, 
       "genoa": 61.8, 
       "displacement": 15415.0, 
-      "spinnaker_asym": 181.0
+      "spinnaker_asym": 181.0, 
+      "crew": 1119.0
     }, 
     "year": "2011"
   }, 

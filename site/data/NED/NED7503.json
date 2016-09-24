@@ -5,12 +5,13 @@
       1.3111, 
       1.4902
     ], 
-    "gph": 577.2, 
     "triple_inshore": [
       0.7876, 
       1.0484, 
       1.2038
-    ]
+    ], 
+    "gph": 577.2, 
+    "osn": 564.8
   }, 
   "sailnumber": "NED7503", 
   "name": "Blacq Magic", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 24.1, 
       "main": 40.7, 
       "genoa": 28.9, 
       "displacement": 3470.0, 
-      "spinnaker_asym": 96.0
+      "spinnaker_asym": 96.0, 
+      "crew": 647.0
     }, 
     "year": "2002"
   }, 

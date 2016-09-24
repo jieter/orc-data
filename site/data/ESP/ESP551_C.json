@@ -5,12 +5,13 @@
       1.0154, 
       1.1269
     ], 
-    "gph": 740.5, 
     "triple_inshore": [
       0.6363, 
       0.8293, 
       0.9209
-    ]
+    ], 
+    "gph": 740.5, 
+    "osn": 725.1
   }, 
   "sailnumber": "ESP551_C", 
   "name": "UN MAR SIN BARRERAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 28.7, 
       "loa": 7.0, 
       "draft": 1.19, 
+      "wetted_surface": 9.4, 
       "main": 17.8, 
       "genoa": 14.5, 
       "displacement": 940.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1979"
   }, 

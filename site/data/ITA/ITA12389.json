@@ -5,12 +5,13 @@
       1.1953, 
       1.352
     ], 
-    "gph": 635.9, 
     "triple_inshore": [
       0.7142, 
       0.9737, 
       1.1306
-    ]
+    ], 
+    "gph": 635.9, 
+    "osn": 619.5
   }, 
   "sailnumber": "ITA12389", 
   "name": "NEFERTITI", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.9, 
       "loa": 10.007, 
       "draft": 1.82, 
+      "wetted_surface": 21.0, 
       "main": 33.9, 
       "genoa": 30.1, 
       "displacement": 3395.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 595.0
     }, 
     "year": "1986"
   }, 

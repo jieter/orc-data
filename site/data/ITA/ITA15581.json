@@ -5,12 +5,13 @@
       1.3863, 
       1.5433
     ], 
-    "gph": 547.4, 
     "triple_inshore": [
       0.8362, 
       1.1129, 
       1.2671
-    ]
+    ], 
+    "gph": 547.4, 
+    "osn": 534.7
   }, 
   "sailnumber": "ITA15581", 
   "name": "WANDERLUST", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.74, 
       "draft": 2.6, 
+      "wetted_surface": 37.4, 
       "main": 69.0, 
       "genoa": 57.9, 
       "displacement": 9203.0, 
-      "spinnaker_asym": 181.0
+      "spinnaker_asym": 181.0, 
+      "crew": 779.0
     }, 
     "year": "2003"
   }, 

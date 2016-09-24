@@ -5,12 +5,13 @@
       0.9413, 
       1.1
     ], 
-    "gph": 820.3, 
     "triple_inshore": [
       0.5256, 
       0.7496, 
       0.9132
-    ]
+    ], 
+    "gph": 820.3, 
+    "osn": 792.6
   }, 
   "sailnumber": "ITAFLYAW", 
   "name": "FLY AWAY", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.9, 
       "loa": 7.7, 
       "draft": 1.6, 
+      "wetted_surface": 15.6, 
       "main": 12.7, 
       "genoa": 20.8, 
       "displacement": 2319.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1986"
   }, 

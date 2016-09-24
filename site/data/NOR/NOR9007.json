@@ -5,12 +5,13 @@
       1.4098, 
       1.5991
     ], 
-    "gph": 535.4, 
     "triple_inshore": [
       0.8577, 
       1.139, 
       1.3152
-    ]
+    ], 
+    "gph": 535.4, 
+    "osn": 523.7
   }, 
   "sailnumber": "NOR9007", 
   "name": "Farroson", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.0, 
       "loa": 12.478, 
       "draft": 3.0, 
+      "wetted_surface": 31.6, 
       "main": 73.6, 
       "genoa": 49.8, 
       "displacement": 5843.0, 
-      "spinnaker_asym": 110.0
+      "spinnaker_asym": 110.0, 
+      "crew": 787.0
     }, 
     "year": "1997"
   }, 

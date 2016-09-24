@@ -5,12 +5,13 @@
       1.1636, 
       1.3783
     ], 
-    "gph": 655.4, 
     "triple_inshore": [
       0.6803, 
       0.9318, 
       1.1046
-    ]
+    ], 
+    "gph": 655.4, 
+    "osn": 633.6
   }, 
   "sailnumber": "NED8485", 
   "name": "Goeyedag", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.5, 
       "draft": 1.96, 
+      "wetted_surface": 14.5, 
       "main": 21.3, 
       "genoa": 15.0, 
       "displacement": 1205.0, 
-      "spinnaker_asym": 56.0
+      "spinnaker_asym": 56.0, 
+      "crew": 494.0
     }, 
     "year": "2004"
   }, 

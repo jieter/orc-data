@@ -5,12 +5,13 @@
       1.0319, 
       1.1518
     ], 
-    "gph": 735.6, 
     "triple_inshore": [
       0.6299, 
       0.842, 
       0.9721
-    ]
+    ], 
+    "gph": 735.6, 
+    "osn": 716.0
   }, 
   "sailnumber": "NOR3619", 
   "name": "Caro II", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.5, 
       "loa": 8.6, 
       "draft": 1.69, 
+      "wetted_surface": 17.9, 
       "main": 17.3, 
       "genoa": 29.2, 
       "displacement": 3675.0, 
-      "spinnaker_asym": 49.0
+      "spinnaker_asym": 49.0, 
+      "crew": 420.0
     }, 
     "year": "1979"
   }, 

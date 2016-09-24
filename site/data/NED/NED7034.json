@@ -5,12 +5,13 @@
       1.2045, 
       1.3534
     ], 
-    "gph": 632.4, 
     "triple_inshore": [
       0.7175, 
       0.9697, 
       1.1186
-    ]
+    ], 
+    "gph": 632.4, 
+    "osn": 615.6
   }, 
   "sailnumber": "NED7034", 
   "name": "Martiny", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.222, 
       "draft": 1.87, 
+      "wetted_surface": 24.3, 
       "main": 31.6, 
       "genoa": 35.9, 
       "displacement": 4700.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 647.0
     }, 
     "year": "2001"
   }, 

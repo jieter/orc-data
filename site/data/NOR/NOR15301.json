@@ -5,12 +5,13 @@
       1.1927, 
       1.374
     ], 
-    "gph": 644.3, 
     "triple_inshore": [
       0.6807, 
       0.9458, 
       1.1319
-    ]
+    ], 
+    "gph": 644.3, 
+    "osn": 624.5
   }, 
   "sailnumber": "NOR15301", 
   "name": "Aurora", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.25, 
       "draft": 2.02, 
+      "wetted_surface": 32.3, 
       "main": 41.3, 
       "genoa": 32.9, 
       "displacement": 7421.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 755.0
     }, 
     "year": "2005"
   }, 

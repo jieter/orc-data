@@ -5,12 +5,13 @@
       1.1151, 
       1.2644
     ], 
-    "gph": 687.4, 
     "triple_inshore": [
       0.6494, 
       0.8992, 
       1.0585
-    ]
+    ], 
+    "gph": 687.4, 
+    "osn": 666.0
   }, 
   "sailnumber": "ESP6281", 
   "name": "LA RABUDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.2, 
       "loa": 9.44, 
       "draft": 2.0, 
+      "wetted_surface": 22.7, 
       "main": 25.6, 
       "genoa": 29.5, 
       "displacement": 4476.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 483.0
     }, 
     "year": "2001"
   }, 

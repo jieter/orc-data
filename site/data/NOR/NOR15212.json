@@ -5,12 +5,13 @@
       0.9514, 
       1.0886
     ], 
-    "gph": 804.1, 
     "triple_inshore": [
       0.5529, 
       0.7571, 
       0.8935
-    ]
+    ], 
+    "gph": 804.1, 
+    "osn": 782.7
   }, 
   "sailnumber": "NOR15212", 
   "name": "Selfrid", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.06, 
       "draft": 1.16, 
+      "wetted_surface": 13.3, 
       "main": 12.4, 
       "genoa": 15.8, 
       "displacement": 1515.0, 
-      "spinnaker_asym": 28.0
+      "spinnaker_asym": 28.0, 
+      "crew": 346.0
     }, 
     "year": "1961"
   }, 

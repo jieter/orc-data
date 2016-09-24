@@ -5,12 +5,13 @@
       1.0969, 
       1.2442
     ], 
-    "gph": 696.4, 
     "triple_inshore": [
       0.6501, 
       0.8838, 
       1.0443
-    ]
+    ], 
+    "gph": 696.4, 
+    "osn": 675.5
   }, 
   "sailnumber": "NED6789", 
   "name": "MELODIE", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.0, 
       "loa": 10.14, 
       "draft": 1.9, 
+      "wetted_surface": 26.7, 
       "main": 26.6, 
       "genoa": 34.6, 
       "displacement": 6820.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 558.0
     }, 
     "year": "1977"
   }, 

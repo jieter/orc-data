@@ -5,12 +5,13 @@
       1.2865, 
       1.4466
     ], 
-    "gph": 592.4, 
     "triple_inshore": [
       0.7658, 
       1.0386, 
       1.1906
-    ]
+    ], 
+    "gph": 592.4, 
+    "osn": 575.9
   }, 
   "sailnumber": "ITA15408", 
   "name": "HYDRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.25, 
       "draft": 2.43, 
+      "wetted_surface": 27.7, 
       "main": 44.3, 
       "genoa": 32.4, 
       "displacement": 5122.0, 
-      "spinnaker_asym": 106.0
+      "spinnaker_asym": 106.0, 
+      "crew": 600.0
     }, 
     "year": "2004"
   }, 

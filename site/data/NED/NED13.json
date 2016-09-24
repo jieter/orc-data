@@ -5,12 +5,13 @@
       1.2493, 
       1.4108
     ], 
-    "gph": 610.1, 
     "triple_inshore": [
       0.7428, 
       1.0089, 
       1.1847
-    ]
+    ], 
+    "gph": 610.1, 
+    "osn": 593.5
   }, 
   "sailnumber": "NED13", 
   "name": "BLUE JANE", 
@@ -25,10 +26,12 @@
       "spinnaker": 130.9, 
       "loa": 12.822, 
       "draft": 2.38, 
+      "wetted_surface": 34.4, 
       "main": 40.6, 
       "genoa": 60.9, 
       "displacement": 9192.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 754.0
     }, 
     "year": "1983"
   }, 

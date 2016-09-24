@@ -5,12 +5,13 @@
       1.1777, 
       1.3213
     ], 
-    "gph": 646.9, 
     "triple_inshore": [
       0.701, 
       0.9544, 
       1.1033
-    ]
+    ], 
+    "gph": 646.9, 
+    "osn": 630.3
   }, 
   "sailnumber": "GER4399", 
   "name": "LOW BUDGET", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.8, 
       "loa": 10.06, 
       "draft": 1.82, 
+      "wetted_surface": 24.2, 
       "main": 35.9, 
       "genoa": 33.2, 
       "displacement": 4541.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 590.0
     }, 
     "year": "1994"
   }, 

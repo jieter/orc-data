@@ -5,12 +5,13 @@
       1.2221, 
       1.3804
     ], 
-    "gph": 624.1, 
     "triple_inshore": [
       0.725, 
       0.9926, 
       1.1553
-    ]
+    ], 
+    "gph": 624.1, 
+    "osn": 606.5
   }, 
   "sailnumber": "FRA9754", 
   "name": "TRIPTYQUE", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.9, 
       "loa": 10.973, 
       "draft": 2.14, 
+      "wetted_surface": 24.9, 
       "main": 38.4, 
       "genoa": 34.6, 
       "displacement": 4897.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "1991"
   }, 

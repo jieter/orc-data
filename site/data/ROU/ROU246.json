@@ -5,12 +5,13 @@
       1.1158, 
       1.3516
     ], 
-    "gph": 697.0, 
     "triple_inshore": [
       0.599, 
       0.8873, 
       1.1274
-    ]
+    ], 
+    "gph": 697.0, 
+    "osn": 670.3
   }, 
   "sailnumber": "ROU246", 
   "name": "Thea", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.5, 
       "draft": 2.07, 
+      "wetted_surface": 34.1, 
       "main": 31.7, 
       "genoa": 32.5, 
       "displacement": 7003.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 820.0
     }, 
     "year": "2014"
   }, 

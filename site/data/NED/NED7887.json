@@ -5,12 +5,13 @@
       1.1804, 
       1.3162
     ], 
-    "gph": 640.4, 
     "triple_inshore": [
       0.7286, 
       0.9623, 
       1.0871
-    ]
+    ], 
+    "gph": 640.4, 
+    "osn": 624.7
   }, 
   "sailnumber": "NED7887", 
   "name": "True North", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.14, 
       "draft": 1.83, 
+      "wetted_surface": 19.1, 
       "main": 28.3, 
       "genoa": 23.4, 
       "displacement": 2848.0, 
-      "spinnaker_asym": 84.0
+      "spinnaker_asym": 84.0, 
+      "crew": 517.0
     }, 
     "year": "1992"
   }, 

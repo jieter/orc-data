@@ -5,12 +5,13 @@
       1.1748, 
       1.4135
     ], 
-    "gph": 661.6, 
     "triple_inshore": [
       0.6229, 
       0.9192, 
       1.1567
-    ]
+    ], 
+    "gph": 661.6, 
+    "osn": 639.5
   }, 
   "sailnumber": "NOR15186", 
   "name": "Chanel", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.99, 
       "draft": 2.01, 
+      "wetted_surface": 42.7, 
       "main": 49.2, 
       "genoa": 52.6, 
       "displacement": 10622.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 955.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.0335, 
       1.1973
     ], 
-    "gph": 744.3, 
     "triple_inshore": [
       0.5861, 
       0.8227, 
       0.972
-    ]
+    ], 
+    "gph": 744.3, 
+    "osn": 720.8
   }, 
   "sailnumber": "ESP5531_C", 
   "name": "JAMES CAIRD", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.57, 
       "draft": 1.37, 
+      "wetted_surface": 13.1, 
       "main": 16.6, 
       "genoa": 13.3, 
       "displacement": 1307.0, 
-      "spinnaker_asym": 29.0
+      "spinnaker_asym": 29.0, 
+      "crew": 225.0
     }, 
     "year": "2000"
   }, 

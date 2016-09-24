@@ -5,12 +5,13 @@
       1.143, 
       1.2848
     ], 
-    "gph": 668.5, 
     "triple_inshore": [
       0.6752, 
       0.9243, 
       1.0751
-    ]
+    ], 
+    "gph": 668.5, 
+    "osn": 649.5
   }, 
   "sailnumber": "ESP7162", 
   "name": "RO YACHTS CLUB", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.1, 
       "loa": 9.585, 
       "draft": 2.0, 
+      "wetted_surface": 23.2, 
       "main": 30.8, 
       "genoa": 27.6, 
       "displacement": 4527.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1997"
   }, 

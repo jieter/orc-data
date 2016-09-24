@@ -5,12 +5,13 @@
       1.1314, 
       1.2485
     ], 
-    "gph": 668.4, 
     "triple_inshore": [
       0.6947, 
       0.9208, 
       1.0527
-    ]
+    ], 
+    "gph": 668.4, 
+    "osn": 654.2
   }, 
   "sailnumber": "DEN21_C", 
   "name": "LIV", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.8, 
       "loa": 10.572, 
       "draft": 1.77, 
+      "wetted_surface": 22.0, 
       "main": 33.7, 
       "genoa": 37.5, 
       "displacement": 4554.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1982"
   }, 

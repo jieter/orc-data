@@ -5,12 +5,13 @@
       0.9718, 
       1.1161
     ], 
-    "gph": 783.8, 
     "triple_inshore": [
       0.5687, 
       0.7745, 
       0.8801
-    ]
+    ], 
+    "gph": 783.8, 
+    "osn": 763.1
   }, 
   "sailnumber": "NED8377", 
   "name": "T-time", 
@@ -25,10 +26,12 @@
       "spinnaker": 22.4, 
       "loa": 6.25, 
       "draft": 0.88, 
+      "wetted_surface": 9.1, 
       "main": 15.1, 
       "genoa": 5.8, 
       "displacement": 651.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1994"
   }, 

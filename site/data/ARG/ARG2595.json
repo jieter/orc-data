@@ -5,12 +5,13 @@
       1.1231, 
       1.2796
     ], 
-    "gph": 679.7, 
     "triple_inshore": [
       0.6639, 
       0.9055, 
       1.0746
-    ]
+    ], 
+    "gph": 679.7, 
+    "osn": 659.5
   }, 
   "sailnumber": "ARG2595", 
   "name": "INDIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.7, 
       "loa": 10.78, 
       "draft": 1.97, 
+      "wetted_surface": 25.2, 
       "main": 26.9, 
       "genoa": 39.2, 
       "displacement": 6182.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1987"
   }, 

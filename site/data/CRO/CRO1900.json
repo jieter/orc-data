@@ -5,12 +5,13 @@
       1.2358, 
       1.4057
     ], 
-    "gph": 619.2, 
     "triple_inshore": [
       0.7189, 
       0.9931, 
       1.1697
-    ]
+    ], 
+    "gph": 619.2, 
+    "osn": 601.2
   }, 
   "sailnumber": "CRO1900", 
   "name": "Amaro", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.1, 
       "loa": 11.462, 
       "draft": 2.07, 
+      "wetted_surface": 30.4, 
       "main": 44.5, 
       "genoa": 39.6, 
       "displacement": 6865.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 734.0
     }, 
     "year": "2011"
   }, 

@@ -5,12 +5,13 @@
       1.1606, 
       1.3296
     ], 
-    "gph": 658.8, 
     "triple_inshore": [
       0.678, 
       0.9376, 
       1.1168
-    ]
+    ], 
+    "gph": 658.8, 
+    "osn": 639.0
   }, 
   "sailnumber": "ESP4176_C", 
   "name": "NAIRAM II", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.0, 
       "loa": 10.448, 
       "draft": 1.98, 
+      "wetted_surface": 24.2, 
       "main": 35.9, 
       "genoa": 30.7, 
       "displacement": 5395.0, 
-      "spinnaker_asym": 53.0
+      "spinnaker_asym": 53.0, 
+      "crew": 560.0
     }, 
     "year": "1988"
   }, 

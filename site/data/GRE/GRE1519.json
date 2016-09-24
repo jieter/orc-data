@@ -5,12 +5,13 @@
       1.0969, 
       1.2916
     ], 
-    "gph": 700.0, 
     "triple_inshore": [
       0.6233, 
       0.8692, 
       1.0736
-    ]
+    ], 
+    "gph": 700.0, 
+    "osn": 677.4
   }, 
   "sailnumber": "GRE1519", 
   "name": "NYSTERI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.37, 
       "draft": 1.67, 
+      "wetted_surface": 30.3, 
       "main": 26.8, 
       "genoa": 35.4, 
       "displacement": 8098.0, 
-      "spinnaker_asym": 80.0
+      "spinnaker_asym": 80.0, 
+      "crew": 704.0
     }, 
     "year": "1998"
   }, 

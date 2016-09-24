@@ -5,12 +5,13 @@
       1.312, 
       1.4996
     ], 
-    "gph": 582.6, 
     "triple_inshore": [
       0.7648, 
       1.0576, 
       1.233
-    ]
+    ], 
+    "gph": 582.6, 
+    "osn": 565.9
   }, 
   "sailnumber": "GER6376", 
   "name": "RAPTOR", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.2, 
       "loa": 11.466, 
       "draft": 2.43, 
+      "wetted_surface": 30.1, 
       "main": 49.6, 
       "genoa": 36.9, 
       "displacement": 5296.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "2008"
   }, 

@@ -5,12 +5,13 @@
       1.0403, 
       1.2006
     ], 
-    "gph": 733.7, 
     "triple_inshore": [
       0.6064, 
       0.8203, 
       0.9904
-    ]
+    ], 
+    "gph": 733.7, 
+    "osn": 714.5
   }, 
   "sailnumber": "SUI314", 
   "name": "LOLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.55, 
       "draft": 1.61, 
+      "wetted_surface": 23.4, 
       "main": 26.6, 
       "genoa": 20.7, 
       "displacement": 5699.0, 
-      "spinnaker_asym": 66.0
+      "spinnaker_asym": 66.0, 
+      "crew": 563.0
     }, 
     "year": "2010"
   }, 

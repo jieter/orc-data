@@ -5,12 +5,13 @@
       1.3045, 
       1.4866
     ], 
-    "gph": 582.0, 
     "triple_inshore": [
       0.7796, 
       1.0553, 
       1.2227
-    ]
+    ], 
+    "gph": 582.0, 
+    "osn": 566.8
   }, 
   "sailnumber": "NED489", 
   "name": "THE NEXT", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.3, 
       "loa": 10.91, 
       "draft": 2.23, 
+      "wetted_surface": 23.3, 
       "main": 41.8, 
       "genoa": 39.1, 
       "displacement": 3524.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "1993"
   }, 

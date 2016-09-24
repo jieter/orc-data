@@ -5,12 +5,13 @@
       1.1342, 
       1.2875
     ], 
-    "gph": 667.4, 
     "triple_inshore": [
       0.6891, 
       0.9146, 
       1.0449
-    ]
+    ], 
+    "gph": 667.4, 
+    "osn": 650.8
   }, 
   "sailnumber": "ESP1103_C", 
   "name": "JUST4FUN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.032, 
       "draft": 1.5, 
+      "wetted_surface": 13.2, 
       "main": 21.3, 
       "genoa": 13.4, 
       "displacement": 1425.0, 
-      "spinnaker_asym": 62.0
+      "spinnaker_asym": 62.0, 
+      "crew": 338.0
     }, 
     "year": "2008"
   }, 

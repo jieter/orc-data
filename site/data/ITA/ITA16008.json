@@ -5,12 +5,13 @@
       1.4095, 
       1.6041
     ], 
-    "gph": 536.3, 
     "triple_inshore": [
       0.8601, 
       1.139, 
       1.3073
-    ]
+    ], 
+    "gph": 536.3, 
+    "osn": 522.7
   }, 
   "sailnumber": "ITA16008", 
   "name": "VOLA VOLA ENDEAVOUR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.005, 
       "draft": 2.71, 
+      "wetted_surface": 30.6, 
       "main": 58.3, 
       "genoa": 43.0, 
       "displacement": 5266.0, 
-      "spinnaker_asym": 179.0
+      "spinnaker_asym": 179.0, 
+      "crew": 850.0
     }, 
     "year": "2004"
   }, 

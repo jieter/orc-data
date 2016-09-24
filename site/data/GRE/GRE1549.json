@@ -5,12 +5,13 @@
       1.1004, 
       1.3105
     ], 
-    "gph": 704.0, 
     "triple_inshore": [
       0.5968, 
       0.8706, 
       1.0883
-    ]
+    ], 
+    "gph": 704.0, 
+    "osn": 679.9
   }, 
   "sailnumber": "GRE1549", 
   "name": "MIKIMI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.624, 
       "draft": 1.9, 
+      "wetted_surface": 31.9, 
       "main": 31.3, 
       "genoa": 39.5, 
       "displacement": 7650.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 756.0
     }, 
     "year": "1999"
   }, 

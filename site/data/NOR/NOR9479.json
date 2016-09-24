@@ -5,12 +5,13 @@
       1.0568, 
       1.2118
     ], 
-    "gph": 725.5, 
     "triple_inshore": [
       0.6087, 
       0.845, 
       1.005
-    ]
+    ], 
+    "gph": 725.5, 
+    "osn": 704.0
   }, 
   "sailnumber": "NOR9479", 
   "name": "Alida", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.04, 
       "draft": 1.55, 
+      "wetted_surface": 19.8, 
       "main": 22.3, 
       "genoa": 18.7, 
       "displacement": 3492.0, 
-      "spinnaker_asym": 58.0
+      "spinnaker_asym": 58.0, 
+      "crew": 500.0
     }, 
     "year": "1996"
   }, 

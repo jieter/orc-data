@@ -5,12 +5,13 @@
       1.1427, 
       1.3019
     ], 
-    "gph": 662.2, 
     "triple_inshore": [
       0.6964, 
       0.9249, 
       1.0611
-    ]
+    ], 
+    "gph": 662.2, 
+    "osn": 644.6
   }, 
   "sailnumber": "NED8273", 
   "name": "nJoy", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.997, 
       "draft": 1.48, 
+      "wetted_surface": 13.6, 
       "main": 21.6, 
       "genoa": 13.7, 
       "displacement": 1424.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 405.0
     }, 
     "year": "1993"
   }, 

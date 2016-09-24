@@ -5,12 +5,13 @@
       1.1501, 
       1.3265
     ], 
-    "gph": 668.2, 
     "triple_inshore": [
       0.6556, 
       0.919, 
       1.1052
-    ]
+    ], 
+    "gph": 668.2, 
+    "osn": 647.1
   }, 
   "sailnumber": "NED4598", 
   "name": "Vagebond", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.1, 
       "loa": 10.8, 
       "draft": 1.51, 
+      "wetted_surface": 29.2, 
       "main": 40.2, 
       "genoa": 22.9, 
       "displacement": 6219.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 636.0
     }, 
     "year": "1988"
   }, 

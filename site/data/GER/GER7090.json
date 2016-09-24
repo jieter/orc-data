@@ -5,12 +5,13 @@
       1.1693, 
       1.3146
     ], 
-    "gph": 652.4, 
     "triple_inshore": [
       0.6924, 
       0.9464, 
       1.0987
-    ]
+    ], 
+    "gph": 652.4, 
+    "osn": 635.1
   }, 
   "sailnumber": "GER7090", 
   "name": "SOPHUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.3, 
       "loa": 10.06, 
       "draft": 1.83, 
+      "wetted_surface": 24.4, 
       "main": 35.1, 
       "genoa": 31.8, 
       "displacement": 4696.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 510.0
     }, 
     "year": "1996"
   }, 

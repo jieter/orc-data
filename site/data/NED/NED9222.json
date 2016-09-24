@@ -5,12 +5,13 @@
       1.2323, 
       1.3763
     ], 
-    "gph": 617.5, 
     "triple_inshore": [
       0.7377, 
       0.9953, 
       1.1414
-    ]
+    ], 
+    "gph": 617.5, 
+    "osn": 601.6
   }, 
   "sailnumber": "NED9222", 
   "name": "ctrl-j", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.757, 
       "draft": 2.15, 
+      "wetted_surface": 26.7, 
       "main": 36.9, 
       "genoa": 40.6, 
       "displacement": 5362.0, 
-      "spinnaker_asym": 116.0
+      "spinnaker_asym": 116.0, 
+      "crew": 647.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.0267, 
       1.1763
     ], 
-    "gph": 748.0, 
     "triple_inshore": [
       0.591, 
       0.8223, 
       0.9797
-    ]
+    ], 
+    "gph": 748.0, 
+    "osn": 724.3
   }, 
   "sailnumber": "ITALUSSY", 
   "name": "LUSSY", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.5, 
       "loa": 9.07, 
       "draft": 1.67, 
+      "wetted_surface": 19.5, 
       "main": 18.8, 
       "genoa": 26.0, 
       "displacement": 3577.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 375.0
     }, 
     "year": "1979"
   }, 

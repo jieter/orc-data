@@ -5,12 +5,13 @@
       1.1788, 
       1.3449
     ], 
-    "gph": 649.1, 
     "triple_inshore": [
       0.687, 
       0.9501, 
       1.1232
-    ]
+    ], 
+    "gph": 649.1, 
+    "osn": 629.9
   }, 
   "sailnumber": "ESP7592_C", 
   "name": "VIRYI", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.2, 
       "loa": 10.3, 
       "draft": 1.95, 
+      "wetted_surface": 24.9, 
       "main": 34.5, 
       "genoa": 31.8, 
       "displacement": 5148.0, 
-      "spinnaker_asym": 74.0
+      "spinnaker_asym": 74.0, 
+      "crew": 560.0
     }, 
     "year": "2002"
   }, 

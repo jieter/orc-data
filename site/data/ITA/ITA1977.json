@@ -5,12 +5,13 @@
       1.2635, 
       1.4151
     ], 
-    "gph": 601.4, 
     "triple_inshore": [
       0.7509, 
       1.001, 
       1.1653
-    ]
+    ], 
+    "gph": 601.4, 
+    "osn": 589.3
   }, 
   "sailnumber": "ITA1977", 
   "name": "WALIDADA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.6, 
       "draft": 2.37, 
+      "wetted_surface": 42.8, 
       "main": 52.3, 
       "genoa": 107.5, 
       "displacement": 14967.0, 
-      "spinnaker_asym": 184.0
+      "spinnaker_asym": 184.0, 
+      "crew": 800.0
     }, 
     "year": "1974"
   }, 

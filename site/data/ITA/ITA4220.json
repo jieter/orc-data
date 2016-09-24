@@ -5,12 +5,13 @@
       1.4036, 
       1.5819
     ], 
-    "gph": 541.8, 
     "triple_inshore": [
       0.841, 
       1.1377, 
       1.3011
-    ]
+    ], 
+    "gph": 541.8, 
+    "osn": 526.9
   }, 
   "sailnumber": "ITA4220", 
   "name": "MELA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.96, 
       "draft": 2.74, 
+      "wetted_surface": 34.8, 
       "main": 59.6, 
       "genoa": 49.5, 
       "displacement": 7650.0, 
-      "spinnaker_asym": 185.0
+      "spinnaker_asym": 185.0, 
+      "crew": 870.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       1.2446, 
       1.4332
     ], 
-    "gph": 615.4, 
     "triple_inshore": [
       0.7174, 
       0.9866, 
       1.19
-    ]
+    ], 
+    "gph": 615.4, 
+    "osn": 598.2
   }, 
   "sailnumber": "ARG709", 
   "name": "MATRERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 183.3, 
       "loa": 15.05, 
       "draft": 2.33, 
+      "wetted_surface": 46.6, 
       "main": 48.4, 
       "genoa": 87.3, 
       "displacement": 16737.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 990.0
     }, 
     "year": "1970"
   }, 

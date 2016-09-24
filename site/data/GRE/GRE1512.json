@@ -5,12 +5,13 @@
       0.9856, 
       1.159
     ], 
-    "gph": 780.3, 
     "triple_inshore": [
       0.5542, 
       0.7699, 
       0.9486
-    ]
+    ], 
+    "gph": 780.3, 
+    "osn": 757.6
   }, 
   "sailnumber": "GRE1512", 
   "name": "PERAMARE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.89, 
       "draft": 1.76, 
+      "wetted_surface": 24.3, 
       "main": 20.0, 
       "genoa": 36.0, 
       "displacement": 5579.0, 
-      "spinnaker_asym": 60.0
+      "spinnaker_asym": 60.0, 
+      "crew": 420.0
     }, 
     "year": "1974"
   }, 

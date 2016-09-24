@@ -5,12 +5,13 @@
       1.2125, 
       1.3928
     ], 
-    "gph": 630.6, 
     "triple_inshore": [
       0.7095, 
       0.9737, 
       1.1728
-    ]
+    ], 
+    "gph": 630.6, 
+    "osn": 611.4
   }, 
   "sailnumber": "GRE1443", 
   "name": "ALEXIS P", 
@@ -25,10 +26,12 @@
       "spinnaker": 135.5, 
       "loa": 13.054, 
       "draft": 2.53, 
+      "wetted_surface": 39.4, 
       "main": 42.5, 
       "genoa": 60.2, 
       "displacement": 12579.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 900.0
     }, 
     "year": "1985"
   }, 

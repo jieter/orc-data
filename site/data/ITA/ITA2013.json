@@ -5,12 +5,13 @@
       1.313, 
       1.5293
     ], 
-    "gph": 585.3, 
     "triple_inshore": [
       0.7474, 
       1.0517, 
       1.2798
-    ]
+    ], 
+    "gph": 585.3, 
+    "osn": 566.3
   }, 
   "sailnumber": "ITA2013", 
   "name": "MY FIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 124.0, 
       "loa": 13.715, 
       "draft": 2.78, 
+      "wetted_surface": 41.0, 
       "main": 57.3, 
       "genoa": 47.3, 
       "displacement": 11095.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 890.0
     }, 
     "year": "2004"
   }, 

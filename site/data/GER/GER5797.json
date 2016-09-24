@@ -5,12 +5,13 @@
       0.9952, 
       1.1089
     ], 
-    "gph": 760.8, 
     "triple_inshore": [
       0.6123, 
       0.8219, 
       0.9324
-    ]
+    ], 
+    "gph": 760.8, 
+    "osn": 740.3
   }, 
   "sailnumber": "GER5797", 
   "name": "IDEAL", 
@@ -25,10 +26,12 @@
       "spinnaker": 29.6, 
       "loa": 6.955, 
       "draft": 1.43, 
+      "wetted_surface": 10.5, 
       "main": 15.4, 
       "genoa": 14.0, 
       "displacement": 1254.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 340.0
     }, 
     "year": "1977"
   }, 

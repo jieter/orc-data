@@ -5,12 +5,13 @@
       1.2284, 
       1.3878
     ], 
-    "gph": 620.3, 
     "triple_inshore": [
       0.7294, 
       0.9894, 
       1.1397
-    ]
+    ], 
+    "gph": 620.3, 
+    "osn": 603.1
   }, 
   "sailnumber": "NED7235", 
   "name": "Jikke", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.57, 
       "draft": 2.02, 
+      "wetted_surface": 25.2, 
       "main": 33.5, 
       "genoa": 40.9, 
       "displacement": 4169.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 658.0
     }, 
     "year": "1992"
   }, 

@@ -5,12 +5,13 @@
       1.2153, 
       1.3813
     ], 
-    "gph": 628.0, 
     "triple_inshore": [
       0.7114, 
       0.9763, 
       1.1387
-    ]
+    ], 
+    "gph": 628.0, 
+    "osn": 611.9
   }, 
   "sailnumber": "ESP2992", 
   "name": "ALTAMAR DIEZ", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.2, 
       "loa": 10.632, 
       "draft": 2.0, 
+      "wetted_surface": 24.8, 
       "main": 42.1, 
       "genoa": 30.1, 
       "displacement": 4150.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 570.0
     }, 
     "year": "1991"
   }, 

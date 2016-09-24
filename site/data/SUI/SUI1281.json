@@ -5,12 +5,13 @@
       1.1226, 
       1.2679
     ], 
-    "gph": 674.5, 
     "triple_inshore": [
       0.6829, 
       0.9086, 
       1.0356
-    ]
+    ], 
+    "gph": 674.5, 
+    "osn": 657.4
   }, 
   "sailnumber": "SUI1281", 
   "name": "MOJO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.032, 
       "draft": 1.52, 
+      "wetted_surface": 13.8, 
       "main": 21.5, 
       "genoa": 14.0, 
       "displacement": 1581.0, 
-      "spinnaker_asym": 63.0
+      "spinnaker_asym": 63.0, 
+      "crew": 339.0
     }, 
     "year": "1995"
   }, 

@@ -5,12 +5,13 @@
       1.1138, 
       1.353
     ], 
-    "gph": 698.5, 
     "triple_inshore": [
       0.5946, 
       0.8813, 
       1.1216
-    ]
+    ], 
+    "gph": 698.5, 
+    "osn": 672.4
   }, 
   "sailnumber": "NOR15014", 
   "name": "Havloye", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.0, 
       "draft": 2.0, 
+      "wetted_surface": 35.7, 
       "main": 39.9, 
       "genoa": 26.4, 
       "displacement": 7846.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 825.0
     }, 
     "year": "2011"
   }, 

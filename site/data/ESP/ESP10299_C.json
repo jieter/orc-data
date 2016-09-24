@@ -5,12 +5,13 @@
       0.9395, 
       1.0302
     ], 
-    "gph": 807.1, 
     "triple_inshore": [
       0.5687, 
       0.7459, 
       0.8371
-    ]
+    ], 
+    "gph": 807.1, 
+    "osn": 792.5
   }, 
   "sailnumber": "ESP10299_C", 
   "name": "ACALA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.4, 
       "draft": 1.09, 
+      "wetted_surface": 12.3, 
       "main": 16.5, 
       "genoa": 24.8, 
       "displacement": 1633.0, 
-      "spinnaker_asym": 48.0
+      "spinnaker_asym": 48.0, 
+      "crew": 300.0
     }, 
     "year": "1978"
   }, 

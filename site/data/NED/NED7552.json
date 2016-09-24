@@ -5,12 +5,13 @@
       1.1522, 
       1.3097
     ], 
-    "gph": 662.9, 
     "triple_inshore": [
       0.6784, 
       0.9323, 
       1.1003
-    ]
+    ], 
+    "gph": 662.9, 
+    "osn": 643.4
   }, 
   "sailnumber": "NED7552", 
   "name": "MOTION", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.9, 
       "loa": 10.025, 
       "draft": 1.92, 
+      "wetted_surface": 24.5, 
       "main": 31.7, 
       "genoa": 32.7, 
       "displacement": 5171.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 622.0
     }, 
     "year": "2000"
   }, 

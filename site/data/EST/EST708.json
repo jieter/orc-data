@@ -5,12 +5,13 @@
       1.2101, 
       1.3664
     ], 
-    "gph": 630.5, 
     "triple_inshore": [
       0.7176, 
       0.9836, 
       1.1507
-    ]
+    ], 
+    "gph": 630.5, 
+    "osn": 612.1
   }, 
   "sailnumber": "EST708", 
   "name": "BLUE LARK", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.1, 
       "loa": 10.64, 
       "draft": 2.25, 
+      "wetted_surface": 26.7, 
       "main": 35.2, 
       "genoa": 41.3, 
       "displacement": 5875.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 644.0
     }, 
     "year": "2001"
   }, 

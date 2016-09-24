@@ -5,12 +5,13 @@
       1.3655, 
       1.5171
     ], 
-    "gph": 553.7, 
     "triple_inshore": [
       0.8143, 
       1.0748, 
       1.2302
-    ]
+    ], 
+    "gph": 553.7, 
+    "osn": 546.2
   }, 
   "sailnumber": "HUN751", 
   "name": "Nemere II", 
@@ -25,10 +26,12 @@
       "spinnaker": 236.1, 
       "loa": 18.55, 
       "draft": 1.93, 
+      "wetted_surface": 40.8, 
       "main": 73.2, 
       "genoa": 44.6, 
       "displacement": 10639.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 962.0
     }, 
     "year": "1943"
   }, 

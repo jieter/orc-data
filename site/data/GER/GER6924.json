@@ -5,12 +5,13 @@
       1.2868, 
       1.4772
     ], 
-    "gph": 598.0, 
     "triple_inshore": [
       0.7303, 
       1.0219, 
       1.2127
-    ]
+    ], 
+    "gph": 598.0, 
+    "osn": 579.1
   }, 
   "sailnumber": "GER6924", 
   "name": "SHELTER", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.4, 
       "draft": 2.16, 
+      "wetted_surface": 38.5, 
       "main": 52.0, 
       "genoa": 37.8, 
       "displacement": 8850.0, 
-      "spinnaker_asym": 130.0
+      "spinnaker_asym": 130.0, 
+      "crew": 863.0
     }, 
     "year": "2010"
   }, 

@@ -5,12 +5,13 @@
       1.297, 
       1.475
     ], 
-    "gph": 589.7, 
     "triple_inshore": [
       0.7556, 
       1.0438, 
       1.2307
-    ]
+    ], 
+    "gph": 589.7, 
+    "osn": 573.2
   }, 
   "sailnumber": "ESP7280_C", 
   "name": "RAUXA CUATRO", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.1, 
       "loa": 12.555, 
       "draft": 2.48, 
+      "wetted_surface": 33.6, 
       "main": 51.6, 
       "genoa": 50.5, 
       "displacement": 7870.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2004"
   }, 

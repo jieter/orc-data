@@ -5,12 +5,13 @@
       1.3194, 
       1.5002
     ], 
-    "gph": 578.8, 
     "triple_inshore": [
       0.7756, 
       1.0666, 
       1.2336
-    ]
+    ], 
+    "gph": 578.8, 
+    "osn": 561.8
   }, 
   "sailnumber": "FRA43519", 
   "name": "VALENTINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.086, 
       "draft": 2.2, 
+      "wetted_surface": 26.1, 
       "main": 36.8, 
       "genoa": 33.7, 
       "displacement": 4377.0, 
-      "spinnaker_asym": 130.0
+      "spinnaker_asym": 130.0, 
+      "crew": 668.0
     }, 
     "year": "2010"
   }, 

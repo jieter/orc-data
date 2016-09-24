@@ -5,12 +5,13 @@
       1.0377, 
       1.152
     ], 
-    "gph": 732.0, 
     "triple_inshore": [
       0.6273, 
       0.8342, 
       0.9562
-    ]
+    ], 
+    "gph": 732.0, 
+    "osn": 715.2
   }, 
   "sailnumber": "NED8671", 
   "name": "Beautiful", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.7, 
       "loa": 9.387, 
       "draft": 1.37, 
+      "wetted_surface": 20.0, 
       "main": 18.8, 
       "genoa": 37.4, 
       "displacement": 5061.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 461.0
     }, 
     "year": "1977"
   }, 

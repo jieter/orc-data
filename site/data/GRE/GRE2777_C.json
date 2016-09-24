@@ -5,12 +5,13 @@
       1.1724, 
       1.3594
     ], 
-    "gph": 656.3, 
     "triple_inshore": [
       0.661, 
       0.924, 
       1.1138
-    ]
+    ], 
+    "gph": 656.3, 
+    "osn": 636.6
   }, 
   "sailnumber": "GRE2777_C", 
   "name": "BOTELLON", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.71, 
       "draft": 1.96, 
+      "wetted_surface": 32.7, 
       "main": 36.8, 
       "genoa": 43.0, 
       "displacement": 7078.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 400.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.2275, 
       1.4329
     ], 
-    "gph": 625.8, 
     "triple_inshore": [
       0.6955, 
       0.9733, 
       1.1872
-    ]
+    ], 
+    "gph": 625.8, 
+    "osn": 607.2
   }, 
   "sailnumber": "NOR13584", 
   "name": "Calluna", 
@@ -25,10 +26,12 @@
       "spinnaker": 115.8, 
       "loa": 12.83, 
       "draft": 1.86, 
+      "wetted_surface": 36.9, 
       "main": 41.4, 
       "genoa": 51.5, 
       "displacement": 10184.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 883.0
     }, 
     "year": "2004"
   }, 

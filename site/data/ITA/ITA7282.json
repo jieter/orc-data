@@ -5,12 +5,13 @@
       1.0783, 
       1.1973
     ], 
-    "gph": 706.9, 
     "triple_inshore": [
       0.6435, 
       0.8603, 
       0.9915
-    ]
+    ], 
+    "gph": 706.9, 
+    "osn": 689.3
   }, 
   "sailnumber": "ITA7282", 
   "name": "TAGULA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.7, 
       "loa": 10.56, 
       "draft": 1.8, 
+      "wetted_surface": 26.9, 
       "main": 26.7, 
       "genoa": 45.0, 
       "displacement": 6953.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1975"
   }, 

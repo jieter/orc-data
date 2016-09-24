@@ -5,12 +5,13 @@
       1.0551, 
       1.2258
     ], 
-    "gph": 730.0, 
     "triple_inshore": [
       0.5979, 
       0.8532, 
       1.0372
-    ]
+    ], 
+    "gph": 730.0, 
+    "osn": 704.1
   }, 
   "sailnumber": "ESP9634_C", 
   "name": "IKKO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.344, 
       "draft": 2.02, 
+      "wetted_surface": 21.6, 
       "main": 25.0, 
       "genoa": 24.6, 
       "displacement": 4306.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "2001"
   }, 

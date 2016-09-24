@@ -5,12 +5,13 @@
       1.1657, 
       1.3146
     ], 
-    "gph": 651.3, 
     "triple_inshore": [
       0.7026, 
       0.9446, 
       1.082
-    ]
+    ], 
+    "gph": 651.3, 
+    "osn": 633.7
   }, 
   "sailnumber": "NED6799", 
   "name": "Goeyedag", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.14, 
       "draft": 1.83, 
+      "wetted_surface": 18.8, 
       "main": 29.3, 
       "genoa": 17.9, 
       "displacement": 2757.0, 
-      "spinnaker_asym": 79.0
+      "spinnaker_asym": 79.0, 
+      "crew": 513.0
     }, 
     "year": "1992"
   }, 

@@ -5,12 +5,13 @@
       1.263, 
       1.4294
     ], 
-    "gph": 606.5, 
     "triple_inshore": [
       0.7327, 
       1.0161, 
       1.1918
-    ]
+    ], 
+    "gph": 606.5, 
+    "osn": 589.7
   }, 
   "sailnumber": "GER5811", 
   "name": "OLIVA", 
@@ -25,10 +26,12 @@
       "spinnaker": 120.1, 
       "loa": 12.12, 
       "draft": 2.05, 
+      "wetted_surface": 30.8, 
       "main": 42.8, 
       "genoa": 36.1, 
       "displacement": 6757.0, 
-      "spinnaker_asym": 102.0
+      "spinnaker_asym": 102.0, 
+      "crew": 500.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.2115, 
       1.367
     ], 
-    "gph": 627.9, 
     "triple_inshore": [
       0.709, 
       0.9591, 
       1.1266
-    ]
+    ], 
+    "gph": 627.9, 
+    "osn": 615.4
   }, 
   "sailnumber": "NOR14484", 
   "name": "Blue Moon", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.76, 
       "draft": 1.45, 
+      "wetted_surface": 34.2, 
       "main": 53.1, 
       "genoa": 33.8, 
       "displacement": 8728.0, 
-      "spinnaker_asym": 102.0
+      "spinnaker_asym": 102.0, 
+      "crew": 739.0
     }, 
     "year": "2004"
   }, 

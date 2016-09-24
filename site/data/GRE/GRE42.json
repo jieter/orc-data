@@ -5,12 +5,13 @@
       1.3207, 
       1.4895
     ], 
-    "gph": 577.6, 
     "triple_inshore": [
       0.7781, 
       1.062, 
       1.2334
-    ]
+    ], 
+    "gph": 577.6, 
+    "osn": 562.8
   }, 
   "sailnumber": "GRE42", 
   "name": "MY WAY", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.4, 
       "loa": 12.4, 
       "draft": 2.48, 
+      "wetted_surface": 31.4, 
       "main": 59.6, 
       "genoa": 38.4, 
       "displacement": 6577.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "2002"
   }, 

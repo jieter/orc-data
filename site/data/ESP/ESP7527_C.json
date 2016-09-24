@@ -5,12 +5,13 @@
       1.2362, 
       1.4288
     ], 
-    "gph": 621.9, 
     "triple_inshore": [
       0.7037, 
       0.9841, 
       1.1871
-    ]
+    ], 
+    "gph": 621.9, 
+    "osn": 602.3
   }, 
   "sailnumber": "ESP7527_C", 
   "name": "LA VICTORIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.6, 
       "loa": 12.86, 
       "draft": 2.07, 
+      "wetted_surface": 39.3, 
       "main": 43.2, 
       "genoa": 49.2, 
       "displacement": 10642.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2000"
   }, 

@@ -5,12 +5,13 @@
       1.3039, 
       1.4922
     ], 
-    "gph": 582.6, 
     "triple_inshore": [
       0.7765, 
       1.0547, 
       1.2232
-    ]
+    ], 
+    "gph": 582.6, 
+    "osn": 567.3
   }, 
   "sailnumber": "NOR14660", 
   "name": "Tango", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.5, 
       "loa": 10.93, 
       "draft": 2.24, 
+      "wetted_surface": 23.5, 
       "main": 41.9, 
       "genoa": 38.0, 
       "displacement": 3610.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 640.0
     }, 
     "year": "1993"
   }, 

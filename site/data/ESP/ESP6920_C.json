@@ -5,12 +5,13 @@
       1.1837, 
       1.3563
     ], 
-    "gph": 646.1, 
     "triple_inshore": [
       0.6894, 
       0.9527, 
       1.1347
-    ]
+    ], 
+    "gph": 646.1, 
+    "osn": 626.8
   }, 
   "sailnumber": "ESP6920_C", 
   "name": "MAREMOTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.8, 
       "loa": 10.944, 
       "draft": 2.09, 
+      "wetted_surface": 29.3, 
       "main": 38.2, 
       "genoa": 40.8, 
       "displacement": 6484.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 663.0
     }, 
     "year": "1999"
   }, 

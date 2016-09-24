@@ -5,12 +5,13 @@
       1.1767, 
       1.3392
     ], 
-    "gph": 647.2, 
     "triple_inshore": [
       0.7029, 
       0.9634, 
       1.1189
-    ]
+    ], 
+    "gph": 647.2, 
+    "osn": 627.5
   }, 
   "sailnumber": "FRA16681", 
   "name": "MATAMOUF of RECOUCOU", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.5, 
       "loa": 8.95, 
       "draft": 1.87, 
+      "wetted_surface": 19.1, 
       "main": 27.4, 
       "genoa": 23.9, 
       "displacement": 2714.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1993"
   }, 

@@ -5,12 +5,13 @@
       1.1397, 
       1.3324
     ], 
-    "gph": 678.3, 
     "triple_inshore": [
       0.63, 
       0.9063, 
       1.1074
-    ]
+    ], 
+    "gph": 678.3, 
+    "osn": 656.6
   }, 
   "sailnumber": "ESP2931_C", 
   "name": "MAS NUNCA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.2, 
       "draft": 1.98, 
+      "wetted_surface": 30.0, 
       "main": 46.3, 
       "genoa": 25.4, 
       "displacement": 7177.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "1988"
   }, 

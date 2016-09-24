@@ -5,12 +5,13 @@
       1.3514, 
       1.5573
     ], 
-    "gph": 560.0, 
     "triple_inshore": [
       0.8166, 
       1.0856, 
       1.2605
-    ]
+    ], 
+    "gph": 560.0, 
+    "osn": 545.7
   }, 
   "sailnumber": "JPN1088", 
   "name": "INDEPENDENCE 7", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.4, 
       "loa": 10.63, 
       "draft": 2.3, 
+      "wetted_surface": 22.4, 
       "main": 47.4, 
       "genoa": 28.9, 
       "displacement": 2868.0, 
-      "spinnaker_asym": 72.0
+      "spinnaker_asym": 72.0, 
+      "crew": 643.0
     }, 
     "year": "1998"
   }, 

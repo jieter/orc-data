@@ -5,12 +5,13 @@
       1.15, 
       1.3234
     ], 
-    "gph": 665.8, 
     "triple_inshore": [
       0.6635, 
       0.9038, 
       1.0842
-    ]
+    ], 
+    "gph": 665.8, 
+    "osn": 647.6
   }, 
   "sailnumber": "ESP6283_C", 
   "name": "PARIPE DOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.2, 
       "draft": 1.63, 
+      "wetted_surface": 38.4, 
       "main": 47.9, 
       "genoa": 40.3, 
       "displacement": 11929.0, 
-      "spinnaker_asym": 80.0
+      "spinnaker_asym": 80.0, 
+      "crew": 500.0
     }, 
     "year": "1993"
   }, 

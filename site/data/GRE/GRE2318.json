@@ -5,12 +5,13 @@
       0.9946, 
       1.153
     ], 
-    "gph": 774.7, 
     "triple_inshore": [
       0.5622, 
       0.7867, 
       0.9507
-    ]
+    ], 
+    "gph": 774.7, 
+    "osn": 749.7
   }, 
   "sailnumber": "GRE2318", 
   "name": "MARILENA", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.1, 
       "loa": 9.89, 
       "draft": 1.6, 
+      "wetted_surface": 21.1, 
       "main": 17.0, 
       "genoa": 29.8, 
       "displacement": 4553.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1971"
   }, 

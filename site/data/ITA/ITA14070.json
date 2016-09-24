@@ -5,12 +5,13 @@
       1.1191, 
       1.2482
     ], 
-    "gph": 668.6, 
     "triple_inshore": [
       0.716, 
       0.9203, 
       1.0402
-    ]
+    ], 
+    "gph": 668.6, 
+    "osn": 654.6
   }, 
   "sailnumber": "ITA14070", 
   "name": "PROTEINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 52.0, 
       "loa": 7.506, 
       "draft": 1.8, 
+      "wetted_surface": 11.9, 
       "main": 19.8, 
       "genoa": 15.3, 
       "displacement": 1288.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "2000"
   }, 

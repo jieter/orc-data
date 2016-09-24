@@ -5,12 +5,13 @@
       1.2363, 
       1.3839
     ], 
-    "gph": 609.7, 
     "triple_inshore": [
       0.7684, 
       1.0125, 
       1.1518
-    ]
+    ], 
+    "gph": 609.7, 
+    "osn": 595.5
   }, 
   "sailnumber": "SUI2138", 
   "name": "AS DE COEUR", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.3, 
       "loa": 10.007, 
       "draft": 1.79, 
+      "wetted_surface": 19.9, 
       "main": 34.0, 
       "genoa": 30.3, 
       "displacement": 2955.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 538.0
     }, 
     "year": "1986"
   }, 

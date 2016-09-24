@@ -5,12 +5,13 @@
       1.2678, 
       1.4296
     ], 
-    "gph": 603.1, 
     "triple_inshore": [
       0.7415, 
       1.0181, 
       1.1861
-    ]
+    ], 
+    "gph": 603.1, 
+    "osn": 586.8
   }, 
   "sailnumber": "ITA391", 
   "name": "MORGAN IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 112.4, 
       "loa": 11.82, 
       "draft": 2.15, 
+      "wetted_surface": 31.8, 
       "main": 48.5, 
       "genoa": 37.0, 
       "displacement": 7099.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 710.0
     }, 
     "year": "2011"
   }, 

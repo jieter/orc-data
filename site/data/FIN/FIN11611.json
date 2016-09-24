@@ -5,12 +5,13 @@
       1.2366, 
       1.4088
     ], 
-    "gph": 619.4, 
     "triple_inshore": [
       0.7199, 
       1.0, 
       1.1819
-    ]
+    ], 
+    "gph": 619.4, 
+    "osn": 600.1
   }, 
   "sailnumber": "FIN11611", 
   "name": "RAMDATA", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.3, 
       "loa": 11.3, 
       "draft": 2.33, 
+      "wetted_surface": 30.3, 
       "main": 43.7, 
       "genoa": 33.9, 
       "displacement": 6380.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 710.0
     }, 
     "year": "2005"
   }, 

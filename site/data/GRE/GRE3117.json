@@ -5,12 +5,13 @@
       1.1369, 
       1.294
     ], 
-    "gph": 674.5, 
     "triple_inshore": [
       0.6603, 
       0.9187, 
       1.0796
-    ]
+    ], 
+    "gph": 674.5, 
+    "osn": 653.0
   }, 
   "sailnumber": "GRE3117", 
   "name": "FILINTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.4, 
       "loa": 9.49, 
       "draft": 1.92, 
+      "wetted_surface": 21.9, 
       "main": 25.4, 
       "genoa": 27.0, 
       "displacement": 3663.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.1588, 
       1.342
     ], 
-    "gph": 665.9, 
     "triple_inshore": [
       0.6477, 
       0.9125, 
       1.0974
-    ]
+    ], 
+    "gph": 665.9, 
+    "osn": 645.7
   }, 
   "sailnumber": "GRE1533", 
   "name": "KIRKI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.624, 
       "draft": 1.9, 
+      "wetted_surface": 31.9, 
       "main": 30.2, 
       "genoa": 39.0, 
       "displacement": 7650.0, 
-      "spinnaker_asym": 103.0
+      "spinnaker_asym": 103.0, 
+      "crew": 640.0
     }, 
     "year": "1999"
   }, 

@@ -5,12 +5,13 @@
       1.0815, 
       1.2356
     ], 
-    "gph": 707.3, 
     "triple_inshore": [
       0.6318, 
       0.873, 
       1.0359
-    ]
+    ], 
+    "gph": 707.3, 
+    "osn": 686.0
   }, 
   "sailnumber": "NED7914", 
   "name": "Covergirl", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.7, 
       "loa": 9.53, 
       "draft": 1.7, 
+      "wetted_surface": 20.7, 
       "main": 28.1, 
       "genoa": 19.3, 
       "displacement": 3872.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 494.0
     }, 
     "year": "1987"
   }, 

@@ -5,12 +5,13 @@
       1.255, 
       1.4057
     ], 
-    "gph": 606.3, 
     "triple_inshore": [
       0.7467, 
       1.004, 
       1.164
-    ]
+    ], 
+    "gph": 606.3, 
+    "osn": 592.1
   }, 
   "sailnumber": "NOR9310", 
   "name": "Serenity", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.38, 
       "draft": 1.97, 
+      "wetted_surface": 31.7, 
       "main": 47.5, 
       "genoa": 52.4, 
       "displacement": 8103.0, 
-      "spinnaker_asym": 114.0
+      "spinnaker_asym": 114.0, 
+      "crew": 747.0
     }, 
     "year": "1998"
   }, 

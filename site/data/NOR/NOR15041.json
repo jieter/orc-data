@@ -5,12 +5,13 @@
       1.3231, 
       1.5014
     ], 
-    "gph": 575.9, 
     "triple_inshore": [
       0.7762, 
       1.0634, 
       1.2466
-    ]
+    ], 
+    "gph": 575.9, 
+    "osn": 561.7
   }, 
   "sailnumber": "NOR15041", 
   "name": "Swell", 
@@ -25,10 +26,12 @@
       "spinnaker": 132.1, 
       "loa": 12.2, 
       "draft": 2.2, 
+      "wetted_surface": 35.0, 
       "main": 58.0, 
       "genoa": 40.2, 
       "displacement": 7978.0, 
-      "spinnaker_asym": 115.0
+      "spinnaker_asym": 115.0, 
+      "crew": 828.0
     }, 
     "year": "2011"
   }, 

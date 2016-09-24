@@ -5,12 +5,13 @@
       1.2774, 
       1.4448
     ], 
-    "gph": 597.6, 
     "triple_inshore": [
       0.7518, 
       1.0305, 
       1.2064
-    ]
+    ], 
+    "gph": 597.6, 
+    "osn": 581.1
   }, 
   "sailnumber": "ISR5", 
   "name": "Principessa", 
@@ -25,10 +26,12 @@
       "spinnaker": 116.6, 
       "loa": 12.016, 
       "draft": 2.43, 
+      "wetted_surface": 32.3, 
       "main": 47.2, 
       "genoa": 51.0, 
       "displacement": 7449.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 798.0
     }, 
     "year": "2000"
   }, 

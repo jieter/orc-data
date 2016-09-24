@@ -5,12 +5,13 @@
       1.2737, 
       1.4425
     ], 
-    "gph": 599.7, 
     "triple_inshore": [
       0.7483, 
       1.0289, 
       1.2049
-    ]
+    ], 
+    "gph": 599.7, 
+    "osn": 582.7
   }, 
   "sailnumber": "ROU83", 
   "name": "Nemo", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.4, 
       "loa": 11.924, 
       "draft": 2.42, 
+      "wetted_surface": 31.3, 
       "main": 48.4, 
       "genoa": 45.5, 
       "displacement": 7167.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 920.0
     }, 
     "year": "1997"
   }, 

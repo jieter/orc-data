@@ -5,12 +5,13 @@
       1.2152, 
       1.3968
     ], 
-    "gph": 630.9, 
     "triple_inshore": [
       0.6983, 
       0.9663, 
       1.1499
-    ]
+    ], 
+    "gph": 630.9, 
+    "osn": 612.4
   }, 
   "sailnumber": "ESP8812_C", 
   "name": "DANICO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.3, 
       "draft": 2.01, 
+      "wetted_surface": 31.8, 
       "main": 42.7, 
       "genoa": 40.1, 
       "displacement": 7078.0, 
-      "spinnaker_asym": 84.0
+      "spinnaker_asym": 84.0, 
+      "crew": 749.0
     }, 
     "year": "2004"
   }, 

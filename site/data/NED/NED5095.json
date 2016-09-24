@@ -5,12 +5,13 @@
       1.0041, 
       1.12
     ], 
-    "gph": 757.9, 
     "triple_inshore": [
       0.6042, 
       0.811, 
       0.9325
-    ]
+    ], 
+    "gph": 757.9, 
+    "osn": 738.2
   }, 
   "sailnumber": "NED5095", 
   "name": "PLANCIUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 51.2, 
       "loa": 8.551, 
       "draft": 1.61, 
+      "wetted_surface": 16.3, 
       "main": 16.4, 
       "genoa": 27.8, 
       "displacement": 3205.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 404.0
     }, 
     "year": "1990"
   }, 

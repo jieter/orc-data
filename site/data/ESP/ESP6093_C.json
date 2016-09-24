@@ -5,12 +5,13 @@
       1.1072, 
       1.2984
     ], 
-    "gph": 697.4, 
     "triple_inshore": [
       0.6156, 
       0.8871, 
       1.0878
-    ]
+    ], 
+    "gph": 697.4, 
+    "osn": 673.5
   }, 
   "sailnumber": "ESP6093_C", 
   "name": "MAYCU", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.944, 
       "draft": 2.09, 
+      "wetted_surface": 29.4, 
       "main": 38.2, 
       "genoa": 27.8, 
       "displacement": 6484.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 250.0
     }, 
     "year": "1999"
   }, 

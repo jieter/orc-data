@@ -5,12 +5,13 @@
       1.0618, 
       1.209
     ], 
-    "gph": 719.9, 
     "triple_inshore": [
       0.6246, 
       0.8595, 
       1.0194
-    ]
+    ], 
+    "gph": 719.9, 
+    "osn": 698.1
   }, 
   "sailnumber": "ESP5291", 
   "name": "FEHURIHI", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.2, 
       "loa": 8.99, 
       "draft": 1.77, 
+      "wetted_surface": 20.5, 
       "main": 22.2, 
       "genoa": 26.3, 
       "displacement": 4091.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1989"
   }, 

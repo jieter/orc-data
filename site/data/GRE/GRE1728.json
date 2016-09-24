@@ -5,12 +5,13 @@
       1.0151, 
       1.1763
     ], 
-    "gph": 758.8, 
     "triple_inshore": [
       0.5738, 
       0.8132, 
       0.9841
-    ]
+    ], 
+    "gph": 758.8, 
+    "osn": 733.2
   }, 
   "sailnumber": "GRE1728", 
   "name": "MEDITERRANEO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.06, 
       "draft": 1.85, 
+      "wetted_surface": 24.0, 
       "main": 23.5, 
       "genoa": 38.8, 
       "displacement": 5487.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 539.0
     }, 
     "year": "1984"
   }, 

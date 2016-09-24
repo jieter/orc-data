@@ -5,12 +5,13 @@
       1.3096, 
       1.4606
     ], 
-    "gph": 576.0, 
     "triple_inshore": [
       0.7923, 
       1.057, 
       1.2161
-    ]
+    ], 
+    "gph": 576.0, 
+    "osn": 566.5
   }, 
   "sailnumber": "GER6292", 
   "name": "CHARISMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 141.8, 
       "loa": 12.12, 
       "draft": 2.04, 
+      "wetted_surface": 30.2, 
       "main": 49.9, 
       "genoa": 40.2, 
       "displacement": 6475.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "2004"
   }, 

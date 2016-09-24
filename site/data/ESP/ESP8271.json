@@ -5,12 +5,13 @@
       1.2261, 
       1.3837
     ], 
-    "gph": 622.9, 
     "triple_inshore": [
       0.7207, 
       0.9911, 
       1.1615
-    ]
+    ], 
+    "gph": 622.9, 
+    "osn": 605.5
   }, 
   "sailnumber": "ESP8271", 
   "name": "UXAMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.1, 
       "loa": 10.73, 
       "draft": 2.02, 
+      "wetted_surface": 28.5, 
       "main": 40.2, 
       "genoa": 42.7, 
       "displacement": 6050.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2006"
   }, 

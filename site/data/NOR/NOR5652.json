@@ -5,12 +5,13 @@
       1.0946, 
       1.2409
     ], 
-    "gph": 698.2, 
     "triple_inshore": [
       0.6409, 
       0.8913, 
       1.0406
-    ]
+    ], 
+    "gph": 698.2, 
+    "osn": 677.8
   }, 
   "sailnumber": "NOR5652", 
   "name": "Mardoll", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.4, 
       "draft": 1.77, 
+      "wetted_surface": 18.3, 
       "main": 28.4, 
       "genoa": 24.1, 
       "displacement": 2928.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 455.0
     }, 
     "year": "1983"
   }, 

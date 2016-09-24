@@ -5,12 +5,13 @@
       1.17, 
       1.3467
     ], 
-    "gph": 658.5, 
     "triple_inshore": [
       0.6588, 
       0.9191, 
       1.1019
-    ]
+    ], 
+    "gph": 658.5, 
+    "osn": 639.0
   }, 
   "sailnumber": "NED5116", 
   "name": "SEALION", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.68, 
       "draft": 2.05, 
+      "wetted_surface": 35.5, 
       "main": 33.5, 
       "genoa": 57.9, 
       "displacement": 9029.0, 
-      "spinnaker_asym": 105.0
+      "spinnaker_asym": 105.0, 
+      "crew": 801.0
     }, 
     "year": "1991"
   }, 

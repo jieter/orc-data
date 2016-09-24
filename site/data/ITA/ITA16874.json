@@ -5,12 +5,13 @@
       1.0143, 
       1.1432
     ], 
-    "gph": 752.0, 
     "triple_inshore": [
       0.6019, 
       0.8167, 
       0.952
-    ]
+    ], 
+    "gph": 752.0, 
+    "osn": 731.5
   }, 
   "sailnumber": "ITA16874", 
   "name": "ORMA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.7, 
       "loa": 8.76, 
       "draft": 1.37, 
+      "wetted_surface": 18.1, 
       "main": 14.5, 
       "genoa": 28.9, 
       "displacement": 3457.0, 
-      "spinnaker_asym": 51.0
+      "spinnaker_asym": 51.0, 
+      "crew": 450.0
     }, 
     "year": "1975"
   }, 

@@ -5,12 +5,13 @@
       1.226, 
       1.4024
     ], 
-    "gph": 624.1, 
     "triple_inshore": [
       0.7122, 
       0.9848, 
       1.1753
-    ]
+    ], 
+    "gph": 624.1, 
+    "osn": 605.8
   }, 
   "sailnumber": "ITA14381", 
   "name": "FINTO TONTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.6, 
       "loa": 11.913, 
       "draft": 2.06, 
+      "wetted_surface": 32.0, 
       "main": 46.0, 
       "genoa": 42.0, 
       "displacement": 8180.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 667.0
     }, 
     "year": "2002"
   }, 

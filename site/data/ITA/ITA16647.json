@@ -5,12 +5,13 @@
       1.2153, 
       1.3659
     ], 
-    "gph": 628.4, 
     "triple_inshore": [
       0.7192, 
       0.9845, 
       1.1455
-    ]
+    ], 
+    "gph": 628.4, 
+    "osn": 610.3
   }, 
   "sailnumber": "ITA16647", 
   "name": "IRIDE", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.5, 
       "loa": 10.66, 
       "draft": 2.23, 
+      "wetted_surface": 28.3, 
       "main": 41.5, 
       "genoa": 31.9, 
       "displacement": 6022.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2009"
   }, 

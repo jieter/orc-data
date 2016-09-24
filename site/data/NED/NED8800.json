@@ -5,12 +5,13 @@
       1.4029, 
       1.592
     ], 
-    "gph": 543.1, 
     "triple_inshore": [
       0.8298, 
       1.1324, 
       1.3334
-    ]
+    ], 
+    "gph": 543.1, 
+    "osn": 529.7
   }, 
   "sailnumber": "NED8800", 
   "name": "JAMERELLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 184.4, 
       "loa": 15.218, 
       "draft": 2.88, 
+      "wetted_surface": 41.5, 
       "main": 85.8, 
       "genoa": 50.9, 
       "displacement": 12354.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 932.0
     }, 
     "year": "1990"
   }, 

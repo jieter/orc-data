@@ -5,12 +5,13 @@
       1.0771, 
       1.2129
     ], 
-    "gph": 708.3, 
     "triple_inshore": [
       0.6392, 
       0.8674, 
       1.0144
-    ]
+    ], 
+    "gph": 708.3, 
+    "osn": 688.9
   }, 
   "sailnumber": "ESP7434_C", 
   "name": "TOURANE", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.5, 
       "loa": 9.96, 
       "draft": 1.86, 
+      "wetted_surface": 22.6, 
       "main": 22.5, 
       "genoa": 36.5, 
       "displacement": 5197.0, 
-      "spinnaker_asym": 68.0
+      "spinnaker_asym": 68.0, 
+      "crew": 375.0
     }, 
     "year": "1980"
   }, 

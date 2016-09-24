@@ -5,12 +5,13 @@
       1.1909, 
       1.3439
     ], 
-    "gph": 641.3, 
     "triple_inshore": [
       0.7052, 
       0.9681, 
       1.1275
-    ]
+    ], 
+    "gph": 641.3, 
+    "osn": 622.0
   }, 
   "sailnumber": "LTU2080", 
   "name": "KIRKE", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.2, 
       "loa": 9.934, 
       "draft": 2.12, 
+      "wetted_surface": 24.2, 
       "main": 34.8, 
       "genoa": 27.3, 
       "displacement": 4689.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2008"
   }, 

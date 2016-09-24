@@ -5,12 +5,13 @@
       1.0213, 
       1.1705
     ], 
-    "gph": 747.8, 
     "triple_inshore": [
       0.6018, 
       0.8216, 
       0.9833
-    ]
+    ], 
+    "gph": 747.8, 
+    "osn": 725.9
   }, 
   "sailnumber": "ESP9653_C", 
   "name": "BALANGUERA", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.5, 
       "loa": 9.32, 
       "draft": 1.82, 
+      "wetted_surface": 21.3, 
       "main": 19.8, 
       "genoa": 29.3, 
       "displacement": 5098.0, 
-      "spinnaker_asym": 61.0
+      "spinnaker_asym": 61.0, 
+      "crew": 450.0
     }, 
     "year": "1977"
   }, 

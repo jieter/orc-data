@@ -5,12 +5,13 @@
       1.2977, 
       1.4763
     ], 
-    "gph": 591.1, 
     "triple_inshore": [
       0.7492, 
       1.0417, 
       1.2371
-    ]
+    ], 
+    "gph": 591.1, 
+    "osn": 573.3
   }, 
   "sailnumber": "CRO1568", 
   "name": "Kumpanjo", 
@@ -25,10 +26,12 @@
       "spinnaker": 123.5, 
       "loa": 12.95, 
       "draft": 2.58, 
+      "wetted_surface": 38.2, 
       "main": 54.9, 
       "genoa": 46.0, 
       "displacement": 10079.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2005"
   }, 

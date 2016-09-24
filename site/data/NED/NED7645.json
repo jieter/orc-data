@@ -5,12 +5,13 @@
       1.2531, 
       1.4233
     ], 
-    "gph": 609.6, 
     "triple_inshore": [
       0.7366, 
       1.0158, 
       1.1928
-    ]
+    ], 
+    "gph": 609.6, 
+    "osn": 591.6
   }, 
   "sailnumber": "NED7645", 
   "name": "Osprey", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.7, 
       "loa": 11.3, 
       "draft": 2.3, 
+      "wetted_surface": 29.2, 
       "main": 47.4, 
       "genoa": 33.1, 
       "displacement": 6112.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "2005"
   }, 

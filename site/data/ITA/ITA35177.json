@@ -5,12 +5,13 @@
       1.2491, 
       1.3992
     ], 
-    "gph": 608.5, 
     "triple_inshore": [
       0.7514, 
       1.0177, 
       1.1687
-    ]
+    ], 
+    "gph": 608.5, 
+    "osn": 592.9
   }, 
   "sailnumber": "ITA35177", 
   "name": "IMXTINENTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.2, 
       "loa": 10.6, 
       "draft": 2.18, 
+      "wetted_surface": 24.5, 
       "main": 42.2, 
       "genoa": 31.7, 
       "displacement": 4547.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2005"
   }, 

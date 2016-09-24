@@ -5,12 +5,13 @@
       1.0479, 
       1.2177
     ], 
-    "gph": 729.7, 
     "triple_inshore": [
       0.6021, 
       0.8253, 
       0.9989
-    ]
+    ], 
+    "gph": 729.7, 
+    "osn": 710.6
   }, 
   "sailnumber": "GRE22", 
   "name": "DE MALO V", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.9, 
       "loa": 10.433, 
       "draft": 1.78, 
+      "wetted_surface": 24.3, 
       "main": 18.2, 
       "genoa": 34.6, 
       "displacement": 5614.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "1977"
   }, 

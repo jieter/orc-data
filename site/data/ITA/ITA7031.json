@@ -5,12 +5,13 @@
       1.0955, 
       1.2417
     ], 
-    "gph": 696.3, 
     "triple_inshore": [
       0.65, 
       0.8833, 
       1.0403
-    ]
+    ], 
+    "gph": 696.3, 
+    "osn": 676.6
   }, 
   "sailnumber": "ITA7031", 
   "name": "GULLIVER", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.8, 
       "loa": 10.24, 
       "draft": 1.86, 
+      "wetted_surface": 24.4, 
       "main": 23.5, 
       "genoa": 43.0, 
       "displacement": 5680.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1976"
   }, 

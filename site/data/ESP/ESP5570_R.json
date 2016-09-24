@@ -5,12 +5,13 @@
       1.3235, 
       1.4832
     ], 
-    "gph": 572.0, 
     "triple_inshore": [
       0.7911, 
       1.0627, 
       1.2259
-    ]
+    ], 
+    "gph": 572.0, 
+    "osn": 561.3
   }, 
   "sailnumber": "ESP5570_R", 
   "name": "PETROUCHKA III", 
@@ -25,10 +26,12 @@
       "spinnaker": 125.5, 
       "loa": 12.177, 
       "draft": 2.65, 
+      "wetted_surface": 30.6, 
       "main": 48.6, 
       "genoa": 46.5, 
       "displacement": 6025.0, 
-      "spinnaker_asym": 125.0
+      "spinnaker_asym": 125.0, 
+      "crew": 170.0
     }, 
     "year": "2000"
   }, 

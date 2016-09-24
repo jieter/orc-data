@@ -5,12 +5,13 @@
       1.1442, 
       1.358
     ], 
-    "gph": 676.3, 
     "triple_inshore": [
       0.6249, 
       0.8936, 
       1.1061
-    ]
+    ], 
+    "gph": 676.3, 
+    "osn": 654.0
   }, 
   "sailnumber": "GRE1126", 
   "name": "CAPT. YIOTIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.12, 
       "draft": 1.76, 
+      "wetted_surface": 38.0, 
       "main": 34.7, 
       "genoa": 49.7, 
       "displacement": 9681.0, 
-      "spinnaker_asym": 88.0
+      "spinnaker_asym": 88.0, 
+      "crew": 832.0
     }, 
     "year": "1992"
   }, 

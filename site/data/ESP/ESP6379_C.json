@@ -5,12 +5,13 @@
       1.199, 
       1.3738
     ], 
-    "gph": 641.1, 
     "triple_inshore": [
       0.6799, 
       0.9545, 
       1.1382
-    ]
+    ], 
+    "gph": 641.1, 
+    "osn": 622.6
   }, 
   "sailnumber": "ESP6379_C", 
   "name": "JEZEBEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.37, 
       "draft": 1.96, 
+      "wetted_surface": 34.0, 
       "main": 39.9, 
       "genoa": 50.0, 
       "displacement": 8068.0, 
-      "spinnaker_asym": 122.0
+      "spinnaker_asym": 122.0, 
+      "crew": 400.0
     }, 
     "year": "1988"
   }, 

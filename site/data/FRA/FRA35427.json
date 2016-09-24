@@ -5,12 +5,13 @@
       1.2362, 
       1.3932
     ], 
-    "gph": 617.4, 
     "triple_inshore": [
       0.7306, 
       0.9983, 
       1.1628
-    ]
+    ], 
+    "gph": 617.4, 
+    "osn": 600.2
   }, 
   "sailnumber": "FRA35427", 
   "name": "MAYERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.1, 
       "loa": 11.345, 
       "draft": 2.02, 
+      "wetted_surface": 29.2, 
       "main": 44.4, 
       "genoa": 33.5, 
       "displacement": 6645.0, 
-      "spinnaker_asym": 79.0
+      "spinnaker_asym": 79.0, 
+      "crew": 720.0
     }, 
     "year": "2008"
   }, 

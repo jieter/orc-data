@@ -5,12 +5,13 @@
       1.3887, 
       1.5875
     ], 
-    "gph": 546.6, 
     "triple_inshore": [
       0.8312, 
       1.1138, 
       1.2832
-    ]
+    ], 
+    "gph": 546.6, 
+    "osn": 532.2
   }, 
   "sailnumber": "GER6003", 
   "name": "POGO 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.18, 
       "draft": 2.19, 
+      "wetted_surface": 33.2, 
       "main": 69.3, 
       "genoa": 45.3, 
       "displacement": 5901.0, 
-      "spinnaker_asym": 132.0
+      "spinnaker_asym": 132.0, 
+      "crew": 375.0
     }, 
     "year": "2007"
   }, 

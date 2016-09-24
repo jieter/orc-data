@@ -5,12 +5,13 @@
       1.1104, 
       1.2576
     ], 
-    "gph": 687.6, 
     "triple_inshore": [
       0.6554, 
       0.9007, 
       1.0544
-    ]
+    ], 
+    "gph": 687.6, 
+    "osn": 667.5
   }, 
   "sailnumber": "NOR7995", 
   "name": "Sandia III", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.3, 
       "loa": 9.6, 
       "draft": 1.79, 
+      "wetted_surface": 22.2, 
       "main": 28.7, 
       "genoa": 29.3, 
       "displacement": 4100.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 548.0
     }, 
     "year": "1986"
   }, 

@@ -5,12 +5,13 @@
       1.215, 
       1.364
     ], 
-    "gph": 626.7, 
     "triple_inshore": [
       0.7187, 
       0.9756, 
       1.1398
-    ]
+    ], 
+    "gph": 626.7, 
+    "osn": 611.6
   }, 
   "sailnumber": "ITA17191", 
   "name": "MAGOO", 
@@ -25,10 +26,12 @@
       "spinnaker": 134.2, 
       "loa": 12.37, 
       "draft": 1.9, 
+      "wetted_surface": 31.5, 
       "main": 39.7, 
       "genoa": 64.7, 
       "displacement": 7600.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "1982"
   }, 

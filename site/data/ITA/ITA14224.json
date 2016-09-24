@@ -5,12 +5,13 @@
       1.1906, 
       1.3393
     ], 
-    "gph": 640.5, 
     "triple_inshore": [
       0.7076, 
       0.966, 
       1.116
-    ]
+    ], 
+    "gph": 640.5, 
+    "osn": 622.7
   }, 
   "sailnumber": "ITA14224", 
   "name": "VLAG", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.7, 
       "loa": 9.98, 
       "draft": 2.04, 
+      "wetted_surface": 23.1, 
       "main": 34.6, 
       "genoa": 27.0, 
       "displacement": 4209.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2003"
   }, 

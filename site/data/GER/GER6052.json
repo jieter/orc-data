@@ -5,12 +5,13 @@
       1.3632, 
       1.5508
     ], 
-    "gph": 560.8, 
     "triple_inshore": [
       0.7947, 
       1.0902, 
       1.2859
-    ]
+    ], 
+    "gph": 560.8, 
+    "osn": 546.0
   }, 
   "sailnumber": "GER6052", 
   "name": "PHOENIX", 
@@ -25,10 +26,12 @@
       "spinnaker": 144.7, 
       "loa": 14.82, 
       "draft": 2.42, 
+      "wetted_surface": 38.5, 
       "main": 65.9, 
       "genoa": 48.8, 
       "displacement": 10555.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 848.0
     }, 
     "year": "2002"
   }, 

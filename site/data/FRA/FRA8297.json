@@ -5,12 +5,13 @@
       1.0049, 
       1.1223
     ], 
-    "gph": 756.0, 
     "triple_inshore": [
       0.6082, 
       0.8206, 
       0.9305
-    ]
+    ], 
+    "gph": 756.0, 
+    "osn": 736.1
   }, 
   "sailnumber": "FRA8297", 
   "name": "TOMI", 
@@ -25,10 +26,12 @@
       "spinnaker": 24.4, 
       "loa": 7.017, 
       "draft": 1.44, 
+      "wetted_surface": 9.7, 
       "main": 15.8, 
       "genoa": 12.2, 
       "displacement": 1026.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 269.0
     }, 
     "year": "1982"
   }, 

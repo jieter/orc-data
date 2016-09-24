@@ -5,12 +5,13 @@
       0.9703, 
       1.1117
     ], 
-    "gph": 790.2, 
     "triple_inshore": [
       0.5598, 
       0.766, 
       0.9159
-    ]
+    ], 
+    "gph": 790.2, 
+    "osn": 768.2
   }, 
   "sailnumber": "GRE49694", 
   "name": "LUCKY STAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.8, 
       "draft": 1.57, 
+      "wetted_surface": 17.8, 
       "main": 14.7, 
       "genoa": 24.6, 
       "displacement": 3210.0, 
-      "spinnaker_asym": 47.0
+      "spinnaker_asym": 47.0, 
+      "crew": 320.0
     }, 
     "year": "1976"
   }, 

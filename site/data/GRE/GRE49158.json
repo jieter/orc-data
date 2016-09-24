@@ -5,12 +5,13 @@
       1.0849, 
       1.2155
     ], 
-    "gph": 703.0, 
     "triple_inshore": [
       0.6444, 
       0.8666, 
       1.0049
-    ]
+    ], 
+    "gph": 703.0, 
+    "osn": 684.7
   }, 
   "sailnumber": "GRE49158", 
   "name": "PHOEVIE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.906, 
       "draft": 1.83, 
+      "wetted_surface": 22.0, 
       "main": 25.3, 
       "genoa": 25.4, 
       "displacement": 4702.0, 
-      "spinnaker_asym": 77.0
+      "spinnaker_asym": 77.0, 
+      "crew": 430.0
     }, 
     "year": "1987"
   }, 

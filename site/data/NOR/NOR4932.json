@@ -5,12 +5,13 @@
       0.9919, 
       1.0818
     ], 
-    "gph": 766.9, 
     "triple_inshore": [
       0.6007, 
       0.7964, 
       0.8944
-    ]
+    ], 
+    "gph": 766.9, 
+    "osn": 749.9
   }, 
   "sailnumber": "NOR4932", 
   "name": "Grid", 
@@ -25,10 +26,12 @@
       "spinnaker": 40.4, 
       "loa": 8.3, 
       "draft": 1.55, 
+      "wetted_surface": 17.0, 
       "main": 21.6, 
       "genoa": 21.7, 
       "displacement": 2963.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 411.0
     }, 
     "year": "1981"
   }, 

@@ -5,12 +5,13 @@
       1.1751, 
       1.3232
     ], 
-    "gph": 648.9, 
     "triple_inshore": [
       0.6947, 
       0.9513, 
       1.1046
-    ]
+    ], 
+    "gph": 648.9, 
+    "osn": 632.1
   }, 
   "sailnumber": "NOR9660", 
   "name": "Andante", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.9, 
       "loa": 10.06, 
       "draft": 1.83, 
+      "wetted_surface": 24.4, 
       "main": 35.9, 
       "genoa": 33.7, 
       "displacement": 4627.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 612.0
     }, 
     "year": "1994"
   }, 

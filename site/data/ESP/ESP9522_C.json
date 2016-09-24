@@ -5,12 +5,13 @@
       1.0493, 
       1.2487
     ], 
-    "gph": 734.9, 
     "triple_inshore": [
       0.5782, 
       0.8155, 
       1.0171
-    ]
+    ], 
+    "gph": 734.9, 
+    "osn": 712.9
   }, 
   "sailnumber": "ESP9522_C", 
   "name": "ALENAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.18, 
       "draft": 1.79, 
+      "wetted_surface": 25.4, 
       "main": 27.2, 
       "genoa": 17.0, 
       "displacement": 5296.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 601.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.0202, 
       1.174
     ], 
-    "gph": 746.3, 
     "triple_inshore": [
       0.604, 
       0.8297, 
       0.9578
-    ]
+    ], 
+    "gph": 746.3, 
+    "osn": 723.6
   }, 
   "sailnumber": "ITA16J22", 
   "name": "CORALINE", 
@@ -25,10 +26,12 @@
       "spinnaker": 30.3, 
       "loa": 6.853, 
       "draft": 1.17, 
+      "wetted_surface": 10.2, 
       "main": 13.9, 
       "genoa": 9.3, 
       "displacement": 848.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 291.0
     }, 
     "year": "1989"
   }, 

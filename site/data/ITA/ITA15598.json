@@ -5,12 +5,13 @@
       1.2688, 
       1.4361
     ], 
-    "gph": 602.3, 
     "triple_inshore": [
       0.7444, 
       1.0244, 
       1.2003
-    ]
+    ], 
+    "gph": 602.3, 
+    "osn": 585.3
   }, 
   "sailnumber": "ITA15598", 
   "name": "ALI", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.0, 
       "loa": 11.924, 
       "draft": 2.41, 
+      "wetted_surface": 31.1, 
       "main": 45.2, 
       "genoa": 46.3, 
       "displacement": 7014.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 540.0
     }, 
     "year": "1997"
   }, 

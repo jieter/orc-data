@@ -5,12 +5,13 @@
       1.124, 
       1.2639
     ], 
-    "gph": 680.8, 
     "triple_inshore": [
       0.6561, 
       0.8894, 
       1.033
-    ]
+    ], 
+    "gph": 680.8, 
+    "osn": 662.5
   }, 
   "sailnumber": "GRE1555", 
   "name": "MYTHOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.4, 
       "draft": 1.69, 
+      "wetted_surface": 27.1, 
       "main": 28.5, 
       "genoa": 37.2, 
       "displacement": 5787.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 550.0
     }, 
     "year": "2003"
   }, 

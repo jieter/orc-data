@@ -5,12 +5,13 @@
       1.1682, 
       1.3734
     ], 
-    "gph": 662.2, 
     "triple_inshore": [
       0.6397, 
       0.9248, 
       1.1398
-    ]
+    ], 
+    "gph": 662.2, 
+    "osn": 640.5
   }, 
   "sailnumber": "NED8737", 
   "name": "Seafox", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.085, 
       "draft": 1.9, 
+      "wetted_surface": 33.1, 
       "main": 38.1, 
       "genoa": 41.1, 
       "displacement": 7600.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 730.0
     }, 
     "year": "1989"
   }, 

@@ -5,12 +5,13 @@
       1.2301, 
       1.3732
     ], 
-    "gph": 609.7, 
     "triple_inshore": [
       0.7744, 
       1.0096, 
       1.1463
-    ]
+    ], 
+    "gph": 609.7, 
+    "osn": 597.4
   }, 
   "sailnumber": "HUN1086", 
   "name": "Bobita", 
@@ -25,10 +26,12 @@
       "spinnaker": 143.5, 
       "loa": 9.6, 
       "draft": 1.95, 
+      "wetted_surface": 22.0, 
       "main": 40.8, 
       "genoa": 25.2, 
       "displacement": 3712.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2004"
   }, 

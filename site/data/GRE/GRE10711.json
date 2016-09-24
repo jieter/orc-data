@@ -5,12 +5,13 @@
       1.1085, 
       1.2778
     ], 
-    "gph": 692.2, 
     "triple_inshore": [
       0.637, 
       0.8877, 
       1.0662
-    ]
+    ], 
+    "gph": 692.2, 
+    "osn": 670.8
   }, 
   "sailnumber": "GRE10711", 
   "name": "MYRIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.4, 
       "loa": 10.347, 
       "draft": 1.84, 
+      "wetted_surface": 23.9, 
       "main": 27.9, 
       "genoa": 26.6, 
       "displacement": 4843.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1995"
   }, 

@@ -5,12 +5,13 @@
       1.114, 
       1.2561
     ], 
-    "gph": 684.4, 
     "triple_inshore": [
       0.6631, 
       0.9048, 
       1.0559
-    ]
+    ], 
+    "gph": 684.4, 
+    "osn": 664.8
   }, 
   "sailnumber": "NOR13550", 
   "name": "Time Out", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.1, 
       "loa": 9.21, 
       "draft": 1.91, 
+      "wetted_surface": 21.6, 
       "main": 31.0, 
       "genoa": 26.7, 
       "displacement": 4351.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 544.0
     }, 
     "year": "2002"
   }, 

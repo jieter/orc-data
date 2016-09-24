@@ -5,12 +5,13 @@
       1.2432, 
       1.3969
     ], 
-    "gph": 602.9, 
     "triple_inshore": [
       0.7859, 
       1.0085, 
       1.1545
-    ]
+    ], 
+    "gph": 602.9, 
+    "osn": 590.2
   }, 
   "sailnumber": "ITA16817", 
   "name": "ARIAL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.0, 
       "draft": 2.21, 
+      "wetted_surface": 17.6, 
       "main": 34.8, 
       "genoa": 20.4, 
       "displacement": 2058.0, 
-      "spinnaker_asym": 85.0
+      "spinnaker_asym": 85.0, 
+      "crew": 450.0
     }, 
     "year": "2006"
   }, 

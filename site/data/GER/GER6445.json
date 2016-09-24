@@ -5,12 +5,13 @@
       1.258, 
       1.4203
     ], 
-    "gph": 606.0, 
     "triple_inshore": [
       0.7477, 
       1.0218, 
       1.1933
-    ]
+    ], 
+    "gph": 606.0, 
+    "osn": 589.0
   }, 
   "sailnumber": "GER6445", 
   "name": "MARIA LUDOVICA", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.2, 
       "loa": 11.3, 
       "draft": 2.33, 
+      "wetted_surface": 29.8, 
       "main": 47.8, 
       "genoa": 35.1, 
       "displacement": 6502.0, 
-      "spinnaker_asym": 86.0
+      "spinnaker_asym": 86.0, 
+      "crew": 735.0
     }, 
     "year": "2005"
   }, 

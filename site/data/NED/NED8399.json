@@ -5,12 +5,13 @@
       1.1733, 
       1.3478
     ], 
-    "gph": 652.7, 
     "triple_inshore": [
       0.6808, 
       0.9438, 
       1.1061
-    ]
+    ], 
+    "gph": 652.7, 
+    "osn": 631.8
   }, 
   "sailnumber": "NED8399", 
   "name": "Seleni 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.5, 
       "draft": 2.23, 
+      "wetted_surface": 18.2, 
       "main": 25.9, 
       "genoa": 16.1, 
       "displacement": 2656.0, 
-      "spinnaker_asym": 57.0
+      "spinnaker_asym": 57.0, 
+      "crew": 400.0
     }, 
     "year": "2007"
   }, 

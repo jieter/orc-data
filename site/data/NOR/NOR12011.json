@@ -5,12 +5,13 @@
       1.2919, 
       1.4595
     ], 
-    "gph": 591.1, 
     "triple_inshore": [
       0.7567, 
       1.0347, 
       1.2123
-    ]
+    ], 
+    "gph": 591.1, 
+    "osn": 576.0
   }, 
   "sailnumber": "NOR12011", 
   "name": "gamma", 
@@ -25,10 +26,12 @@
       "spinnaker": 115.8, 
       "loa": 12.93, 
       "draft": 2.2, 
+      "wetted_surface": 35.6, 
       "main": 53.7, 
       "genoa": 53.6, 
       "displacement": 8986.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 855.0
     }, 
     "year": "2003"
   }, 

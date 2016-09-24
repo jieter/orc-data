@@ -5,12 +5,13 @@
       1.2251, 
       1.3967
     ], 
-    "gph": 625.8, 
     "triple_inshore": [
       0.7093, 
       0.982, 
       1.1634
-    ]
+    ], 
+    "gph": 625.8, 
+    "osn": 606.5
   }, 
   "sailnumber": "CRO2013", 
   "name": "Blue Chip", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.2, 
       "loa": 11.3, 
       "draft": 2.01, 
+      "wetted_surface": 31.9, 
       "main": 43.9, 
       "genoa": 34.8, 
       "displacement": 7540.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 670.0
     }, 
     "year": "2013"
   }, 

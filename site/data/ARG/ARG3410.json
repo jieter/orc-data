@@ -5,12 +5,13 @@
       1.2244, 
       1.3802
     ], 
-    "gph": 624.1, 
     "triple_inshore": [
       0.7237, 
       0.9907, 
       1.1608
-    ]
+    ], 
+    "gph": 624.1, 
+    "osn": 605.6
   }, 
   "sailnumber": "ARG3410", 
   "name": "BIG BANG", 
@@ -25,10 +26,12 @@
       "spinnaker": 114.5, 
       "loa": 12.31, 
       "draft": 2.22, 
+      "wetted_surface": 30.6, 
       "main": 38.8, 
       "genoa": 37.6, 
       "displacement": 7185.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1986"
   }, 

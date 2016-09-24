@@ -5,12 +5,13 @@
       1.2356, 
       1.3894
     ], 
-    "gph": 618.7, 
     "triple_inshore": [
       0.7263, 
       0.9906, 
       1.1525
-    ]
+    ], 
+    "gph": 618.7, 
+    "osn": 600.9
   }, 
   "sailnumber": "NED8272", 
   "name": "The Flow", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.347, 
       "draft": 2.0, 
+      "wetted_surface": 30.2, 
       "main": 40.9, 
       "genoa": 32.0, 
       "displacement": 7097.0, 
-      "spinnaker_asym": 114.0
+      "spinnaker_asym": 114.0, 
+      "crew": 480.0
     }, 
     "year": "2008"
   }, 

@@ -5,12 +5,13 @@
       0.9693, 
       1.0855
     ], 
-    "gph": 786.5, 
     "triple_inshore": [
       0.5778, 
       0.7858, 
       0.8995
-    ]
+    ], 
+    "gph": 786.5, 
+    "osn": 764.7
   }, 
   "sailnumber": "ESP7174", 
   "name": "ANDREA", 
@@ -25,10 +26,12 @@
       "spinnaker": 30.8, 
       "loa": 6.578, 
       "draft": 1.17, 
+      "wetted_surface": 12.7, 
       "main": 15.6, 
       "genoa": 11.8, 
       "displacement": 1530.0, 
-      "spinnaker_asym": 30.0
+      "spinnaker_asym": 30.0, 
+      "crew": 260.0
     }, 
     "year": "1986"
   }, 

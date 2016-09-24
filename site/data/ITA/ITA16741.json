@@ -5,12 +5,13 @@
       1.3475, 
       1.5614
     ], 
-    "gph": 562.0, 
     "triple_inshore": [
       0.8146, 
       1.0966, 
       1.2837
-    ]
+    ], 
+    "gph": 562.0, 
+    "osn": 545.4
   }, 
   "sailnumber": "ITA16741", 
   "name": "AKAMAI", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.0, 
       "loa": 9.98, 
       "draft": 2.11, 
+      "wetted_surface": 22.3, 
       "main": 39.5, 
       "genoa": 27.6, 
       "displacement": 3000.0, 
-      "spinnaker_asym": 120.0
+      "spinnaker_asym": 120.0, 
+      "crew": 480.0
     }, 
     "year": "2009"
   }, 

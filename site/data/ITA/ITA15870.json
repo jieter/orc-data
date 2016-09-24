@@ -5,12 +5,13 @@
       1.372, 
       1.5491
     ], 
-    "gph": 556.1, 
     "triple_inshore": [
       0.81, 
       1.1046, 
       1.2859
-    ]
+    ], 
+    "gph": 556.1, 
+    "osn": 541.4
   }, 
   "sailnumber": "ITA15870", 
   "name": "FAREWELL3", 
@@ -25,10 +26,12 @@
       "spinnaker": 170.1, 
       "loa": 13.74, 
       "draft": 2.62, 
+      "wetted_surface": 37.6, 
       "main": 61.8, 
       "genoa": 56.5, 
       "displacement": 9142.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 720.0
     }, 
     "year": "2003"
   }, 

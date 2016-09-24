@@ -5,12 +5,13 @@
       1.1319, 
       1.2752
     ], 
-    "gph": 673.5, 
     "triple_inshore": [
       0.6731, 
       0.9111, 
       1.0673
-    ]
+    ], 
+    "gph": 673.5, 
+    "osn": 655.6
   }, 
   "sailnumber": "ESP1784", 
   "name": "MK III", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.1, 
       "loa": 10.7, 
       "draft": 1.98, 
+      "wetted_surface": 28.3, 
       "main": 35.8, 
       "genoa": 42.4, 
       "displacement": 7643.0, 
-      "spinnaker_asym": 100.0
+      "spinnaker_asym": 100.0, 
+      "crew": 600.0
     }, 
     "year": "1972"
   }, 

@@ -5,12 +5,13 @@
       0.9895, 
       1.1039
     ], 
-    "gph": 769.2, 
     "triple_inshore": [
       0.5969, 
       0.8047, 
       0.9267
-    ]
+    ], 
+    "gph": 769.2, 
+    "osn": 748.4
   }, 
   "sailnumber": "SUI893", 
   "name": "TIFFANY", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.5, 
       "loa": 7.95, 
       "draft": 1.51, 
+      "wetted_surface": 15.4, 
       "main": 13.3, 
       "genoa": 24.8, 
       "displacement": 2779.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 383.0
     }, 
     "year": "1989"
   }, 

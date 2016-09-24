@@ -5,12 +5,13 @@
       1.2728, 
       1.4372
     ], 
-    "gph": 600.8, 
     "triple_inshore": [
       0.7447, 
       1.0239, 
       1.1961
-    ]
+    ], 
+    "gph": 600.8, 
+    "osn": 584.2
   }, 
   "sailnumber": "GRE400", 
   "name": "SUGAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.8, 
       "loa": 12.19, 
       "draft": 2.37, 
+      "wetted_surface": 32.4, 
       "main": 51.4, 
       "genoa": 38.0, 
       "displacement": 7392.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 720.0
     }, 
     "year": "2004"
   }, 

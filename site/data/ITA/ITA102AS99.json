@@ -5,12 +5,13 @@
       1.3726, 
       1.622
     ], 
-    "gph": 549.0, 
     "triple_inshore": [
       0.8334, 
       1.0883, 
       1.3055
-    ]
+    ], 
+    "gph": 549.0, 
+    "osn": 535.5
   }, 
   "sailnumber": "ITA102AS99", 
   "name": "CHIARA TRE", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.3, 
       "loa": 9.96, 
       "draft": 1.73, 
+      "wetted_surface": 14.3, 
       "main": 29.6, 
       "genoa": 23.3, 
       "displacement": 1150.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1982"
   }, 

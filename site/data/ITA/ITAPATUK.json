@@ -5,12 +5,13 @@
       1.2285, 
       1.4208
     ], 
-    "gph": 625.1, 
     "triple_inshore": [
       0.7001, 
       0.9704, 
       1.1677
-    ]
+    ], 
+    "gph": 625.1, 
+    "osn": 607.1
   }, 
   "sailnumber": "ITAPATUK", 
   "name": "PATUK", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.0, 
       "draft": 1.9, 
+      "wetted_surface": 37.7, 
       "main": 45.5, 
       "genoa": 48.3, 
       "displacement": 10791.0, 
-      "spinnaker_asym": 130.0
+      "spinnaker_asym": 130.0, 
+      "crew": 750.0
     }, 
     "year": "2005"
   }, 

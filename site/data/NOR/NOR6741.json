@@ -5,12 +5,13 @@
       1.1049, 
       1.2556
     ], 
-    "gph": 691.9, 
     "triple_inshore": [
       0.6477, 
       0.8908, 
       1.0477
-    ]
+    ], 
+    "gph": 691.9, 
+    "osn": 671.8
   }, 
   "sailnumber": "NOR6741", 
   "name": "Fortuna", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.8, 
       "loa": 10.1, 
       "draft": 1.76, 
+      "wetted_surface": 22.4, 
       "main": 28.9, 
       "genoa": 30.3, 
       "displacement": 4302.0, 
-      "spinnaker_asym": 54.0
+      "spinnaker_asym": 54.0, 
+      "crew": 528.0
     }, 
     "year": "1981"
   }, 

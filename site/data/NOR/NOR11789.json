@@ -5,12 +5,13 @@
       1.1826, 
       1.3424
     ], 
-    "gph": 647.0, 
     "triple_inshore": [
       0.6889, 
       0.9493, 
       1.1194
-    ]
+    ], 
+    "gph": 647.0, 
+    "osn": 628.5
   }, 
   "sailnumber": "NOR11789", 
   "name": "Siahgahay", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.8, 
       "loa": 11.11, 
       "draft": 1.95, 
+      "wetted_surface": 28.4, 
       "main": 39.5, 
       "genoa": 37.1, 
       "displacement": 6525.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 689.0
     }, 
     "year": "1994"
   }, 

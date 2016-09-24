@@ -5,12 +5,13 @@
       1.1578, 
       1.3438
     ], 
-    "gph": 663.8, 
     "triple_inshore": [
       0.6553, 
       0.911, 
       1.0958
-    ]
+    ], 
+    "gph": 663.8, 
+    "osn": 644.6
   }, 
   "sailnumber": "ITAESTEL", 
   "name": "ESTEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.36, 
       "draft": 1.76, 
+      "wetted_surface": 30.5, 
       "main": 31.2, 
       "genoa": 43.0, 
       "displacement": 6964.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 500.0
     }, 
     "year": "2004"
   }, 

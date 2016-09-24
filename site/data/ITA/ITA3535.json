@@ -5,12 +5,13 @@
       1.2325, 
       1.3868
     ], 
-    "gph": 618.7, 
     "triple_inshore": [
       0.7323, 
       1.0016, 
       1.1582
-    ]
+    ], 
+    "gph": 618.7, 
+    "osn": 601.7
   }, 
   "sailnumber": "ITA3535", 
   "name": "SLY FOX", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.5, 
       "loa": 10.6, 
       "draft": 2.17, 
+      "wetted_surface": 24.5, 
       "main": 36.9, 
       "genoa": 31.7, 
       "displacement": 4531.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 610.0
     }, 
     "year": "2005"
   }, 

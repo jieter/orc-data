@@ -5,12 +5,13 @@
       1.2145, 
       1.3983
     ], 
-    "gph": 634.9, 
     "triple_inshore": [
       0.6809, 
       0.9749, 
       1.1764
-    ]
+    ], 
+    "gph": 634.9, 
+    "osn": 614.7
   }, 
   "sailnumber": "AUT390", 
   "name": "ARIOSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.82, 
       "draft": 2.43, 
+      "wetted_surface": 33.1, 
       "main": 47.3, 
       "genoa": 38.7, 
       "displacement": 7953.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 780.0
     }, 
     "year": "2011"
   }, 

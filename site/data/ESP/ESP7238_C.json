@@ -5,12 +5,13 @@
       1.2103, 
       1.3697
     ], 
-    "gph": 631.3, 
     "triple_inshore": [
       0.7104, 
       0.9802, 
       1.1482
-    ]
+    ], 
+    "gph": 631.3, 
+    "osn": 613.4
   }, 
   "sailnumber": "ESP7238_C", 
   "name": "ICARO CINCO", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.4, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.2, 
       "main": 40.0, 
       "genoa": 34.9, 
       "displacement": 5494.0, 
-      "spinnaker_asym": 75.0
+      "spinnaker_asym": 75.0, 
+      "crew": 560.0
     }, 
     "year": "2001"
   }, 

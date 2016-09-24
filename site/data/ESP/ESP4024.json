@@ -5,12 +5,13 @@
       1.1224, 
       1.2625
     ], 
-    "gph": 681.1, 
     "triple_inshore": [
       0.662, 
       0.9079, 
       1.0516
-    ]
+    ], 
+    "gph": 681.1, 
+    "osn": 661.2
   }, 
   "sailnumber": "ESP4024", 
   "name": "SAMPAIO UNO", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.2, 
       "loa": 9.147, 
       "draft": 1.84, 
+      "wetted_surface": 21.8, 
       "main": 29.1, 
       "genoa": 23.4, 
       "displacement": 3589.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 490.0
     }, 
     "year": "1991"
   }, 

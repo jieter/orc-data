@@ -5,12 +5,13 @@
       1.0008, 
       1.1696
     ], 
-    "gph": 770.2, 
     "triple_inshore": [
       0.5642, 
       0.7963, 
       0.9748
-    ]
+    ], 
+    "gph": 770.2, 
+    "osn": 744.2
   }, 
   "sailnumber": "GRE6142", 
   "name": "BELL' ANGIOLINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.7, 
       "loa": 9.48, 
       "draft": 1.87, 
+      "wetted_surface": 23.2, 
       "main": 20.6, 
       "genoa": 31.3, 
       "displacement": 4825.0, 
-      "spinnaker_asym": 62.0
+      "spinnaker_asym": 62.0, 
+      "crew": 519.0
     }, 
     "year": "1974"
   }, 

@@ -5,12 +5,13 @@
       1.1797, 
       1.3538
     ], 
-    "gph": 650.2, 
     "triple_inshore": [
       0.6809, 
       0.943, 
       1.1311
-    ]
+    ], 
+    "gph": 650.2, 
+    "osn": 630.1
   }, 
   "sailnumber": "ARGRIO", 
   "name": "RIO A RIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.3, 
       "draft": 1.98, 
+      "wetted_surface": 31.8, 
       "main": 35.1, 
       "genoa": 34.0, 
       "displacement": 8294.0, 
-      "spinnaker_asym": 97.0
+      "spinnaker_asym": 97.0, 
+      "crew": 525.0
     }, 
     "year": "1986"
   }, 

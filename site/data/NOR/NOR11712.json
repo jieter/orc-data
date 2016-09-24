@@ -5,12 +5,13 @@
       1.2889, 
       1.4573
     ], 
-    "gph": 592.4, 
     "triple_inshore": [
       0.7545, 
       1.0332, 
       1.2104
-    ]
+    ], 
+    "gph": 592.4, 
+    "osn": 577.2
   }, 
   "sailnumber": "NOR11712", 
   "name": "Easy Living", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.8, 
       "loa": 12.46, 
       "draft": 2.17, 
+      "wetted_surface": 33.4, 
       "main": 53.7, 
       "genoa": 52.4, 
       "displacement": 7831.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 821.0
     }, 
     "year": "2003"
   }, 

@@ -5,12 +5,13 @@
       1.2219, 
       1.4022
     ], 
-    "gph": 627.8, 
     "triple_inshore": [
       0.6997, 
       0.9765, 
       1.1611
-    ]
+    ], 
+    "gph": 627.8, 
+    "osn": 609.3
   }, 
   "sailnumber": "ITA15582", 
   "name": "HAVANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.5, 
       "loa": 11.25, 
       "draft": 2.0, 
+      "wetted_surface": 31.8, 
       "main": 41.0, 
       "genoa": 42.6, 
       "displacement": 6963.0, 
-      "spinnaker_asym": 102.0
+      "spinnaker_asym": 102.0, 
+      "crew": 600.0
     }, 
     "year": "2005"
   }, 

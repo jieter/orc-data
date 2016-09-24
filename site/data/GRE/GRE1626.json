@@ -5,12 +5,13 @@
       0.962, 
       1.0894
     ], 
-    "gph": 793.9, 
     "triple_inshore": [
       0.569, 
       0.7798, 
       0.9117
-    ]
+    ], 
+    "gph": 793.9, 
+    "osn": 770.5
   }, 
   "sailnumber": "GRE1626", 
   "name": "MOURMOURA", 
@@ -25,10 +26,12 @@
       "spinnaker": 25.9, 
       "loa": 7.595, 
       "draft": 1.32, 
+      "wetted_surface": 13.9, 
       "main": 15.9, 
       "genoa": 15.7, 
       "displacement": 2201.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 384.0
     }, 
     "year": "1979"
   }, 

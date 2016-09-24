@@ -5,12 +5,13 @@
       1.3462, 
       1.5351
     ], 
-    "gph": 569.9, 
     "triple_inshore": [
       0.7754, 
       1.0664, 
       1.2623
-    ]
+    ], 
+    "gph": 569.9, 
+    "osn": 553.7
   }, 
   "sailnumber": "NED8450", 
   "name": "So Logical III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.0, 
       "draft": 2.4, 
+      "wetted_surface": 51.2, 
       "main": 72.4, 
       "genoa": 56.3, 
       "displacement": 17788.0, 
-      "spinnaker_asym": 204.0
+      "spinnaker_asym": 204.0, 
+      "crew": 1101.0
     }, 
     "year": "2010"
   }, 

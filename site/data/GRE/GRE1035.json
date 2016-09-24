@@ -5,12 +5,13 @@
       1.0643, 
       1.2223
     ], 
-    "gph": 720.0, 
     "triple_inshore": [
       0.6193, 
       0.8554, 
       1.0264
-    ]
+    ], 
+    "gph": 720.0, 
+    "osn": 697.3
   }, 
   "sailnumber": "GRE1035", 
   "name": "ONAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.4, 
       "loa": 9.785, 
       "draft": 1.86, 
+      "wetted_surface": 23.0, 
       "main": 22.1, 
       "genoa": 29.7, 
       "displacement": 5086.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1981"
   }, 

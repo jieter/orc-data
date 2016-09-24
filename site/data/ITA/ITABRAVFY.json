@@ -5,12 +5,13 @@
       1.4698, 
       1.7223
     ], 
-    "gph": 507.5, 
     "triple_inshore": [
       0.9277, 
       1.1699, 
       1.4023
-    ]
+    ], 
+    "gph": 507.5, 
+    "osn": 497.8
   }, 
   "sailnumber": "ITABRAVFY", 
   "name": "BRAVISSIMA VIBATEX", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.7, 
       "draft": 2.47, 
+      "wetted_surface": 19.2, 
       "main": 49.7, 
       "genoa": 36.9, 
       "displacement": 1950.0, 
-      "spinnaker_asym": 159.0
+      "spinnaker_asym": 159.0, 
+      "crew": 680.0
     }, 
     "year": "1994"
   }, 

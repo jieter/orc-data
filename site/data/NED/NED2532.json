@@ -5,12 +5,13 @@
       1.145, 
       1.2852
     ], 
-    "gph": 664.3, 
     "triple_inshore": [
       0.6887, 
       0.9237, 
       1.0771
-    ]
+    ], 
+    "gph": 664.3, 
+    "osn": 647.0
   }, 
   "sailnumber": "NED2532", 
   "name": "TURNING POINT", 
@@ -25,10 +26,12 @@
       "spinnaker": 112.2, 
       "loa": 11.659, 
       "draft": 1.97, 
+      "wetted_surface": 29.3, 
       "main": 31.8, 
       "genoa": 53.2, 
       "displacement": 8218.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 602.0
     }, 
     "year": "1974"
   }, 

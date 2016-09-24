@@ -5,12 +5,13 @@
       1.2967, 
       1.4564
     ], 
-    "gph": 584.3, 
     "triple_inshore": [
       0.7743, 
       1.0426, 
       1.2101
-    ]
+    ], 
+    "gph": 584.3, 
+    "osn": 572.4
   }, 
   "sailnumber": "NOR14538", 
   "name": "Venus", 
@@ -25,10 +26,12 @@
       "spinnaker": 121.7, 
       "loa": 11.58, 
       "draft": 2.4, 
+      "wetted_surface": 31.7, 
       "main": 49.1, 
       "genoa": 37.6, 
       "displacement": 7147.0, 
-      "spinnaker_asym": 122.0
+      "spinnaker_asym": 122.0, 
+      "crew": 747.0
     }, 
     "year": "2011"
   }, 

@@ -5,12 +5,13 @@
       1.2534, 
       1.3886
     ], 
-    "gph": 603.0, 
     "triple_inshore": [
       0.7672, 
       1.013, 
       1.1361
-    ]
+    ], 
+    "gph": 603.0, 
+    "osn": 590.6
   }, 
   "sailnumber": "NOR15333", 
   "name": "toXifia", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 1.91, 
+      "wetted_surface": 23.3, 
       "main": 34.6, 
       "genoa": 35.4, 
       "displacement": 4181.0, 
-      "spinnaker_asym": 110.0
+      "spinnaker_asym": 110.0, 
+      "crew": 590.0
     }, 
     "year": "2013"
   }, 

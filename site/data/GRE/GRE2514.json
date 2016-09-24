@@ -5,12 +5,13 @@
       1.1217, 
       1.2707
     ], 
-    "gph": 673.1, 
     "triple_inshore": [
       0.6936, 
       0.9238, 
       1.0506
-    ]
+    ], 
+    "gph": 673.1, 
+    "osn": 654.1
   }, 
   "sailnumber": "GRE2514", 
   "name": "TALE QUALE", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.3, 
       "loa": 7.515, 
       "draft": 1.6, 
+      "wetted_surface": 12.2, 
       "main": 21.1, 
       "genoa": 12.9, 
       "displacement": 1322.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1995"
   }, 

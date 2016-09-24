@@ -5,12 +5,13 @@
       1.247, 
       1.4406
     ], 
-    "gph": 614.1, 
     "triple_inshore": [
       0.7232, 
       0.9984, 
       1.2106
-    ]
+    ], 
+    "gph": 614.1, 
+    "osn": 595.3
   }, 
   "sailnumber": "GER4281", 
   "name": "YLVA", 
@@ -25,10 +26,12 @@
       "spinnaker": 156.2, 
       "loa": 14.347, 
       "draft": 2.71, 
+      "wetted_surface": 45.0, 
       "main": 49.2, 
       "genoa": 70.3, 
       "displacement": 15231.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1983"
   }, 

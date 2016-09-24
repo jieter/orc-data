@@ -5,12 +5,13 @@
       1.0795, 
       1.241
     ], 
-    "gph": 708.7, 
     "triple_inshore": [
       0.6288, 
       0.8627, 
       1.034
-    ]
+    ], 
+    "gph": 708.7, 
+    "osn": 688.1
   }, 
   "sailnumber": "GRE435", 
   "name": "RITA III", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.9, 
       "loa": 9.75, 
       "draft": 1.41, 
+      "wetted_surface": 25.8, 
       "main": 27.4, 
       "genoa": 32.5, 
       "displacement": 5886.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1992"
   }, 

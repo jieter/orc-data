@@ -5,12 +5,13 @@
       1.1691, 
       1.337
     ], 
-    "gph": 655.8, 
     "triple_inshore": [
       0.6749, 
       0.938, 
       1.118
-    ]
+    ], 
+    "gph": 655.8, 
+    "osn": 635.8
   }, 
   "sailnumber": "ESP7327", 
   "name": "ZIG ZAG II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.944, 
       "draft": 2.1, 
+      "wetted_surface": 29.4, 
       "main": 38.0, 
       "genoa": 34.9, 
       "displacement": 6547.0, 
-      "spinnaker_asym": 80.0
+      "spinnaker_asym": 80.0, 
+      "crew": 480.0
     }, 
     "year": "1999"
   }, 

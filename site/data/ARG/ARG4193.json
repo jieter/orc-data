@@ -5,12 +5,13 @@
       1.1415, 
       1.2856
     ], 
-    "gph": 667.7, 
     "triple_inshore": [
       0.6785, 
       0.9215, 
       1.0726
-    ]
+    ], 
+    "gph": 667.7, 
+    "osn": 649.8
   }, 
   "sailnumber": "ARG4193", 
   "name": "BLACK SWAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.0, 
       "loa": 10.43, 
       "draft": 1.62, 
+      "wetted_surface": 24.1, 
       "main": 29.3, 
       "genoa": 35.8, 
       "displacement": 4943.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 568.0
     }, 
     "year": "1992"
   }, 

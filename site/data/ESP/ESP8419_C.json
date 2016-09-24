@@ -5,12 +5,13 @@
       1.2436, 
       1.4023
     ], 
-    "gph": 616.4, 
     "triple_inshore": [
       0.7213, 
       0.9984, 
       1.1669
-    ]
+    ], 
+    "gph": 616.4, 
+    "osn": 598.2
   }, 
   "sailnumber": "ESP8419_C", 
   "name": "OCIDE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.754, 
       "draft": 2.19, 
+      "wetted_surface": 32.9, 
       "main": 41.6, 
       "genoa": 38.8, 
       "displacement": 7375.0, 
-      "spinnaker_asym": 123.0
+      "spinnaker_asym": 123.0, 
+      "crew": 180.0
     }, 
     "year": "2006"
   }, 

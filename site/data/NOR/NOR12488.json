@@ -5,12 +5,13 @@
       1.2116, 
       1.3512
     ], 
-    "gph": 625.4, 
     "triple_inshore": [
       0.7278, 
       0.976, 
       1.117
-    ]
+    ], 
+    "gph": 625.4, 
+    "osn": 612.6
   }, 
   "sailnumber": "NOR12488", 
   "name": "Lethe", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.982, 
       "draft": 1.99, 
+      "wetted_surface": 23.2, 
       "main": 35.1, 
       "genoa": 32.4, 
       "displacement": 4428.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 583.0
     }, 
     "year": "2005"
   }, 

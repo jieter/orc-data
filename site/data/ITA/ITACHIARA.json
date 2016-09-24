@@ -5,12 +5,13 @@
       1.1775, 
       1.2945
     ], 
-    "gph": 641.6, 
     "triple_inshore": [
       0.7236, 
       0.947, 
       1.0685
-    ]
+    ], 
+    "gph": 641.6, 
+    "osn": 630.2
   }, 
   "sailnumber": "ITACHIARA", 
   "name": "CHIARA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.46, 
       "draft": 1.73, 
+      "wetted_surface": 24.2, 
       "main": 42.2, 
       "genoa": 41.0, 
       "displacement": 5010.0, 
-      "spinnaker_asym": 69.0
+      "spinnaker_asym": 69.0, 
+      "crew": 500.0
     }, 
     "year": "2001"
   }, 

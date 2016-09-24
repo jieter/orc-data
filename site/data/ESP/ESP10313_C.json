@@ -5,12 +5,13 @@
       1.0258, 
       1.2372
     ], 
-    "gph": 756.0, 
     "triple_inshore": [
       0.5571, 
       0.8158, 
       1.0307
-    ]
+    ], 
+    "gph": 756.0, 
+    "osn": 726.7
   }, 
   "sailnumber": "ESP10313_C", 
   "name": "AY CARAMBA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.37, 
       "draft": 1.85, 
+      "wetted_surface": 25.9, 
       "main": 25.5, 
       "genoa": 27.5, 
       "displacement": 5643.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "2000"
   }, 

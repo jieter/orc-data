@@ -5,12 +5,13 @@
       1.2753, 
       1.4399
     ], 
-    "gph": 597.9, 
     "triple_inshore": [
       0.7524, 
       1.0265, 
       1.1998
-    ]
+    ], 
+    "gph": 597.9, 
+    "osn": 582.6
   }, 
   "sailnumber": "NOR11400", 
   "name": "X/est La Vie", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.5, 
       "loa": 12.19, 
       "draft": 2.1, 
+      "wetted_surface": 32.7, 
       "main": 51.4, 
       "genoa": 48.5, 
       "displacement": 8006.0, 
-      "spinnaker_asym": 87.0
+      "spinnaker_asym": 87.0, 
+      "crew": 794.0
     }, 
     "year": "2004"
   }, 

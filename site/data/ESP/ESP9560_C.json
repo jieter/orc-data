@@ -5,12 +5,13 @@
       1.054, 
       1.2123
     ], 
-    "gph": 725.5, 
     "triple_inshore": [
       0.6167, 
       0.8531, 
       1.021
-    ]
+    ], 
+    "gph": 725.5, 
+    "osn": 703.1
   }, 
   "sailnumber": "ESP9560_C", 
   "name": "DEBEGUR", 
@@ -25,10 +26,12 @@
       "spinnaker": 51.0, 
       "loa": 9.005, 
       "draft": 1.75, 
+      "wetted_surface": 19.3, 
       "main": 23.7, 
       "genoa": 24.1, 
       "displacement": 3727.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "1989"
   }, 

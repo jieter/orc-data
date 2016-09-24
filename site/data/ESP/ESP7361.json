@@ -5,12 +5,13 @@
       1.1163, 
       1.268
     ], 
-    "gph": 685.3, 
     "triple_inshore": [
       0.6533, 
       0.901, 
       1.0605
-    ]
+    ], 
+    "gph": 685.3, 
+    "osn": 664.7
   }, 
   "sailnumber": "ESP7361", 
   "name": "DISPARATE", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.9, 
       "loa": 9.52, 
       "draft": 1.69, 
+      "wetted_surface": 22.3, 
       "main": 27.8, 
       "genoa": 27.9, 
       "displacement": 4293.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 470.0
     }, 
     "year": "2000"
   }, 

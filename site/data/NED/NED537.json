@@ -5,12 +5,13 @@
       1.1609, 
       1.3236
     ], 
-    "gph": 658.1, 
     "triple_inshore": [
       0.6858, 
       0.9367, 
       1.1146
-    ]
+    ], 
+    "gph": 658.1, 
+    "osn": 637.9
   }, 
   "sailnumber": "NED537", 
   "name": "LEMMINKAINEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 119.2, 
       "loa": 11.915, 
       "draft": 2.11, 
+      "wetted_surface": 30.2, 
       "main": 31.0, 
       "genoa": 41.3, 
       "displacement": 8101.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 648.0
     }, 
     "year": "1977"
   }, 

@@ -5,12 +5,13 @@
       1.6458, 
       1.9286
     ], 
-    "gph": 463.9, 
     "triple_inshore": [
       0.9518, 
       1.2983, 
       1.5348
-    ]
+    ], 
+    "gph": 463.9, 
+    "osn": 450.5
   }, 
   "sailnumber": "AUS70", 
   "name": "RAGAMUFFIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.85, 
       "draft": 3.23, 
+      "wetted_surface": 44.8, 
       "main": 90.0, 
       "genoa": 61.6, 
       "displacement": 7770.0, 
-      "spinnaker_asym": 247.0
+      "spinnaker_asym": 247.0, 
+      "crew": 1210.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.3284, 
       1.5495
     ], 
-    "gph": 576.8, 
     "triple_inshore": [
       0.7397, 
       1.0321, 
       1.2613
-    ]
+    ], 
+    "gph": 576.8, 
+    "osn": 565.3
   }, 
   "sailnumber": "NOR14747", 
   "name": "TINKA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.98, 
       "draft": 2.33, 
+      "wetted_surface": 48.9, 
       "main": 62.8, 
       "genoa": 56.2, 
       "displacement": 13968.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1073.0
     }, 
     "year": "2011"
   }, 

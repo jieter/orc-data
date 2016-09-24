@@ -5,12 +5,13 @@
       1.2272, 
       1.4319
     ], 
-    "gph": 628.0, 
     "triple_inshore": [
       0.6831, 
       0.9779, 
       1.1988
-    ]
+    ], 
+    "gph": 628.0, 
+    "osn": 608.7
   }, 
   "sailnumber": "ESP3081_C", 
   "name": "ELFOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.665, 
       "draft": 2.48, 
+      "wetted_surface": 37.8, 
       "main": 55.6, 
       "genoa": 48.3, 
       "displacement": 10840.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1990"
   }, 

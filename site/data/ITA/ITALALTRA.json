@@ -5,12 +5,13 @@
       1.2049, 
       1.4143
     ], 
-    "gph": 640.4, 
     "triple_inshore": [
       0.6683, 
       0.9495, 
       1.1642
-    ]
+    ], 
+    "gph": 640.4, 
+    "osn": 620.2
   }, 
   "sailnumber": "ITALALTRA", 
   "name": "LALTRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.4, 
       "loa": 12.83, 
       "draft": 1.81, 
+      "wetted_surface": 36.3, 
       "main": 42.8, 
       "genoa": 52.4, 
       "displacement": 9685.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "2004"
   }, 

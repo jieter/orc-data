@@ -5,12 +5,13 @@
       1.2717, 
       1.4161
     ], 
-    "gph": 598.3, 
     "triple_inshore": [
       0.761, 
       1.0213, 
       1.1744
-    ]
+    ], 
+    "gph": 598.3, 
+    "osn": 583.7
   }, 
   "sailnumber": "ESP4990", 
   "name": "GRANELL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.924, 
       "draft": 2.42, 
+      "wetted_surface": 31.3, 
       "main": 48.4, 
       "genoa": 50.3, 
       "displacement": 7145.0, 
-      "spinnaker_asym": 107.0
+      "spinnaker_asym": 107.0, 
+      "crew": 325.0
     }, 
     "year": "1997"
   }, 

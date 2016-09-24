@@ -5,12 +5,13 @@
       1.2068, 
       1.3764
     ], 
-    "gph": 632.9, 
     "triple_inshore": [
       0.6984, 
       0.9672, 
       1.1569
-    ]
+    ], 
+    "gph": 632.9, 
+    "osn": 617.6
   }, 
   "sailnumber": "ESP2397_C", 
   "name": "PAJARRACO V", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.785, 
       "draft": 2.23, 
+      "wetted_surface": 35.0, 
       "main": 43.0, 
       "genoa": 67.8, 
       "displacement": 9751.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1981"
   }, 

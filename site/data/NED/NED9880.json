@@ -5,12 +5,13 @@
       1.2499, 
       1.4053
     ], 
-    "gph": 608.3, 
     "triple_inshore": [
       0.748, 
       1.0113, 
       1.1696
-    ]
+    ], 
+    "gph": 608.3, 
+    "osn": 592.9
   }, 
   "sailnumber": "NED9880", 
   "name": "Excession", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.3, 
       "loa": 11.36, 
       "draft": 2.09, 
+      "wetted_surface": 27.3, 
       "main": 39.4, 
       "genoa": 49.1, 
       "displacement": 5306.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1992"
   }, 

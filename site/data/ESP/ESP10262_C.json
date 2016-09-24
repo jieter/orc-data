@@ -5,12 +5,13 @@
       0.9787, 
       1.1199
     ], 
-    "gph": 786.0, 
     "triple_inshore": [
       0.5594, 
       0.7821, 
       0.9183
-    ]
+    ], 
+    "gph": 786.0, 
+    "osn": 761.2
   }, 
   "sailnumber": "ESP10262_C", 
   "name": "LAURI", 
@@ -25,10 +26,12 @@
       "spinnaker": 31.8, 
       "loa": 7.49, 
       "draft": 1.23, 
+      "wetted_surface": 13.3, 
       "main": 15.9, 
       "genoa": 14.6, 
       "displacement": 1831.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 375.0
     }, 
     "year": "1995"
   }, 

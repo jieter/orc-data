@@ -5,12 +5,13 @@
       1.1585, 
       1.3151
     ], 
-    "gph": 659.1, 
     "triple_inshore": [
       0.6814, 
       0.9364, 
       1.0884
-    ]
+    ], 
+    "gph": 659.1, 
+    "osn": 640.2
   }, 
   "sailnumber": "ARG4659", 
   "name": "ODIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.4, 
       "loa": 9.41, 
       "draft": 1.75, 
+      "wetted_surface": 21.8, 
       "main": 31.9, 
       "genoa": 25.1, 
       "displacement": 3494.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 573.0
     }, 
     "year": "1996"
   }, 

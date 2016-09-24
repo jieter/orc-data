@@ -5,12 +5,13 @@
       1.1782, 
       1.3432
     ], 
-    "gph": 650.0, 
     "triple_inshore": [
       0.6857, 
       0.9476, 
       1.127
-    ]
+    ], 
+    "gph": 650.0, 
+    "osn": 630.2
   }, 
   "sailnumber": "NED7854", 
   "name": "Quinto", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.9, 
       "loa": 11.121, 
       "draft": 2.08, 
+      "wetted_surface": 29.4, 
       "main": 36.8, 
       "genoa": 34.2, 
       "displacement": 6995.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 580.0
     }, 
     "year": "1994"
   }, 

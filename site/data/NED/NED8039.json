@@ -5,12 +5,13 @@
       1.1945, 
       1.3677
     ], 
-    "gph": 639.9, 
     "triple_inshore": [
       0.6997, 
       0.9527, 
       1.1415
-    ]
+    ], 
+    "gph": 639.9, 
+    "osn": 621.3
   }, 
   "sailnumber": "NED8039", 
   "name": "Northern Child", 
@@ -25,10 +26,12 @@
       "spinnaker": 145.7, 
       "loa": 13.454, 
       "draft": 2.29, 
+      "wetted_surface": 39.2, 
       "main": 41.1, 
       "genoa": 61.9, 
       "displacement": 14004.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 791.0
     }, 
     "year": "1972"
   }, 

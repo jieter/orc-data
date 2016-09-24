@@ -5,12 +5,13 @@
       1.2357, 
       1.4012
     ], 
-    "gph": 617.3, 
     "triple_inshore": [
       0.7299, 
       0.9862, 
       1.1682
-    ]
+    ], 
+    "gph": 617.3, 
+    "osn": 601.2
   }, 
   "sailnumber": "NED47001", 
   "name": "MANDATE", 
@@ -25,10 +26,12 @@
       "spinnaker": 151.4, 
       "loa": 14.6, 
       "draft": 2.4, 
+      "wetted_surface": 43.6, 
       "main": 46.7, 
       "genoa": 82.4, 
       "displacement": 15617.0, 
-      "spinnaker_asym": 145.0
+      "spinnaker_asym": 145.0, 
+      "crew": 834.0
     }, 
     "year": "1975"
   }, 

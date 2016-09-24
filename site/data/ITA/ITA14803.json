@@ -5,12 +5,13 @@
       1.2847, 
       1.4902
     ], 
-    "gph": 600.0, 
     "triple_inshore": [
       0.7207, 
       1.017, 
       1.2275
-    ]
+    ], 
+    "gph": 600.0, 
+    "osn": 581.0
   }, 
   "sailnumber": "ITA14803", 
   "name": "TITI", 
@@ -25,10 +26,12 @@
       "spinnaker": 153.1, 
       "loa": 14.2, 
       "draft": 2.0, 
+      "wetted_surface": 42.7, 
       "main": 48.0, 
       "genoa": 54.6, 
       "displacement": 11411.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "1997"
   }, 

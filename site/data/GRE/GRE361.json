@@ -5,12 +5,13 @@
       1.0152, 
       1.1584
     ], 
-    "gph": 750.6, 
     "triple_inshore": [
       0.6005, 
       0.8256, 
       0.9617
-    ]
+    ], 
+    "gph": 750.6, 
+    "osn": 729.1
   }, 
   "sailnumber": "GRE361", 
   "name": "DECLARE", 
@@ -25,10 +26,12 @@
       "spinnaker": 34.5, 
       "loa": 7.318, 
       "draft": 1.31, 
+      "wetted_surface": 12.8, 
       "main": 15.7, 
       "genoa": 17.5, 
       "displacement": 1543.0, 
-      "spinnaker_asym": 29.0
+      "spinnaker_asym": 29.0, 
+      "crew": 383.0
     }, 
     "year": "1977"
   }, 

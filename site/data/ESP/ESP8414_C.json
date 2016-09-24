@@ -5,12 +5,13 @@
       1.1288, 
       1.3624
     ], 
-    "gph": 687.9, 
     "triple_inshore": [
       0.6023, 
       0.8886, 
       1.127
-    ]
+    ], 
+    "gph": 687.9, 
+    "osn": 664.0
   }, 
   "sailnumber": "ESP8414_C", 
   "name": "ALBORANY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.6, 
       "draft": 2.1, 
+      "wetted_surface": 35.0, 
       "main": 35.3, 
       "genoa": 46.8, 
       "displacement": 8682.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2006"
   }, 

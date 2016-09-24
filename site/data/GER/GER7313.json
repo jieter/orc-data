@@ -5,12 +5,13 @@
       1.1495, 
       1.2854
     ], 
-    "gph": 661.2, 
     "triple_inshore": [
       0.6911, 
       0.9343, 
       1.0779
-    ]
+    ], 
+    "gph": 661.2, 
+    "osn": 645.0
   }, 
   "sailnumber": "GER7313", 
   "name": "CALINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.7, 
       "loa": 10.216, 
       "draft": 1.89, 
+      "wetted_surface": 21.9, 
       "main": 37.5, 
       "genoa": 30.5, 
       "displacement": 4434.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 470.0
     }, 
     "year": "1989"
   }, 

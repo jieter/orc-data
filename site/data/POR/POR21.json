@@ -5,12 +5,13 @@
       1.2419, 
       1.4069
     ], 
-    "gph": 616.1, 
     "triple_inshore": [
       0.7236, 
       0.994, 
       1.1596
-    ]
+    ], 
+    "gph": 616.1, 
+    "osn": 598.1
   }, 
   "sailnumber": "POR21", 
   "name": "ZDAMEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.99, 
       "draft": 2.19, 
+      "wetted_surface": 28.6, 
       "main": 42.0, 
       "genoa": 32.3, 
       "displacement": 6014.0, 
-      "spinnaker_asym": 112.0
+      "spinnaker_asym": 112.0, 
+      "crew": 699.0
     }, 
     "year": "2013"
   }, 

@@ -5,12 +5,13 @@
       1.1764, 
       1.3569
     ], 
-    "gph": 650.8, 
     "triple_inshore": [
       0.6659, 
       0.9298, 
       1.1193
-    ]
+    ], 
+    "gph": 650.8, 
+    "osn": 636.4
   }, 
   "sailnumber": "NOR13831", 
   "name": "Pan 8", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.69, 
       "draft": 1.94, 
+      "wetted_surface": 27.9, 
       "main": 31.5, 
       "genoa": 36.0, 
       "displacement": 5673.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 694.0
     }, 
     "year": "2007"
   }, 

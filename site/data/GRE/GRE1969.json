@@ -5,12 +5,13 @@
       1.1782, 
       1.3287
     ], 
-    "gph": 649.6, 
     "triple_inshore": [
       0.6886, 
       0.9523, 
       1.1132
-    ]
+    ], 
+    "gph": 649.6, 
+    "osn": 630.8
   }, 
   "sailnumber": "GRE1969", 
   "name": "ANASA", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.9, 
       "loa": 11.0, 
       "draft": 1.99, 
+      "wetted_surface": 23.3, 
       "main": 29.8, 
       "genoa": 31.3, 
       "displacement": 4500.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1985"
   }, 

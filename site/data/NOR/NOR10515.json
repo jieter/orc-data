@@ -5,12 +5,13 @@
       1.0939, 
       1.2412
     ], 
-    "gph": 696.2, 
     "triple_inshore": [
       0.6537, 
       0.8852, 
       1.0453
-    ]
+    ], 
+    "gph": 696.2, 
+    "osn": 676.6
   }, 
   "sailnumber": "NOR10515", 
   "name": "Bris", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.1, 
       "loa": 10.28, 
       "draft": 1.87, 
+      "wetted_surface": 25.0, 
       "main": 29.8, 
       "genoa": 33.0, 
       "displacement": 6164.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 536.0
     }, 
     "year": "1990"
   }, 

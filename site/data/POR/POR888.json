@@ -5,12 +5,13 @@
       1.2362, 
       1.4116
     ], 
-    "gph": 619.8, 
     "triple_inshore": [
       0.7153, 
       0.9899, 
       1.1773
-    ]
+    ], 
+    "gph": 619.8, 
+    "osn": 601.5
   }, 
   "sailnumber": "POR888", 
   "name": "ALTITUDES II", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.1, 
       "loa": 11.99, 
       "draft": 2.14, 
+      "wetted_surface": 33.3, 
       "main": 47.7, 
       "genoa": 33.5, 
       "displacement": 8390.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2009"
   }, 

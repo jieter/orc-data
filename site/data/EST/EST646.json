@@ -5,12 +5,13 @@
       1.2155, 
       1.3833
     ], 
-    "gph": 628.7, 
     "triple_inshore": [
       0.713, 
       0.9843, 
       1.1538
-    ]
+    ], 
+    "gph": 628.7, 
+    "osn": 609.9
   }, 
   "sailnumber": "EST646", 
   "name": "KATARIINA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.1, 
       "loa": 10.405, 
       "draft": 2.1, 
+      "wetted_surface": 27.0, 
       "main": 39.0, 
       "genoa": 32.9, 
       "displacement": 5056.0, 
-      "spinnaker_asym": 71.0
+      "spinnaker_asym": 71.0, 
+      "crew": 670.0
     }, 
     "year": "2009"
   }, 

@@ -5,12 +5,13 @@
       1.2193, 
       1.3844
     ], 
-    "gph": 626.2, 
     "triple_inshore": [
       0.7142, 
       0.9794, 
       1.138
-    ]
+    ], 
+    "gph": 626.2, 
+    "osn": 609.2
   }, 
   "sailnumber": "DEN8", 
   "name": "", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.6, 
       "loa": 10.3, 
       "draft": 1.89, 
+      "wetted_surface": 24.4, 
       "main": 35.8, 
       "genoa": 32.4, 
       "displacement": 4308.0, 
-      "spinnaker_asym": 94.0
+      "spinnaker_asym": 94.0, 
+      "crew": 640.0
     }, 
     "year": "2014"
   }, 

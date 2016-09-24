@@ -5,12 +5,13 @@
       1.1238, 
       1.3047
     ], 
-    "gph": 684.8, 
     "triple_inshore": [
       0.6339, 
       0.8812, 
       1.064
-    ]
+    ], 
+    "gph": 684.8, 
+    "osn": 664.3
   }, 
   "sailnumber": "NED7889", 
   "name": "Amare", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.525, 
       "draft": 1.8, 
+      "wetted_surface": 32.0, 
       "main": 35.4, 
       "genoa": 28.6, 
       "displacement": 7439.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 540.0
     }, 
     "year": "2005"
   }, 

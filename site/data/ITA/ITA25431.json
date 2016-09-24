@@ -5,12 +5,13 @@
       1.1144, 
       1.2546
     ], 
-    "gph": 676.2, 
     "triple_inshore": [
       0.6936, 
       0.9146, 
       1.0336
-    ]
+    ], 
+    "gph": 676.2, 
+    "osn": 658.8
   }, 
   "sailnumber": "ITA25431", 
   "name": "WILLY", 
@@ -25,10 +26,12 @@
       "spinnaker": 45.1, 
       "loa": 7.512, 
       "draft": 1.57, 
+      "wetted_surface": 12.1, 
       "main": 21.1, 
       "genoa": 13.2, 
       "displacement": 1294.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1997"
   }, 

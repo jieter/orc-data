@@ -5,12 +5,13 @@
       1.2963, 
       1.4736
     ], 
-    "gph": 590.4, 
     "triple_inshore": [
       0.7568, 
       1.0466, 
       1.234
-    ]
+    ], 
+    "gph": 590.4, 
+    "osn": 572.8
   }, 
   "sailnumber": "ITA16240", 
   "name": "COCHINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 122.0, 
       "loa": 12.24, 
       "draft": 2.5, 
+      "wetted_surface": 35.2, 
       "main": 51.5, 
       "genoa": 44.0, 
       "displacement": 8202.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 805.0
     }, 
     "year": "2008"
   }, 

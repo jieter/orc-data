@@ -5,12 +5,13 @@
       1.1736, 
       1.3391
     ], 
-    "gph": 651.9, 
     "triple_inshore": [
       0.6835, 
       0.9431, 
       1.1204
-    ]
+    ], 
+    "gph": 651.9, 
+    "osn": 632.6
   }, 
   "sailnumber": "NOR10615", 
   "name": "Stella", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.5, 
       "loa": 10.95, 
       "draft": 2.11, 
+      "wetted_surface": 29.9, 
       "main": 38.6, 
       "genoa": 41.6, 
       "displacement": 6894.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 674.0
     }, 
     "year": "2002"
   }, 

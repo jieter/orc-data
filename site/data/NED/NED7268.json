@@ -5,12 +5,13 @@
       1.3391, 
       1.493
     ], 
-    "gph": 568.2, 
     "triple_inshore": [
       0.7971, 
       1.0719, 
       1.2293
-    ]
+    ], 
+    "gph": 568.2, 
+    "osn": 555.1
   }, 
   "sailnumber": "NED7268", 
   "name": "Just J", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.183, 
       "draft": 2.06, 
+      "wetted_surface": 37.1, 
       "main": 54.7, 
       "genoa": 67.2, 
       "displacement": 8761.0, 
-      "spinnaker_asym": 169.0
+      "spinnaker_asym": 169.0, 
+      "crew": 900.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.157, 
       1.3254
     ], 
-    "gph": 662.4, 
     "triple_inshore": [
       0.6682, 
       0.93, 
       1.1084
-    ]
+    ], 
+    "gph": 662.4, 
+    "osn": 642.0
   }, 
   "sailnumber": "FRA28738", 
   "name": "GWAIHIR VENTURI", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.5, 
       "loa": 10.3, 
       "draft": 1.94, 
+      "wetted_surface": 25.4, 
       "main": 31.1, 
       "genoa": 31.6, 
       "displacement": 5422.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 629.0
     }, 
     "year": "2002"
   }, 

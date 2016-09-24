@@ -5,12 +5,13 @@
       1.1499, 
       1.288
     ], 
-    "gph": 657.6, 
     "triple_inshore": [
       0.7026, 
       0.936, 
       1.0626
-    ]
+    ], 
+    "gph": 657.6, 
+    "osn": 642.3
   }, 
   "sailnumber": "FRA8361_C", 
   "name": "MEDIO LIMON", 
@@ -25,10 +26,12 @@
       "spinnaker": 49.3, 
       "loa": 9.012, 
       "draft": 1.67, 
+      "wetted_surface": 15.4, 
       "main": 29.6, 
       "genoa": 22.0, 
       "displacement": 2118.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 406.0
     }, 
     "year": "1982"
   }, 

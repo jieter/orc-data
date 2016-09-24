@@ -5,12 +5,13 @@
       1.1268, 
       1.2875
     ], 
-    "gph": 672.3, 
     "triple_inshore": [
       0.6816, 
       0.9095, 
       1.0469
-    ]
+    ], 
+    "gph": 672.3, 
+    "osn": 654.7
   }, 
   "sailnumber": "GRE2380", 
   "name": "ZANTAC", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.032, 
       "draft": 1.51, 
+      "wetted_surface": 13.9, 
       "main": 21.6, 
       "genoa": 13.8, 
       "displacement": 1544.0, 
-      "spinnaker_asym": 63.0
+      "spinnaker_asym": 63.0, 
+      "crew": 420.0
     }, 
     "year": "1997"
   }, 

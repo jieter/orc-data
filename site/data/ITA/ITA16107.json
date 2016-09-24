@@ -5,12 +5,13 @@
       1.1511, 
       1.3076
     ], 
-    "gph": 664.7, 
     "triple_inshore": [
       0.6725, 
       0.9294, 
       1.097
-    ]
+    ], 
+    "gph": 664.7, 
+    "osn": 645.0
   }, 
   "sailnumber": "ITA16107", 
   "name": "KIKA", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.8, 
       "loa": 10.025, 
       "draft": 1.93, 
+      "wetted_surface": 23.8, 
       "main": 31.8, 
       "genoa": 30.7, 
       "displacement": 5034.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1998"
   }, 

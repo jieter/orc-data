@@ -5,12 +5,13 @@
       1.2152, 
       1.3654
     ], 
-    "gph": 623.4, 
     "triple_inshore": [
       0.7363, 
       0.9841, 
       1.1263
-    ]
+    ], 
+    "gph": 623.4, 
+    "osn": 609.1
   }, 
   "sailnumber": "ESP2885", 
   "name": "TXIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.8, 
       "loa": 10.052, 
       "draft": 1.81, 
+      "wetted_surface": 19.7, 
       "main": 38.9, 
       "genoa": 25.3, 
       "displacement": 3079.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1989"
   }, 

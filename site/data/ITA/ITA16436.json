@@ -5,12 +5,13 @@
       1.195, 
       1.3453
     ], 
-    "gph": 636.9, 
     "triple_inshore": [
       0.7146, 
       0.9657, 
       1.1059
-    ]
+    ], 
+    "gph": 636.9, 
+    "osn": 619.1
   }, 
   "sailnumber": "ITA16436", 
   "name": "TAZ", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.5, 
       "draft": 1.97, 
+      "wetted_surface": 20.3, 
       "main": 29.4, 
       "genoa": 22.6, 
       "displacement": 3398.0, 
-      "spinnaker_asym": 90.0
+      "spinnaker_asym": 90.0, 
+      "crew": 545.0
     }, 
     "year": "2009"
   }, 

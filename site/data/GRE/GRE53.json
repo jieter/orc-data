@@ -5,12 +5,13 @@
       1.5993, 
       1.8343
     ], 
-    "gph": 474.0, 
     "triple_inshore": [
       0.9588, 
       1.2832, 
       1.4943
-    ]
+    ], 
+    "gph": 474.0, 
+    "osn": 461.9
   }, 
   "sailnumber": "GRE53", 
   "name": "OPTIMUM 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.839, 
       "draft": 3.25, 
+      "wetted_surface": 45.7, 
       "main": 104.3, 
       "genoa": 65.0, 
       "displacement": 9641.0, 
-      "spinnaker_asym": 279.0
+      "spinnaker_asym": 279.0, 
+      "crew": 1270.0
     }, 
     "year": "2000"
   }, 

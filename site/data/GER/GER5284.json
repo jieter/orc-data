@@ -5,12 +5,13 @@
       1.418, 
       1.6169
     ], 
-    "gph": 540.3, 
     "triple_inshore": [
       0.8148, 
       1.1222, 
       1.339
-    ]
+    ], 
+    "gph": 540.3, 
+    "osn": 526.7
   }, 
   "sailnumber": "GER5284", 
   "name": "GENESTHO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 17.175, 
       "draft": 2.71, 
+      "wetted_surface": 58.4, 
       "main": 79.4, 
       "genoa": 103.7, 
       "displacement": 20675.0, 
-      "spinnaker_asym": 228.0
+      "spinnaker_asym": 228.0, 
+      "crew": 1262.0
     }, 
     "year": "1997"
   }, 

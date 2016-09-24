@@ -5,12 +5,13 @@
       1.1475, 
       1.3179
     ], 
-    "gph": 668.3, 
     "triple_inshore": [
       0.6597, 
       0.9154, 
       1.0894
-    ]
+    ], 
+    "gph": 668.3, 
+    "osn": 648.4
   }, 
   "sailnumber": "NED7964", 
   "name": "Hakuna Matata", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.0, 
       "loa": 10.8, 
       "draft": 1.7, 
+      "wetted_surface": 26.4, 
       "main": 29.8, 
       "genoa": 35.6, 
       "displacement": 5512.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 647.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       1.3185, 
       1.4735
     ], 
-    "gph": 577.4, 
     "triple_inshore": [
       0.7864, 
       1.0595, 
       1.2129
-    ]
+    ], 
+    "gph": 577.4, 
+    "osn": 562.9
   }, 
   "sailnumber": "ITA15323", 
   "name": "ARIA-TOP SECRET", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.48, 
       "draft": 2.36, 
+      "wetted_surface": 32.9, 
       "main": 57.0, 
       "genoa": 42.9, 
       "displacement": 7501.0, 
-      "spinnaker_asym": 147.0
+      "spinnaker_asym": 147.0, 
+      "crew": 792.0
     }, 
     "year": "2005"
   }, 

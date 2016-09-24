@@ -5,12 +5,13 @@
       1.1407, 
       1.2882
     ], 
-    "gph": 669.2, 
     "triple_inshore": [
       0.6761, 
       0.9281, 
       1.0789
-    ]
+    ], 
+    "gph": 669.2, 
+    "osn": 649.1
   }, 
   "sailnumber": "NED6106", 
   "name": "Tequiero", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.8, 
       "loa": 9.47, 
       "draft": 1.83, 
+      "wetted_surface": 21.6, 
       "main": 30.1, 
       "genoa": 19.2, 
       "displacement": 3453.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1991"
   }, 

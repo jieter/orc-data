@@ -5,12 +5,13 @@
       1.1411, 
       1.2977
     ], 
-    "gph": 669.4, 
     "triple_inshore": [
       0.6715, 
       0.9257, 
       1.0731
-    ]
+    ], 
+    "gph": 669.4, 
+    "osn": 649.3
   }, 
   "sailnumber": "ESP8112", 
   "name": "SUEVO", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.4, 
       "loa": 8.49, 
       "draft": 1.94, 
+      "wetted_surface": 20.1, 
       "main": 29.0, 
       "genoa": 22.3, 
       "displacement": 2828.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 370.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.1433, 
       1.3139
     ], 
-    "gph": 671.7, 
     "triple_inshore": [
       0.6555, 
       0.9146, 
       1.096
-    ]
+    ], 
+    "gph": 671.7, 
+    "osn": 650.6
   }, 
   "sailnumber": "ESP4264_C", 
   "name": "AXONE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.304, 
       "draft": 2.09, 
+      "wetted_surface": 28.2, 
       "main": 32.3, 
       "genoa": 45.9, 
       "displacement": 6880.0, 
-      "spinnaker_asym": 101.0
+      "spinnaker_asym": 101.0, 
+      "crew": 632.0
     }, 
     "year": "1984"
   }, 

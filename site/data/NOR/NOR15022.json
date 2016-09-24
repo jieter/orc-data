@@ -5,12 +5,13 @@
       1.1969, 
       1.3568
     ], 
-    "gph": 638.7, 
     "triple_inshore": [
       0.6906, 
       0.943, 
       1.1054
-    ]
+    ], 
+    "gph": 638.7, 
+    "osn": 623.9
   }, 
   "sailnumber": "NOR15022", 
   "name": "Selima", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.941, 
       "draft": 2.01, 
+      "wetted_surface": 33.1, 
       "main": 39.8, 
       "genoa": 27.1, 
       "displacement": 7657.0, 
-      "spinnaker_asym": 97.0
+      "spinnaker_asym": 97.0, 
+      "crew": 740.0
     }, 
     "year": "2011"
   }, 

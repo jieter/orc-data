@@ -5,12 +5,13 @@
       1.0498, 
       1.1696
     ], 
-    "gph": 723.9, 
     "triple_inshore": [
       0.6343, 
       0.8599, 
       0.9834
-    ]
+    ], 
+    "gph": 723.9, 
+    "osn": 703.8
   }, 
   "sailnumber": "SUI160", 
   "name": "RENNFIX", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.7, 
       "loa": 7.5, 
       "draft": 1.51, 
+      "wetted_surface": 15.4, 
       "main": 20.6, 
       "genoa": 21.1, 
       "displacement": 2325.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 419.0
     }, 
     "year": "1995"
   }, 

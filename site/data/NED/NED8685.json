@@ -5,12 +5,13 @@
       1.2579, 
       1.471
     ], 
-    "gph": 611.3, 
     "triple_inshore": [
       0.6951, 
       0.9853, 
       1.2101
-    ]
+    ], 
+    "gph": 611.3, 
+    "osn": 596.7
   }, 
   "sailnumber": "NED8685", 
   "name": "Schavuit", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.99, 
       "draft": 2.07, 
+      "wetted_surface": 42.3, 
       "main": 56.0, 
       "genoa": 73.7, 
       "displacement": 11500.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 984.0
     }, 
     "year": "2004"
   }, 

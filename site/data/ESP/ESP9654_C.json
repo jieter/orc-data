@@ -5,12 +5,13 @@
       0.8964, 
       1.0292
     ], 
-    "gph": 844.7, 
     "triple_inshore": [
       0.5389, 
       0.7194, 
       0.8422
-    ]
+    ], 
+    "gph": 844.7, 
+    "osn": 823.8
   }, 
   "sailnumber": "ESP9654_C", 
   "name": "COLIBRI I", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 5.49, 
       "draft": 1.1, 
+      "wetted_surface": 8.8, 
       "main": 10.2, 
       "genoa": 7.4, 
       "displacement": 792.0, 
-      "spinnaker_asym": 28.0
+      "spinnaker_asym": 28.0, 
+      "crew": 250.0
     }, 
     "year": "1997"
   }, 

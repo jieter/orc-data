@@ -5,12 +5,13 @@
       1.1906, 
       1.3319
     ], 
-    "gph": 639.0, 
     "triple_inshore": [
       0.7138, 
       0.9628, 
       1.0954
-    ]
+    ], 
+    "gph": 639.0, 
+    "osn": 622.4
   }, 
   "sailnumber": "ESP4666", 
   "name": "HILBO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.623, 
       "draft": 2.29, 
+      "wetted_surface": 19.0, 
       "main": 29.7, 
       "genoa": 21.6, 
       "displacement": 2939.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 450.0
     }, 
     "year": "1996"
   }, 

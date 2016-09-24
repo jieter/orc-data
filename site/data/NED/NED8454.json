@@ -5,12 +5,13 @@
       1.3082, 
       1.4711
     ], 
-    "gph": 581.7, 
     "triple_inshore": [
       0.7709, 
       1.0472, 
       1.2199
-    ]
+    ], 
+    "gph": 581.7, 
+    "osn": 569.3
   }, 
   "sailnumber": "NED8454", 
   "name": "XAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 140.4, 
       "loa": 12.903, 
       "draft": 2.2, 
+      "wetted_surface": 35.5, 
       "main": 54.0, 
       "genoa": 59.3, 
       "displacement": 8880.0, 
-      "spinnaker_asym": 123.0
+      "spinnaker_asym": 123.0, 
+      "crew": 700.0
     }, 
     "year": "2003"
   }, 

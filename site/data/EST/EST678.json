@@ -5,12 +5,13 @@
       1.2062, 
       1.3647
     ], 
-    "gph": 633.2, 
     "triple_inshore": [
       0.7104, 
       0.9782, 
       1.1394
-    ]
+    ], 
+    "gph": 633.2, 
+    "osn": 614.5
   }, 
   "sailnumber": "EST678", 
   "name": "VESIKAAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.3, 
       "loa": 9.99, 
       "draft": 2.25, 
+      "wetted_surface": 24.6, 
       "main": 34.0, 
       "genoa": 30.9, 
       "displacement": 4445.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 690.0
     }, 
     "year": "2009"
   }, 

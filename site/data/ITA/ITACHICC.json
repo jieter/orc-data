@@ -5,12 +5,13 @@
       1.0765, 
       1.2754
     ], 
-    "gph": 717.2, 
     "triple_inshore": [
       0.5953, 
       0.8439, 
       1.0454
-    ]
+    ], 
+    "gph": 717.2, 
+    "osn": 693.6
   }, 
   "sailnumber": "ITACHICC", 
   "name": "CHICCHETTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 1.95, 
+      "wetted_surface": 25.8, 
       "main": 28.2, 
       "genoa": 21.2, 
       "displacement": 5159.0, 
-      "spinnaker_asym": 78.0
+      "spinnaker_asym": 78.0, 
+      "crew": 420.0
     }, 
     "year": "2013"
   }, 

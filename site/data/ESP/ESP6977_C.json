@@ -5,12 +5,13 @@
       1.2787, 
       1.4427
     ], 
-    "gph": 597.2, 
     "triple_inshore": [
       0.7529, 
       1.034, 
       1.2072
-    ]
+    ], 
+    "gph": 597.2, 
+    "osn": 580.5
   }, 
   "sailnumber": "ESP6977_C", 
   "name": "TAREIS T", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.0, 
       "loa": 11.924, 
       "draft": 2.41, 
+      "wetted_surface": 31.1, 
       "main": 49.0, 
       "genoa": 45.9, 
       "displacement": 6979.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1997"
   }, 

@@ -5,12 +5,13 @@
       1.2545, 
       1.4115
     ], 
-    "gph": 606.9, 
     "triple_inshore": [
       0.7353, 
       1.0023, 
       1.1795
-    ]
+    ], 
+    "gph": 606.9, 
+    "osn": 594.3
   }, 
   "sailnumber": "FRA25", 
   "name": "CUTTY-TOU", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.1, 
       "loa": 14.6, 
       "draft": 2.01, 
+      "wetted_surface": 31.7, 
       "main": 66.2, 
       "genoa": 54.2, 
       "displacement": 8700.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 735.0
     }, 
     "year": "1929"
   }, 

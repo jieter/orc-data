@@ -5,12 +5,13 @@
       1.1595, 
       1.318
     ], 
-    "gph": 660.3, 
     "triple_inshore": [
       0.6746, 
       0.9333, 
       1.104
-    ]
+    ], 
+    "gph": 660.3, 
+    "osn": 640.5
   }, 
   "sailnumber": "FRA38469", 
   "name": "MI CORAZON", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.0, 
       "loa": 10.3, 
       "draft": 1.95, 
+      "wetted_surface": 25.9, 
       "main": 33.6, 
       "genoa": 30.7, 
       "displacement": 5702.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "2002"
   }, 

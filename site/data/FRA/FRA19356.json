@@ -5,12 +5,13 @@
       1.1812, 
       1.3257
     ], 
-    "gph": 645.4, 
     "triple_inshore": [
       0.7024, 
       0.9577, 
       1.1063
-    ]
+    ], 
+    "gph": 645.4, 
+    "osn": 628.3
   }, 
   "sailnumber": "FRA19356", 
   "name": "NAUTILUX", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.1, 
       "loa": 9.978, 
       "draft": 1.81, 
+      "wetted_surface": 23.9, 
       "main": 37.1, 
       "genoa": 28.2, 
       "displacement": 4396.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1994"
   }, 

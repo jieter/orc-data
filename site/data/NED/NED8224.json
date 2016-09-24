@@ -5,12 +5,13 @@
       1.17, 
       1.3472
     ], 
-    "gph": 644.5, 
     "triple_inshore": [
       0.7199, 
       0.9413, 
       1.0905
-    ]
+    ], 
+    "gph": 644.5, 
+    "osn": 628.5
   }, 
   "sailnumber": "NED8224", 
   "name": "Zelus", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.25, 
       "draft": 1.61, 
+      "wetted_surface": 14.2, 
       "main": 25.7, 
       "genoa": 14.9, 
       "displacement": 1305.0, 
-      "spinnaker_asym": 61.0
+      "spinnaker_asym": 61.0, 
+      "crew": 380.0
     }, 
     "year": "1998"
   }, 

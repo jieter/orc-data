@@ -5,12 +5,13 @@
       1.1184, 
       1.2641
     ], 
-    "gph": 682.5, 
     "triple_inshore": [
       0.659, 
       0.9032, 
       1.0557
-    ]
+    ], 
+    "gph": 682.5, 
+    "osn": 663.5
   }, 
   "sailnumber": "NED6813", 
   "name": "WESTWIND", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.1, 
       "loa": 10.112, 
       "draft": 1.76, 
+      "wetted_surface": 22.7, 
       "main": 28.1, 
       "genoa": 33.7, 
       "displacement": 4372.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 526.0
     }, 
     "year": "1982"
   }, 

@@ -5,12 +5,13 @@
       1.2409, 
       1.3931
     ], 
-    "gph": 613.5, 
     "triple_inshore": [
       0.7418, 
       1.0089, 
       1.1615
-    ]
+    ], 
+    "gph": 613.5, 
+    "osn": 597.3
   }, 
   "sailnumber": "ITA15338", 
   "name": "DEMON X", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.0, 
       "loa": 10.6, 
       "draft": 2.17, 
+      "wetted_surface": 24.4, 
       "main": 39.8, 
       "genoa": 32.3, 
       "displacement": 4517.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 690.0
     }, 
     "year": "2005"
   }, 

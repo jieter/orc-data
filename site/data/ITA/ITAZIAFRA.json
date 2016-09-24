@@ -5,12 +5,13 @@
       1.2934, 
       1.4896
     ], 
-    "gph": 582.7, 
     "triple_inshore": [
       0.7984, 
       1.0526, 
       1.2144
-    ]
+    ], 
+    "gph": 582.7, 
+    "osn": 567.6
   }, 
   "sailnumber": "ITAZIAFRA", 
   "name": "ZIA FRANCA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.5, 
       "draft": 2.38, 
+      "wetted_surface": 22.3, 
       "main": 53.2, 
       "genoa": 21.6, 
       "displacement": 3267.0, 
-      "spinnaker_asym": 113.0
+      "spinnaker_asym": 113.0, 
+      "crew": 560.0
     }, 
     "year": "2011"
   }, 

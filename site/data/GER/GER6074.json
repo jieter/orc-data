@@ -5,12 +5,13 @@
       1.2379, 
       1.4049
     ], 
-    "gph": 618.9, 
     "triple_inshore": [
       0.7146, 
       0.9904, 
       1.172
-    ]
+    ], 
+    "gph": 618.9, 
+    "osn": 601.8
   }, 
   "sailnumber": "GER6074", 
   "name": "BELLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.5, 
       "loa": 12.016, 
       "draft": 2.19, 
+      "wetted_surface": 32.5, 
       "main": 43.1, 
       "genoa": 49.7, 
       "displacement": 7872.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "2000"
   }, 

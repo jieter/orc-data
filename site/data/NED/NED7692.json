@@ -5,12 +5,13 @@
       1.2136, 
       1.4066
     ], 
-    "gph": 634.5, 
     "triple_inshore": [
       0.685, 
       0.9673, 
       1.1706
-    ]
+    ], 
+    "gph": 634.5, 
+    "osn": 613.9
   }, 
   "sailnumber": "NED7692", 
   "name": "Extasea", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.6, 
       "loa": 12.016, 
       "draft": 2.21, 
+      "wetted_surface": 32.9, 
       "main": 42.4, 
       "genoa": 43.9, 
       "displacement": 8041.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 808.0
     }, 
     "year": "2000"
   }, 

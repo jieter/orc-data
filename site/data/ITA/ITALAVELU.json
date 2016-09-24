@@ -5,12 +5,13 @@
       1.2334, 
       1.3755
     ], 
-    "gph": 610.7, 
     "triple_inshore": [
       0.7677, 
       1.0035, 
       1.1396
-    ]
+    ], 
+    "gph": 610.7, 
+    "osn": 597.0
   }, 
   "sailnumber": "ITALAVELU", 
   "name": "LA VELINA LUMACHINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.54, 
       "draft": 2.07, 
+      "wetted_surface": 19.4, 
       "main": 33.3, 
       "genoa": 28.9, 
       "displacement": 2856.0, 
-      "spinnaker_asym": 106.0
+      "spinnaker_asym": 106.0, 
+      "crew": 400.0
     }, 
     "year": "2000"
   }, 

@@ -5,12 +5,13 @@
       1.2821, 
       1.4379
     ], 
-    "gph": 589.8, 
     "triple_inshore": [
       0.7752, 
       1.0353, 
       1.1904
-    ]
+    ], 
+    "gph": 589.8, 
+    "osn": 577.7
   }, 
   "sailnumber": "GER6190", 
   "name": "TIMANTTI", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.3, 
       "loa": 10.975, 
       "draft": 2.22, 
+      "wetted_surface": 26.9, 
       "main": 43.3, 
       "genoa": 33.0, 
       "displacement": 5124.0, 
-      "spinnaker_asym": 107.0
+      "spinnaker_asym": 107.0, 
+      "crew": 540.0
     }, 
     "year": "2008"
   }, 

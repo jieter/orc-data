@@ -5,12 +5,13 @@
       1.1042, 
       1.2674
     ], 
-    "gph": 695.6, 
     "triple_inshore": [
       0.6314, 
       0.8825, 
       1.0543
-    ]
+    ], 
+    "gph": 695.6, 
+    "osn": 674.1
   }, 
   "sailnumber": "NOR7051", 
   "name": "Frida", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.4, 
       "loa": 10.5, 
       "draft": 1.73, 
+      "wetted_surface": 25.1, 
       "main": 31.8, 
       "genoa": 35.3, 
       "displacement": 5358.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 599.0
     }, 
     "year": "1987"
   }, 

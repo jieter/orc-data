@@ -5,12 +5,13 @@
       1.1393, 
       1.2823
     ], 
-    "gph": 670.3, 
     "triple_inshore": [
       0.6691, 
       0.9212, 
       1.0691
-    ]
+    ], 
+    "gph": 670.3, 
+    "osn": 652.2
   }, 
   "sailnumber": "ESP7836_C", 
   "name": "ELS MENUTS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.52, 
       "draft": 1.65, 
+      "wetted_surface": 21.2, 
       "main": 27.3, 
       "genoa": 27.1, 
       "displacement": 3910.0, 
-      "spinnaker_asym": 90.0
+      "spinnaker_asym": 90.0, 
+      "crew": 225.0
     }, 
     "year": "2000"
   }, 

@@ -5,12 +5,13 @@
       1.2492, 
       1.3898
     ], 
-    "gph": 605.0, 
     "triple_inshore": [
       0.7681, 
       1.0178, 
       1.1626
-    ]
+    ], 
+    "gph": 605.0, 
+    "osn": 590.9
   }, 
   "sailnumber": "ESP7011", 
   "name": "ESPADA DOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.2, 
       "loa": 10.395, 
       "draft": 2.17, 
+      "wetted_surface": 22.9, 
       "main": 41.7, 
       "genoa": 32.6, 
       "displacement": 4238.0, 
-      "spinnaker_asym": 88.0
+      "spinnaker_asym": 88.0, 
+      "crew": 490.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.1777, 
       1.3975
     ], 
-    "gph": 635.2, 
     "triple_inshore": [
       0.747, 
       0.9601, 
       1.1422
-    ]
+    ], 
+    "gph": 635.2, 
+    "osn": 617.5
   }, 
   "sailnumber": "FRA222", 
   "name": "KALLISTI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.52, 
       "draft": 2.01, 
+      "wetted_surface": 14.2, 
       "main": 31.3, 
       "genoa": 12.6, 
       "displacement": 1072.0, 
-      "spinnaker_asym": 74.0
+      "spinnaker_asym": 74.0, 
+      "crew": 300.0
     }, 
     "year": "1993"
   }, 

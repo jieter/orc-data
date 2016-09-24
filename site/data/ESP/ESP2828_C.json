@@ -5,12 +5,13 @@
       0.9344, 
       1.0884
     ], 
-    "gph": 824.3, 
     "triple_inshore": [
       0.5301, 
       0.753, 
       0.914
-    ]
+    ], 
+    "gph": 824.3, 
+    "osn": 795.0
   }, 
   "sailnumber": "ESP2828_C", 
   "name": "PORSIFO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.9, 
       "draft": 1.5, 
+      "wetted_surface": 17.2, 
       "main": 12.9, 
       "genoa": 23.6, 
       "displacement": 3118.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1983"
   }, 

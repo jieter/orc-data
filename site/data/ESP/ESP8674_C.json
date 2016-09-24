@@ -5,12 +5,13 @@
       1.2356, 
       1.4133
     ], 
-    "gph": 622.2, 
     "triple_inshore": [
       0.7059, 
       0.99, 
       1.1756
-    ]
+    ], 
+    "gph": 622.2, 
+    "osn": 602.4
   }, 
   "sailnumber": "ESP8674_C", 
   "name": "AMANCAY", 
@@ -25,10 +26,12 @@
       "spinnaker": 116.9, 
       "loa": 11.754, 
       "draft": 2.19, 
+      "wetted_surface": 32.9, 
       "main": 38.4, 
       "genoa": 36.9, 
       "displacement": 7425.0, 
-      "spinnaker_asym": 110.0
+      "spinnaker_asym": 110.0, 
+      "crew": 500.0
     }, 
     "year": "2006"
   }, 

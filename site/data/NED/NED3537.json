@@ -5,12 +5,13 @@
       1.1466, 
       1.3054
     ], 
-    "gph": 669.1, 
     "triple_inshore": [
       0.6461, 
       0.9113, 
       1.0769
-    ]
+    ], 
+    "gph": 669.1, 
+    "osn": 652.7
   }, 
   "sailnumber": "NED3537", 
   "name": "Black Magic Woman", 
@@ -25,10 +26,12 @@
       "spinnaker": 46.2, 
       "loa": 10.5, 
       "draft": 1.97, 
+      "wetted_surface": 20.2, 
       "main": 27.6, 
       "genoa": 15.0, 
       "displacement": 3053.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1984"
   }, 

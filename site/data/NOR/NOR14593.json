@@ -5,12 +5,13 @@
       1.1052, 
       1.2523
     ], 
-    "gph": 690.4, 
     "triple_inshore": [
       0.651, 
       0.8913, 
       1.047
-    ]
+    ], 
+    "gph": 690.4, 
+    "osn": 670.8
   }, 
   "sailnumber": "NOR14593", 
   "name": "Frk. Hansen", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.0, 
       "loa": 9.55, 
       "draft": 1.84, 
+      "wetted_surface": 22.3, 
       "main": 27.3, 
       "genoa": 20.2, 
       "displacement": 4684.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 534.0
     }, 
     "year": "2007"
   }, 

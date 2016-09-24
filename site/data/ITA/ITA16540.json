@@ -5,12 +5,13 @@
       1.3071, 
       1.4786
     ], 
-    "gph": 587.5, 
     "triple_inshore": [
       0.7521, 
       1.0426, 
       1.2049
-    ]
+    ], 
+    "gph": 587.5, 
+    "osn": 570.2
   }, 
   "sailnumber": "ITA16540", 
   "name": "CATTY SARK", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.036, 
       "draft": 2.58, 
+      "wetted_surface": 37.5, 
       "main": 52.3, 
       "genoa": 38.5, 
       "displacement": 7146.0, 
-      "spinnaker_asym": 170.0
+      "spinnaker_asym": 170.0, 
+      "crew": 240.0
     }, 
     "year": "2010"
   }, 

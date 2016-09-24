@@ -5,12 +5,13 @@
       1.2954, 
       1.4776
     ], 
-    "gph": 591.2, 
     "triple_inshore": [
       0.7514, 
       1.0389, 
       1.2334
-    ]
+    ], 
+    "gph": 591.2, 
+    "osn": 573.8
   }, 
   "sailnumber": "ITA17442", 
   "name": "OXIDIANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 143.2, 
       "loa": 13.48, 
       "draft": 2.34, 
+      "wetted_surface": 39.2, 
       "main": 48.2, 
       "genoa": 63.2, 
       "displacement": 10386.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "1993"
   }, 

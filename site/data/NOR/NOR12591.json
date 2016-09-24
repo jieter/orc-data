@@ -5,12 +5,13 @@
       1.2577, 
       1.442
     ], 
-    "gph": 610.3, 
     "triple_inshore": [
       0.7181, 
       0.99, 
       1.1742
-    ]
+    ], 
+    "gph": 610.3, 
+    "osn": 593.5
   }, 
   "sailnumber": "NOR12591", 
   "name": "Christian IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.68, 
       "draft": 2.05, 
+      "wetted_surface": 39.5, 
       "main": 47.6, 
       "genoa": 58.2, 
       "displacement": 11007.0, 
-      "spinnaker_asym": 123.0
+      "spinnaker_asym": 123.0, 
+      "crew": 906.0
     }, 
     "year": "2006"
   }, 

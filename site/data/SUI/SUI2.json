@@ -5,12 +5,13 @@
       1.245, 
       1.3959
     ], 
-    "gph": 604.5, 
     "triple_inshore": [
       0.7591, 
       0.9978, 
       1.1357
-    ]
+    ], 
+    "gph": 604.5, 
+    "osn": 594.6
   }, 
   "sailnumber": "SUI2", 
   "name": "SOLSTITIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.17, 
       "draft": 1.93, 
+      "wetted_surface": 19.8, 
       "main": 31.7, 
       "genoa": 22.5, 
       "displacement": 2826.0, 
-      "spinnaker_asym": 84.0
+      "spinnaker_asym": 84.0, 
+      "crew": 598.0
     }, 
     "year": "2010"
   }, 

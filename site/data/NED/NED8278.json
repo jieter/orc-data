@@ -5,12 +5,13 @@
       1.2402, 
       1.4039
     ], 
-    "gph": 616.3, 
     "triple_inshore": [
       0.7248, 
       0.9941, 
       1.1665
-    ]
+    ], 
+    "gph": 616.3, 
+    "osn": 599.7
   }, 
   "sailnumber": "NED8278", 
   "name": "Kinetic", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.5, 
       "loa": 11.924, 
       "draft": 1.94, 
+      "wetted_surface": 30.6, 
       "main": 43.6, 
       "genoa": 36.9, 
       "displacement": 7278.0, 
-      "spinnaker_asym": 105.0
+      "spinnaker_asym": 105.0, 
+      "crew": 425.0
     }, 
     "year": "1997"
   }, 

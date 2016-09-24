@@ -5,12 +5,13 @@
       1.1524, 
       1.3279
     ], 
-    "gph": 666.9, 
     "triple_inshore": [
       0.657, 
       0.9205, 
       1.1043
-    ]
+    ], 
+    "gph": 666.9, 
+    "osn": 645.8
   }, 
   "sailnumber": "NED6006", 
   "name": "QUEEN OF HEARTS", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.6, 
       "loa": 11.01, 
       "draft": 1.49, 
+      "wetted_surface": 28.7, 
       "main": 40.4, 
       "genoa": 22.7, 
       "displacement": 5853.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 628.0
     }, 
     "year": "1988"
   }, 

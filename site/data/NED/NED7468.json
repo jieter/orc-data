@@ -5,12 +5,13 @@
       1.2017, 
       1.3627
     ], 
-    "gph": 634.8, 
     "triple_inshore": [
       0.7086, 
       0.9733, 
       1.1451
-    ]
+    ], 
+    "gph": 634.8, 
+    "osn": 617.4
   }, 
   "sailnumber": "NED7468", 
   "name": "Xinia", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.72, 
       "draft": 2.06, 
+      "wetted_surface": 27.4, 
       "main": 37.9, 
       "genoa": 41.9, 
       "displacement": 5950.0, 
-      "spinnaker_asym": 72.0
+      "spinnaker_asym": 72.0, 
+      "crew": 669.0
     }, 
     "year": "1996"
   }, 

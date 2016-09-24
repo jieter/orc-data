@@ -5,12 +5,13 @@
       1.2322, 
       1.4018
     ], 
-    "gph": 621.8, 
     "triple_inshore": [
       0.7129, 
       0.9876, 
       1.1615
-    ]
+    ], 
+    "gph": 621.8, 
+    "osn": 603.6
   }, 
   "sailnumber": "ITA14711", 
   "name": "EXCELLENT", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.9, 
       "loa": 11.38, 
       "draft": 2.19, 
+      "wetted_surface": 29.5, 
       "main": 41.6, 
       "genoa": 35.6, 
       "displacement": 6132.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 670.0
     }, 
     "year": "2003"
   }, 

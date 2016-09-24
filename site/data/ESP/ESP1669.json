@@ -5,12 +5,13 @@
       1.297, 
       1.4772
     ], 
-    "gph": 590.1, 
     "triple_inshore": [
       0.7553, 
       1.0467, 
       1.2364
-    ]
+    ], 
+    "gph": 590.1, 
+    "osn": 572.5
   }, 
   "sailnumber": "ESP1669", 
   "name": "HAKUNA S", 
@@ -25,10 +26,12 @@
       "spinnaker": 122.3, 
       "loa": 12.24, 
       "draft": 2.5, 
+      "wetted_surface": 35.3, 
       "main": 53.9, 
       "genoa": 41.6, 
       "displacement": 8292.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 730.0
     }, 
     "year": "2008"
   }, 

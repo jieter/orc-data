@@ -5,12 +5,13 @@
       1.17, 
       1.3314
     ], 
-    "gph": 653.8, 
     "triple_inshore": [
       0.6852, 
       0.9458, 
       1.1139
-    ]
+    ], 
+    "gph": 653.8, 
+    "osn": 633.9
   }, 
   "sailnumber": "EST467", 
   "name": "ADELE", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.0, 
       "loa": 9.98, 
       "draft": 2.01, 
+      "wetted_surface": 23.9, 
       "main": 33.6, 
       "genoa": 26.9, 
       "displacement": 4820.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 695.0
     }, 
     "year": "2005"
   }, 

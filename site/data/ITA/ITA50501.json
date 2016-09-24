@@ -5,12 +5,13 @@
       1.5394, 
       1.7609
     ], 
-    "gph": 496.9, 
     "triple_inshore": [
       0.8949, 
       1.2366, 
       1.4375
-    ]
+    ], 
+    "gph": 496.9, 
+    "osn": 482.3
   }, 
   "sailnumber": "ITA50501", 
   "name": "VERVE - CAMER", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.18, 
       "draft": 3.44, 
+      "wetted_surface": 44.9, 
       "main": 81.1, 
       "genoa": 66.3, 
       "displacement": 9427.0, 
-      "spinnaker_asym": 223.0
+      "spinnaker_asym": 223.0, 
+      "crew": 1060.0
     }, 
     "year": "2010"
   }, 

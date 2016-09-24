@@ -5,12 +5,13 @@
       1.2234, 
       1.401
     ], 
-    "gph": 625.3, 
     "triple_inshore": [
       0.7087, 
       0.9738, 
       1.1601
-    ]
+    ], 
+    "gph": 625.3, 
+    "osn": 608.2
   }, 
   "sailnumber": "NOR13891", 
   "name": "Carisma", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.8, 
       "loa": 11.99, 
       "draft": 1.83, 
+      "wetted_surface": 36.1, 
       "main": 48.2, 
       "genoa": 48.1, 
       "displacement": 9748.0, 
-      "spinnaker_asym": 96.0
+      "spinnaker_asym": 96.0, 
+      "crew": 831.0
     }, 
     "year": "1993"
   }, 

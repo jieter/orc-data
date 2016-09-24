@@ -5,12 +5,13 @@
       1.2029, 
       1.3572
     ], 
-    "gph": 635.9, 
     "triple_inshore": [
       0.7061, 
       0.9668, 
       1.1243
-    ]
+    ], 
+    "gph": 635.9, 
+    "osn": 616.8
   }, 
   "sailnumber": "FRA27600", 
   "name": "EL CHICO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.757, 
       "draft": 2.15, 
+      "wetted_surface": 26.5, 
       "main": 35.7, 
       "genoa": 28.5, 
       "displacement": 5279.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 490.0
     }, 
     "year": "2001"
   }, 

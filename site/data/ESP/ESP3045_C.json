@@ -5,12 +5,13 @@
       1.1156, 
       1.2712
     ], 
-    "gph": 685.0, 
     "triple_inshore": [
       0.6542, 
       0.9017, 
       1.0674
-    ]
+    ], 
+    "gph": 685.0, 
+    "osn": 665.1
   }, 
   "sailnumber": "ESP3045_C", 
   "name": "KAI", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.7, 
       "loa": 10.112, 
       "draft": 1.81, 
+      "wetted_surface": 23.0, 
       "main": 30.8, 
       "genoa": 29.1, 
       "displacement": 4801.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "1982"
   }, 

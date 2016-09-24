@@ -5,12 +5,13 @@
       1.2081, 
       1.3663
     ], 
-    "gph": 632.2, 
     "triple_inshore": [
       0.707, 
       0.9706, 
       1.1362
-    ]
+    ], 
+    "gph": 632.2, 
+    "osn": 615.0
   }, 
   "sailnumber": "GER7307", 
   "name": "PINAR II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.73, 
       "draft": 1.92, 
+      "wetted_surface": 27.6, 
       "main": 39.6, 
       "genoa": 36.1, 
       "displacement": 6084.0, 
-      "spinnaker_asym": 97.0
+      "spinnaker_asym": 97.0, 
+      "crew": 600.0
     }, 
     "year": "1987"
   }, 

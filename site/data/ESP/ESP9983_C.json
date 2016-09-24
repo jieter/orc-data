@@ -5,12 +5,13 @@
       1.01, 
       1.1705
     ], 
-    "gph": 765.1, 
     "triple_inshore": [
       0.5644, 
       0.8101, 
       0.9771
-    ]
+    ], 
+    "gph": 765.1, 
+    "osn": 737.9
   }, 
   "sailnumber": "ESP9983_C", 
   "name": "DON JONAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.2, 
       "draft": 1.71, 
+      "wetted_surface": 21.2, 
       "main": 20.9, 
       "genoa": 29.9, 
       "displacement": 3782.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1979"
   }, 

@@ -5,12 +5,13 @@
       1.1016, 
       1.2642
     ], 
-    "gph": 674.7, 
     "triple_inshore": [
       0.7113, 
       0.887, 
       1.0291
-    ]
+    ], 
+    "gph": 674.7, 
+    "osn": 664.3
   }, 
   "sailnumber": "ESP691_C", 
   "name": "MINIMIMI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.5, 
       "draft": 1.6, 
+      "wetted_surface": 10.9, 
       "main": 23.3, 
       "genoa": 11.6, 
       "displacement": 940.0, 
-      "spinnaker_asym": 60.0
+      "spinnaker_asym": 60.0, 
+      "crew": 80.0
     }, 
     "year": "2007"
   }, 

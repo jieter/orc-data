@@ -5,12 +5,13 @@
       1.048, 
       1.1891
     ], 
-    "gph": 729.8, 
     "triple_inshore": [
       0.6177, 
       0.845, 
       0.9977
-    ]
+    ], 
+    "gph": 729.8, 
+    "osn": 707.6
   }, 
   "sailnumber": "NOR15237", 
   "name": "Alida II", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.3, 
       "loa": 9.53, 
       "draft": 1.81, 
+      "wetted_surface": 20.8, 
       "main": 18.8, 
       "genoa": 29.8, 
       "displacement": 4643.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 498.0
     }, 
     "year": "1975"
   }, 

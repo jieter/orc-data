@@ -5,12 +5,13 @@
       1.2266, 
       1.38
     ], 
-    "gph": 620.3, 
     "triple_inshore": [
       0.7337, 
       0.9968, 
       1.1547
-    ]
+    ], 
+    "gph": 620.3, 
+    "osn": 604.0
   }, 
   "sailnumber": "FIN420", 
   "name": "Nauti 'n' Nolla", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.7, 
       "loa": 10.405, 
       "draft": 2.03, 
+      "wetted_surface": 27.1, 
       "main": 41.6, 
       "genoa": 38.6, 
       "displacement": 5562.0, 
-      "spinnaker_asym": 75.0
+      "spinnaker_asym": 75.0, 
+      "crew": 640.0
     }, 
     "year": "2009"
   }, 

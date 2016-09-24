@@ -5,12 +5,13 @@
       1.24, 
       1.3865
     ], 
-    "gph": 613.0, 
     "triple_inshore": [
       0.7464, 
       1.0105, 
       1.1627
-    ]
+    ], 
+    "gph": 613.0, 
+    "osn": 597.4
   }, 
   "sailnumber": "ESP8707", 
   "name": "POR FIN 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.8, 
       "loa": 10.6, 
       "draft": 2.2, 
+      "wetted_surface": 25.1, 
       "main": 42.5, 
       "genoa": 32.6, 
       "displacement": 4905.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 603.0
     }, 
     "year": "2005"
   }, 

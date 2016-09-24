@@ -5,12 +5,13 @@
       1.1975, 
       1.3631
     ], 
-    "gph": 637.3, 
     "triple_inshore": [
       0.71, 
       0.9778, 
       1.1402
-    ]
+    ], 
+    "gph": 637.3, 
+    "osn": 617.1
   }, 
   "sailnumber": "NED8641", 
   "name": "Njord 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.7, 
       "loa": 9.5, 
       "draft": 1.97, 
+      "wetted_surface": 20.5, 
       "main": 29.1, 
       "genoa": 22.2, 
       "displacement": 3385.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 510.0
     }, 
     "year": "2009"
   }, 

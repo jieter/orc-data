@@ -5,12 +5,13 @@
       1.1957, 
       1.3421
     ], 
-    "gph": 637.5, 
     "triple_inshore": [
       0.711, 
       0.9671, 
       1.1225
-    ]
+    ], 
+    "gph": 637.5, 
+    "osn": 621.0
   }, 
   "sailnumber": "NOR14073", 
   "name": "Bloom", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.4, 
       "loa": 10.36, 
       "draft": 1.92, 
+      "wetted_surface": 26.0, 
       "main": 41.2, 
       "genoa": 29.6, 
       "displacement": 5630.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 635.0
     }, 
     "year": "2007"
   }, 

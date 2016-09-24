@@ -5,12 +5,13 @@
       1.1692, 
       1.2797
     ], 
-    "gph": 644.8, 
     "triple_inshore": [
       0.7305, 
       0.9483, 
       1.0719
-    ]
+    ], 
+    "gph": 644.8, 
+    "osn": 632.6
   }, 
   "sailnumber": "GER888", 
   "name": "HIGH NOON", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.29, 
       "draft": 2.07, 
+      "wetted_surface": 25.5, 
       "main": 37.5, 
       "genoa": 48.1, 
       "displacement": 6171.0, 
-      "spinnaker_asym": 114.0
+      "spinnaker_asym": 114.0, 
+      "crew": 480.0
     }, 
     "year": "1977"
   }, 

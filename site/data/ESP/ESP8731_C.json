@@ -5,12 +5,13 @@
       1.1143, 
       1.2634
     ], 
-    "gph": 684.4, 
     "triple_inshore": [
       0.6591, 
       0.9045, 
       1.0567
-    ]
+    ], 
+    "gph": 684.4, 
+    "osn": 664.7
   }, 
   "sailnumber": "ESP8731_C", 
   "name": "ATILA UNO", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.9, 
       "loa": 8.75, 
       "draft": 1.6, 
+      "wetted_surface": 19.1, 
       "main": 27.1, 
       "genoa": 22.2, 
       "displacement": 3316.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1998"
   }, 

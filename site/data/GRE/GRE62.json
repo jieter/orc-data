@@ -5,12 +5,13 @@
       1.0177, 
       1.1546
     ], 
-    "gph": 749.2, 
     "triple_inshore": [
       0.6033, 
       0.8268, 
       0.968
-    ]
+    ], 
+    "gph": 749.2, 
+    "osn": 727.6
   }, 
   "sailnumber": "GRE62", 
   "name": "GORGO", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.9, 
       "loa": 8.0, 
       "draft": 1.55, 
+      "wetted_surface": 15.5, 
       "main": 21.4, 
       "genoa": 18.3, 
       "displacement": 2550.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1986"
   }, 

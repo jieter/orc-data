@@ -5,12 +5,13 @@
       1.2978, 
       1.5304
     ], 
-    "gph": 584.7, 
     "triple_inshore": [
       0.7721, 
       1.0307, 
       1.2262
-    ]
+    ], 
+    "gph": 584.7, 
+    "osn": 568.0
   }, 
   "sailnumber": "NED8618", 
   "name": "Yin", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.67, 
       "draft": 1.7, 
+      "wetted_surface": 16.3, 
       "main": 27.5, 
       "genoa": 19.5, 
       "displacement": 1300.0, 
-      "spinnaker_asym": 79.0
+      "spinnaker_asym": 79.0, 
+      "crew": 425.0
     }, 
     "year": "2015"
   }, 

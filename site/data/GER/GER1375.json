@@ -5,12 +5,13 @@
       1.547, 
       1.7708
     ], 
-    "gph": 493.9, 
     "triple_inshore": [
       0.9007, 
       1.2361, 
       1.4426
-    ]
+    ], 
+    "gph": 493.9, 
+    "osn": 480.2
   }, 
   "sailnumber": "GER1375", 
   "name": "AQUIS GRANUS IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 205.8, 
       "loa": 16.0, 
       "draft": 3.32, 
+      "wetted_surface": 46.2, 
       "main": 92.6, 
       "genoa": 72.8, 
       "displacement": 9686.0, 
-      "spinnaker_asym": 190.0
+      "spinnaker_asym": 190.0, 
+      "crew": 1200.0
     }, 
     "year": "1997"
   }, 

@@ -5,12 +5,13 @@
       1.037, 
       1.2019
     ], 
-    "gph": 732.3, 
     "triple_inshore": [
       0.6218, 
       0.8495, 
       0.9878
-    ]
+    ], 
+    "gph": 732.3, 
+    "osn": 709.1
   }, 
   "sailnumber": "ROU752", 
   "name": "Loreley", 
@@ -25,10 +26,12 @@
       "spinnaker": 36.9, 
       "loa": 7.06, 
       "draft": 1.55, 
+      "wetted_surface": 10.3, 
       "main": 16.0, 
       "genoa": 11.2, 
       "displacement": 960.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1983"
   }, 

@@ -5,12 +5,13 @@
       1.1765, 
       1.3217
     ], 
-    "gph": 647.9, 
     "triple_inshore": [
       0.6987, 
       0.953, 
       1.1032
-    ]
+    ], 
+    "gph": 647.9, 
+    "osn": 630.9
   }, 
   "sailnumber": "GER4692", 
   "name": "CLASSIX", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.9, 
       "loa": 10.06, 
       "draft": 1.82, 
+      "wetted_surface": 24.2, 
       "main": 35.8, 
       "genoa": 32.5, 
       "displacement": 4543.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 610.0
     }, 
     "year": "1994"
   }, 

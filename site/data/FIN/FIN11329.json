@@ -5,12 +5,13 @@
       1.2972, 
       1.4689
     ], 
-    "gph": 589.5, 
     "triple_inshore": [
       0.7599, 
       1.0464, 
       1.2268
-    ]
+    ], 
+    "gph": 589.5, 
+    "osn": 572.4
   }, 
   "sailnumber": "FIN11329", 
   "name": "Bella del Mare", 
@@ -25,10 +26,12 @@
       "spinnaker": 131.2, 
       "loa": 12.24, 
       "draft": 2.49, 
+      "wetted_surface": 35.1, 
       "main": 53.6, 
       "genoa": 41.1, 
       "displacement": 8183.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 780.0
     }, 
     "year": "2009"
   }, 

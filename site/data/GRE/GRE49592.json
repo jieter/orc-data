@@ -5,12 +5,13 @@
       1.1055, 
       1.3013
     ], 
-    "gph": 698.2, 
     "triple_inshore": [
       0.6179, 
       0.8765, 
       1.0829
-    ]
+    ], 
+    "gph": 698.2, 
+    "osn": 674.0
   }, 
   "sailnumber": "GRE49592", 
   "name": "SEMELE II", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.7, 
       "loa": 11.72, 
       "draft": 2.2, 
+      "wetted_surface": 31.9, 
       "main": 32.5, 
       "genoa": 40.0, 
       "displacement": 8583.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1980"
   }, 

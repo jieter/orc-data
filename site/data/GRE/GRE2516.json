@@ -5,12 +5,13 @@
       1.1141, 
       1.2594
     ], 
-    "gph": 677.9, 
     "triple_inshore": [
       0.6871, 
       0.9139, 
       1.0349
-    ]
+    ], 
+    "gph": 677.9, 
+    "osn": 659.7
   }, 
   "sailnumber": "GRE2516", 
   "name": "MONTANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.4, 
       "loa": 7.515, 
       "draft": 1.6, 
+      "wetted_surface": 12.2, 
       "main": 21.1, 
       "genoa": 12.0, 
       "displacement": 1299.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1995"
   }, 

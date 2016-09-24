@@ -5,12 +5,13 @@
       1.2382, 
       1.434
     ], 
-    "gph": 620.4, 
     "triple_inshore": [
       0.7073, 
       0.9895, 
       1.1943
-    ]
+    ], 
+    "gph": 620.4, 
+    "osn": 600.8
   }, 
   "sailnumber": "ITA15716", 
   "name": "IAIA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 114.9, 
       "loa": 12.49, 
       "draft": 2.13, 
+      "wetted_surface": 34.4, 
       "main": 39.9, 
       "genoa": 44.4, 
       "displacement": 8668.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 780.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       1.1269, 
       1.2889
     ], 
-    "gph": 681.0, 
     "triple_inshore": [
       0.6512, 
       0.9087, 
       1.0761
-    ]
+    ], 
+    "gph": 681.0, 
+    "osn": 658.9
   }, 
   "sailnumber": "GER7113", 
   "name": "LORIOT", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.9, 
       "loa": 9.49, 
       "draft": 1.94, 
+      "wetted_surface": 22.1, 
       "main": 25.8, 
       "genoa": 24.3, 
       "displacement": 3824.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.0461, 
       1.1932
     ], 
-    "gph": 729.0, 
     "triple_inshore": [
       0.6218, 
       0.8557, 
       0.9903
-    ]
+    ], 
+    "gph": 729.0, 
+    "osn": 705.8
   }, 
   "sailnumber": "ESP10052", 
   "name": "CONSTANTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 35.0, 
       "loa": 7.258, 
       "draft": 1.53, 
+      "wetted_surface": 12.5, 
       "main": 15.7, 
       "genoa": 11.8, 
       "displacement": 1333.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 358.0
     }, 
     "year": "2011"
   }, 

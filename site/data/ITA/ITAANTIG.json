@@ -5,12 +5,13 @@
       1.132, 
       1.2884
     ], 
-    "gph": 669.6, 
     "triple_inshore": [
       0.6853, 
       0.9182, 
       1.0549
-    ]
+    ], 
+    "gph": 669.6, 
+    "osn": 651.3
   }, 
   "sailnumber": "ITAANTIG", 
   "name": "ANTIGRAFFIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.032, 
       "draft": 1.51, 
+      "wetted_surface": 13.8, 
       "main": 21.2, 
       "genoa": 14.0, 
       "displacement": 1542.0, 
-      "spinnaker_asym": 64.0
+      "spinnaker_asym": 64.0, 
+      "crew": 340.0
     }, 
     "year": "1997"
   }, 

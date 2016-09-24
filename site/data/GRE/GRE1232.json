@@ -5,12 +5,13 @@
       1.0388, 
       1.1905
     ], 
-    "gph": 738.4, 
     "triple_inshore": [
       0.6013, 
       0.8372, 
       0.9995
-    ]
+    ], 
+    "gph": 738.4, 
+    "osn": 715.3
   }, 
   "sailnumber": "GRE1232", 
   "name": "SOTIRIS JUNIOR", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.9, 
       "loa": 8.995, 
       "draft": 1.78, 
+      "wetted_surface": 19.5, 
       "main": 19.1, 
       "genoa": 30.2, 
       "displacement": 3971.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 497.0
     }, 
     "year": "1981"
   }, 

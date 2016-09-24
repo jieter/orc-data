@@ -5,12 +5,13 @@
       1.2335, 
       1.3806
     ], 
-    "gph": 616.0, 
     "triple_inshore": [
       0.7397, 
       0.9975, 
       1.1544
-    ]
+    ], 
+    "gph": 616.0, 
+    "osn": 601.2
   }, 
   "sailnumber": "NOR11310", 
   "name": "Phi", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.7, 
       "loa": 10.79, 
       "draft": 2.02, 
+      "wetted_surface": 26.8, 
       "main": 42.7, 
       "genoa": 44.0, 
       "displacement": 5894.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 710.0
     }, 
     "year": "2004"
   }, 

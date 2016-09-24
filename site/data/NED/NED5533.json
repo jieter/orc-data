@@ -5,12 +5,13 @@
       1.0512, 
       1.1854
     ], 
-    "gph": 727.1, 
     "triple_inshore": [
       0.6187, 
       0.8511, 
       0.9926
-    ]
+    ], 
+    "gph": 727.1, 
+    "osn": 706.1
   }, 
   "sailnumber": "NED5533", 
   "name": "PRETENDER", 
@@ -25,10 +26,12 @@
       "spinnaker": 47.5, 
       "loa": 8.72, 
       "draft": 1.54, 
+      "wetted_surface": 18.5, 
       "main": 22.5, 
       "genoa": 22.3, 
       "displacement": 3146.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1995"
   }, 

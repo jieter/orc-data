@@ -5,12 +5,13 @@
       1.2311, 
       1.4051
     ], 
-    "gph": 622.8, 
     "triple_inshore": [
       0.7103, 
       0.9856, 
       1.1721
-    ]
+    ], 
+    "gph": 622.8, 
+    "osn": 604.3
   }, 
   "sailnumber": "ITA16351", 
   "name": "KEONDA III", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.3, 
       "loa": 12.016, 
       "draft": 2.19, 
+      "wetted_surface": 32.7, 
       "main": 42.8, 
       "genoa": 44.6, 
       "displacement": 7949.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2000"
   }, 

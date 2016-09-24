@@ -5,12 +5,13 @@
       1.1459, 
       1.2834
     ], 
-    "gph": 663.2, 
     "triple_inshore": [
       0.6878, 
       0.9341, 
       1.0794
-    ]
+    ], 
+    "gph": 663.2, 
+    "osn": 646.5
   }, 
   "sailnumber": "NOR7331", 
   "name": "Fri da'", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.5, 
       "loa": 9.96, 
       "draft": 1.9, 
+      "wetted_surface": 22.2, 
       "main": 31.0, 
       "genoa": 34.5, 
       "displacement": 4536.0, 
-      "spinnaker_asym": 59.0
+      "spinnaker_asym": 59.0, 
+      "crew": 521.0
     }, 
     "year": "1986"
   }, 

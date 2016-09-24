@@ -5,12 +5,13 @@
       1.1183, 
       1.2714
     ], 
-    "gph": 685.8, 
     "triple_inshore": [
       0.6501, 
       0.9026, 
       1.0669
-    ]
+    ], 
+    "gph": 685.8, 
+    "osn": 663.9
   }, 
   "sailnumber": "ESP5219", 
   "name": "TREBOLISIMO DOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.5, 
       "loa": 9.49, 
       "draft": 1.97, 
+      "wetted_surface": 23.0, 
       "main": 25.3, 
       "genoa": 28.6, 
       "displacement": 4340.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1998"
   }, 

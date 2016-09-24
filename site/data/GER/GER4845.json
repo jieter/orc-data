@@ -5,12 +5,13 @@
       1.3536, 
       1.5469
     ], 
-    "gph": 554.0, 
     "triple_inshore": [
       0.8315, 
       1.0782, 
       1.2523
-    ]
+    ], 
+    "gph": 554.0, 
+    "osn": 545.9
   }, 
   "sailnumber": "GER4845", 
   "name": "MAGIC LADY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.63, 
       "draft": 2.3, 
+      "wetted_surface": 22.4, 
       "main": 51.4, 
       "genoa": 28.7, 
       "displacement": 2869.0, 
-      "spinnaker_asym": 120.0
+      "spinnaker_asym": 120.0, 
+      "crew": 600.0
     }, 
     "year": "1997"
   }, 

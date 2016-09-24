@@ -5,12 +5,13 @@
       1.0585, 
       1.1959
     ], 
-    "gph": 722.0, 
     "triple_inshore": [
       0.6261, 
       0.8564, 
       1.0014
-    ]
+    ], 
+    "gph": 722.0, 
+    "osn": 700.4
   }, 
   "sailnumber": "ESP2523", 
   "name": "JANO", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.0, 
       "loa": 9.24, 
       "draft": 1.69, 
+      "wetted_surface": 18.6, 
       "main": 18.9, 
       "genoa": 26.4, 
       "displacement": 3429.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1980"
   }, 

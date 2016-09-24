@@ -5,12 +5,13 @@
       1.1967, 
       1.3592
     ], 
-    "gph": 638.4, 
     "triple_inshore": [
       0.7025, 
       0.9627, 
       1.1376
-    ]
+    ], 
+    "gph": 638.4, 
+    "osn": 619.9
   }, 
   "sailnumber": "NOR10423", 
   "name": "Barolo II", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.5, 
       "loa": 11.25, 
       "draft": 1.94, 
+      "wetted_surface": 30.1, 
       "main": 41.4, 
       "genoa": 33.3, 
       "displacement": 7363.0, 
-      "spinnaker_asym": 94.0
+      "spinnaker_asym": 94.0, 
+      "crew": 712.0
     }, 
     "year": "1999"
   }, 

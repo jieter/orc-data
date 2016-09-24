@@ -5,12 +5,13 @@
       1.1716, 
       1.3134
     ], 
-    "gph": 650.9, 
     "triple_inshore": [
       0.6956, 
       0.9492, 
       1.1
-    ]
+    ], 
+    "gph": 650.9, 
+    "osn": 633.8
   }, 
   "sailnumber": "GER6832", 
   "name": "X-CELERATOR", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.3, 
       "loa": 10.06, 
       "draft": 1.83, 
+      "wetted_surface": 24.5, 
       "main": 35.8, 
       "genoa": 32.9, 
       "displacement": 4750.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 495.0
     }, 
     "year": "1994"
   }, 

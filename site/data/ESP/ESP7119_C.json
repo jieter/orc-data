@@ -5,12 +5,13 @@
       1.135, 
       1.2947
     ], 
-    "gph": 667.4, 
     "triple_inshore": [
       0.6892, 
       0.9344, 
       1.0736
-    ]
+    ], 
+    "gph": 667.4, 
+    "osn": 647.9
   }, 
   "sailnumber": "ESP7119_C", 
   "name": "HADDOCK", 
@@ -25,10 +26,12 @@
       "spinnaker": 44.6, 
       "loa": 7.85, 
       "draft": 1.83, 
+      "wetted_surface": 13.3, 
       "main": 21.8, 
       "genoa": 18.2, 
       "displacement": 1495.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1982"
   }, 

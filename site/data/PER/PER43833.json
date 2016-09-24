@@ -5,12 +5,13 @@
       1.2155, 
       1.3791
     ], 
-    "gph": 628.1, 
     "triple_inshore": [
       0.7167, 
       0.9867, 
       1.1447
-    ]
+    ], 
+    "gph": 628.1, 
+    "osn": 609.9
   }, 
   "sailnumber": "PER43833", 
   "name": "AUDAZ", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.5, 
       "loa": 10.025, 
       "draft": 2.26, 
+      "wetted_surface": 21.6, 
       "main": 35.6, 
       "genoa": 20.2, 
       "displacement": 3103.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "1992"
   }, 

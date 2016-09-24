@@ -5,12 +5,13 @@
       1.3111, 
       1.4967
     ], 
-    "gph": 579.5, 
     "triple_inshore": [
       0.7819, 
       1.0642, 
       1.2303
-    ]
+    ], 
+    "gph": 579.5, 
+    "osn": 564.4
   }, 
   "sailnumber": "KOR6637", 
   "name": "DYANE", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.7, 
       "loa": 10.91, 
       "draft": 2.24, 
+      "wetted_surface": 23.4, 
       "main": 41.3, 
       "genoa": 31.4, 
       "displacement": 3611.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 693.0
     }, 
     "year": "1993"
   }, 

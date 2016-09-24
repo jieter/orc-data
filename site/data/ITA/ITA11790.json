@@ -5,12 +5,13 @@
       1.1421, 
       1.2881
     ], 
-    "gph": 668.0, 
     "triple_inshore": [
       0.6768, 
       0.9247, 
       1.0763
-    ]
+    ], 
+    "gph": 668.0, 
+    "osn": 649.6
   }, 
   "sailnumber": "ITA11790", 
   "name": "SCAMPERIX", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.5, 
       "loa": 10.23, 
       "draft": 1.86, 
+      "wetted_surface": 21.4, 
       "main": 24.9, 
       "genoa": 37.3, 
       "displacement": 4240.0, 
-      "spinnaker_asym": 76.0
+      "spinnaker_asym": 76.0, 
+      "crew": 512.0
     }, 
     "year": "1989"
   }, 

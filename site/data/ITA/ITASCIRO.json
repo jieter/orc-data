@@ -5,12 +5,13 @@
       1.1733, 
       1.3651
     ], 
-    "gph": 656.3, 
     "triple_inshore": [
       0.6592, 
       0.9251, 
       1.1208
-    ]
+    ], 
+    "gph": 656.3, 
+    "osn": 635.9
   }, 
   "sailnumber": "ITASCIRO", 
   "name": "SCIROCCATA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.28, 
       "draft": 2.0, 
+      "wetted_surface": 32.0, 
       "main": 44.3, 
       "genoa": 23.8, 
       "displacement": 7014.0, 
-      "spinnaker_asym": 77.0
+      "spinnaker_asym": 77.0, 
+      "crew": 500.0
     }, 
     "year": "2005"
   }, 

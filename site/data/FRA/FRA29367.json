@@ -5,12 +5,13 @@
       1.2177, 
       1.3622
     ], 
-    "gph": 625.3, 
     "triple_inshore": [
       0.7284, 
       0.989, 
       1.1425
-    ]
+    ], 
+    "gph": 625.3, 
+    "osn": 608.9
   }, 
   "sailnumber": "FRA29367", 
   "name": "IGUANA SUN", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.3, 
       "loa": 10.64, 
       "draft": 2.22, 
+      "wetted_surface": 26.6, 
       "main": 40.1, 
       "genoa": 40.0, 
       "displacement": 5583.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 643.0
     }, 
     "year": "2001"
   }, 

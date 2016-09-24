@@ -5,12 +5,13 @@
       1.2817, 
       1.4449
     ], 
-    "gph": 594.6, 
     "triple_inshore": [
       0.7587, 
       1.0354, 
       1.2074
-    ]
+    ], 
+    "gph": 594.6, 
+    "osn": 579.1
   }, 
   "sailnumber": "NOR11101", 
   "name": "Pepita", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.6, 
       "loa": 11.99, 
       "draft": 2.41, 
+      "wetted_surface": 31.1, 
       "main": 49.4, 
       "genoa": 52.0, 
       "displacement": 6983.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 732.0
     }, 
     "year": "1997"
   }, 

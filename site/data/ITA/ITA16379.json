@@ -5,12 +5,13 @@
       1.2404, 
       1.4176
     ], 
-    "gph": 618.1, 
     "triple_inshore": [
       0.7152, 
       0.9931, 
       1.1807
-    ]
+    ], 
+    "gph": 618.1, 
+    "osn": 599.5
   }, 
   "sailnumber": "ITA16379", 
   "name": "RAFFICA 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.5, 
       "loa": 11.8, 
       "draft": 2.13, 
+      "wetted_surface": 33.4, 
       "main": 49.9, 
       "genoa": 34.6, 
       "displacement": 8316.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "2009"
   }, 

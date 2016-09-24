@@ -5,12 +5,13 @@
       1.2038, 
       1.3635
     ], 
-    "gph": 634.2, 
     "triple_inshore": [
       0.7108, 
       0.9765, 
       1.1453
-    ]
+    ], 
+    "gph": 634.2, 
+    "osn": 615.7
   }, 
   "sailnumber": "NED5568", 
   "name": "Hodspur", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.3, 
       "loa": 10.671, 
       "draft": 2.2, 
+      "wetted_surface": 26.3, 
       "main": 32.7, 
       "genoa": 39.8, 
       "displacement": 5348.0, 
-      "spinnaker_asym": 74.0
+      "spinnaker_asym": 74.0, 
+      "crew": 693.0
     }, 
     "year": "1998"
   }, 

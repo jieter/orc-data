@@ -5,12 +5,13 @@
       1.2848, 
       1.4419
     ], 
-    "gph": 591.3, 
     "triple_inshore": [
       0.7712, 
       1.0394, 
       1.1999
-    ]
+    ], 
+    "gph": 591.3, 
+    "osn": 576.5
   }, 
   "sailnumber": "ITA12240", 
   "name": "FRA DIAVOLO", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.8, 
       "loa": 11.986, 
       "draft": 2.22, 
+      "wetted_surface": 28.0, 
       "main": 48.0, 
       "genoa": 36.1, 
       "displacement": 5349.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 610.0
     }, 
     "year": "1990"
   }, 

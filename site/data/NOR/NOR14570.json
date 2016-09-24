@@ -5,12 +5,13 @@
       1.2718, 
       1.4413
     ], 
-    "gph": 599.2, 
     "triple_inshore": [
       0.755, 
       1.0341, 
       1.2034
-    ]
+    ], 
+    "gph": 599.2, 
+    "osn": 582.1
   }, 
   "sailnumber": "NOR14570", 
   "name": "Marialene", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.6, 
       "draft": 2.34, 
+      "wetted_surface": 26.0, 
       "main": 39.1, 
       "genoa": 31.1, 
       "displacement": 5001.0, 
-      "spinnaker_asym": 110.0
+      "spinnaker_asym": 110.0, 
+      "crew": 670.0
     }, 
     "year": "2009"
   }, 

@@ -5,12 +5,13 @@
       1.1377, 
       1.2795
     ], 
-    "gph": 670.5, 
     "triple_inshore": [
       0.6769, 
       0.9271, 
       1.0745
-    ]
+    ], 
+    "gph": 670.5, 
+    "osn": 650.5
   }, 
   "sailnumber": "NED900C", 
   "name": "Negenhonderd", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.6, 
       "loa": 9.0, 
       "draft": 1.91, 
+      "wetted_surface": 21.4, 
       "main": 31.6, 
       "genoa": 20.8, 
       "displacement": 3735.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 528.0
     }, 
     "year": "2013"
   }, 

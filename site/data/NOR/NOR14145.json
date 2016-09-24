@@ -5,12 +5,13 @@
       1.1757, 
       1.363
     ], 
-    "gph": 653.5, 
     "triple_inshore": [
       0.6666, 
       0.9292, 
       1.1178
-    ]
+    ], 
+    "gph": 653.5, 
+    "osn": 634.4
   }, 
   "sailnumber": "NOR14145", 
   "name": "Cassiopeia", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.1, 
       "loa": 11.91, 
       "draft": 1.71, 
+      "wetted_surface": 31.8, 
       "main": 37.0, 
       "genoa": 39.3, 
       "displacement": 7507.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 736.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       1.2983, 
       1.5035
     ], 
-    "gph": 595.6, 
     "triple_inshore": [
       0.7213, 
       1.0319, 
       1.2379
-    ]
+    ], 
+    "gph": 595.6, 
+    "osn": 575.8
   }, 
   "sailnumber": "ITA16828", 
   "name": "GERONIMO", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.7, 
       "loa": 12.7, 
       "draft": 2.51, 
+      "wetted_surface": 34.7, 
       "main": 48.0, 
       "genoa": 37.9, 
       "displacement": 6960.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 530.0
     }, 
     "year": "2005"
   }, 

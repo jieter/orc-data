@@ -5,12 +5,13 @@
       1.1766, 
       1.337
     ], 
-    "gph": 651.4, 
     "triple_inshore": [
       0.6827, 
       0.9478, 
       1.1166
-    ]
+    ], 
+    "gph": 651.4, 
+    "osn": 631.3
   }, 
   "sailnumber": "ITA15622", 
   "name": "ACUBENS", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.8, 
       "loa": 10.427, 
       "draft": 2.12, 
+      "wetted_surface": 27.3, 
       "main": 29.6, 
       "genoa": 40.6, 
       "displacement": 5481.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 490.0
     }, 
     "year": "2004"
   }, 

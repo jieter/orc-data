@@ -5,12 +5,13 @@
       1.2157, 
       1.3715
     ], 
-    "gph": 627.5, 
     "triple_inshore": [
       0.7174, 
       0.9802, 
       1.1431
-    ]
+    ], 
+    "gph": 627.5, 
+    "osn": 610.8
   }, 
   "sailnumber": "ESP7686_C", 
   "name": "AQUILON", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.3, 
       "loa": 10.972, 
       "draft": 1.96, 
+      "wetted_surface": 27.8, 
       "main": 40.4, 
       "genoa": 39.6, 
       "displacement": 5989.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 479.0
     }, 
     "year": "2001"
   }, 

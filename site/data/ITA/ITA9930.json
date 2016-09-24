@@ -5,12 +5,13 @@
       1.1148, 
       1.2642
     ], 
-    "gph": 685.0, 
     "triple_inshore": [
       0.6548, 
       0.8985, 
       1.0601
-    ]
+    ], 
+    "gph": 685.0, 
+    "osn": 665.9
   }, 
   "sailnumber": "ITA9930", 
   "name": "BLUE DOLPHIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.9, 
       "loa": 10.8, 
       "draft": 1.99, 
+      "wetted_surface": 24.8, 
       "main": 28.1, 
       "genoa": 44.9, 
       "displacement": 5915.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1980"
   }, 

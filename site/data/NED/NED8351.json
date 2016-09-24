@@ -5,12 +5,13 @@
       1.1573, 
       1.3025
     ], 
-    "gph": 658.9, 
     "triple_inshore": [
       0.6884, 
       0.9331, 
       1.0822
-    ]
+    ], 
+    "gph": 658.9, 
+    "osn": 640.2
   }, 
   "sailnumber": "NED8351", 
   "name": "Evolutix 5", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.24, 
       "draft": 1.92, 
+      "wetted_surface": 22.6, 
       "main": 30.0, 
       "genoa": 23.9, 
       "displacement": 4105.0, 
-      "spinnaker_asym": 72.0
+      "spinnaker_asym": 72.0, 
+      "crew": 450.0
     }, 
     "year": "2009"
   }, 

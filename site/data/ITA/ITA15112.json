@@ -5,12 +5,13 @@
       1.2374, 
       1.4033
     ], 
-    "gph": 618.3, 
     "triple_inshore": [
       0.7192, 
       0.989, 
       1.1647
-    ]
+    ], 
+    "gph": 618.3, 
+    "osn": 601.5
   }, 
   "sailnumber": "ITA15112", 
   "name": "FLY AWAY 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.1, 
       "loa": 12.06, 
       "draft": 2.08, 
+      "wetted_surface": 32.7, 
       "main": 48.1, 
       "genoa": 41.0, 
       "displacement": 8221.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 632.0
     }, 
     "year": "2004"
   }, 

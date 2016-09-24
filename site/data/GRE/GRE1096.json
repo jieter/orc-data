@@ -5,12 +5,13 @@
       1.1426, 
       1.3009
     ], 
-    "gph": 669.7, 
     "triple_inshore": [
       0.6613, 
       0.9049, 
       1.0699
-    ]
+    ], 
+    "gph": 669.7, 
+    "osn": 651.9
   }, 
   "sailnumber": "GRE1096", 
   "name": "DIMITRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.9, 
       "loa": 11.3, 
       "draft": 1.64, 
+      "wetted_surface": 30.4, 
       "main": 35.6, 
       "genoa": 45.1, 
       "displacement": 7452.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 700.0
     }, 
     "year": "1988"
   }, 

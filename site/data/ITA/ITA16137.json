@@ -5,12 +5,13 @@
       1.2186, 
       1.3897
     ], 
-    "gph": 628.0, 
     "triple_inshore": [
       0.7078, 
       0.9802, 
       1.1621
-    ]
+    ], 
+    "gph": 628.0, 
+    "osn": 609.7
   }, 
   "sailnumber": "ITA16137", 
   "name": "KAOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.8, 
       "loa": 11.3, 
       "draft": 2.02, 
+      "wetted_surface": 29.4, 
       "main": 43.6, 
       "genoa": 36.2, 
       "displacement": 6710.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.2701, 
       1.4207
     ], 
-    "gph": 601.7, 
     "triple_inshore": [
       0.748, 
       1.0188, 
       1.1771
-    ]
+    ], 
+    "gph": 601.7, 
+    "osn": 585.1
   }, 
   "sailnumber": "NED6586", 
   "name": "Maverick", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.244, 
       "draft": 2.17, 
+      "wetted_surface": 33.1, 
       "main": 46.2, 
       "genoa": 35.2, 
       "displacement": 7121.0, 
-      "spinnaker_asym": 135.0
+      "spinnaker_asym": 135.0, 
+      "crew": 185.0
     }, 
     "year": "1994"
   }, 

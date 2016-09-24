@@ -5,12 +5,13 @@
       1.2729, 
       1.4337
     ], 
-    "gph": 594.9, 
     "triple_inshore": [
       0.7733, 
       1.0288, 
       1.1767
-    ]
+    ], 
+    "gph": 594.9, 
+    "osn": 580.6
   }, 
   "sailnumber": "NOR14541", 
   "name": "Goy pa vannet", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.3, 
       "draft": 2.0, 
+      "wetted_surface": 23.8, 
       "main": 41.9, 
       "genoa": 25.7, 
       "displacement": 3619.0, 
-      "spinnaker_asym": 130.0
+      "spinnaker_asym": 130.0, 
+      "crew": 694.0
     }, 
     "year": "2009"
   }, 

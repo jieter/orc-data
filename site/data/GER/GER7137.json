@@ -5,12 +5,13 @@
       1.0401, 
       1.1905
     ], 
-    "gph": 736.4, 
     "triple_inshore": [
       0.6052, 
       0.8428, 
       1.0053
-    ]
+    ], 
+    "gph": 736.4, 
+    "osn": 713.4
   }, 
   "sailnumber": "GER7137", 
   "name": "SANTANITA", 
@@ -25,10 +26,12 @@
       "spinnaker": 46.2, 
       "loa": 8.57, 
       "draft": 1.55, 
+      "wetted_surface": 17.8, 
       "main": 22.3, 
       "genoa": 18.1, 
       "displacement": 3100.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1985"
   }, 

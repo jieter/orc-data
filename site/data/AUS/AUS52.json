@@ -5,12 +5,13 @@
       1.6719, 
       1.9433
     ], 
-    "gph": 454.1, 
     "triple_inshore": [
       0.9894, 
       1.3221, 
       1.5568
-    ]
+    ], 
+    "gph": 454.1, 
+    "osn": 442.2
   }, 
   "sailnumber": "AUS52", 
   "name": "M3", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.847, 
       "draft": 3.19, 
+      "wetted_surface": 43.6, 
       "main": 94.9, 
       "genoa": 62.0, 
       "displacement": 7498.0, 
-      "spinnaker_asym": 268.0
+      "spinnaker_asym": 268.0, 
+      "crew": 1275.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.2401, 
       1.412
     ], 
-    "gph": 617.8, 
     "triple_inshore": [
       0.7194, 
       0.9948, 
       1.1739
-    ]
+    ], 
+    "gph": 617.8, 
+    "osn": 599.3
   }, 
   "sailnumber": "NED7412", 
   "name": "Blue Swan", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.0, 
       "loa": 11.785, 
       "draft": 1.95, 
+      "wetted_surface": 32.6, 
       "main": 48.3, 
       "genoa": 32.1, 
       "displacement": 7499.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 625.0
     }, 
     "year": "1999"
   }, 

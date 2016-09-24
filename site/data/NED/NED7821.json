@@ -5,12 +5,13 @@
       1.1612, 
       1.3241
     ], 
-    "gph": 659.0, 
     "triple_inshore": [
       0.6813, 
       0.9401, 
       1.1164
-    ]
+    ], 
+    "gph": 659.0, 
+    "osn": 638.2
   }, 
   "sailnumber": "NED7821", 
   "name": "OkiDoki", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.4, 
       "loa": 9.983, 
       "draft": 2.08, 
+      "wetted_surface": 25.4, 
       "main": 32.4, 
       "genoa": 25.4, 
       "displacement": 5513.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 651.0
     }, 
     "year": "2006"
   }, 

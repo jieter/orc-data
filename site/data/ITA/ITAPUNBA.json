@@ -5,12 +5,13 @@
       1.1184, 
       1.3035
     ], 
-    "gph": 691.0, 
     "triple_inshore": [
       0.6157, 
       0.8671, 
       1.043
-    ]
+    ], 
+    "gph": 691.0, 
+    "osn": 670.9
   }, 
   "sailnumber": "ITAPUNBA", 
   "name": "PUNTO E BASTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.71, 
       "draft": 1.56, 
+      "wetted_surface": 31.6, 
       "main": 32.1, 
       "genoa": 45.9, 
       "displacement": 7100.0, 
-      "spinnaker_asym": 100.0
+      "spinnaker_asym": 100.0, 
+      "crew": 600.0
     }, 
     "year": "1999"
   }, 

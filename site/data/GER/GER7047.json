@@ -5,12 +5,13 @@
       1.0835, 
       1.25
     ], 
-    "gph": 707.7, 
     "triple_inshore": [
       0.6235, 
       0.8556, 
       1.0293
-    ]
+    ], 
+    "gph": 707.7, 
+    "osn": 686.3
   }, 
   "sailnumber": "GER7047", 
   "name": "RODE ZORA V. AMSTERDAM", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.87, 
       "draft": 1.85, 
+      "wetted_surface": 39.7, 
       "main": 37.9, 
       "genoa": 42.6, 
       "displacement": 13440.0, 
-      "spinnaker_asym": 121.0
+      "spinnaker_asym": 121.0, 
+      "crew": 490.0
     }, 
     "year": "1995"
   }, 

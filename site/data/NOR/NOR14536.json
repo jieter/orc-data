@@ -5,12 +5,13 @@
       1.1715, 
       1.3331
     ], 
-    "gph": 654.0, 
     "triple_inshore": [
       0.6789, 
       0.9318, 
       1.0924
-    ]
+    ], 
+    "gph": 654.0, 
+    "osn": 635.0
   }, 
   "sailnumber": "NOR14536", 
   "name": "NN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.96, 
       "draft": 1.93, 
+      "wetted_surface": 26.2, 
       "main": 30.9, 
       "genoa": 35.0, 
       "displacement": 5256.0, 
-      "spinnaker_asym": 72.0
+      "spinnaker_asym": 72.0, 
+      "crew": 668.0
     }, 
     "year": "2003"
   }, 

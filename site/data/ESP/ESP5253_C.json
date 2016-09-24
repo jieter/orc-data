@@ -5,12 +5,13 @@
       1.2767, 
       1.4477
     ], 
-    "gph": 598.3, 
     "triple_inshore": [
       0.7495, 
       1.0308, 
       1.2072
-    ]
+    ], 
+    "gph": 598.3, 
+    "osn": 581.5
   }, 
   "sailnumber": "ESP5253_C", 
   "name": "JERONIMO III", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.5, 
       "loa": 11.924, 
       "draft": 2.4, 
+      "wetted_surface": 30.9, 
       "main": 47.8, 
       "genoa": 45.1, 
       "displacement": 6781.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "1997"
   }, 

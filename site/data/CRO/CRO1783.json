@@ -5,12 +5,13 @@
       1.3447, 
       1.5419
     ], 
-    "gph": 570.6, 
     "triple_inshore": [
       0.7725, 
       1.0721, 
       1.276
-    ]
+    ], 
+    "gph": 570.6, 
+    "osn": 553.5
   }, 
   "sailnumber": "CRO1783", 
   "name": "Ceti", 
@@ -25,10 +26,12 @@
       "spinnaker": 163.4, 
       "loa": 14.19, 
       "draft": 2.34, 
+      "wetted_surface": 43.4, 
       "main": 65.3, 
       "genoa": 44.3, 
       "displacement": 12200.0, 
-      "spinnaker_asym": 140.0
+      "spinnaker_asym": 140.0, 
+      "crew": 986.0
     }, 
     "year": "2011"
   }, 

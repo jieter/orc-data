@@ -5,12 +5,13 @@
       1.2515, 
       1.4291
     ], 
-    "gph": 611.5, 
     "triple_inshore": [
       0.7272, 
       1.0043, 
       1.1895
-    ]
+    ], 
+    "gph": 611.5, 
+    "osn": 593.5
   }, 
   "sailnumber": "NOR13488", 
   "name": "Baten", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.98, 
       "draft": 2.11, 
+      "wetted_surface": 32.9, 
       "main": 50.1, 
       "genoa": 34.6, 
       "displacement": 7746.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 797.0
     }, 
     "year": "2001"
   }, 

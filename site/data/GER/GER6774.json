@@ -5,12 +5,13 @@
       1.169, 
       1.3153
     ], 
-    "gph": 652.6, 
     "triple_inshore": [
       0.694, 
       0.947, 
       1.1044
-    ]
+    ], 
+    "gph": 652.6, 
+    "osn": 634.5
   }, 
   "sailnumber": "GER6774", 
   "name": "ANDAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.9, 
       "loa": 10.146, 
       "draft": 1.82, 
+      "wetted_surface": 24.7, 
       "main": 32.4, 
       "genoa": 34.3, 
       "displacement": 5339.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2002"
   }, 

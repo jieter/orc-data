@@ -5,12 +5,13 @@
       1.2812, 
       1.5377
     ], 
-    "gph": 607.6, 
     "triple_inshore": [
       0.6813, 
       0.993, 
       1.234
-    ]
+    ], 
+    "gph": 607.6, 
+    "osn": 586.2
   }, 
   "sailnumber": "CRO2034", 
   "name": "Liberty", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 16.16, 
       "draft": 2.38, 
+      "wetted_surface": 60.2, 
       "main": 60.1, 
       "genoa": 59.8, 
       "displacement": 18600.0, 
-      "spinnaker_asym": 195.0
+      "spinnaker_asym": 195.0, 
+      "crew": 1251.0
     }, 
     "year": "2013"
   }, 

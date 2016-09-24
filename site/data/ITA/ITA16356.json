@@ -5,12 +5,13 @@
       1.2135, 
       1.3696
     ], 
-    "gph": 630.6, 
     "triple_inshore": [
       0.7096, 
       0.9808, 
       1.1446
-    ]
+    ], 
+    "gph": 630.6, 
+    "osn": 612.0
   }, 
   "sailnumber": "ITA16356", 
   "name": "FIRST FUN", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.8, 
       "loa": 10.66, 
       "draft": 2.2, 
+      "wetted_surface": 27.5, 
       "main": 39.8, 
       "genoa": 30.2, 
       "displacement": 5585.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 620.0
     }, 
     "year": "2009"
   }, 

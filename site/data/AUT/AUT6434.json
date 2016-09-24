@@ -5,12 +5,13 @@
       1.2161, 
       1.3604
     ], 
-    "gph": 626.0, 
     "triple_inshore": [
       0.7256, 
       0.9871, 
       1.1345
-    ]
+    ], 
+    "gph": 626.0, 
+    "osn": 610.0
   }, 
   "sailnumber": "AUT6434", 
   "name": "JANDIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.993, 
       "draft": 2.25, 
+      "wetted_surface": 24.5, 
       "main": 36.1, 
       "genoa": 28.6, 
       "displacement": 4419.0, 
-      "spinnaker_asym": 103.0
+      "spinnaker_asym": 103.0, 
+      "crew": 440.0
     }, 
     "year": "2009"
   }, 

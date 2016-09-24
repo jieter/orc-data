@@ -5,12 +5,13 @@
       1.235, 
       1.3993
     ], 
-    "gph": 619.9, 
     "triple_inshore": [
       0.7175, 
       0.9907, 
       1.1584
-    ]
+    ], 
+    "gph": 619.9, 
+    "osn": 602.5
   }, 
   "sailnumber": "ITA16138", 
   "name": "TES", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.0, 
       "loa": 11.22, 
       "draft": 2.03, 
+      "wetted_surface": 28.8, 
       "main": 44.9, 
       "genoa": 33.2, 
       "displacement": 6048.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 690.0
     }, 
     "year": "2006"
   }, 

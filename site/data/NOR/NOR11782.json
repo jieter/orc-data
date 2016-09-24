@@ -5,12 +5,13 @@
       1.1784, 
       1.323
     ], 
-    "gph": 645.0, 
     "triple_inshore": [
       0.7098, 
       0.9558, 
       1.1154
-    ]
+    ], 
+    "gph": 645.0, 
+    "osn": 628.4
   }, 
   "sailnumber": "NOR11782", 
   "name": "Rocky Ocean", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.5, 
       "loa": 11.1, 
       "draft": 2.12, 
+      "wetted_surface": 28.3, 
       "main": 37.1, 
       "genoa": 47.6, 
       "displacement": 7286.0, 
-      "spinnaker_asym": 74.0
+      "spinnaker_asym": 74.0, 
+      "crew": 649.0
     }, 
     "year": "2005"
   }, 

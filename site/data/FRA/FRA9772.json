@@ -5,12 +5,13 @@
       1.0856, 
       1.2429
     ], 
-    "gph": 705.9, 
     "triple_inshore": [
       0.6328, 
       0.8777, 
       1.0421
-    ]
+    ], 
+    "gph": 705.9, 
+    "osn": 683.4
   }, 
   "sailnumber": "FRA9772", 
   "name": "TRADITION BRETAGNE", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.5, 
       "loa": 9.28, 
       "draft": 1.76, 
+      "wetted_surface": 18.2, 
       "main": 18.8, 
       "genoa": 24.6, 
       "displacement": 3300.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 462.0
     }, 
     "year": "1983"
   }, 

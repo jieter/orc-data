@@ -5,12 +5,13 @@
       0.91, 
       1.0355
     ], 
-    "gph": 839.2, 
     "triple_inshore": [
       0.5375, 
       0.7377, 
       0.8699
-    ]
+    ], 
+    "gph": 839.2, 
+    "osn": 814.4
   }, 
   "sailnumber": "NOR2005", 
   "name": "Yr", 
@@ -25,10 +26,12 @@
       "spinnaker": 28.5, 
       "loa": 6.6, 
       "draft": 1.44, 
+      "wetted_surface": 12.5, 
       "main": 11.6, 
       "genoa": 13.2, 
       "displacement": 1725.0, 
-      "spinnaker_asym": 28.0
+      "spinnaker_asym": 28.0, 
+      "crew": 300.0
     }, 
     "year": "1977"
   }, 

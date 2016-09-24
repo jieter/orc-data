@@ -5,12 +5,13 @@
       1.2053, 
       1.365
     ], 
-    "gph": 634.3, 
     "triple_inshore": [
       0.7064, 
       0.9751, 
       1.1423
-    ]
+    ], 
+    "gph": 634.3, 
+    "osn": 616.4
   }, 
   "sailnumber": "NED5418", 
   "name": "Kirsten", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.6, 
       "loa": 11.01, 
       "draft": 2.05, 
+      "wetted_surface": 26.8, 
       "main": 44.8, 
       "genoa": 26.5, 
       "displacement": 5309.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1995"
   }, 

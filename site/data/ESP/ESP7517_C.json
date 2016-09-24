@@ -5,12 +5,13 @@
       1.0558, 
       1.2388
     ], 
-    "gph": 727.2, 
     "triple_inshore": [
       0.6023, 
       0.8478, 
       1.0365
-    ]
+    ], 
+    "gph": 727.2, 
+    "osn": 702.5
   }, 
   "sailnumber": "ESP7517_C", 
   "name": "CONSTANCIA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 52.1, 
       "loa": 8.995, 
       "draft": 1.81, 
+      "wetted_surface": 20.6, 
       "main": 18.9, 
       "genoa": 26.4, 
       "displacement": 3316.0, 
-      "spinnaker_asym": 50.0
+      "spinnaker_asym": 50.0, 
+      "crew": 610.0
     }, 
     "year": "1977"
   }, 

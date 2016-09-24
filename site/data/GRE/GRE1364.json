@@ -5,12 +5,13 @@
       1.0322, 
       1.1932
     ], 
-    "gph": 742.3, 
     "triple_inshore": [
       0.5975, 
       0.8223, 
       0.9912
-    ]
+    ], 
+    "gph": 742.3, 
+    "osn": 719.6
   }, 
   "sailnumber": "GRE1364", 
   "name": "BURGUNDY", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.0, 
       "loa": 9.88, 
       "draft": 1.58, 
+      "wetted_surface": 21.6, 
       "main": 21.4, 
       "genoa": 23.0, 
       "displacement": 4863.0, 
-      "spinnaker_asym": 50.0
+      "spinnaker_asym": 50.0, 
+      "crew": 490.0
     }, 
     "year": "1978"
   }, 

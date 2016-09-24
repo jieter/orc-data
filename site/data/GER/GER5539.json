@@ -5,12 +5,13 @@
       1.2378, 
       1.3937
     ], 
-    "gph": 616.3, 
     "triple_inshore": [
       0.7287, 
       0.9951, 
       1.161
-    ]
+    ], 
+    "gph": 616.3, 
+    "osn": 600.7
   }, 
   "sailnumber": "GER5539", 
   "name": "AURA", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.1, 
       "loa": 11.985, 
       "draft": 2.22, 
+      "wetted_surface": 30.8, 
       "main": 46.8, 
       "genoa": 41.0, 
       "displacement": 6631.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "2000"
   }, 

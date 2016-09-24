@@ -5,12 +5,13 @@
       1.2282, 
       1.4107
     ], 
-    "gph": 617.1, 
     "triple_inshore": [
       0.7373, 
       0.994, 
       1.1469
-    ]
+    ], 
+    "gph": 617.1, 
+    "osn": 601.0
   }, 
   "sailnumber": "GRE301", 
   "name": "KYMATOLIGI", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.6, 
       "loa": 9.529, 
       "draft": 1.98, 
+      "wetted_surface": 20.5, 
       "main": 40.6, 
       "genoa": 18.4, 
       "displacement": 2859.0, 
-      "spinnaker_asym": 94.0
+      "spinnaker_asym": 94.0, 
+      "crew": 690.0
     }, 
     "year": "1993"
   }, 

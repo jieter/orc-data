@@ -5,12 +5,13 @@
       0.86, 
       1.0051
     ], 
-    "gph": 900.6, 
     "triple_inshore": [
       0.4806, 
       0.6891, 
       0.8316
-    ]
+    ], 
+    "gph": 900.6, 
+    "osn": 865.7
   }, 
   "sailnumber": "NOR791", 
   "name": "Rabagast", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.3, 
       "draft": 1.06, 
+      "wetted_surface": 12.7, 
       "main": 10.5, 
       "genoa": 10.2, 
       "displacement": 1482.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 363.0
     }, 
     "year": "1969"
   }, 

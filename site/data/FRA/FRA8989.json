@@ -5,12 +5,13 @@
       1.1817, 
       1.3524
     ], 
-    "gph": 647.4, 
     "triple_inshore": [
       0.6908, 
       0.957, 
       1.1242
-    ]
+    ], 
+    "gph": 647.4, 
+    "osn": 626.9
   }, 
   "sailnumber": "FRA8989", 
   "name": "MARCEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.4, 
       "loa": 9.6, 
       "draft": 2.0, 
+      "wetted_surface": 22.9, 
       "main": 30.7, 
       "genoa": 24.7, 
       "displacement": 3767.0, 
-      "spinnaker_asym": 63.0
+      "spinnaker_asym": 63.0, 
+      "crew": 500.0
     }, 
     "year": "2003"
   }, 

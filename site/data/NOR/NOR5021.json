@@ -5,12 +5,13 @@
       0.9054, 
       1.0232
     ], 
-    "gph": 839.7, 
     "triple_inshore": [
       0.5447, 
       0.743, 
       0.8528
-    ]
+    ], 
+    "gph": 839.7, 
+    "osn": 815.4
   }, 
   "sailnumber": "NOR5021", 
   "name": "Micro'n", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 5.5, 
       "draft": 1.1, 
+      "wetted_surface": 8.9, 
       "main": 11.4, 
       "genoa": 8.5, 
       "displacement": 820.0, 
-      "spinnaker_asym": 17.0
+      "spinnaker_asym": 17.0, 
+      "crew": 256.0
     }, 
     "year": "1980"
   }, 

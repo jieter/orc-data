@@ -5,12 +5,13 @@
       1.1495, 
       1.3056
     ], 
-    "gph": 666.1, 
     "triple_inshore": [
       0.6722, 
       0.9285, 
       1.0935
-    ]
+    ], 
+    "gph": 666.1, 
+    "osn": 645.5
   }, 
   "sailnumber": "ITA16092", 
   "name": "SELVAGGIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.4, 
       "loa": 10.025, 
       "draft": 1.9, 
+      "wetted_surface": 23.6, 
       "main": 32.5, 
       "genoa": 24.0, 
       "displacement": 4705.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1998"
   }, 

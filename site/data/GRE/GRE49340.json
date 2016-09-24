@@ -5,12 +5,13 @@
       0.969, 
       1.1097
     ], 
-    "gph": 791.6, 
     "triple_inshore": [
       0.5606, 
       0.7761, 
       0.9244
-    ]
+    ], 
+    "gph": 791.6, 
+    "osn": 767.3
   }, 
   "sailnumber": "GRE49340", 
   "name": "CONCETTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 51.2, 
       "loa": 7.935, 
       "draft": 1.53, 
+      "wetted_surface": 18.0, 
       "main": 15.2, 
       "genoa": 27.0, 
       "displacement": 3441.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 440.0
     }, 
     "year": "1978"
   }, 

@@ -5,12 +5,13 @@
       1.1773, 
       1.3812
     ], 
-    "gph": 657.7, 
     "triple_inshore": [
       0.6489, 
       0.9238, 
       1.1254
-    ]
+    ], 
+    "gph": 657.7, 
+    "osn": 635.4
   }, 
   "sailnumber": "ITA17151", 
   "name": "CUCCIOLONA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.49, 
       "draft": 2.13, 
+      "wetted_surface": 34.4, 
       "main": 38.3, 
       "genoa": 41.8, 
       "displacement": 8668.0, 
-      "spinnaker_asym": 103.0
+      "spinnaker_asym": 103.0, 
+      "crew": 500.0
     }, 
     "year": "2006"
   }, 

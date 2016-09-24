@@ -5,12 +5,13 @@
       1.1501, 
       1.3098
     ], 
-    "gph": 666.1, 
     "triple_inshore": [
       0.6674, 
       0.9235, 
       1.0928
-    ]
+    ], 
+    "gph": 666.1, 
+    "osn": 646.0
   }, 
   "sailnumber": "ESP7386", 
   "name": "ZEPPELIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.7, 
       "loa": 10.3, 
       "draft": 1.96, 
+      "wetted_surface": 25.6, 
       "main": 30.6, 
       "genoa": 33.8, 
       "displacement": 5443.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "2003"
   }, 

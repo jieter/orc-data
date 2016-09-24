@@ -5,12 +5,13 @@
       1.1841, 
       1.3928
     ], 
-    "gph": 639.2, 
     "triple_inshore": [
       0.7127, 
       0.9568, 
       1.1287
-    ]
+    ], 
+    "gph": 639.2, 
+    "osn": 619.3
   }, 
   "sailnumber": "NED7672", 
   "name": "-", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.37, 
       "draft": 1.5, 
+      "wetted_surface": 12.4, 
       "main": 19.9, 
       "genoa": 11.6, 
       "displacement": 880.0, 
-      "spinnaker_asym": 59.0
+      "spinnaker_asym": 59.0, 
+      "crew": 360.0
     }, 
     "year": "2000"
   }, 

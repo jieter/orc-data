@@ -5,12 +5,13 @@
       1.0547, 
       1.1897
     ], 
-    "gph": 722.0, 
     "triple_inshore": [
       0.6323, 
       0.8574, 
       0.9994
-    ]
+    ], 
+    "gph": 722.0, 
+    "osn": 701.4
   }, 
   "sailnumber": "ITA13090", 
   "name": "NA QUAE", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.3, 
       "loa": 9.065, 
       "draft": 1.68, 
+      "wetted_surface": 18.0, 
       "main": 16.8, 
       "genoa": 30.5, 
       "displacement": 3359.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 457.0
     }, 
     "year": "1975"
   }, 

@@ -5,12 +5,13 @@
       1.2549, 
       1.4194
     ], 
-    "gph": 608.6, 
     "triple_inshore": [
       0.7335, 
       1.0047, 
       1.1726
-    ]
+    ], 
+    "gph": 608.6, 
+    "osn": 593.0
   }, 
   "sailnumber": "ITA16033", 
   "name": "NON SOLO CIURMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.6, 
       "loa": 11.91, 
       "draft": 1.9, 
+      "wetted_surface": 31.2, 
       "main": 46.5, 
       "genoa": 49.1, 
       "displacement": 7004.0, 
-      "spinnaker_asym": 96.0
+      "spinnaker_asym": 96.0, 
+      "crew": 790.0
     }, 
     "year": "1997"
   }, 

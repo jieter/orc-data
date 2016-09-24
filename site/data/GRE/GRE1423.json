@@ -5,12 +5,13 @@
       1.1118, 
       1.3242
     ], 
-    "gph": 698.0, 
     "triple_inshore": [
       0.6044, 
       0.8742, 
       1.0877
-    ]
+    ], 
+    "gph": 698.0, 
+    "osn": 672.4
   }, 
   "sailnumber": "GRE1423", 
   "name": "AEOLIAN TOO", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.4, 
       "loa": 11.624, 
       "draft": 1.9, 
+      "wetted_surface": 31.9, 
       "main": 30.9, 
       "genoa": 39.0, 
       "displacement": 7650.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "1999"
   }, 

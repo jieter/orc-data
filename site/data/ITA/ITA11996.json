@@ -5,12 +5,13 @@
       1.2658, 
       1.4321
     ], 
-    "gph": 602.2, 
     "triple_inshore": [
       0.7498, 
       1.0215, 
       1.1972
-    ]
+    ], 
+    "gph": 602.2, 
+    "osn": 586.1
   }, 
   "sailnumber": "ITA11996", 
   "name": "ESPRIT 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 119.4, 
       "loa": 12.5, 
       "draft": 2.22, 
+      "wetted_surface": 31.6, 
       "main": 42.8, 
       "genoa": 58.3, 
       "displacement": 7648.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1991"
   }, 

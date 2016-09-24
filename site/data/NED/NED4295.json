@@ -5,12 +5,13 @@
       1.1292, 
       1.273
     ], 
-    "gph": 673.3, 
     "triple_inshore": [
       0.6792, 
       0.9098, 
       1.0673
-    ]
+    ], 
+    "gph": 673.3, 
+    "osn": 656.2
   }, 
   "sailnumber": "NED4295", 
   "name": "DE WESTFRIES", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.6, 
       "loa": 11.01, 
       "draft": 1.94, 
+      "wetted_surface": 29.4, 
       "main": 31.8, 
       "genoa": 53.6, 
       "displacement": 8635.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 603.0
     }, 
     "year": "1974"
   }, 

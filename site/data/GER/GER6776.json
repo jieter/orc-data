@@ -5,12 +5,13 @@
       1.4114, 
       1.6183
     ], 
-    "gph": 532.9, 
     "triple_inshore": [
       0.8723, 
       1.1349, 
       1.3174
-    ]
+    ], 
+    "gph": 532.9, 
+    "osn": 520.8
   }, 
   "sailnumber": "GER6776", 
   "name": "HIT", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.369, 
       "draft": 2.63, 
+      "wetted_surface": 24.9, 
       "main": 55.9, 
       "genoa": 34.8, 
       "displacement": 3628.0, 
-      "spinnaker_asym": 139.0
+      "spinnaker_asym": 139.0, 
+      "crew": 694.0
     }, 
     "year": "2004"
   }, 

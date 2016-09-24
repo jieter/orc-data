@@ -5,12 +5,13 @@
       1.2696, 
       1.4268
     ], 
-    "gph": 598.3, 
     "triple_inshore": [
       0.7633, 
       1.0304, 
       1.1944
-    ]
+    ], 
+    "gph": 598.3, 
+    "osn": 583.2
   }, 
   "sailnumber": "ITA12245", 
   "name": "CHARLIE VICTOR", 
@@ -25,10 +26,12 @@
       "spinnaker": 112.5, 
       "loa": 12.06, 
       "draft": 2.19, 
+      "wetted_surface": 28.6, 
       "main": 42.2, 
       "genoa": 51.9, 
       "displacement": 6089.0, 
-      "spinnaker_asym": 98.0
+      "spinnaker_asym": 98.0, 
+      "crew": 670.0
     }, 
     "year": "1991"
   }, 

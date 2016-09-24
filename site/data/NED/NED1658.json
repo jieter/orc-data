@@ -5,12 +5,13 @@
       0.9793, 
       1.119
     ], 
-    "gph": 783.6, 
     "triple_inshore": [
       0.5669, 
       0.7904, 
       0.9323
-    ]
+    ], 
+    "gph": 783.6, 
+    "osn": 758.8
   }, 
   "sailnumber": "NED1658", 
   "name": "Blue Note", 
@@ -25,10 +26,12 @@
       "spinnaker": 37.3, 
       "loa": 7.42, 
       "draft": 1.53, 
+      "wetted_surface": 12.8, 
       "main": 12.1, 
       "genoa": 20.5, 
       "displacement": 1786.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 367.0
     }, 
     "year": "1976"
   }, 

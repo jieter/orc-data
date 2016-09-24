@@ -5,12 +5,13 @@
       1.2693, 
       1.4211
     ], 
-    "gph": 600.3, 
     "triple_inshore": [
       0.7508, 
       1.0188, 
       1.1934
-    ]
+    ], 
+    "gph": 600.3, 
+    "osn": 586.2
   }, 
   "sailnumber": "GER4643", 
   "name": "LUCIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 118.8, 
       "loa": 13.07, 
       "draft": 2.29, 
+      "wetted_surface": 34.3, 
       "main": 55.1, 
       "genoa": 53.0, 
       "displacement": 9447.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 410.0
     }, 
     "year": "1992"
   }, 

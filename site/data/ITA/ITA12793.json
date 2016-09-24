@@ -5,12 +5,13 @@
       1.1137, 
       1.2636
     ], 
-    "gph": 680.9, 
     "triple_inshore": [
       0.6735, 
       0.9053, 
       1.0279
-    ]
+    ], 
+    "gph": 680.9, 
+    "osn": 662.8
   }, 
   "sailnumber": "ITA12793", 
   "name": "CHEST' E'", 
@@ -25,10 +26,12 @@
       "spinnaker": 39.8, 
       "loa": 7.495, 
       "draft": 1.68, 
+      "wetted_surface": 12.7, 
       "main": 19.8, 
       "genoa": 14.5, 
       "displacement": 1123.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 385.0
     }, 
     "year": "1994"
   }, 

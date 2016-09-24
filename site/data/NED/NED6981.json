@@ -5,12 +5,13 @@
       1.2188, 
       1.3606
     ], 
-    "gph": 623.7, 
     "triple_inshore": [
       0.7319, 
       0.9881, 
       1.1404
-    ]
+    ], 
+    "gph": 623.7, 
+    "osn": 608.8
   }, 
   "sailnumber": "NED6981", 
   "name": "First by Farr", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.7, 
       "loa": 10.64, 
       "draft": 2.22, 
+      "wetted_surface": 26.6, 
       "main": 41.3, 
       "genoa": 45.1, 
       "displacement": 5589.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 610.0
     }, 
     "year": "2001"
   }, 

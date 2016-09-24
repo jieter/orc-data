@@ -5,12 +5,13 @@
       1.0776, 
       1.2207
     ], 
-    "gph": 709.7, 
     "triple_inshore": [
       0.63, 
       0.8723, 
       1.0173
-    ]
+    ], 
+    "gph": 709.7, 
+    "osn": 688.9
   }, 
   "sailnumber": "NOR7213", 
   "name": "Madam Larsen", 
@@ -25,10 +26,12 @@
       "spinnaker": 50.7, 
       "loa": 8.88, 
       "draft": 1.54, 
+      "wetted_surface": 17.4, 
       "main": 22.8, 
       "genoa": 22.3, 
       "displacement": 2723.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 473.0
     }, 
     "year": "1985"
   }, 

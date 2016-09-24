@@ -5,12 +5,13 @@
       1.0852, 
       1.2277
     ], 
-    "gph": 704.0, 
     "triple_inshore": [
       0.642, 
       0.8781, 
       1.0324
-    ]
+    ], 
+    "gph": 704.0, 
+    "osn": 682.8
   }, 
   "sailnumber": "ESP3009", 
   "name": "VENTOLINA IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.1, 
       "loa": 9.75, 
       "draft": 1.87, 
+      "wetted_surface": 22.1, 
       "main": 21.6, 
       "genoa": 33.3, 
       "displacement": 4655.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 410.0
     }, 
     "year": "1985"
   }, 

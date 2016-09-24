@@ -5,12 +5,13 @@
       1.4694, 
       1.6898
     ], 
-    "gph": 517.3, 
     "triple_inshore": [
       0.8581, 
       1.1591, 
       1.3662
-    ]
+    ], 
+    "gph": 517.3, 
+    "osn": 506.4
   }, 
   "sailnumber": "HUN12214", 
   "name": "Amadeus", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.85, 
       "draft": 2.67, 
+      "wetted_surface": 36.8, 
       "main": 68.8, 
       "genoa": 73.0, 
       "displacement": 6025.0, 
-      "spinnaker_asym": 179.0
+      "spinnaker_asym": 179.0, 
+      "crew": 800.0
     }, 
     "year": "1991"
   }, 

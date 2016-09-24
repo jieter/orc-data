@@ -5,12 +5,13 @@
       1.3041, 
       1.4588
     ], 
-    "gph": 583.9, 
     "triple_inshore": [
       0.7777, 
       1.0489, 
       1.1982
-    ]
+    ], 
+    "gph": 583.9, 
+    "osn": 569.2
   }, 
   "sailnumber": "JPN5910", 
   "name": "KINE KINE 11", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.1, 
       "draft": 2.38, 
+      "wetted_surface": 30.0, 
       "main": 51.1, 
       "genoa": 38.4, 
       "displacement": 5990.0, 
-      "spinnaker_asym": 127.0
+      "spinnaker_asym": 127.0, 
+      "crew": 700.0
     }, 
     "year": "2000"
   }, 

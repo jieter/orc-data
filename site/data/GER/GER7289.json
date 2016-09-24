@@ -5,12 +5,13 @@
       1.1197, 
       1.3003
     ], 
-    "gph": 687.8, 
     "triple_inshore": [
       0.6305, 
       0.8868, 
       1.0712
-    ]
+    ], 
+    "gph": 687.8, 
+    "osn": 666.0
   }, 
   "sailnumber": "GER7289", 
   "name": "NILFRIED II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.8, 
       "draft": 1.67, 
+      "wetted_surface": 26.7, 
       "main": 30.6, 
       "genoa": 33.3, 
       "displacement": 5838.0, 
-      "spinnaker_asym": 63.0
+      "spinnaker_asym": 63.0, 
+      "crew": 600.0
     }, 
     "year": "2000"
   }, 

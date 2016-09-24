@@ -5,12 +5,13 @@
       1.1958, 
       1.3352
     ], 
-    "gph": 633.6, 
     "triple_inshore": [
       0.7269, 
       0.9746, 
       1.1269
-    ]
+    ], 
+    "gph": 633.6, 
+    "osn": 618.9
   }, 
   "sailnumber": "NOR6478", 
   "name": "Banzai", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.1, 
       "loa": 11.51, 
       "draft": 2.23, 
+      "wetted_surface": 27.6, 
       "main": 49.6, 
       "genoa": 43.9, 
       "displacement": 6478.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 631.0
     }, 
     "year": "1986"
   }, 

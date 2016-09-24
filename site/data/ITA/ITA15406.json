@@ -5,12 +5,13 @@
       1.3104, 
       1.5237
     ], 
-    "gph": 590.3, 
     "triple_inshore": [
       0.7253, 
       1.041, 
       1.2506
-    ]
+    ], 
+    "gph": 590.3, 
+    "osn": 570.6
   }, 
   "sailnumber": "ITA15406", 
   "name": "FIERAMOSCA", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.7, 
       "loa": 12.7, 
       "draft": 2.5, 
+      "wetted_surface": 34.4, 
       "main": 53.2, 
       "genoa": 38.3, 
       "displacement": 6789.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 835.0
     }, 
     "year": "2006"
   }, 

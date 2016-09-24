@@ -5,12 +5,13 @@
       1.1965, 
       1.3511
     ], 
-    "gph": 637.7, 
     "triple_inshore": [
       0.7064, 
       0.9609, 
       1.1205
-    ]
+    ], 
+    "gph": 637.7, 
+    "osn": 620.5
   }, 
   "sailnumber": "NED7872", 
   "name": "Maxima", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.95, 
       "draft": 2.22, 
+      "wetted_surface": 27.3, 
       "main": 41.8, 
       "genoa": 29.1, 
       "displacement": 5674.0, 
-      "spinnaker_asym": 77.0
+      "spinnaker_asym": 77.0, 
+      "crew": 710.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       1.2572, 
       1.4267
     ], 
-    "gph": 608.2, 
     "triple_inshore": [
       0.7332, 
       1.0097, 
       1.1876
-    ]
+    ], 
+    "gph": 608.2, 
+    "osn": 591.4
   }, 
   "sailnumber": "NOR11075", 
   "name": "Blia", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.0, 
       "loa": 12.06, 
       "draft": 2.08, 
+      "wetted_surface": 32.0, 
       "main": 48.5, 
       "genoa": 44.5, 
       "displacement": 7640.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 758.0
     }, 
     "year": "2001"
   }, 

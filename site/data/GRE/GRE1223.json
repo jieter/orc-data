@@ -5,12 +5,13 @@
       1.2023, 
       1.3745
     ], 
-    "gph": 637.4, 
     "triple_inshore": [
       0.6896, 
       0.953, 
       1.1335
-    ]
+    ], 
+    "gph": 637.4, 
+    "osn": 620.1
   }, 
   "sailnumber": "GRE1223", 
   "name": "CHIMERA", 
@@ -25,10 +26,12 @@
       "spinnaker": 112.4, 
       "loa": 12.772, 
       "draft": 1.91, 
+      "wetted_surface": 34.4, 
       "main": 43.0, 
       "genoa": 51.0, 
       "displacement": 9058.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "1998"
   }, 

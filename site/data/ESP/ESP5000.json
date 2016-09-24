@@ -5,12 +5,13 @@
       1.2274, 
       1.3991
     ], 
-    "gph": 621.7, 
     "triple_inshore": [
       0.7204, 
       0.9895, 
       1.1551
-    ]
+    ], 
+    "gph": 621.7, 
+    "osn": 605.0
   }, 
   "sailnumber": "ESP5000", 
   "name": "Bunda", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.6, 
       "loa": 10.632, 
       "draft": 2.0, 
+      "wetted_surface": 24.7, 
       "main": 41.6, 
       "genoa": 28.7, 
       "displacement": 4124.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1991"
   }, 

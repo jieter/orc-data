@@ -5,12 +5,13 @@
       1.1368, 
       1.3328
     ], 
-    "gph": 662.6, 
     "triple_inshore": [
       0.7001, 
       0.9083, 
       1.0592
-    ]
+    ], 
+    "gph": 662.6, 
+    "osn": 645.0
   }, 
   "sailnumber": "NOR11427", 
   "name": "ANNA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.5, 
       "draft": 1.29, 
+      "wetted_surface": 9.4, 
       "main": 18.5, 
       "genoa": 9.1, 
       "displacement": 629.0, 
-      "spinnaker_asym": 37.0
+      "spinnaker_asym": 37.0, 
+      "crew": 317.0
     }, 
     "year": "2003"
   }, 

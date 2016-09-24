@@ -5,12 +5,13 @@
       1.1947, 
       1.3165
     ], 
-    "gph": 631.4, 
     "triple_inshore": [
       0.7316, 
       0.9592, 
       1.0823
-    ]
+    ], 
+    "gph": 631.4, 
+    "osn": 620.5
   }, 
   "sailnumber": "ITA30LOD", 
   "name": "30 e LODE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.46, 
       "draft": 1.93, 
+      "wetted_surface": 23.1, 
       "main": 34.4, 
       "genoa": 28.4, 
       "displacement": 3951.0, 
-      "spinnaker_asym": 97.0
+      "spinnaker_asym": 97.0, 
+      "crew": 180.0
     }, 
     "year": "2010"
   }, 

@@ -5,12 +5,13 @@
       1.0758, 
       1.2423
     ], 
-    "gph": 700.5, 
     "triple_inshore": [
       0.6645, 
       0.8653, 
       0.9981
-    ]
+    ], 
+    "gph": 700.5, 
+    "osn": 684.3
   }, 
   "sailnumber": "ESP450_C", 
   "name": "FAST FELSON", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.5, 
       "draft": 1.6, 
+      "wetted_surface": 14.5, 
       "main": 20.5, 
       "genoa": 20.4, 
       "displacement": 1237.0, 
-      "spinnaker_asym": 66.0
+      "spinnaker_asym": 66.0, 
+      "crew": 140.0
     }, 
     "year": "2003"
   }, 

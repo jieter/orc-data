@@ -5,12 +5,13 @@
       1.1529, 
       1.3269
     ], 
-    "gph": 664.7, 
     "triple_inshore": [
       0.6663, 
       0.9252, 
       1.1115
-    ]
+    ], 
+    "gph": 664.7, 
+    "osn": 644.5
   }, 
   "sailnumber": "NED8505", 
   "name": "Jadwiga 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.0, 
       "loa": 11.01, 
       "draft": 1.85, 
+      "wetted_surface": 28.0, 
       "main": 38.4, 
       "genoa": 26.9, 
       "displacement": 6190.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 645.0
     }, 
     "year": "1988"
   }, 

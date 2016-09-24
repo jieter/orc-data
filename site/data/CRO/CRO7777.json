@@ -5,12 +5,13 @@
       1.3875, 
       1.5871
     ], 
-    "gph": 545.9, 
     "triple_inshore": [
       0.8396, 
       1.1236, 
       1.2973
-    ]
+    ], 
+    "gph": 545.9, 
+    "osn": 530.8
   }, 
   "sailnumber": "CRO7777", 
   "name": "DSK X-Treme", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.369, 
       "draft": 2.66, 
+      "wetted_surface": 25.7, 
       "main": 48.6, 
       "genoa": 34.6, 
       "displacement": 4110.0, 
-      "spinnaker_asym": 135.0
+      "spinnaker_asym": 135.0, 
+      "crew": 725.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.2537, 
       1.4072
     ], 
-    "gph": 608.2, 
     "triple_inshore": [
       0.7397, 
       1.0015, 
       1.1555
-    ]
+    ], 
+    "gph": 608.2, 
+    "osn": 593.2
   }, 
   "sailnumber": "NOR12525", 
   "name": "ARA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.25, 
       "draft": 1.98, 
+      "wetted_surface": 31.0, 
       "main": 49.5, 
       "genoa": 44.6, 
       "displacement": 6526.0, 
-      "spinnaker_asym": 103.0
+      "spinnaker_asym": 103.0, 
+      "crew": 738.0
     }, 
     "year": "2005"
   }, 

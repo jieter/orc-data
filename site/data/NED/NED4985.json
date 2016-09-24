@@ -5,12 +5,13 @@
       1.0539, 
       1.1995
     ], 
-    "gph": 725.8, 
     "triple_inshore": [
       0.6181, 
       0.8508, 
       1.0055
-    ]
+    ], 
+    "gph": 725.8, 
+    "osn": 703.9
   }, 
   "sailnumber": "NED4985", 
   "name": "AVALON", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.7, 
       "loa": 9.2, 
       "draft": 1.7, 
+      "wetted_surface": 18.8, 
       "main": 20.0, 
       "genoa": 25.5, 
       "displacement": 3554.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1982"
   }, 

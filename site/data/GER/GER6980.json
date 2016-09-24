@@ -5,12 +5,13 @@
       1.2452, 
       1.407
     ], 
-    "gph": 612.8, 
     "triple_inshore": [
       0.7351, 
       1.0013, 
       1.1745
-    ]
+    ], 
+    "gph": 612.8, 
+    "osn": 596.5
   }, 
   "sailnumber": "GER6980", 
   "name": "ROXY", 
@@ -25,10 +26,12 @@
       "spinnaker": 114.9, 
       "loa": 12.52, 
       "draft": 2.13, 
+      "wetted_surface": 32.0, 
       "main": 40.8, 
       "genoa": 53.9, 
       "displacement": 7873.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "1991"
   }, 

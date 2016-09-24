@@ -5,12 +5,13 @@
       1.2283, 
       1.3937
     ], 
-    "gph": 623.1, 
     "triple_inshore": [
       0.7143, 
       0.9851, 
       1.158
-    ]
+    ], 
+    "gph": 623.1, 
+    "osn": 605.4
   }, 
   "sailnumber": "CRO1915", 
   "name": "Red Wine", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.9, 
       "loa": 11.462, 
       "draft": 2.07, 
+      "wetted_surface": 30.5, 
       "main": 43.8, 
       "genoa": 39.2, 
       "displacement": 6929.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 736.0
     }, 
     "year": "2011"
   }, 

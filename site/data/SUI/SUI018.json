@@ -5,12 +5,13 @@
       1.2642, 
       1.4875
     ], 
-    "gph": 595.6, 
     "triple_inshore": [
       0.7808, 
       1.018, 
       1.2313
-    ]
+    ], 
+    "gph": 595.6, 
+    "osn": 578.7
   }, 
   "sailnumber": "SUI018", 
   "name": "OOPS...", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.5, 
       "draft": 1.7, 
+      "wetted_surface": 7.9, 
       "main": 17.7, 
       "genoa": 7.7, 
       "displacement": 351.0, 
-      "spinnaker_asym": 49.0
+      "spinnaker_asym": 49.0, 
+      "crew": 270.0
     }, 
     "year": "2008"
   }, 

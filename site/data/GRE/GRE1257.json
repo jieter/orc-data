@@ -5,12 +5,13 @@
       1.1054, 
       1.2557
     ], 
-    "gph": 693.2, 
     "triple_inshore": [
       0.6442, 
       0.8833, 
       1.0416
-    ]
+    ], 
+    "gph": 693.2, 
+    "osn": 672.0
   }, 
   "sailnumber": "GRE1257", 
   "name": "LINA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.44, 
       "draft": 2.0, 
+      "wetted_surface": 22.6, 
       "main": 25.3, 
       "genoa": 26.7, 
       "displacement": 4450.0, 
-      "spinnaker_asym": 64.0
+      "spinnaker_asym": 64.0, 
+      "crew": 540.0
     }, 
     "year": "2001"
   }, 

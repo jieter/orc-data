@@ -5,12 +5,13 @@
       1.23, 
       1.3911
     ], 
-    "gph": 620.6, 
     "triple_inshore": [
       0.727, 
       0.9951, 
       1.1608
-    ]
+    ], 
+    "gph": 620.6, 
+    "osn": 602.9
   }, 
   "sailnumber": "GRE18", 
   "name": "NEOROS", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.0, 
       "loa": 11.36, 
       "draft": 2.1, 
+      "wetted_surface": 27.6, 
       "main": 38.1, 
       "genoa": 35.6, 
       "displacement": 5460.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1992"
   }, 

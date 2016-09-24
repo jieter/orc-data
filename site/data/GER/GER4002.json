@@ -5,12 +5,13 @@
       1.1771, 
       1.3354
     ], 
-    "gph": 649.3, 
     "triple_inshore": [
       0.6884, 
       0.9472, 
       1.1184
-    ]
+    ], 
+    "gph": 649.3, 
+    "osn": 631.1
   }, 
   "sailnumber": "GER4002", 
   "name": "INSCHALLAH", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.7, 
       "loa": 11.378, 
       "draft": 1.99, 
+      "wetted_surface": 30.0, 
       "main": 42.0, 
       "genoa": 41.3, 
       "displacement": 6955.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1990"
   }, 

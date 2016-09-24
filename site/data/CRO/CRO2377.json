@@ -5,12 +5,13 @@
       1.2412, 
       1.4453
     ], 
-    "gph": 622.3, 
     "triple_inshore": [
       0.6893, 
       0.9723, 
       1.1732
-    ]
+    ], 
+    "gph": 622.3, 
+    "osn": 602.6
   }, 
   "sailnumber": "CRO2377", 
   "name": "Seaway", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.5, 
       "draft": 2.15, 
+      "wetted_surface": 41.2, 
       "main": 56.6, 
       "genoa": 38.6, 
       "displacement": 11600.0, 
-      "spinnaker_asym": 140.0
+      "spinnaker_asym": 140.0, 
+      "crew": 934.0
     }, 
     "year": "2014"
   }, 

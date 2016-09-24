@@ -5,12 +5,13 @@
       1.4212, 
       1.6203
     ], 
-    "gph": 539.2, 
     "triple_inshore": [
       0.8173, 
       1.1266, 
       1.3428
-    ]
+    ], 
+    "gph": 539.2, 
+    "osn": 525.1
   }, 
   "sailnumber": "ESP6237", 
   "name": "CLEM", 
@@ -25,10 +26,12 @@
       "spinnaker": 221.6, 
       "loa": 17.175, 
       "draft": 2.69, 
+      "wetted_surface": 57.9, 
       "main": 78.6, 
       "genoa": 102.0, 
       "displacement": 20154.0, 
-      "spinnaker_asym": 213.0
+      "spinnaker_asym": 213.0, 
+      "crew": 1246.0
     }, 
     "year": "1997"
   }, 

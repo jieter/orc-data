@@ -5,12 +5,13 @@
       0.9409, 
       1.0949
     ], 
-    "gph": 818.3, 
     "triple_inshore": [
       0.5339, 
       0.756, 
       0.9167
-    ]
+    ], 
+    "gph": 818.3, 
+    "osn": 789.9
   }, 
   "sailnumber": "GRE49499", 
   "name": "MUSICA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.32, 
       "draft": 1.48, 
+      "wetted_surface": 17.1, 
       "main": 14.9, 
       "genoa": 23.1, 
       "displacement": 3053.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 390.0
     }, 
     "year": "1981"
   }, 

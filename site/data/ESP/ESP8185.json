@@ -5,12 +5,13 @@
       1.1727, 
       1.324
     ], 
-    "gph": 651.6, 
     "triple_inshore": [
       0.6892, 
       0.9451, 
       1.1035
-    ]
+    ], 
+    "gph": 651.6, 
+    "osn": 633.3
   }, 
   "sailnumber": "ESP8185", 
   "name": "SAONA", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.4, 
       "loa": 10.3, 
       "draft": 1.95, 
+      "wetted_surface": 25.3, 
       "main": 33.6, 
       "genoa": 35.5, 
       "displacement": 5243.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 507.0
     }, 
     "year": "2003"
   }, 

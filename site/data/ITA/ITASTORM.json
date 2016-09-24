@@ -5,12 +5,13 @@
       0.9306, 
       1.0333
     ], 
-    "gph": 818.1, 
     "triple_inshore": [
       0.56, 
       0.7581, 
       0.8536
-    ]
+    ], 
+    "gph": 818.1, 
+    "osn": 795.7
   }, 
   "sailnumber": "ITASTORM", 
   "name": "STORM", 
@@ -25,10 +26,12 @@
       "spinnaker": 30.8, 
       "loa": 6.65, 
       "draft": 1.26, 
+      "wetted_surface": 10.9, 
       "main": 11.6, 
       "genoa": 14.4, 
       "displacement": 1048.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 240.0
     }, 
     "year": "1977"
   }, 

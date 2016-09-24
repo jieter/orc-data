@@ -5,12 +5,13 @@
       1.1029, 
       1.2821
     ], 
-    "gph": 679.4, 
     "triple_inshore": [
       0.6964, 
       0.8915, 
       1.0538
-    ]
+    ], 
+    "gph": 679.4, 
+    "osn": 660.8
   }, 
   "sailnumber": "ITA4M20", 
   "name": "NAIAD", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.1, 
       "draft": 1.39, 
+      "wetted_surface": 8.0, 
       "main": 16.1, 
       "genoa": 9.1, 
       "displacement": 514.0, 
-      "spinnaker_asym": 40.0
+      "spinnaker_asym": 40.0, 
+      "crew": 223.0
     }, 
     "year": "2008"
   }, 

@@ -5,12 +5,13 @@
       1.1573, 
       1.3207
     ], 
-    "gph": 663.4, 
     "triple_inshore": [
       0.665, 
       0.9182, 
       1.0852
-    ]
+    ], 
+    "gph": 663.4, 
+    "osn": 643.6
   }, 
   "sailnumber": "ESP9259_C", 
   "name": "UN DESIG", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.04, 
       "draft": 2.06, 
+      "wetted_surface": 26.9, 
       "main": 29.6, 
       "genoa": 35.1, 
       "displacement": 5692.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 360.0
     }, 
     "year": "2002"
   }, 

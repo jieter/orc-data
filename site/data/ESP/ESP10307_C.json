@@ -5,12 +5,13 @@
       1.0909, 
       1.2535
     ], 
-    "gph": 701.8, 
     "triple_inshore": [
       0.6298, 
       0.8659, 
       1.0329
-    ]
+    ], 
+    "gph": 701.8, 
+    "osn": 682.6
   }, 
   "sailnumber": "ESP10307_C", 
   "name": "JANSEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.62, 
       "draft": 1.72, 
+      "wetted_surface": 22.2, 
       "main": 23.6, 
       "genoa": 33.0, 
       "displacement": 4306.0, 
-      "spinnaker_asym": 63.0
+      "spinnaker_asym": 63.0, 
+      "crew": 480.0
     }, 
     "year": "1996"
   }, 

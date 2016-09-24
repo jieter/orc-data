@@ -5,12 +5,13 @@
       1.232, 
       1.3928
     ], 
-    "gph": 621.5, 
     "triple_inshore": [
       0.7149, 
       0.9851, 
       1.1448
-    ]
+    ], 
+    "gph": 621.5, 
+    "osn": 604.5
   }, 
   "sailnumber": "ITA15321", 
   "name": "L'OTTAVO PECCATO", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.3, 
       "loa": 11.22, 
       "draft": 2.01, 
+      "wetted_surface": 28.2, 
       "main": 43.9, 
       "genoa": 32.6, 
       "displacement": 5524.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2005"
   }, 

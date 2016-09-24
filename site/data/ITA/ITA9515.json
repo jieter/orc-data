@@ -5,12 +5,13 @@
       1.0793, 
       1.2287
     ], 
-    "gph": 706.9, 
     "triple_inshore": [
       0.6367, 
       0.8669, 
       1.0247
-    ]
+    ], 
+    "gph": 706.9, 
+    "osn": 687.3
   }, 
   "sailnumber": "ITA9515", 
   "name": "CAPRICORNO 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.6, 
       "loa": 10.111, 
       "draft": 1.83, 
+      "wetted_surface": 23.9, 
       "main": 22.3, 
       "genoa": 42.0, 
       "displacement": 5254.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1976"
   }, 

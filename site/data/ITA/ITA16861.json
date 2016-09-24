@@ -5,12 +5,13 @@
       1.3721, 
       1.6342
     ], 
-    "gph": 552.9, 
     "triple_inshore": [
       0.8144, 
       1.0878, 
       1.3079
-    ]
+    ], 
+    "gph": 552.9, 
+    "osn": 536.7
   }, 
   "sailnumber": "ITA16861", 
   "name": "RAPTOR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.978, 
       "draft": 2.49, 
+      "wetted_surface": 18.2, 
       "main": 28.1, 
       "genoa": 26.9, 
       "displacement": 1323.0, 
-      "spinnaker_asym": 85.0
+      "spinnaker_asym": 85.0, 
+      "crew": 450.0
     }, 
     "year": "2015"
   }, 

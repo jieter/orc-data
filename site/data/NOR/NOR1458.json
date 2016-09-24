@@ -5,12 +5,13 @@
       1.0118, 
       1.1593
     ], 
-    "gph": 758.5, 
     "triple_inshore": [
       0.5833, 
       0.8126, 
       0.9713
-    ]
+    ], 
+    "gph": 758.5, 
+    "osn": 734.9
   }, 
   "sailnumber": "NOR1458", 
   "name": "Mira", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.7, 
       "draft": 1.56, 
+      "wetted_surface": 20.2, 
       "main": 16.6, 
       "genoa": 25.9, 
       "displacement": 3765.0, 
-      "spinnaker_asym": 53.0
+      "spinnaker_asym": 53.0, 
+      "crew": 483.0
     }, 
     "year": "1974"
   }, 

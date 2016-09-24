@@ -5,12 +5,13 @@
       1.2367, 
       1.3978
     ], 
-    "gph": 616.7, 
     "triple_inshore": [
       0.7291, 
       0.988, 
       1.1554
-    ]
+    ], 
+    "gph": 616.7, 
+    "osn": 600.8
   }, 
   "sailnumber": "NED8412", 
   "name": "X-perience", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.52, 
       "draft": 1.87, 
+      "wetted_surface": 31.5, 
       "main": 40.0, 
       "genoa": 54.1, 
       "displacement": 7771.0, 
-      "spinnaker_asym": 104.0
+      "spinnaker_asym": 104.0, 
+      "crew": 721.0
     }, 
     "year": "1990"
   }, 

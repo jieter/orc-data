@@ -5,12 +5,13 @@
       1.3756, 
       1.5524
     ], 
-    "gph": 556.5, 
     "triple_inshore": [
       0.7992, 
       1.0995, 
       1.2675
-    ]
+    ], 
+    "gph": 556.5, 
+    "osn": 541.4
   }, 
   "sailnumber": "ITA15504", 
   "name": "MARRAKECH EXPRESS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.7, 
       "draft": 2.53, 
+      "wetted_surface": 38.7, 
       "main": 65.1, 
       "genoa": 46.6, 
       "displacement": 8985.0, 
-      "spinnaker_asym": 179.0
+      "spinnaker_asym": 179.0, 
+      "crew": 880.0
     }, 
     "year": "2005"
   }, 

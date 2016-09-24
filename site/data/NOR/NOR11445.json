@@ -5,12 +5,13 @@
       1.2829, 
       1.4459
     ], 
-    "gph": 593.8, 
     "triple_inshore": [
       0.76, 
       1.0361, 
       1.208
-    ]
+    ], 
+    "gph": 593.8, 
+    "osn": 578.6
   }, 
   "sailnumber": "NOR11445", 
   "name": "Sees", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.2, 
       "loa": 11.99, 
       "draft": 2.41, 
+      "wetted_surface": 31.1, 
       "main": 50.9, 
       "genoa": 52.4, 
       "displacement": 6983.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 732.0
     }, 
     "year": "1997"
   }, 

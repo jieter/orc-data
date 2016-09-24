@@ -5,12 +5,13 @@
       1.193, 
       1.3812
     ], 
-    "gph": 645.7, 
     "triple_inshore": [
       0.6739, 
       0.9506, 
       1.1244
-    ]
+    ], 
+    "gph": 645.7, 
+    "osn": 623.7
   }, 
   "sailnumber": "ISR512", 
   "name": "Lihi", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.57, 
       "draft": 1.99, 
+      "wetted_surface": 24.2, 
       "main": 32.4, 
       "genoa": 24.0, 
       "displacement": 3711.0, 
-      "spinnaker_asym": 88.0
+      "spinnaker_asym": 88.0, 
+      "crew": 640.0
     }, 
     "year": "1991"
   }, 

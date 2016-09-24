@@ -5,12 +5,13 @@
       1.2637, 
       1.431
     ], 
-    "gph": 603.9, 
     "triple_inshore": [
       0.7432, 
       1.0204, 
       1.201
-    ]
+    ], 
+    "gph": 603.9, 
+    "osn": 587.6
   }, 
   "sailnumber": "NOR9373", 
   "name": "Preciosa", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.3, 
       "loa": 11.99, 
       "draft": 2.46, 
+      "wetted_surface": 33.1, 
       "main": 50.8, 
       "genoa": 51.1, 
       "displacement": 8200.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 764.0
     }, 
     "year": "1997"
   }, 

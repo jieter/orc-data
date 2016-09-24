@@ -5,12 +5,13 @@
       1.4356, 
       1.6398
     ], 
-    "gph": 532.7, 
     "triple_inshore": [
       0.8334, 
       1.1516, 
       1.3518
-    ]
+    ], 
+    "gph": 532.7, 
+    "osn": 518.3
   }, 
   "sailnumber": "ITA1717", 
   "name": "MILU'", 
@@ -25,10 +26,12 @@
       "spinnaker": 163.2, 
       "loa": 14.5, 
       "draft": 2.95, 
+      "wetted_surface": 42.4, 
       "main": 77.4, 
       "genoa": 56.8, 
       "displacement": 9891.0, 
-      "spinnaker_asym": 147.0
+      "spinnaker_asym": 147.0, 
+      "crew": 970.0
     }, 
     "year": "2007"
   }, 

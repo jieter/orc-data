@@ -5,12 +5,13 @@
       1.1646, 
       1.3522
     ], 
-    "gph": 661.2, 
     "triple_inshore": [
       0.6566, 
       0.9239, 
       1.1184
-    ]
+    ], 
+    "gph": 661.2, 
+    "osn": 640.2
   }, 
   "sailnumber": "ESP9595", 
   "name": "MARY ANN", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.9, 
       "loa": 11.562, 
       "draft": 2.0, 
+      "wetted_surface": 31.4, 
       "main": 33.8, 
       "genoa": 39.8, 
       "displacement": 7509.0, 
-      "spinnaker_asym": 73.0
+      "spinnaker_asym": 73.0, 
+      "crew": 500.0
     }, 
     "year": "2007"
   }, 

@@ -5,12 +5,13 @@
       1.0163, 
       1.1599
     ], 
-    "gph": 749.0, 
     "triple_inshore": [
       0.604, 
       0.8268, 
       0.9488
-    ]
+    ], 
+    "gph": 749.0, 
+    "osn": 726.6
   }, 
   "sailnumber": "ITA26J22", 
   "name": "I.L.I.F.E.", 
@@ -25,10 +26,12 @@
       "spinnaker": 30.3, 
       "loa": 6.853, 
       "draft": 1.17, 
+      "wetted_surface": 10.2, 
       "main": 13.8, 
       "genoa": 9.3, 
       "displacement": 848.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 235.0
     }, 
     "year": "1989"
   }, 

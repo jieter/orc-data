@@ -5,12 +5,13 @@
       1.2244, 
       1.4174
     ], 
-    "gph": 626.1, 
     "triple_inshore": [
       0.7095, 
       0.9913, 
       1.1671
-    ]
+    ], 
+    "gph": 626.1, 
+    "osn": 604.9
   }, 
   "sailnumber": "FRA43732", 
   "name": "BIG Z", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.4, 
       "loa": 9.14, 
       "draft": 2.48, 
+      "wetted_surface": 22.6, 
       "main": 28.1, 
       "genoa": 27.1, 
       "displacement": 2768.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 160.0
     }, 
     "year": "2013"
   }, 

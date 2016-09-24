@@ -5,12 +5,13 @@
       1.0166, 
       1.2076
     ], 
-    "gph": 760.9, 
     "triple_inshore": [
       0.5605, 
       0.8023, 
       0.9985
-    ]
+    ], 
+    "gph": 760.9, 
+    "osn": 733.7
   }, 
   "sailnumber": "GRE1460", 
   "name": "PITHEAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.97, 
       "draft": 1.89, 
+      "wetted_surface": 22.9, 
       "main": 17.9, 
       "genoa": 30.1, 
       "displacement": 4700.0, 
-      "spinnaker_asym": 55.0
+      "spinnaker_asym": 55.0, 
+      "crew": 400.0
     }, 
     "year": "1993"
   }, 

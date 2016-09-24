@@ -5,12 +5,13 @@
       1.251, 
       1.4576
     ], 
-    "gph": 616.1, 
     "triple_inshore": [
       0.7002, 
       0.9814, 
       1.1827
-    ]
+    ], 
+    "gph": 616.1, 
+    "osn": 597.6
   }, 
   "sailnumber": "ESP9985_C", 
   "name": "MAKOHE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.99, 
       "draft": 2.07, 
+      "wetted_surface": 44.6, 
       "main": 46.6, 
       "genoa": 60.0, 
       "displacement": 12325.0, 
-      "spinnaker_asym": 120.0
+      "spinnaker_asym": 120.0, 
+      "crew": 550.0
     }, 
     "year": "2005"
   }, 

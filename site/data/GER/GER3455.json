@@ -5,12 +5,13 @@
       1.1628, 
       1.2949
     ], 
-    "gph": 651.2, 
     "triple_inshore": [
       0.7098, 
       0.9507, 
       1.0909
-    ]
+    ], 
+    "gph": 651.2, 
+    "osn": 636.1
   }, 
   "sailnumber": "GER3455", 
   "name": "TURBULENCE", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.8, 
       "loa": 10.102, 
       "draft": 1.91, 
+      "wetted_surface": 20.8, 
       "main": 38.5, 
       "genoa": 29.9, 
       "displacement": 4010.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1980"
   }, 

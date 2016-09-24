@@ -5,12 +5,13 @@
       1.1607, 
       1.3107
     ], 
-    "gph": 660.7, 
     "triple_inshore": [
       0.6736, 
       0.9249, 
       1.0823
-    ]
+    ], 
+    "gph": 660.7, 
+    "osn": 641.3
   }, 
   "sailnumber": "NED8329", 
   "name": "Karma", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.713, 
       "draft": 1.95, 
+      "wetted_surface": 28.3, 
       "main": 31.4, 
       "genoa": 32.9, 
       "displacement": 5563.0, 
-      "spinnaker_asym": 98.0
+      "spinnaker_asym": 98.0, 
+      "crew": 360.0
     }, 
     "year": "1981"
   }, 

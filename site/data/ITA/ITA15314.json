@@ -5,12 +5,13 @@
       1.1992, 
       1.3733
     ], 
-    "gph": 640.3, 
     "triple_inshore": [
       0.6868, 
       0.9537, 
       1.135
-    ]
+    ], 
+    "gph": 640.3, 
+    "osn": 621.1
   }, 
   "sailnumber": "ITA15314", 
   "name": "INDIANA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.71, 
       "draft": 2.42, 
+      "wetted_surface": 33.0, 
       "main": 40.1, 
       "genoa": 42.9, 
       "displacement": 7427.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 350.0
     }, 
     "year": "1998"
   }, 

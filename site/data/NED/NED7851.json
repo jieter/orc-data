@@ -5,12 +5,13 @@
       1.3782, 
       1.5736
     ], 
-    "gph": 556.9, 
     "triple_inshore": [
       0.7892, 
       1.093, 
       1.2879
-    ]
+    ], 
+    "gph": 556.9, 
+    "osn": 541.6
   }, 
   "sailnumber": "NED7851", 
   "name": "X-otic2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.22, 
       "draft": 2.44, 
+      "wetted_surface": 46.8, 
       "main": 74.9, 
       "genoa": 58.8, 
       "displacement": 13772.0, 
-      "spinnaker_asym": 147.0
+      "spinnaker_asym": 147.0, 
+      "crew": 1081.0
     }, 
     "year": "2005"
   }, 

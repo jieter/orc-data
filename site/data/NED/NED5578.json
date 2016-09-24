@@ -5,12 +5,13 @@
       0.9862, 
       1.1484
     ], 
-    "gph": 775.6, 
     "triple_inshore": [
       0.5691, 
       0.793, 
       0.9325
-    ]
+    ], 
+    "gph": 775.6, 
+    "osn": 751.3
   }, 
   "sailnumber": "NED5578", 
   "name": "LEFF", 
@@ -25,10 +26,12 @@
       "spinnaker": 31.3, 
       "loa": 6.505, 
       "draft": 1.24, 
+      "wetted_surface": 11.3, 
       "main": 13.5, 
       "genoa": 8.9, 
       "displacement": 875.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 275.0
     }, 
     "year": "1992"
   }, 

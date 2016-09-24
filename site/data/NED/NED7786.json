@@ -5,12 +5,13 @@
       1.2916, 
       1.4608
     ], 
-    "gph": 592.8, 
     "triple_inshore": [
       0.7534, 
       1.0342, 
       1.2119
-    ]
+    ], 
+    "gph": 592.8, 
+    "osn": 575.3
   }, 
   "sailnumber": "NED7786", 
   "name": "IJsvogel", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.49, 
       "draft": 2.32, 
+      "wetted_surface": 37.8, 
       "main": 52.6, 
       "genoa": 39.5, 
       "displacement": 9777.0, 
-      "spinnaker_asym": 146.0
+      "spinnaker_asym": 146.0, 
+      "crew": 706.0
     }, 
     "year": "2006"
   }, 

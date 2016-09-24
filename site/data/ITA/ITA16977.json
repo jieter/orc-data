@@ -5,12 +5,13 @@
       1.1155, 
       1.2958
     ], 
-    "gph": 688.7, 
     "triple_inshore": [
       0.6348, 
       0.8803, 
       1.0662
-    ]
+    ], 
+    "gph": 688.7, 
+    "osn": 668.0
   }, 
   "sailnumber": "ITA16977", 
   "name": "FANCY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.53, 
       "draft": 1.7, 
+      "wetted_surface": 27.0, 
       "main": 26.6, 
       "genoa": 30.9, 
       "displacement": 6199.0, 
-      "spinnaker_asym": 80.0
+      "spinnaker_asym": 80.0, 
+      "crew": 400.0
     }, 
     "year": "2006"
   }, 

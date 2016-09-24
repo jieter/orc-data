@@ -5,12 +5,13 @@
       1.1547, 
       1.2968
     ], 
-    "gph": 661.3, 
     "triple_inshore": [
       0.6823, 
       0.9326, 
       1.0853
-    ]
+    ], 
+    "gph": 661.3, 
+    "osn": 643.4
   }, 
   "sailnumber": "ITA12975", 
   "name": "ARIA DI BURRASCA", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.6, 
       "loa": 9.978, 
       "draft": 1.85, 
+      "wetted_surface": 25.0, 
       "main": 34.6, 
       "genoa": 30.3, 
       "displacement": 5041.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1994"
   }, 

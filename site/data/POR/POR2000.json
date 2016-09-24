@@ -5,12 +5,13 @@
       1.216, 
       1.3839
     ], 
-    "gph": 625.4, 
     "triple_inshore": [
       0.7265, 
       0.9905, 
       1.1452
-    ]
+    ], 
+    "gph": 625.4, 
+    "osn": 608.0
   }, 
   "sailnumber": "POR2000", 
   "name": "FAROFINO", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.4, 
       "loa": 9.435, 
       "draft": 2.16, 
+      "wetted_surface": 18.5, 
       "main": 31.9, 
       "genoa": 18.6, 
       "displacement": 2540.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1997"
   }, 

@@ -5,12 +5,13 @@
       1.1734, 
       1.3469
     ], 
-    "gph": 653.3, 
     "triple_inshore": [
       0.6713, 
       0.9244, 
       1.1052
-    ]
+    ], 
+    "gph": 653.3, 
+    "osn": 636.2
   }, 
   "sailnumber": "ITALAMIA", 
   "name": "LA MIA PICCOLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.21, 
       "draft": 1.95, 
+      "wetted_surface": 32.1, 
       "main": 40.5, 
       "genoa": 58.2, 
       "displacement": 8220.0, 
-      "spinnaker_asym": 92.0
+      "spinnaker_asym": 92.0, 
+      "crew": 530.0
     }, 
     "year": "2000"
   }, 

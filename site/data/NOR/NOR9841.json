@@ -5,12 +5,13 @@
       1.0466, 
       1.1757
     ], 
-    "gph": 731.1, 
     "triple_inshore": [
       0.6138, 
       0.8397, 
       0.9783
-    ]
+    ], 
+    "gph": 731.1, 
+    "osn": 710.4
   }, 
   "sailnumber": "NOR9841", 
   "name": "Mee Ran", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.1, 
       "loa": 9.495, 
       "draft": 1.64, 
+      "wetted_surface": 23.8, 
       "main": 30.1, 
       "genoa": 25.3, 
       "displacement": 4925.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 509.0
     }, 
     "year": "1983"
   }, 

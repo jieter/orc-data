@@ -5,12 +5,13 @@
       0.9987, 
       1.1486
     ], 
-    "gph": 770.6, 
     "triple_inshore": [
       0.5678, 
       0.8047, 
       0.953
-    ]
+    ], 
+    "gph": 770.6, 
+    "osn": 745.4
   }, 
   "sailnumber": "NOR127", 
   "name": "Tally Ho", 
@@ -25,10 +26,12 @@
       "spinnaker": 32.1, 
       "loa": 8.28, 
       "draft": 1.25, 
+      "wetted_surface": 13.1, 
       "main": 15.9, 
       "genoa": 10.4, 
       "displacement": 1467.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 339.0
     }, 
     "year": "1967"
   }, 

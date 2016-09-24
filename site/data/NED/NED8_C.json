@@ -5,12 +5,13 @@
       1.0701, 
       1.2069
     ], 
-    "gph": 713.3, 
     "triple_inshore": [
       0.6312, 
       0.8677, 
       1.0047
-    ]
+    ], 
+    "gph": 713.3, 
+    "osn": 693.4
   }, 
   "sailnumber": "NED8_C", 
   "name": "OCHO", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.9, 
       "loa": 8.5, 
       "draft": 1.51, 
+      "wetted_surface": 16.8, 
       "main": 25.3, 
       "genoa": 21.5, 
       "displacement": 2722.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1991"
   }, 

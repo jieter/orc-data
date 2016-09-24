@@ -5,12 +5,13 @@
       1.2413, 
       1.4214
     ], 
-    "gph": 618.0, 
     "triple_inshore": [
       0.7122, 
       0.9838, 
       1.1621
-    ]
+    ], 
+    "gph": 618.0, 
+    "osn": 599.9
   }, 
   "sailnumber": "NOR12379", 
   "name": "Ping", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 1.96, 
+      "wetted_surface": 35.0, 
       "main": 51.1, 
       "genoa": 33.3, 
       "displacement": 8023.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 784.0
     }, 
     "year": "2005"
   }, 

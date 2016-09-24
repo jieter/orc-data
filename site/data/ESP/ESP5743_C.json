@@ -5,12 +5,13 @@
       1.0749, 
       1.2327
     ], 
-    "gph": 712.8, 
     "triple_inshore": [
       0.626, 
       0.8665, 
       1.0369
-    ]
+    ], 
+    "gph": 712.8, 
+    "osn": 690.2
   }, 
   "sailnumber": "ESP5743_C", 
   "name": "TEMPTRESS DOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.4, 
       "loa": 9.75, 
       "draft": 1.87, 
+      "wetted_surface": 22.2, 
       "main": 21.1, 
       "genoa": 32.3, 
       "displacement": 4702.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1985"
   }, 

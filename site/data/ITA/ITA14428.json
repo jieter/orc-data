@@ -5,12 +5,13 @@
       1.1037, 
       1.2877
     ], 
-    "gph": 697.9, 
     "triple_inshore": [
       0.618, 
       0.8835, 
       1.0796
-    ]
+    ], 
+    "gph": 697.9, 
+    "osn": 675.3
   }, 
   "sailnumber": "ITA14428", 
   "name": "SHAMIR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.33, 
       "draft": 2.01, 
+      "wetted_surface": 27.9, 
       "main": 33.2, 
       "genoa": 35.5, 
       "displacement": 6376.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "1997"
   }, 

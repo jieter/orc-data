@@ -5,12 +5,13 @@
       1.1144, 
       1.2661
     ], 
-    "gph": 685.7, 
     "triple_inshore": [
       0.6538, 
       0.9004, 
       1.0645
-    ]
+    ], 
+    "gph": 685.7, 
+    "osn": 665.7
   }, 
   "sailnumber": "NOR4005", 
   "name": "ELISABETH", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.4, 
       "loa": 10.55, 
       "draft": 1.91, 
+      "wetted_surface": 24.6, 
       "main": 34.8, 
       "genoa": 30.6, 
       "displacement": 5316.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 571.0
     }, 
     "year": "1982"
   }, 

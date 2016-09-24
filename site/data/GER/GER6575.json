@@ -5,12 +5,13 @@
       1.173, 
       1.3145
     ], 
-    "gph": 649.8, 
     "triple_inshore": [
       0.6974, 
       0.95, 
       1.0992
-    ]
+    ], 
+    "gph": 649.8, 
+    "osn": 633.0
   }, 
   "sailnumber": "GER6575", 
   "name": "LIEBLINGXSTUCK", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.6, 
       "loa": 10.06, 
       "draft": 1.83, 
+      "wetted_surface": 24.4, 
       "main": 36.4, 
       "genoa": 32.0, 
       "displacement": 4705.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1994"
   }, 

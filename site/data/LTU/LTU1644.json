@@ -5,12 +5,13 @@
       1.2284, 
       1.4023
     ], 
-    "gph": 622.0, 
     "triple_inshore": [
       0.7141, 
       0.9892, 
       1.1565
-    ]
+    ], 
+    "gph": 622.0, 
+    "osn": 605.0
   }, 
   "sailnumber": "LTU1644", 
   "name": "JOKER", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.9, 
       "loa": 10.63, 
       "draft": 2.0, 
+      "wetted_surface": 24.6, 
       "main": 41.6, 
       "genoa": 28.4, 
       "displacement": 4158.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 590.0
     }, 
     "year": "1991"
   }, 

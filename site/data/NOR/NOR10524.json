@@ -5,12 +5,13 @@
       1.2027, 
       1.3803
     ], 
-    "gph": 637.7, 
     "triple_inshore": [
       0.6903, 
       0.9518, 
       1.1301
-    ]
+    ], 
+    "gph": 637.7, 
+    "osn": 619.4
   }, 
   "sailnumber": "NOR10524", 
   "name": "Candela 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.83, 
       "draft": 2.01, 
+      "wetted_surface": 32.2, 
       "main": 39.5, 
       "genoa": 44.1, 
       "displacement": 7536.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 736.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       1.1907, 
       1.3366
     ], 
-    "gph": 634.9, 
     "triple_inshore": [
       0.7288, 
       0.9637, 
       1.0913
-    ]
+    ], 
+    "gph": 634.9, 
+    "osn": 619.9
   }, 
   "sailnumber": "FRA27907", 
   "name": "JUMACABI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.12, 
       "draft": 1.62, 
+      "wetted_surface": 18.3, 
       "main": 29.4, 
       "genoa": 23.4, 
       "displacement": 2611.0, 
-      "spinnaker_asym": 101.0
+      "spinnaker_asym": 101.0, 
+      "crew": 510.0
     }, 
     "year": "1992"
   }, 

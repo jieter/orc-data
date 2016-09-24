@@ -5,12 +5,13 @@
       1.3083, 
       1.4946
     ], 
-    "gph": 588.2, 
     "triple_inshore": [
       0.738, 
       1.0287, 
       1.2111
-    ]
+    ], 
+    "gph": 588.2, 
+    "osn": 572.7
   }, 
   "sailnumber": "ITA16202", 
   "name": "GENESIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.98, 
       "draft": 2.1, 
+      "wetted_surface": 44.9, 
       "main": 56.6, 
       "genoa": 80.8, 
       "displacement": 12599.0, 
-      "spinnaker_asym": 188.0
+      "spinnaker_asym": 188.0, 
+      "crew": 600.0
     }, 
     "year": "2005"
   }, 

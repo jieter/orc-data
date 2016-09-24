@@ -5,12 +5,13 @@
       1.1656, 
       1.3139
     ], 
-    "gph": 655.5, 
     "triple_inshore": [
       0.6866, 
       0.9425, 
       1.0982
-    ]
+    ], 
+    "gph": 655.5, 
+    "osn": 637.2
   }, 
   "sailnumber": "GER6923", 
   "name": "XTORTION", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.8, 
       "loa": 10.06, 
       "draft": 1.83, 
+      "wetted_surface": 24.3, 
       "main": 36.2, 
       "genoa": 25.0, 
       "displacement": 4632.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1994"
   }, 

@@ -5,12 +5,13 @@
       1.0255, 
       1.1556
     ], 
-    "gph": 743.5, 
     "triple_inshore": [
       0.6091, 
       0.8177, 
       0.9544
-    ]
+    ], 
+    "gph": 743.5, 
+    "osn": 724.7
   }, 
   "sailnumber": "FRA39496", 
   "name": "Tarass Boulba", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.363, 
       "draft": 1.75, 
+      "wetted_surface": 20.1, 
       "main": 19.7, 
       "genoa": 32.2, 
       "displacement": 4200.0, 
-      "spinnaker_asym": 58.0
+      "spinnaker_asym": 58.0, 
+      "crew": 432.0
     }, 
     "year": "1979"
   }, 

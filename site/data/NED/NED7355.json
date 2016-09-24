@@ -5,12 +5,13 @@
       1.1404, 
       1.2972
     ], 
-    "gph": 671.1, 
     "triple_inshore": [
       0.6657, 
       0.9216, 
       1.0805
-    ]
+    ], 
+    "gph": 671.1, 
+    "osn": 650.5
   }, 
   "sailnumber": "NED7355", 
   "name": "Whisper", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.7, 
       "loa": 9.49, 
       "draft": 1.92, 
+      "wetted_surface": 21.9, 
       "main": 24.8, 
       "genoa": 31.2, 
       "displacement": 3620.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1998"
   }, 

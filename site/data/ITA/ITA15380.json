@@ -5,12 +5,13 @@
       1.2227, 
       1.3663
     ], 
-    "gph": 623.2, 
     "triple_inshore": [
       0.73, 
       0.9905, 
       1.1493
-    ]
+    ], 
+    "gph": 623.2, 
+    "osn": 606.6
   }, 
   "sailnumber": "ITA15380", 
   "name": "VELADOC NIKITA", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.7, 
       "loa": 10.84, 
       "draft": 2.21, 
+      "wetted_surface": 27.1, 
       "main": 39.8, 
       "genoa": 36.6, 
       "displacement": 5970.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2004"
   }, 

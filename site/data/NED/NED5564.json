@@ -5,12 +5,13 @@
       1.2472, 
       1.4064
     ], 
-    "gph": 610.5, 
     "triple_inshore": [
       0.7432, 
       1.0113, 
       1.1753
-    ]
+    ], 
+    "gph": 610.5, 
+    "osn": 594.1
   }, 
   "sailnumber": "NED5564", 
   "name": "Anne Mazurka", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.5, 
       "loa": 11.36, 
       "draft": 2.1, 
+      "wetted_surface": 27.6, 
       "main": 38.8, 
       "genoa": 45.9, 
       "displacement": 5503.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 668.0
     }, 
     "year": "1995"
   }, 

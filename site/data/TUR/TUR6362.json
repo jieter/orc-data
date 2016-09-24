@@ -5,12 +5,13 @@
       1.1807, 
       1.3931
     ], 
-    "gph": 645.6, 
     "triple_inshore": [
       0.692, 
       0.9463, 
       1.121
-    ]
+    ], 
+    "gph": 645.6, 
+    "osn": 624.7
   }, 
   "sailnumber": "TUR6362", 
   "name": "Guarana - Globit", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.5, 
       "draft": 1.95, 
+      "wetted_surface": 14.2, 
       "main": 21.3, 
       "genoa": 15.1, 
       "displacement": 1111.0, 
-      "spinnaker_asym": 58.0
+      "spinnaker_asym": 58.0, 
+      "crew": 415.0
     }, 
     "year": "2003"
   }, 

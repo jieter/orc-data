@@ -5,12 +5,13 @@
       1.1906, 
       1.3623
     ], 
-    "gph": 635.6, 
     "triple_inshore": [
       0.7232, 
       0.9649, 
       1.1123
-    ]
+    ], 
+    "gph": 635.6, 
+    "osn": 618.5
   }, 
   "sailnumber": "ESP9926_C", 
   "name": "PINTO TERCERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.901, 
       "draft": 1.8, 
+      "wetted_surface": 14.4, 
       "main": 24.3, 
       "genoa": 14.8, 
       "displacement": 1486.0, 
-      "spinnaker_asym": 61.0
+      "spinnaker_asym": 61.0, 
+      "crew": 280.0
     }, 
     "year": "2012"
   }, 

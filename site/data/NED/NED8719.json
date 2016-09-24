@@ -5,12 +5,13 @@
       0.9785, 
       1.1194
     ], 
-    "gph": 778.2, 
     "triple_inshore": [
       0.5745, 
       0.7819, 
       0.8867
-    ]
+    ], 
+    "gph": 778.2, 
+    "osn": 757.4
   }, 
   "sailnumber": "NED8719", 
   "name": "Fier", 
@@ -25,10 +26,12 @@
       "spinnaker": 23.6, 
       "loa": 6.25, 
       "draft": 0.9, 
+      "wetted_surface": 9.0, 
       "main": 15.6, 
       "genoa": 5.7, 
       "displacement": 675.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 270.0
     }, 
     "year": "1994"
   }, 

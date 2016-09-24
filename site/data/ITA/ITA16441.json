@@ -5,12 +5,13 @@
       1.2083, 
       1.3774
     ], 
-    "gph": 633.8, 
     "triple_inshore": [
       0.7018, 
       0.9745, 
       1.15
-    ]
+    ], 
+    "gph": 633.8, 
+    "osn": 614.3
   }, 
   "sailnumber": "ITA16441", 
   "name": "FIRST LADY", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.8, 
       "loa": 10.66, 
       "draft": 2.2, 
+      "wetted_surface": 27.5, 
       "main": 37.1, 
       "genoa": 30.9, 
       "displacement": 5549.0, 
-      "spinnaker_asym": 94.0
+      "spinnaker_asym": 94.0, 
+      "crew": 620.0
     }, 
     "year": "2009"
   }, 

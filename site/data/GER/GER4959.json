@@ -5,12 +5,13 @@
       1.2895, 
       1.4415
     ], 
-    "gph": 584.9, 
     "triple_inshore": [
       0.7926, 
       1.0459, 
       1.1928
-    ]
+    ], 
+    "gph": 584.9, 
+    "osn": 573.0
   }, 
   "sailnumber": "GER4959", 
   "name": "RUTHLI", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.2, 
       "loa": 11.36, 
       "draft": 1.89, 
+      "wetted_surface": 26.9, 
       "main": 45.5, 
       "genoa": 58.8, 
       "displacement": 5312.0, 
-      "spinnaker_asym": 128.0
+      "spinnaker_asym": 128.0, 
+      "crew": 1200.0
     }, 
     "year": "1992"
   }, 

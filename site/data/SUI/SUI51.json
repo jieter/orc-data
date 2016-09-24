@@ -5,12 +5,13 @@
       1.2144, 
       1.396
     ], 
-    "gph": 623.9, 
     "triple_inshore": [
       0.7336, 
       0.9823, 
       1.1376
-    ]
+    ], 
+    "gph": 623.9, 
+    "osn": 606.7
   }, 
   "sailnumber": "SUI51", 
   "name": "AYLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.99, 
       "draft": 1.97, 
+      "wetted_surface": 16.1, 
       "main": 26.7, 
       "genoa": 18.8, 
       "displacement": 1660.0, 
-      "spinnaker_asym": 76.0
+      "spinnaker_asym": 76.0, 
+      "crew": 491.0
     }, 
     "year": "2012"
   }, 

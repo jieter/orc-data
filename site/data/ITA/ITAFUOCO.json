@@ -5,12 +5,13 @@
       0.9769, 
       1.1285
     ], 
-    "gph": 783.8, 
     "triple_inshore": [
       0.5695, 
       0.7996, 
       0.9475
-    ]
+    ], 
+    "gph": 783.8, 
+    "osn": 755.9
   }, 
   "sailnumber": "ITAFUOCO", 
   "name": "FUOCO DI GIOIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 35.1, 
       "loa": 6.4, 
       "draft": 2.1, 
+      "wetted_surface": 12.1, 
       "main": 13.5, 
       "genoa": 12.5, 
       "displacement": 1117.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1999"
   }, 

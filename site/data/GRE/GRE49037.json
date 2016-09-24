@@ -5,12 +5,13 @@
       1.1199, 
       1.2888
     ], 
-    "gph": 683.1, 
     "triple_inshore": [
       0.6536, 
       0.899, 
       1.0822
-    ]
+    ], 
+    "gph": 683.1, 
+    "osn": 662.2
   }, 
   "sailnumber": "GRE49037", 
   "name": "SIM CAT", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.3, 
       "loa": 11.235, 
       "draft": 2.01, 
+      "wetted_surface": 29.9, 
       "main": 27.5, 
       "genoa": 45.4, 
       "displacement": 7771.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1972"
   }, 

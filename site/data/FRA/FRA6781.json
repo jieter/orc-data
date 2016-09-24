@@ -5,12 +5,13 @@
       1.2709, 
       1.5001
     ], 
-    "gph": 594.0, 
     "triple_inshore": [
       0.7746, 
       1.0254, 
       1.2128
-    ]
+    ], 
+    "gph": 594.0, 
+    "osn": 576.5
   }, 
   "sailnumber": "FRA6781", 
   "name": "YOUNG 'N FRISKY", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.7, 
       "loa": 8.4, 
       "draft": 2.2, 
+      "wetted_surface": 14.9, 
       "main": 32.8, 
       "genoa": 13.0, 
       "displacement": 1290.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1986"
   }, 

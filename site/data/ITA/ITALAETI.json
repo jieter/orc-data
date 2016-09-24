@@ -5,12 +5,13 @@
       1.2078, 
       1.3704
     ], 
-    "gph": 633.8, 
     "triple_inshore": [
       0.6987, 
       0.9591, 
       1.1277
-    ]
+    ], 
+    "gph": 633.8, 
+    "osn": 617.3
   }, 
   "sailnumber": "ITALAETI", 
   "name": "LAETIZIA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.71, 
       "draft": 1.99, 
+      "wetted_surface": 32.7, 
       "main": 44.3, 
       "genoa": 48.0, 
       "displacement": 7427.0, 
-      "spinnaker_asym": 80.0
+      "spinnaker_asym": 80.0, 
+      "crew": 430.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.2705, 
       1.4729
     ], 
-    "gph": 598.4, 
     "triple_inshore": [
       0.752, 
       1.0163, 
       1.1919
-    ]
+    ], 
+    "gph": 598.4, 
+    "osn": 582.2
   }, 
   "sailnumber": "NOR160", 
   "name": "Point 2 Point", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.7, 
       "loa": 10.3, 
       "draft": 1.71, 
+      "wetted_surface": 15.8, 
       "main": 29.7, 
       "genoa": 13.2, 
       "displacement": 1669.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 498.0
     }, 
     "year": "1972"
   }, 

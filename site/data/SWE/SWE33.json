@@ -5,12 +5,13 @@
       1.3425, 
       1.5324
     ], 
-    "gph": 568.5, 
     "triple_inshore": [
       0.7728, 
       1.0731, 
       1.2665
-    ]
+    ], 
+    "gph": 568.5, 
+    "osn": 555.0
   }, 
   "sailnumber": "SWE33", 
   "name": "Barracuda", 
@@ -25,10 +26,12 @@
       "spinnaker": 135.9, 
       "loa": 12.383, 
       "draft": 2.41, 
+      "wetted_surface": 37.4, 
       "main": 57.2, 
       "genoa": 46.0, 
       "displacement": 8307.0, 
-      "spinnaker_asym": 140.0
+      "spinnaker_asym": 140.0, 
+      "crew": 720.0
     }, 
     "year": "2010"
   }, 

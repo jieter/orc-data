@@ -5,12 +5,13 @@
       1.1396, 
       1.2833
     ], 
-    "gph": 669.4, 
     "triple_inshore": [
       0.6762, 
       0.9219, 
       1.0707
-    ]
+    ], 
+    "gph": 669.4, 
+    "osn": 651.1
   }, 
   "sailnumber": "ITA12109", 
   "name": "CAESAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.1, 
       "loa": 10.23, 
       "draft": 1.87, 
+      "wetted_surface": 21.4, 
       "main": 25.9, 
       "genoa": 37.0, 
       "displacement": 4282.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1989"
   }, 

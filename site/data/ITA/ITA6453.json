@@ -5,12 +5,13 @@
       1.1472, 
       1.2872
     ], 
-    "gph": 664.8, 
     "triple_inshore": [
       0.6814, 
       0.9181, 
       1.0703
-    ]
+    ], 
+    "gph": 664.8, 
+    "osn": 647.5
   }, 
   "sailnumber": "ITA6453", 
   "name": "MARGARITAESTALINDALAMAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 129.5, 
       "loa": 11.982, 
       "draft": 2.04, 
+      "wetted_surface": 29.6, 
       "main": 34.0, 
       "genoa": 63.7, 
       "displacement": 8626.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "1972"
   }, 

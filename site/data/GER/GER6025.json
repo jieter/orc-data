@@ -5,12 +5,13 @@
       1.1749, 
       1.3176
     ], 
-    "gph": 648.9, 
     "triple_inshore": [
       0.6974, 
       0.951, 
       1.099
-    ]
+    ], 
+    "gph": 648.9, 
+    "osn": 632.1
   }, 
   "sailnumber": "GER6025", 
   "name": "RUBIX", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.0, 
       "loa": 10.06, 
       "draft": 1.82, 
+      "wetted_surface": 24.1, 
       "main": 35.7, 
       "genoa": 31.8, 
       "displacement": 4475.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 495.0
     }, 
     "year": "1994"
   }, 

@@ -5,12 +5,13 @@
       1.0874, 
       1.2327
     ], 
-    "gph": 703.1, 
     "triple_inshore": [
       0.64, 
       0.8781, 
       1.0332
-    ]
+    ], 
+    "gph": 703.1, 
+    "osn": 682.0
   }, 
   "sailnumber": "GRE49413", 
   "name": "ALOUSTINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.4, 
       "loa": 9.785, 
       "draft": 1.82, 
+      "wetted_surface": 21.9, 
       "main": 22.4, 
       "genoa": 32.9, 
       "displacement": 4499.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 507.0
     }, 
     "year": "1981"
   }, 

@@ -5,12 +5,13 @@
       1.1464, 
       1.3263
     ], 
-    "gph": 671.6, 
     "triple_inshore": [
       0.6408, 
       0.9127, 
       1.1081
-    ]
+    ], 
+    "gph": 671.6, 
+    "osn": 652.4
   }, 
   "sailnumber": "ITA14633", 
   "name": "MOROSITA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.26, 
       "draft": 2.12, 
+      "wetted_surface": 32.8, 
       "main": 36.0, 
       "genoa": 51.5, 
       "displacement": 8420.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1985"
   }, 

@@ -5,12 +5,13 @@
       1.2772, 
       1.4364
     ], 
-    "gph": 596.5, 
     "triple_inshore": [
       0.7575, 
       1.0295, 
       1.1989
-    ]
+    ], 
+    "gph": 596.5, 
+    "osn": 581.4
   }, 
   "sailnumber": "NED6360", 
   "name": "Cool Runnings", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.3, 
       "loa": 11.924, 
       "draft": 2.41, 
+      "wetted_surface": 30.9, 
       "main": 49.0, 
       "genoa": 52.7, 
       "displacement": 6887.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "1997"
   }, 

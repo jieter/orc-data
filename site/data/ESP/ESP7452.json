@@ -5,12 +5,13 @@
       1.6936, 
       2.0003
     ], 
-    "gph": 448.8, 
     "triple_inshore": [
       0.9898, 
       1.3372, 
       1.603
-    ]
+    ], 
+    "gph": 448.8, 
+    "osn": 437.0
   }, 
   "sailnumber": "ESP7452", 
   "name": "DUENDE 52", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.848, 
       "draft": 3.17, 
+      "wetted_surface": 42.9, 
       "main": 93.5, 
       "genoa": 64.7, 
       "displacement": 7014.0, 
-      "spinnaker_asym": 268.0
+      "spinnaker_asym": 268.0, 
+      "crew": 1100.0
     }, 
     "year": "2006"
   }, 

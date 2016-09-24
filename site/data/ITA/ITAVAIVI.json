@@ -5,12 +5,13 @@
       1.1377, 
       1.2607
     ], 
-    "gph": 665.5, 
     "triple_inshore": [
       0.6981, 
       0.9328, 
       1.0634
-    ]
+    ], 
+    "gph": 665.5, 
+    "osn": 649.2
   }, 
   "sailnumber": "ITAVAIVI", 
   "name": "VAI VIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 116.9, 
       "loa": 9.6, 
       "draft": 1.8, 
+      "wetted_surface": 20.5, 
       "main": 30.3, 
       "genoa": 33.1, 
       "displacement": 4400.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1992"
   }, 

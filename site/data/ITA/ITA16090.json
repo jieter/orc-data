@@ -5,12 +5,13 @@
       1.3133, 
       1.4847
     ], 
-    "gph": 581.2, 
     "triple_inshore": [
       0.7746, 
       1.0615, 
       1.2384
-    ]
+    ], 
+    "gph": 581.2, 
+    "osn": 565.2
   }, 
   "sailnumber": "ITA16090", 
   "name": "DUE R ... NEL VENTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 138.2, 
       "loa": 12.24, 
       "draft": 2.48, 
+      "wetted_surface": 34.3, 
       "main": 54.9, 
       "genoa": 43.0, 
       "displacement": 7739.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2008"
   }, 

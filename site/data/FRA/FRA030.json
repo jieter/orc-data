@@ -5,12 +5,13 @@
       1.2134, 
       1.3784
     ], 
-    "gph": 629.7, 
     "triple_inshore": [
       0.7085, 
       0.9755, 
       1.139
-    ]
+    ], 
+    "gph": 629.7, 
+    "osn": 612.8
   }, 
   "sailnumber": "FRA030", 
   "name": "LA HISHA KANDISHA", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.1, 
       "loa": 10.632, 
       "draft": 2.0, 
+      "wetted_surface": 24.9, 
       "main": 40.8, 
       "genoa": 29.8, 
       "displacement": 4224.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 569.0
     }, 
     "year": "1991"
   }, 

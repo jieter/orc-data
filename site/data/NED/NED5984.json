@@ -5,12 +5,13 @@
       1.083, 
       1.2178
     ], 
-    "gph": 701.7, 
     "triple_inshore": [
       0.6503, 
       0.8854, 
       1.0138
-    ]
+    ], 
+    "gph": 701.7, 
+    "osn": 682.9
   }, 
   "sailnumber": "NED5984", 
   "name": "Mad About You", 
@@ -25,10 +26,12 @@
       "spinnaker": 47.4, 
       "loa": 7.927, 
       "draft": 1.39, 
+      "wetted_surface": 14.5, 
       "main": 20.8, 
       "genoa": 19.8, 
       "displacement": 1803.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 373.0
     }, 
     "year": "1987"
   }, 

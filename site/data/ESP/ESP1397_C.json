@@ -5,12 +5,13 @@
       1.0683, 
       1.1961
     ], 
-    "gph": 714.9, 
     "triple_inshore": [
       0.6334, 
       0.8599, 
       0.9968
-    ]
+    ], 
+    "gph": 714.9, 
+    "osn": 695.3
   }, 
   "sailnumber": "ESP1397_C", 
   "name": "DENTE DO CAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.9, 
       "loa": 10.011, 
       "draft": 1.83, 
+      "wetted_surface": 21.6, 
       "main": 20.7, 
       "genoa": 43.2, 
       "displacement": 4603.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 400.0
     }, 
     "year": "1975"
   }, 

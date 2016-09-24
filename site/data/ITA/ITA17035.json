@@ -5,12 +5,13 @@
       1.447, 
       1.6933
     ], 
-    "gph": 532.2, 
     "triple_inshore": [
       0.8086, 
       1.133, 
       1.3861
-    ]
+    ], 
+    "gph": 532.2, 
+    "osn": 517.3
   }, 
   "sailnumber": "ITA17035", 
   "name": "ALDABRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 21.077, 
       "draft": 3.59, 
+      "wetted_surface": 86.2, 
       "main": 114.7, 
       "genoa": 143.0, 
       "displacement": 41813.0, 
-      "spinnaker_asym": 255.0
+      "spinnaker_asym": 255.0, 
+      "crew": 1200.0
     }, 
     "year": "1991"
   }, 

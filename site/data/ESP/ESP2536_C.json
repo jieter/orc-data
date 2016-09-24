@@ -5,12 +5,13 @@
       1.2205, 
       1.4032
     ], 
-    "gph": 627.8, 
     "triple_inshore": [
       0.7033, 
       0.9799, 
       1.1699
-    ]
+    ], 
+    "gph": 627.8, 
+    "osn": 608.9
   }, 
   "sailnumber": "ESP2536_C", 
   "name": "OTRO", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.8, 
       "loa": 12.18, 
       "draft": 2.19, 
+      "wetted_surface": 29.8, 
       "main": 44.8, 
       "genoa": 40.4, 
       "displacement": 6424.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1985"
   }, 

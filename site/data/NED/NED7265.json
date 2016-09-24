@@ -5,12 +5,13 @@
       1.2019, 
       1.3569
     ], 
-    "gph": 633.5, 
     "triple_inshore": [
       0.7086, 
       0.9663, 
       1.1366
-    ]
+    ], 
+    "gph": 633.5, 
+    "osn": 617.8
   }, 
   "sailnumber": "NED7265", 
   "name": "RELAXION", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.7, 
       "loa": 11.475, 
       "draft": 2.04, 
+      "wetted_surface": 30.1, 
       "main": 34.5, 
       "genoa": 43.4, 
       "displacement": 7141.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 525.0
     }, 
     "year": "1993"
   }, 

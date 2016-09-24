@@ -5,12 +5,13 @@
       1.2903, 
       1.4557
     ], 
-    "gph": 591.2, 
     "triple_inshore": [
       0.7609, 
       1.0362, 
       1.2049
-    ]
+    ], 
+    "gph": 591.2, 
+    "osn": 575.7
   }, 
   "sailnumber": "NOR14480", 
   "name": "Stella Maris", 
@@ -25,10 +26,12 @@
       "spinnaker": 133.2, 
       "loa": 12.24, 
       "draft": 1.99, 
+      "wetted_surface": 34.3, 
       "main": 56.3, 
       "genoa": 38.7, 
       "displacement": 8025.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "2007"
   }, 

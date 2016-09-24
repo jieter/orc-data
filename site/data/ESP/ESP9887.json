@@ -5,12 +5,13 @@
       1.0303, 
       1.156
     ], 
-    "gph": 741.5, 
     "triple_inshore": [
       0.6099, 
       0.8364, 
       0.9668
-    ]
+    ], 
+    "gph": 741.5, 
+    "osn": 719.0
   }, 
   "sailnumber": "ESP9887", 
   "name": "DELFYNA", 
@@ -25,10 +26,12 @@
       "spinnaker": 51.9, 
       "loa": 7.461, 
       "draft": 1.48, 
+      "wetted_surface": 16.4, 
       "main": 19.6, 
       "genoa": 14.9, 
       "displacement": 2433.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "2004"
   }, 

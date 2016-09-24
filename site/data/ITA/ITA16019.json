@@ -5,12 +5,13 @@
       1.1509, 
       1.3609
     ], 
-    "gph": 672.2, 
     "triple_inshore": [
       0.6297, 
       0.8923, 
       1.0988
-    ]
+    ], 
+    "gph": 672.2, 
+    "osn": 651.5
   }, 
   "sailnumber": "ITA16019", 
   "name": "BLITZ", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.935, 
       "draft": 2.1, 
+      "wetted_surface": 42.1, 
       "main": 44.6, 
       "genoa": 63.4, 
       "displacement": 12563.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 800.0
     }, 
     "year": "1989"
   }, 

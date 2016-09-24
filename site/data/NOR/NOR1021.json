@@ -5,12 +5,13 @@
       1.0751, 
       1.1977
     ], 
-    "gph": 706.1, 
     "triple_inshore": [
       0.6549, 
       0.8795, 
       1.0083
-    ]
+    ], 
+    "gph": 706.1, 
+    "osn": 687.5
   }, 
   "sailnumber": "NOR1021", 
   "name": "Penny", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.3, 
       "loa": 9.04, 
       "draft": 1.74, 
+      "wetted_surface": 17.8, 
       "main": 19.4, 
       "genoa": 30.1, 
       "displacement": 3173.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 454.0
     }, 
     "year": "1976"
   }, 

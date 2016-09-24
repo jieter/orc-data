@@ -5,12 +5,13 @@
       1.4462, 
       1.6603
     ], 
-    "gph": 528.2, 
     "triple_inshore": [
       0.8442, 
       1.1544, 
       1.3405
-    ]
+    ], 
+    "gph": 528.2, 
+    "osn": 513.1
   }, 
   "sailnumber": "ITA4001", 
   "name": "NEO-POLIBA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.6, 
       "draft": 2.66, 
+      "wetted_surface": 35.3, 
       "main": 60.0, 
       "genoa": 45.8, 
       "displacement": 5720.0, 
-      "spinnaker_asym": 166.0
+      "spinnaker_asym": 166.0, 
+      "crew": 780.0
     }, 
     "year": "2013"
   }, 

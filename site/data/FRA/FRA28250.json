@@ -5,12 +5,13 @@
       1.1969, 
       1.351
     ], 
-    "gph": 638.8, 
     "triple_inshore": [
       0.7026, 
       0.9683, 
       1.1299
-    ]
+    ], 
+    "gph": 638.8, 
+    "osn": 619.6
   }, 
   "sailnumber": "FRA28250", 
   "name": "DJAILOLO", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.8, 
       "loa": 10.64, 
       "draft": 2.22, 
+      "wetted_surface": 26.6, 
       "main": 38.8, 
       "genoa": 31.4, 
       "displacement": 5591.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 643.0
     }, 
     "year": "2001"
   }, 

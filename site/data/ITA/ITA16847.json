@@ -5,12 +5,13 @@
       1.2873, 
       1.4849
     ], 
-    "gph": 595.1, 
     "triple_inshore": [
       0.7432, 
       1.0281, 
       1.2162
-    ]
+    ], 
+    "gph": 595.1, 
+    "osn": 577.0
   }, 
   "sailnumber": "ITA16847", 
   "name": "FREQUENT FLYER", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.97, 
       "draft": 2.05, 
+      "wetted_surface": 33.9, 
       "main": 43.7, 
       "genoa": 41.6, 
       "displacement": 7473.0, 
-      "spinnaker_asym": 117.0
+      "spinnaker_asym": 117.0, 
+      "crew": 685.0
     }, 
     "year": "2009"
   }, 

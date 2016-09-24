@@ -5,12 +5,13 @@
       1.159, 
       1.3286
     ], 
-    "gph": 660.4, 
     "triple_inshore": [
       0.6744, 
       0.9343, 
       1.1162
-    ]
+    ], 
+    "gph": 660.4, 
+    "osn": 640.0
   }, 
   "sailnumber": "NED7948", 
   "name": "Amideau", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.0, 
       "loa": 10.3, 
       "draft": 1.98, 
+      "wetted_surface": 25.9, 
       "main": 32.9, 
       "genoa": 31.3, 
       "displacement": 5691.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 641.0
     }, 
     "year": "2003"
   }, 

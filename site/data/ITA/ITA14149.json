@@ -5,12 +5,13 @@
       1.2865, 
       1.4619
     ], 
-    "gph": 594.1, 
     "triple_inshore": [
       0.7564, 
       1.0434, 
       1.2273
-    ]
+    ], 
+    "gph": 594.1, 
+    "osn": 576.1
   }, 
   "sailnumber": "ITA14149", 
   "name": "X-PRESS", 
@@ -25,10 +26,12 @@
       "spinnaker": 123.3, 
       "loa": 12.1, 
       "draft": 2.43, 
+      "wetted_surface": 31.8, 
       "main": 47.7, 
       "genoa": 39.9, 
       "displacement": 7062.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 720.0
     }, 
     "year": "2000"
   }, 

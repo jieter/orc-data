@@ -5,12 +5,13 @@
       1.1808, 
       1.3433
     ], 
-    "gph": 642.0, 
     "triple_inshore": [
       0.7119, 
       0.9481, 
       1.0955
-    ]
+    ], 
+    "gph": 642.0, 
+    "osn": 626.1
   }, 
   "sailnumber": "NED41", 
   "name": "Seascape", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.99, 
       "draft": 1.96, 
+      "wetted_surface": 15.9, 
       "main": 26.0, 
       "genoa": 18.7, 
       "displacement": 1554.0, 
-      "spinnaker_asym": 78.0
+      "spinnaker_asym": 78.0, 
+      "crew": 320.0
     }, 
     "year": "2012"
   }, 

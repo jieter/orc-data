@@ -5,12 +5,13 @@
       1.1762, 
       1.3395
     ], 
-    "gph": 650.5, 
     "triple_inshore": [
       0.6878, 
       0.9496, 
       1.1184
-    ]
+    ], 
+    "gph": 650.5, 
+    "osn": 630.8
   }, 
   "sailnumber": "NOR12312", 
   "name": "FADERENS BESLUTNING", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.5, 
       "loa": 10.0, 
       "draft": 1.9, 
+      "wetted_surface": 26.3, 
       "main": 35.9, 
       "genoa": 30.6, 
       "displacement": 5300.0, 
-      "spinnaker_asym": 73.0
+      "spinnaker_asym": 73.0, 
+      "crew": 600.0
     }, 
     "year": "1989"
   }, 

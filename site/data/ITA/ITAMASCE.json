@@ -5,12 +5,13 @@
       1.1647, 
       1.3304
     ], 
-    "gph": 657.7, 
     "triple_inshore": [
       0.6747, 
       0.9382, 
       1.1133
-    ]
+    ], 
+    "gph": 657.7, 
+    "osn": 637.5
   }, 
   "sailnumber": "ITAMASCE", 
   "name": "MASCE'", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.4, 
       "loa": 10.3, 
       "draft": 1.96, 
+      "wetted_surface": 25.4, 
       "main": 32.3, 
       "genoa": 32.4, 
       "displacement": 5352.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 595.0
     }, 
     "year": "2003"
   }, 

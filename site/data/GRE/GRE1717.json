@@ -5,12 +5,13 @@
       1.1377, 
       1.3139
     ], 
-    "gph": 674.2, 
     "triple_inshore": [
       0.655, 
       0.9072, 
       1.0947
-    ]
+    ], 
+    "gph": 674.2, 
+    "osn": 653.4
   }, 
   "sailnumber": "GRE1717", 
   "name": "APOLLON", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.8, 
       "draft": 2.03, 
+      "wetted_surface": 26.7, 
       "main": 34.2, 
       "genoa": 24.8, 
       "displacement": 5674.0, 
-      "spinnaker_asym": 59.0
+      "spinnaker_asym": 59.0, 
+      "crew": 655.0
     }, 
     "year": "2014"
   }, 

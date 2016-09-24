@@ -5,12 +5,13 @@
       1.2007, 
       1.3916
     ], 
-    "gph": 634.7, 
     "triple_inshore": [
       0.7084, 
       0.9715, 
       1.1236
-    ]
+    ], 
+    "gph": 634.7, 
+    "osn": 615.5
   }, 
   "sailnumber": "GRE1235", 
   "name": "CRUELLA DE VILLE", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.2, 
       "loa": 7.89, 
       "draft": 1.87, 
+      "wetted_surface": 13.7, 
       "main": 23.4, 
       "genoa": 13.9, 
       "displacement": 1111.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 370.0
     }, 
     "year": "2007"
   }, 

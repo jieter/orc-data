@@ -5,12 +5,13 @@
       1.1906, 
       1.3407
     ], 
-    "gph": 638.4, 
     "triple_inshore": [
       0.714, 
       0.9717, 
       1.1216
-    ]
+    ], 
+    "gph": 638.4, 
+    "osn": 621.5
   }, 
   "sailnumber": "NED7668", 
   "name": "Flow", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.2, 
       "loa": 9.503, 
       "draft": 1.93, 
+      "wetted_surface": 20.8, 
       "main": 32.5, 
       "genoa": 31.2, 
       "displacement": 3375.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 508.0
     }, 
     "year": "1994"
   }, 

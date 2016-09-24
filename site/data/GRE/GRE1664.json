@@ -5,12 +5,13 @@
       1.1185, 
       1.2874
     ], 
-    "gph": 684.2, 
     "triple_inshore": [
       0.649, 
       0.8925, 
       1.0725
-    ]
+    ], 
+    "gph": 684.2, 
+    "osn": 664.0
   }, 
   "sailnumber": "GRE1664", 
   "name": "SERENITY", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.6, 
       "loa": 11.298, 
       "draft": 1.91, 
+      "wetted_surface": 30.4, 
       "main": 26.5, 
       "genoa": 38.8, 
       "displacement": 7893.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1974"
   }, 

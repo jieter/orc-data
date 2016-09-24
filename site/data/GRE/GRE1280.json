@@ -5,12 +5,13 @@
       1.4128, 
       1.5917
     ], 
-    "gph": 537.5, 
     "triple_inshore": [
       0.8501, 
       1.1445, 
       1.3088
-    ]
+    ], 
+    "gph": 537.5, 
+    "osn": 523.2
   }, 
   "sailnumber": "GRE1280", 
   "name": "AELLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.98, 
       "draft": 2.72, 
+      "wetted_surface": 34.4, 
       "main": 62.6, 
       "genoa": 48.4, 
       "displacement": 7451.0, 
-      "spinnaker_asym": 194.0
+      "spinnaker_asym": 194.0, 
+      "crew": 880.0
     }, 
     "year": "2006"
   }, 

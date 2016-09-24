@@ -5,12 +5,13 @@
       1.187, 
       1.3455
     ], 
-    "gph": 643.3, 
     "triple_inshore": [
       0.7003, 
       0.9618, 
       1.1238
-    ]
+    ], 
+    "gph": 643.3, 
+    "osn": 624.6
   }, 
   "sailnumber": "GRE1550", 
   "name": "ANAX", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.7, 
       "loa": 9.982, 
       "draft": 2.0, 
+      "wetted_surface": 23.4, 
       "main": 35.7, 
       "genoa": 26.2, 
       "displacement": 4536.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 620.0
     }, 
     "year": "2005"
   }, 

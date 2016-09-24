@@ -5,12 +5,13 @@
       1.2475, 
       1.4044
     ], 
-    "gph": 611.0, 
     "triple_inshore": [
       0.7421, 
       1.0077, 
       1.1582
-    ]
+    ], 
+    "gph": 611.0, 
+    "osn": 593.6
   }, 
   "sailnumber": "FRA9651", 
   "name": "WILLIAM B", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.617, 
       "draft": 2.17, 
+      "wetted_surface": 25.1, 
       "main": 37.9, 
       "genoa": 29.0, 
       "displacement": 4711.0, 
-      "spinnaker_asym": 104.0
+      "spinnaker_asym": 104.0, 
+      "crew": 550.0
     }, 
     "year": "2005"
   }, 

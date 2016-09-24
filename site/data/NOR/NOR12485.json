@@ -5,12 +5,13 @@
       1.2086, 
       1.3459
     ], 
-    "gph": 628.2, 
     "triple_inshore": [
       0.731, 
       0.978, 
       1.1156
-    ]
+    ], 
+    "gph": 628.2, 
+    "osn": 612.8
   }, 
   "sailnumber": "NOR12485", 
   "name": "Leda 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.98, 
       "draft": 1.99, 
+      "wetted_surface": 23.3, 
       "main": 35.1, 
       "genoa": 34.9, 
       "displacement": 4476.0, 
-      "spinnaker_asym": 98.0
+      "spinnaker_asym": 98.0, 
+      "crew": 584.0
     }, 
     "year": "2004"
   }, 

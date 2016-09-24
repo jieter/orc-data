@@ -5,12 +5,13 @@
       1.2516, 
       1.4055
     ], 
-    "gph": 610.4, 
     "triple_inshore": [
       0.7362, 
       1.0073, 
       1.1731
-    ]
+    ], 
+    "gph": 610.4, 
+    "osn": 593.9
   }, 
   "sailnumber": "ESP5632_R", 
   "name": "ZIVING BADIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.0, 
       "loa": 11.924, 
       "draft": 2.42, 
+      "wetted_surface": 31.4, 
       "main": 48.2, 
       "genoa": 33.9, 
       "displacement": 7208.0, 
-      "spinnaker_asym": 110.0
+      "spinnaker_asym": 110.0, 
+      "crew": 170.0
     }, 
     "year": "1997"
   }, 

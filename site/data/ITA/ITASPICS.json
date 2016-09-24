@@ -5,12 +5,13 @@
       1.1446, 
       1.3039
     ], 
-    "gph": 667.4, 
     "triple_inshore": [
       0.6723, 
       0.9226, 
       1.0883
-    ]
+    ], 
+    "gph": 667.4, 
+    "osn": 648.2
   }, 
   "sailnumber": "ITASPICS", 
   "name": "SPICA", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.3, 
       "loa": 10.62, 
       "draft": 1.85, 
+      "wetted_surface": 23.4, 
       "main": 32.4, 
       "genoa": 33.3, 
       "displacement": 4954.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.1431, 
       1.319
     ], 
-    "gph": 672.2, 
     "triple_inshore": [
       0.6549, 
       0.9155, 
       1.103
-    ]
+    ], 
+    "gph": 672.2, 
+    "osn": 650.2
   }, 
   "sailnumber": "ESP2637_C", 
   "name": "KAPOTE PRIMERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.6, 
       "loa": 11.31, 
       "draft": 2.1, 
+      "wetted_surface": 29.0, 
       "main": 35.1, 
       "genoa": 40.5, 
       "displacement": 7078.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1985"
   }, 

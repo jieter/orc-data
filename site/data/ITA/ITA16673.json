@@ -5,12 +5,13 @@
       1.1269, 
       1.299
     ], 
-    "gph": 681.0, 
     "triple_inshore": [
       0.6423, 
       0.8924, 
       1.0688
-    ]
+    ], 
+    "gph": 681.0, 
+    "osn": 661.5
   }, 
   "sailnumber": "ITA16673", 
   "name": "JEAN JACK", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.2, 
       "loa": 11.03, 
       "draft": 1.6, 
+      "wetted_surface": 26.4, 
       "main": 30.7, 
       "genoa": 34.5, 
       "displacement": 5960.0, 
-      "spinnaker_asym": 72.0
+      "spinnaker_asym": 72.0, 
+      "crew": 680.0
     }, 
     "year": "2000"
   }, 

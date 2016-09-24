@@ -5,12 +5,13 @@
       1.1856, 
       1.3727
     ], 
-    "gph": 649.3, 
     "triple_inshore": [
       0.6682, 
       0.937, 
       1.1312
-    ]
+    ], 
+    "gph": 649.3, 
+    "osn": 629.4
   }, 
   "sailnumber": "GRE1303", 
   "name": "BEETHOVEN IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.688, 
       "draft": 1.82, 
+      "wetted_surface": 36.5, 
       "main": 44.3, 
       "genoa": 40.2, 
       "displacement": 9354.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 550.0
     }, 
     "year": "1993"
   }, 

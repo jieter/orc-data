@@ -5,12 +5,13 @@
       1.2362, 
       1.3954
     ], 
-    "gph": 614.4, 
     "triple_inshore": [
       0.7425, 
       0.9963, 
       1.1378
-    ]
+    ], 
+    "gph": 614.4, 
+    "osn": 598.7
   }, 
   "sailnumber": "SUI180", 
   "name": "MELAGODO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.55, 
       "draft": 2.09, 
+      "wetted_surface": 20.7, 
       "main": 32.9, 
       "genoa": 29.2, 
       "displacement": 2854.0, 
-      "spinnaker_asym": 88.0
+      "spinnaker_asym": 88.0, 
+      "crew": 500.0
     }, 
     "year": "2000"
   }, 

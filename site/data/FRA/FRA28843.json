@@ -5,12 +5,13 @@
       1.3091, 
       1.4793
     ], 
-    "gph": 578.9, 
     "triple_inshore": [
       0.7936, 
       1.059, 
       1.2102
-    ]
+    ], 
+    "gph": 578.9, 
+    "osn": 564.0
   }, 
   "sailnumber": "FRA28843", 
   "name": "MORDICUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.91, 
       "draft": 2.23, 
+      "wetted_surface": 23.3, 
       "main": 40.4, 
       "genoa": 28.1, 
       "displacement": 3519.0, 
-      "spinnaker_asym": 124.0
+      "spinnaker_asym": 124.0, 
+      "crew": 500.0
     }, 
     "year": "1993"
   }, 

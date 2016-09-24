@@ -5,12 +5,13 @@
       1.1018, 
       1.2528
     ], 
-    "gph": 692.5, 
     "triple_inshore": [
       0.6514, 
       0.8857, 
       1.0481
-    ]
+    ], 
+    "gph": 692.5, 
+    "osn": 672.8
   }, 
   "sailnumber": "GRE21", 
   "name": "IRIDANOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.4, 
       "loa": 10.75, 
       "draft": 1.93, 
+      "wetted_surface": 27.1, 
       "main": 30.2, 
       "genoa": 40.4, 
       "displacement": 7055.0, 
-      "spinnaker_asym": 71.0
+      "spinnaker_asym": 71.0, 
+      "crew": 660.0
     }, 
     "year": "1972"
   }, 

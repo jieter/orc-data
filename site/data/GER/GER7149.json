@@ -5,12 +5,13 @@
       1.108, 
       1.2478
     ], 
-    "gph": 689.2, 
     "triple_inshore": [
       0.6531, 
       0.8943, 
       1.042
-    ]
+    ], 
+    "gph": 689.2, 
+    "osn": 670.0
   }, 
   "sailnumber": "GER7149", 
   "name": "WADLOPER", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.1, 
       "loa": 10.112, 
       "draft": 1.77, 
+      "wetted_surface": 22.9, 
       "main": 29.6, 
       "genoa": 28.2, 
       "displacement": 4563.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1981"
   }, 

@@ -5,12 +5,13 @@
       1.1406, 
       1.289
     ], 
-    "gph": 669.4, 
     "triple_inshore": [
       0.6701, 
       0.9217, 
       1.073
-    ]
+    ], 
+    "gph": 669.4, 
+    "osn": 651.0
   }, 
   "sailnumber": "ESP5782_C", 
   "name": "THAIS III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.52, 
       "draft": 1.65, 
+      "wetted_surface": 21.4, 
       "main": 28.3, 
       "genoa": 30.6, 
       "displacement": 3910.0, 
-      "spinnaker_asym": 75.0
+      "spinnaker_asym": 75.0, 
+      "crew": 450.0
     }, 
     "year": "1997"
   }, 

@@ -5,12 +5,13 @@
       1.2958, 
       1.4843
     ], 
-    "gph": 591.8, 
     "triple_inshore": [
       0.7496, 
       1.0403, 
       1.2366
-    ]
+    ], 
+    "gph": 591.8, 
+    "osn": 573.2
   }, 
   "sailnumber": "NED7966", 
   "name": "eXe-Cuties", 
@@ -25,10 +26,12 @@
       "spinnaker": 155.7, 
       "loa": 13.48, 
       "draft": 2.3, 
+      "wetted_surface": 38.6, 
       "main": 48.6, 
       "genoa": 45.3, 
       "displacement": 9700.0, 
-      "spinnaker_asym": 136.0
+      "spinnaker_asym": 136.0, 
+      "crew": 871.0
     }, 
     "year": "1993"
   }, 

@@ -5,12 +5,13 @@
       1.0433, 
       1.1888
     ], 
-    "gph": 737.3, 
     "triple_inshore": [
       0.5976, 
       0.8362, 
       0.9896
-    ]
+    ], 
+    "gph": 737.3, 
+    "osn": 713.8
   }, 
   "sailnumber": "CRO488", 
   "name": "Strilac", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.0, 
       "loa": 9.24, 
       "draft": 1.71, 
+      "wetted_surface": 19.1, 
       "main": 20.5, 
       "genoa": 29.3, 
       "displacement": 3692.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1982"
   }, 

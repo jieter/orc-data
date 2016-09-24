@@ -5,12 +5,13 @@
       1.3523, 
       1.5248
     ], 
-    "gph": 563.1, 
     "triple_inshore": [
       0.8016, 
       1.0892, 
       1.2747
-    ]
+    ], 
+    "gph": 563.1, 
+    "osn": 549.2
   }, 
   "sailnumber": "NOR11860_C", 
   "name": "APEX", 
@@ -25,10 +26,12 @@
       "spinnaker": 129.0, 
       "loa": 13.352, 
       "draft": 2.63, 
+      "wetted_surface": 37.6, 
       "main": 65.0, 
       "genoa": 63.9, 
       "displacement": 9458.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 870.0
     }, 
     "year": "2003"
   }, 

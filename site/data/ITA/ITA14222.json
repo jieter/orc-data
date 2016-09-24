@@ -5,12 +5,13 @@
       1.155, 
       1.3238
     ], 
-    "gph": 664.4, 
     "triple_inshore": [
       0.6624, 
       0.9235, 
       1.1018
-    ]
+    ], 
+    "gph": 664.4, 
+    "osn": 644.3
   }, 
   "sailnumber": "ITA14222", 
   "name": "GASTONE", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.8, 
       "loa": 10.96, 
       "draft": 1.92, 
+      "wetted_surface": 27.1, 
       "main": 30.7, 
       "genoa": 38.7, 
       "displacement": 5936.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2000"
   }, 

@@ -5,12 +5,13 @@
       1.1534, 
       1.3248
     ], 
-    "gph": 665.8, 
     "triple_inshore": [
       0.6599, 
       0.9114, 
       1.0877
-    ]
+    ], 
+    "gph": 665.8, 
+    "osn": 646.0
   }, 
   "sailnumber": "NOR14798", 
   "name": "Madeleine", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.9, 
       "draft": 1.91, 
+      "wetted_surface": 30.3, 
       "main": 36.0, 
       "genoa": 26.5, 
       "displacement": 6857.0, 
-      "spinnaker_asym": 86.0
+      "spinnaker_asym": 86.0, 
+      "crew": 677.0
     }, 
     "year": "2010"
   }, 

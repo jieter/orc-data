@@ -5,12 +5,13 @@
       1.2338, 
       1.4056
     ], 
-    "gph": 619.9, 
     "triple_inshore": [
       0.7194, 
       0.9964, 
       1.1681
-    ]
+    ], 
+    "gph": 619.9, 
+    "osn": 601.6
   }, 
   "sailnumber": "ITA13021", 
   "name": "YAK 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.9, 
       "loa": 10.62, 
       "draft": 2.24, 
+      "wetted_surface": 25.3, 
       "main": 38.6, 
       "genoa": 29.3, 
       "displacement": 4188.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1996"
   }, 

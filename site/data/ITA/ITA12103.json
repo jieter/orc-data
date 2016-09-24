@@ -5,12 +5,13 @@
       1.217, 
       1.3569
     ], 
-    "gph": 623.7, 
     "triple_inshore": [
       0.7377, 
       0.9887, 
       1.1346
-    ]
+    ], 
+    "gph": 623.7, 
+    "osn": 608.4
   }, 
   "sailnumber": "ITA12103", 
   "name": "LA GATTA FRETTOLOSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.9, 
       "loa": 11.425, 
       "draft": 2.0, 
+      "wetted_surface": 25.8, 
       "main": 34.6, 
       "genoa": 45.3, 
       "displacement": 5305.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1991"
   }, 

@@ -5,12 +5,13 @@
       1.1257, 
       1.2935
     ], 
-    "gph": 682.0, 
     "triple_inshore": [
       0.6501, 
       0.9088, 
       1.0826
-    ]
+    ], 
+    "gph": 682.0, 
+    "osn": 659.3
   }, 
   "sailnumber": "NED8049", 
   "name": "Klein Zweden", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.6, 
       "loa": 9.49, 
       "draft": 1.93, 
+      "wetted_surface": 22.1, 
       "main": 25.9, 
       "genoa": 20.3, 
       "displacement": 3789.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 520.0
     }, 
     "year": "1998"
   }, 

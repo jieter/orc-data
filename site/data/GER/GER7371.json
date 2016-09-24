@@ -5,12 +5,13 @@
       1.1997, 
       1.3762
     ], 
-    "gph": 638.8, 
     "triple_inshore": [
       0.6838, 
       0.961, 
       1.1543
-    ]
+    ], 
+    "gph": 638.8, 
+    "osn": 622.7
   }, 
   "sailnumber": "GER7371", 
   "name": "ABSOLUT", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.512, 
       "draft": 2.24, 
+      "wetted_surface": 31.8, 
       "main": 40.0, 
       "genoa": 57.9, 
       "displacement": 7967.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 725.0
     }, 
     "year": "1991"
   }, 

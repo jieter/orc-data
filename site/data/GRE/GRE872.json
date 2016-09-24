@@ -5,12 +5,13 @@
       1.0567, 
       1.2311
     ], 
-    "gph": 726.6, 
     "triple_inshore": [
       0.6045, 
       0.8423, 
       1.0279
-    ]
+    ], 
+    "gph": 726.6, 
+    "osn": 703.4
   }, 
   "sailnumber": "GRE872", 
   "name": "NAFSITHOI", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.3, 
       "loa": 10.15, 
       "draft": 1.73, 
+      "wetted_surface": 24.3, 
       "main": 22.6, 
       "genoa": 28.1, 
       "displacement": 5520.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "1989"
   }, 

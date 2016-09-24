@@ -5,12 +5,13 @@
       1.2085, 
       1.3925
     ], 
-    "gph": 635.6, 
     "triple_inshore": [
       0.6914, 
       0.9663, 
       1.1588
-    ]
+    ], 
+    "gph": 635.6, 
+    "osn": 615.3
   }, 
   "sailnumber": "NOR11643", 
   "name": "Spiralis", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.8, 
       "loa": 11.25, 
       "draft": 2.02, 
+      "wetted_surface": 32.3, 
       "main": 46.6, 
       "genoa": 26.9, 
       "displacement": 7421.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 755.0
     }, 
     "year": "2005"
   }, 

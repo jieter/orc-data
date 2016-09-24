@@ -5,12 +5,13 @@
       1.088, 
       1.2416
     ], 
-    "gph": 704.6, 
     "triple_inshore": [
       0.6317, 
       0.8746, 
       1.0348
-    ]
+    ], 
+    "gph": 704.6, 
+    "osn": 682.7
   }, 
   "sailnumber": "GRE791", 
   "name": "AGIOS RAFAIL", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.3, 
       "loa": 10.112, 
       "draft": 1.75, 
+      "wetted_surface": 22.3, 
       "main": 27.7, 
       "genoa": 23.1, 
       "displacement": 4122.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1982"
   }, 

@@ -5,12 +5,13 @@
       1.0807, 
       1.2131
     ], 
-    "gph": 709.8, 
     "triple_inshore": [
       0.6253, 
       0.8639, 
       1.0018
-    ]
+    ], 
+    "gph": 709.8, 
+    "osn": 690.3
   }, 
   "sailnumber": "NOR5177", 
   "name": "Habibi II", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.3, 
       "loa": 10.3, 
       "draft": 1.55, 
+      "wetted_surface": 20.3, 
       "main": 32.3, 
       "genoa": 34.8, 
       "displacement": 3359.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 518.0
     }, 
     "year": "1980"
   }, 

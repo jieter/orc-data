@@ -5,12 +5,13 @@
       1.095, 
       1.2336
     ], 
-    "gph": 693.6, 
     "triple_inshore": [
       0.659, 
       0.8938, 
       1.0191
-    ]
+    ], 
+    "gph": 693.6, 
+    "osn": 675.0
   }, 
   "sailnumber": "NOR3635", 
   "name": "Flying emma", 
@@ -25,10 +26,12 @@
       "spinnaker": 48.5, 
       "loa": 7.93, 
       "draft": 1.37, 
+      "wetted_surface": 13.8, 
       "main": 21.2, 
       "genoa": 18.6, 
       "displacement": 1623.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 362.0
     }, 
     "year": "1979"
   }, 

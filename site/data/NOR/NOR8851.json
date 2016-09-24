@@ -5,12 +5,13 @@
       1.1819, 
       1.3241
     ], 
-    "gph": 643.8, 
     "triple_inshore": [
       0.7055, 
       0.956, 
       1.1124
-    ]
+    ], 
+    "gph": 643.8, 
+    "osn": 627.6
   }, 
   "sailnumber": "NOR8851", 
   "name": "Eirill 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.2, 
       "draft": 1.8, 
+      "wetted_surface": 29.1, 
       "main": 33.9, 
       "genoa": 47.5, 
       "displacement": 7364.0, 
-      "spinnaker_asym": 105.0
+      "spinnaker_asym": 105.0, 
+      "crew": 664.0
     }, 
     "year": "1986"
   }, 

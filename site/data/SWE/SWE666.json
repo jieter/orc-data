@@ -5,12 +5,13 @@
       1.4186, 
       1.6097
     ], 
-    "gph": 532.6, 
     "triple_inshore": [
       0.8683, 
       1.1485, 
       1.3211
-    ]
+    ], 
+    "gph": 532.6, 
+    "osn": 519.4
   }, 
   "sailnumber": "SWE666", 
   "name": "Hurrykanen", 
@@ -25,10 +26,12 @@
       "spinnaker": 157.0, 
       "loa": 12.411, 
       "draft": 2.6, 
+      "wetted_surface": 30.2, 
       "main": 64.3, 
       "genoa": 40.6, 
       "displacement": 5193.0, 
-      "spinnaker_asym": 113.0
+      "spinnaker_asym": 113.0, 
+      "crew": 815.0
     }, 
     "year": "1997"
   }, 

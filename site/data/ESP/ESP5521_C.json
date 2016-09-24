@@ -5,12 +5,13 @@
       1.2596, 
       1.4396
     ], 
-    "gph": 608.0, 
     "triple_inshore": [
       0.7312, 
       1.0144, 
       1.2
-    ]
+    ], 
+    "gph": 608.0, 
+    "osn": 589.4
   }, 
   "sailnumber": "ESP5521_C", 
   "name": "SPINNAKER", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.8, 
       "loa": 11.924, 
       "draft": 2.41, 
+      "wetted_surface": 31.1, 
       "main": 48.0, 
       "genoa": 33.8, 
       "displacement": 6979.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 731.0
     }, 
     "year": "1997"
   }, 

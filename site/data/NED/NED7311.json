@@ -5,12 +5,13 @@
       1.2757, 
       1.4431
     ], 
-    "gph": 595.7, 
     "triple_inshore": [
       0.7493, 
       1.0174, 
       1.1906
-    ]
+    ], 
+    "gph": 595.7, 
+    "osn": 583.3
   }, 
   "sailnumber": "NED7311", 
   "name": "Greyhound", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.7, 
       "loa": 11.995, 
       "draft": 1.93, 
+      "wetted_surface": 32.3, 
       "main": 53.8, 
       "genoa": 38.1, 
       "displacement": 7090.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "2004"
   }, 

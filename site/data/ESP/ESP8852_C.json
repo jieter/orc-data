@@ -5,12 +5,13 @@
       1.1166, 
       1.3291
     ], 
-    "gph": 693.0, 
     "triple_inshore": [
       0.609, 
       0.8839, 
       1.1045
-    ]
+    ], 
+    "gph": 693.0, 
+    "osn": 669.5
   }, 
   "sailnumber": "ESP8852_C", 
   "name": "CANDELA C", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.71, 
       "draft": 1.98, 
+      "wetted_surface": 33.5, 
       "main": 32.5, 
       "genoa": 42.5, 
       "displacement": 7584.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1998"
   }, 

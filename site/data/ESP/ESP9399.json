@@ -5,12 +5,13 @@
       1.2487, 
       1.3993
     ], 
-    "gph": 608.8, 
     "triple_inshore": [
       0.7515, 
       1.0196, 
       1.1743
-    ]
+    ], 
+    "gph": 608.8, 
+    "osn": 592.8
   }, 
   "sailnumber": "ESP9399", 
   "name": "DESAFINO", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.2, 
       "loa": 10.6, 
       "draft": 2.19, 
+      "wetted_surface": 24.9, 
       "main": 42.5, 
       "genoa": 32.6, 
       "displacement": 4779.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 635.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.2318, 
       1.3901
     ], 
-    "gph": 618.7, 
     "triple_inshore": [
       0.7328, 
       1.0021, 
       1.1658
-    ]
+    ], 
+    "gph": 618.7, 
+    "osn": 601.1
   }, 
   "sailnumber": "NED7986", 
   "name": "Miesje", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.1, 
       "loa": 10.757, 
       "draft": 2.13, 
+      "wetted_surface": 26.3, 
       "main": 37.3, 
       "genoa": 38.5, 
       "displacement": 5101.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 642.0
     }, 
     "year": "2001"
   }, 

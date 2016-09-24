@@ -5,12 +5,13 @@
       1.1837, 
       1.3832
     ], 
-    "gph": 649.6, 
     "triple_inshore": [
       0.6692, 
       0.9409, 
       1.1507
-    ]
+    ], 
+    "gph": 649.6, 
+    "osn": 629.4
   }, 
   "sailnumber": "NED8628", 
   "name": "Dwarstuig", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.0, 
       "loa": 12.47, 
       "draft": 2.2, 
+      "wetted_surface": 34.4, 
       "main": 42.7, 
       "genoa": 33.2, 
       "displacement": 8300.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 745.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       1.0665, 
       1.2163
     ], 
-    "gph": 719.2, 
     "triple_inshore": [
       0.6172, 
       0.8509, 
       1.0069
-    ]
+    ], 
+    "gph": 719.2, 
+    "osn": 697.3
   }, 
   "sailnumber": "NED8441", 
   "name": "Feniks", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.9, 
       "loa": 10.302, 
       "draft": 2.0, 
+      "wetted_surface": 22.5, 
       "main": 28.6, 
       "genoa": 25.4, 
       "displacement": 5103.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 330.0
     }, 
     "year": "1978"
   }, 

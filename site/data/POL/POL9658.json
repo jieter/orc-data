@@ -5,12 +5,13 @@
       1.0053, 
       1.1245
     ], 
-    "gph": 756.8, 
     "triple_inshore": [
       0.6082, 
       0.8234, 
       0.9501
-    ]
+    ], 
+    "gph": 756.8, 
+    "osn": 734.7
   }, 
   "sailnumber": "POL9658", 
   "name": "Czarodziejka", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.8, 
       "loa": 8.56, 
       "draft": 1.76, 
+      "wetted_surface": 15.6, 
       "main": 14.8, 
       "genoa": 21.1, 
       "displacement": 2698.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1976"
   }, 

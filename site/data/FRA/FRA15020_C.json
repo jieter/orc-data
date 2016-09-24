@@ -5,12 +5,13 @@
       1.2322, 
       1.4131
     ], 
-    "gph": 619.6, 
     "triple_inshore": [
       0.7172, 
       0.9903, 
       1.1592
-    ]
+    ], 
+    "gph": 619.6, 
+    "osn": 603.2
   }, 
   "sailnumber": "FRA15020_C", 
   "name": "O`MARYLOU", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.2, 
       "loa": 10.632, 
       "draft": 1.99, 
+      "wetted_surface": 24.3, 
       "main": 41.9, 
       "genoa": 27.9, 
       "displacement": 3970.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1991"
   }, 

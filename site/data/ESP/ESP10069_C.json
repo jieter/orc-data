@@ -5,12 +5,13 @@
       1.1827, 
       1.3741
     ], 
-    "gph": 649.3, 
     "triple_inshore": [
       0.6757, 
       0.9436, 
       1.1472
-    ]
+    ], 
+    "gph": 649.3, 
+    "osn": 628.7
   }, 
   "sailnumber": "ESP10069_C", 
   "name": "BRIO PRIMERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.7, 
       "loa": 11.91, 
       "draft": 2.13, 
+      "wetted_surface": 32.3, 
       "main": 36.5, 
       "genoa": 39.1, 
       "displacement": 8167.0, 
-      "spinnaker_asym": 75.0
+      "spinnaker_asym": 75.0, 
+      "crew": 450.0
     }, 
     "year": "2002"
   }, 

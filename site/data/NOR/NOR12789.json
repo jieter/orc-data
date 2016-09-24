@@ -5,12 +5,13 @@
       1.2704, 
       1.4641
     ], 
-    "gph": 603.9, 
     "triple_inshore": [
       0.7203, 
       1.0075, 
       1.2076
-    ]
+    ], 
+    "gph": 603.9, 
+    "osn": 587.8
   }, 
   "sailnumber": "NOR12789", 
   "name": "Sea Lemon", 
@@ -25,10 +26,12 @@
       "spinnaker": 112.9, 
       "loa": 12.54, 
       "draft": 2.1, 
+      "wetted_surface": 37.5, 
       "main": 41.7, 
       "genoa": 43.8, 
       "displacement": 8569.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 868.0
     }, 
     "year": "2007"
   }, 

@@ -5,12 +5,13 @@
       1.0837, 
       1.2531
     ], 
-    "gph": 709.2, 
     "triple_inshore": [
       0.6148, 
       0.8615, 
       1.0378
-    ]
+    ], 
+    "gph": 709.2, 
+    "osn": 687.5
   }, 
   "sailnumber": "NOR14776", 
   "name": "Coco", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.75, 
       "draft": 1.56, 
+      "wetted_surface": 22.5, 
       "main": 27.9, 
       "genoa": 22.0, 
       "displacement": 4830.0, 
-      "spinnaker_asym": 76.0
+      "spinnaker_asym": 76.0, 
+      "crew": 587.0
     }, 
     "year": "2001"
   }, 

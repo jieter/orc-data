@@ -5,12 +5,13 @@
       1.1625, 
       1.4005
     ], 
-    "gph": 665.9, 
     "triple_inshore": [
       0.6262, 
       0.9098, 
       1.1497
-    ]
+    ], 
+    "gph": 665.9, 
+    "osn": 644.4
   }, 
   "sailnumber": "ESP10168_C", 
   "name": "ISLA DE LOBOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.63, 
       "draft": 2.0, 
+      "wetted_surface": 46.9, 
       "main": 38.3, 
       "genoa": 68.0, 
       "displacement": 14701.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2000"
   }, 

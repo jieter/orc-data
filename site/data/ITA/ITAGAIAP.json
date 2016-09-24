@@ -5,12 +5,13 @@
       1.1284, 
       1.3323
     ], 
-    "gph": 687.7, 
     "triple_inshore": [
       0.6145, 
       0.8993, 
       1.1099
-    ]
+    ], 
+    "gph": 687.7, 
+    "osn": 663.4
   }, 
   "sailnumber": "ITAGAIAP", 
   "name": "GAIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.28, 
       "draft": 1.99, 
+      "wetted_surface": 31.6, 
       "main": 39.7, 
       "genoa": 27.3, 
       "displacement": 6771.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2005"
   }, 

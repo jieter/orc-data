@@ -5,12 +5,13 @@
       1.1669, 
       1.3494
     ], 
-    "gph": 644.6, 
     "triple_inshore": [
       0.7252, 
       0.9395, 
       1.0884
-    ]
+    ], 
+    "gph": 644.6, 
+    "osn": 628.4
   }, 
   "sailnumber": "FRA15730", 
   "name": "Dynamix", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.49, 
       "draft": 1.74, 
+      "wetted_surface": 12.1, 
       "main": 22.3, 
       "genoa": 15.0, 
       "displacement": 1032.0, 
-      "spinnaker_asym": 53.0
+      "spinnaker_asym": 53.0, 
+      "crew": 350.0
     }, 
     "year": "1998"
   }, 

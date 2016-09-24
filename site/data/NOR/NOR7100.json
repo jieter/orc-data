@@ -5,12 +5,13 @@
       1.2108, 
       1.3616
     ], 
-    "gph": 629.9, 
     "triple_inshore": [
       0.7118, 
       0.9733, 
       1.1306
-    ]
+    ], 
+    "gph": 629.9, 
+    "osn": 614.2
   }, 
   "sailnumber": "NOR7100", 
   "name": "Julia", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.3, 
       "loa": 11.65, 
       "draft": 1.93, 
+      "wetted_surface": 29.9, 
       "main": 41.7, 
       "genoa": 46.0, 
       "displacement": 6417.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 687.0
     }, 
     "year": "1987"
   }, 

@@ -5,12 +5,13 @@
       1.2879, 
       1.457
     ], 
-    "gph": 593.2, 
     "triple_inshore": [
       0.7526, 
       1.0327, 
       1.2097
-    ]
+    ], 
+    "gph": 593.2, 
+    "osn": 577.7
   }, 
   "sailnumber": "NOR11713", 
   "name": "Four To Match", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.5, 
       "loa": 12.46, 
       "draft": 2.17, 
+      "wetted_surface": 33.4, 
       "main": 53.8, 
       "genoa": 48.9, 
       "displacement": 7831.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 821.0
     }, 
     "year": "2005"
   }, 

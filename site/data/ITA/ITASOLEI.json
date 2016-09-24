@@ -5,12 +5,13 @@
       1.1354, 
       1.2938
     ], 
-    "gph": 674.7, 
     "triple_inshore": [
       0.6591, 
       0.9116, 
       1.0796
-    ]
+    ], 
+    "gph": 674.7, 
+    "osn": 654.2
   }, 
   "sailnumber": "ITASOLEI", 
   "name": "SOLEIL D'OR", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.8, 
       "loa": 10.759, 
       "draft": 1.97, 
+      "wetted_surface": 27.6, 
       "main": 27.6, 
       "genoa": 44.4, 
       "displacement": 5994.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1981"
   }, 

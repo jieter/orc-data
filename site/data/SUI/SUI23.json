@@ -5,12 +5,13 @@
       1.2404, 
       1.4858
     ], 
-    "gph": 615.2, 
     "triple_inshore": [
       0.7183, 
       0.9834, 
       1.1738
-    ]
+    ], 
+    "gph": 615.2, 
+    "osn": 595.2
   }, 
   "sailnumber": "SUI23", 
   "name": "", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.97, 
       "draft": 1.59, 
+      "wetted_surface": 13.5, 
       "main": 22.7, 
       "genoa": 13.1, 
       "displacement": 1052.0, 
-      "spinnaker_asym": 53.0
+      "spinnaker_asym": 53.0, 
+      "crew": 416.0
     }, 
     "year": "2009"
   }, 

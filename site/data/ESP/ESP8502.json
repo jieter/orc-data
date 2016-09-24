@@ -5,12 +5,13 @@
       1.1074, 
       1.2492
     ], 
-    "gph": 690.8, 
     "triple_inshore": [
       0.648, 
       0.8898, 
       1.0373
-    ]
+    ], 
+    "gph": 690.8, 
+    "osn": 671.2
   }, 
   "sailnumber": "ESP8502", 
   "name": "MABORAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.8, 
       "loa": 9.52, 
       "draft": 1.68, 
+      "wetted_surface": 22.2, 
       "main": 28.2, 
       "genoa": 26.0, 
       "displacement": 4205.0, 
-      "spinnaker_asym": 57.0
+      "spinnaker_asym": 57.0, 
+      "crew": 300.0
     }, 
     "year": "2000"
   }, 

@@ -5,12 +5,13 @@
       0.9275, 
       1.0945
     ], 
-    "gph": 827.7, 
     "triple_inshore": [
       0.5311, 
       0.757, 
       0.9279
-    ]
+    ], 
+    "gph": 827.7, 
+    "osn": 796.5
   }, 
   "sailnumber": "ESP10290_C", 
   "name": "X TUTATIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.5, 
       "draft": 1.65, 
+      "wetted_surface": 11.8, 
       "main": 13.6, 
       "genoa": 10.7, 
       "displacement": 1287.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 150.0
     }, 
     "year": "2010"
   }, 

@@ -5,12 +5,13 @@
       1.1183, 
       1.2874
     ], 
-    "gph": 687.2, 
     "triple_inshore": [
       0.6428, 
       0.9016, 
       1.0768
-    ]
+    ], 
+    "gph": 687.2, 
+    "osn": 663.9
   }, 
   "sailnumber": "GRE1074", 
   "name": "ETOILE DU NORD", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.4, 
       "loa": 9.49, 
       "draft": 1.93, 
+      "wetted_surface": 22.2, 
       "main": 24.4, 
       "genoa": 22.2, 
       "displacement": 3819.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 580.0
     }, 
     "year": "1998"
   }, 

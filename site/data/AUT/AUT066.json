@@ -5,12 +5,13 @@
       1.2212, 
       1.3889
     ], 
-    "gph": 626.9, 
     "triple_inshore": [
       0.7106, 
       0.9832, 
       1.1639
-    ]
+    ], 
+    "gph": 626.9, 
+    "osn": 608.1
   }, 
   "sailnumber": "AUT066", 
   "name": "Papagena", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.0, 
       "loa": 11.313, 
       "draft": 2.15, 
+      "wetted_surface": 29.6, 
       "main": 42.9, 
       "genoa": 36.1, 
       "displacement": 7140.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2005"
   }, 

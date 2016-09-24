@@ -5,12 +5,13 @@
       1.2117, 
       1.3718
     ], 
-    "gph": 630.0, 
     "triple_inshore": [
       0.7128, 
       0.9744, 
       1.1319
-    ]
+    ], 
+    "gph": 630.0, 
+    "osn": 613.0
   }, 
   "sailnumber": "NED998", 
   "name": "Bachyachting racing team", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.2, 
       "loa": 10.3, 
       "draft": 1.91, 
+      "wetted_surface": 25.0, 
       "main": 37.6, 
       "genoa": 31.4, 
       "displacement": 4659.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 630.0
     }, 
     "year": "2014"
   }, 

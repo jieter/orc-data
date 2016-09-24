@@ -5,12 +5,13 @@
       1.0456, 
       1.1815
     ], 
-    "gph": 728.9, 
     "triple_inshore": [
       0.6216, 
       0.8533, 
       0.9886
-    ]
+    ], 
+    "gph": 728.9, 
+    "osn": 707.6
   }, 
   "sailnumber": "SLO116", 
   "name": "Nika", 
@@ -25,10 +26,12 @@
       "spinnaker": 47.7, 
       "loa": 7.78, 
       "draft": 1.45, 
+      "wetted_surface": 14.3, 
       "main": 19.6, 
       "genoa": 14.7, 
       "displacement": 1975.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 407.0
     }, 
     "year": "1981"
   }, 

@@ -5,12 +5,13 @@
       1.4546, 
       1.6913
     ], 
-    "gph": 514.6, 
     "triple_inshore": [
       0.9115, 
       1.1712, 
       1.3862
-    ]
+    ], 
+    "gph": 514.6, 
+    "osn": 503.9
   }, 
   "sailnumber": "SUI74111", 
   "name": "BALLYHOO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.0, 
       "draft": 2.6, 
+      "wetted_surface": 23.5, 
       "main": 64.3, 
       "genoa": 31.5, 
       "displacement": 3049.0, 
-      "spinnaker_asym": 156.0
+      "spinnaker_asym": 156.0, 
+      "crew": 693.0
     }, 
     "year": "2002"
   }, 

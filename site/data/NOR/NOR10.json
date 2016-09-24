@@ -5,12 +5,13 @@
       1.3356, 
       1.5052
     ], 
-    "gph": 570.3, 
     "triple_inshore": [
       0.795, 
       1.0815, 
       1.2509
-    ]
+    ], 
+    "gph": 570.3, 
+    "osn": 555.0
   }, 
   "sailnumber": "NOR10", 
   "name": "X-n Min", 
@@ -25,10 +26,12 @@
       "spinnaker": 130.8, 
       "loa": 12.35, 
       "draft": 2.5, 
+      "wetted_surface": 32.5, 
       "main": 54.9, 
       "genoa": 43.9, 
       "displacement": 6822.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 787.0
     }, 
     "year": "2007"
   }, 

@@ -5,12 +5,13 @@
       1.3025, 
       1.4818
     ], 
-    "gph": 583.8, 
     "triple_inshore": [
       0.7776, 
       1.0512, 
       1.2044
-    ]
+    ], 
+    "gph": 583.8, 
+    "osn": 567.8
   }, 
   "sailnumber": "SWE9995", 
   "name": "Brunborg Eiendomsformidl", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.91, 
       "draft": 2.24, 
+      "wetted_surface": 23.5, 
       "main": 43.3, 
       "genoa": 25.2, 
       "displacement": 3603.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 639.0
     }, 
     "year": "1993"
   }, 

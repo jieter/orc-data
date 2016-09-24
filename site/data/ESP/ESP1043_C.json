@@ -5,12 +5,13 @@
       1.1349, 
       1.2864
     ], 
-    "gph": 666.0, 
     "triple_inshore": [
       0.6936, 
       0.9159, 
       1.0467
-    ]
+    ], 
+    "gph": 666.0, 
+    "osn": 650.2
   }, 
   "sailnumber": "ESP1043_C", 
   "name": "WAIKIKI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.032, 
       "draft": 1.5, 
+      "wetted_surface": 13.1, 
       "main": 21.7, 
       "genoa": 13.9, 
       "displacement": 1425.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 300.0
     }, 
     "year": "2007"
   }, 

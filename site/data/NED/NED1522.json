@@ -5,12 +5,13 @@
       0.9539, 
       1.107
     ], 
-    "gph": 806.8, 
     "triple_inshore": [
       0.542, 
       0.7545, 
       0.9138
-    ]
+    ], 
+    "gph": 806.8, 
+    "osn": 780.8
   }, 
   "sailnumber": "NED1522", 
   "name": "WINDVEER II", 
@@ -25,10 +26,12 @@
       "spinnaker": 52.8, 
       "loa": 8.96, 
       "draft": 1.34, 
+      "wetted_surface": 23.6, 
       "main": 22.5, 
       "genoa": 20.3, 
       "displacement": 5890.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 448.0
     }, 
     "year": "1977"
   }, 

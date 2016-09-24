@@ -5,12 +5,13 @@
       1.4307, 
       1.6205
     ], 
-    "gph": 525.7, 
     "triple_inshore": [
       0.8869, 
       1.1576, 
       1.3375
-    ]
+    ], 
+    "gph": 525.7, 
+    "osn": 514.0
   }, 
   "sailnumber": "ITAKIKAG", 
   "name": "KIKA GREEN CHALLENGE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.19, 
       "draft": 3.02, 
+      "wetted_surface": 34.6, 
       "main": 71.5, 
       "genoa": 58.7, 
       "displacement": 5505.0, 
-      "spinnaker_asym": 179.0
+      "spinnaker_asym": 179.0, 
+      "crew": 400.0
     }, 
     "year": "2008"
   }, 

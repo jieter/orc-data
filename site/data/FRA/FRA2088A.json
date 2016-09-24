@@ -5,12 +5,13 @@
       1.1504, 
       1.3109
     ], 
-    "gph": 666.1, 
     "triple_inshore": [
       0.6669, 
       0.9283, 
       1.0841
-    ]
+    ], 
+    "gph": 666.1, 
+    "osn": 645.8
   }, 
   "sailnumber": "FRA2088A", 
   "name": "LOREMI", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.3, 
       "loa": 9.668, 
       "draft": 1.87, 
+      "wetted_surface": 19.1, 
       "main": 28.4, 
       "genoa": 20.9, 
       "displacement": 2815.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1979"
   }, 

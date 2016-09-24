@@ -5,12 +5,13 @@
       1.124, 
       1.2716
     ], 
-    "gph": 681.5, 
     "triple_inshore": [
       0.6564, 
       0.9077, 
       1.0639
-    ]
+    ], 
+    "gph": 681.5, 
+    "osn": 660.6
   }, 
   "sailnumber": "NOR11328", 
   "name": "IL TEMPORALE", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.5, 
       "loa": 9.44, 
       "draft": 1.99, 
+      "wetted_surface": 22.4, 
       "main": 26.0, 
       "genoa": 31.6, 
       "displacement": 4331.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 568.0
     }, 
     "year": "2001"
   }, 

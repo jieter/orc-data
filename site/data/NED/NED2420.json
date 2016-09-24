@@ -5,12 +5,13 @@
       0.9602, 
       1.0848
     ], 
-    "gph": 792.6, 
     "triple_inshore": [
       0.5779, 
       0.7854, 
       0.9149
-    ]
+    ], 
+    "gph": 792.6, 
+    "osn": 769.3
   }, 
   "sailnumber": "NED2420", 
   "name": "LARISA", 
@@ -25,10 +26,12 @@
       "spinnaker": 37.5, 
       "loa": 7.25, 
       "draft": 1.58, 
+      "wetted_surface": 13.8, 
       "main": 11.5, 
       "genoa": 22.2, 
       "displacement": 2067.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 345.0
     }, 
     "year": "1980"
   }, 

@@ -5,12 +5,13 @@
       1.2753, 
       1.4769
     ], 
-    "gph": 601.5, 
     "triple_inshore": [
       0.7301, 
       1.0169, 
       1.2281
-    ]
+    ], 
+    "gph": 601.5, 
+    "osn": 583.3
   }, 
   "sailnumber": "AUTotto", 
   "name": "DESPERADO", 
@@ -25,10 +26,12 @@
       "spinnaker": 143.4, 
       "loa": 13.98, 
       "draft": 2.22, 
+      "wetted_surface": 40.7, 
       "main": 49.2, 
       "genoa": 62.4, 
       "displacement": 11205.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 850.0
     }, 
     "year": "1998"
   }, 

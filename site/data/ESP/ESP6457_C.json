@@ -5,12 +5,13 @@
       1.1655, 
       1.3592
     ], 
-    "gph": 661.7, 
     "triple_inshore": [
       0.6415, 
       0.9139, 
       1.1153
-    ]
+    ], 
+    "gph": 661.7, 
+    "osn": 643.5
   }, 
   "sailnumber": "ESP6457_C", 
   "name": "SUROT", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.32, 
       "draft": 1.75, 
+      "wetted_surface": 35.6, 
       "main": 38.9, 
       "genoa": 61.0, 
       "displacement": 8365.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1045.0
     }, 
     "year": "1998"
   }, 

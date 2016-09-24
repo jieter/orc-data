@@ -5,12 +5,13 @@
       1.1602, 
       1.305
     ], 
-    "gph": 655.0, 
     "triple_inshore": [
       0.6976, 
       0.9417, 
       1.0814
-    ]
+    ], 
+    "gph": 655.0, 
+    "osn": 637.0
   }, 
   "sailnumber": "NOR10203", 
   "name": "Jakobine", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.14, 
       "draft": 1.84, 
+      "wetted_surface": 19.3, 
       "main": 28.2, 
       "genoa": 19.0, 
       "displacement": 2938.0, 
-      "spinnaker_asym": 85.0
+      "spinnaker_asym": 85.0, 
+      "crew": 525.0
     }, 
     "year": "1994"
   }, 

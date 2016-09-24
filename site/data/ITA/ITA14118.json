@@ -5,12 +5,13 @@
       1.3367, 
       1.5279
     ], 
-    "gph": 575.0, 
     "triple_inshore": [
       0.762, 
       1.0565, 
       1.2497
-    ]
+    ], 
+    "gph": 575.0, 
+    "osn": 558.8
   }, 
   "sailnumber": "ITA14118", 
   "name": "SCURA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.03, 
       "draft": 2.57, 
+      "wetted_surface": 48.5, 
       "main": 68.4, 
       "genoa": 59.9, 
       "displacement": 14364.0, 
-      "spinnaker_asym": 166.0
+      "spinnaker_asym": 166.0, 
+      "crew": 600.0
     }, 
     "year": "2001"
   }, 

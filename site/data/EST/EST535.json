@@ -5,12 +5,13 @@
       1.2333, 
       1.3949
     ], 
-    "gph": 618.8, 
     "triple_inshore": [
       0.7301, 
       1.0015, 
       1.1631
-    ]
+    ], 
+    "gph": 618.8, 
+    "osn": 600.8
   }, 
   "sailnumber": "EST535", 
   "name": "MY-CAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.5, 
       "loa": 10.6, 
       "draft": 2.17, 
+      "wetted_surface": 24.4, 
       "main": 35.4, 
       "genoa": 32.8, 
       "displacement": 4479.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.2238, 
       1.3828
     ], 
-    "gph": 619.4, 
     "triple_inshore": [
       0.745, 
       0.9953, 
       1.1344
-    ]
+    ], 
+    "gph": 619.4, 
+    "osn": 602.1
   }, 
   "sailnumber": "NED8588", 
   "name": "Raging Bull", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.96, 
       "draft": 1.96, 
+      "wetted_surface": 18.2, 
       "main": 27.1, 
       "genoa": 20.7, 
       "displacement": 2338.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 445.0
     }, 
     "year": "2013"
   }, 

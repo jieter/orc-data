@@ -5,12 +5,13 @@
       1.1169, 
       1.2486
     ], 
-    "gph": 683.8, 
     "triple_inshore": [
       0.6583, 
       0.8932, 
       1.0311
-    ]
+    ], 
+    "gph": 683.8, 
+    "osn": 666.2
   }, 
   "sailnumber": "ITATINA", 
   "name": "TINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 1.72, 
+      "wetted_surface": 22.1, 
       "main": 28.7, 
       "genoa": 27.1, 
       "displacement": 4650.0, 
-      "spinnaker_asym": 85.0
+      "spinnaker_asym": 85.0, 
+      "crew": 530.0
     }, 
     "year": "1993"
   }, 

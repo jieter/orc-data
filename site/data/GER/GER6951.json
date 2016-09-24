@@ -5,12 +5,13 @@
       1.1922, 
       1.3366
     ], 
-    "gph": 640.3, 
     "triple_inshore": [
       0.7039, 
       0.9536, 
       1.108
-    ]
+    ], 
+    "gph": 640.3, 
+    "osn": 623.7
   }, 
   "sailnumber": "GER6951", 
   "name": "ILE FLOTTANTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.66, 
       "draft": 1.84, 
+      "wetted_surface": 27.0, 
       "main": 40.4, 
       "genoa": 29.4, 
       "displacement": 6060.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 350.0
     }, 
     "year": "2009"
   }, 

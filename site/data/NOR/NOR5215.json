@@ -5,12 +5,13 @@
       1.1665, 
       1.3221
     ], 
-    "gph": 655.7, 
     "triple_inshore": [
       0.6807, 
       0.9399, 
       1.1066
-    ]
+    ], 
+    "gph": 655.7, 
+    "osn": 636.8
   }, 
   "sailnumber": "NOR5215", 
   "name": "Conkylien", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.6, 
       "loa": 11.53, 
       "draft": 1.87, 
+      "wetted_surface": 25.1, 
       "main": 32.1, 
       "genoa": 32.8, 
       "displacement": 5499.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 609.0
     }, 
     "year": "1982"
   }, 

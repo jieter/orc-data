@@ -5,12 +5,13 @@
       1.0396, 
       1.2056
     ], 
-    "gph": 740.0, 
     "triple_inshore": [
       0.5945, 
       0.8441, 
       1.0217
-    ]
+    ], 
+    "gph": 740.0, 
+    "osn": 713.4
   }, 
   "sailnumber": "NOR15467", 
   "name": "Senja", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.32, 
       "draft": 1.85, 
+      "wetted_surface": 20.8, 
       "main": 27.1, 
       "genoa": 19.4, 
       "displacement": 4183.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 523.0
     }, 
     "year": "2005"
   }, 

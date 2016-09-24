@@ -5,12 +5,13 @@
       1.1554, 
       1.3046
     ], 
-    "gph": 654.9, 
     "triple_inshore": [
       0.7076, 
       0.9556, 
       1.1001
-    ]
+    ], 
+    "gph": 654.9, 
+    "osn": 636.8
   }, 
   "sailnumber": "ESP10247_C", 
   "name": "MENGANO", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.8, 
       "loa": 8.15, 
       "draft": 2.0, 
+      "wetted_surface": 16.2, 
       "main": 26.3, 
       "genoa": 26.2, 
       "displacement": 2425.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 466.0
     }, 
     "year": "2008"
   }, 

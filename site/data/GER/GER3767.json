@@ -5,12 +5,13 @@
       1.2626, 
       1.4592
     ], 
-    "gph": 606.8, 
     "triple_inshore": [
       0.7287, 
       1.0074, 
       1.2203
-    ]
+    ], 
+    "gph": 606.8, 
+    "osn": 588.7
   }, 
   "sailnumber": "GER3767", 
   "name": "RAROTONGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 155.5, 
       "loa": 14.4, 
       "draft": 2.7, 
+      "wetted_surface": 44.2, 
       "main": 49.7, 
       "genoa": 72.1, 
       "displacement": 14349.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 760.0
     }, 
     "year": "1983"
   }, 

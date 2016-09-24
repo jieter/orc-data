@@ -5,12 +5,13 @@
       1.1973, 
       1.356
     ], 
-    "gph": 638.7, 
     "triple_inshore": [
       0.7011, 
       0.9621, 
       1.1262
-    ]
+    ], 
+    "gph": 638.7, 
+    "osn": 620.0
   }, 
   "sailnumber": "ITA16576", 
   "name": "NONNO STELIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.72, 
       "draft": 2.23, 
+      "wetted_surface": 26.6, 
       "main": 37.6, 
       "genoa": 28.5, 
       "displacement": 5201.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 500.0
     }, 
     "year": "1993"
   }, 

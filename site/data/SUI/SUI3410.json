@@ -5,12 +5,13 @@
       1.1891, 
       1.3308
     ], 
-    "gph": 639.8, 
     "triple_inshore": [
       0.7144, 
       0.9699, 
       1.1188
-    ]
+    ], 
+    "gph": 639.8, 
+    "osn": 622.6
   }, 
   "sailnumber": "SUI3410", 
   "name": "SUBITO", 
@@ -25,10 +26,12 @@
       "spinnaker": 112.0, 
       "loa": 10.005, 
       "draft": 2.01, 
+      "wetted_surface": 23.6, 
       "main": 30.4, 
       "genoa": 36.8, 
       "displacement": 4645.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 613.0
     }, 
     "year": "1999"
   }, 

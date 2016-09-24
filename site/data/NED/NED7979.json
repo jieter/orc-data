@@ -5,12 +5,13 @@
       0.8916, 
       1.0392
     ], 
-    "gph": 857.7, 
     "triple_inshore": [
       0.5119, 
       0.7144, 
       0.8452
-    ]
+    ], 
+    "gph": 857.7, 
+    "osn": 833.1
   }, 
   "sailnumber": "NED7979", 
   "name": "Tug of Wa(a)r", 
@@ -25,10 +26,12 @@
       "spinnaker": 19.5, 
       "loa": 5.96, 
       "draft": 1.04, 
+      "wetted_surface": 8.7, 
       "main": 10.3, 
       "genoa": 5.7, 
       "displacement": 604.0, 
-      "spinnaker_asym": 18.0
+      "spinnaker_asym": 18.0, 
+      "crew": 250.0
     }, 
     "year": "1970"
   }, 

@@ -5,12 +5,13 @@
       0.943, 
       1.1165
     ], 
-    "gph": 816.9, 
     "triple_inshore": [
       0.5256, 
       0.7387, 
       0.9163
-    ]
+    ], 
+    "gph": 816.9, 
+    "osn": 791.1
   }, 
   "sailnumber": "NED6407", 
   "name": "TJOLER", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.32, 
       "draft": 1.56, 
+      "wetted_surface": 23.8, 
       "main": 24.4, 
       "genoa": 19.2, 
       "displacement": 5742.0, 
-      "spinnaker_asym": 56.0
+      "spinnaker_asym": 56.0, 
+      "crew": 380.0
     }, 
     "year": "1975"
   }, 

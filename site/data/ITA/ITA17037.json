@@ -5,12 +5,13 @@
       1.3494, 
       1.5269
     ], 
-    "gph": 566.4, 
     "triple_inshore": [
       0.7912, 
       1.0873, 
       1.2739
-    ]
+    ], 
+    "gph": 566.4, 
+    "osn": 550.8
   }, 
   "sailnumber": "ITA17037", 
   "name": "JAVAL 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 158.6, 
       "loa": 12.89, 
       "draft": 2.42, 
+      "wetted_surface": 39.2, 
       "main": 61.3, 
       "genoa": 49.3, 
       "displacement": 9470.0, 
-      "spinnaker_asym": 123.0
+      "spinnaker_asym": 123.0, 
+      "crew": 900.0
     }, 
     "year": "2012"
   }, 

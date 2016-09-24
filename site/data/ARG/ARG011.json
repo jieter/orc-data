@@ -5,12 +5,13 @@
       1.2069, 
       1.3769
     ], 
-    "gph": 629.2, 
     "triple_inshore": [
       0.722, 
       0.9783, 
       1.1234
-    ]
+    ], 
+    "gph": 629.2, 
+    "osn": 612.4
   }, 
   "sailnumber": "ARG011", 
   "name": "RUFIAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 52.7, 
       "loa": 9.12, 
       "draft": 1.72, 
+      "wetted_surface": 16.6, 
       "main": 33.0, 
       "genoa": 17.4, 
       "displacement": 2087.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 511.0
     }, 
     "year": "1993"
   }, 

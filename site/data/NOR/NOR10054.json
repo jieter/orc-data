@@ -5,12 +5,13 @@
       1.1757, 
       1.3405
     ], 
-    "gph": 650.7, 
     "triple_inshore": [
       0.6847, 
       0.9447, 
       1.1215
-    ]
+    ], 
+    "gph": 650.7, 
+    "osn": 631.5
   }, 
   "sailnumber": "NOR10054", 
   "name": "Agnora", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.0, 
       "loa": 10.95, 
       "draft": 2.11, 
+      "wetted_surface": 29.9, 
       "main": 38.0, 
       "genoa": 40.2, 
       "displacement": 6894.0, 
-      "spinnaker_asym": 87.0
+      "spinnaker_asym": 87.0, 
+      "crew": 674.0
     }, 
     "year": "2001"
   }, 

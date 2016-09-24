@@ -5,12 +5,13 @@
       1.205, 
       1.3642
     ], 
-    "gph": 632.3, 
     "triple_inshore": [
       0.7177, 
       0.9821, 
       1.1388
-    ]
+    ], 
+    "gph": 632.3, 
+    "osn": 614.1
   }, 
   "sailnumber": "NED4587", 
   "name": "GT Yachtbrokers", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.4, 
       "loa": 10.173, 
       "draft": 1.93, 
+      "wetted_surface": 22.5, 
       "main": 32.2, 
       "genoa": 26.5, 
       "displacement": 3634.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 575.0
     }, 
     "year": "1988"
   }, 

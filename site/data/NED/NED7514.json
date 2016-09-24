@@ -5,12 +5,13 @@
       1.1343, 
       1.2946
     ], 
-    "gph": 675.4, 
     "triple_inshore": [
       0.6596, 
       0.9165, 
       1.0793
-    ]
+    ], 
+    "gph": 675.4, 
+    "osn": 653.8
   }, 
   "sailnumber": "NED7514", 
   "name": "Sharkos", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.8, 
       "loa": 9.49, 
       "draft": 1.92, 
+      "wetted_surface": 22.0, 
       "main": 24.6, 
       "genoa": 28.8, 
       "displacement": 3679.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1998"
   }, 

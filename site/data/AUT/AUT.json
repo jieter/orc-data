@@ -5,12 +5,13 @@
       1.3749, 
       1.6247
     ], 
-    "gph": 546.8, 
     "triple_inshore": [
       0.8405, 
       1.0931, 
       1.3124
-    ]
+    ], 
+    "gph": 546.8, 
+    "osn": 533.9
   }, 
   "sailnumber": "AUT", 
   "name": "Sticky Fingers", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.3, 
       "loa": 9.96, 
       "draft": 1.73, 
+      "wetted_surface": 14.3, 
       "main": 29.4, 
       "genoa": 23.9, 
       "displacement": 1128.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1982"
   }, 

@@ -5,12 +5,13 @@
       1.3231, 
       1.5607
     ], 
-    "gph": 569.1, 
     "triple_inshore": [
       0.8073, 
       1.0621, 
       1.2728
-    ]
+    ], 
+    "gph": 569.1, 
+    "osn": 555.2
   }, 
   "sailnumber": "ITA2801", 
   "name": "MERCENARIA GILDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.555, 
       "draft": 2.27, 
+      "wetted_surface": 15.2, 
       "main": 27.9, 
       "genoa": 19.0, 
       "displacement": 1213.0, 
-      "spinnaker_asym": 85.0
+      "spinnaker_asym": 85.0, 
+      "crew": 485.0
     }, 
     "year": "2006"
   }, 

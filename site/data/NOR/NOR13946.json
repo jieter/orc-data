@@ -5,12 +5,13 @@
       1.1723, 
       1.3331
     ], 
-    "gph": 651.6, 
     "triple_inshore": [
       0.6908, 
       0.9498, 
       1.12
-    ]
+    ], 
+    "gph": 651.6, 
+    "osn": 632.0
   }, 
   "sailnumber": "NOR13946", 
   "name": "Just 4 Fun", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.0, 
       "loa": 9.99, 
       "draft": 2.15, 
+      "wetted_surface": 25.2, 
       "main": 34.1, 
       "genoa": 28.3, 
       "displacement": 5224.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 632.0
     }, 
     "year": "2008"
   }, 

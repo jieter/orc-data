@@ -5,12 +5,13 @@
       1.2176, 
       1.3572
     ], 
-    "gph": 624.4, 
     "triple_inshore": [
       0.7311, 
       0.9878, 
       1.1382
-    ]
+    ], 
+    "gph": 624.4, 
+    "osn": 609.4
   }, 
   "sailnumber": "ESP7658", 
   "name": "CABO NEGRO UNO", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.1, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.9, 
       "main": 40.4, 
       "genoa": 41.5, 
       "displacement": 5775.0, 
-      "spinnaker_asym": 98.0
+      "spinnaker_asym": 98.0, 
+      "crew": 490.0
     }, 
     "year": "2001"
   }, 

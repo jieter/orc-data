@@ -5,12 +5,13 @@
       1.1449, 
       1.3036
     ], 
-    "gph": 668.6, 
     "triple_inshore": [
       0.6662, 
       0.9188, 
       1.0848
-    ]
+    ], 
+    "gph": 668.6, 
+    "osn": 649.0
   }, 
   "sailnumber": "ESP7511_C", 
   "name": "ARAMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.5, 
       "loa": 10.35, 
       "draft": 1.74, 
+      "wetted_surface": 24.6, 
       "main": 35.6, 
       "genoa": 22.5, 
       "displacement": 5197.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2004"
   }, 

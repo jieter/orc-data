@@ -5,12 +5,13 @@
       1.2318, 
       1.405
     ], 
-    "gph": 621.9, 
     "triple_inshore": [
       0.718, 
       0.9914, 
       1.1764
-    ]
+    ], 
+    "gph": 621.9, 
+    "osn": 602.5
   }, 
   "sailnumber": "NED5777", 
   "name": "ONYX", 
@@ -25,10 +26,12 @@
       "spinnaker": 120.3, 
       "loa": 12.52, 
       "draft": 2.22, 
+      "wetted_surface": 31.8, 
       "main": 39.9, 
       "genoa": 36.3, 
       "displacement": 7702.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1994"
   }, 

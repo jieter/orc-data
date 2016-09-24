@@ -5,12 +5,13 @@
       1.315, 
       1.4758
     ], 
-    "gph": 579.4, 
     "triple_inshore": [
       0.7815, 
       1.0661, 
       1.2321
-    ]
+    ], 
+    "gph": 579.4, 
+    "osn": 564.5
   }, 
   "sailnumber": "ITA6326", 
   "name": "MELX II - P.L. FERRARI", 
@@ -25,10 +26,12 @@
       "spinnaker": 114.1, 
       "loa": 12.09, 
       "draft": 2.41, 
+      "wetted_surface": 30.4, 
       "main": 56.3, 
       "genoa": 38.1, 
       "displacement": 6664.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 795.0
     }, 
     "year": "2001"
   }, 

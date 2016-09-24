@@ -5,12 +5,13 @@
       1.0436, 
       1.1765
     ], 
-    "gph": 735.0, 
     "triple_inshore": [
       0.6046, 
       0.83, 
       0.9703
-    ]
+    ], 
+    "gph": 735.0, 
+    "osn": 714.2
   }, 
   "sailnumber": "ITASTINA", 
   "name": "CRISTINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 1.62, 
+      "wetted_surface": 21.9, 
       "main": 23.4, 
       "genoa": 32.6, 
       "displacement": 4480.0, 
-      "spinnaker_asym": 71.0
+      "spinnaker_asym": 71.0, 
+      "crew": 400.0
     }, 
     "year": "1979"
   }, 

@@ -5,12 +5,13 @@
       1.2166, 
       1.3883
     ], 
-    "gph": 630.8, 
     "triple_inshore": [
       0.7004, 
       0.9764, 
       1.1579
-    ]
+    ], 
+    "gph": 630.8, 
+    "osn": 611.4
   }, 
   "sailnumber": "ESP10065", 
   "name": "PANTALAN ZERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.97, 
       "draft": 2.21, 
+      "wetted_surface": 29.4, 
       "main": 41.3, 
       "genoa": 30.9, 
       "displacement": 6422.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 580.0
     }, 
     "year": "2012"
   }, 

@@ -5,12 +5,13 @@
       1.1085, 
       1.2483
     ], 
-    "gph": 680.5, 
     "triple_inshore": [
       0.6871, 
       0.9099, 
       1.0299
-    ]
+    ], 
+    "gph": 680.5, 
+    "osn": 662.9
   }, 
   "sailnumber": "ITA25020", 
   "name": "STREGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 44.3, 
       "loa": 7.512, 
       "draft": 1.57, 
+      "wetted_surface": 12.2, 
       "main": 20.8, 
       "genoa": 13.1, 
       "displacement": 1317.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 370.0
     }, 
     "year": "1997"
   }, 

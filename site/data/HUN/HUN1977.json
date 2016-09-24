@@ -5,12 +5,13 @@
       1.3059, 
       1.4548
     ], 
-    "gph": 580.8, 
     "triple_inshore": [
       0.7801, 
       1.0465, 
       1.1905
-    ]
+    ], 
+    "gph": 580.8, 
+    "osn": 569.0
   }, 
   "sailnumber": "HUN1977", 
   "name": "Essentia", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.5, 
       "draft": 1.89, 
+      "wetted_surface": 31.6, 
       "main": 48.7, 
       "genoa": 44.9, 
       "displacement": 6870.0, 
-      "spinnaker_asym": 156.0
+      "spinnaker_asym": 156.0, 
+      "crew": 817.0
     }, 
     "year": "2014"
   }, 

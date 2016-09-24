@@ -5,12 +5,13 @@
       1.2389, 
       1.4225
     ], 
-    "gph": 618.6, 
     "triple_inshore": [
       0.7155, 
       0.9931, 
       1.1889
-    ]
+    ], 
+    "gph": 618.6, 
+    "osn": 599.8
   }, 
   "sailnumber": "NED8277", 
   "name": "Swinde", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.2, 
       "loa": 11.995, 
       "draft": 1.98, 
+      "wetted_surface": 33.9, 
       "main": 48.1, 
       "genoa": 32.5, 
       "displacement": 8199.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 594.0
     }, 
     "year": "2004"
   }, 

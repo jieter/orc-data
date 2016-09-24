@@ -5,12 +5,13 @@
       1.2225, 
       1.362
     ], 
-    "gph": 613.5, 
     "triple_inshore": [
       0.7675, 
       1.0003, 
       1.1363
-    ]
+    ], 
+    "gph": 613.5, 
+    "osn": 602.0
   }, 
   "sailnumber": "HUN911", 
   "name": "Bonifacio", 
@@ -25,10 +26,12 @@
       "spinnaker": 113.8, 
       "loa": 9.6, 
       "draft": 1.95, 
+      "wetted_surface": 22.0, 
       "main": 39.9, 
       "genoa": 24.4, 
       "displacement": 3712.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2004"
   }, 

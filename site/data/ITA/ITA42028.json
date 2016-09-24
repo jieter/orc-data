@@ -5,12 +5,13 @@
       1.403, 
       1.5768
     ], 
-    "gph": 541.5, 
     "triple_inshore": [
       0.8446, 
       1.1374, 
       1.298
-    ]
+    ], 
+    "gph": 541.5, 
+    "osn": 526.9
   }, 
   "sailnumber": "ITA42028", 
   "name": "BLUE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.96, 
       "draft": 2.74, 
+      "wetted_surface": 34.9, 
       "main": 62.2, 
       "genoa": 48.3, 
       "displacement": 7672.0, 
-      "spinnaker_asym": 184.0
+      "spinnaker_asym": 184.0, 
+      "crew": 915.0
     }, 
     "year": "2006"
   }, 

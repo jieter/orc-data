@@ -5,12 +5,13 @@
       1.2971, 
       1.4589
     ], 
-    "gph": 589.0, 
     "triple_inshore": [
       0.7626, 
       1.0389, 
       1.2002
-    ]
+    ], 
+    "gph": 589.0, 
+    "osn": 572.9
   }, 
   "sailnumber": "NED904SH", 
   "name": "Windsprint", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.95, 
       "draft": 2.17, 
+      "wetted_surface": 33.6, 
       "main": 51.0, 
       "genoa": 37.0, 
       "displacement": 7365.0, 
-      "spinnaker_asym": 132.0
+      "spinnaker_asym": 132.0, 
+      "crew": 175.0
     }, 
     "year": "2013"
   }, 

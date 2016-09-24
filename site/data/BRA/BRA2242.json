@@ -5,12 +5,13 @@
       1.1375, 
       1.2797
     ], 
-    "gph": 667.9, 
     "triple_inshore": [
       0.6894, 
       0.9339, 
       1.0714
-    ]
+    ], 
+    "gph": 667.9, 
+    "osn": 648.8
   }, 
   "sailnumber": "BRA2242", 
   "name": "ROCKET POWER", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.1, 
       "loa": 8.4, 
       "draft": 1.96, 
+      "wetted_surface": 16.3, 
       "main": 22.4, 
       "genoa": 20.1, 
       "displacement": 2197.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1993"
   }, 

@@ -5,12 +5,13 @@
       1.2556, 
       1.4097
     ], 
-    "gph": 607.3, 
     "triple_inshore": [
       0.7432, 
       1.0111, 
       1.1719
-    ]
+    ], 
+    "gph": 607.3, 
+    "osn": 591.6
   }, 
   "sailnumber": "GER5033", 
   "name": "SWANWIT", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.3, 
       "loa": 12.222, 
       "draft": 1.88, 
+      "wetted_surface": 28.0, 
       "main": 36.9, 
       "genoa": 43.8, 
       "displacement": 5478.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1989"
   }, 

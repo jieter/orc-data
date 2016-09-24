@@ -5,12 +5,13 @@
       1.2645, 
       1.4243
     ], 
-    "gph": 603.0, 
     "triple_inshore": [
       0.7484, 
       1.0215, 
       1.1937
-    ]
+    ], 
+    "gph": 603.0, 
+    "osn": 587.1
   }, 
   "sailnumber": "ITA414", 
   "name": "AMELIE", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.2, 
       "loa": 12.165, 
       "draft": 2.42, 
+      "wetted_surface": 31.3, 
       "main": 48.4, 
       "genoa": 49.2, 
       "displacement": 7522.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1994"
   }, 

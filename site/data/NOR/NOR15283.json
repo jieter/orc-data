@@ -5,12 +5,13 @@
       1.3582, 
       1.5214
     ], 
-    "gph": 563.1, 
     "triple_inshore": [
       0.7955, 
       1.0871, 
       1.2511
-    ]
+    ], 
+    "gph": 563.1, 
+    "osn": 548.3
   }, 
   "sailnumber": "NOR15283", 
   "name": "Framtia", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.29, 
       "draft": 2.68, 
+      "wetted_surface": 39.2, 
       "main": 61.7, 
       "genoa": 48.6, 
       "displacement": 9371.0, 
-      "spinnaker_asym": 160.0
+      "spinnaker_asym": 160.0, 
+      "crew": 898.0
     }, 
     "year": "2011"
   }, 

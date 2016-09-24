@@ -5,12 +5,13 @@
       1.1394, 
       1.2501
     ], 
-    "gph": 661.4, 
     "triple_inshore": [
       0.7096, 
       0.9355, 
       1.0587
-    ]
+    ], 
+    "gph": 661.4, 
+    "osn": 648.1
   }, 
   "sailnumber": "SUI12", 
   "name": "EVITA", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.3, 
       "loa": 9.905, 
       "draft": 1.73, 
+      "wetted_surface": 17.2, 
       "main": 25.0, 
       "genoa": 30.6, 
       "displacement": 3084.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1979"
   }, 

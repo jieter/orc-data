@@ -5,12 +5,13 @@
       1.2196, 
       1.3818
     ], 
-    "gph": 625.6, 
     "triple_inshore": [
       0.72, 
       0.9817, 
       1.1386
-    ]
+    ], 
+    "gph": 625.6, 
+    "osn": 608.5
   }, 
   "sailnumber": "ITA17174", 
   "name": "TAKE FIVE JR", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.1, 
       "loa": 10.3, 
       "draft": 1.9, 
+      "wetted_surface": 24.8, 
       "main": 37.3, 
       "genoa": 32.6, 
       "displacement": 4499.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2014"
   }, 

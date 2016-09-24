@@ -5,12 +5,13 @@
       1.3668, 
       1.551
     ], 
-    "gph": 560.0, 
     "triple_inshore": [
       0.7969, 
       1.1012, 
       1.2916
-    ]
+    ], 
+    "gph": 560.0, 
+    "osn": 544.0
   }, 
   "sailnumber": "ESP10044", 
   "name": "FELIPEVA VI", 
@@ -25,10 +26,12 @@
       "spinnaker": 164.7, 
       "loa": 13.305, 
       "draft": 2.69, 
+      "wetted_surface": 39.4, 
       "main": 62.3, 
       "genoa": 47.1, 
       "displacement": 9545.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "2011"
   }, 

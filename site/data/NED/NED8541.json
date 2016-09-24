@@ -5,12 +5,13 @@
       1.2348, 
       1.3814
     ], 
-    "gph": 614.7, 
     "triple_inshore": [
       0.735, 
       0.9826, 
       1.1282
-    ]
+    ], 
+    "gph": 614.7, 
+    "osn": 601.9
   }, 
   "sailnumber": "NED8541", 
   "name": "Wave Impact", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.5, 
       "draft": 1.74, 
+      "wetted_surface": 27.3, 
       "main": 39.2, 
       "genoa": 31.5, 
       "displacement": 5503.0, 
-      "spinnaker_asym": 110.0
+      "spinnaker_asym": 110.0, 
+      "crew": 480.0
     }, 
     "year": "2010"
   }, 

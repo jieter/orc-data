@@ -5,12 +5,13 @@
       1.1899, 
       1.3388
     ], 
-    "gph": 641.8, 
     "triple_inshore": [
       0.702, 
       0.9589, 
       1.1182
-    ]
+    ], 
+    "gph": 641.8, 
+    "osn": 624.4
   }, 
   "sailnumber": "GER5933", 
   "name": "GLUCKSSPIEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.4, 
       "loa": 10.515, 
       "draft": 2.0, 
+      "wetted_surface": 27.7, 
       "main": 39.9, 
       "genoa": 31.3, 
       "displacement": 6017.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 440.0
     }, 
     "year": "2007"
   }, 

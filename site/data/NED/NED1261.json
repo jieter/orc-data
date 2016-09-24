@@ -5,12 +5,13 @@
       1.1424, 
       1.3102
     ], 
-    "gph": 668.3, 
     "triple_inshore": [
       0.67, 
       0.9091, 
       1.0889
-    ]
+    ], 
+    "gph": 668.3, 
+    "osn": 649.8
   }, 
   "sailnumber": "NED1261", 
   "name": "PINTA M", 
@@ -25,10 +26,12 @@
       "spinnaker": 125.7, 
       "loa": 12.39, 
       "draft": 2.08, 
+      "wetted_surface": 34.5, 
       "main": 32.5, 
       "genoa": 63.1, 
       "displacement": 11329.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 645.0
     }, 
     "year": "1972"
   }, 

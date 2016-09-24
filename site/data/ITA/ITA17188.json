@@ -5,12 +5,13 @@
       1.2035, 
       1.365
     ], 
-    "gph": 637.6, 
     "triple_inshore": [
       0.6924, 
       0.9551, 
       1.1078
-    ]
+    ], 
+    "gph": 637.6, 
+    "osn": 618.9
   }, 
   "sailnumber": "ITA17188", 
   "name": "XENIA 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.98, 
       "draft": 1.93, 
+      "wetted_surface": 26.9, 
       "main": 37.2, 
       "genoa": 27.8, 
       "displacement": 4729.0, 
-      "spinnaker_asym": 90.0
+      "spinnaker_asym": 90.0, 
+      "crew": 480.0
     }, 
     "year": "2011"
   }, 

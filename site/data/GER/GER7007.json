@@ -5,12 +5,13 @@
       1.641, 
       1.9338
     ], 
-    "gph": 462.3, 
     "triple_inshore": [
       0.9733, 
       1.3051, 
       1.5547
-    ]
+    ], 
+    "gph": 462.3, 
+    "osn": 449.6
   }, 
   "sailnumber": "GER7007", 
   "name": "BLACK PEARL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.3, 
       "draft": 3.44, 
+      "wetted_surface": 40.3, 
       "main": 80.9, 
       "genoa": 57.2, 
       "displacement": 6158.0, 
-      "spinnaker_asym": 245.0
+      "spinnaker_asym": 245.0, 
+      "crew": 875.0
     }, 
     "year": "2013"
   }, 

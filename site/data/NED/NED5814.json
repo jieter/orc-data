@@ -5,12 +5,13 @@
       1.1759, 
       1.3495
     ], 
-    "gph": 651.4, 
     "triple_inshore": [
       0.6865, 
       0.9459, 
       1.1357
-    ]
+    ], 
+    "gph": 651.4, 
+    "osn": 630.5
   }, 
   "sailnumber": "NED5814", 
   "name": "BOEBES", 
@@ -25,10 +26,12 @@
       "spinnaker": 115.5, 
       "loa": 11.9, 
       "draft": 2.25, 
+      "wetted_surface": 32.6, 
       "main": 34.1, 
       "genoa": 37.5, 
       "displacement": 8663.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 720.0
     }, 
     "year": "1978"
   }, 

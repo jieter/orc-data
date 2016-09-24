@@ -5,12 +5,13 @@
       1.4403, 
       1.6435
     ], 
-    "gph": 529.0, 
     "triple_inshore": [
       0.8542, 
       1.1687, 
       1.359
-    ]
+    ], 
+    "gph": 529.0, 
+    "osn": 513.2
   }, 
   "sailnumber": "NED8843", 
   "name": "Luctor 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.094, 
       "draft": 2.78, 
+      "wetted_surface": 36.6, 
       "main": 61.8, 
       "genoa": 46.6, 
       "displacement": 7595.0, 
-      "spinnaker_asym": 199.0
+      "spinnaker_asym": 199.0, 
+      "crew": 908.0
     }, 
     "year": "2001"
   }, 

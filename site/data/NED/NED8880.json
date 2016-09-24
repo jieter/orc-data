@@ -5,12 +5,13 @@
       1.3462, 
       1.526
     ], 
-    "gph": 568.6, 
     "triple_inshore": [
       0.7796, 
       1.0689, 
       1.2525
-    ]
+    ], 
+    "gph": 568.6, 
+    "osn": 553.6
   }, 
   "sailnumber": "NED8880", 
   "name": "Seven", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.1, 
       "draft": 2.22, 
+      "wetted_surface": 42.9, 
       "main": 68.4, 
       "genoa": 52.8, 
       "displacement": 12386.0, 
-      "spinnaker_asym": 145.0
+      "spinnaker_asym": 145.0, 
+      "crew": 975.0
     }, 
     "year": "2008"
   }, 

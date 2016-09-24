@@ -5,12 +5,13 @@
       1.1832, 
       1.3408
     ], 
-    "gph": 645.3, 
     "triple_inshore": [
       0.6999, 
       0.9614, 
       1.1215
-    ]
+    ], 
+    "gph": 645.3, 
+    "osn": 626.2
   }, 
   "sailnumber": "NED3833", 
   "name": "JIMP", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.3, 
       "loa": 10.173, 
       "draft": 1.95, 
+      "wetted_surface": 23.1, 
       "main": 31.7, 
       "genoa": 26.7, 
       "displacement": 3904.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1988"
   }, 

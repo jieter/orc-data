@@ -5,12 +5,13 @@
       1.2, 
       1.3549
     ], 
-    "gph": 634.7, 
     "triple_inshore": [
       0.7124, 
       0.9645, 
       1.134
-    ]
+    ], 
+    "gph": 634.7, 
+    "osn": 618.4
   }, 
   "sailnumber": "ITA10951", 
   "name": "GIGIAT", 
@@ -25,10 +26,12 @@
       "spinnaker": 116.2, 
       "loa": 11.96, 
       "draft": 2.04, 
+      "wetted_surface": 31.8, 
       "main": 37.4, 
       "genoa": 60.6, 
       "displacement": 8765.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 620.0
     }, 
     "year": "1986"
   }, 

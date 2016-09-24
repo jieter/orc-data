@@ -5,12 +5,13 @@
       1.2974, 
       1.5006
     ], 
-    "gph": 593.7, 
     "triple_inshore": [
       0.7279, 
       1.0237, 
       1.2309
-    ]
+    ], 
+    "gph": 593.7, 
+    "osn": 576.0
   }, 
   "sailnumber": "ESP5550", 
   "name": "ISABEL.LA", 
@@ -25,10 +26,12 @@
       "spinnaker": 133.1, 
       "loa": 14.506, 
       "draft": 2.27, 
+      "wetted_surface": 43.4, 
       "main": 59.1, 
       "genoa": 63.3, 
       "displacement": 11644.0, 
-      "spinnaker_asym": 117.0
+      "spinnaker_asym": 117.0, 
+      "crew": 966.0
     }, 
     "year": "1999"
   }, 

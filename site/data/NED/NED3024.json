@@ -5,12 +5,13 @@
       1.0594, 
       1.204
     ], 
-    "gph": 724.3, 
     "triple_inshore": [
       0.612, 
       0.8418, 
       0.9959
-    ]
+    ], 
+    "gph": 724.3, 
+    "osn": 702.7
   }, 
   "sailnumber": "NED3024", 
   "name": "BORDINE", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.4, 
       "loa": 10.69, 
       "draft": 1.65, 
+      "wetted_surface": 24.1, 
       "main": 22.8, 
       "genoa": 40.0, 
       "displacement": 5925.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 564.0
     }, 
     "year": "1981"
   }, 

@@ -5,12 +5,13 @@
       1.1474, 
       1.3354
     ], 
-    "gph": 669.4, 
     "triple_inshore": [
       0.6559, 
       0.9185, 
       1.1189
-    ]
+    ], 
+    "gph": 669.4, 
+    "osn": 647.6
   }, 
   "sailnumber": "ITA15394", 
   "name": "MUSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.6, 
       "loa": 10.944, 
       "draft": 2.09, 
+      "wetted_surface": 29.4, 
       "main": 35.3, 
       "genoa": 28.3, 
       "displacement": 6570.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "2002"
   }, 

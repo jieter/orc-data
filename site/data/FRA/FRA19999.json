@@ -5,12 +5,13 @@
       1.2159, 
       1.3779
     ], 
-    "gph": 628.1, 
     "triple_inshore": [
       0.714, 
       0.9813, 
       1.1392
-    ]
+    ], 
+    "gph": 628.1, 
+    "osn": 610.5
   }, 
   "sailnumber": "FRA19999", 
   "name": "YOALLA 4", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.6, 
       "loa": 10.5, 
       "draft": 2.03, 
+      "wetted_surface": 24.5, 
       "main": 36.8, 
       "genoa": 25.4, 
       "displacement": 4178.0, 
-      "spinnaker_asym": 62.0
+      "spinnaker_asym": 62.0, 
+      "crew": 550.0
     }, 
     "year": "1993"
   }, 

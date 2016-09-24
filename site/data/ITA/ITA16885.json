@@ -5,12 +5,13 @@
       1.1644, 
       1.3048
     ], 
-    "gph": 656.6, 
     "triple_inshore": [
       0.6841, 
       0.9334, 
       1.0743
-    ]
+    ], 
+    "gph": 656.6, 
+    "osn": 638.4
   }, 
   "sailnumber": "ITA16885", 
   "name": "BARONESA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.46, 
       "draft": 1.93, 
+      "wetted_surface": 23.1, 
       "main": 31.4, 
       "genoa": 23.3, 
       "displacement": 3951.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 250.0
     }, 
     "year": "2010"
   }, 

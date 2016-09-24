@@ -5,12 +5,13 @@
       1.337, 
       1.5385
     ], 
-    "gph": 567.9, 
     "triple_inshore": [
       0.8013, 
       1.0824, 
       1.2514
-    ]
+    ], 
+    "gph": 567.9, 
+    "osn": 551.8
   }, 
   "sailnumber": "NED7030", 
   "name": "Team Heiner II", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.2, 
       "loa": 10.419, 
       "draft": 2.2, 
+      "wetted_surface": 21.4, 
       "main": 40.0, 
       "genoa": 27.1, 
       "displacement": 2999.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "2002"
   }, 

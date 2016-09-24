@@ -5,12 +5,13 @@
       1.2093, 
       1.3853
     ], 
-    "gph": 631.7, 
     "triple_inshore": [
       0.6957, 
       0.969, 
       1.14
-    ]
+    ], 
+    "gph": 631.7, 
+    "osn": 614.7
   }, 
   "sailnumber": "NOR15393", 
   "name": "NN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.79, 
       "draft": 1.91, 
+      "wetted_surface": 23.0, 
       "main": 29.7, 
       "genoa": 25.7, 
       "displacement": 3752.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 587.0
     }, 
     "year": "2007"
   }, 

@@ -5,12 +5,13 @@
       1.0791, 
       1.2669
     ], 
-    "gph": 716.4, 
     "triple_inshore": [
       0.5954, 
       0.8606, 
       1.0595
-    ]
+    ], 
+    "gph": 716.4, 
+    "osn": 691.9
   }, 
   "sailnumber": "GRE1748", 
   "name": "APOLLON", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.1, 
       "draft": 1.93, 
+      "wetted_surface": 27.4, 
       "main": 31.0, 
       "genoa": 37.1, 
       "displacement": 6300.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 615.0
     }, 
     "year": "1990"
   }, 

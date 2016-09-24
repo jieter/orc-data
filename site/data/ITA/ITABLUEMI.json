@@ -5,12 +5,13 @@
       1.0331, 
       1.2365
     ], 
-    "gph": 751.1, 
     "triple_inshore": [
       0.5599, 
       0.8209, 
       1.0286
-    ]
+    ], 
+    "gph": 751.1, 
+    "osn": 722.7
   }, 
   "sailnumber": "ITABLUEMI", 
   "name": "BLUEMI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.1, 
       "draft": 1.67, 
+      "wetted_surface": 25.4, 
       "main": 25.5, 
       "genoa": 27.2, 
       "displacement": 4846.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 663.0
     }, 
     "year": "1999"
   }, 

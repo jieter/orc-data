@@ -5,12 +5,13 @@
       1.0611, 
       1.1934
     ], 
-    "gph": 717.9, 
     "triple_inshore": [
       0.6348, 
       0.8588, 
       1.0026
-    ]
+    ], 
+    "gph": 717.9, 
+    "osn": 698.4
   }, 
   "sailnumber": "NED3610", 
   "name": "MY FELLOW", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.8, 
       "loa": 9.35, 
       "draft": 1.86, 
+      "wetted_surface": 21.3, 
       "main": 21.6, 
       "genoa": 36.5, 
       "displacement": 4770.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 479.0
     }, 
     "year": "1974"
   }, 

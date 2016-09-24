@@ -5,12 +5,13 @@
       1.225, 
       1.3754
     ], 
-    "gph": 621.7, 
     "triple_inshore": [
       0.7288, 
       0.99, 
       1.1488
-    ]
+    ], 
+    "gph": 621.7, 
+    "osn": 605.6
   }, 
   "sailnumber": "NOR10844", 
   "name": "Ventus", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.3, 
       "loa": 10.79, 
       "draft": 2.02, 
+      "wetted_surface": 26.8, 
       "main": 39.6, 
       "genoa": 40.9, 
       "displacement": 5888.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 710.0
     }, 
     "year": "2004"
   }, 

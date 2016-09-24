@@ -5,12 +5,13 @@
       1.1501, 
       1.3042
     ], 
-    "gph": 663.6, 
     "triple_inshore": [
       0.6754, 
       0.906, 
       1.071
-    ]
+    ], 
+    "gph": 663.6, 
+    "osn": 647.5
   }, 
   "sailnumber": "GRE2862", 
   "name": "SEA EMERALD", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.045, 
       "draft": 2.17, 
+      "wetted_surface": 33.7, 
       "main": 34.3, 
       "genoa": 65.9, 
       "displacement": 10710.0, 
-      "spinnaker_asym": 103.0
+      "spinnaker_asym": 103.0, 
+      "crew": 450.0
     }, 
     "year": "1970"
   }, 

@@ -5,12 +5,13 @@
       1.4276, 
       1.6657
     ], 
-    "gph": 534.9, 
     "triple_inshore": [
       0.8238, 
       1.1306, 
       1.3257
-    ]
+    ], 
+    "gph": 534.9, 
+    "osn": 520.6
   }, 
   "sailnumber": "NOR7467", 
   "name": "Villanda", 
@@ -25,10 +26,12 @@
       "spinnaker": 113.1, 
       "loa": 12.75, 
       "draft": 2.2, 
+      "wetted_surface": 31.0, 
       "main": 53.9, 
       "genoa": 46.2, 
       "displacement": 4210.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 860.0
     }, 
     "year": "1987"
   }, 

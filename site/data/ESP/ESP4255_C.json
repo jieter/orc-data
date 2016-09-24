@@ -5,12 +5,13 @@
       1.1647, 
       1.3349
     ], 
-    "gph": 657.4, 
     "triple_inshore": [
       0.6766, 
       0.9476, 
       1.1169
-    ]
+    ], 
+    "gph": 657.4, 
+    "osn": 636.8
   }, 
   "sailnumber": "ESP4255_C", 
   "name": "ALBA III", 
@@ -25,10 +26,12 @@
       "spinnaker": 51.7, 
       "loa": 9.524, 
       "draft": 2.11, 
+      "wetted_surface": 20.3, 
       "main": 29.1, 
       "genoa": 25.8, 
       "displacement": 3012.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 470.0
     }, 
     "year": "1978"
   }, 

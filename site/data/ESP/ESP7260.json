@@ -5,12 +5,13 @@
       1.2356, 
       1.4035
     ], 
-    "gph": 619.9, 
     "triple_inshore": [
       0.7158, 
       0.9793, 
       1.1559
-    ]
+    ], 
+    "gph": 619.9, 
+    "osn": 603.0
   }, 
   "sailnumber": "ESP7260", 
   "name": "XEIC", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.425, 
       "draft": 2.27, 
+      "wetted_surface": 39.9, 
       "main": 48.4, 
       "genoa": 57.8, 
       "displacement": 11749.0, 
-      "spinnaker_asym": 132.0
+      "spinnaker_asym": 132.0, 
+      "crew": 700.0
     }, 
     "year": "1987"
   }, 

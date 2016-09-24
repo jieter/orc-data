@@ -5,12 +5,13 @@
       0.9002, 
       1.0487
     ], 
-    "gph": 856.7, 
     "triple_inshore": [
       0.5101, 
       0.7241, 
       0.8771
-    ]
+    ], 
+    "gph": 856.7, 
+    "osn": 824.8
   }, 
   "sailnumber": "GRE49032", 
   "name": "ANEMORIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.89, 
       "draft": 1.59, 
+      "wetted_surface": 17.4, 
       "main": 17.8, 
       "genoa": 20.9, 
       "displacement": 3477.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1993"
   }, 

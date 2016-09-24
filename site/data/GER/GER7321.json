@@ -5,12 +5,13 @@
       1.2182, 
       1.3942
     ], 
-    "gph": 619.1, 
     "triple_inshore": [
       0.7439, 
       0.9784, 
       1.1309
-    ]
+    ], 
+    "gph": 619.1, 
+    "osn": 605.2
   }, 
   "sailnumber": "GER7321", 
   "name": "UPDATE FF", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.99, 
       "draft": 1.96, 
+      "wetted_surface": 16.0, 
       "main": 26.9, 
       "genoa": 19.5, 
       "displacement": 1575.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 367.0
     }, 
     "year": "2012"
   }, 

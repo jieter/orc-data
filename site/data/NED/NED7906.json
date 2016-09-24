@@ -5,12 +5,13 @@
       1.2185, 
       1.3789
     ], 
-    "gph": 626.7, 
     "triple_inshore": [
       0.7183, 
       0.9812, 
       1.1334
-    ]
+    ], 
+    "gph": 626.7, 
+    "osn": 608.3
   }, 
   "sailnumber": "NED7906", 
   "name": "JEM", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.57, 
       "draft": 2.02, 
+      "wetted_surface": 25.1, 
       "main": 34.2, 
       "genoa": 26.5, 
       "displacement": 4106.0, 
-      "spinnaker_asym": 96.0
+      "spinnaker_asym": 96.0, 
+      "crew": 480.0
     }, 
     "year": "1992"
   }, 

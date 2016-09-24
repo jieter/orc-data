@@ -5,12 +5,13 @@
       1.1618, 
       1.3084
     ], 
-    "gph": 656.8, 
     "triple_inshore": [
       0.6877, 
       0.9379, 
       1.0919
-    ]
+    ], 
+    "gph": 656.8, 
+    "osn": 638.8
   }, 
   "sailnumber": "LAT165_C", 
   "name": "VIMARA", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.2, 
       "loa": 10.35, 
       "draft": 1.74, 
+      "wetted_surface": 24.6, 
       "main": 34.2, 
       "genoa": 28.2, 
       "displacement": 5197.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       1.2576, 
       1.4307
     ], 
-    "gph": 606.6, 
     "triple_inshore": [
       0.7407, 
       1.0185, 
       1.1895
-    ]
+    ], 
+    "gph": 606.6, 
+    "osn": 589.2
   }, 
   "sailnumber": "NOR14406", 
   "name": "Granuaile", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.6, 
       "draft": 2.12, 
+      "wetted_surface": 27.4, 
       "main": 39.4, 
       "genoa": 31.1, 
       "displacement": 5217.0, 
-      "spinnaker_asym": 117.0
+      "spinnaker_asym": 117.0, 
+      "crew": 692.0
     }, 
     "year": "2009"
   }, 

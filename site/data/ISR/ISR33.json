@@ -5,12 +5,13 @@
       1.0841, 
       1.2633
     ], 
-    "gph": 710.5, 
     "triple_inshore": [
       0.6078, 
       0.8514, 
       1.031
-    ]
+    ], 
+    "gph": 710.5, 
+    "osn": 688.9
   }, 
   "sailnumber": "ISR33", 
   "name": "Wee Helly", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.078, 
       "draft": 1.68, 
+      "wetted_surface": 24.4, 
       "main": 32.4, 
       "genoa": 18.6, 
       "displacement": 4670.0, 
-      "spinnaker_asym": 59.0
+      "spinnaker_asym": 59.0, 
+      "crew": 593.0
     }, 
     "year": "2003"
   }, 

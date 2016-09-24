@@ -5,12 +5,13 @@
       1.3246, 
       1.5037
     ], 
-    "gph": 574.7, 
     "triple_inshore": [
       0.7732, 
       1.0643, 
       1.2501
-    ]
+    ], 
+    "gph": 574.7, 
+    "osn": 561.2
   }, 
   "sailnumber": "NOR15410", 
   "name": "Blanke Arc ^2", 
@@ -25,10 +26,12 @@
       "spinnaker": 129.4, 
       "loa": 12.2, 
       "draft": 2.2, 
+      "wetted_surface": 35.0, 
       "main": 56.0, 
       "genoa": 41.5, 
       "displacement": 7978.0, 
-      "spinnaker_asym": 122.0
+      "spinnaker_asym": 122.0, 
+      "crew": 828.0
     }, 
     "year": "2011"
   }, 

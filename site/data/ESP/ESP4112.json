@@ -5,12 +5,13 @@
       1.0791, 
       1.2286
     ], 
-    "gph": 710.5, 
     "triple_inshore": [
       0.6256, 
       0.866, 
       1.0196
-    ]
+    ], 
+    "gph": 710.5, 
+    "osn": 688.8
   }, 
   "sailnumber": "ESP4112", 
   "name": "NIHAL", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.3, 
       "loa": 9.97, 
       "draft": 1.72, 
+      "wetted_surface": 20.3, 
       "main": 21.9, 
       "genoa": 27.7, 
       "displacement": 3523.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1985"
   }, 

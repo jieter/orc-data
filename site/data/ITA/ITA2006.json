@@ -5,12 +5,13 @@
       1.2626, 
       1.4183
     ], 
-    "gph": 604.8, 
     "triple_inshore": [
       0.7441, 
       1.0118, 
       1.1739
-    ]
+    ], 
+    "gph": 604.8, 
+    "osn": 588.6
   }, 
   "sailnumber": "ITA2006", 
   "name": "OTTOVOLANTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.016, 
       "draft": 2.44, 
+      "wetted_surface": 32.8, 
       "main": 46.9, 
       "genoa": 47.0, 
       "displacement": 7734.0, 
-      "spinnaker_asym": 113.0
+      "spinnaker_asym": 113.0, 
+      "crew": 720.0
     }, 
     "year": "2000"
   }, 

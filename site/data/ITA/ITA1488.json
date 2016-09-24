@@ -5,12 +5,13 @@
       1.2985, 
       1.4596
     ], 
-    "gph": 588.5, 
     "triple_inshore": [
       0.7636, 
       1.0436, 
       1.2052
-    ]
+    ], 
+    "gph": 588.5, 
+    "osn": 571.9
   }, 
   "sailnumber": "ITA1488", 
   "name": "SKY HUNTER II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.19, 
       "draft": 2.24, 
+      "wetted_surface": 33.0, 
       "main": 49.2, 
       "genoa": 41.8, 
       "displacement": 7515.0, 
-      "spinnaker_asym": 144.0
+      "spinnaker_asym": 144.0, 
+      "crew": 720.0
     }, 
     "year": "2006"
   }, 

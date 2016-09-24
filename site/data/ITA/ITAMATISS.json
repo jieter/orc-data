@@ -5,12 +5,13 @@
       1.1075, 
       1.2824
     ], 
-    "gph": 694.3, 
     "triple_inshore": [
       0.6327, 
       0.8908, 
       1.0715
-    ]
+    ], 
+    "gph": 694.3, 
+    "osn": 671.0
   }, 
   "sailnumber": "ITAMATISS", 
   "name": "MATISSE", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.6, 
       "loa": 9.5, 
       "draft": 1.92, 
+      "wetted_surface": 22.2, 
       "main": 22.3, 
       "genoa": 27.3, 
       "displacement": 3871.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 584.0
     }, 
     "year": "1998"
   }, 

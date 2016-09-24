@@ -5,12 +5,13 @@
       1.3127, 
       1.4816
     ], 
-    "gph": 581.9, 
     "triple_inshore": [
       0.7691, 
       1.0554, 
       1.2348
-    ]
+    ], 
+    "gph": 581.9, 
+    "osn": 566.6
   }, 
   "sailnumber": "GER6861", 
   "name": "EOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 139.6, 
       "loa": 12.86, 
       "draft": 2.58, 
+      "wetted_surface": 37.8, 
       "main": 53.9, 
       "genoa": 62.7, 
       "displacement": 9582.0, 
-      "spinnaker_asym": 146.0
+      "spinnaker_asym": 146.0, 
+      "crew": 813.0
     }, 
     "year": "2000"
   }, 

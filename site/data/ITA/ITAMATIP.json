@@ -5,12 +5,13 @@
       0.9908, 
       1.1707
     ], 
-    "gph": 777.7, 
     "triple_inshore": [
       0.5567, 
       0.7879, 
       0.9791
-    ]
+    ], 
+    "gph": 777.7, 
+    "osn": 750.9
   }, 
   "sailnumber": "ITAMATIP", 
   "name": "MATIPA", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.5, 
       "loa": 9.48, 
       "draft": 1.86, 
+      "wetted_surface": 21.8, 
       "main": 17.3, 
       "genoa": 29.3, 
       "displacement": 4704.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 503.0
     }, 
     "year": "1972"
   }, 

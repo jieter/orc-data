@@ -5,12 +5,13 @@
       1.174, 
       1.3405
     ], 
-    "gph": 651.6, 
     "triple_inshore": [
       0.6859, 
       0.9474, 
       1.1255
-    ]
+    ], 
+    "gph": 651.6, 
+    "osn": 631.7
   }, 
   "sailnumber": "ITA16546", 
   "name": "DOLCEREZZA", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.0, 
       "loa": 10.65, 
       "draft": 2.15, 
+      "wetted_surface": 25.1, 
       "main": 33.3, 
       "genoa": 29.1, 
       "displacement": 5624.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 480.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.0165, 
       1.2218
     ], 
-    "gph": 762.6, 
     "triple_inshore": [
       0.5509, 
       0.8042, 
       1.0117
-    ]
+    ], 
+    "gph": 762.6, 
+    "osn": 734.7
   }, 
   "sailnumber": "GRE1753", 
   "name": "SEA DELIGHT", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.8, 
       "draft": 1.52, 
+      "wetted_surface": 26.7, 
       "main": 22.3, 
       "genoa": 33.3, 
       "displacement": 6000.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1998"
   }, 

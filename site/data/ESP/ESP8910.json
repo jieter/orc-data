@@ -5,12 +5,13 @@
       1.1745, 
       1.3254
     ], 
-    "gph": 650.7, 
     "triple_inshore": [
       0.6922, 
       0.949, 
       1.1125
-    ]
+    ], 
+    "gph": 650.7, 
+    "osn": 632.2
   }, 
   "sailnumber": "ESP8910", 
   "name": "BLUE FLAG", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.0, 
       "loa": 10.698, 
       "draft": 1.99, 
+      "wetted_surface": 26.2, 
       "main": 34.9, 
       "genoa": 30.6, 
       "displacement": 5334.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 330.0
     }, 
     "year": "1983"
   }, 

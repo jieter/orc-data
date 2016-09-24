@@ -5,12 +5,13 @@
       1.1389, 
       1.3595
     ], 
-    "gph": 680.0, 
     "triple_inshore": [
       0.6154, 
       0.8905, 
       1.1138
-    ]
+    ], 
+    "gph": 680.0, 
+    "osn": 658.1
   }, 
   "sailnumber": "ITA16328", 
   "name": "ANDROMEDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.935, 
       "draft": 2.1, 
+      "wetted_surface": 42.1, 
       "main": 48.5, 
       "genoa": 57.6, 
       "displacement": 12563.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1989"
   }, 

@@ -5,12 +5,13 @@
       1.2812, 
       1.4667
     ], 
-    "gph": 595.6, 
     "triple_inshore": [
       0.7247, 
       1.0021, 
       1.205
-    ]
+    ], 
+    "gph": 595.6, 
+    "osn": 585.5
   }, 
   "sailnumber": "NED8201", 
   "name": "Magic", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.1, 
       "draft": 2.26, 
+      "wetted_surface": 40.3, 
       "main": 60.3, 
       "genoa": 36.2, 
       "displacement": 10732.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 875.0
     }, 
     "year": "2007"
   }, 

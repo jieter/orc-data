@@ -5,12 +5,13 @@
       1.2373, 
       1.4084
     ], 
-    "gph": 618.5, 
     "triple_inshore": [
       0.7228, 
       0.9955, 
       1.1763
-    ]
+    ], 
+    "gph": 618.5, 
+    "osn": 599.9
   }, 
   "sailnumber": "NED6674", 
   "name": "ROGG", 
@@ -25,10 +26,12 @@
       "spinnaker": 119.4, 
       "loa": 12.52, 
       "draft": 2.11, 
+      "wetted_surface": 31.8, 
       "main": 41.1, 
       "genoa": 41.8, 
       "displacement": 7589.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 712.0
     }, 
     "year": "1990"
   }, 

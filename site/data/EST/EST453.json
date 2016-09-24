@@ -5,12 +5,13 @@
       1.2327, 
       1.4045
     ], 
-    "gph": 619.7, 
     "triple_inshore": [
       0.7197, 
       0.9934, 
       1.1565
-    ]
+    ], 
+    "gph": 619.7, 
+    "osn": 602.2
   }, 
   "sailnumber": "EST453", 
   "name": "RED HOT", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.0, 
       "loa": 10.632, 
       "draft": 2.0, 
+      "wetted_surface": 24.8, 
       "main": 42.1, 
       "genoa": 26.8, 
       "displacement": 4149.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "1991"
   }, 

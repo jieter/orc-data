@@ -5,12 +5,13 @@
       1.3105, 
       1.4775
     ], 
-    "gph": 582.0, 
     "triple_inshore": [
       0.7759, 
       1.0608, 
       1.2372
-    ]
+    ], 
+    "gph": 582.0, 
+    "osn": 566.0
   }, 
   "sailnumber": "NOR12515", 
   "name": "A-Game", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.28, 
       "draft": 2.38, 
+      "wetted_surface": 34.6, 
       "main": 54.2, 
       "genoa": 41.3, 
       "displacement": 8299.0, 
-      "spinnaker_asym": 147.0
+      "spinnaker_asym": 147.0, 
+      "crew": 837.0
     }, 
     "year": "2006"
   }, 

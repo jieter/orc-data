@@ -5,12 +5,13 @@
       1.2153, 
       1.3534
     ], 
-    "gph": 627.7, 
     "triple_inshore": [
       0.7231, 
       0.981, 
       1.1252
-    ]
+    ], 
+    "gph": 627.7, 
+    "osn": 611.6
   }, 
   "sailnumber": "FRA37244", 
   "name": "MIJANELLE 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.2, 
       "loa": 10.66, 
       "draft": 2.19, 
+      "wetted_surface": 27.1, 
       "main": 40.7, 
       "genoa": 31.6, 
       "displacement": 5346.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2009"
   }, 

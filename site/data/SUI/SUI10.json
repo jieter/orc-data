@@ -5,12 +5,13 @@
       0.9831, 
       1.083
     ], 
-    "gph": 765.3, 
     "triple_inshore": [
       0.6211, 
       0.8159, 
       0.9154
-    ]
+    ], 
+    "gph": 765.3, 
+    "osn": 747.1
   }, 
   "sailnumber": "SUI10", 
   "name": "SCACCIAPENSIERI", 
@@ -25,10 +26,12 @@
       "spinnaker": 41.5, 
       "loa": 7.05, 
       "draft": 1.44, 
+      "wetted_surface": 10.4, 
       "main": 16.1, 
       "genoa": 10.8, 
       "displacement": 1196.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1976"
   }, 

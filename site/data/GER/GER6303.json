@@ -5,12 +5,13 @@
       1.2648, 
       1.4212
     ], 
-    "gph": 603.5, 
     "triple_inshore": [
       0.7446, 
       1.0089, 
       1.1814
-    ]
+    ], 
+    "gph": 603.5, 
+    "osn": 588.3
   }, 
   "sailnumber": "GER6303", 
   "name": "BAGATELLE", 
@@ -25,10 +26,12 @@
       "spinnaker": 134.0, 
       "loa": 12.639, 
       "draft": 2.11, 
+      "wetted_surface": 39.2, 
       "main": 56.0, 
       "genoa": 54.7, 
       "displacement": 11522.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "2010"
   }, 

@@ -5,12 +5,13 @@
       1.1967, 
       1.3673
     ], 
-    "gph": 633.1, 
     "triple_inshore": [
       0.7253, 
       0.9655, 
       1.1126
-    ]
+    ], 
+    "gph": 633.1, 
+    "osn": 616.4
   }, 
   "sailnumber": "GER7223", 
   "name": "ALL-SEASON", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.99, 
       "draft": 1.97, 
+      "wetted_surface": 16.1, 
       "main": 26.0, 
       "genoa": 19.3, 
       "displacement": 1620.0, 
-      "spinnaker_asym": 71.0
+      "spinnaker_asym": 71.0, 
+      "crew": 340.0
     }, 
     "year": "2012"
   }, 

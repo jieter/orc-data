@@ -5,12 +5,13 @@
       1.2625, 
       1.4244
     ], 
-    "gph": 604.4, 
     "triple_inshore": [
       0.7486, 
       1.0225, 
       1.2
-    ]
+    ], 
+    "gph": 604.4, 
+    "osn": 587.0
   }, 
   "sailnumber": "ITABLURE", 
   "name": "BLUE REEF", 
@@ -25,10 +26,12 @@
       "spinnaker": 134.6, 
       "loa": 12.233, 
       "draft": 2.48, 
+      "wetted_surface": 35.5, 
       "main": 54.5, 
       "genoa": 42.4, 
       "displacement": 9266.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2003"
   }, 

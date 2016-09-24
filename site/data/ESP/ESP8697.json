@@ -5,12 +5,13 @@
       1.1715, 
       1.313
     ], 
-    "gph": 650.3, 
     "triple_inshore": [
       0.6974, 
       0.9451, 
       1.0908
-    ]
+    ], 
+    "gph": 650.3, 
+    "osn": 633.7
   }, 
   "sailnumber": "ESP8697", 
   "name": "ENEWTEC", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.5, 
       "loa": 9.985, 
       "draft": 1.7, 
+      "wetted_surface": 23.4, 
       "main": 34.3, 
       "genoa": 32.0, 
       "displacement": 4799.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2005"
   }, 

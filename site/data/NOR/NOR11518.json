@@ -5,12 +5,13 @@
       1.2428, 
       1.421
     ], 
-    "gph": 616.6, 
     "triple_inshore": [
       0.7176, 
       0.995, 
       1.1808
-    ]
+    ], 
+    "gph": 616.6, 
+    "osn": 598.3
   }, 
   "sailnumber": "NOR11518", 
   "name": "Tina II", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.8, 
       "loa": 12.06, 
       "draft": 2.08, 
+      "wetted_surface": 32.0, 
       "main": 48.2, 
       "genoa": 34.1, 
       "displacement": 7640.0, 
-      "spinnaker_asym": 99.0
+      "spinnaker_asym": 99.0, 
+      "crew": 758.0
     }, 
     "year": "2001"
   }, 

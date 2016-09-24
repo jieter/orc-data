@@ -5,12 +5,13 @@
       1.2182, 
       1.374
     ], 
-    "gph": 625.3, 
     "triple_inshore": [
       0.7226, 
       0.9828, 
       1.1446
-    ]
+    ], 
+    "gph": 625.3, 
+    "osn": 609.3
   }, 
   "sailnumber": "GER5246", 
   "name": "INSPIRATION", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.4, 
       "loa": 10.5, 
       "draft": 2.12, 
+      "wetted_surface": 24.6, 
       "main": 41.8, 
       "genoa": 23.6, 
       "displacement": 4680.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "2002"
   }, 

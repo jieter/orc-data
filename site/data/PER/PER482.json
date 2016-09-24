@@ -5,12 +5,13 @@
       1.5764, 
       1.826
     ], 
-    "gph": 482.7, 
     "triple_inshore": [
       0.9252, 
       1.2545, 
       1.4778
-    ]
+    ], 
+    "gph": 482.7, 
+    "osn": 470.0
   }, 
   "sailnumber": "PER482", 
   "name": "KUAN KUN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.834, 
       "draft": 3.08, 
+      "wetted_surface": 43.1, 
       "main": 92.8, 
       "genoa": 64.4, 
       "displacement": 8110.0, 
-      "spinnaker_asym": 258.0
+      "spinnaker_asym": 258.0, 
+      "crew": 1000.0
     }, 
     "year": "2014"
   }, 

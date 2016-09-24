@@ -5,12 +5,13 @@
       1.004, 
       1.1319
     ], 
-    "gph": 763.0, 
     "triple_inshore": [
       0.5855, 
       0.8105, 
       0.9371
-    ]
+    ], 
+    "gph": 763.0, 
+    "osn": 740.5
   }, 
   "sailnumber": "NED8735", 
   "name": "Fien", 
@@ -25,10 +26,12 @@
       "spinnaker": 31.9, 
       "loa": 8.292, 
       "draft": 1.25, 
+      "wetted_surface": 12.1, 
       "main": 16.0, 
       "genoa": 11.4, 
       "displacement": 1453.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 336.0
     }, 
     "year": "1966"
   }, 

@@ -5,12 +5,13 @@
       1.057, 
       1.1992
     ], 
-    "gph": 723.2, 
     "triple_inshore": [
       0.6235, 
       0.854, 
       1.0056
-    ]
+    ], 
+    "gph": 723.2, 
+    "osn": 701.2
   }, 
   "sailnumber": "GRE3033", 
   "name": "NEPHELE", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.5, 
       "loa": 9.265, 
       "draft": 1.76, 
+      "wetted_surface": 20.7, 
       "main": 21.6, 
       "genoa": 27.5, 
       "displacement": 4094.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1982"
   }, 

@@ -5,12 +5,13 @@
       1.1095, 
       1.3207
     ], 
-    "gph": 694.6, 
     "triple_inshore": [
       0.619, 
       0.8721, 
       1.0846
-    ]
+    ], 
+    "gph": 694.6, 
+    "osn": 671.2
   }, 
   "sailnumber": "ISR46", 
   "name": "Ziva", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.8, 
       "loa": 13.8, 
       "draft": 2.12, 
+      "wetted_surface": 36.4, 
       "main": 31.9, 
       "genoa": 54.8, 
       "displacement": 12160.0, 
-      "spinnaker_asym": 84.0
+      "spinnaker_asym": 84.0, 
+      "crew": 900.0
     }, 
     "year": "1980"
   }, 

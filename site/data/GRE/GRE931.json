@@ -5,12 +5,13 @@
       1.0189, 
       1.1716
     ], 
-    "gph": 753.5, 
     "triple_inshore": [
       0.5885, 
       0.8142, 
       0.9761
-    ]
+    ], 
+    "gph": 753.5, 
+    "osn": 729.3
   }, 
   "sailnumber": "GRE931", 
   "name": "ROSA F", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.2, 
       "loa": 9.961, 
       "draft": 1.81, 
+      "wetted_surface": 22.0, 
       "main": 20.6, 
       "genoa": 31.8, 
       "displacement": 4994.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1971"
   }, 

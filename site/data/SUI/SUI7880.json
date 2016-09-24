@@ -5,12 +5,13 @@
       1.2941, 
       1.4515
     ], 
-    "gph": 584.9, 
     "triple_inshore": [
       0.7866, 
       1.0509, 
       1.2135
-    ]
+    ], 
+    "gph": 584.9, 
+    "osn": 571.9
   }, 
   "sailnumber": "SUI7880", 
   "name": "BRAVA", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.8, 
       "loa": 11.96, 
       "draft": 2.35, 
+      "wetted_surface": 26.7, 
       "main": 53.9, 
       "genoa": 43.2, 
       "displacement": 5585.0, 
-      "spinnaker_asym": 92.0
+      "spinnaker_asym": 92.0, 
+      "crew": 760.0
     }, 
     "year": "1991"
   }, 

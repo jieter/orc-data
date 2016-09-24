@@ -5,12 +5,13 @@
       1.7214, 
       1.9673
     ], 
-    "gph": 446.8, 
     "triple_inshore": [
       0.9722, 
       1.3543, 
       1.5976
-    ]
+    ], 
+    "gph": 446.8, 
+    "osn": 435.2
   }, 
   "sailnumber": "ITA14925", 
   "name": "SOUTHERN STAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 24.015, 
       "draft": 3.87, 
+      "wetted_surface": 93.7, 
       "main": 182.0, 
       "genoa": 139.5, 
       "displacement": 35840.0, 
-      "spinnaker_asym": 489.0
+      "spinnaker_asym": 489.0, 
+      "crew": 1500.0
     }, 
     "year": "2001"
   }, 

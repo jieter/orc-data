@@ -5,12 +5,13 @@
       1.0881, 
       1.2536
     ], 
-    "gph": 707.9, 
     "triple_inshore": [
       0.6119, 
       0.8724, 
       1.0489
-    ]
+    ], 
+    "gph": 707.9, 
+    "osn": 685.5
   }, 
   "sailnumber": "NED8662", 
   "name": "Dito", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.62, 
       "draft": 1.86, 
+      "wetted_surface": 25.1, 
       "main": 30.5, 
       "genoa": 30.4, 
       "displacement": 5000.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1998"
   }, 

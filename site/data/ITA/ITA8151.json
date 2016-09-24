@@ -5,12 +5,13 @@
       1.1659, 
       1.292
     ], 
-    "gph": 650.1, 
     "triple_inshore": [
       0.7112, 
       0.9411, 
       1.0743
-    ]
+    ], 
+    "gph": 650.1, 
+    "osn": 635.8
   }, 
   "sailnumber": "ITA8151", 
   "name": "ALMIC", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.2, 
       "draft": 1.99, 
+      "wetted_surface": 23.6, 
       "main": 29.4, 
       "genoa": 44.5, 
       "displacement": 5445.0, 
-      "spinnaker_asym": 102.0
+      "spinnaker_asym": 102.0, 
+      "crew": 430.0
     }, 
     "year": "1978"
   }, 

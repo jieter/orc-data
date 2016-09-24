@@ -5,12 +5,13 @@
       1.4394, 
       1.6322
     ], 
-    "gph": 522.3, 
     "triple_inshore": [
       0.8904, 
       1.1599, 
       1.3337
-    ]
+    ], 
+    "gph": 522.3, 
+    "osn": 511.7
   }, 
   "sailnumber": "NED7440", 
   "name": "Roaring Again", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.2, 
       "draft": 3.47, 
+      "wetted_surface": 30.2, 
       "main": 65.9, 
       "genoa": 41.2, 
       "displacement": 4350.0, 
-      "spinnaker_asym": 130.0
+      "spinnaker_asym": 130.0, 
+      "crew": 180.0
     }, 
     "year": "2006"
   }, 

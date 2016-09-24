@@ -5,12 +5,13 @@
       1.0382, 
       1.1618
     ], 
-    "gph": 730.8, 
     "triple_inshore": [
       0.6285, 
       0.8315, 
       0.9641
-    ]
+    ], 
+    "gph": 730.8, 
+    "osn": 715.0
   }, 
   "sailnumber": "NOR8441", 
   "name": "Tekla 202", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.62, 
       "draft": 1.7, 
+      "wetted_surface": 19.5, 
       "main": 27.0, 
       "genoa": 27.9, 
       "displacement": 4543.0, 
-      "spinnaker_asym": 53.0
+      "spinnaker_asym": 53.0, 
+      "crew": 451.0
     }, 
     "year": "1992"
   }, 

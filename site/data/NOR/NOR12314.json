@@ -5,12 +5,13 @@
       1.1974, 
       1.3644
     ], 
-    "gph": 639.7, 
     "triple_inshore": [
       0.6931, 
       0.9464, 
       1.1145
-    ]
+    ], 
+    "gph": 639.7, 
+    "osn": 621.9
   }, 
   "sailnumber": "NOR12314", 
   "name": "Adagio", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.93, 
       "draft": 1.87, 
+      "wetted_surface": 32.7, 
       "main": 39.8, 
       "genoa": 42.8, 
       "displacement": 8200.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 771.0
     }, 
     "year": "2004"
   }, 

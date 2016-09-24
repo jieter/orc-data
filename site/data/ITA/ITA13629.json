@@ -5,12 +5,13 @@
       1.1298, 
       1.3191
     ], 
-    "gph": 681.0, 
     "triple_inshore": [
       0.6385, 
       0.9023, 
       1.0949
-    ]
+    ], 
+    "gph": 681.0, 
+    "osn": 658.8
   }, 
   "sailnumber": "ITA13629", 
   "name": "FIREWIND", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.1, 
       "loa": 10.35, 
       "draft": 1.8, 
+      "wetted_surface": 25.1, 
       "main": 28.0, 
       "genoa": 29.4, 
       "displacement": 4504.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 530.0
     }, 
     "year": "1999"
   }, 

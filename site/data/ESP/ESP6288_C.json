@@ -5,12 +5,13 @@
       1.2107, 
       1.3666
     ], 
-    "gph": 630.1, 
     "triple_inshore": [
       0.7165, 
       0.982, 
       1.1451
-    ]
+    ], 
+    "gph": 630.1, 
+    "osn": 612.5
   }, 
   "sailnumber": "ESP6288_C", 
   "name": "OVERSAILING", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.0, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.2, 
       "main": 38.2, 
       "genoa": 38.6, 
       "displacement": 5494.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 595.0
     }, 
     "year": "2001"
   }, 

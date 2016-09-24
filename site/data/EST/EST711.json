@@ -5,12 +5,13 @@
       1.2559, 
       1.432
     ], 
-    "gph": 609.9, 
     "triple_inshore": [
       0.7254, 
       1.004, 
       1.1759
-    ]
+    ], 
+    "gph": 609.9, 
+    "osn": 592.4
   }, 
   "sailnumber": "EST711", 
   "name": "SUGAR 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.6, 
       "loa": 11.436, 
       "draft": 2.0, 
+      "wetted_surface": 29.7, 
       "main": 45.4, 
       "genoa": 34.4, 
       "displacement": 5745.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 840.0
     }, 
     "year": "2010"
   }, 

@@ -5,12 +5,13 @@
       1.1144, 
       1.3004
     ], 
-    "gph": 680.5, 
     "triple_inshore": [
       0.6641, 
       0.8887, 
       1.0356
-    ]
+    ], 
+    "gph": 680.5, 
+    "osn": 661.2
   }, 
   "sailnumber": "SUI132", 
   "name": "JOY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.91, 
       "draft": 1.38, 
+      "wetted_surface": 10.5, 
       "main": 16.1, 
       "genoa": 10.0, 
       "displacement": 811.0, 
-      "spinnaker_asym": 45.0
+      "spinnaker_asym": 45.0, 
+      "crew": 340.0
     }, 
     "year": "2012"
   }, 

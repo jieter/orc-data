@@ -5,12 +5,13 @@
       1.0921, 
       1.2281
     ], 
-    "gph": 697.9, 
     "triple_inshore": [
       0.6499, 
       0.8862, 
       1.0271
-    ]
+    ], 
+    "gph": 697.9, 
+    "osn": 678.9
   }, 
   "sailnumber": "ESP4043_C", 
   "name": "ANTAVIANA III", 
@@ -25,10 +26,12 @@
       "spinnaker": 53.1, 
       "loa": 9.647, 
       "draft": 1.7, 
+      "wetted_surface": 18.9, 
       "main": 25.3, 
       "genoa": 24.9, 
       "displacement": 3316.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1973"
   }, 

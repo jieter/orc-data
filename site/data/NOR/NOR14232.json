@@ -5,12 +5,13 @@
       1.0689, 
       1.2005
     ], 
-    "gph": 712.0, 
     "triple_inshore": [
       0.6408, 
       0.8678, 
       1.0074
-    ]
+    ], 
+    "gph": 712.0, 
+    "osn": 693.0
   }, 
   "sailnumber": "NOR14232", 
   "name": "Tayo", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.8, 
       "loa": 9.48, 
       "draft": 1.69, 
+      "wetted_surface": 19.5, 
       "main": 26.2, 
       "genoa": 27.8, 
       "displacement": 3885.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 451.0
     }, 
     "year": "1978"
   }, 

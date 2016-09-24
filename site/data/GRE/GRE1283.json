@@ -5,12 +5,13 @@
       1.1557, 
       1.3353
     ], 
-    "gph": 666.2, 
     "triple_inshore": [
       0.6503, 
       0.9109, 
       1.0925
-    ]
+    ], 
+    "gph": 666.2, 
+    "osn": 646.2
   }, 
   "sailnumber": "GRE1283", 
   "name": "ILIANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.1, 
       "loa": 11.8, 
       "draft": 1.69, 
+      "wetted_surface": 31.0, 
       "main": 38.6, 
       "genoa": 42.6, 
       "displacement": 7353.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2003"
   }, 

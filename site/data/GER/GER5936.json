@@ -5,12 +5,13 @@
       1.3466, 
       1.5436
     ], 
-    "gph": 570.4, 
     "triple_inshore": [
       0.7681, 
       1.0639, 
       1.2756
-    ]
+    ], 
+    "gph": 570.4, 
+    "osn": 554.4
   }, 
   "sailnumber": "GER5936", 
   "name": "AURELIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 180.1, 
       "loa": 15.97, 
       "draft": 2.12, 
+      "wetted_surface": 56.5, 
       "main": 78.0, 
       "genoa": 64.6, 
       "displacement": 19300.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2007"
   }, 

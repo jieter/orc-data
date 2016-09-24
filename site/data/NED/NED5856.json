@@ -5,12 +5,13 @@
       1.073, 
       1.219
     ], 
-    "gph": 711.0, 
     "triple_inshore": [
       0.6346, 
       0.8809, 
       1.0156
-    ]
+    ], 
+    "gph": 711.0, 
+    "osn": 690.2
   }, 
   "sailnumber": "NED5856", 
   "name": "Nice2Have", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.512, 
       "draft": 1.56, 
+      "wetted_surface": 11.9, 
       "main": 20.7, 
       "genoa": 11.5, 
       "displacement": 1233.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 388.0
     }, 
     "year": "1997"
   }, 

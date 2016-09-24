@@ -5,12 +5,13 @@
       1.2861, 
       1.5052
     ], 
-    "gph": 589.6, 
     "triple_inshore": [
       0.7666, 
       1.0259, 
       1.2178
-    ]
+    ], 
+    "gph": 589.6, 
+    "osn": 573.7
   }, 
   "sailnumber": "ITA16593", 
   "name": "BRAVISSIMA CUBE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.3, 
       "draft": 1.98, 
+      "wetted_surface": 17.8, 
       "main": 31.4, 
       "genoa": 17.2, 
       "displacement": 1625.0, 
-      "spinnaker_asym": 87.0
+      "spinnaker_asym": 87.0, 
+      "crew": 240.0
     }, 
     "year": "1994"
   }, 

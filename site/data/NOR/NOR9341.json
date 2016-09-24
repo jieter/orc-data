@@ -5,12 +5,13 @@
       1.1824, 
       1.3289
     ], 
-    "gph": 644.1, 
     "triple_inshore": [
       0.7047, 
       0.9603, 
       1.1128
-    ]
+    ], 
+    "gph": 644.1, 
+    "osn": 627.3
   }, 
   "sailnumber": "NOR9341", 
   "name": "X-faktor", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.2, 
       "loa": 10.06, 
       "draft": 1.83, 
+      "wetted_surface": 24.4, 
       "main": 37.5, 
       "genoa": 32.3, 
       "displacement": 4622.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 612.0
     }, 
     "year": "1994"
   }, 

@@ -5,12 +5,13 @@
       1.3996, 
       1.5849
     ], 
-    "gph": 545.1, 
     "triple_inshore": [
       0.8239, 
       1.1227, 
       1.2905
-    ]
+    ], 
+    "gph": 545.1, 
+    "osn": 530.5
   }, 
   "sailnumber": "ITA15712", 
   "name": "DARA 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.84, 
       "draft": 2.56, 
+      "wetted_surface": 35.4, 
       "main": 59.4, 
       "genoa": 47.6, 
       "displacement": 6763.0, 
-      "spinnaker_asym": 174.0
+      "spinnaker_asym": 174.0, 
+      "crew": 940.0
     }, 
     "year": "2007"
   }, 

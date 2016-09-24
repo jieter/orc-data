@@ -5,12 +5,13 @@
       1.1585, 
       1.3022
     ], 
-    "gph": 659.1, 
     "triple_inshore": [
       0.6839, 
       0.9355, 
       1.0884
-    ]
+    ], 
+    "gph": 659.1, 
+    "osn": 641.5
   }, 
   "sailnumber": "ITA13672", 
   "name": "X-WAVE", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.8, 
       "loa": 10.06, 
       "draft": 1.84, 
+      "wetted_surface": 24.6, 
       "main": 33.6, 
       "genoa": 32.1, 
       "displacement": 4832.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1994"
   }, 

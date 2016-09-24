@@ -5,12 +5,13 @@
       1.2705, 
       1.4384
     ], 
-    "gph": 601.3, 
     "triple_inshore": [
       0.7455, 
       1.0247, 
       1.2024
-    ]
+    ], 
+    "gph": 601.3, 
+    "osn": 584.5
   }, 
   "sailnumber": "ITA15885", 
   "name": "ACCHIAPPASOGNI", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.4, 
       "loa": 12.016, 
       "draft": 2.43, 
+      "wetted_surface": 32.4, 
       "main": 47.3, 
       "genoa": 48.5, 
       "displacement": 7405.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 730.0
     }, 
     "year": "2000"
   }, 

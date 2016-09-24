@@ -5,12 +5,13 @@
       1.1325, 
       1.287
     ], 
-    "gph": 676.0, 
     "triple_inshore": [
       0.6603, 
       0.9099, 
       1.0761
-    ]
+    ], 
+    "gph": 676.0, 
+    "osn": 656.0
   }, 
   "sailnumber": "GRE800", 
   "name": "ARGONAFTIS V", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.5, 
       "loa": 10.448, 
       "draft": 1.91, 
+      "wetted_surface": 25.6, 
       "main": 36.6, 
       "genoa": 26.0, 
       "displacement": 5898.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1987"
   }, 

@@ -5,12 +5,13 @@
       1.3748, 
       1.5562
     ], 
-    "gph": 555.8, 
     "triple_inshore": [
       0.8062, 
       1.1085, 
       1.2949
-    ]
+    ], 
+    "gph": 555.8, 
+    "osn": 540.5
   }, 
   "sailnumber": "ESP9944", 
   "name": "TRABUCO", 
@@ -25,10 +26,12 @@
       "spinnaker": 175.1, 
       "loa": 13.305, 
       "draft": 2.69, 
+      "wetted_surface": 39.2, 
       "main": 62.6, 
       "genoa": 48.8, 
       "displacement": 9445.0, 
-      "spinnaker_asym": 174.0
+      "spinnaker_asym": 174.0, 
+      "crew": 700.0
     }, 
     "year": "2010"
   }, 

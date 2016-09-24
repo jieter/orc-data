@@ -5,12 +5,13 @@
       1.0516, 
       1.1824
     ], 
-    "gph": 724.7, 
     "triple_inshore": [
       0.6267, 
       0.8557, 
       0.9846
-    ]
+    ], 
+    "gph": 724.7, 
+    "osn": 704.3
   }, 
   "sailnumber": "ESP8191_C", 
   "name": "SENSE SENY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.461, 
       "draft": 1.45, 
+      "wetted_surface": 15.7, 
       "main": 20.3, 
       "genoa": 17.0, 
       "displacement": 2128.0, 
-      "spinnaker_asym": 44.0
+      "spinnaker_asym": 44.0, 
+      "crew": 250.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.2137, 
       1.4063
     ], 
-    "gph": 635.5, 
     "triple_inshore": [
       0.6794, 
       0.9648, 
       1.1599
-    ]
+    ], 
+    "gph": 635.5, 
+    "osn": 614.9
   }, 
   "sailnumber": "NED1426", 
   "name": "BANZARE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.337, 
       "draft": 1.88, 
+      "wetted_surface": 28.1, 
       "main": 38.2, 
       "genoa": 23.8, 
       "displacement": 5769.0, 
-      "spinnaker_asym": 78.0
+      "spinnaker_asym": 78.0, 
+      "crew": 751.0
     }, 
     "year": "1987"
   }, 

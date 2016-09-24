@@ -5,12 +5,13 @@
       1.2399, 
       1.3918
     ], 
-    "gph": 614.2, 
     "triple_inshore": [
       0.7324, 
       0.9802, 
       1.1438
-    ]
+    ], 
+    "gph": 614.2, 
+    "osn": 601.0
   }, 
   "sailnumber": "ITA9879", 
   "name": "LOLITA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.6, 
       "draft": 2.37, 
+      "wetted_surface": 42.8, 
       "main": 50.9, 
       "genoa": 84.9, 
       "displacement": 15000.0, 
-      "spinnaker_asym": 169.0
+      "spinnaker_asym": 169.0, 
+      "crew": 800.0
     }, 
     "year": "1976"
   }, 

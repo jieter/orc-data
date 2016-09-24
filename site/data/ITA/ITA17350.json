@@ -5,12 +5,13 @@
       1.2178, 
       1.3773
     ], 
-    "gph": 628.0, 
     "triple_inshore": [
       0.7143, 
       0.9854, 
       1.1511
-    ]
+    ], 
+    "gph": 628.0, 
+    "osn": 609.4
   }, 
   "sailnumber": "ITA17350", 
   "name": "WELTANSCHAUUNG", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.2, 
       "loa": 10.66, 
       "draft": 2.19, 
+      "wetted_surface": 27.4, 
       "main": 39.8, 
       "genoa": 30.9, 
       "displacement": 5435.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "2009"
   }, 

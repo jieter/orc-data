@@ -5,12 +5,13 @@
       1.1411, 
       1.3875
     ], 
-    "gph": 683.1, 
     "triple_inshore": [
       0.5963, 
       0.8901, 
       1.1321
-    ]
+    ], 
+    "gph": 683.1, 
+    "osn": 659.2
   }, 
   "sailnumber": "GRE1656", 
   "name": "CARPE DIEM", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.6, 
       "draft": 1.95, 
+      "wetted_surface": 40.5, 
       "main": 41.5, 
       "genoa": 53.6, 
       "displacement": 9606.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 780.0
     }, 
     "year": "1993"
   }, 

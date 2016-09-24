@@ -5,12 +5,13 @@
       1.2089, 
       1.3953
     ], 
-    "gph": 634.7, 
     "triple_inshore": [
       0.6904, 
       0.9623, 
       1.1545
-    ]
+    ], 
+    "gph": 634.7, 
+    "osn": 616.1
   }, 
   "sailnumber": "NOR14419", 
   "name": "Ocean Viking", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.91, 
       "draft": 2.01, 
+      "wetted_surface": 32.2, 
       "main": 40.7, 
       "genoa": 44.3, 
       "displacement": 7536.0, 
-      "spinnaker_asym": 88.0
+      "spinnaker_asym": 88.0, 
+      "crew": 736.0
     }, 
     "year": "2003"
   }, 

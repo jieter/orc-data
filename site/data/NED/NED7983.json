@@ -5,12 +5,13 @@
       1.2928, 
       1.4708
     ], 
-    "gph": 591.6, 
     "triple_inshore": [
       0.7533, 
       1.037, 
       1.2224
-    ]
+    ], 
+    "gph": 591.6, 
+    "osn": 575.1
   }, 
   "sailnumber": "NED7983", 
   "name": "XoGood", 
@@ -25,10 +26,12 @@
       "spinnaker": 119.5, 
       "loa": 12.903, 
       "draft": 2.2, 
+      "wetted_surface": 35.5, 
       "main": 54.9, 
       "genoa": 42.5, 
       "displacement": 8857.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "2003"
   }, 

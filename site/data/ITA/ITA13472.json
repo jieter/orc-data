@@ -5,12 +5,13 @@
       1.2687, 
       1.4303
     ], 
-    "gph": 601.3, 
     "triple_inshore": [
       0.7486, 
       1.023, 
       1.195
-    ]
+    ], 
+    "gph": 601.3, 
+    "osn": 585.4
   }, 
   "sailnumber": "ITA13472", 
   "name": "KALEMA BLU", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.3, 
       "loa": 11.924, 
       "draft": 2.42, 
+      "wetted_surface": 31.4, 
       "main": 46.0, 
       "genoa": 52.4, 
       "displacement": 7156.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 690.0
     }, 
     "year": "1997"
   }, 

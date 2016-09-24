@@ -5,12 +5,13 @@
       1.1773, 
       1.3318
     ], 
-    "gph": 649.2, 
     "triple_inshore": [
       0.6885, 
       0.9477, 
       1.1054
-    ]
+    ], 
+    "gph": 649.2, 
+    "osn": 631.8
   }, 
   "sailnumber": "FIN8856", 
   "name": "Victoria", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.8, 
       "loa": 9.99, 
       "draft": 1.75, 
+      "wetted_surface": 22.6, 
       "main": 32.6, 
       "genoa": 28.1, 
       "displacement": 3973.0, 
-      "spinnaker_asym": 56.0
+      "spinnaker_asym": 56.0, 
+      "crew": 480.0
     }, 
     "year": "1995"
   }, 

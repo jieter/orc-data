@@ -5,12 +5,13 @@
       1.149, 
       1.3598
     ], 
-    "gph": 661.9, 
     "triple_inshore": [
       0.6743, 
       0.9165, 
       1.0722
-    ]
+    ], 
+    "gph": 661.9, 
+    "osn": 643.1
   }, 
   "sailnumber": "NED4944", 
   "name": "ST 23", 
@@ -25,10 +26,12 @@
       "spinnaker": 30.4, 
       "loa": 7.206, 
       "draft": 1.7, 
+      "wetted_surface": 11.3, 
       "main": 22.4, 
       "genoa": 10.8, 
       "displacement": 668.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 316.0
     }, 
     "year": "1995"
   }, 

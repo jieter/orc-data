@@ -5,12 +5,13 @@
       1.2725, 
       1.4325
     ], 
-    "gph": 600.1, 
     "triple_inshore": [
       0.7488, 
       1.0214, 
       1.1851
-    ]
+    ], 
+    "gph": 600.1, 
+    "osn": 583.7
   }, 
   "sailnumber": "ITA14065", 
   "name": "SOFFIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.016, 
       "draft": 2.43, 
+      "wetted_surface": 32.5, 
       "main": 48.8, 
       "genoa": 46.2, 
       "displacement": 7486.0, 
-      "spinnaker_asym": 116.0
+      "spinnaker_asym": 116.0, 
+      "crew": 850.0
     }, 
     "year": "2000"
   }, 

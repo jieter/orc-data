@@ -5,12 +5,13 @@
       1.1762, 
       1.3315
     ], 
-    "gph": 650.8, 
     "triple_inshore": [
       0.6852, 
       0.9386, 
       1.1041
-    ]
+    ], 
+    "gph": 650.8, 
+    "osn": 632.5
   }, 
   "sailnumber": "ESP5729_C", 
   "name": "O RIAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.121, 
       "draft": 2.05, 
+      "wetted_surface": 27.4, 
       "main": 38.2, 
       "genoa": 30.5, 
       "displacement": 6187.0, 
-      "spinnaker_asym": 69.0
+      "spinnaker_asym": 69.0, 
+      "crew": 300.0
     }, 
     "year": "1993"
   }, 

@@ -5,12 +5,13 @@
       1.2519, 
       1.4233
     ], 
-    "gph": 610.9, 
     "triple_inshore": [
       0.7295, 
       1.0044, 
       1.1836
-    ]
+    ], 
+    "gph": 610.9, 
+    "osn": 593.8
   }, 
   "sailnumber": "ESP8637", 
   "name": "CANAS II", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.2, 
       "loa": 12.06, 
       "draft": 2.06, 
+      "wetted_surface": 32.1, 
       "main": 47.8, 
       "genoa": 45.1, 
       "displacement": 7821.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 766.0
     }, 
     "year": "2002"
   }, 

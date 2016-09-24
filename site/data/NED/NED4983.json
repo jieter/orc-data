@@ -5,12 +5,13 @@
       1.1194, 
       1.2963
     ], 
-    "gph": 686.1, 
     "triple_inshore": [
       0.6357, 
       0.8798, 
       1.0627
-    ]
+    ], 
+    "gph": 686.1, 
+    "osn": 666.2
   }, 
   "sailnumber": "NED4983", 
   "name": "HINDER", 
@@ -25,10 +26,12 @@
       "spinnaker": 120.2, 
       "loa": 14.06, 
       "draft": 2.1, 
+      "wetted_surface": 37.3, 
       "main": 27.8, 
       "genoa": 63.0, 
       "displacement": 12035.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 710.0
     }, 
     "year": "1974"
   }, 

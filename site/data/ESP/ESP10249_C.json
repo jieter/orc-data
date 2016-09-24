@@ -5,12 +5,13 @@
       1.2663, 
       1.4494
     ], 
-    "gph": 608.7, 
     "triple_inshore": [
       0.7133, 
       0.998, 
       1.1828
-    ]
+    ], 
+    "gph": 608.7, 
+    "osn": 590.4
   }, 
   "sailnumber": "ESP10249_C", 
   "name": "SOLCAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.1, 
       "draft": 2.13, 
+      "wetted_surface": 39.7, 
       "main": 58.1, 
       "genoa": 39.0, 
       "displacement": 10048.0, 
-      "spinnaker_asym": 124.0
+      "spinnaker_asym": 124.0, 
+      "crew": 480.0
     }, 
     "year": "2007"
   }, 

@@ -5,12 +5,13 @@
       1.2132, 
       1.3598
     ], 
-    "gph": 627.6, 
     "triple_inshore": [
       0.7236, 
       0.9833, 
       1.1386
-    ]
+    ], 
+    "gph": 627.6, 
+    "osn": 611.7
   }, 
   "sailnumber": "NOR10528", 
   "name": "Felicia", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.8, 
       "loa": 11.0, 
       "draft": 2.23, 
+      "wetted_surface": 26.8, 
       "main": 40.6, 
       "genoa": 41.3, 
       "displacement": 5652.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 642.0
     }, 
     "year": "2002"
   }, 

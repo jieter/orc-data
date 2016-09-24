@@ -5,12 +5,13 @@
       1.216, 
       1.3659
     ], 
-    "gph": 625.6, 
     "triple_inshore": [
       0.7256, 
       0.9826, 
       1.1468
-    ]
+    ], 
+    "gph": 625.6, 
+    "osn": 610.4
   }, 
   "sailnumber": "NOR6874", 
   "name": "Kelso", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.1, 
       "loa": 11.97, 
       "draft": 1.95, 
+      "wetted_surface": 29.1, 
       "main": 43.6, 
       "genoa": 46.4, 
       "displacement": 7001.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 677.0
     }, 
     "year": "1986"
   }, 

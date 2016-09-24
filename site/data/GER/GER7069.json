@@ -5,12 +5,13 @@
       1.0207, 
       1.1969
     ], 
-    "gph": 754.3, 
     "triple_inshore": [
       0.5746, 
       0.8069, 
       0.99
-    ]
+    ], 
+    "gph": 754.3, 
+    "osn": 729.8
   }, 
   "sailnumber": "GER7069", 
   "name": "LENI", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.8, 
       "loa": 10.4, 
       "draft": 1.78, 
+      "wetted_surface": 25.0, 
       "main": 25.5, 
       "genoa": 28.5, 
       "displacement": 5573.0, 
-      "spinnaker_asym": 71.0
+      "spinnaker_asym": 71.0, 
+      "crew": 500.0
     }, 
     "year": "1970"
   }, 

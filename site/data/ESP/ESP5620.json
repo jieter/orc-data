@@ -5,12 +5,13 @@
       1.2108, 
       1.3638
     ], 
-    "gph": 631.3, 
     "triple_inshore": [
       0.7102, 
       0.9692, 
       1.125
-    ]
+    ], 
+    "gph": 631.3, 
+    "osn": 613.7
   }, 
   "sailnumber": "ESP5620", 
   "name": "YABADABA TOO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.475, 
       "draft": 2.0, 
+      "wetted_surface": 29.3, 
       "main": 37.8, 
       "genoa": 37.5, 
       "displacement": 6530.0, 
-      "spinnaker_asym": 126.0
+      "spinnaker_asym": 126.0, 
+      "crew": 700.0
     }, 
     "year": "1990"
   }, 

@@ -5,12 +5,13 @@
       1.2058, 
       1.3488
     ], 
-    "gph": 632.3, 
     "triple_inshore": [
       0.7156, 
       0.9698, 
       1.1238
-    ]
+    ], 
+    "gph": 632.3, 
+    "osn": 616.5
   }, 
   "sailnumber": "ESP6933_R", 
   "name": "XALEST", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.2, 
       "loa": 10.972, 
       "draft": 1.96, 
+      "wetted_surface": 27.9, 
       "main": 41.2, 
       "genoa": 35.7, 
       "displacement": 6053.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 170.0
     }, 
     "year": "2001"
   }, 

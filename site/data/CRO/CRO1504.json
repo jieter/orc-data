@@ -5,12 +5,13 @@
       1.2613, 
       1.4281
     ], 
-    "gph": 607.2, 
     "triple_inshore": [
       0.735, 
       1.0145, 
       1.1891
-    ]
+    ], 
+    "gph": 607.2, 
+    "osn": 588.9
   }, 
   "sailnumber": "CRO1504", 
   "name": "Ziggy", 
@@ -25,10 +26,12 @@
       "spinnaker": 118.3, 
       "loa": 12.2, 
       "draft": 2.16, 
+      "wetted_surface": 31.9, 
       "main": 46.7, 
       "genoa": 32.2, 
       "displacement": 7346.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2013"
   }, 

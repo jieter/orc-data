@@ -5,12 +5,13 @@
       0.943, 
       1.063
     ], 
-    "gph": 807.2, 
     "triple_inshore": [
       0.5615, 
       0.7567, 
       0.8781
-    ]
+    ], 
+    "gph": 807.2, 
+    "osn": 787.8
   }, 
   "sailnumber": "SUI7012", 
   "name": "ESMERALDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.74, 
       "draft": 1.11, 
+      "wetted_surface": 11.9, 
       "main": 10.7, 
       "genoa": 16.9, 
       "displacement": 1513.0, 
-      "spinnaker_asym": 28.0
+      "spinnaker_asym": 28.0, 
+      "crew": 337.0
     }, 
     "year": "1983"
   }, 

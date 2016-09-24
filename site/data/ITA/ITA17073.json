@@ -5,12 +5,13 @@
       1.1968, 
       1.3684
     ], 
-    "gph": 639.1, 
     "triple_inshore": [
       0.696, 
       0.9595, 
       1.1449
-    ]
+    ], 
+    "gph": 639.1, 
+    "osn": 620.8
   }, 
   "sailnumber": "ITA17073", 
   "name": "KRISTINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 121.1, 
       "loa": 12.18, 
       "draft": 1.98, 
+      "wetted_surface": 33.9, 
       "main": 38.5, 
       "genoa": 53.9, 
       "displacement": 8980.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "1989"
   }, 

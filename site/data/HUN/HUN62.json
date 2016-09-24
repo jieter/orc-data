@@ -5,12 +5,13 @@
       1.1232, 
       1.292
     ], 
-    "gph": 684.5, 
     "triple_inshore": [
       0.6395, 
       0.9042, 
       1.0911
-    ]
+    ], 
+    "gph": 684.5, 
+    "osn": 663.1
   }, 
   "sailnumber": "HUN62", 
   "name": "Talizman", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.6, 
       "loa": 10.89, 
       "draft": 1.8, 
+      "wetted_surface": 22.9, 
       "main": 35.9, 
       "genoa": 25.2, 
       "displacement": 5199.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1941"
   }, 

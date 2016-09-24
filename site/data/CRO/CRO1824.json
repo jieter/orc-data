@@ -5,12 +5,13 @@
       1.2471, 
       1.4097
     ], 
-    "gph": 612.1, 
     "triple_inshore": [
       0.7355, 
       1.0038, 
       1.1628
-    ]
+    ], 
+    "gph": 612.1, 
+    "osn": 594.1
   }, 
   "sailnumber": "CRO1824", 
   "name": "Papa", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.5, 
       "draft": 2.14, 
+      "wetted_surface": 27.1, 
       "main": 39.0, 
       "genoa": 31.1, 
       "displacement": 5350.0, 
-      "spinnaker_asym": 110.0
+      "spinnaker_asym": 110.0, 
+      "crew": 687.0
     }, 
     "year": "2001"
   }, 

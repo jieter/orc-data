@@ -5,12 +5,13 @@
       1.1492, 
       1.2945
     ], 
-    "gph": 661.8, 
     "triple_inshore": [
       0.6892, 
       0.925, 
       1.0839
-    ]
+    ], 
+    "gph": 661.8, 
+    "osn": 645.4
   }, 
   "sailnumber": "GER2193", 
   "name": "TRUWEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.8, 
       "loa": 11.659, 
       "draft": 1.99, 
+      "wetted_surface": 29.7, 
       "main": 32.5, 
       "genoa": 60.6, 
       "displacement": 8562.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 606.0
     }, 
     "year": "1974"
   }, 

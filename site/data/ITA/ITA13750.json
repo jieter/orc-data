@@ -5,12 +5,13 @@
       1.3006, 
       1.462
     ], 
-    "gph": 585.2, 
     "triple_inshore": [
       0.775, 
       1.0514, 
       1.2194
-    ]
+    ], 
+    "gph": 585.2, 
+    "osn": 570.3
   }, 
   "sailnumber": "ITA13750", 
   "name": "SAILING", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.6, 
       "loa": 12.1, 
       "draft": 2.4, 
+      "wetted_surface": 30.5, 
       "main": 49.0, 
       "genoa": 53.8, 
       "displacement": 6353.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 715.0
     }, 
     "year": "2000"
   }, 

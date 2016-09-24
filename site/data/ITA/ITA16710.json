@@ -5,12 +5,13 @@
       1.1342, 
       1.2956
     ], 
-    "gph": 674.7, 
     "triple_inshore": [
       0.6632, 
       0.923, 
       1.0879
-    ]
+    ], 
+    "gph": 674.7, 
+    "osn": 653.0
   }, 
   "sailnumber": "ITA16710", 
   "name": "PILI-PILI", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.2, 
       "loa": 9.492, 
       "draft": 1.93, 
+      "wetted_surface": 19.4, 
       "main": 28.5, 
       "genoa": 19.3, 
       "displacement": 3160.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1979"
   }, 

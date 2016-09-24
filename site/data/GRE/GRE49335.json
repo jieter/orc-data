@@ -5,12 +5,13 @@
       0.9891, 
       1.1356
     ], 
-    "gph": 774.2, 
     "triple_inshore": [
       0.5773, 
       0.7941, 
       0.952
-    ]
+    ], 
+    "gph": 774.2, 
+    "osn": 750.4
   }, 
   "sailnumber": "GRE49335", 
   "name": "ERODIOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 49.7, 
       "loa": 8.58, 
       "draft": 1.62, 
+      "wetted_surface": 17.5, 
       "main": 16.1, 
       "genoa": 21.7, 
       "displacement": 3679.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1980"
   }, 

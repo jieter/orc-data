@@ -5,12 +5,13 @@
       1.0659, 
       1.2084
     ], 
-    "gph": 717.9, 
     "triple_inshore": [
       0.6255, 
       0.8613, 
       1.0122
-    ]
+    ], 
+    "gph": 717.9, 
+    "osn": 695.6
   }, 
   "sailnumber": "NOR6685", 
   "name": "Solveig 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.9, 
       "loa": 9.3, 
       "draft": 1.75, 
+      "wetted_surface": 19.8, 
       "main": 19.7, 
       "genoa": 28.3, 
       "displacement": 3904.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 491.0
     }, 
     "year": "1986"
   }, 

@@ -5,12 +5,13 @@
       1.2062, 
       1.3539
     ], 
-    "gph": 632.1, 
     "triple_inshore": [
       0.7161, 
       0.9774, 
       1.134
-    ]
+    ], 
+    "gph": 632.1, 
+    "osn": 615.1
   }, 
   "sailnumber": "ITA13957", 
   "name": "BONHEUR", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.4, 
       "loa": 10.64, 
       "draft": 2.22, 
+      "wetted_surface": 26.7, 
       "main": 39.3, 
       "genoa": 39.9, 
       "displacement": 5620.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 660.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.3041, 
       1.4969
     ], 
-    "gph": 589.6, 
     "triple_inshore": [
       0.7445, 
       1.035, 
       1.2313
-    ]
+    ], 
+    "gph": 589.6, 
+    "osn": 571.6
   }, 
   "sailnumber": "NED6099", 
   "name": "KNIDOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.499, 
       "draft": 2.47, 
+      "wetted_surface": 45.8, 
       "main": 56.6, 
       "genoa": 53.1, 
       "displacement": 13032.0, 
-      "spinnaker_asym": 140.0
+      "spinnaker_asym": 140.0, 
+      "crew": 994.0
     }, 
     "year": "1996"
   }, 

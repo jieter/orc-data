@@ -5,12 +5,13 @@
       1.3764, 
       1.5474
     ], 
-    "gph": 553.1, 
     "triple_inshore": [
       0.8194, 
       1.1106, 
       1.2867
-    ]
+    ], 
+    "gph": 553.1, 
+    "osn": 539.2
   }, 
   "sailnumber": "CRO4311", 
   "name": "Barba Branko", 
@@ -25,10 +26,12 @@
       "spinnaker": 143.7, 
       "loa": 13.73, 
       "draft": 2.73, 
+      "wetted_surface": 37.8, 
       "main": 66.4, 
       "genoa": 57.8, 
       "displacement": 9016.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 900.0
     }, 
     "year": "2000"
   }, 

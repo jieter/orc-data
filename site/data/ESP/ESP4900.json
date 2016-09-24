@@ -5,12 +5,13 @@
       1.0704, 
       1.1883
     ], 
-    "gph": 705.3, 
     "triple_inshore": [
       0.6639, 
       0.8781, 
       0.9936
-    ]
+    ], 
+    "gph": 705.3, 
+    "osn": 688.3
   }, 
   "sailnumber": "ESP4900", 
   "name": "LA SIRENA I", 
@@ -25,10 +26,12 @@
       "spinnaker": 37.5, 
       "loa": 7.493, 
       "draft": 1.78, 
+      "wetted_surface": 12.6, 
       "main": 20.0, 
       "genoa": 13.7, 
       "displacement": 1491.0, 
-      "spinnaker_asym": 34.0
+      "spinnaker_asym": 34.0, 
+      "crew": 210.0
     }, 
     "year": "1996"
   }, 

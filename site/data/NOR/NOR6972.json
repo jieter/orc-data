@@ -5,12 +5,13 @@
       1.2267, 
       1.3735
     ], 
-    "gph": 621.6, 
     "triple_inshore": [
       0.7249, 
       0.9907, 
       1.1591
-    ]
+    ], 
+    "gph": 621.6, 
+    "osn": 605.7
   }, 
   "sailnumber": "NOR6972", 
   "name": "Venninna", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.7, 
       "loa": 12.52, 
       "draft": 2.06, 
+      "wetted_surface": 28.9, 
       "main": 44.2, 
       "genoa": 45.0, 
       "displacement": 7272.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 758.0
     }, 
     "year": "1982"
   }, 

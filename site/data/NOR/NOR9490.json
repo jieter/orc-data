@@ -5,12 +5,13 @@
       1.1375, 
       1.3188
     ], 
-    "gph": 675.0, 
     "triple_inshore": [
       0.6473, 
       0.9081, 
       1.0899
-    ]
+    ], 
+    "gph": 675.0, 
+    "osn": 654.2
   }, 
   "sailnumber": "NOR9490", 
   "name": "Petra", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.5, 
       "loa": 10.35, 
       "draft": 1.78, 
+      "wetted_surface": 24.0, 
       "main": 28.4, 
       "genoa": 32.5, 
       "displacement": 4400.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 582.0
     }, 
     "year": "1998"
   }, 

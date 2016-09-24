@@ -5,12 +5,13 @@
       1.1486, 
       1.3098
     ], 
-    "gph": 664.9, 
     "triple_inshore": [
       0.6814, 
       0.9304, 
       1.1132
-    ]
+    ], 
+    "gph": 664.9, 
+    "osn": 644.0
   }, 
   "sailnumber": "GRE49439", 
   "name": "PANEFI II", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.7, 
       "loa": 11.583, 
       "draft": 3.32, 
+      "wetted_surface": 32.6, 
       "main": 34.8, 
       "genoa": 53.6, 
       "displacement": 11378.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1981"
   }, 

@@ -5,12 +5,13 @@
       1.1652, 
       1.3054
     ], 
-    "gph": 652.7, 
     "triple_inshore": [
       0.7012, 
       0.9487, 
       1.0957
-    ]
+    ], 
+    "gph": 652.7, 
+    "osn": 635.0
   }, 
   "sailnumber": "NED8464", 
   "name": "Team Charity Cup", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.6, 
       "loa": 10.378, 
       "draft": 1.87, 
+      "wetted_surface": 22.0, 
       "main": 35.8, 
       "genoa": 25.4, 
       "displacement": 4400.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 495.0
     }, 
     "year": "1982"
   }, 

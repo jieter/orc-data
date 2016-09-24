@@ -5,12 +5,13 @@
       1.1653, 
       1.3501
     ], 
-    "gph": 660.2, 
     "triple_inshore": [
       0.6634, 
       0.9286, 
       1.1256
-    ]
+    ], 
+    "gph": 660.2, 
+    "osn": 638.8
   }, 
   "sailnumber": "NOR10259", 
   "name": "Elvira", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.25, 
       "draft": 2.02, 
+      "wetted_surface": 34.0, 
       "main": 36.6, 
       "genoa": 36.1, 
       "displacement": 8650.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 710.0
     }, 
     "year": "1985"
   }, 

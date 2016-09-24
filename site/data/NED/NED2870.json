@@ -5,12 +5,13 @@
       0.964, 
       1.0928
     ], 
-    "gph": 790.7, 
     "triple_inshore": [
       0.5718, 
       0.7725, 
       0.9081
-    ]
+    ], 
+    "gph": 790.7, 
+    "osn": 769.9
   }, 
   "sailnumber": "NED2870", 
   "name": "JOHANNA", 
@@ -25,10 +26,12 @@
       "spinnaker": 50.8, 
       "loa": 8.23, 
       "draft": 1.24, 
+      "wetted_surface": 16.6, 
       "main": 15.1, 
       "genoa": 24.2, 
       "displacement": 3397.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 407.0
     }, 
     "year": "1977"
   }, 

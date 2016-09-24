@@ -5,12 +5,13 @@
       1.1505, 
       1.3516
     ], 
-    "gph": 670.5, 
     "triple_inshore": [
       0.6384, 
       0.8993, 
       1.1002
-    ]
+    ], 
+    "gph": 670.5, 
+    "osn": 649.8
   }, 
   "sailnumber": "ITAALBAP", 
   "name": "ALBA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.82, 
       "draft": 1.56, 
+      "wetted_surface": 31.9, 
       "main": 37.6, 
       "genoa": 31.1, 
       "displacement": 8167.0, 
-      "spinnaker_asym": 104.0
+      "spinnaker_asym": 104.0, 
+      "crew": 560.0
     }, 
     "year": "2007"
   }, 

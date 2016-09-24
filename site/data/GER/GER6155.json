@@ -5,12 +5,13 @@
       1.2992, 
       1.4637
     ], 
-    "gph": 586.3, 
     "triple_inshore": [
       0.7716, 
       1.0513, 
       1.2227
-    ]
+    ], 
+    "gph": 586.3, 
+    "osn": 570.9
   }, 
   "sailnumber": "GER6155", 
   "name": "PAX", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.9, 
       "loa": 12.1, 
       "draft": 2.41, 
+      "wetted_surface": 30.8, 
       "main": 50.5, 
       "genoa": 49.9, 
       "displacement": 6563.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2000"
   }, 

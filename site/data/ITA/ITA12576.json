@@ -5,12 +5,13 @@
       1.1665, 
       1.3325
     ], 
-    "gph": 654.8, 
     "triple_inshore": [
       0.6838, 
       0.9429, 
       1.0971
-    ]
+    ], 
+    "gph": 654.8, 
+    "osn": 635.5
   }, 
   "sailnumber": "ITA12576", 
   "name": "ARIMINUM", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.7, 
       "loa": 9.147, 
       "draft": 1.8, 
+      "wetted_surface": 20.3, 
       "main": 26.4, 
       "genoa": 26.3, 
       "displacement": 2773.0, 
-      "spinnaker_asym": 75.0
+      "spinnaker_asym": 75.0, 
+      "crew": 488.0
     }, 
     "year": "1992"
   }, 

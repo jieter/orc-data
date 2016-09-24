@@ -5,12 +5,13 @@
       1.228, 
       1.3749
     ], 
-    "gph": 619.4, 
     "triple_inshore": [
       0.7346, 
       0.9937, 
       1.1512
-    ]
+    ], 
+    "gph": 619.4, 
+    "osn": 603.9
   }, 
   "sailnumber": "NED7307", 
   "name": "Rosetta from the Rocks", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.5, 
       "loa": 10.972, 
       "draft": 1.98, 
+      "wetted_surface": 28.3, 
       "main": 41.2, 
       "genoa": 44.8, 
       "displacement": 6381.0, 
-      "spinnaker_asym": 102.0
+      "spinnaker_asym": 102.0, 
+      "crew": 720.0
     }, 
     "year": "2000"
   }, 

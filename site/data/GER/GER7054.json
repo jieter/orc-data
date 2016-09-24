@@ -5,12 +5,13 @@
       1.1706, 
       1.33
     ], 
-    "gph": 655.4, 
     "triple_inshore": [
       0.6777, 
       0.9442, 
       1.1103
-    ]
+    ], 
+    "gph": 655.4, 
+    "osn": 635.1
   }, 
   "sailnumber": "GER7054", 
   "name": "HIMMELBLAU", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.9, 
       "loa": 9.99, 
       "draft": 1.75, 
+      "wetted_surface": 22.5, 
       "main": 32.0, 
       "genoa": 19.8, 
       "displacement": 3955.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 440.0
     }, 
     "year": "1995"
   }, 

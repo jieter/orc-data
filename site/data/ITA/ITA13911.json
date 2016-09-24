@@ -5,12 +5,13 @@
       1.2846, 
       1.4458
     ], 
-    "gph": 593.5, 
     "triple_inshore": [
       0.7601, 
       1.0392, 
       1.2109
-    ]
+    ], 
+    "gph": 593.5, 
+    "osn": 577.9
   }, 
   "sailnumber": "ITA13911", 
   "name": "Senza Freni", 
@@ -25,10 +26,12 @@
       "spinnaker": 117.2, 
       "loa": 11.924, 
       "draft": 2.41, 
+      "wetted_surface": 31.1, 
       "main": 48.3, 
       "genoa": 50.2, 
       "displacement": 7004.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "1997"
   }, 

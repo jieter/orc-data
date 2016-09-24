@@ -5,12 +5,13 @@
       1.2288, 
       1.3858
     ], 
-    "gph": 619.1, 
     "triple_inshore": [
       0.736, 
       0.9996, 
       1.1586
-    ]
+    ], 
+    "gph": 619.1, 
+    "osn": 602.6
   }, 
   "sailnumber": "LTU1590", 
   "name": "ARCTURUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.6, 
       "loa": 11.38, 
       "draft": 2.12, 
+      "wetted_surface": 26.6, 
       "main": 39.2, 
       "genoa": 36.4, 
       "displacement": 5185.0, 
-      "spinnaker_asym": 105.0
+      "spinnaker_asym": 105.0, 
+      "crew": 660.0
     }, 
     "year": "1992"
   }, 

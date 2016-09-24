@@ -5,12 +5,13 @@
       1.2279, 
       1.3796
     ], 
-    "gph": 617.9, 
     "triple_inshore": [
       0.723, 
       0.9688, 
       1.1314
-    ]
+    ], 
+    "gph": 617.9, 
+    "osn": 607.3
   }, 
   "sailnumber": "GER7338", 
   "name": "EINHORN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.3, 
       "draft": 1.6, 
+      "wetted_surface": 31.4, 
       "main": 47.3, 
       "genoa": 34.2, 
       "displacement": 8105.0, 
-      "spinnaker_asym": 106.0
+      "spinnaker_asym": 106.0, 
+      "crew": 500.0
     }, 
     "year": "2012"
   }, 

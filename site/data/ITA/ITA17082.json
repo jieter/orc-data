@@ -5,12 +5,13 @@
       1.2616, 
       1.4238
     ], 
-    "gph": 606.0, 
     "triple_inshore": [
       0.7393, 
       1.0151, 
       1.185
-    ]
+    ], 
+    "gph": 606.0, 
+    "osn": 589.1
   }, 
   "sailnumber": "ITA17082", 
   "name": "GIOIA DI VIVERE", 
@@ -25,10 +26,12 @@
       "spinnaker": 120.0, 
       "loa": 11.58, 
       "draft": 2.12, 
+      "wetted_surface": 31.4, 
       "main": 46.4, 
       "genoa": 35.8, 
       "displacement": 7150.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 620.0
     }, 
     "year": "2011"
   }, 

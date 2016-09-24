@@ -5,12 +5,13 @@
       1.2445, 
       1.4097
     ], 
-    "gph": 614.0, 
     "triple_inshore": [
       0.729, 
       0.9981, 
       1.1701
-    ]
+    ], 
+    "gph": 614.0, 
+    "osn": 596.9
   }, 
   "sailnumber": "NED6775", 
   "name": "REDAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.6, 
       "loa": 11.785, 
       "draft": 1.97, 
+      "wetted_surface": 33.1, 
       "main": 48.1, 
       "genoa": 45.0, 
       "displacement": 7880.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 870.0
     }, 
     "year": "1998"
   }, 

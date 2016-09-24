@@ -5,12 +5,13 @@
       1.0776, 
       1.2221
     ], 
-    "gph": 708.9, 
     "triple_inshore": [
       0.634, 
       0.8745, 
       1.029
-    ]
+    ], 
+    "gph": 708.9, 
+    "osn": 688.0
   }, 
   "sailnumber": "ESP5159_C", 
   "name": "AZUL", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.4, 
       "loa": 8.99, 
       "draft": 1.74, 
+      "wetted_surface": 19.9, 
       "main": 23.7, 
       "genoa": 25.8, 
       "displacement": 3712.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 325.0
     }, 
     "year": "1990"
   }, 

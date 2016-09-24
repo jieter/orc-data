@@ -5,12 +5,13 @@
       1.1403, 
       1.2928
     ], 
-    "gph": 670.7, 
     "triple_inshore": [
       0.6583, 
       0.9181, 
       1.0836
-    ]
+    ], 
+    "gph": 670.7, 
+    "osn": 654.0
   }, 
   "sailnumber": "ESP6651_C", 
   "name": "HALCON MALTES", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.448, 
       "draft": 1.87, 
+      "wetted_surface": 23.5, 
       "main": 38.6, 
       "genoa": 36.1, 
       "displacement": 5197.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1988"
   }, 

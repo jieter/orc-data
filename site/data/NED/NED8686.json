@@ -5,12 +5,13 @@
       0.89, 
       1.0324
     ], 
-    "gph": 863.6, 
     "triple_inshore": [
       0.5094, 
       0.7091, 
       0.8495
-    ]
+    ], 
+    "gph": 863.6, 
+    "osn": 835.4
   }, 
   "sailnumber": "NED8686", 
   "name": "Thalassa", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.23, 
       "draft": 1.02, 
+      "wetted_surface": 16.3, 
       "main": 20.8, 
       "genoa": 13.6, 
       "displacement": 3473.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 426.0
     }, 
     "year": "2005"
   }, 

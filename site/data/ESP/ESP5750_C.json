@@ -5,12 +5,13 @@
       1.1738, 
       1.3662
     ], 
-    "gph": 656.6, 
     "triple_inshore": [
       0.6582, 
       0.9303, 
       1.1296
-    ]
+    ], 
+    "gph": 656.6, 
+    "osn": 635.6
   }, 
   "sailnumber": "ESP5750_C", 
   "name": "LADRAGONA", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.7, 
       "loa": 11.71, 
       "draft": 1.99, 
+      "wetted_surface": 33.6, 
       "main": 38.2, 
       "genoa": 43.5, 
       "displacement": 7672.0, 
-      "spinnaker_asym": 94.0
+      "spinnaker_asym": 94.0, 
+      "crew": 480.0
     }, 
     "year": "1998"
   }, 

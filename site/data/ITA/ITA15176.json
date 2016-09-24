@@ -5,12 +5,13 @@
       1.1984, 
       1.368
     ], 
-    "gph": 639.6, 
     "triple_inshore": [
       0.6964, 
       0.9673, 
       1.1541
-    ]
+    ], 
+    "gph": 639.6, 
+    "osn": 619.2
   }, 
   "sailnumber": "ITA15176", 
   "name": "LULLABY", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.3, 
       "loa": 11.215, 
       "draft": 2.38, 
+      "wetted_surface": 29.4, 
       "main": 37.5, 
       "genoa": 35.2, 
       "displacement": 7006.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "2004"
   }, 

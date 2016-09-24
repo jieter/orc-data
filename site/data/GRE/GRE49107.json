@@ -5,12 +5,13 @@
       1.2404, 
       1.4015
     ], 
-    "gph": 615.1, 
     "triple_inshore": [
       0.7335, 
       1.0015, 
       1.1692
-    ]
+    ], 
+    "gph": 615.1, 
+    "osn": 598.4
   }, 
   "sailnumber": "GRE49107", 
   "name": "MICHALIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.3, 
       "loa": 12.06, 
       "draft": 2.22, 
+      "wetted_surface": 28.4, 
       "main": 33.3, 
       "genoa": 52.0, 
       "displacement": 6045.0, 
-      "spinnaker_asym": 115.0
+      "spinnaker_asym": 115.0, 
+      "crew": 600.0
     }, 
     "year": "1984"
   }, 

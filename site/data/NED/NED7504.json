@@ -5,12 +5,13 @@
       1.1895, 
       1.3555
     ], 
-    "gph": 642.8, 
     "triple_inshore": [
       0.6936, 
       0.9571, 
       1.135
-    ]
+    ], 
+    "gph": 642.8, 
+    "osn": 624.5
   }, 
   "sailnumber": "NED7504", 
   "name": "IMP", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.3, 
       "loa": 11.18, 
       "draft": 2.06, 
+      "wetted_surface": 28.7, 
       "main": 37.5, 
       "genoa": 40.0, 
       "displacement": 6586.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 686.0
     }, 
     "year": "1994"
   }, 

@@ -5,12 +5,13 @@
       1.3141, 
       1.4844
     ], 
-    "gph": 579.7, 
     "triple_inshore": [
       0.7819, 
       1.0619, 
       1.2171
-    ]
+    ], 
+    "gph": 579.7, 
+    "osn": 563.6
   }, 
   "sailnumber": "GER7117", 
   "name": "TOP JOB", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.085, 
       "draft": 2.22, 
+      "wetted_surface": 26.3, 
       "main": 39.1, 
       "genoa": 34.1, 
       "displacement": 4529.0, 
-      "spinnaker_asym": 129.0
+      "spinnaker_asym": 129.0, 
+      "crew": 720.0
     }, 
     "year": "2011"
   }, 

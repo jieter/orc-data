@@ -5,12 +5,13 @@
       1.0904, 
       1.2671
     ], 
-    "gph": 704.9, 
     "triple_inshore": [
       0.6232, 
       0.8726, 
       1.0592
-    ]
+    ], 
+    "gph": 704.9, 
+    "osn": 681.3
   }, 
   "sailnumber": "ITA17169", 
   "name": "ARTETEKA", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.2, 
       "loa": 10.43, 
       "draft": 1.85, 
+      "wetted_surface": 24.8, 
       "main": 23.4, 
       "genoa": 27.2, 
       "displacement": 5200.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 500.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       1.0393, 
       1.1543
     ], 
-    "gph": 732.4, 
     "triple_inshore": [
       0.6284, 
       0.8471, 
       0.969
-    ]
+    ], 
+    "gph": 732.4, 
+    "osn": 712.5
   }, 
   "sailnumber": "NOR7649", 
   "name": "Streif", 
@@ -25,10 +26,12 @@
       "spinnaker": 52.0, 
       "loa": 8.64, 
       "draft": 1.7, 
+      "wetted_surface": 17.7, 
       "main": 19.3, 
       "genoa": 25.5, 
       "displacement": 3182.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 426.0
     }, 
     "year": "1968"
   }, 

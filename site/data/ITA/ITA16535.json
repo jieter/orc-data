@@ -5,12 +5,13 @@
       1.2212, 
       1.3721
     ], 
-    "gph": 625.4, 
     "triple_inshore": [
       0.723, 
       0.9895, 
       1.148
-    ]
+    ], 
+    "gph": 625.4, 
+    "osn": 607.7
   }, 
   "sailnumber": "ITA16535", 
   "name": "PETRILLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.8, 
       "loa": 10.66, 
       "draft": 2.2, 
+      "wetted_surface": 27.7, 
       "main": 40.9, 
       "genoa": 30.9, 
       "displacement": 5665.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "2009"
   }, 

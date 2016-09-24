@@ -5,12 +5,13 @@
       1.2287, 
       1.3845
     ], 
-    "gph": 621.4, 
     "triple_inshore": [
       0.7257, 
       0.9962, 
       1.1693
-    ]
+    ], 
+    "gph": 621.4, 
+    "osn": 603.7
   }, 
   "sailnumber": "ESP7087_C", 
   "name": "GAVOT", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.7, 
       "loa": 11.215, 
       "draft": 2.36, 
+      "wetted_surface": 28.6, 
       "main": 40.6, 
       "genoa": 41.0, 
       "displacement": 6583.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.177, 
       1.3277
     ], 
-    "gph": 648.6, 
     "triple_inshore": [
       0.6923, 
       0.9483, 
       1.1086
-    ]
+    ], 
+    "gph": 648.6, 
+    "osn": 631.4
   }, 
   "sailnumber": "ESP8848", 
   "name": "OJAMRAC", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.7, 
       "loa": 10.3, 
       "draft": 1.97, 
+      "wetted_surface": 25.7, 
       "main": 37.1, 
       "genoa": 35.5, 
       "displacement": 5559.0, 
-      "spinnaker_asym": 77.0
+      "spinnaker_asym": 77.0, 
+      "crew": 539.0
     }, 
     "year": "2003"
   }, 

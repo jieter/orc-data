@@ -5,12 +5,13 @@
       1.4047, 
       1.5846
     ], 
-    "gph": 542.1, 
     "triple_inshore": [
       0.8334, 
       1.1299, 
       1.2949
-    ]
+    ], 
+    "gph": 542.1, 
+    "osn": 528.0
   }, 
   "sailnumber": "SLO4150", 
   "name": "Taia 2 & White Goose", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.7, 
       "draft": 2.59, 
+      "wetted_surface": 33.7, 
       "main": 59.7, 
       "genoa": 47.5, 
       "displacement": 6650.0, 
-      "spinnaker_asym": 177.0
+      "spinnaker_asym": 177.0, 
+      "crew": 840.0
     }, 
     "year": "2007"
   }, 

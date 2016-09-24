@@ -5,12 +5,13 @@
       1.2269, 
       1.433
     ], 
-    "gph": 629.8, 
     "triple_inshore": [
       0.6807, 
       0.9714, 
       1.1845
-    ]
+    ], 
+    "gph": 629.8, 
+    "osn": 608.7
   }, 
   "sailnumber": "ESP8745_C", 
   "name": "KANDINSKE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.59, 
       "draft": 2.13, 
+      "wetted_surface": 37.7, 
       "main": 42.0, 
       "genoa": 35.6, 
       "displacement": 8960.0, 
-      "spinnaker_asym": 107.0
+      "spinnaker_asym": 107.0, 
+      "crew": 400.0
     }, 
     "year": "2007"
   }, 

@@ -5,12 +5,13 @@
       1.1241, 
       1.2753
     ], 
-    "gph": 670.8, 
     "triple_inshore": [
       0.6933, 
       0.9054, 
       1.0319
-    ]
+    ], 
+    "gph": 670.8, 
+    "osn": 655.5
   }, 
   "sailnumber": "ITA24088", 
   "name": "MARAMAO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.495, 
       "draft": 1.68, 
+      "wetted_surface": 12.7, 
       "main": 20.2, 
       "genoa": 15.2, 
       "displacement": 1133.0, 
-      "spinnaker_asym": 56.0
+      "spinnaker_asym": 56.0, 
+      "crew": 375.0
     }, 
     "year": "1994"
   }, 

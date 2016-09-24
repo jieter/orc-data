@@ -5,12 +5,13 @@
       1.2639, 
       1.4207
     ], 
-    "gph": 601.7, 
     "triple_inshore": [
       0.7443, 
       1.0083, 
       1.1764
-    ]
+    ], 
+    "gph": 601.7, 
+    "osn": 588.9
   }, 
   "sailnumber": "GER5669", 
   "name": "XANTHOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.6, 
       "loa": 12.225, 
       "draft": 2.09, 
+      "wetted_surface": 32.6, 
       "main": 51.6, 
       "genoa": 38.7, 
       "displacement": 7917.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2004"
   }, 

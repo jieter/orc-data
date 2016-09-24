@@ -5,12 +5,13 @@
       1.2197, 
       1.3759
     ], 
-    "gph": 626.1, 
     "triple_inshore": [
       0.7195, 
       0.9865, 
       1.1582
-    ]
+    ], 
+    "gph": 626.1, 
+    "osn": 608.3
   }, 
   "sailnumber": "NOR11655", 
   "name": "Tidig 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.0, 
       "loa": 11.16, 
       "draft": 2.37, 
+      "wetted_surface": 29.3, 
       "main": 39.2, 
       "genoa": 43.9, 
       "displacement": 6850.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 718.0
     }, 
     "year": "2004"
   }, 

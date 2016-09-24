@@ -5,12 +5,13 @@
       1.1572, 
       1.3342
     ], 
-    "gph": 663.3, 
     "triple_inshore": [
       0.6652, 
       0.9275, 
       1.1175
-    ]
+    ], 
+    "gph": 663.3, 
+    "osn": 642.1
   }, 
   "sailnumber": "ITA14921", 
   "name": "PISOLO", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.1, 
       "loa": 10.944, 
       "draft": 2.11, 
+      "wetted_surface": 29.7, 
       "main": 38.1, 
       "genoa": 29.6, 
       "displacement": 6811.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "2001"
   }, 

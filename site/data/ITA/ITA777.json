@@ -5,12 +5,13 @@
       1.3702, 
       1.5345
     ], 
-    "gph": 555.2, 
     "triple_inshore": [
       0.8191, 
       1.1048, 
       1.2765
-    ]
+    ], 
+    "gph": 555.2, 
+    "osn": 541.7
   }, 
   "sailnumber": "ITA777", 
   "name": "KIXXME", 
@@ -25,10 +26,12 @@
       "spinnaker": 143.4, 
       "loa": 13.73, 
       "draft": 2.74, 
+      "wetted_surface": 37.8, 
       "main": 65.5, 
       "genoa": 60.1, 
       "displacement": 9098.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 885.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       1.3323, 
       1.519
     ], 
-    "gph": 573.4, 
     "triple_inshore": [
       0.7746, 
       1.0674, 
       1.2519
-    ]
+    ], 
+    "gph": 573.4, 
+    "osn": 558.3
   }, 
   "sailnumber": "NED4762", 
   "name": "EPOXYDUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.1, 
       "loa": 12.59, 
       "draft": 2.1, 
+      "wetted_surface": 31.8, 
       "main": 51.2, 
       "genoa": 53.0, 
       "displacement": 5302.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1977"
   }, 

@@ -5,12 +5,13 @@
       1.2788, 
       1.4567
     ], 
-    "gph": 598.4, 
     "triple_inshore": [
       0.7441, 
       1.0278, 
       1.2151
-    ]
+    ], 
+    "gph": 598.4, 
+    "osn": 581.2
   }, 
   "sailnumber": "NED8474", 
   "name": "So What", 
@@ -25,10 +26,12 @@
       "spinnaker": 119.2, 
       "loa": 12.24, 
       "draft": 2.0, 
+      "wetted_surface": 34.6, 
       "main": 50.4, 
       "genoa": 38.5, 
       "displacement": 8251.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2008"
   }, 

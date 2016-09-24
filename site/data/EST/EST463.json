@@ -5,12 +5,13 @@
       1.316, 
       1.4892
     ], 
-    "gph": 580.6, 
     "triple_inshore": [
       0.7734, 
       1.0638, 
       1.2407
-    ]
+    ], 
+    "gph": 580.6, 
+    "osn": 564.1
   }, 
   "sailnumber": "EST463", 
   "name": "OLYMPIC", 
@@ -25,10 +26,12 @@
       "spinnaker": 128.5, 
       "loa": 12.35, 
       "draft": 2.51, 
+      "wetted_surface": 32.9, 
       "main": 48.5, 
       "genoa": 44.3, 
       "displacement": 7097.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 850.0
     }, 
     "year": "2006"
   }, 

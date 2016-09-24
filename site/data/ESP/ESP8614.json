@@ -5,12 +5,13 @@
       1.1033, 
       1.2522
     ], 
-    "gph": 695.6, 
     "triple_inshore": [
       0.6403, 
       0.892, 
       1.0432
-    ]
+    ], 
+    "gph": 695.6, 
+    "osn": 672.9
   }, 
   "sailnumber": "ESP8614", 
   "name": "VEGARES DOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.3, 
       "loa": 8.3, 
       "draft": 1.84, 
+      "wetted_surface": 20.5, 
       "main": 27.8, 
       "genoa": 20.3, 
       "displacement": 3050.0, 
-      "spinnaker_asym": 49.0
+      "spinnaker_asym": 49.0, 
+      "crew": 450.0
     }, 
     "year": "2000"
   }, 

@@ -5,12 +5,13 @@
       1.2008, 
       1.4142
     ], 
-    "gph": 643.7, 
     "triple_inshore": [
       0.6532, 
       0.9442, 
       1.1653
-    ]
+    ], 
+    "gph": 643.7, 
+    "osn": 624.9
   }, 
   "sailnumber": "ITALIBCA", 
   "name": "LIBERTINE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.7, 
       "draft": 2.03, 
+      "wetted_surface": 38.7, 
       "main": 45.8, 
       "genoa": 54.1, 
       "displacement": 10411.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "2006"
   }, 

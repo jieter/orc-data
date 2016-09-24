@@ -5,12 +5,13 @@
       1.053, 
       1.2012
     ], 
-    "gph": 728.7, 
     "triple_inshore": [
       0.6079, 
       0.8428, 
       0.9947
-    ]
+    ], 
+    "gph": 728.7, 
+    "osn": 706.4
   }, 
   "sailnumber": "GRE1634", 
   "name": "MARCI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.08, 
       "draft": 1.38, 
+      "wetted_surface": 19.3, 
       "main": 21.6, 
       "genoa": 24.3, 
       "displacement": 3500.0, 
-      "spinnaker_asym": 58.0
+      "spinnaker_asym": 58.0, 
+      "crew": 400.0
     }, 
     "year": "1991"
   }, 

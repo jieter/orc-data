@@ -5,12 +5,13 @@
       1.1599, 
       1.3444
     ], 
-    "gph": 663.9, 
     "triple_inshore": [
       0.6482, 
       0.9215, 
       1.118
-    ]
+    ], 
+    "gph": 663.9, 
+    "osn": 644.6
   }, 
   "sailnumber": "ESP7165_C", 
   "name": "TUMBAITO I", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.91, 
       "draft": 1.99, 
+      "wetted_surface": 30.8, 
       "main": 35.2, 
       "genoa": 48.4, 
       "displacement": 7375.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 240.0
     }, 
     "year": "2000"
   }, 

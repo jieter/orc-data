@@ -5,12 +5,13 @@
       1.1002, 
       1.2583
     ], 
-    "gph": 703.1, 
     "triple_inshore": [
       0.6124, 
       0.8671, 
       1.0267
-    ]
+    ], 
+    "gph": 703.1, 
+    "osn": 680.8
   }, 
   "sailnumber": "NOR15168", 
   "name": "Helika to", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.45, 
       "draft": 2.01, 
+      "wetted_surface": 32.2, 
       "main": 31.3, 
       "genoa": 37.6, 
       "displacement": 7536.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 736.0
     }, 
     "year": "2007"
   }, 

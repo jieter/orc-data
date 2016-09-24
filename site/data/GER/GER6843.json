@@ -5,12 +5,13 @@
       1.2838, 
       1.4535
     ], 
-    "gph": 596.3, 
     "triple_inshore": [
       0.746, 
       1.0281, 
       1.2073
-    ]
+    ], 
+    "gph": 596.3, 
+    "osn": 580.0
   }, 
   "sailnumber": "GER6843", 
   "name": "XENIE", 
@@ -25,10 +26,12 @@
       "spinnaker": 135.2, 
       "loa": 12.903, 
       "draft": 2.2, 
+      "wetted_surface": 35.5, 
       "main": 52.8, 
       "genoa": 39.5, 
       "displacement": 8895.0, 
-      "spinnaker_asym": 129.0
+      "spinnaker_asym": 129.0, 
+      "crew": 600.0
     }, 
     "year": "2000"
   }, 

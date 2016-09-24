@@ -5,12 +5,13 @@
       1.0353, 
       1.1869
     ], 
-    "gph": 738.0, 
     "triple_inshore": [
       0.6061, 
       0.8246, 
       0.9875
-    ]
+    ], 
+    "gph": 738.0, 
+    "osn": 717.8
   }, 
   "sailnumber": "GRE1359", 
   "name": "KRONOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.2, 
       "draft": 1.76, 
+      "wetted_surface": 22.5, 
       "main": 19.7, 
       "genoa": 31.9, 
       "displacement": 4517.0, 
-      "spinnaker_asym": 54.0
+      "spinnaker_asym": 54.0, 
+      "crew": 512.0
     }, 
     "year": "1982"
   }, 

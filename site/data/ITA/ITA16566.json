@@ -5,12 +5,13 @@
       1.2811, 
       1.4685
     ], 
-    "gph": 600.5, 
     "triple_inshore": [
       0.7289, 
       1.0136, 
       1.2042
-    ]
+    ], 
+    "gph": 600.5, 
+    "osn": 582.2
   }, 
   "sailnumber": "ITA16566", 
   "name": "EXCALIBUR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.61, 
       "draft": 2.15, 
+      "wetted_surface": 40.8, 
       "main": 53.6, 
       "genoa": 43.3, 
       "displacement": 11248.0, 
-      "spinnaker_asym": 142.0
+      "spinnaker_asym": 142.0, 
+      "crew": 800.0
     }, 
     "year": "2002"
   }, 

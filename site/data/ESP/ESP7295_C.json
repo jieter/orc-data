@@ -5,12 +5,13 @@
       1.2507, 
       1.4275
     ], 
-    "gph": 611.5, 
     "triple_inshore": [
       0.7255, 
       1.0018, 
       1.187
-    ]
+    ], 
+    "gph": 611.5, 
+    "osn": 595.0
   }, 
   "sailnumber": "ESP7295_C", 
   "name": "GURUGU I", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.4, 
       "loa": 12.06, 
       "draft": 2.06, 
+      "wetted_surface": 31.7, 
       "main": 47.8, 
       "genoa": 49.9, 
       "displacement": 7672.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "2000"
   }, 

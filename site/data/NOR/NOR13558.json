@@ -5,12 +5,13 @@
       1.1959, 
       1.3798
     ], 
-    "gph": 641.7, 
     "triple_inshore": [
       0.6833, 
       0.9437, 
       1.1258
-    ]
+    ], 
+    "gph": 641.7, 
+    "osn": 623.3
   }, 
   "sailnumber": "NOR13558", 
   "name": "Otilie", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.87, 
       "draft": 1.79, 
+      "wetted_surface": 31.8, 
       "main": 39.2, 
       "genoa": 38.8, 
       "displacement": 7764.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 750.0
     }, 
     "year": "2005"
   }, 

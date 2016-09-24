@@ -5,12 +5,13 @@
       1.1753, 
       1.3239
     ], 
-    "gph": 648.7, 
     "triple_inshore": [
       0.6972, 
       0.9531, 
       1.1076
-    ]
+    ], 
+    "gph": 648.7, 
+    "osn": 631.3
   }, 
   "sailnumber": "NOR9659", 
   "name": "Xanadu", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.1, 
       "loa": 10.31, 
       "draft": 1.83, 
+      "wetted_surface": 24.4, 
       "main": 34.0, 
       "genoa": 33.9, 
       "displacement": 4622.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 612.0
     }, 
     "year": "1994"
   }, 

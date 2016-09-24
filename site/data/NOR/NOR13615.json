@@ -5,12 +5,13 @@
       1.1657, 
       1.3022
     ], 
-    "gph": 652.0, 
     "triple_inshore": [
       0.6991, 
       0.935, 
       1.0733
-    ]
+    ], 
+    "gph": 652.0, 
+    "osn": 636.7
   }, 
   "sailnumber": "NOR13615", 
   "name": "Mary", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.35, 
       "draft": 1.74, 
+      "wetted_surface": 24.7, 
       "main": 33.4, 
       "genoa": 40.0, 
       "displacement": 5188.0, 
-      "spinnaker_asym": 79.0
+      "spinnaker_asym": 79.0, 
+      "crew": 608.0
     }, 
     "year": "2006"
   }, 

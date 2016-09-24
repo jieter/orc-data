@@ -5,12 +5,13 @@
       1.1259, 
       1.3156
     ], 
-    "gph": 682.6, 
     "triple_inshore": [
       0.6325, 
       0.8859, 
       1.0774
-    ]
+    ], 
+    "gph": 682.6, 
+    "osn": 662.6
   }, 
   "sailnumber": "NED8699", 
   "name": "Boekanier", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.6, 
       "draft": 1.93, 
+      "wetted_surface": 43.7, 
       "main": 55.0, 
       "genoa": 50.7, 
       "displacement": 16000.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 838.0
     }, 
     "year": "1988"
   }, 

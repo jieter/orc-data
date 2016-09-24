@@ -5,12 +5,13 @@
       1.2876, 
       1.4564
     ], 
-    "gph": 593.0, 
     "triple_inshore": [
       0.7532, 
       1.0315, 
       1.2093
-    ]
+    ], 
+    "gph": 593.0, 
+    "osn": 577.9
   }, 
   "sailnumber": "NOR11313", 
   "name": "Snakkas", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.2, 
       "loa": 12.46, 
       "draft": 2.17, 
+      "wetted_surface": 33.4, 
       "main": 54.9, 
       "genoa": 51.8, 
       "displacement": 7831.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 821.0
     }, 
     "year": "2003"
   }, 

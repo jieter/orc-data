@@ -5,12 +5,13 @@
       1.1477, 
       1.3046
     ], 
-    "gph": 668.2, 
     "triple_inshore": [
       0.6621, 
       0.9136, 
       1.0727
-    ]
+    ], 
+    "gph": 668.2, 
+    "osn": 648.7
   }, 
   "sailnumber": "ITA17137", 
   "name": "VELA D'ARGENTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.3, 
       "draft": 1.92, 
+      "wetted_surface": 24.3, 
       "main": 29.8, 
       "genoa": 32.0, 
       "displacement": 4700.0, 
-      "spinnaker_asym": 59.0
+      "spinnaker_asym": 59.0, 
+      "crew": 400.0
     }, 
     "year": "2003"
   }, 

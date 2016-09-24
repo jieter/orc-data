@@ -5,12 +5,13 @@
       1.2059, 
       1.3787
     ], 
-    "gph": 634.8, 
     "triple_inshore": [
       0.6962, 
       0.9586, 
       1.1383
-    ]
+    ], 
+    "gph": 634.8, 
+    "osn": 617.4
   }, 
   "sailnumber": "NOR12044", 
   "name": "Soloven", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.93, 
       "draft": 1.88, 
+      "wetted_surface": 32.8, 
       "main": 41.7, 
       "genoa": 46.9, 
       "displacement": 8228.0, 
-      "spinnaker_asym": 87.0
+      "spinnaker_asym": 87.0, 
+      "crew": 771.0
     }, 
     "year": "2004"
   }, 

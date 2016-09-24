@@ -5,12 +5,13 @@
       1.1803, 
       1.3204
     ], 
-    "gph": 644.9, 
     "triple_inshore": [
       0.706, 
       0.953, 
       1.0921
-    ]
+    ], 
+    "gph": 644.9, 
+    "osn": 628.1
   }, 
   "sailnumber": "FRA17271", 
   "name": "MISPICKEL VI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.598, 
       "draft": 1.91, 
+      "wetted_surface": 21.1, 
       "main": 29.0, 
       "genoa": 24.4, 
       "displacement": 3749.0, 
-      "spinnaker_asym": 98.0
+      "spinnaker_asym": 98.0, 
+      "crew": 535.0
     }, 
     "year": "2009"
   }, 

@@ -5,12 +5,13 @@
       1.1817, 
       1.3389
     ], 
-    "gph": 647.4, 
     "triple_inshore": [
       0.6916, 
       0.9517, 
       1.1171
-    ]
+    ], 
+    "gph": 647.4, 
+    "osn": 628.3
   }, 
   "sailnumber": "NED7867", 
   "name": "First Sight", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.1, 
       "loa": 10.64, 
       "draft": 1.82, 
+      "wetted_surface": 26.7, 
       "main": 39.3, 
       "genoa": 28.1, 
       "displacement": 5810.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 647.0
     }, 
     "year": "2001"
   }, 

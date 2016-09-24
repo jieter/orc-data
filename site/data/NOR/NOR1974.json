@@ -5,12 +5,13 @@
       0.9424, 
       1.083
     ], 
-    "gph": 811.8, 
     "triple_inshore": [
       0.55, 
       0.7642, 
       0.9018
-    ]
+    ], 
+    "gph": 811.8, 
+    "osn": 785.6
   }, 
   "sailnumber": "NOR1974", 
   "name": "Duva", 
@@ -25,10 +26,12 @@
       "spinnaker": 26.2, 
       "loa": 6.65, 
       "draft": 1.25, 
+      "wetted_surface": 11.3, 
       "main": 12.6, 
       "genoa": 12.8, 
       "displacement": 1292.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 352.0
     }, 
     "year": "1979"
   }, 

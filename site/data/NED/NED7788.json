@@ -5,12 +5,13 @@
       1.2833, 
       1.4598
     ], 
-    "gph": 596.7, 
     "triple_inshore": [
       0.7444, 
       1.0238, 
       1.2039
-    ]
+    ], 
+    "gph": 596.7, 
+    "osn": 579.6
   }, 
   "sailnumber": "NED7788", 
   "name": "RamiroX", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.903, 
       "draft": 2.2, 
+      "wetted_surface": 35.6, 
       "main": 54.2, 
       "genoa": 39.6, 
       "displacement": 8917.0, 
-      "spinnaker_asym": 107.0
+      "spinnaker_asym": 107.0, 
+      "crew": 857.0
     }, 
     "year": "2003"
   }, 

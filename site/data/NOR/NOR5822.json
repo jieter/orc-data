@@ -5,12 +5,13 @@
       1.1078, 
       1.2587
     ], 
-    "gph": 685.1, 
     "triple_inshore": [
       0.6673, 
       0.9073, 
       1.0409
-    ]
+    ], 
+    "gph": 685.1, 
+    "osn": 665.7
   }, 
   "sailnumber": "NOR5822", 
   "name": "Blip", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.0, 
       "loa": 7.86, 
       "draft": 1.83, 
+      "wetted_surface": 13.9, 
       "main": 20.5, 
       "genoa": 18.5, 
       "displacement": 1498.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 407.0
     }, 
     "year": "1982"
   }, 

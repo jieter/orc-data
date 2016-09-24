@@ -5,12 +5,13 @@
       0.9445, 
       1.0693
     ], 
-    "gph": 804.8, 
     "triple_inshore": [
       0.5613, 
       0.7606, 
       0.894
-    ]
+    ], 
+    "gph": 804.8, 
+    "osn": 785.6
   }, 
   "sailnumber": "POL8128", 
   "name": "RASTABAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.41, 
       "draft": 1.25, 
+      "wetted_surface": 13.0, 
       "main": 11.8, 
       "genoa": 17.4, 
       "displacement": 2130.0, 
-      "spinnaker_asym": 34.0
+      "spinnaker_asym": 34.0, 
+      "crew": 326.0
     }, 
     "year": "1976"
   }, 

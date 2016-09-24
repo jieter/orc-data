@@ -5,12 +5,13 @@
       1.6902, 
       2.0201
     ], 
-    "gph": 449.8, 
     "triple_inshore": [
       0.9689, 
       1.3177, 
       1.5923
-    ]
+    ], 
+    "gph": 449.8, 
+    "osn": 439.7
   }, 
   "sailnumber": "GER5676", 
   "name": "OUTSIDER", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.832, 
       "draft": 3.47, 
+      "wetted_surface": 45.5, 
       "main": 94.8, 
       "genoa": 76.4, 
       "displacement": 7694.0, 
-      "spinnaker_asym": 297.0
+      "spinnaker_asym": 297.0, 
+      "crew": 749.0
     }, 
     "year": "2006"
   }, 

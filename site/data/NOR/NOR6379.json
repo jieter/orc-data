@@ -5,12 +5,13 @@
       1.07, 
       1.2114
     ], 
-    "gph": 715.2, 
     "triple_inshore": [
       0.6277, 
       0.8643, 
       1.0139
-    ]
+    ], 
+    "gph": 715.2, 
+    "osn": 693.5
   }, 
   "sailnumber": "NOR6379", 
   "name": "Linda", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.5, 
       "loa": 9.3, 
       "draft": 1.75, 
+      "wetted_surface": 20.0, 
       "main": 20.3, 
       "genoa": 29.9, 
       "displacement": 3968.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 493.0
     }, 
     "year": "1985"
   }, 

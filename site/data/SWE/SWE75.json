@@ -5,12 +5,13 @@
       1.1924, 
       1.3397
     ], 
-    "gph": 638.9, 
     "triple_inshore": [
       0.7106, 
       0.9671, 
       1.1176
-    ]
+    ], 
+    "gph": 638.9, 
+    "osn": 621.8
   }, 
   "sailnumber": "SWE75", 
   "name": "First i Gislov", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.7, 
       "loa": 9.98, 
       "draft": 2.0, 
+      "wetted_surface": 23.7, 
       "main": 35.7, 
       "genoa": 32.3, 
       "displacement": 4668.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 665.0
     }, 
     "year": "2007"
   }, 

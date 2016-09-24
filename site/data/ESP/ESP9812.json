@@ -5,12 +5,13 @@
       1.1793, 
       1.3346
     ], 
-    "gph": 648.5, 
     "triple_inshore": [
       0.6874, 
       0.9489, 
       1.1118
-    ]
+    ], 
+    "gph": 648.5, 
+    "osn": 630.5
   }, 
   "sailnumber": "ESP9812", 
   "name": "PEQUOD II", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.3, 
       "loa": 11.01, 
       "draft": 1.81, 
+      "wetted_surface": 27.3, 
       "main": 41.9, 
       "genoa": 35.4, 
       "displacement": 5612.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1989"
   }, 

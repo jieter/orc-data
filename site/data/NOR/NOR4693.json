@@ -5,12 +5,13 @@
       0.9917, 
       1.102
     ], 
-    "gph": 764.5, 
     "triple_inshore": [
       0.6085, 
       0.8177, 
       0.9266
-    ]
+    ], 
+    "gph": 764.5, 
+    "osn": 743.8
   }, 
   "sailnumber": "NOR4693", 
   "name": "Baaten", 
@@ -25,10 +26,12 @@
       "spinnaker": 30.3, 
       "loa": 6.74, 
       "draft": 1.43, 
+      "wetted_surface": 11.8, 
       "main": 16.2, 
       "genoa": 16.2, 
       "displacement": 1442.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 346.0
     }, 
     "year": "1978"
   }, 

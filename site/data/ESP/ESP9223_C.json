@@ -5,12 +5,13 @@
       1.042, 
       1.2011
     ], 
-    "gph": 739.1, 
     "triple_inshore": [
       0.5897, 
       0.839, 
       1.0097
-    ]
+    ], 
+    "gph": 739.1, 
+    "osn": 714.7
   }, 
   "sailnumber": "ESP9223_C", 
   "name": "FREGON", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.75, 
       "draft": 1.87, 
+      "wetted_surface": 22.1, 
       "main": 25.8, 
       "genoa": 34.0, 
       "displacement": 4702.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1985"
   }, 

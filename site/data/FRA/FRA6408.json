@@ -5,12 +5,13 @@
       1.2644, 
       1.456
     ], 
-    "gph": 605.1, 
     "triple_inshore": [
       0.7307, 
       1.0172, 
       1.1975
-    ]
+    ], 
+    "gph": 605.1, 
+    "osn": 587.9
   }, 
   "sailnumber": "FRA6408", 
   "name": "RADICAL CONCEPT", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.1, 
       "loa": 10.94, 
       "draft": 1.84, 
+      "wetted_surface": 27.6, 
       "main": 43.2, 
       "genoa": 29.4, 
       "displacement": 4553.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1982"
   }, 

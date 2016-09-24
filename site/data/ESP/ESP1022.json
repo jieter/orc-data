@@ -5,12 +5,13 @@
       1.16, 
       1.3177
     ], 
-    "gph": 648.6, 
     "triple_inshore": [
       0.7236, 
       0.942, 
       1.0844
-    ]
+    ], 
+    "gph": 648.6, 
+    "osn": 632.8
   }, 
   "sailnumber": "ESP1022", 
   "name": "DODGE UNO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.032, 
       "draft": 1.51, 
+      "wetted_surface": 13.7, 
       "main": 24.2, 
       "genoa": 18.8, 
       "displacement": 1534.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 350.0
     }, 
     "year": "1993"
   }, 

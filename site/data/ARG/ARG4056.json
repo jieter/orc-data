@@ -5,12 +5,13 @@
       1.1652, 
       1.311
     ], 
-    "gph": 653.6, 
     "triple_inshore": [
       0.6951, 
       0.9479, 
       1.1001
-    ]
+    ], 
+    "gph": 653.6, 
+    "osn": 636.0
   }, 
   "sailnumber": "ARG4056", 
   "name": "BANZAI", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.2, 
       "loa": 9.5, 
       "draft": 1.92, 
+      "wetted_surface": 21.3, 
       "main": 31.5, 
       "genoa": 28.1, 
       "displacement": 3814.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 520.0
     }, 
     "year": "1994"
   }, 

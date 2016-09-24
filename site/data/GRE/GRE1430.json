@@ -5,12 +5,13 @@
       1.2767, 
       1.4452
     ], 
-    "gph": 598.9, 
     "triple_inshore": [
       0.747, 
       1.026, 
       1.2097
-    ]
+    ], 
+    "gph": 598.9, 
+    "osn": 582.3
   }, 
   "sailnumber": "GRE1430", 
   "name": "TO KEFI MAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.9, 
       "loa": 12.259, 
       "draft": 2.17, 
+      "wetted_surface": 35.4, 
       "main": 52.2, 
       "genoa": 42.9, 
       "displacement": 9250.0, 
-      "spinnaker_asym": 111.0
+      "spinnaker_asym": 111.0, 
+      "crew": 750.0
     }, 
     "year": "2007"
   }, 

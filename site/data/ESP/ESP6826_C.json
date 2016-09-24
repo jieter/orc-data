@@ -5,12 +5,13 @@
       1.1121, 
       1.3177
     ], 
-    "gph": 696.5, 
     "triple_inshore": [
       0.6022, 
       0.8727, 
       1.0812
-    ]
+    ], 
+    "gph": 696.5, 
+    "osn": 673.9
   }, 
   "sailnumber": "ESP6826_C", 
   "name": "AQUARIO TRES", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.32, 
       "draft": 1.74, 
+      "wetted_surface": 35.9, 
       "main": 30.8, 
       "genoa": 48.8, 
       "displacement": 8365.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 240.0
     }, 
     "year": "1998"
   }, 

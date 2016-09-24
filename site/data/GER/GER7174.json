@@ -5,12 +5,13 @@
       1.1577, 
       1.2955
     ], 
-    "gph": 658.5, 
     "triple_inshore": [
       0.6884, 
       0.9375, 
       1.0829
-    ]
+    ], 
+    "gph": 658.5, 
+    "osn": 641.2
   }, 
   "sailnumber": "GER7174", 
   "name": "FILIPPA", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.8, 
       "loa": 10.72, 
       "draft": 1.8, 
+      "wetted_surface": 24.7, 
       "main": 36.6, 
       "genoa": 32.7, 
       "displacement": 5067.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 589.0
     }, 
     "year": "1985"
   }, 

@@ -5,12 +5,13 @@
       1.2794, 
       1.457
     ], 
-    "gph": 599.9, 
     "triple_inshore": [
       0.7368, 
       1.0236, 
       1.1972
-    ]
+    ], 
+    "gph": 599.9, 
+    "osn": 581.2
   }, 
   "sailnumber": "FRA43605", 
   "name": "LADY JANE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.244, 
       "draft": 2.15, 
+      "wetted_surface": 32.4, 
       "main": 45.5, 
       "genoa": 33.2, 
       "displacement": 6707.0, 
-      "spinnaker_asym": 131.0
+      "spinnaker_asym": 131.0, 
+      "crew": 813.0
     }, 
     "year": "1994"
   }, 

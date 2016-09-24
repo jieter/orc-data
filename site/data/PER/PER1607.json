@@ -5,12 +5,13 @@
       1.2481, 
       1.4074
     ], 
-    "gph": 612.5, 
     "triple_inshore": [
       0.7314, 
       1.0003, 
       1.1585
-    ]
+    ], 
+    "gph": 612.5, 
+    "osn": 595.2
   }, 
   "sailnumber": "PER1607", 
   "name": "AZZURRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.996, 
       "draft": 2.17, 
+      "wetted_surface": 28.6, 
       "main": 41.4, 
       "genoa": 31.0, 
       "displacement": 5896.0, 
-      "spinnaker_asym": 118.0
+      "spinnaker_asym": 118.0, 
+      "crew": 685.0
     }, 
     "year": "2012"
   }, 

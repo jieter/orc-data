@@ -5,12 +5,13 @@
       1.331, 
       1.5047
     ], 
-    "gph": 573.9, 
     "triple_inshore": [
       0.7835, 
       1.0778, 
       1.2581
-    ]
+    ], 
+    "gph": 573.9, 
+    "osn": 557.5
   }, 
   "sailnumber": "ESP6336", 
   "name": "NINURIATA VIII", 
@@ -25,10 +26,12 @@
       "spinnaker": 122.5, 
       "loa": 12.4, 
       "draft": 2.43, 
+      "wetted_surface": 31.8, 
       "main": 56.3, 
       "genoa": 37.7, 
       "displacement": 7255.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "2002"
   }, 

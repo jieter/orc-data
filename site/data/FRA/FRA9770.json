@@ -5,12 +5,13 @@
       1.1933, 
       1.3443
     ], 
-    "gph": 638.7, 
     "triple_inshore": [
       0.7122, 
       0.9714, 
       1.1189
-    ]
+    ], 
+    "gph": 638.7, 
+    "osn": 620.5
   }, 
   "sailnumber": "FRA9770", 
   "name": "A+", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.1, 
       "loa": 9.5, 
       "draft": 1.96, 
+      "wetted_surface": 20.0, 
       "main": 29.5, 
       "genoa": 22.6, 
       "displacement": 3256.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 440.0
     }, 
     "year": "2009"
   }, 

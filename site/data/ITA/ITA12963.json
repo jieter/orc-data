@@ -5,12 +5,13 @@
       1.2691, 
       1.4395
     ], 
-    "gph": 600.9, 
     "triple_inshore": [
       0.7525, 
       1.0315, 
       1.2135
-    ]
+    ], 
+    "gph": 600.9, 
+    "osn": 583.4
   }, 
   "sailnumber": "ITA12963", 
   "name": "CELESTE 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 115.0, 
       "loa": 11.961, 
       "draft": 2.42, 
+      "wetted_surface": 31.4, 
       "main": 45.9, 
       "genoa": 39.5, 
       "displacement": 7070.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 747.0
     }, 
     "year": "1996"
   }, 

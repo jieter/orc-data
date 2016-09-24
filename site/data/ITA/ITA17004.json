@@ -5,12 +5,13 @@
       1.5227, 
       1.7721
     ], 
-    "gph": 509.2, 
     "triple_inshore": [
       0.8337, 
       1.1956, 
       1.4327
-    ]
+    ], 
+    "gph": 509.2, 
+    "osn": 492.9
   }, 
   "sailnumber": "ITA17004", 
   "name": "' O SARRACINO 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 17.4, 
       "draft": 3.2, 
+      "wetted_surface": 71.0, 
       "main": 105.7, 
       "genoa": 85.0, 
       "displacement": 19744.0, 
-      "spinnaker_asym": 276.0
+      "spinnaker_asym": 276.0, 
+      "crew": 1000.0
     }, 
     "year": "2014"
   }, 

@@ -5,12 +5,13 @@
       1.207, 
       1.4086
     ], 
-    "gph": 624.6, 
     "triple_inshore": [
       0.7376, 
       0.9627, 
       1.1309
-    ]
+    ], 
+    "gph": 624.6, 
+    "osn": 608.9
   }, 
   "sailnumber": "TUR4440", 
   "name": "Adios", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.619, 
       "draft": 1.8, 
+      "wetted_surface": 12.6, 
       "main": 23.0, 
       "genoa": 13.6, 
       "displacement": 960.0, 
-      "spinnaker_asym": 61.0
+      "spinnaker_asym": 61.0, 
+      "crew": 375.0
     }, 
     "year": "2008"
   }, 

@@ -5,12 +5,13 @@
       1.1495, 
       1.3091
     ], 
-    "gph": 665.8, 
     "triple_inshore": [
       0.661, 
       0.9221, 
       1.0945
-    ]
+    ], 
+    "gph": 665.8, 
+    "osn": 649.1
   }, 
   "sailnumber": "ITA13948", 
   "name": "SWING", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.33, 
       "draft": 2.01, 
+      "wetted_surface": 27.9, 
       "main": 37.4, 
       "genoa": 46.5, 
       "displacement": 6376.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1997"
   }, 

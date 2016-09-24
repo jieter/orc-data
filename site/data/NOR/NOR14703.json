@@ -5,12 +5,13 @@
       1.1305, 
       1.3285
     ], 
-    "gph": 684.3, 
     "triple_inshore": [
       0.6226, 
       0.8989, 
       1.1049
-    ]
+    ], 
+    "gph": 684.3, 
+    "osn": 661.8
   }, 
   "sailnumber": "NOR14703", 
   "name": "Nerthuz", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.941, 
       "draft": 2.01, 
+      "wetted_surface": 33.1, 
       "main": 44.3, 
       "genoa": 28.5, 
       "displacement": 7657.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 740.0
     }, 
     "year": "2010"
   }, 

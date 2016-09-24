@@ -5,12 +5,13 @@
       1.2385, 
       1.4046
     ], 
-    "gph": 617.1, 
     "triple_inshore": [
       0.7219, 
       0.9939, 
       1.1686
-    ]
+    ], 
+    "gph": 617.1, 
+    "osn": 600.5
   }, 
   "sailnumber": "NOR11065", 
   "name": "Tellus", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.0, 
       "loa": 11.36, 
       "draft": 2.19, 
+      "wetted_surface": 30.9, 
       "main": 41.7, 
       "genoa": 49.9, 
       "displacement": 6859.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 758.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.3644, 
       1.5479
     ], 
-    "gph": 560.2, 
     "triple_inshore": [
       0.7995, 
       1.0988, 
       1.29
-    ]
+    ], 
+    "gph": 560.2, 
+    "osn": 544.6
   }, 
   "sailnumber": "ESP7445", 
   "name": "DES-AHOGO", 
@@ -25,10 +26,12 @@
       "spinnaker": 159.1, 
       "loa": 13.72, 
       "draft": 2.73, 
+      "wetted_surface": 40.3, 
       "main": 64.6, 
       "genoa": 54.8, 
       "displacement": 10088.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 965.0
     }, 
     "year": "2003"
   }, 

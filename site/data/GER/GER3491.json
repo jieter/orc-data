@@ -5,12 +5,13 @@
       1.1275, 
       1.2902
     ], 
-    "gph": 678.7, 
     "triple_inshore": [
       0.6562, 
       0.8886, 
       1.0572
-    ]
+    ], 
+    "gph": 678.7, 
+    "osn": 659.8
   }, 
   "sailnumber": "GER3491", 
   "name": "ATIEDE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.52, 
       "draft": 1.99, 
+      "wetted_surface": 35.7, 
       "main": 36.9, 
       "genoa": 41.1, 
       "displacement": 10463.0, 
-      "spinnaker_asym": 112.0
+      "spinnaker_asym": 112.0, 
+      "crew": 500.0
     }, 
     "year": "1986"
   }, 

@@ -5,12 +5,13 @@
       1.0906, 
       1.2428
     ], 
-    "gph": 706.9, 
     "triple_inshore": [
       0.6174, 
       0.8585, 
       1.0159
-    ]
+    ], 
+    "gph": 706.9, 
+    "osn": 685.1
   }, 
   "sailnumber": "ESP7843_C", 
   "name": "CASTILLO TRES", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.38, 
       "draft": 1.86, 
+      "wetted_surface": 25.6, 
       "main": 24.4, 
       "genoa": 34.1, 
       "displacement": 5395.0, 
-      "spinnaker_asym": 61.0
+      "spinnaker_asym": 61.0, 
+      "crew": 320.0
     }, 
     "year": "2006"
   }, 

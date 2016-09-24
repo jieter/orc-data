@@ -5,12 +5,13 @@
       1.2427, 
       1.453
     ], 
-    "gph": 620.4, 
     "triple_inshore": [
       0.6943, 
       0.982, 
       1.1938
-    ]
+    ], 
+    "gph": 620.4, 
+    "osn": 600.8
   }, 
   "sailnumber": "NED7890", 
   "name": "Mrs Jones", 
@@ -25,10 +26,12 @@
       "spinnaker": 115.3, 
       "loa": 13.41, 
       "draft": 2.07, 
+      "wetted_surface": 40.0, 
       "main": 50.9, 
       "genoa": 42.4, 
       "displacement": 9900.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 799.0
     }, 
     "year": "2004"
   }, 

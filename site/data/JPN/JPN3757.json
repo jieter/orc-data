@@ -5,12 +5,13 @@
       1.236, 
       1.404
     ], 
-    "gph": 613.4, 
     "triple_inshore": [
       0.746, 
       1.0055, 
       1.1569
-    ]
+    ], 
+    "gph": 613.4, 
+    "osn": 597.1
   }, 
   "sailnumber": "JPN3757", 
   "name": "AZ", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.4, 
       "loa": 9.55, 
       "draft": 1.98, 
+      "wetted_surface": 18.4, 
       "main": 31.6, 
       "genoa": 27.2, 
       "displacement": 2452.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 516.0
     }, 
     "year": "1993"
   }, 

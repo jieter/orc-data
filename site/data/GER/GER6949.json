@@ -5,12 +5,13 @@
       1.2057, 
       1.3678
     ], 
-    "gph": 633.5, 
     "triple_inshore": [
       0.7096, 
       0.9725, 
       1.1469
-    ]
+    ], 
+    "gph": 633.5, 
+    "osn": 615.1
   }, 
   "sailnumber": "GER6949", 
   "name": "X-WING", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.9, 
       "loa": 11.475, 
       "draft": 2.08, 
+      "wetted_surface": 30.6, 
       "main": 34.7, 
       "genoa": 49.3, 
       "displacement": 7288.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "1993"
   }, 

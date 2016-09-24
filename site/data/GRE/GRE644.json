@@ -5,12 +5,13 @@
       1.2478, 
       1.4517
     ], 
-    "gph": 615.4, 
     "triple_inshore": [
       0.7086, 
       0.9811, 
       1.1962
-    ]
+    ], 
+    "gph": 615.4, 
+    "osn": 597.5
   }, 
   "sailnumber": "GRE644", 
   "name": "DAPHNE'S SMILE", 
@@ -25,10 +26,12 @@
       "spinnaker": 190.4, 
       "loa": 16.085, 
       "draft": 2.53, 
+      "wetted_surface": 51.8, 
       "main": 61.8, 
       "genoa": 87.9, 
       "displacement": 21186.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1020.0
     }, 
     "year": "1970"
   }, 

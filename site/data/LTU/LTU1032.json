@@ -5,12 +5,13 @@
       1.0408, 
       1.184
     ], 
-    "gph": 734.3, 
     "triple_inshore": [
       0.6135, 
       0.8516, 
       0.9881
-    ]
+    ], 
+    "gph": 734.3, 
+    "osn": 710.1
   }, 
   "sailnumber": "LTU1032", 
   "name": "TIGRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 38.5, 
       "loa": 7.0, 
       "draft": 1.56, 
+      "wetted_surface": 13.1, 
       "main": 19.0, 
       "genoa": 11.3, 
       "displacement": 1418.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 380.0
     }, 
     "year": "1999"
   }, 

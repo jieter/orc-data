@@ -5,12 +5,13 @@
       1.1979, 
       1.3753
     ], 
-    "gph": 640.5, 
     "triple_inshore": [
       0.6919, 
       0.9665, 
       1.1506
-    ]
+    ], 
+    "gph": 640.5, 
+    "osn": 619.3
   }, 
   "sailnumber": "NOR13635", 
   "name": "Frende", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.9, 
       "loa": 10.69, 
       "draft": 2.1, 
+      "wetted_surface": 28.2, 
       "main": 31.6, 
       "genoa": 35.8, 
       "displacement": 5683.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 694.0
     }, 
     "year": "2007"
   }, 

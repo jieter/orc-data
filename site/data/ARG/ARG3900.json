@@ -5,12 +5,13 @@
       1.2972, 
       1.4623
     ], 
-    "gph": 584.8, 
     "triple_inshore": [
       0.7815, 
       1.0486, 
       1.2052
-    ]
+    ], 
+    "gph": 584.8, 
+    "osn": 570.8
   }, 
   "sailnumber": "ARG3900", 
   "name": "BACCARAT", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.9, 
       "loa": 11.45, 
       "draft": 2.17, 
+      "wetted_surface": 25.9, 
       "main": 49.5, 
       "genoa": 32.3, 
       "displacement": 4466.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "1993"
   }, 

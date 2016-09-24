@@ -5,12 +5,13 @@
       1.0974, 
       1.2466
     ], 
-    "gph": 674.3, 
     "triple_inshore": [
       0.7247, 
       0.9023, 
       1.0425
-    ]
+    ], 
+    "gph": 674.3, 
+    "osn": 662.3
   }, 
   "sailnumber": "FRA159", 
   "name": "MISS MARPLE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.5, 
       "draft": 2.0, 
+      "wetted_surface": 11.3, 
       "main": 27.7, 
       "genoa": 11.4, 
       "displacement": 900.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 130.0
     }, 
     "year": "1993"
   }, 

@@ -5,12 +5,13 @@
       1.214, 
       1.3689
     ], 
-    "gph": 628.4, 
     "triple_inshore": [
       0.7161, 
       0.9793, 
       1.1433
-    ]
+    ], 
+    "gph": 628.4, 
+    "osn": 611.4
   }, 
   "sailnumber": "ESP8118", 
   "name": "CACHETE", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.1, 
       "loa": 10.972, 
       "draft": 1.98, 
+      "wetted_surface": 28.6, 
       "main": 41.6, 
       "genoa": 38.1, 
       "displacement": 6526.0, 
-      "spinnaker_asym": 100.0
+      "spinnaker_asym": 100.0, 
+      "crew": 636.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.3121, 
       1.4857
     ], 
-    "gph": 582.1, 
     "triple_inshore": [
       0.7691, 
       1.0534, 
       1.2382
-    ]
+    ], 
+    "gph": 582.1, 
+    "osn": 566.6
   }, 
   "sailnumber": "NED7061", 
   "name": "Serendipity", 
@@ -25,10 +26,12 @@
       "spinnaker": 156.2, 
       "loa": 13.48, 
       "draft": 2.32, 
+      "wetted_surface": 39.1, 
       "main": 47.7, 
       "genoa": 75.0, 
       "displacement": 10232.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 875.0
     }, 
     "year": "1993"
   }, 

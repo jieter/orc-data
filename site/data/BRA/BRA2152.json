@@ -5,12 +5,13 @@
       1.2752, 
       1.4396
     ], 
-    "gph": 598.1, 
     "triple_inshore": [
       0.753, 
       1.0297, 
       1.2042
-    ]
+    ], 
+    "gph": 598.1, 
+    "osn": 582.2
   }, 
   "sailnumber": "BRA2152", 
   "name": "ABSOLUTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.8, 
       "loa": 11.924, 
       "draft": 2.43, 
+      "wetted_surface": 31.6, 
       "main": 48.9, 
       "genoa": 51.2, 
       "displacement": 7331.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 660.0
     }, 
     "year": "1997"
   }, 

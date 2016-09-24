@@ -5,12 +5,13 @@
       1.1448, 
       1.3039
     ], 
-    "gph": 667.1, 
     "triple_inshore": [
       0.6729, 
       0.9133, 
       1.0864
-    ]
+    ], 
+    "gph": 667.1, 
+    "osn": 648.7
   }, 
   "sailnumber": "ITA12959", 
   "name": "NEREIDE", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.8, 
       "loa": 11.6, 
       "draft": 1.89, 
+      "wetted_surface": 32.2, 
       "main": 37.8, 
       "genoa": 43.1, 
       "displacement": 9951.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1988"
   }, 

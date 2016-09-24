@@ -5,12 +5,13 @@
       1.3011, 
       1.4832
     ], 
-    "gph": 587.1, 
     "triple_inshore": [
       0.7582, 
       1.0447, 
       1.2359
-    ]
+    ], 
+    "gph": 587.1, 
+    "osn": 571.6
   }, 
   "sailnumber": "NED7343", 
   "name": "Square-One", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.903, 
       "draft": 2.21, 
+      "wetted_surface": 35.8, 
       "main": 53.4, 
       "genoa": 54.0, 
       "displacement": 9088.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 862.0
     }, 
     "year": "2003"
   }, 

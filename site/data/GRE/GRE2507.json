@@ -5,12 +5,13 @@
       1.112, 
       1.2524
     ], 
-    "gph": 678.1, 
     "triple_inshore": [
       0.6901, 
       0.9124, 
       1.0323
-    ]
+    ], 
+    "gph": 678.1, 
+    "osn": 660.7
   }, 
   "sailnumber": "GRE2507", 
   "name": "DOMENICA", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.4, 
       "loa": 7.515, 
       "draft": 1.6, 
+      "wetted_surface": 12.2, 
       "main": 21.1, 
       "genoa": 13.0, 
       "displacement": 1308.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1995"
   }, 

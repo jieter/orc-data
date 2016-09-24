@@ -5,12 +5,13 @@
       1.1564, 
       1.3104
     ], 
-    "gph": 660.2, 
     "triple_inshore": [
       0.6829, 
       0.9288, 
       1.094
-    ]
+    ], 
+    "gph": 660.2, 
+    "osn": 641.1
   }, 
   "sailnumber": "GRE1525", 
   "name": "ARWEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.983, 
       "draft": 2.08, 
+      "wetted_surface": 25.8, 
       "main": 32.1, 
       "genoa": 31.6, 
       "displacement": 5675.0, 
-      "spinnaker_asym": 71.0
+      "spinnaker_asym": 71.0, 
+      "crew": 640.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       1.1439, 
       1.2963
     ], 
-    "gph": 669.1, 
     "triple_inshore": [
       0.6683, 
       0.9233, 
       1.0831
-    ]
+    ], 
+    "gph": 669.1, 
+    "osn": 649.1
   }, 
   "sailnumber": "ESP4639", 
   "name": "RAFAGAS II", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.7, 
       "loa": 9.798, 
       "draft": 2.09, 
+      "wetted_surface": 23.9, 
       "main": 30.3, 
       "genoa": 31.3, 
       "displacement": 4517.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1996"
   }, 

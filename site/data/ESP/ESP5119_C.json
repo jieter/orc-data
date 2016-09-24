@@ -5,12 +5,13 @@
       1.142, 
       1.3058
     ], 
-    "gph": 661.5, 
     "triple_inshore": [
       0.7026, 
       0.9367, 
       1.0669
-    ]
+    ], 
+    "gph": 661.5, 
+    "osn": 642.0
   }, 
   "sailnumber": "ESP5119_C", 
   "name": "BURBUJON", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.3, 
       "loa": 7.512, 
       "draft": 1.56, 
+      "wetted_surface": 11.4, 
       "main": 20.6, 
       "genoa": 12.1, 
       "displacement": 1138.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1999"
   }, 

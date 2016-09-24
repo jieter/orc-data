@@ -5,12 +5,13 @@
       1.1356, 
       1.2978
     ], 
-    "gph": 677.0, 
     "triple_inshore": [
       0.6508, 
       0.9142, 
       1.0838
-    ]
+    ], 
+    "gph": 677.0, 
+    "osn": 654.5
   }, 
   "sailnumber": "ITABLISS", 
   "name": "BLISS", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.3, 
       "loa": 9.798, 
       "draft": 2.09, 
+      "wetted_surface": 23.8, 
       "main": 30.6, 
       "genoa": 31.9, 
       "displacement": 4496.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1996"
   }, 

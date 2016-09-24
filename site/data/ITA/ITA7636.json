@@ -5,12 +5,13 @@
       1.1375, 
       1.2909
     ], 
-    "gph": 671.0, 
     "triple_inshore": [
       0.6747, 
       0.9145, 
       1.0817
-    ]
+    ], 
+    "gph": 671.0, 
+    "osn": 651.4
   }, 
   "sailnumber": "ITA7636", 
   "name": "SANDRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 123.4, 
       "loa": 11.93, 
       "draft": 2.02, 
+      "wetted_surface": 28.8, 
       "main": 25.5, 
       "genoa": 49.2, 
       "displacement": 8353.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "1978"
   }, 

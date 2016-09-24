@@ -5,12 +5,13 @@
       1.2049, 
       1.394
     ], 
-    "gph": 637.2, 
     "triple_inshore": [
       0.6876, 
       0.9596, 
       1.1532
-    ]
+    ], 
+    "gph": 637.2, 
+    "osn": 617.9
   }, 
   "sailnumber": "NOR11441", 
   "name": "Just do it (tidligere Ti", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.1, 
       "loa": 11.83, 
       "draft": 2.01, 
+      "wetted_surface": 32.2, 
       "main": 37.9, 
       "genoa": 44.7, 
       "displacement": 7536.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 736.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       1.2129, 
       1.3704
     ], 
-    "gph": 629.8, 
     "triple_inshore": [
       0.7143, 
       0.9784, 
       1.1316
-    ]
+    ], 
+    "gph": 629.8, 
+    "osn": 610.8
   }, 
   "sailnumber": "NED8244", 
   "name": "Harpoen", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.57, 
       "draft": 2.03, 
+      "wetted_surface": 25.4, 
       "main": 33.8, 
       "genoa": 24.3, 
       "displacement": 4284.0, 
-      "spinnaker_asym": 107.0
+      "spinnaker_asym": 107.0, 
+      "crew": 510.0
     }, 
     "year": "1992"
   }, 

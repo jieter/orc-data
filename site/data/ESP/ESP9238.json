@@ -5,12 +5,13 @@
       1.0011, 
       1.1229
     ], 
-    "gph": 761.4, 
     "triple_inshore": [
       0.5985, 
       0.8186, 
       0.9408
-    ]
+    ], 
+    "gph": 761.4, 
+    "osn": 738.7
   }, 
   "sailnumber": "ESP9238", 
   "name": "AGUILUCHO", 
@@ -25,10 +26,12 @@
       "spinnaker": 37.5, 
       "loa": 6.75, 
       "draft": 1.53, 
+      "wetted_surface": 13.9, 
       "main": 18.1, 
       "genoa": 13.8, 
       "displacement": 1732.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 235.0
     }, 
     "year": "1997"
   }, 

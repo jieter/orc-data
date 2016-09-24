@@ -5,12 +5,13 @@
       1.1853, 
       1.3304
     ], 
-    "gph": 642.0, 
     "triple_inshore": [
       0.7085, 
       0.9628, 
       1.1144
-    ]
+    ], 
+    "gph": 642.0, 
+    "osn": 625.7
   }, 
   "sailnumber": "NOR11421", 
   "name": "MadameX", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.4, 
       "loa": 10.06, 
       "draft": 1.83, 
+      "wetted_surface": 24.4, 
       "main": 36.8, 
       "genoa": 35.1, 
       "displacement": 4622.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 612.0
     }, 
     "year": "1994"
   }, 

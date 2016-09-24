@@ -5,12 +5,13 @@
       1.1707, 
       1.327
     ], 
-    "gph": 649.8, 
     "triple_inshore": [
       0.6994, 
       0.9559, 
       1.1045
-    ]
+    ], 
+    "gph": 649.8, 
+    "osn": 631.3
   }, 
   "sailnumber": "NED6900", 
   "name": "JUNO", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.7, 
       "loa": 9.14, 
       "draft": 1.82, 
+      "wetted_surface": 18.6, 
       "main": 28.9, 
       "genoa": 18.6, 
       "displacement": 2652.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 490.0
     }, 
     "year": "1992"
   }, 

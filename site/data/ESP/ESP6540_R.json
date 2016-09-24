@@ -5,12 +5,13 @@
       1.0748, 
       1.2137
     ], 
-    "gph": 709.9, 
     "triple_inshore": [
       0.6379, 
       0.8634, 
       1.0104
-    ]
+    ], 
+    "gph": 709.9, 
+    "osn": 690.5
   }, 
   "sailnumber": "ESP6540_R", 
   "name": "MICANGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.5, 
       "loa": 10.345, 
       "draft": 1.79, 
+      "wetted_surface": 22.8, 
       "main": 23.7, 
       "genoa": 37.2, 
       "displacement": 5189.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 170.0
     }, 
     "year": "1974"
   }, 

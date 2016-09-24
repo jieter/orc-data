@@ -5,12 +5,13 @@
       1.0279, 
       1.1483
     ], 
-    "gph": 739.2, 
     "triple_inshore": [
       0.6259, 
       0.8385, 
       0.9691
-    ]
+    ], 
+    "gph": 739.2, 
+    "osn": 718.7
   }, 
   "sailnumber": "NOR5714", 
   "name": "Frid", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.6, 
       "loa": 8.57, 
       "draft": 1.69, 
+      "wetted_surface": 17.9, 
       "main": 17.0, 
       "genoa": 27.2, 
       "displacement": 3675.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1979"
   }, 

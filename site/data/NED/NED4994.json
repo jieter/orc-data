@@ -5,12 +5,13 @@
       1.1739, 
       1.3215
     ], 
-    "gph": 648.7, 
     "triple_inshore": [
       0.7013, 
       0.9536, 
       1.1066
-    ]
+    ], 
+    "gph": 648.7, 
+    "osn": 631.1
   }, 
   "sailnumber": "NED4994", 
   "name": "Numero Uno", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.0, 
       "loa": 10.0, 
       "draft": 2.0, 
+      "wetted_surface": 23.0, 
       "main": 30.9, 
       "genoa": 35.2, 
       "displacement": 4502.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1999"
   }, 

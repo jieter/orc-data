@@ -5,12 +5,13 @@
       1.2656, 
       1.4614
     ], 
-    "gph": 600.0, 
     "triple_inshore": [
       0.7541, 
       1.0139, 
       1.189
-    ]
+    ], 
+    "gph": 600.0, 
+    "osn": 584.0
   }, 
   "sailnumber": "NOR173", 
   "name": "NiPa", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.7, 
       "loa": 10.3, 
       "draft": 1.71, 
+      "wetted_surface": 15.8, 
       "main": 29.7, 
       "genoa": 13.2, 
       "displacement": 1669.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 423.0
     }, 
     "year": "1991"
   }, 

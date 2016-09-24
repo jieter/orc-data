@@ -5,12 +5,13 @@
       1.0728, 
       1.2007
     ], 
-    "gph": 708.4, 
     "triple_inshore": [
       0.6468, 
       0.8714, 
       1.0091
-    ]
+    ], 
+    "gph": 708.4, 
+    "osn": 690.2
   }, 
   "sailnumber": "ESP3100", 
   "name": "MAIRE I", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.6, 
       "loa": 9.435, 
       "draft": 1.76, 
+      "wetted_surface": 20.9, 
       "main": 29.5, 
       "genoa": 28.4, 
       "displacement": 4701.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1981"
   }, 

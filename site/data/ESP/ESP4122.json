@@ -5,12 +5,13 @@
       1.0893, 
       1.2168
     ], 
-    "gph": 696.6, 
     "triple_inshore": [
       0.661, 
       0.8848, 
       1.02
-    ]
+    ], 
+    "gph": 696.6, 
+    "osn": 679.3
   }, 
   "sailnumber": "ESP4122", 
   "name": "AMOR FATI", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.2, 
       "loa": 9.435, 
       "draft": 1.75, 
+      "wetted_surface": 20.8, 
       "main": 29.7, 
       "genoa": 30.7, 
       "displacement": 4586.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1979"
   }, 

@@ -5,12 +5,13 @@
       1.3275, 
       1.5053
     ], 
-    "gph": 574.3, 
     "triple_inshore": [
       0.7845, 
       1.0725, 
       1.2506
-    ]
+    ], 
+    "gph": 574.3, 
+    "osn": 558.7
   }, 
   "sailnumber": "ITA1771", 
   "name": "VELADO'2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.48, 
       "draft": 2.38, 
+      "wetted_surface": 32.2, 
       "main": 54.0, 
       "genoa": 42.7, 
       "displacement": 7047.0, 
-      "spinnaker_asym": 130.0
+      "spinnaker_asym": 130.0, 
+      "crew": 740.0
     }, 
     "year": "2005"
   }, 

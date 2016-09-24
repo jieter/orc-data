@@ -5,12 +5,13 @@
       1.1072, 
       1.2567
     ], 
-    "gph": 692.0, 
     "triple_inshore": [
       0.6453, 
       0.891, 
       1.0486
-    ]
+    ], 
+    "gph": 692.0, 
+    "osn": 670.7
   }, 
   "sailnumber": "GRE1210", 
   "name": "DAMSON", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.5, 
       "loa": 10.045, 
       "draft": 1.81, 
+      "wetted_surface": 24.3, 
       "main": 24.5, 
       "genoa": 36.2, 
       "displacement": 4805.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1986"
   }, 

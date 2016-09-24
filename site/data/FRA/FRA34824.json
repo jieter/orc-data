@@ -5,12 +5,13 @@
       1.1843, 
       1.3526
     ], 
-    "gph": 645.9, 
     "triple_inshore": [
       0.6927, 
       0.9602, 
       1.1264
-    ]
+    ], 
+    "gph": 645.9, 
+    "osn": 625.9
   }, 
   "sailnumber": "FRA34824", 
   "name": "KIA ORA", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.8, 
       "loa": 9.6, 
       "draft": 1.99, 
+      "wetted_surface": 22.7, 
       "main": 30.6, 
       "genoa": 25.4, 
       "displacement": 3646.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2003"
   }, 

@@ -5,12 +5,13 @@
       1.1838, 
       1.34
     ], 
-    "gph": 645.4, 
     "triple_inshore": [
       0.6978, 
       0.9595, 
       1.1205
-    ]
+    ], 
+    "gph": 645.4, 
+    "osn": 626.4
   }, 
   "sailnumber": "ITA15474", 
   "name": "SWAY", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.3, 
       "loa": 9.982, 
       "draft": 1.99, 
+      "wetted_surface": 23.4, 
       "main": 34.3, 
       "genoa": 26.4, 
       "displacement": 4520.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 575.0
     }, 
     "year": "2005"
   }, 

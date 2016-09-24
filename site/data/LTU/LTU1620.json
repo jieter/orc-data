@@ -5,12 +5,13 @@
       1.2244, 
       1.38
     ], 
-    "gph": 622.6, 
     "triple_inshore": [
       0.7282, 
       0.9961, 
       1.1591
-    ]
+    ], 
+    "gph": 622.6, 
+    "osn": 605.0
   }, 
   "sailnumber": "LTU1620", 
   "name": "EXTREME", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.3, 
       "loa": 10.6, 
       "draft": 2.21, 
+      "wetted_surface": 25.4, 
       "main": 37.4, 
       "genoa": 33.4, 
       "displacement": 5098.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.1134, 
       1.2535
     ], 
-    "gph": 677.2, 
     "triple_inshore": [
       0.6917, 
       0.9134, 
       1.0321
-    ]
+    ], 
+    "gph": 677.2, 
+    "osn": 659.7
   }, 
   "sailnumber": "ITA25139", 
   "name": "TOSCA", 
@@ -25,10 +26,12 @@
       "spinnaker": 45.1, 
       "loa": 7.512, 
       "draft": 1.57, 
+      "wetted_surface": 12.1, 
       "main": 21.1, 
       "genoa": 13.2, 
       "displacement": 1294.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1997"
   }, 

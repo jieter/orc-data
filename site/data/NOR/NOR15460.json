@@ -5,12 +5,13 @@
       1.1371, 
       1.3585
     ], 
-    "gph": 679.0, 
     "triple_inshore": [
       0.6257, 
       0.9061, 
       1.1394
-    ]
+    ], 
+    "gph": 679.0, 
+    "osn": 655.7
   }, 
   "sailnumber": "NOR15460", 
   "name": "Sjarm", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.98, 
       "draft": 2.09, 
+      "wetted_surface": 33.9, 
       "main": 40.7, 
       "genoa": 36.8, 
       "displacement": 8638.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 767.0
     }, 
     "year": "2013"
   }, 

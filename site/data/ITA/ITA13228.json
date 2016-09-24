@@ -5,12 +5,13 @@
       1.5117, 
       1.7207
     ], 
-    "gph": 488.7, 
     "triple_inshore": [
       0.9925, 
       1.2302, 
       1.4592
-    ]
+    ], 
+    "gph": 488.7, 
+    "osn": 482.1
   }, 
   "sailnumber": "ITA13228", 
   "name": "BARRAONDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.19, 
       "draft": 3.32, 
+      "wetted_surface": 21.6, 
       "main": 85.2, 
       "genoa": 36.2, 
       "displacement": 2803.0, 
-      "spinnaker_asym": 194.0
+      "spinnaker_asym": 194.0, 
+      "crew": 720.0
     }, 
     "year": "1999"
   }, 

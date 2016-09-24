@@ -5,12 +5,13 @@
       1.1948, 
       1.3501
     ], 
-    "gph": 637.7, 
     "triple_inshore": [
       0.7118, 
       0.9685, 
       1.1188
-    ]
+    ], 
+    "gph": 637.7, 
+    "osn": 618.9
   }, 
   "sailnumber": "GER7296", 
   "name": "LALLI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.24, 
       "draft": 2.15, 
+      "wetted_surface": 21.0, 
       "main": 29.7, 
       "genoa": 23.4, 
       "displacement": 3485.0, 
-      "spinnaker_asym": 84.0
+      "spinnaker_asym": 84.0, 
+      "crew": 530.0
     }, 
     "year": "2013"
   }, 

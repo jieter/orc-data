@@ -5,12 +5,13 @@
       1.2007, 
       1.3513
     ], 
-    "gph": 635.9, 
     "triple_inshore": [
       0.7091, 
       0.9713, 
       1.1301
-    ]
+    ], 
+    "gph": 635.9, 
+    "osn": 618.3
   }, 
   "sailnumber": "POR367", 
   "name": "IDEIA FIXA", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.1, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.8, 
       "main": 39.7, 
       "genoa": 34.2, 
       "displacement": 5678.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2001"
   }, 

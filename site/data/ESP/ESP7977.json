@@ -5,12 +5,13 @@
       1.1781, 
       1.3318
     ], 
-    "gph": 648.4, 
     "triple_inshore": [
       0.6938, 
       0.9516, 
       1.1138
-    ]
+    ], 
+    "gph": 648.4, 
+    "osn": 630.0
   }, 
   "sailnumber": "ESP7977", 
   "name": "BUCHACA", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.7, 
       "loa": 10.3, 
       "draft": 1.96, 
+      "wetted_surface": 25.4, 
       "main": 35.0, 
       "genoa": 35.4, 
       "displacement": 5338.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "2002"
   }, 

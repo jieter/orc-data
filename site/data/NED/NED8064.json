@@ -5,12 +5,13 @@
       1.2312, 
       1.4105
     ], 
-    "gph": 622.8, 
     "triple_inshore": [
       0.7107, 
       0.9859, 
       1.1718
-    ]
+    ], 
+    "gph": 622.8, 
+    "osn": 603.6
   }, 
   "sailnumber": "NED8064", 
   "name": "Kiet", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.7, 
       "loa": 11.785, 
       "draft": 1.97, 
+      "wetted_surface": 33.0, 
       "main": 46.3, 
       "genoa": 34.9, 
       "displacement": 7797.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 760.0
     }, 
     "year": "1998"
   }, 

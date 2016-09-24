@@ -5,12 +5,13 @@
       0.9241, 
       1.1054
     ], 
-    "gph": 838.9, 
     "triple_inshore": [
       0.5129, 
       0.7428, 
       0.9211
-    ]
+    ], 
+    "gph": 838.9, 
+    "osn": 802.4
   }, 
   "sailnumber": "NED8593", 
   "name": "Pippiquax", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.7, 
       "draft": 1.39, 
+      "wetted_surface": 16.3, 
       "main": 13.3, 
       "genoa": 18.4, 
       "displacement": 2799.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 459.0
     }, 
     "year": "1972"
   }, 

@@ -5,12 +5,13 @@
       1.1697, 
       1.3159
     ], 
-    "gph": 648.7, 
     "triple_inshore": [
       0.7077, 
       0.9469, 
       1.0786
-    ]
+    ], 
+    "gph": 648.7, 
+    "osn": 631.8
   }, 
   "sailnumber": "FRA28368", 
   "name": "FIJI FOGEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.14, 
       "draft": 1.82, 
+      "wetted_surface": 18.6, 
       "main": 29.1, 
       "genoa": 21.2, 
       "displacement": 2708.0, 
-      "spinnaker_asym": 80.0
+      "spinnaker_asym": 80.0, 
+      "crew": 510.0
     }, 
     "year": "1992"
   }, 

@@ -5,12 +5,13 @@
       1.1299, 
       1.2787
     ], 
-    "gph": 677.4, 
     "triple_inshore": [
       0.6639, 
       0.9194, 
       1.0691
-    ]
+    ], 
+    "gph": 677.4, 
+    "osn": 655.9
   }, 
   "sailnumber": "NOR14022", 
   "name": "Appetit", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.9, 
       "loa": 8.3, 
       "draft": 2.15, 
+      "wetted_surface": 20.2, 
       "main": 29.9, 
       "genoa": 20.1, 
       "displacement": 2843.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 571.0
     }, 
     "year": "2002"
   }, 

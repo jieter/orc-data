@@ -5,12 +5,13 @@
       1.2831, 
       1.485
     ], 
-    "gph": 600.5, 
     "triple_inshore": [
       0.7181, 
       1.0072, 
       1.2045
-    ]
+    ], 
+    "gph": 600.5, 
+    "osn": 583.1
   }, 
   "sailnumber": "ITA16060", 
   "name": "IGARAPE'", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.73, 
       "draft": 2.16, 
+      "wetted_surface": 46.2, 
       "main": 56.7, 
       "genoa": 67.2, 
       "displacement": 12924.0, 
-      "spinnaker_asym": 157.0
+      "spinnaker_asym": 157.0, 
+      "crew": 700.0
     }, 
     "year": "2001"
   }, 

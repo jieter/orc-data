@@ -5,12 +5,13 @@
       1.05, 
       1.2502
     ], 
-    "gph": 739.7, 
     "triple_inshore": [
       0.5687, 
       0.8258, 
       1.0251
-    ]
+    ], 
+    "gph": 739.7, 
+    "osn": 712.4
   }, 
   "sailnumber": "ITA16842", 
   "name": "BILBO", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.0, 
       "loa": 10.1, 
       "draft": 1.67, 
+      "wetted_surface": 25.4, 
       "main": 24.0, 
       "genoa": 31.9, 
       "displacement": 4846.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1999"
   }, 

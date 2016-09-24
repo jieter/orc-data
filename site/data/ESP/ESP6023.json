@@ -5,12 +5,13 @@
       1.1912, 
       1.3382
     ], 
-    "gph": 640.4, 
     "triple_inshore": [
       0.7059, 
       0.9625, 
       1.1166
-    ]
+    ], 
+    "gph": 640.4, 
+    "osn": 622.8
   }, 
   "sailnumber": "ESP6023", 
   "name": "BLUE MARLIN III", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.2, 
       "loa": 10.718, 
       "draft": 1.92, 
+      "wetted_surface": 27.1, 
       "main": 33.8, 
       "genoa": 37.6, 
       "displacement": 5601.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1993"
   }, 

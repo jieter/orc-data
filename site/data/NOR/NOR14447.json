@@ -5,12 +5,13 @@
       1.135, 
       1.2594
     ], 
-    "gph": 665.8, 
     "triple_inshore": [
       0.6879, 
       0.9098, 
       1.0411
-    ]
+    ], 
+    "gph": 665.8, 
+    "osn": 654.8
   }, 
   "sailnumber": "NOR14447", 
   "name": "Caroline", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.55, 
       "draft": 1.84, 
+      "wetted_surface": 22.3, 
       "main": 28.8, 
       "genoa": 26.1, 
       "displacement": 4677.0, 
-      "spinnaker_asym": 94.0
+      "spinnaker_asym": 94.0, 
+      "crew": 534.0
     }, 
     "year": "2008"
   }, 

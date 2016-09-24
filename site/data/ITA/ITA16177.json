@@ -5,12 +5,13 @@
       1.2836, 
       1.447
     ], 
-    "gph": 595.7, 
     "triple_inshore": [
       0.7541, 
       1.034, 
       1.2114
-    ]
+    ], 
+    "gph": 595.7, 
+    "osn": 578.9
   }, 
   "sailnumber": "ITA16177", 
   "name": "NON MOLLARE MAI", 
@@ -25,10 +26,12 @@
       "spinnaker": 129.0, 
       "loa": 12.259, 
       "draft": 2.39, 
+      "wetted_surface": 35.0, 
       "main": 52.1, 
       "genoa": 42.2, 
       "displacement": 8574.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2007"
   }, 

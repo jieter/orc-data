@@ -5,12 +5,13 @@
       1.233, 
       1.4034
     ], 
-    "gph": 621.3, 
     "triple_inshore": [
       0.714, 
       0.9819, 
       1.1569
-    ]
+    ], 
+    "gph": 621.3, 
+    "osn": 603.5
   }, 
   "sailnumber": "ITA17140", 
   "name": "MEROPE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.016, 
       "draft": 2.18, 
+      "wetted_surface": 32.4, 
       "main": 41.9, 
       "genoa": 47.5, 
       "displacement": 7807.0, 
-      "spinnaker_asym": 101.0
+      "spinnaker_asym": 101.0, 
+      "crew": 600.0
     }, 
     "year": "2000"
   }, 

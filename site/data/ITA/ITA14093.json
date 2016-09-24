@@ -5,12 +5,13 @@
       1.272, 
       1.4315
     ], 
-    "gph": 599.9, 
     "triple_inshore": [
       0.7501, 
       1.0258, 
       1.1978
-    ]
+    ], 
+    "gph": 599.9, 
+    "osn": 583.9
   }, 
   "sailnumber": "ITA14093", 
   "name": "BEL REBELOT", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.4, 
       "loa": 12.016, 
       "draft": 2.43, 
+      "wetted_surface": 32.6, 
       "main": 49.0, 
       "genoa": 49.4, 
       "displacement": 7565.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2000"
   }, 

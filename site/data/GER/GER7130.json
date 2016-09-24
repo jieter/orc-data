@@ -5,12 +5,13 @@
       1.2353, 
       1.4382
     ], 
-    "gph": 621.3, 
     "triple_inshore": [
       0.7043, 
       0.9781, 
       1.1933
-    ]
+    ], 
+    "gph": 621.3, 
+    "osn": 602.5
   }, 
   "sailnumber": "GER7130", 
   "name": "S.Y. ODYSSEUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 147.9, 
       "loa": 14.52, 
       "draft": 2.4, 
+      "wetted_surface": 51.7, 
       "main": 71.9, 
       "genoa": 44.4, 
       "displacement": 17914.0, 
-      "spinnaker_asym": 140.0
+      "spinnaker_asym": 140.0, 
+      "crew": 1000.0
     }, 
     "year": "1993"
   }, 

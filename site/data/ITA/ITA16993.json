@@ -5,12 +5,13 @@
       1.2639, 
       1.419
     ], 
-    "gph": 600.7, 
     "triple_inshore": [
       0.7528, 
       1.013, 
       1.1684
-    ]
+    ], 
+    "gph": 600.7, 
+    "osn": 587.3
   }, 
   "sailnumber": "ITA16993", 
   "name": "DONT'T FORGET TO SMILE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.6, 
       "draft": 2.15, 
+      "wetted_surface": 25.9, 
       "main": 41.6, 
       "genoa": 32.2, 
       "displacement": 5350.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 150.0
     }, 
     "year": "2014"
   }, 

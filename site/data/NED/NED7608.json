@@ -5,12 +5,13 @@
       1.1689, 
       1.323
     ], 
-    "gph": 655.4, 
     "triple_inshore": [
       0.6827, 
       0.9434, 
       1.1114
-    ]
+    ], 
+    "gph": 655.4, 
+    "osn": 635.1
   }, 
   "sailnumber": "NED7608", 
   "name": "BASTA !", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.3, 
       "loa": 10.222, 
       "draft": 1.91, 
+      "wetted_surface": 25.4, 
       "main": 32.5, 
       "genoa": 26.6, 
       "displacement": 5329.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 530.0
     }, 
     "year": "2001"
   }, 

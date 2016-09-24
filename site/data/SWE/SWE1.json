@@ -5,12 +5,13 @@
       1.3161, 
       1.57
     ], 
-    "gph": 576.6, 
     "triple_inshore": [
       0.7691, 
       1.0434, 
       1.2629
-    ]
+    ], 
+    "gph": 576.6, 
+    "osn": 561.4
   }, 
   "sailnumber": "SWE1", 
   "name": "Cheetah", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.578, 
       "draft": 2.29, 
+      "wetted_surface": 16.4, 
       "main": 26.8, 
       "genoa": 14.5, 
       "displacement": 1234.0, 
-      "spinnaker_asym": 92.0
+      "spinnaker_asym": 92.0, 
+      "crew": 430.0
     }, 
     "year": "1995"
   }, 

@@ -5,12 +5,13 @@
       1.1729, 
       1.3862
     ], 
-    "gph": 651.0, 
     "triple_inshore": [
       0.6821, 
       0.9395, 
       1.1148
-    ]
+    ], 
+    "gph": 651.0, 
+    "osn": 629.1
   }, 
   "sailnumber": "TUR983", 
   "name": "Nomos", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.5, 
       "draft": 1.95, 
+      "wetted_surface": 14.2, 
       "main": 20.4, 
       "genoa": 14.3, 
       "displacement": 1111.0, 
-      "spinnaker_asym": 58.0
+      "spinnaker_asym": 58.0, 
+      "crew": 415.0
     }, 
     "year": "2003"
   }, 

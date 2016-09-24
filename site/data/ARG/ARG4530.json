@@ -5,12 +5,13 @@
       1.1448, 
       1.2962
     ], 
-    "gph": 665.9, 
     "triple_inshore": [
       0.6787, 
       0.9253, 
       1.0848
-    ]
+    ], 
+    "gph": 665.9, 
+    "osn": 647.7
   }, 
   "sailnumber": "ARG4530", 
   "name": "LADINO", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.3, 
       "loa": 10.43, 
       "draft": 1.84, 
+      "wetted_surface": 24.7, 
       "main": 29.1, 
       "genoa": 40.1, 
       "displacement": 5088.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 580.0
     }, 
     "year": "1992"
   }, 

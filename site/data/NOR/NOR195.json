@@ -5,12 +5,13 @@
       1.211, 
       1.3476
     ], 
-    "gph": 629.6, 
     "triple_inshore": [
       0.7081, 
       0.9489, 
       1.082
-    ]
+    ], 
+    "gph": 629.6, 
+    "osn": 617.3
   }, 
   "sailnumber": "NOR195", 
   "name": "Capere Ventus", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.55, 
       "draft": 1.65, 
+      "wetted_surface": 33.4, 
       "main": 46.4, 
       "genoa": 72.4, 
       "displacement": 6225.0, 
-      "spinnaker_asym": 117.0
+      "spinnaker_asym": 117.0, 
+      "crew": 658.0
     }, 
     "year": "1966"
   }, 

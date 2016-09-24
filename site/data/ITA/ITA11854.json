@@ -5,12 +5,13 @@
       1.0254, 
       1.1733
     ], 
-    "gph": 748.7, 
     "triple_inshore": [
       0.5929, 
       0.8208, 
       0.9773
-    ]
+    ], 
+    "gph": 748.7, 
+    "osn": 724.9
   }, 
   "sailnumber": "ITA11854", 
   "name": "NATA IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.3, 
       "loa": 9.19, 
       "draft": 1.73, 
+      "wetted_surface": 20.1, 
       "main": 21.1, 
       "genoa": 25.1, 
       "displacement": 4034.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1980"
   }, 

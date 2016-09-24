@@ -5,12 +5,13 @@
       1.3855, 
       1.6145
     ], 
-    "gph": 543.2, 
     "triple_inshore": [
       0.8521, 
       1.1024, 
       1.2985
-    ]
+    ], 
+    "gph": 543.2, 
+    "osn": 530.8
   }, 
   "sailnumber": "ITA17175", 
   "name": "TOD", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 2.29, 
+      "wetted_surface": 19.4, 
       "main": 41.6, 
       "genoa": 26.5, 
       "displacement": 2002.0, 
-      "spinnaker_asym": 112.0
+      "spinnaker_asym": 112.0, 
+      "crew": 688.0
     }, 
     "year": "2006"
   }, 

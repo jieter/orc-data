@@ -5,12 +5,13 @@
       0.9027, 
       1.0087
     ], 
-    "gph": 843.0, 
     "triple_inshore": [
       0.5323, 
       0.7102, 
       0.8088
-    ]
+    ], 
+    "gph": 843.0, 
+    "osn": 825.8
   }, 
   "sailnumber": "NED7462", 
   "name": "Flicka", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.278, 
       "draft": 0.69, 
+      "wetted_surface": 11.4, 
       "main": 15.0, 
       "genoa": 8.8, 
       "displacement": 1370.0, 
-      "spinnaker_asym": 29.0
+      "spinnaker_asym": 29.0, 
+      "crew": 350.0
     }, 
     "year": "1998"
   }, 

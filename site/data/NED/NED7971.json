@@ -5,12 +5,13 @@
       1.2272, 
       1.38
     ], 
-    "gph": 621.5, 
     "triple_inshore": [
       0.7282, 
       0.9893, 
       1.1397
-    ]
+    ], 
+    "gph": 621.5, 
+    "osn": 603.9
   }, 
   "sailnumber": "NED7971", 
   "name": "Speeltuin", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.757, 
       "draft": 2.12, 
+      "wetted_surface": 25.9, 
       "main": 37.2, 
       "genoa": 29.4, 
       "displacement": 4878.0, 
-      "spinnaker_asym": 111.0
+      "spinnaker_asym": 111.0, 
+      "crew": 633.0
     }, 
     "year": "2001"
   }, 

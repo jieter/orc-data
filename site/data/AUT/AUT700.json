@@ -5,12 +5,13 @@
       1.3433, 
       1.5147
     ], 
-    "gph": 568.2, 
     "triple_inshore": [
       0.7894, 
       1.0774, 
       1.2473
-    ]
+    ], 
+    "gph": 568.2, 
+    "osn": 553.6
   }, 
   "sailnumber": "AUT700", 
   "name": "ONO", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.8, 
       "loa": 12.54, 
       "draft": 2.54, 
+      "wetted_surface": 31.3, 
       "main": 59.2, 
       "genoa": 38.9, 
       "displacement": 6285.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 790.0
     }, 
     "year": "2004"
   }, 

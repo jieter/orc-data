@@ -5,12 +5,13 @@
       1.3481, 
       1.535
     ], 
-    "gph": 567.2, 
     "triple_inshore": [
       0.7846, 
       1.0812, 
       1.2639
-    ]
+    ], 
+    "gph": 567.2, 
+    "osn": 551.7
   }, 
   "sailnumber": "GER7300", 
   "name": "INTERMEZZO", 
@@ -25,10 +26,12 @@
       "spinnaker": 124.4, 
       "loa": 12.367, 
       "draft": 2.34, 
+      "wetted_surface": 35.3, 
       "main": 58.3, 
       "genoa": 45.6, 
       "displacement": 7149.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "2010"
   }, 

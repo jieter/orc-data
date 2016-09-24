@@ -5,12 +5,13 @@
       1.2419, 
       1.3968
     ], 
-    "gph": 613.3, 
     "triple_inshore": [
       0.7387, 
       1.0073, 
       1.1698
-    ]
+    ], 
+    "gph": 613.3, 
+    "osn": 597.0
   }, 
   "sailnumber": "ESP7324_C", 
   "name": "CARONT", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.0, 
       "loa": 10.84, 
       "draft": 2.01, 
+      "wetted_surface": 26.5, 
       "main": 40.4, 
       "genoa": 38.3, 
       "displacement": 5781.0, 
-      "spinnaker_asym": 100.0
+      "spinnaker_asym": 100.0, 
+      "crew": 699.0
     }, 
     "year": "2004"
   }, 

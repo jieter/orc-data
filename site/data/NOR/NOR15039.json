@@ -5,12 +5,13 @@
       1.2794, 
       1.4366
     ], 
-    "gph": 597.1, 
     "triple_inshore": [
       0.7535, 
       1.0293, 
       1.1964
-    ]
+    ], 
+    "gph": 597.1, 
+    "osn": 580.2
   }, 
   "sailnumber": "NOR15039", 
   "name": "FORZA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.82, 
       "draft": 2.54, 
+      "wetted_surface": 33.6, 
       "main": 51.2, 
       "genoa": 38.7, 
       "displacement": 8067.0, 
-      "spinnaker_asym": 140.0
+      "spinnaker_asym": 140.0, 
+      "crew": 781.0
     }, 
     "year": "2011"
   }, 

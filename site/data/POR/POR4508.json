@@ -5,12 +5,13 @@
       1.3457, 
       1.5395
     ], 
-    "gph": 569.9, 
     "triple_inshore": [
       0.7777, 
       1.0828, 
       1.2902
-    ]
+    ], 
+    "gph": 569.9, 
+    "osn": 552.3
   }, 
   "sailnumber": "POR4508", 
   "name": "FUNBEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 152.7, 
       "loa": 13.67, 
       "draft": 2.77, 
+      "wetted_surface": 42.1, 
       "main": 59.2, 
       "genoa": 52.9, 
       "displacement": 11341.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 900.0
     }, 
     "year": "2008"
   }, 

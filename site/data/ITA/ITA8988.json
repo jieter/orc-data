@@ -5,12 +5,13 @@
       1.1972, 
       1.3386
     ], 
-    "gph": 634.5, 
     "triple_inshore": [
       0.7206, 
       0.9725, 
       1.1228
-    ]
+    ], 
+    "gph": 634.5, 
+    "osn": 619.4
   }, 
   "sailnumber": "ITA8988", 
   "name": "SOLE DI GIADA", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.0, 
       "loa": 11.28, 
       "draft": 2.01, 
+      "wetted_surface": 25.1, 
       "main": 45.3, 
       "genoa": 34.5, 
       "displacement": 5530.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 585.0
     }, 
     "year": "1980"
   }, 

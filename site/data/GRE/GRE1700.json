@@ -5,12 +5,13 @@
       1.1205, 
       1.3093
     ], 
-    "gph": 687.1, 
     "triple_inshore": [
       0.6311, 
       0.8805, 
       1.0733
-    ]
+    ], 
+    "gph": 687.1, 
+    "osn": 665.8
   }, 
   "sailnumber": "GRE1700", 
   "name": "GITANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.634, 
       "draft": 1.96, 
+      "wetted_surface": 32.3, 
       "main": 32.8, 
       "genoa": 38.8, 
       "displacement": 8019.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 700.0
     }, 
     "year": "1999"
   }, 

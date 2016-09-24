@@ -5,12 +5,13 @@
       1.1279, 
       1.2507
     ], 
-    "gph": 670.7, 
     "triple_inshore": [
       0.6924, 
       0.918, 
       1.0368
-    ]
+    ], 
+    "gph": 670.7, 
+    "osn": 655.7
   }, 
   "sailnumber": "FRA9038", 
   "name": "SKIPTON", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.4, 
       "loa": 9.06, 
       "draft": 1.79, 
+      "wetted_surface": 15.8, 
       "main": 27.1, 
       "genoa": 23.9, 
       "displacement": 2414.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1983"
   }, 

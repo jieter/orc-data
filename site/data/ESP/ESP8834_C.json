@@ -5,12 +5,13 @@
       1.2384, 
       1.3995
     ], 
-    "gph": 615.8, 
     "triple_inshore": [
       0.7272, 
       0.989, 
       1.1611
-    ]
+    ], 
+    "gph": 615.8, 
+    "osn": 600.8
   }, 
   "sailnumber": "ESP8834_C", 
   "name": "TRONQUIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.995, 
       "draft": 1.62, 
+      "wetted_surface": 33.4, 
       "main": 49.3, 
       "genoa": 48.0, 
       "displacement": 8860.0, 
-      "spinnaker_asym": 111.0
+      "spinnaker_asym": 111.0, 
+      "crew": 340.0
     }, 
     "year": "2004"
   }, 

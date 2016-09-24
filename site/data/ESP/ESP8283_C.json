@@ -5,12 +5,13 @@
       1.0771, 
       1.2211
     ], 
-    "gph": 710.3, 
     "triple_inshore": [
       0.6318, 
       0.8656, 
       1.0177
-    ]
+    ], 
+    "gph": 710.3, 
+    "osn": 689.5
   }, 
   "sailnumber": "ESP8283_C", 
   "name": "GITANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.4, 
       "loa": 10.345, 
       "draft": 1.78, 
+      "wetted_surface": 22.3, 
       "main": 22.7, 
       "genoa": 40.2, 
       "displacement": 4900.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 485.0
     }, 
     "year": "1974"
   }, 

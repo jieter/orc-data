@@ -5,12 +5,13 @@
       1.1815, 
       1.3355
     ], 
-    "gph": 646.6, 
     "triple_inshore": [
       0.6971, 
       0.9572, 
       1.1162
-    ]
+    ], 
+    "gph": 646.6, 
+    "osn": 627.8
   }, 
   "sailnumber": "CRO1656", 
   "name": "One", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.0, 
       "loa": 9.995, 
       "draft": 2.12, 
+      "wetted_surface": 24.1, 
       "main": 33.6, 
       "genoa": 28.3, 
       "displacement": 4617.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 525.0
     }, 
     "year": "2008"
   }, 

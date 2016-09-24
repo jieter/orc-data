@@ -5,12 +5,13 @@
       1.3223, 
       1.5104
     ], 
-    "gph": 579.1, 
     "triple_inshore": [
       0.7658, 
       1.0535, 
       1.2591
-    ]
+    ], 
+    "gph": 579.1, 
+    "osn": 563.0
   }, 
   "sailnumber": "GER6717", 
   "name": "NIKAIA VON HAMBURG", 
@@ -25,10 +26,12 @@
       "spinnaker": 172.2, 
       "loa": 14.835, 
       "draft": 2.42, 
+      "wetted_surface": 45.7, 
       "main": 58.2, 
       "genoa": 71.1, 
       "displacement": 15278.0, 
-      "spinnaker_asym": 155.0
+      "spinnaker_asym": 155.0, 
+      "crew": 700.0
     }, 
     "year": "1995"
   }, 

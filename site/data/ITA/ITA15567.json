@@ -5,12 +5,13 @@
       1.2339, 
       1.4163
     ], 
-    "gph": 621.9, 
     "triple_inshore": [
       0.7065, 
       0.987, 
       1.1795
-    ]
+    ], 
+    "gph": 621.9, 
+    "osn": 603.3
   }, 
   "sailnumber": "ITA15567", 
   "name": "BIZZARRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.6, 
       "loa": 12.016, 
       "draft": 2.17, 
+      "wetted_surface": 32.1, 
       "main": 42.2, 
       "genoa": 46.2, 
       "displacement": 7598.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 580.0
     }, 
     "year": "2000"
   }, 

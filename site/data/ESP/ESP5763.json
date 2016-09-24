@@ -5,12 +5,13 @@
       0.9731, 
       1.1289
     ], 
-    "gph": 790.7, 
     "triple_inshore": [
       0.5524, 
       0.7734, 
       0.9371
-    ]
+    ], 
+    "gph": 790.7, 
+    "osn": 765.4
   }, 
   "sailnumber": "ESP5763", 
   "name": "SIRTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.715, 
       "draft": 1.51, 
+      "wetted_surface": 17.6, 
       "main": 14.3, 
       "genoa": 21.1, 
       "displacement": 3345.0, 
-      "spinnaker_asym": 49.0
+      "spinnaker_asym": 49.0, 
+      "crew": 320.0
     }, 
     "year": "1980"
   }, 

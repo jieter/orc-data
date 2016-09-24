@@ -5,12 +5,13 @@
       1.1752, 
       1.3292
     ], 
-    "gph": 647.3, 
     "triple_inshore": [
       0.7008, 
       0.9523, 
       1.0989
-    ]
+    ], 
+    "gph": 647.3, 
+    "osn": 630.6
   }, 
   "sailnumber": "ARG4545", 
   "name": "ALTO RIESGO", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.5, 
       "loa": 9.35, 
       "draft": 1.73, 
+      "wetted_surface": 21.4, 
       "main": 34.1, 
       "genoa": 29.4, 
       "displacement": 3250.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1996"
   }, 

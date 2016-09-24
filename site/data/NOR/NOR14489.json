@@ -5,12 +5,13 @@
       1.3067, 
       1.4745
     ], 
-    "gph": 583.1, 
     "triple_inshore": [
       0.7555, 
       1.0323, 
       1.2113
-    ]
+    ], 
+    "gph": 583.1, 
+    "osn": 571.0
   }, 
   "sailnumber": "NOR14489", 
   "name": "Diva", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.15, 
       "draft": 2.21, 
+      "wetted_surface": 41.0, 
       "main": 60.9, 
       "genoa": 45.7, 
       "displacement": 11599.0, 
-      "spinnaker_asym": 170.0
+      "spinnaker_asym": 170.0, 
+      "crew": 880.0
     }, 
     "year": "2011"
   }, 

@@ -5,12 +5,13 @@
       0.9721, 
       1.161
     ], 
-    "gph": 797.0, 
     "triple_inshore": [
       0.5332, 
       0.7746, 
       0.966
-    ]
+    ], 
+    "gph": 797.0, 
+    "osn": 766.3
   }, 
   "sailnumber": "ITA15714", 
   "name": "POQUITO III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.45, 
       "draft": 1.48, 
+      "wetted_surface": 21.8, 
       "main": 19.2, 
       "genoa": 24.9, 
       "displacement": 4445.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2002"
   }, 

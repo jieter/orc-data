@@ -5,12 +5,13 @@
       1.2153, 
       1.3693
     ], 
-    "gph": 625.7, 
     "triple_inshore": [
       0.7269, 
       0.985, 
       1.1346
-    ]
+    ], 
+    "gph": 625.7, 
+    "osn": 609.7
   }, 
   "sailnumber": "ARG4771", 
   "name": "Efyderma ZARATUTRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.5, 
       "loa": 10.2, 
       "draft": 1.95, 
+      "wetted_surface": 22.1, 
       "main": 38.6, 
       "genoa": 27.8, 
       "displacement": 3971.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 812.0
     }, 
     "year": "2001"
   }, 

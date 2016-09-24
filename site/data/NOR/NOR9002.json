@@ -5,12 +5,13 @@
       1.2748, 
       1.4323
     ], 
-    "gph": 596.7, 
     "triple_inshore": [
       0.7618, 
       1.0313, 
       1.1942
-    ]
+    ], 
+    "gph": 596.7, 
+    "osn": 581.5
   }, 
   "sailnumber": "NOR9002", 
   "name": "Dreamer", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.5, 
       "loa": 12.22, 
       "draft": 2.04, 
+      "wetted_surface": 27.8, 
       "main": 39.0, 
       "genoa": 47.5, 
       "displacement": 5484.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 731.0
     }, 
     "year": "1988"
   }, 

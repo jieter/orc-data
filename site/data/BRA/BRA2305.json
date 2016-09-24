@@ -5,12 +5,13 @@
       1.3192, 
       1.4913
     ], 
-    "gph": 579.4, 
     "triple_inshore": [
       0.7715, 
       1.0589, 
       1.2353
-    ]
+    ], 
+    "gph": 579.4, 
+    "osn": 563.9
   }, 
   "sailnumber": "BRA2305", 
   "name": "MIRAGEM", 
@@ -25,10 +26,12 @@
       "spinnaker": 120.3, 
       "loa": 12.7, 
       "draft": 2.6, 
+      "wetted_surface": 33.8, 
       "main": 55.4, 
       "genoa": 45.5, 
       "displacement": 7504.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 780.0
     }, 
     "year": "2005"
   }, 

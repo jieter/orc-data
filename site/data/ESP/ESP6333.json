@@ -5,12 +5,13 @@
       1.2757, 
       1.4404
     ], 
-    "gph": 598.2, 
     "triple_inshore": [
       0.7517, 
       1.0305, 
       1.2063
-    ]
+    ], 
+    "gph": 598.2, 
+    "osn": 582.0
   }, 
   "sailnumber": "ESP6333", 
   "name": "HYDRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.9, 
       "loa": 11.99, 
       "draft": 2.4, 
+      "wetted_surface": 31.6, 
       "main": 48.9, 
       "genoa": 50.5, 
       "displacement": 7366.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 780.0
     }, 
     "year": "2002"
   }, 

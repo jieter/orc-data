@@ -5,12 +5,13 @@
       1.2636, 
       1.4187
     ], 
-    "gph": 603.5, 
     "triple_inshore": [
       0.7458, 
       1.0129, 
       1.1804
-    ]
+    ], 
+    "gph": 603.5, 
+    "osn": 588.5
   }, 
   "sailnumber": "GER5133", 
   "name": "SCHLAWUTZI", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.1, 
       "loa": 12.575, 
       "draft": 1.89, 
+      "wetted_surface": 31.0, 
       "main": 43.3, 
       "genoa": 48.5, 
       "displacement": 7154.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1998"
   }, 

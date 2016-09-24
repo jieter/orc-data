@@ -5,12 +5,13 @@
       1.1312, 
       1.2806
     ], 
-    "gph": 677.1, 
     "triple_inshore": [
       0.6625, 
       0.9152, 
       1.0753
-    ]
+    ], 
+    "gph": 677.1, 
+    "osn": 655.9
   }, 
   "sailnumber": "ESP5516", 
   "name": "COKETO 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.3, 
       "loa": 9.49, 
       "draft": 1.97, 
+      "wetted_surface": 22.8, 
       "main": 27.3, 
       "genoa": 26.7, 
       "displacement": 4241.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 425.0
     }, 
     "year": "1998"
   }, 

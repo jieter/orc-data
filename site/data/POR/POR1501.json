@@ -5,12 +5,13 @@
       1.2783, 
       1.4389
     ], 
-    "gph": 596.7, 
     "triple_inshore": [
       0.7556, 
       1.0326, 
       1.2037
-    ]
+    ], 
+    "gph": 596.7, 
+    "osn": 580.8
   }, 
   "sailnumber": "POR1501", 
   "name": "NOROESTE I", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.5, 
       "loa": 11.92, 
       "draft": 2.41, 
+      "wetted_surface": 31.0, 
       "main": 48.9, 
       "genoa": 49.8, 
       "displacement": 6898.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 620.0
     }, 
     "year": "1997"
   }, 

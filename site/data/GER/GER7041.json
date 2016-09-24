@@ -5,12 +5,13 @@
       1.3507, 
       1.5734
     ], 
-    "gph": 570.4, 
     "triple_inshore": [
       0.757, 
       1.0638, 
       1.2504
-    ]
+    ], 
+    "gph": 570.4, 
+    "osn": 553.1
   }, 
   "sailnumber": "GER7041", 
   "name": "KNUBBEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.168, 
       "draft": 2.27, 
+      "wetted_surface": 38.9, 
       "main": 62.5, 
       "genoa": 43.5, 
       "displacement": 6173.0, 
-      "spinnaker_asym": 144.0
+      "spinnaker_asym": 144.0, 
+      "crew": 450.0
     }, 
     "year": "2010"
   }, 

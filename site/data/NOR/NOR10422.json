@@ -5,12 +5,13 @@
       1.0606, 
       1.2272
     ], 
-    "gph": 725.2, 
     "triple_inshore": [
       0.5997, 
       0.8492, 
       1.0255
-    ]
+    ], 
+    "gph": 725.2, 
+    "osn": 702.6
   }, 
   "sailnumber": "NOR10422", 
   "name": "Wind Waker", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.9, 
       "draft": 1.56, 
+      "wetted_surface": 22.5, 
       "main": 26.8, 
       "genoa": 28.7, 
       "displacement": 4830.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 587.0
     }, 
     "year": "2001"
   }, 

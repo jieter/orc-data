@@ -5,12 +5,13 @@
       1.18, 
       1.3426
     ], 
-    "gph": 649.9, 
     "triple_inshore": [
       0.6771, 
       0.9369, 
       1.1107
-    ]
+    ], 
+    "gph": 649.9, 
+    "osn": 632.2
   }, 
   "sailnumber": "ESP6661_C", 
   "name": "BELYMAR II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.624, 
       "draft": 1.9, 
+      "wetted_surface": 32.4, 
       "main": 35.8, 
       "genoa": 48.6, 
       "displacement": 7920.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 300.0
     }, 
     "year": "2001"
   }, 

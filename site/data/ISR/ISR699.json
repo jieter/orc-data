@@ -5,12 +5,13 @@
       1.204, 
       1.3468
     ], 
-    "gph": 632.3, 
     "triple_inshore": [
       0.7206, 
       0.9797, 
       1.1274
-    ]
+    ], 
+    "gph": 632.3, 
+    "osn": 615.5
   }, 
   "sailnumber": "ISR699", 
   "name": "Cyclop", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.5, 
       "loa": 9.995, 
       "draft": 2.12, 
+      "wetted_surface": 24.2, 
       "main": 34.0, 
       "genoa": 34.9, 
       "displacement": 4695.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 520.0
     }, 
     "year": "2008"
   }, 

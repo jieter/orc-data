@@ -5,12 +5,13 @@
       1.2129, 
       1.3643
     ], 
-    "gph": 625.3, 
     "triple_inshore": [
       0.73, 
       0.9844, 
       1.1285
-    ]
+    ], 
+    "gph": 625.3, 
+    "osn": 610.4
   }, 
   "sailnumber": "NED8321", 
   "name": "NO-XQSE", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.6, 
       "loa": 10.007, 
       "draft": 1.79, 
+      "wetted_surface": 20.0, 
       "main": 33.4, 
       "genoa": 30.1, 
       "displacement": 2985.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 539.0
     }, 
     "year": "1985"
   }, 

@@ -5,12 +5,13 @@
       1.1515, 
       1.2957
     ], 
-    "gph": 662.6, 
     "triple_inshore": [
       0.6795, 
       0.9295, 
       1.0846
-    ]
+    ], 
+    "gph": 662.6, 
+    "osn": 645.1
   }, 
   "sailnumber": "NOR7027", 
   "name": "Argo", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.8, 
       "loa": 11.0, 
       "draft": 1.87, 
+      "wetted_surface": 25.0, 
       "main": 33.0, 
       "genoa": 36.8, 
       "displacement": 5499.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 609.0
     }, 
     "year": "1983"
   }, 

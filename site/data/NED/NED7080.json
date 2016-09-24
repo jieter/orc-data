@@ -5,12 +5,13 @@
       1.1263, 
       1.2695
     ], 
-    "gph": 676.2, 
     "triple_inshore": [
       0.6733, 
       0.9175, 
       1.0702
-    ]
+    ], 
+    "gph": 676.2, 
+    "osn": 657.0
   }, 
   "sailnumber": "NED7080", 
   "name": "ANDIAMO", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.6, 
       "loa": 9.19, 
       "draft": 1.88, 
+      "wetted_surface": 20.9, 
       "main": 29.9, 
       "genoa": 26.7, 
       "displacement": 4129.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 520.0
     }, 
     "year": "2003"
   }, 

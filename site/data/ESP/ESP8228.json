@@ -5,12 +5,13 @@
       1.2205, 
       1.38
     ], 
-    "gph": 626.4, 
     "triple_inshore": [
       0.7129, 
       0.9795, 
       1.1473
-    ]
+    ], 
+    "gph": 626.4, 
+    "osn": 609.3
   }, 
   "sailnumber": "ESP8228", 
   "name": "VINDIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.8, 
       "loa": 11.313, 
       "draft": 1.94, 
+      "wetted_surface": 29.1, 
       "main": 46.1, 
       "genoa": 33.5, 
       "displacement": 6630.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 670.0
     }, 
     "year": "2005"
   }, 

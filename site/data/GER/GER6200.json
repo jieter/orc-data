@@ -5,12 +5,13 @@
       1.409, 
       1.6265
     ], 
-    "gph": 541.6, 
     "triple_inshore": [
       0.8236, 
       1.1318, 
       1.3319
-    ]
+    ], 
+    "gph": 541.6, 
+    "osn": 525.8
   }, 
   "sailnumber": "GER6200", 
   "name": "\"needles and pins\"", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.527, 
       "draft": 2.48, 
+      "wetted_surface": 28.4, 
       "main": 48.8, 
       "genoa": 35.3, 
       "displacement": 4308.0, 
-      "spinnaker_asym": 153.0
+      "spinnaker_asym": 153.0, 
+      "crew": 490.0
     }, 
     "year": "1998"
   }, 

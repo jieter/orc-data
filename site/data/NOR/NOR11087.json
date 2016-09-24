@@ -5,12 +5,13 @@
       1.1427, 
       1.3198
     ], 
-    "gph": 672.9, 
     "triple_inshore": [
       0.6505, 
       0.904, 
       1.0824
-    ]
+    ], 
+    "gph": 672.9, 
+    "osn": 652.2
   }, 
   "sailnumber": "NOR11087", 
   "name": "Janita", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.96, 
       "draft": 1.94, 
+      "wetted_surface": 26.3, 
       "main": 29.4, 
       "genoa": 25.3, 
       "displacement": 5400.0, 
-      "spinnaker_asym": 77.0
+      "spinnaker_asym": 77.0, 
+      "crew": 673.0
     }, 
     "year": "2001"
   }, 

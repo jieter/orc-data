@@ -5,12 +5,13 @@
       1.1262, 
       1.2662
     ], 
-    "gph": 675.8, 
     "triple_inshore": [
       0.6765, 
       0.9204, 
       1.0674
-    ]
+    ], 
+    "gph": 675.8, 
+    "osn": 656.4
   }, 
   "sailnumber": "NOR10629", 
   "name": "Sinbad", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.5, 
       "loa": 9.25, 
       "draft": 1.8, 
+      "wetted_surface": 19.3, 
       "main": 29.1, 
       "genoa": 19.3, 
       "displacement": 3505.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 522.0
     }, 
     "year": "1997"
   }, 

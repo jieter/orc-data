@@ -5,12 +5,13 @@
       1.1153, 
       1.2533
     ], 
-    "gph": 683.3, 
     "triple_inshore": [
       0.6653, 
       0.9003, 
       1.0515
-    ]
+    ], 
+    "gph": 683.3, 
+    "osn": 665.0
   }, 
   "sailnumber": "ESP3173_C", 
   "name": "TETIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.9, 
       "loa": 10.14, 
       "draft": 1.88, 
+      "wetted_surface": 26.2, 
       "main": 27.6, 
       "genoa": 44.8, 
       "displacement": 6484.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1976"
   }, 

@@ -5,12 +5,13 @@
       1.1672, 
       1.3373
     ], 
-    "gph": 657.6, 
     "triple_inshore": [
       0.6725, 
       0.9361, 
       1.1186
-    ]
+    ], 
+    "gph": 657.6, 
+    "osn": 636.7
   }, 
   "sailnumber": "NED7036", 
   "name": "CHOUETTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.7, 
       "loa": 11.121, 
       "draft": 2.06, 
+      "wetted_surface": 28.9, 
       "main": 36.6, 
       "genoa": 32.4, 
       "displacement": 6617.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 580.0
     }, 
     "year": "1994"
   }, 

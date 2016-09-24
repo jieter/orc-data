@@ -5,12 +5,13 @@
       1.1563, 
       1.321
     ], 
-    "gph": 662.2, 
     "triple_inshore": [
       0.6744, 
       0.9268, 
       1.1058
-    ]
+    ], 
+    "gph": 662.2, 
+    "osn": 642.0
   }, 
   "sailnumber": "ESP9603", 
   "name": "GAVILAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.0, 
       "loa": 11.786, 
       "draft": 2.15, 
+      "wetted_surface": 29.9, 
       "main": 30.5, 
       "genoa": 43.4, 
       "displacement": 7990.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1984"
   }, 

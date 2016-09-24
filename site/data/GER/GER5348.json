@@ -5,12 +5,13 @@
       1.3712, 
       1.5368
     ], 
-    "gph": 557.0, 
     "triple_inshore": [
       0.8053, 
       1.0955, 
       1.2613
-    ]
+    ], 
+    "gph": 557.0, 
+    "osn": 543.2
   }, 
   "sailnumber": "GER5348", 
   "name": "ELFIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.82, 
       "draft": 2.41, 
+      "wetted_surface": 38.3, 
       "main": 64.3, 
       "genoa": 50.0, 
       "displacement": 10365.0, 
-      "spinnaker_asym": 192.0
+      "spinnaker_asym": 192.0, 
+      "crew": 710.0
     }, 
     "year": "2002"
   }, 

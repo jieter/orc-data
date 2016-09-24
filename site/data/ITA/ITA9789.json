@@ -5,12 +5,13 @@
       1.1881, 
       1.3273
     ], 
-    "gph": 635.5, 
     "triple_inshore": [
       0.7321, 
       0.9731, 
       1.115
-    ]
+    ], 
+    "gph": 635.5, 
+    "osn": 621.1
   }, 
   "sailnumber": "ITA9789", 
   "name": "LUPACCIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.3, 
       "loa": 10.108, 
       "draft": 1.88, 
+      "wetted_surface": 21.4, 
       "main": 41.4, 
       "genoa": 30.9, 
       "displacement": 4100.0, 
-      "spinnaker_asym": 84.0
+      "spinnaker_asym": 84.0, 
+      "crew": 450.0
     }, 
     "year": "1982"
   }, 

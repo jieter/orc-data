@@ -5,12 +5,13 @@
       1.1995, 
       1.3206
     ], 
-    "gph": 626.6, 
     "triple_inshore": [
       0.7574, 
       0.9881, 
       1.1144
-    ]
+    ], 
+    "gph": 626.6, 
+    "osn": 613.5
   }, 
   "sailnumber": "HUN1618", 
   "name": "Restless", 
@@ -25,10 +26,12 @@
       "spinnaker": 122.9, 
       "loa": 10.09, 
       "draft": 1.87, 
+      "wetted_surface": 20.6, 
       "main": 38.1, 
       "genoa": 32.9, 
       "displacement": 3808.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1980"
   }, 

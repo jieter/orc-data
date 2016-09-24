@@ -5,12 +5,13 @@
       1.3349, 
       1.5044
     ], 
-    "gph": 571.0, 
     "triple_inshore": [
       0.7938, 
       1.0828, 
       1.2554
-    ]
+    ], 
+    "gph": 571.0, 
+    "osn": 555.2
   }, 
   "sailnumber": "ITA1494", 
   "name": "CURADDAU III", 
@@ -25,10 +26,12 @@
       "spinnaker": 129.0, 
       "loa": 12.35, 
       "draft": 2.5, 
+      "wetted_surface": 32.5, 
       "main": 53.5, 
       "genoa": 45.0, 
       "displacement": 6885.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 770.0
     }, 
     "year": "2006"
   }, 

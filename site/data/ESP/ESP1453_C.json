@@ -5,12 +5,13 @@
       1.058, 
       1.1794
     ], 
-    "gph": 718.3, 
     "triple_inshore": [
       0.6405, 
       0.8621, 
       0.9893
-    ]
+    ], 
+    "gph": 718.3, 
+    "osn": 699.7
   }, 
   "sailnumber": "ESP1453_C", 
   "name": "TREBOLISIMO", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.9, 
       "loa": 9.046, 
       "draft": 1.64, 
+      "wetted_surface": 17.9, 
       "main": 17.6, 
       "genoa": 32.9, 
       "displacement": 3217.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1975"
   }, 

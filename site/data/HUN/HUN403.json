@@ -5,12 +5,13 @@
       1.1866, 
       1.3493
     ], 
-    "gph": 655.1, 
     "triple_inshore": [
       0.6456, 
       0.9188, 
       1.0815
-    ]
+    ], 
+    "gph": 655.1, 
+    "osn": 636.3
   }, 
   "sailnumber": "HUN403", 
   "name": "Addio", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.7, 
       "loa": 15.03, 
       "draft": 1.71, 
+      "wetted_surface": 30.0, 
       "main": 38.2, 
       "genoa": 25.7, 
       "displacement": 5899.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1943"
   }, 

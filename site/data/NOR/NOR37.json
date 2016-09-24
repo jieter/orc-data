@@ -5,12 +5,13 @@
       1.3467, 
       1.5185
     ], 
-    "gph": 563.1, 
     "triple_inshore": [
       0.7975, 
       1.0869, 
       1.2599
-    ]
+    ], 
+    "gph": 563.1, 
+    "osn": 551.6
   }, 
   "sailnumber": "NOR37", 
   "name": "Bellatrix", 
@@ -25,10 +26,12 @@
       "spinnaker": 130.5, 
       "loa": 12.35, 
       "draft": 2.5, 
+      "wetted_surface": 32.5, 
       "main": 54.1, 
       "genoa": 45.3, 
       "displacement": 6822.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 787.0
     }, 
     "year": "2007"
   }, 

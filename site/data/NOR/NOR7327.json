@@ -5,12 +5,13 @@
       0.9947, 
       1.1225
     ], 
-    "gph": 770.4, 
     "triple_inshore": [
       0.584, 
       0.8094, 
       0.9447
-    ]
+    ], 
+    "gph": 770.4, 
+    "osn": 745.1
   }, 
   "sailnumber": "NOR7327", 
   "name": "Bonnie XI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.5, 
       "draft": 1.7, 
+      "wetted_surface": 17.7, 
       "main": 18.9, 
       "genoa": 23.2, 
       "displacement": 3175.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 426.0
     }, 
     "year": "1982"
   }, 

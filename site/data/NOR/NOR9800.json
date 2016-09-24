@@ -5,12 +5,13 @@
       1.2787, 
       1.4725
     ], 
-    "gph": 601.0, 
     "triple_inshore": [
       0.7252, 
       1.0208, 
       1.2276
-    ]
+    ], 
+    "gph": 601.0, 
+    "osn": 583.5
   }, 
   "sailnumber": "NOR9800", 
   "name": "Paradise", 
@@ -25,10 +26,12 @@
       "spinnaker": 124.6, 
       "loa": 14.2, 
       "draft": 2.48, 
+      "wetted_surface": 38.1, 
       "main": 60.3, 
       "genoa": 57.7, 
       "displacement": 10888.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 872.0
     }, 
     "year": "1990"
   }, 

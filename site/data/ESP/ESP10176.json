@@ -5,12 +5,13 @@
       1.1173, 
       1.2816
     ], 
-    "gph": 686.3, 
     "triple_inshore": [
       0.6449, 
       0.8957, 
       1.0697
-    ]
+    ], 
+    "gph": 686.3, 
+    "osn": 665.2
   }, 
   "sailnumber": "ESP10176", 
   "name": "ELAMAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.8, 
       "loa": 9.85, 
       "draft": 1.84, 
+      "wetted_surface": 25.0, 
       "main": 30.7, 
       "genoa": 29.5, 
       "displacement": 5126.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 449.0
     }, 
     "year": "2007"
   }, 

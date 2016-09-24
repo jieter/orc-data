@@ -5,12 +5,13 @@
       1.2517, 
       1.3982
     ], 
-    "gph": 606.4, 
     "triple_inshore": [
       0.7572, 
       1.0192, 
       1.1666
-    ]
+    ], 
+    "gph": 606.4, 
+    "osn": 591.5
   }, 
   "sailnumber": "GRE70", 
   "name": "OXYGONON", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.4, 
       "loa": 10.6, 
       "draft": 2.17, 
+      "wetted_surface": 24.4, 
       "main": 42.9, 
       "genoa": 33.2, 
       "displacement": 4453.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2005"
   }, 

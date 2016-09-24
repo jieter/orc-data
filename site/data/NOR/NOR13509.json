@@ -5,12 +5,13 @@
       1.2237, 
       1.384
     ], 
-    "gph": 624.0, 
     "triple_inshore": [
       0.7211, 
       0.9904, 
       1.1652
-    ]
+    ], 
+    "gph": 624.0, 
+    "osn": 606.2
   }, 
   "sailnumber": "NOR13509", 
   "name": "Kilden", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.0, 
       "loa": 11.16, 
       "draft": 2.37, 
+      "wetted_surface": 29.1, 
       "main": 39.8, 
       "genoa": 43.0, 
       "displacement": 6749.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 716.0
     }, 
     "year": "2004"
   }, 

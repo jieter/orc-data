@@ -5,12 +5,13 @@
       1.0891, 
       1.2172
     ], 
-    "gph": 698.1, 
     "triple_inshore": [
       0.6552, 
       0.8871, 
       1.0237
-    ]
+    ], 
+    "gph": 698.1, 
+    "osn": 680.1
   }, 
   "sailnumber": "ESP9141_C", 
   "name": "RASPUTIN II", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.1, 
       "loa": 8.99, 
       "draft": 1.74, 
+      "wetted_surface": 19.9, 
       "main": 26.4, 
       "genoa": 29.8, 
       "displacement": 3712.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 210.0
     }, 
     "year": "1991"
   }, 

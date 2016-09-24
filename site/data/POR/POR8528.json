@@ -5,12 +5,13 @@
       0.9826, 
       1.1251
     ], 
-    "gph": 767.6, 
     "triple_inshore": [
       0.6056, 
       0.7989, 
       0.9138
-    ]
+    ], 
+    "gph": 767.6, 
+    "osn": 746.4
   }, 
   "sailnumber": "POR8528", 
   "name": "Cinco e Meio", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 5.5, 
       "draft": 1.52, 
+      "wetted_surface": 8.9, 
       "main": 14.9, 
       "genoa": 8.0, 
       "displacement": 608.0, 
-      "spinnaker_asym": 26.0
+      "spinnaker_asym": 26.0, 
+      "crew": 225.0
     }, 
     "year": "2011"
   }, 

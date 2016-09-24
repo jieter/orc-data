@@ -5,12 +5,13 @@
       1.0836, 
       1.2457
     ], 
-    "gph": 692.9, 
     "triple_inshore": [
       0.6815, 
       0.8769, 
       1.0107
-    ]
+    ], 
+    "gph": 692.9, 
+    "osn": 675.4
   }, 
   "sailnumber": "ITA016C21", 
   "name": "GREY HOUND", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.19, 
       "draft": 1.43, 
+      "wetted_surface": 8.9, 
       "main": 18.9, 
       "genoa": 8.6, 
       "displacement": 636.0, 
-      "spinnaker_asym": 37.0
+      "spinnaker_asym": 37.0, 
+      "crew": 245.0
     }, 
     "year": "2009"
   }, 

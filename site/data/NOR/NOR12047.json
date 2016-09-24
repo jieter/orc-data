@@ -5,12 +5,13 @@
       1.2808, 
       1.4498
     ], 
-    "gph": 595.4, 
     "triple_inshore": [
       0.7517, 
       1.0262, 
       1.2
-    ]
+    ], 
+    "gph": 595.4, 
+    "osn": 580.7
   }, 
   "sailnumber": "NOR12047", 
   "name": "Bellablom", 
@@ -25,10 +26,12 @@
       "spinnaker": 113.1, 
       "loa": 11.99, 
       "draft": 1.96, 
+      "wetted_surface": 35.0, 
       "main": 55.5, 
       "genoa": 58.9, 
       "displacement": 8023.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 784.0
     }, 
     "year": "2002"
   }, 

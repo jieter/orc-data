@@ -5,12 +5,13 @@
       1.2938, 
       1.4656
     ], 
-    "gph": 590.2, 
     "triple_inshore": [
       0.7612, 
       1.0459, 
       1.2203
-    ]
+    ], 
+    "gph": 590.2, 
+    "osn": 573.8
   }, 
   "sailnumber": "NOR10140", 
   "name": "DILL", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.1, 
       "loa": 12.1, 
       "draft": 2.4, 
+      "wetted_surface": 30.5, 
       "main": 51.1, 
       "genoa": 37.4, 
       "displacement": 6356.0, 
-      "spinnaker_asym": 101.0
+      "spinnaker_asym": 101.0, 
+      "crew": 745.0
     }, 
     "year": "2000"
   }, 

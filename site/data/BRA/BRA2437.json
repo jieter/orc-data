@@ -5,12 +5,13 @@
       1.2923, 
       1.4664
     ], 
-    "gph": 593.0, 
     "triple_inshore": [
       0.7462, 
       1.0315, 
       1.2074
-    ]
+    ], 
+    "gph": 593.0, 
+    "osn": 576.7
   }, 
   "sailnumber": "BRA2437", 
   "name": "SAN CHICO 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 116.4, 
       "loa": 12.7, 
       "draft": 2.15, 
+      "wetted_surface": 34.6, 
       "main": 54.7, 
       "genoa": 42.7, 
       "displacement": 7505.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "2005"
   }, 

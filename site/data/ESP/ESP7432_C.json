@@ -5,12 +5,13 @@
       0.9989, 
       1.1354
     ], 
-    "gph": 760.9, 
     "triple_inshore": [
       0.598, 
       0.8172, 
       0.9438
-    ]
+    ], 
+    "gph": 760.9, 
+    "osn": 739.5
   }, 
   "sailnumber": "ESP7432_C", 
   "name": "AJU III", 
@@ -25,10 +26,12 @@
       "spinnaker": 26.8, 
       "loa": 7.15, 
       "draft": 1.39, 
+      "wetted_surface": 10.4, 
       "main": 15.3, 
       "genoa": 13.4, 
       "displacement": 1153.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 170.0
     }, 
     "year": "1979"
   }, 

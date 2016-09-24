@@ -5,12 +5,13 @@
       1.2124, 
       1.3599
     ], 
-    "gph": 628.4, 
     "triple_inshore": [
       0.7221, 
       0.983, 
       1.1393
-    ]
+    ], 
+    "gph": 628.4, 
+    "osn": 612.0
   }, 
   "sailnumber": "NOR11405", 
   "name": "Tempo", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.4, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.8, 
       "main": 39.7, 
       "genoa": 41.3, 
       "displacement": 5659.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 643.0
     }, 
     "year": "2001"
   }, 

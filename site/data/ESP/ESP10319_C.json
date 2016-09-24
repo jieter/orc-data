@@ -5,12 +5,13 @@
       1.4235, 
       1.6344
     ], 
-    "gph": 537.6, 
     "triple_inshore": [
       0.8187, 
       1.1273, 
       1.3304
-    ]
+    ], 
+    "gph": 537.6, 
+    "osn": 524.2
   }, 
   "sailnumber": "ESP10319_C", 
   "name": "ELEUTHERIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.99, 
       "draft": 2.17, 
+      "wetted_surface": 51.7, 
       "main": 74.6, 
       "genoa": 106.0, 
       "displacement": 15790.0, 
-      "spinnaker_asym": 207.0
+      "spinnaker_asym": 207.0, 
+      "crew": 750.0
     }, 
     "year": "2013"
   }, 

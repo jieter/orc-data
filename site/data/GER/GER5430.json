@@ -5,12 +5,13 @@
       1.1978, 
       1.3371
     ], 
-    "gph": 635.5, 
     "triple_inshore": [
       0.7158, 
       0.9694, 
       1.1164
-    ]
+    ], 
+    "gph": 635.5, 
+    "osn": 619.6
   }, 
   "sailnumber": "GER5430", 
   "name": "RODBETTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.7, 
       "loa": 9.99, 
       "draft": 2.01, 
+      "wetted_surface": 22.4, 
       "main": 35.4, 
       "genoa": 27.8, 
       "displacement": 3869.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1995"
   }, 

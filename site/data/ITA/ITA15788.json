@@ -5,12 +5,13 @@
       1.2319, 
       1.3892
     ], 
-    "gph": 619.9, 
     "triple_inshore": [
       0.7239, 
       0.9922, 
       1.1595
-    ]
+    ], 
+    "gph": 619.9, 
+    "osn": 603.0
   }, 
   "sailnumber": "ITA15788", 
   "name": "KHELIS KT", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.3, 
       "loa": 11.3, 
       "draft": 2.01, 
+      "wetted_surface": 29.0, 
       "main": 44.9, 
       "genoa": 39.5, 
       "displacement": 6477.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "2005"
   }, 

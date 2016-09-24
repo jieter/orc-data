@@ -5,12 +5,13 @@
       1.2039, 
       1.3479
     ], 
-    "gph": 633.6, 
     "triple_inshore": [
       0.7165, 
       0.975, 
       1.1219
-    ]
+    ], 
+    "gph": 633.6, 
+    "osn": 616.2
   }, 
   "sailnumber": "FRA43683", 
   "name": "WASABI", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.7, 
       "loa": 9.99, 
       "draft": 1.97, 
+      "wetted_surface": 23.2, 
       "main": 33.0, 
       "genoa": 25.5, 
       "displacement": 4000.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 200.0
     }, 
     "year": "2010"
   }, 

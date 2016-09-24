@@ -5,12 +5,13 @@
       1.2193, 
       1.3846
     ], 
-    "gph": 625.8, 
     "triple_inshore": [
       0.7209, 
       0.9883, 
       1.1498
-    ]
+    ], 
+    "gph": 625.8, 
+    "osn": 607.5
   }, 
   "sailnumber": "FRA38733", 
   "name": "X-MACHINE", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.8, 
       "loa": 9.991, 
       "draft": 1.92, 
+      "wetted_surface": 23.4, 
       "main": 34.9, 
       "genoa": 28.3, 
       "displacement": 4256.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "2011"
   }, 

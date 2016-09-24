@@ -5,12 +5,13 @@
       1.2143, 
       1.3613
     ], 
-    "gph": 627.1, 
     "triple_inshore": [
       0.7244, 
       0.9846, 
       1.1405
-    ]
+    ], 
+    "gph": 627.1, 
+    "osn": 611.1
   }, 
   "sailnumber": "NOR14031", 
   "name": "Blue Fox", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.7, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.8, 
       "main": 41.2, 
       "genoa": 40.1, 
       "displacement": 5652.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 642.0
     }, 
     "year": "2001"
   }, 

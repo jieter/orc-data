@@ -5,12 +5,13 @@
       1.1543, 
       1.3155
     ], 
-    "gph": 662.8, 
     "triple_inshore": [
       0.6727, 
       0.927, 
       1.097
-    ]
+    ], 
+    "gph": 662.8, 
+    "osn": 643.6
   }, 
   "sailnumber": "ESP8162", 
   "name": "BACHIBUZUK 1", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.1, 
       "loa": 10.493, 
       "draft": 1.88, 
+      "wetted_surface": 26.7, 
       "main": 36.3, 
       "genoa": 31.4, 
       "displacement": 5721.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 460.0
     }, 
     "year": "1992"
   }, 

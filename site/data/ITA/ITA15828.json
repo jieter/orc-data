@@ -5,12 +5,13 @@
       1.252, 
       1.3999
     ], 
-    "gph": 606.3, 
     "triple_inshore": [
       0.7565, 
       1.0197, 
       1.1686
-    ]
+    ], 
+    "gph": 606.3, 
+    "osn": 591.3
   }, 
   "sailnumber": "ITA15828", 
   "name": "BE BLUE TWO", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.2, 
       "loa": 10.6, 
       "draft": 2.17, 
+      "wetted_surface": 24.4, 
       "main": 42.8, 
       "genoa": 33.1, 
       "displacement": 4487.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2005"
   }, 

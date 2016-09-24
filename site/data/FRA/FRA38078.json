@@ -5,12 +5,13 @@
       1.1758, 
       1.3392
     ], 
-    "gph": 652.9, 
     "triple_inshore": [
       0.6761, 
       0.9363, 
       1.0946
-    ]
+    ], 
+    "gph": 652.9, 
+    "osn": 632.5
   }, 
   "sailnumber": "FRA38078", 
   "name": "REIVILO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 1.94, 
+      "wetted_surface": 23.8, 
       "main": 29.4, 
       "genoa": 24.0, 
       "displacement": 4146.0, 
-      "spinnaker_asym": 84.0
+      "spinnaker_asym": 84.0, 
+      "crew": 510.0
     }, 
     "year": "2010"
   }, 

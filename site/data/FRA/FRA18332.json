@@ -5,12 +5,13 @@
       1.2701, 
       1.451
     ], 
-    "gph": 593.6, 
     "triple_inshore": [
       0.7847, 
       1.038, 
       1.1956
-    ]
+    ], 
+    "gph": 593.6, 
+    "osn": 577.9
   }, 
   "sailnumber": "FRA18332", 
   "name": "SUMMUMM", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.5, 
       "loa": 9.435, 
       "draft": 2.15, 
+      "wetted_surface": 17.9, 
       "main": 35.1, 
       "genoa": 22.6, 
       "displacement": 2357.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 525.0
     }, 
     "year": "1996"
   }, 

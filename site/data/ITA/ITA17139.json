@@ -5,12 +5,13 @@
       1.1504, 
       1.3358
     ], 
-    "gph": 670.1, 
     "triple_inshore": [
       0.6459, 
       0.9053, 
       1.0915
-    ]
+    ], 
+    "gph": 670.1, 
+    "osn": 649.7
   }, 
   "sailnumber": "ITA17139", 
   "name": "BLUE ADVENTURE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.624, 
       "draft": 1.89, 
+      "wetted_surface": 32.2, 
       "main": 29.0, 
       "genoa": 41.3, 
       "displacement": 7721.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 600.0
     }, 
     "year": "1999"
   }, 

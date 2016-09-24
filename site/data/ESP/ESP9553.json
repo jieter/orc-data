@@ -5,12 +5,13 @@
       1.0909, 
       1.2457
     ], 
-    "gph": 705.8, 
     "triple_inshore": [
       0.6209, 
       0.8663, 
       1.03
-    ]
+    ], 
+    "gph": 705.8, 
+    "osn": 683.5
   }, 
   "sailnumber": "ESP9553", 
   "name": "GRANBLAU", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.9, 
       "loa": 9.808, 
       "draft": 1.55, 
+      "wetted_surface": 25.2, 
       "main": 30.8, 
       "genoa": 25.6, 
       "displacement": 5386.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2010"
   }, 

@@ -5,12 +5,13 @@
       1.2437, 
       1.3949
     ], 
-    "gph": 614.1, 
     "triple_inshore": [
       0.7322, 
       0.9971, 
       1.1498
-    ]
+    ], 
+    "gph": 614.1, 
+    "osn": 597.5
   }, 
   "sailnumber": "ESP10100", 
   "name": "EMV XV", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.97, 
       "draft": 2.18, 
+      "wetted_surface": 28.8, 
       "main": 43.5, 
       "genoa": 31.8, 
       "displacement": 6039.0, 
-      "spinnaker_asym": 115.0
+      "spinnaker_asym": 115.0, 
+      "crew": 520.0
     }, 
     "year": "2013"
   }, 

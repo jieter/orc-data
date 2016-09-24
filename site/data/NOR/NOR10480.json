@@ -5,12 +5,13 @@
       1.2645, 
       1.4272
     ], 
-    "gph": 604.1, 
     "triple_inshore": [
       0.7426, 
       1.0193, 
       1.1951
-    ]
+    ], 
+    "gph": 604.1, 
+    "osn": 587.6
   }, 
   "sailnumber": "NOR10480", 
   "name": "la Sirena", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.5, 
       "loa": 11.99, 
       "draft": 2.44, 
+      "wetted_surface": 33.0, 
       "main": 46.3, 
       "genoa": 51.3, 
       "displacement": 7818.0, 
-      "spinnaker_asym": 98.0
+      "spinnaker_asym": 98.0, 
+      "crew": 806.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.2621, 
       1.4406
     ], 
-    "gph": 606.9, 
     "triple_inshore": [
       0.7315, 
       1.0114, 
       1.1763
-    ]
+    ], 
+    "gph": 606.9, 
+    "osn": 588.3
   }, 
   "sailnumber": "GER7262", 
   "name": "DWINGER 2.0", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.8, 
       "draft": 2.15, 
+      "wetted_surface": 28.0, 
       "main": 39.6, 
       "genoa": 31.2, 
       "displacement": 5067.0, 
-      "spinnaker_asym": 112.0
+      "spinnaker_asym": 112.0, 
+      "crew": 600.0
     }, 
     "year": "2013"
   }, 

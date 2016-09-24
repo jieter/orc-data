@@ -5,12 +5,13 @@
       1.1256, 
       1.2688
     ], 
-    "gph": 677.7, 
     "triple_inshore": [
       0.6686, 
       0.9151, 
       1.0666
-    ]
+    ], 
+    "gph": 677.7, 
+    "osn": 658.2
   }, 
   "sailnumber": "NED7238", 
   "name": "Boei 22", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.0, 
       "loa": 9.34, 
       "draft": 1.98, 
+      "wetted_surface": 21.3, 
       "main": 25.5, 
       "genoa": 31.5, 
       "displacement": 3957.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 509.0
     }, 
     "year": "2002"
   }, 

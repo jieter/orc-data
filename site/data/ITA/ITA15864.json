@@ -5,12 +5,13 @@
       1.1595, 
       1.2994
     ], 
-    "gph": 657.3, 
     "triple_inshore": [
       0.6927, 
       0.9412, 
       1.0971
-    ]
+    ], 
+    "gph": 657.3, 
+    "osn": 639.3
   }, 
   "sailnumber": "ITA15864", 
   "name": "PALUCK III", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.8, 
       "loa": 9.92, 
       "draft": 2.13, 
+      "wetted_surface": 24.6, 
       "main": 31.1, 
       "genoa": 34.5, 
       "displacement": 5398.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 460.0
     }, 
     "year": "2003"
   }, 

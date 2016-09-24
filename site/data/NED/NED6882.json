@@ -5,12 +5,13 @@
       1.0944, 
       1.2433
     ], 
-    "gph": 698.4, 
     "triple_inshore": [
       0.642, 
       0.8849, 
       1.0395
-    ]
+    ], 
+    "gph": 698.4, 
+    "osn": 677.6
   }, 
   "sailnumber": "NED6882", 
   "name": "ALBATROS", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.5, 
       "loa": 9.53, 
       "draft": 1.67, 
+      "wetted_surface": 20.1, 
       "main": 27.9, 
       "genoa": 20.0, 
       "displacement": 3522.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 479.0
     }, 
     "year": "1989"
   }, 

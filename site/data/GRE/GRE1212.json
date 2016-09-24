@@ -5,12 +5,13 @@
       1.3898, 
       1.5672
     ], 
-    "gph": 543.9, 
     "triple_inshore": [
       0.8471, 
       1.1264, 
       1.2945
-    ]
+    ], 
+    "gph": 543.9, 
+    "osn": 531.3
   }, 
   "sailnumber": "GRE1212", 
   "name": "BANA BIOLETTA 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 139.7, 
       "loa": 12.5, 
       "draft": 2.6, 
+      "wetted_surface": 31.3, 
       "main": 64.8, 
       "genoa": 49.6, 
       "displacement": 6001.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 780.0
     }, 
     "year": "1993"
   }, 

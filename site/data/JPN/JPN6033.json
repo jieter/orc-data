@@ -5,12 +5,13 @@
       1.1862, 
       1.3309
     ], 
-    "gph": 637.6, 
     "triple_inshore": [
       0.7274, 
       0.9752, 
       1.117
-    ]
+    ], 
+    "gph": 637.6, 
+    "osn": 621.5
   }, 
   "sailnumber": "JPN6033", 
   "name": "FRIENDS", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.5, 
       "loa": 8.988, 
       "draft": 2.04, 
+      "wetted_surface": 19.6, 
       "main": 31.9, 
       "genoa": 31.6, 
       "displacement": 3102.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 536.0
     }, 
     "year": "1999"
   }, 

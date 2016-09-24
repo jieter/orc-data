@@ -5,12 +5,13 @@
       1.1648, 
       1.3163
     ], 
-    "gph": 657.4, 
     "triple_inshore": [
       0.6773, 
       0.9288, 
       1.0857
-    ]
+    ], 
+    "gph": 657.4, 
+    "osn": 639.2
   }, 
   "sailnumber": "GER5375", 
   "name": "LOCURA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.725, 
       "draft": 1.93, 
+      "wetted_surface": 27.6, 
       "main": 29.9, 
       "genoa": 37.9, 
       "displacement": 5950.0, 
-      "spinnaker_asym": 96.0
+      "spinnaker_asym": 96.0, 
+      "crew": 450.0
     }, 
     "year": "1994"
   }, 

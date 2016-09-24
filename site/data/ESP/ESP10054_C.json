@@ -5,12 +5,13 @@
       1.0267, 
       1.2005
     ], 
-    "gph": 747.4, 
     "triple_inshore": [
       0.5895, 
       0.8188, 
       1.0032
-    ]
+    ], 
+    "gph": 747.4, 
+    "osn": 723.5
   }, 
   "sailnumber": "ESP10054_C", 
   "name": "GAROLA III", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.5, 
       "loa": 9.98, 
       "draft": 1.78, 
+      "wetted_surface": 22.1, 
       "main": 16.1, 
       "genoa": 31.7, 
       "displacement": 4801.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 476.0
     }, 
     "year": "1974"
   }, 

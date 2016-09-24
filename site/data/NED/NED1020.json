@@ -5,12 +5,13 @@
       1.0287, 
       1.1441
     ], 
-    "gph": 739.1, 
     "triple_inshore": [
       0.6205, 
       0.8411, 
       0.9579
-    ]
+    ], 
+    "gph": 739.1, 
+    "osn": 719.9
   }, 
   "sailnumber": "NED1020", 
   "name": "BABBE", 
@@ -25,10 +26,12 @@
       "spinnaker": 35.5, 
       "loa": 8.18, 
       "draft": 1.6, 
+      "wetted_surface": 13.6, 
       "main": 17.8, 
       "genoa": 19.1, 
       "displacement": 1823.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 336.0
     }, 
     "year": "1973"
   }, 

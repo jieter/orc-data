@@ -5,12 +5,13 @@
       1.3032, 
       1.492
     ], 
-    "gph": 576.2, 
     "triple_inshore": [
       0.8195, 
       1.0627, 
       1.2187
-    ]
+    ], 
+    "gph": 576.2, 
+    "osn": 561.6
   }, 
   "sailnumber": "ITAUMMAG", 
   "name": "UMMAGUMMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.5, 
       "draft": 2.39, 
+      "wetted_surface": 22.4, 
       "main": 51.3, 
       "genoa": 30.8, 
       "displacement": 3300.0, 
-      "spinnaker_asym": 113.0
+      "spinnaker_asym": 113.0, 
+      "crew": 450.0
     }, 
     "year": "2014"
   }, 

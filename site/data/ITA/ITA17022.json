@@ -5,12 +5,13 @@
       1.9044, 
       2.4325
     ], 
-    "gph": 401.8, 
     "triple_inshore": [
       1.0577, 
       1.4576, 
       1.8497
-    ]
+    ], 
+    "gph": 401.8, 
+    "osn": 389.5
   }, 
   "sailnumber": "ITA17022", 
   "name": "STUPEFICIUM 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 16.0, 
       "draft": 4.16, 
+      "wetted_surface": 39.1, 
       "main": 98.8, 
       "genoa": 55.3, 
       "displacement": 5000.0, 
-      "spinnaker_asym": 246.0
+      "spinnaker_asym": 246.0, 
+      "crew": 1100.0
     }, 
     "year": "2000"
   }, 

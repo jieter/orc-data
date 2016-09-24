@@ -5,12 +5,13 @@
       1.2299, 
       1.3955
     ], 
-    "gph": 620.6, 
     "triple_inshore": [
       0.7248, 
       0.989, 
       1.1709
-    ]
+    ], 
+    "gph": 620.6, 
+    "osn": 603.4
   }, 
   "sailnumber": "ITA13485", 
   "name": "MILADY", 
@@ -25,10 +26,12 @@
       "spinnaker": 115.0, 
       "loa": 12.585, 
       "draft": 2.36, 
+      "wetted_surface": 34.3, 
       "main": 47.9, 
       "genoa": 53.7, 
       "displacement": 9867.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1992"
   }, 

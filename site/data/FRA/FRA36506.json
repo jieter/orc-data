@@ -5,12 +5,13 @@
       1.1233, 
       1.3009
     ], 
-    "gph": 677.8, 
     "triple_inshore": [
       0.6624, 
       0.9084, 
       1.0543
-    ]
+    ], 
+    "gph": 677.8, 
+    "osn": 657.0
   }, 
   "sailnumber": "FRA36506", 
   "name": "DELISS", 
@@ -25,10 +26,12 @@
       "spinnaker": 52.8, 
       "loa": 7.5, 
       "draft": 1.7, 
+      "wetted_surface": 14.1, 
       "main": 20.9, 
       "genoa": 15.7, 
       "displacement": 1380.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 398.0
     }, 
     "year": "2005"
   }, 

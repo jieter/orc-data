@@ -5,12 +5,13 @@
       1.2583, 
       1.4714
     ], 
-    "gph": 612.6, 
     "triple_inshore": [
       0.7014, 
       0.9876, 
       1.1962
-    ]
+    ], 
+    "gph": 612.6, 
+    "osn": 594.2
   }, 
   "sailnumber": "ITA17002", 
   "name": "T'ARAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.39, 
       "draft": 2.15, 
+      "wetted_surface": 40.8, 
       "main": 60.3, 
       "genoa": 46.3, 
       "displacement": 10660.0, 
-      "spinnaker_asym": 118.0
+      "spinnaker_asym": 118.0, 
+      "crew": 700.0
     }, 
     "year": "2002"
   }, 

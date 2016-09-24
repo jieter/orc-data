@@ -5,12 +5,13 @@
       1.1746, 
       1.339
     ], 
-    "gph": 651.2, 
     "triple_inshore": [
       0.685, 
       0.9442, 
       1.1203
-    ]
+    ], 
+    "gph": 651.2, 
+    "osn": 632.1
   }, 
   "sailnumber": "NOR9697", 
   "name": "Mia Tuk", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.5, 
       "loa": 10.95, 
       "draft": 2.11, 
+      "wetted_surface": 29.9, 
       "main": 38.6, 
       "genoa": 41.8, 
       "displacement": 6894.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 674.0
     }, 
     "year": "2001"
   }, 

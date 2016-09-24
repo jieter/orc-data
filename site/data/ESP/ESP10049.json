@@ -5,12 +5,13 @@
       1.0426, 
       1.1891
     ], 
-    "gph": 731.4, 
     "triple_inshore": [
       0.6199, 
       0.8529, 
       0.9868
-    ]
+    ], 
+    "gph": 731.4, 
+    "osn": 708.1
   }, 
   "sailnumber": "ESP10049", 
   "name": "DILIGENTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 34.8, 
       "loa": 7.258, 
       "draft": 1.53, 
+      "wetted_surface": 12.5, 
       "main": 15.8, 
       "genoa": 11.8, 
       "displacement": 1333.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 358.0
     }, 
     "year": "1994"
   }, 

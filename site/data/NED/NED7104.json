@@ -5,12 +5,13 @@
       1.162, 
       1.3096
     ], 
-    "gph": 655.9, 
     "triple_inshore": [
       0.6927, 
       0.9462, 
       1.1
-    ]
+    ], 
+    "gph": 655.9, 
+    "osn": 637.0
   }, 
   "sailnumber": "NED7104", 
   "name": "Wicked Lady", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.5, 
       "loa": 9.503, 
       "draft": 1.97, 
+      "wetted_surface": 22.2, 
       "main": 33.4, 
       "genoa": 21.5, 
       "displacement": 4041.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 525.0
     }, 
     "year": "1994"
   }, 

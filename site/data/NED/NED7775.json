@@ -5,12 +5,13 @@
       1.2246, 
       1.375
     ], 
-    "gph": 623.0, 
     "triple_inshore": [
       0.724, 
       0.9817, 
       1.1409
-    ]
+    ], 
+    "gph": 623.0, 
+    "osn": 606.7
   }, 
   "sailnumber": "NED7775", 
   "name": "Nixe", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.345, 
       "draft": 2.02, 
+      "wetted_surface": 28.5, 
       "main": 43.7, 
       "genoa": 32.9, 
       "displacement": 6612.0, 
-      "spinnaker_asym": 90.0
+      "spinnaker_asym": 90.0, 
+      "crew": 698.0
     }, 
     "year": "2004"
   }, 

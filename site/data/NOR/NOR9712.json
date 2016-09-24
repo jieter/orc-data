@@ -5,12 +5,13 @@
       1.0, 
       1.1678
     ], 
-    "gph": 771.8, 
     "triple_inshore": [
       0.561, 
       0.802, 
       0.9757
-    ]
+    ], 
+    "gph": 771.8, 
+    "osn": 744.3
   }, 
   "sailnumber": "NOR9712", 
   "name": "E. Hunt", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.95, 
       "draft": 1.55, 
+      "wetted_surface": 19.8, 
       "main": 19.8, 
       "genoa": 20.4, 
       "displacement": 3492.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1996"
   }, 

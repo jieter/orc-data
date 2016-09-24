@@ -5,12 +5,13 @@
       1.6264, 
       1.8558
     ], 
-    "gph": 471.6, 
     "triple_inshore": [
       0.9336, 
       1.2951, 
       1.5106
-    ]
+    ], 
+    "gph": 471.6, 
+    "osn": 458.8
   }, 
   "sailnumber": "ITA17017", 
   "name": "FRA' DIAVOLO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 18.325, 
       "draft": 3.6, 
+      "wetted_surface": 62.8, 
       "main": 120.9, 
       "genoa": 84.8, 
       "displacement": 17296.0, 
-      "spinnaker_asym": 320.0
+      "spinnaker_asym": 320.0, 
+      "crew": 1170.0
     }, 
     "year": "2013"
   }, 

@@ -5,12 +5,13 @@
       1.1378, 
       1.3144
     ], 
-    "gph": 675.3, 
     "triple_inshore": [
       0.6485, 
       0.9162, 
       1.0838
-    ]
+    ], 
+    "gph": 675.3, 
+    "osn": 653.0
   }, 
   "sailnumber": "NED4698", 
   "name": "Fast Food", 
@@ -25,10 +26,12 @@
       "spinnaker": 51.2, 
       "loa": 9.495, 
       "draft": 1.78, 
+      "wetted_surface": 20.0, 
       "main": 24.4, 
       "genoa": 23.4, 
       "displacement": 2637.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1989"
   }, 

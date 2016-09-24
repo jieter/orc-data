@@ -5,12 +5,13 @@
       0.9732, 
       1.101
     ], 
-    "gph": 778.6, 
     "triple_inshore": [
       0.5924, 
       0.7945, 
       0.9206
-    ]
+    ], 
+    "gph": 778.6, 
+    "osn": 757.3
   }, 
   "sailnumber": "ITASURPR", 
   "name": "SURPRISE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.22, 
       "draft": 1.73, 
+      "wetted_surface": 10.8, 
       "main": 13.5, 
       "genoa": 10.8, 
       "displacement": 1117.0, 
-      "spinnaker_asym": 31.0
+      "spinnaker_asym": 31.0, 
+      "crew": 300.0
     }, 
     "year": "1992"
   }, 

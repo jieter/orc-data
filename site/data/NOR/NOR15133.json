@@ -5,12 +5,13 @@
       1.3044, 
       1.4881
     ], 
-    "gph": 587.6, 
     "triple_inshore": [
       0.7487, 
       1.0323, 
       1.2274
-    ]
+    ], 
+    "gph": 587.6, 
+    "osn": 572.1
   }, 
   "sailnumber": "NOR15133", 
   "name": "Brightside", 
@@ -25,10 +26,12 @@
       "spinnaker": 167.4, 
       "loa": 15.2, 
       "draft": 2.2, 
+      "wetted_surface": 45.3, 
       "main": 57.0, 
       "genoa": 80.3, 
       "displacement": 14182.0, 
-      "spinnaker_asym": 151.0
+      "spinnaker_asym": 151.0, 
+      "crew": 986.0
     }, 
     "year": "1992"
   }, 

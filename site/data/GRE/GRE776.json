@@ -5,12 +5,13 @@
       0.9361, 
       1.0852
     ], 
-    "gph": 818.2, 
     "triple_inshore": [
       0.5389, 
       0.7414, 
       0.896
-    ]
+    ], 
+    "gph": 818.2, 
+    "osn": 795.0
   }, 
   "sailnumber": "GRE776", 
   "name": "NIKOLAOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 50.9, 
       "loa": 8.54, 
       "draft": 1.41, 
+      "wetted_surface": 19.9, 
       "main": 16.1, 
       "genoa": 25.9, 
       "displacement": 3771.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 408.0
     }, 
     "year": "1977"
   }, 

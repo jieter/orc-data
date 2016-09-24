@@ -5,12 +5,13 @@
       1.0907, 
       1.224
     ], 
-    "gph": 700.5, 
     "triple_inshore": [
       0.6353, 
       0.8593, 
       0.9753
-    ]
+    ], 
+    "gph": 700.5, 
+    "osn": 683.9
   }, 
   "sailnumber": "NED8393", 
   "name": "Beaufort 8.3", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.3, 
       "draft": 1.15, 
+      "wetted_surface": 14.4, 
       "main": 21.3, 
       "genoa": 11.7, 
       "displacement": 1545.0, 
-      "spinnaker_asym": 45.0
+      "spinnaker_asym": 45.0, 
+      "crew": 320.0
     }, 
     "year": "2011"
   }, 

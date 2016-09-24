@@ -5,12 +5,13 @@
       1.2924, 
       1.4553
     ], 
-    "gph": 590.9, 
     "triple_inshore": [
       0.7621, 
       1.0422, 
       1.2199
-    ]
+    ], 
+    "gph": 590.9, 
+    "osn": 574.7
   }, 
   "sailnumber": "ITA16130", 
   "name": "TRESAMIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.7, 
       "loa": 12.259, 
       "draft": 2.39, 
+      "wetted_surface": 35.0, 
       "main": 55.4, 
       "genoa": 44.0, 
       "displacement": 8573.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2008"
   }, 

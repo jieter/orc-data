@@ -5,12 +5,13 @@
       1.1803, 
       1.3571
     ], 
-    "gph": 651.7, 
     "triple_inshore": [
       0.6651, 
       0.9436, 
       1.1284
-    ]
+    ], 
+    "gph": 651.7, 
+    "osn": 632.5
   }, 
   "sailnumber": "NOR10010", 
   "name": "GoingToo", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.0, 
       "draft": 1.94, 
+      "wetted_surface": 29.6, 
       "main": 37.9, 
       "genoa": 43.2, 
       "displacement": 5783.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 690.0
     }, 
     "year": "1999"
   }, 

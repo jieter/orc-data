@@ -5,12 +5,13 @@
       1.1874, 
       1.3477
     ], 
-    "gph": 646.3, 
     "triple_inshore": [
       0.6823, 
       0.9366, 
       1.0992
-    ]
+    ], 
+    "gph": 646.3, 
+    "osn": 628.2
   }, 
   "sailnumber": "ESP9702", 
   "name": "MANDALA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.98, 
       "draft": 1.89, 
+      "wetted_surface": 34.0, 
       "main": 38.7, 
       "genoa": 45.0, 
       "displacement": 8496.0, 
-      "spinnaker_asym": 111.0
+      "spinnaker_asym": 111.0, 
+      "crew": 540.0
     }, 
     "year": "2005"
   }, 

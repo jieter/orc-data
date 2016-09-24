@@ -5,12 +5,13 @@
       1.2145, 
       1.4039
     ], 
-    "gph": 633.7, 
     "triple_inshore": [
       0.6878, 
       0.9603, 
       1.1506
-    ]
+    ], 
+    "gph": 633.7, 
+    "osn": 614.2
   }, 
   "sailnumber": "ITAANNAMA", 
   "name": "ANNAMARIA 1^", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.59, 
       "draft": 2.11, 
+      "wetted_surface": 33.6, 
       "main": 41.2, 
       "genoa": 39.3, 
       "displacement": 8174.0, 
-      "spinnaker_asym": 90.0
+      "spinnaker_asym": 90.0, 
+      "crew": 420.0
     }, 
     "year": "2006"
   }, 

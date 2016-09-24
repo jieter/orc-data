@@ -5,12 +5,13 @@
       1.2639, 
       1.4294
     ], 
-    "gph": 604.8, 
     "triple_inshore": [
       0.742, 
       1.0195, 
       1.1943
-    ]
+    ], 
+    "gph": 604.8, 
+    "osn": 587.5
   }, 
   "sailnumber": "ITA978", 
   "name": "SHAULA", 
@@ -25,10 +26,12 @@
       "spinnaker": 112.6, 
       "loa": 11.99, 
       "draft": 2.4, 
+      "wetted_surface": 31.4, 
       "main": 48.2, 
       "genoa": 38.2, 
       "displacement": 7145.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 685.0
     }, 
     "year": "2003"
   }, 

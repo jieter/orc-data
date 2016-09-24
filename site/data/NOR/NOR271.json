@@ -5,12 +5,13 @@
       1.0094, 
       1.1544
     ], 
-    "gph": 762.7, 
     "triple_inshore": [
       0.573, 
       0.8069, 
       0.9488
-    ]
+    ], 
+    "gph": 762.7, 
+    "osn": 739.1
   }, 
   "sailnumber": "NOR271", 
   "name": "NN", 
@@ -25,10 +26,12 @@
       "spinnaker": 28.4, 
       "loa": 8.94, 
       "draft": 1.19, 
+      "wetted_surface": 13.5, 
       "main": 18.2, 
       "genoa": 11.0, 
       "displacement": 1708.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 303.0
     }, 
     "year": "1950"
   }, 

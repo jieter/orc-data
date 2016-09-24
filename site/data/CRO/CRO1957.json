@@ -5,12 +5,13 @@
       1.2811, 
       1.5193
     ], 
-    "gph": 606.9, 
     "triple_inshore": [
       0.686, 
       1.0001, 
       1.2382
-    ]
+    ], 
+    "gph": 606.9, 
+    "osn": 586.1
   }, 
   "sailnumber": "CRO1957", 
   "name": "Polly One", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.99, 
       "draft": 2.29, 
+      "wetted_surface": 54.0, 
       "main": 59.7, 
       "genoa": 53.4, 
       "displacement": 15202.0, 
-      "spinnaker_asym": 177.0
+      "spinnaker_asym": 177.0, 
+      "crew": 600.0
     }, 
     "year": "2013"
   }, 

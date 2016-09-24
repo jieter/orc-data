@@ -5,12 +5,13 @@
       1.222, 
       1.3804
     ], 
-    "gph": 623.8, 
     "triple_inshore": [
       0.7259, 
       0.9931, 
       1.1584
-    ]
+    ], 
+    "gph": 623.8, 
+    "osn": 606.1
   }, 
   "sailnumber": "GER7235", 
   "name": "COMET", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.3, 
       "loa": 10.671, 
       "draft": 2.17, 
+      "wetted_surface": 25.2, 
       "main": 33.3, 
       "genoa": 41.5, 
       "displacement": 4811.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 693.0
     }, 
     "year": "1996"
   }, 

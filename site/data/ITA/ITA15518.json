@@ -5,12 +5,13 @@
       1.108, 
       1.264
     ], 
-    "gph": 688.1, 
     "triple_inshore": [
       0.6547, 
       0.9021, 
       1.0444
-    ]
+    ], 
+    "gph": 688.1, 
+    "osn": 667.6
   }, 
   "sailnumber": "ITA15518", 
   "name": "ACQUAZZURRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 46.5, 
       "loa": 7.73, 
       "draft": 1.7, 
+      "wetted_surface": 14.4, 
       "main": 22.2, 
       "genoa": 14.0, 
       "displacement": 1647.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "2000"
   }, 

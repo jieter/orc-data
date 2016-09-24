@@ -5,12 +5,13 @@
       1.294, 
       1.5305
     ], 
-    "gph": 598.7, 
     "triple_inshore": [
       0.6969, 
       1.0151, 
       1.2618
-    ]
+    ], 
+    "gph": 598.7, 
+    "osn": 580.8
   }, 
   "sailnumber": "ESP4571_C", 
   "name": "BARAKA MAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.757, 
       "draft": 2.56, 
+      "wetted_surface": 49.8, 
       "main": 64.2, 
       "genoa": 76.3, 
       "displacement": 14305.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 490.0
     }, 
     "year": "1991"
   }, 

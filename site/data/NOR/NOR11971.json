@@ -5,12 +5,13 @@
       1.1031, 
       1.3123
     ], 
-    "gph": 700.5, 
     "triple_inshore": [
       0.6055, 
       0.8767, 
       1.0958
-    ]
+    ], 
+    "gph": 700.5, 
+    "osn": 676.9
   }, 
   "sailnumber": "NOR11971", 
   "name": "Ariel", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.6, 
       "draft": 2.04, 
+      "wetted_surface": 33.0, 
       "main": 30.6, 
       "genoa": 43.9, 
       "displacement": 8498.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 770.0
     }, 
     "year": "1998"
   }, 

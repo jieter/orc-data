@@ -5,12 +5,13 @@
       1.2508, 
       1.4207
     ], 
-    "gph": 611.2, 
     "triple_inshore": [
       0.7369, 
       1.0188, 
       1.19
-    ]
+    ], 
+    "gph": 611.2, 
+    "osn": 592.0
   }, 
   "sailnumber": "GER7177", 
   "name": "CHENAPAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.5, 
       "loa": 10.617, 
       "draft": 2.16, 
+      "wetted_surface": 24.7, 
       "main": 35.5, 
       "genoa": 28.6, 
       "displacement": 4544.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.1757, 
       1.3696
     ], 
-    "gph": 656.0, 
     "triple_inshore": [
       0.6581, 
       0.9261, 
       1.1244
-    ]
+    ], 
+    "gph": 656.0, 
+    "osn": 635.3
   }, 
   "sailnumber": "ITA17163", 
   "name": "NONNA ANNA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.95, 
       "draft": 2.18, 
+      "wetted_surface": 32.7, 
       "main": 39.0, 
       "genoa": 43.3, 
       "displacement": 8170.0, 
-      "spinnaker_asym": 100.0
+      "spinnaker_asym": 100.0, 
+      "crew": 560.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.193, 
       1.4343
     ], 
-    "gph": 651.5, 
     "triple_inshore": [
       0.6338, 
       0.9357, 
       1.1786
-    ]
+    ], 
+    "gph": 651.5, 
+    "osn": 629.1
   }, 
   "sailnumber": "NOR11352", 
   "name": "Ventus", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.5, 
       "draft": 2.29, 
+      "wetted_surface": 43.9, 
       "main": 55.8, 
       "genoa": 48.6, 
       "displacement": 11971.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 976.0
     }, 
     "year": "1999"
   }, 

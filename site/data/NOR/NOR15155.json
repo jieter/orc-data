@@ -5,12 +5,13 @@
       1.2046, 
       1.3822
     ], 
-    "gph": 638.5, 
     "triple_inshore": [
       0.6861, 
       0.9533, 
       1.13
-    ]
+    ], 
+    "gph": 638.5, 
+    "osn": 618.9
   }, 
   "sailnumber": "NOR15155", 
   "name": "Ikaros", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.62, 
       "draft": 1.98, 
+      "wetted_surface": 32.5, 
       "main": 38.2, 
       "genoa": 35.4, 
       "displacement": 7305.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 756.0
     }, 
     "year": "2006"
   }, 

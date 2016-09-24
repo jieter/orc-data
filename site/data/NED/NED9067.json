@@ -5,12 +5,13 @@
       1.2201, 
       1.3787
     ], 
-    "gph": 624.7, 
     "triple_inshore": [
       0.7253, 
       0.9901, 
       1.155
-    ]
+    ], 
+    "gph": 624.7, 
+    "osn": 607.1
   }, 
   "sailnumber": "NED9067", 
   "name": "Hinder", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.4, 
       "loa": 10.515, 
       "draft": 2.0, 
+      "wetted_surface": 27.4, 
       "main": 40.2, 
       "genoa": 32.5, 
       "displacement": 5812.0, 
-      "spinnaker_asym": 86.0
+      "spinnaker_asym": 86.0, 
+      "crew": 661.0
     }, 
     "year": "2007"
   }, 

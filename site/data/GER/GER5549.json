@@ -5,12 +5,13 @@
       1.5321, 
       1.7318
     ], 
-    "gph": 494.8, 
     "triple_inshore": [
       0.9248, 
       1.2366, 
       1.4217
-    ]
+    ], 
+    "gph": 494.8, 
+    "osn": 482.4
   }, 
   "sailnumber": "GER5549", 
   "name": "MOANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.044, 
       "draft": 3.73, 
+      "wetted_surface": 42.5, 
       "main": 87.8, 
       "genoa": 59.4, 
       "displacement": 9704.0, 
-      "spinnaker_asym": 240.0
+      "spinnaker_asym": 240.0, 
+      "crew": 900.0
     }, 
     "year": "2004"
   }, 

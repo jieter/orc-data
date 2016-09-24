@@ -5,12 +5,13 @@
       1.2276, 
       1.4262
     ], 
-    "gph": 625.2, 
     "triple_inshore": [
       0.6999, 
       0.9785, 
       1.1888
-    ]
+    ], 
+    "gph": 625.2, 
+    "osn": 606.4
   }, 
   "sailnumber": "ESP4418_C", 
   "name": "GRIEGO", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.3, 
       "loa": 12.688, 
       "draft": 2.28, 
+      "wetted_surface": 35.0, 
       "main": 43.0, 
       "genoa": 52.0, 
       "displacement": 9058.0, 
-      "spinnaker_asym": 100.0
+      "spinnaker_asym": 100.0, 
+      "crew": 700.0
     }, 
     "year": "1993"
   }, 

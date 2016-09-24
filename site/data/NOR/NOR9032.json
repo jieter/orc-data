@@ -5,12 +5,13 @@
       1.1536, 
       1.333
     ], 
-    "gph": 663.2, 
     "triple_inshore": [
       0.6665, 
       0.9197, 
       1.1084
-    ]
+    ], 
+    "gph": 663.2, 
+    "osn": 644.4
   }, 
   "sailnumber": "NOR9032", 
   "name": "Psyke III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.02, 
       "draft": 1.85, 
+      "wetted_surface": 29.6, 
       "main": 33.6, 
       "genoa": 41.9, 
       "displacement": 7316.0, 
-      "spinnaker_asym": 85.0
+      "spinnaker_asym": 85.0, 
+      "crew": 685.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.1005, 
       1.2712
     ], 
-    "gph": 698.7, 
     "triple_inshore": [
       0.6273, 
       0.8701, 
       1.048
-    ]
+    ], 
+    "gph": 698.7, 
+    "osn": 676.7
   }, 
   "sailnumber": "NED8606c", 
   "name": "Scorpio", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.3, 
       "loa": 13.28, 
       "draft": 2.02, 
+      "wetted_surface": 32.2, 
       "main": 32.4, 
       "genoa": 49.5, 
       "displacement": 9000.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 622.0
     }, 
     "year": "1968"
   }, 

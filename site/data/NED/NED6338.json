@@ -5,12 +5,13 @@
       1.1383, 
       1.3537
     ], 
-    "gph": 680.5, 
     "triple_inshore": [
       0.6222, 
       0.8914, 
       1.1085
-    ]
+    ], 
+    "gph": 680.5, 
+    "osn": 656.8
   }, 
   "sailnumber": "NED6338", 
   "name": "WHITE MAGIC", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.8, 
       "loa": 13.09, 
       "draft": 2.12, 
+      "wetted_surface": 37.6, 
       "main": 33.4, 
       "genoa": 57.5, 
       "displacement": 10281.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1990"
   }, 

@@ -5,12 +5,13 @@
       1.1424, 
       1.2942
     ], 
-    "gph": 669.4, 
     "triple_inshore": [
       0.6713, 
       0.9307, 
       1.0817
-    ]
+    ], 
+    "gph": 669.4, 
+    "osn": 648.9
   }, 
   "sailnumber": "ESP6648_C", 
   "name": "TORTOOGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.3, 
       "loa": 8.3, 
       "draft": 2.14, 
+      "wetted_surface": 20.2, 
       "main": 28.4, 
       "genoa": 20.9, 
       "displacement": 2613.0, 
-      "spinnaker_asym": 55.0
+      "spinnaker_asym": 55.0, 
+      "crew": 300.0
     }, 
     "year": "2002"
   }, 

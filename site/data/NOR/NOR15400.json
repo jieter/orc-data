@@ -5,12 +5,13 @@
       1.296, 
       1.4723
     ], 
-    "gph": 589.1, 
     "triple_inshore": [
       0.7458, 
       1.0255, 
       1.2079
-    ]
+    ], 
+    "gph": 589.1, 
+    "osn": 576.2
   }, 
   "sailnumber": "NOR15400", 
   "name": "sortebill", 
@@ -25,10 +26,12 @@
       "spinnaker": 122.5, 
       "loa": 12.4, 
       "draft": 2.13, 
+      "wetted_surface": 38.5, 
       "main": 52.6, 
       "genoa": 38.0, 
       "displacement": 8384.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 866.0
     }, 
     "year": "2011"
   }, 

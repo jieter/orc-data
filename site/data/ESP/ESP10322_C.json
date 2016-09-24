@@ -5,12 +5,13 @@
       1.1831, 
       1.378
     ], 
-    "gph": 650.9, 
     "triple_inshore": [
       0.6639, 
       0.9355, 
       1.1286
-    ]
+    ], 
+    "gph": 650.9, 
+    "osn": 630.7
   }, 
   "sailnumber": "ESP10322_C", 
   "name": "CALA BLANCA U", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.9, 
       "loa": 11.8, 
       "draft": 1.65, 
+      "wetted_surface": 32.7, 
       "main": 33.3, 
       "genoa": 45.7, 
       "displacement": 6880.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1992"
   }, 

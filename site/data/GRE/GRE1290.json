@@ -5,12 +5,13 @@
       1.201, 
       1.3885
     ], 
-    "gph": 639.6, 
     "triple_inshore": [
       0.6862, 
       0.96, 
       1.1599
-    ]
+    ], 
+    "gph": 639.6, 
+    "osn": 619.3
   }, 
   "sailnumber": "GRE1290", 
   "name": "GIORGIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.2, 
       "loa": 11.913, 
       "draft": 2.06, 
+      "wetted_surface": 32.8, 
       "main": 40.3, 
       "genoa": 39.7, 
       "displacement": 8060.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       0.9521, 
       1.1088
     ], 
-    "gph": 805.1, 
     "triple_inshore": [
       0.5465, 
       0.7499, 
       0.9152
-    ]
+    ], 
+    "gph": 805.1, 
+    "osn": 782.3
   }, 
   "sailnumber": "NOR5747", 
   "name": "Chinook", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.9, 
       "draft": 1.57, 
+      "wetted_surface": 21.9, 
       "main": 20.6, 
       "genoa": 16.8, 
       "displacement": 4456.0, 
-      "spinnaker_asym": 46.0
+      "spinnaker_asym": 46.0, 
+      "crew": 451.0
     }, 
     "year": "1981"
   }, 

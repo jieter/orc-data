@@ -5,12 +5,13 @@
       1.2353, 
       1.4194
     ], 
-    "gph": 625.4, 
     "triple_inshore": [
       0.6921, 
       0.9812, 
       1.1593
-    ]
+    ], 
+    "gph": 625.4, 
+    "osn": 604.8
   }, 
   "sailnumber": "GER6909", 
   "name": "FLYER", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.0, 
       "draft": 2.44, 
+      "wetted_surface": 27.5, 
       "main": 41.6, 
       "genoa": 27.1, 
       "displacement": 4850.0, 
-      "spinnaker_asym": 76.0
+      "spinnaker_asym": 76.0, 
+      "crew": 400.0
     }, 
     "year": "2014"
   }, 

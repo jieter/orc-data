@@ -5,12 +5,13 @@
       1.4501, 
       1.6286
     ], 
-    "gph": 522.9, 
     "triple_inshore": [
       0.8628, 
       1.1589, 
       1.3211
-    ]
+    ], 
+    "gph": 522.9, 
+    "osn": 512.9
   }, 
   "sailnumber": "ITA16507", 
   "name": "DUENDE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.0, 
       "draft": 2.8, 
+      "wetted_surface": 41.8, 
       "main": 72.0, 
       "genoa": 60.7, 
       "displacement": 9777.0, 
-      "spinnaker_asym": 219.0
+      "spinnaker_asym": 219.0, 
+      "crew": 1038.0
     }, 
     "year": "2007"
   }, 

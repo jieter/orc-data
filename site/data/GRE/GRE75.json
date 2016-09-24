@@ -5,12 +5,13 @@
       1.2476, 
       1.388
     ], 
-    "gph": 607.1, 
     "triple_inshore": [
       0.7608, 
       1.015, 
       1.159
-    ]
+    ], 
+    "gph": 607.1, 
+    "osn": 592.8
   }, 
   "sailnumber": "GRE75", 
   "name": "EST EMAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.1, 
       "loa": 10.6, 
       "draft": 2.17, 
+      "wetted_surface": 24.4, 
       "main": 42.8, 
       "genoa": 34.1, 
       "displacement": 4479.0, 
-      "spinnaker_asym": 87.0
+      "spinnaker_asym": 87.0, 
+      "crew": 420.0
     }, 
     "year": "2005"
   }, 

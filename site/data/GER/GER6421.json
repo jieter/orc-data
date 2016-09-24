@@ -5,12 +5,13 @@
       1.1187, 
       1.2576
     ], 
-    "gph": 678.5, 
     "triple_inshore": [
       0.6713, 
       0.9068, 
       1.0357
-    ]
+    ], 
+    "gph": 678.5, 
+    "osn": 662.0
   }, 
   "sailnumber": "GER6421", 
   "name": "COYOTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.7, 
       "loa": 8.824, 
       "draft": 1.52, 
+      "wetted_surface": 15.4, 
       "main": 23.7, 
       "genoa": 23.3, 
       "displacement": 1783.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1983"
   }, 

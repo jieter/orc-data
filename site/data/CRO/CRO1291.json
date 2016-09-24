@@ -5,12 +5,13 @@
       1.3351, 
       1.5531
     ], 
-    "gph": 576.1, 
     "triple_inshore": [
       0.7492, 
       1.0549, 
       1.2781
-    ]
+    ], 
+    "gph": 576.1, 
+    "osn": 559.8
   }, 
   "sailnumber": "CRO1291", 
   "name": "Kety", 
@@ -25,10 +26,12 @@
       "spinnaker": 151.7, 
       "loa": 14.9, 
       "draft": 2.3, 
+      "wetted_surface": 46.2, 
       "main": 63.6, 
       "genoa": 67.5, 
       "displacement": 13080.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1120.0
     }, 
     "year": "2004"
   }, 

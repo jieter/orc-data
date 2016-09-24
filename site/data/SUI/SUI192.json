@@ -5,12 +5,13 @@
       1.1064, 
       1.3384
     ], 
-    "gph": 682.6, 
     "triple_inshore": [
       0.6616, 
       0.8762, 
       1.0546
-    ]
+    ], 
+    "gph": 682.6, 
+    "osn": 664.0
   }, 
   "sailnumber": "SUI192", 
   "name": "UHU", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.4, 
       "draft": 1.5, 
+      "wetted_surface": 9.6, 
       "main": 18.8, 
       "genoa": 8.4, 
       "displacement": 536.0, 
-      "spinnaker_asym": 41.0
+      "spinnaker_asym": 41.0, 
+      "crew": 263.0
     }, 
     "year": "1995"
   }, 

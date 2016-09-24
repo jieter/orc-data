@@ -5,12 +5,13 @@
       1.3681, 
       1.5594
     ], 
-    "gph": 558.4, 
     "triple_inshore": [
       0.7956, 
       1.0972, 
       1.2889
-    ]
+    ], 
+    "gph": 558.4, 
+    "osn": 544.1
   }, 
   "sailnumber": "CRO1938", 
   "name": "Santa Anastasia", 
@@ -25,10 +26,12 @@
       "spinnaker": 152.6, 
       "loa": 13.5, 
       "draft": 2.42, 
+      "wetted_surface": 37.0, 
       "main": 57.5, 
       "genoa": 60.2, 
       "displacement": 9195.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 945.0
     }, 
     "year": "2010"
   }, 

@@ -5,12 +5,13 @@
       1.2422, 
       1.4205
     ], 
-    "gph": 615.6, 
     "triple_inshore": [
       0.7257, 
       1.0046, 
       1.1988
-    ]
+    ], 
+    "gph": 615.6, 
+    "osn": 596.9
   }, 
   "sailnumber": "ITA15152", 
   "name": "BETSABEA", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.7, 
       "loa": 11.918, 
       "draft": 2.46, 
+      "wetted_surface": 32.6, 
       "main": 47.6, 
       "genoa": 41.6, 
       "displacement": 8190.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 620.0
     }, 
     "year": "2001"
   }, 

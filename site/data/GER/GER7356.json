@@ -5,12 +5,13 @@
       1.1843, 
       1.3645
     ], 
-    "gph": 648.9, 
     "triple_inshore": [
       0.6679, 
       0.9458, 
       1.142
-    ]
+    ], 
+    "gph": 648.9, 
+    "osn": 631.2
   }, 
   "sailnumber": "GER7356", 
   "name": "XARAMELLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.52, 
       "draft": 2.13, 
+      "wetted_surface": 32.2, 
       "main": 39.9, 
       "genoa": 50.8, 
       "displacement": 7969.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1991"
   }, 

@@ -5,12 +5,13 @@
       1.1392, 
       1.2827
     ], 
-    "gph": 668.7, 
     "triple_inshore": [
       0.6803, 
       0.926, 
       1.0727
-    ]
+    ], 
+    "gph": 668.7, 
+    "osn": 650.0
   }, 
   "sailnumber": "BRA2405", 
   "name": "Maestrale LogSub", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.8, 
       "loa": 9.15, 
       "draft": 1.78, 
+      "wetted_surface": 21.2, 
       "main": 29.6, 
       "genoa": 25.3, 
       "displacement": 3715.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       1.1943, 
       1.3304
     ], 
-    "gph": 633.2, 
     "triple_inshore": [
       0.7313, 
       0.9747, 
       1.1143
-    ]
+    ], 
+    "gph": 633.2, 
+    "osn": 619.2
   }, 
   "sailnumber": "NOR5274", 
   "name": "Eneri Fiber", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.7, 
       "loa": 10.0, 
       "draft": 1.87, 
+      "wetted_surface": 20.9, 
       "main": 40.7, 
       "genoa": 31.5, 
       "displacement": 3657.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 513.0
     }, 
     "year": "1984"
   }, 

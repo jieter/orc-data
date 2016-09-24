@@ -5,12 +5,13 @@
       1.2188, 
       1.3726
     ], 
-    "gph": 624.7, 
     "triple_inshore": [
       0.7279, 
       0.9833, 
       1.1316
-    ]
+    ], 
+    "gph": 624.7, 
+    "osn": 607.2
   }, 
   "sailnumber": "GER6948", 
   "name": "VOJAGX0", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 1.93, 
+      "wetted_surface": 23.9, 
       "main": 33.7, 
       "genoa": 28.1, 
       "displacement": 4484.0, 
-      "spinnaker_asym": 100.0
+      "spinnaker_asym": 100.0, 
+      "crew": 603.0
     }, 
     "year": "2013"
   }, 

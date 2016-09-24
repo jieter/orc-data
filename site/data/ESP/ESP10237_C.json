@@ -5,12 +5,13 @@
       1.1069, 
       1.2618
     ], 
-    "gph": 692.5, 
     "triple_inshore": [
       0.6449, 
       0.8955, 
       1.0603
-    ]
+    ], 
+    "gph": 692.5, 
+    "osn": 670.0
   }, 
   "sailnumber": "ESP10237_C", 
   "name": "ALBARELLOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.5, 
       "loa": 9.5, 
       "draft": 2.0, 
+      "wetted_surface": 21.2, 
       "main": 24.9, 
       "genoa": 25.5, 
       "displacement": 3973.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "2006"
   }, 

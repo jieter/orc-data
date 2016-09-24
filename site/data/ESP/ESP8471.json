@@ -5,12 +5,13 @@
       1.2452, 
       1.394
     ], 
-    "gph": 610.5, 
     "triple_inshore": [
       0.7487, 
       1.0141, 
       1.1649
-    ]
+    ], 
+    "gph": 610.5, 
+    "osn": 595.1
   }, 
   "sailnumber": "ESP8471", 
   "name": "DIESELREC", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.3, 
       "loa": 10.6, 
       "draft": 2.19, 
+      "wetted_surface": 24.8, 
       "main": 42.1, 
       "genoa": 32.2, 
       "displacement": 4700.0, 
-      "spinnaker_asym": 80.0
+      "spinnaker_asym": 80.0, 
+      "crew": 635.0
     }, 
     "year": "2005"
   }, 

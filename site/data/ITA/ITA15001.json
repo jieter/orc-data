@@ -5,12 +5,13 @@
       1.4068, 
       1.604
     ], 
-    "gph": 544.5, 
     "triple_inshore": [
       0.8135, 
       1.1284, 
       1.3319
-    ]
+    ], 
+    "gph": 544.5, 
+    "osn": 529.1
   }, 
   "sailnumber": "ITA15001", 
   "name": "ARS UNA", 
@@ -25,10 +26,12 @@
       "spinnaker": 181.9, 
       "loa": 14.794, 
       "draft": 2.79, 
+      "wetted_surface": 44.5, 
       "main": 70.0, 
       "genoa": 60.7, 
       "displacement": 11440.0, 
-      "spinnaker_asym": 183.0
+      "spinnaker_asym": 183.0, 
+      "crew": 1060.0
     }, 
     "year": "2002"
   }, 

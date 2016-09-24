@@ -5,12 +5,13 @@
       1.2122, 
       1.4031
     ], 
-    "gph": 634.1, 
     "triple_inshore": [
       0.6879, 
       0.9649, 
       1.1659
-    ]
+    ], 
+    "gph": 634.1, 
+    "osn": 614.6
   }, 
   "sailnumber": "ESP7467_C", 
   "name": "CALA IRIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.06, 
       "draft": 2.06, 
+      "wetted_surface": 31.7, 
       "main": 40.8, 
       "genoa": 40.0, 
       "displacement": 7672.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 560.0
     }, 
     "year": "2002"
   }, 

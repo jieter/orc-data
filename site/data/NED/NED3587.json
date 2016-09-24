@@ -5,12 +5,13 @@
       1.0972, 
       1.2302
     ], 
-    "gph": 693.6, 
     "triple_inshore": [
       0.6574, 
       0.8875, 
       1.0287
-    ]
+    ], 
+    "gph": 693.6, 
+    "osn": 675.9
   }, 
   "sailnumber": "NED3587", 
   "name": "ZIGGY", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.1, 
       "loa": 9.868, 
       "draft": 1.79, 
+      "wetted_surface": 20.7, 
       "main": 28.2, 
       "genoa": 32.3, 
       "displacement": 4297.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 543.0
     }, 
     "year": "1978"
   }, 

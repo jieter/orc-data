@@ -5,12 +5,13 @@
       1.1478, 
       1.324
     ], 
-    "gph": 669.0, 
     "triple_inshore": [
       0.6561, 
       0.9139, 
       1.0951
-    ]
+    ], 
+    "gph": 669.0, 
+    "osn": 648.7
   }, 
   "sailnumber": "NOR15097", 
   "name": "Maren", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.96, 
       "draft": 1.56, 
+      "wetted_surface": 26.1, 
       "main": 28.6, 
       "genoa": 33.1, 
       "displacement": 5681.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 680.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.1076, 
       1.2625
     ], 
-    "gph": 691.3, 
     "triple_inshore": [
       0.6468, 
       0.8928, 
       1.057
-    ]
+    ], 
+    "gph": 691.3, 
+    "osn": 670.0
   }, 
   "sailnumber": "GRE1318", 
   "name": "IRIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.0, 
       "loa": 10.045, 
       "draft": 1.81, 
+      "wetted_surface": 24.5, 
       "main": 24.2, 
       "genoa": 33.4, 
       "displacement": 4884.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1986"
   }, 

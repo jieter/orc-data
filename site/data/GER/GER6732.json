@@ -5,12 +5,13 @@
       1.105, 
       1.2688
     ], 
-    "gph": 696.0, 
     "triple_inshore": [
       0.6317, 
       0.8856, 
       1.0599
-    ]
+    ], 
+    "gph": 696.0, 
+    "osn": 673.2
   }, 
   "sailnumber": "GER6732", 
   "name": "MALAGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.2, 
       "loa": 9.4, 
       "draft": 1.75, 
+      "wetted_surface": 23.4, 
       "main": 27.4, 
       "genoa": 20.9, 
       "displacement": 4448.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 385.0
     }, 
     "year": "2010"
   }, 

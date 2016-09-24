@@ -5,12 +5,13 @@
       1.3091, 
       1.4783
     ], 
-    "gph": 582.1, 
     "triple_inshore": [
       0.7783, 
       1.059, 
       1.2152
-    ]
+    ], 
+    "gph": 582.1, 
+    "osn": 565.6
   }, 
   "sailnumber": "SUI2193", 
   "name": "Lallekonig", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.085, 
       "draft": 2.23, 
+      "wetted_surface": 26.6, 
       "main": 38.9, 
       "genoa": 33.9, 
       "displacement": 4678.0, 
-      "spinnaker_asym": 130.0
+      "spinnaker_asym": 130.0, 
+      "crew": 680.0
     }, 
     "year": "2011"
   }, 

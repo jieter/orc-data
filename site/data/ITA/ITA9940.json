@@ -5,12 +5,13 @@
       1.1829, 
       1.3442
     ], 
-    "gph": 646.5, 
     "triple_inshore": [
       0.6933, 
       0.9536, 
       1.1251
-    ]
+    ], 
+    "gph": 646.5, 
+    "osn": 626.9
   }, 
   "sailnumber": "ITA9940", 
   "name": "DARIO 4", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.1, 
       "loa": 11.703, 
       "draft": 2.1, 
+      "wetted_surface": 28.3, 
       "main": 36.9, 
       "genoa": 34.0, 
       "displacement": 6615.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "1983"
   }, 

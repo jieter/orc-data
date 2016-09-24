@@ -5,12 +5,13 @@
       1.138, 
       1.2645
     ], 
-    "gph": 675.1, 
     "triple_inshore": [
       0.658, 
       0.8981, 
       1.0348
-    ]
+    ], 
+    "gph": 675.1, 
+    "osn": 657.1
   }, 
   "sailnumber": "NOR10727", 
   "name": "HIPPO", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.0, 
       "loa": 11.83, 
       "draft": 2.04, 
+      "wetted_surface": 33.0, 
       "main": 40.7, 
       "genoa": 41.4, 
       "displacement": 8500.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 770.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       1.2018, 
       1.354
     ], 
-    "gph": 633.8, 
     "triple_inshore": [
       0.7125, 
       0.9725, 
       1.1349
-    ]
+    ], 
+    "gph": 633.8, 
+    "osn": 618.1
   }, 
   "sailnumber": "NED4262", 
   "name": "ANDROMEDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.2, 
       "loa": 10.986, 
       "draft": 1.88, 
+      "wetted_surface": 27.0, 
       "main": 43.4, 
       "genoa": 40.6, 
       "displacement": 5733.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 616.0
     }, 
     "year": "1989"
   }, 

@@ -5,12 +5,13 @@
       1.0513, 
       1.2222
     ], 
-    "gph": 733.4, 
     "triple_inshore": [
       0.5871, 
       0.8398, 
       1.0201
-    ]
+    ], 
+    "gph": 733.4, 
+    "osn": 709.9
   }, 
   "sailnumber": "ESP9786_C", 
   "name": "JOTA JOTA DOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.62, 
       "draft": 1.72, 
+      "wetted_surface": 22.2, 
       "main": 22.3, 
       "genoa": 32.4, 
       "displacement": 4306.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1996"
   }, 

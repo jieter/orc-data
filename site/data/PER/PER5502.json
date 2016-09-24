@@ -5,12 +5,13 @@
       1.3715, 
       1.5834
     ], 
-    "gph": 561.0, 
     "triple_inshore": [
       0.7766, 
       1.0822, 
       1.2913
-    ]
+    ], 
+    "gph": 561.0, 
+    "osn": 544.4
   }, 
   "sailnumber": "PER5502", 
   "name": "AUSTROS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.99, 
       "draft": 2.2, 
+      "wetted_surface": 53.0, 
       "main": 69.6, 
       "genoa": 70.6, 
       "displacement": 16880.0, 
-      "spinnaker_asym": 213.0
+      "spinnaker_asym": 213.0, 
+      "crew": 1108.0
     }, 
     "year": "2014"
   }, 

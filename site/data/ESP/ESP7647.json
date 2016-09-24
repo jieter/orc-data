@@ -5,12 +5,13 @@
       1.2402, 
       1.4094
     ], 
-    "gph": 617.5, 
     "triple_inshore": [
       0.7183, 
       0.99, 
       1.1629
-    ]
+    ], 
+    "gph": 617.5, 
+    "osn": 600.3
   }, 
   "sailnumber": "ESP7647", 
   "name": "EMERGENCIES SETMIL", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.9, 
       "loa": 12.06, 
       "draft": 2.06, 
+      "wetted_surface": 31.1, 
       "main": 47.8, 
       "genoa": 35.4, 
       "displacement": 6993.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2002"
   }, 

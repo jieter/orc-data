@@ -5,12 +5,13 @@
       1.2231, 
       1.3975
     ], 
-    "gph": 623.9, 
     "triple_inshore": [
       0.7188, 
       0.9912, 
       1.1548
-    ]
+    ], 
+    "gph": 623.9, 
+    "osn": 605.7
   }, 
   "sailnumber": "ESP9357", 
   "name": "SHANGRI-LA", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.4, 
       "loa": 9.55, 
       "draft": 2.09, 
+      "wetted_surface": 20.9, 
       "main": 32.1, 
       "genoa": 21.5, 
       "displacement": 2921.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 450.0
     }, 
     "year": "2000"
   }, 

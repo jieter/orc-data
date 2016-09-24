@@ -5,12 +5,13 @@
       1.1207, 
       1.242
     ], 
-    "gph": 674.5, 
     "triple_inshore": [
       0.6912, 
       0.9102, 
       1.0397
-    ]
+    ], 
+    "gph": 674.5, 
+    "osn": 660.1
   }, 
   "sailnumber": "NOR6169", 
   "name": "S/Y Camilla", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.1, 
       "loa": 10.425, 
       "draft": 1.78, 
+      "wetted_surface": 23.1, 
       "main": 28.9, 
       "genoa": 47.7, 
       "displacement": 5722.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "1978"
   }, 

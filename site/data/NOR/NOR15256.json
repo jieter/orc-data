@@ -5,12 +5,13 @@
       1.2221, 
       1.388
     ], 
-    "gph": 624.1, 
     "triple_inshore": [
       0.7075, 
       0.9662, 
       1.1406
-    ]
+    ], 
+    "gph": 624.1, 
+    "osn": 610.8
   }, 
   "sailnumber": "NOR15256", 
   "name": "Goodtimes", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.25, 
       "draft": 2.02, 
+      "wetted_surface": 32.3, 
       "main": 44.0, 
       "genoa": 28.7, 
       "displacement": 7421.0, 
-      "spinnaker_asym": 87.0
+      "spinnaker_asym": 87.0, 
+      "crew": 755.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.0887, 
       1.2299
     ], 
-    "gph": 691.1, 
     "triple_inshore": [
       0.6839, 
       0.8797, 
       1.0028
-    ]
+    ], 
+    "gph": 691.1, 
+    "osn": 675.5
   }, 
   "sailnumber": "FRA9310", 
   "name": "ROC NERE IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.526, 
       "draft": 1.98, 
+      "wetted_surface": 12.5, 
       "main": 18.8, 
       "genoa": 13.6, 
       "displacement": 972.0, 
-      "spinnaker_asym": 45.0
+      "spinnaker_asym": 45.0, 
+      "crew": 250.0
     }, 
     "year": "2010"
   }, 

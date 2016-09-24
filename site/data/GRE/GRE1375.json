@@ -5,12 +5,13 @@
       0.9559, 
       1.1296
     ], 
-    "gph": 809.2, 
     "triple_inshore": [
       0.5286, 
       0.7609, 
       0.9369
-    ]
+    ], 
+    "gph": 809.2, 
+    "osn": 779.2
   }, 
   "sailnumber": "GRE1375", 
   "name": "ZANIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.187, 
       "draft": 1.42, 
+      "wetted_surface": 21.6, 
       "main": 18.8, 
       "genoa": 23.6, 
       "displacement": 4342.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1988"
   }, 

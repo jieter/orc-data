@@ -5,12 +5,13 @@
       1.2971, 
       1.4482
     ], 
-    "gph": 585.0, 
     "triple_inshore": [
       0.7825, 
       1.047, 
       1.1953
-    ]
+    ], 
+    "gph": 585.0, 
+    "osn": 570.9
   }, 
   "sailnumber": "ESP4158", 
   "name": "STRIPPTEASE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.058, 
       "draft": 2.31, 
+      "wetted_surface": 28.3, 
       "main": 49.0, 
       "genoa": 45.4, 
       "displacement": 5892.0, 
-      "spinnaker_asym": 138.0
+      "spinnaker_asym": 138.0, 
+      "crew": 650.0
     }, 
     "year": "1992"
   }, 

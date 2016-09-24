@@ -5,12 +5,13 @@
       1.2162, 
       1.3663
     ], 
-    "gph": 626.1, 
     "triple_inshore": [
       0.7246, 
       0.9871, 
       1.1449
-    ]
+    ], 
+    "gph": 626.1, 
+    "osn": 609.6
   }, 
   "sailnumber": "NOR10180", 
   "name": "LUCKY LADY II", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.4, 
       "loa": 10.64, 
       "draft": 2.22, 
+      "wetted_surface": 26.5, 
       "main": 39.4, 
       "genoa": 42.7, 
       "displacement": 5485.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 670.0
     }, 
     "year": "1999"
   }, 

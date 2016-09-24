@@ -5,12 +5,13 @@
       1.2547, 
       1.4631
     ], 
-    "gph": 608.6, 
     "triple_inshore": [
       0.7341, 
       1.0073, 
       1.173
-    ]
+    ], 
+    "gph": 608.6, 
+    "osn": 588.9
   }, 
   "sailnumber": "FRA43744", 
   "name": "JULEY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.14, 
       "draft": 2.47, 
+      "wetted_surface": 22.2, 
       "main": 33.1, 
       "genoa": 27.7, 
       "displacement": 2612.0, 
-      "spinnaker_asym": 69.0
+      "spinnaker_asym": 69.0, 
+      "crew": 595.0
     }, 
     "year": "2013"
   }, 

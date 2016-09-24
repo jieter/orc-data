@@ -5,12 +5,13 @@
       1.1452, 
       1.288
     ], 
-    "gph": 664.1, 
     "triple_inshore": [
       0.6853, 
       0.9265, 
       1.082
-    ]
+    ], 
+    "gph": 664.1, 
+    "osn": 647.7
   }, 
   "sailnumber": "ITA1236", 
   "name": "ITALIA ONE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.8, 
       "draft": 1.95, 
+      "wetted_surface": 27.6, 
       "main": 32.7, 
       "genoa": 50.6, 
       "displacement": 6562.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 542.0
     }, 
     "year": "1980"
   }, 

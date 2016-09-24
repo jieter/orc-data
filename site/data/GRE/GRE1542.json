@@ -5,12 +5,13 @@
       1.1776, 
       1.4163
     ], 
-    "gph": 659.7, 
     "triple_inshore": [
       0.6312, 
       0.9125, 
       1.1348
-    ]
+    ], 
+    "gph": 659.7, 
+    "osn": 636.9
   }, 
   "sailnumber": "GRE1542", 
   "name": "VENUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.9, 
       "draft": 1.95, 
+      "wetted_surface": 50.9, 
       "main": 40.9, 
       "genoa": 65.2, 
       "displacement": 15700.0, 
-      "spinnaker_asym": 120.0
+      "spinnaker_asym": 120.0, 
+      "crew": 800.0
     }, 
     "year": "1999"
   }, 

@@ -5,12 +5,13 @@
       1.21, 
       1.3721
     ], 
-    "gph": 632.2, 
     "triple_inshore": [
       0.7087, 
       0.9734, 
       1.1292
-    ]
+    ], 
+    "gph": 632.2, 
+    "osn": 612.7
   }, 
   "sailnumber": "NED7023", 
   "name": "DREAM MACHINE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.57, 
       "draft": 2.02, 
+      "wetted_surface": 25.3, 
       "main": 34.3, 
       "genoa": 25.7, 
       "displacement": 4190.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 510.0
     }, 
     "year": "1992"
   }, 

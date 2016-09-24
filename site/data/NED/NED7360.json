@@ -5,12 +5,13 @@
       1.1954, 
       1.3539
     ], 
-    "gph": 638.3, 
     "triple_inshore": [
       0.7037, 
       0.9629, 
       1.1337
-    ]
+    ], 
+    "gph": 638.3, 
+    "osn": 621.2
   }, 
   "sailnumber": "NED7360", 
   "name": "CAPTAIN PEACOCK", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.1, 
       "loa": 11.552, 
       "draft": 2.04, 
+      "wetted_surface": 28.8, 
       "main": 44.2, 
       "genoa": 38.0, 
       "displacement": 6813.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 720.0
     }, 
     "year": "1987"
   }, 

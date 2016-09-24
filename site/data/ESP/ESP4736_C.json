@@ -5,12 +5,13 @@
       1.2292, 
       1.4075
     ], 
-    "gph": 621.7, 
     "triple_inshore": [
       0.7181, 
       0.9923, 
       1.1864
-    ]
+    ], 
+    "gph": 621.7, 
+    "osn": 603.3
   }, 
   "sailnumber": "ESP4736_C", 
   "name": "ASCATA III", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.6, 
       "loa": 12.124, 
       "draft": 2.31, 
+      "wetted_surface": 32.5, 
       "main": 46.0, 
       "genoa": 41.0, 
       "displacement": 8167.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1990"
   }, 

@@ -5,12 +5,13 @@
       1.2762, 
       1.4422
     ], 
-    "gph": 597.9, 
     "triple_inshore": [
       0.7517, 
       1.0305, 
       1.204
-    ]
+    ], 
+    "gph": 597.9, 
+    "osn": 581.9
   }, 
   "sailnumber": "NOR11102", 
   "name": "Mamma Mia", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.6, 
       "loa": 11.99, 
       "draft": 2.41, 
+      "wetted_surface": 31.1, 
       "main": 46.9, 
       "genoa": 50.5, 
       "displacement": 6983.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 732.0
     }, 
     "year": "1997"
   }, 

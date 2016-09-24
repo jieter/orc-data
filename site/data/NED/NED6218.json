@@ -5,12 +5,13 @@
       1.1229, 
       1.2674
     ], 
-    "gph": 675.8, 
     "triple_inshore": [
       0.679, 
       0.8987, 
       1.0543
-    ]
+    ], 
+    "gph": 675.8, 
+    "osn": 659.4
   }, 
   "sailnumber": "NED6218", 
   "name": "NINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.54, 
       "draft": 1.9, 
+      "wetted_surface": 26.2, 
       "main": 29.7, 
       "genoa": 43.7, 
       "displacement": 7523.0, 
-      "spinnaker_asym": 90.0
+      "spinnaker_asym": 90.0, 
+      "crew": 597.0
     }, 
     "year": "1975"
   }, 

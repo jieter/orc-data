@@ -5,12 +5,13 @@
       1.169, 
       1.3244
     ], 
-    "gph": 653.8, 
     "triple_inshore": [
       0.6847, 
       0.941, 
       1.1058
-    ]
+    ], 
+    "gph": 653.8, 
+    "osn": 635.6
   }, 
   "sailnumber": "NOR4236", 
   "name": "Dalarina", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.8, 
       "loa": 11.1, 
       "draft": 2.04, 
+      "wetted_surface": 23.6, 
       "main": 35.9, 
       "genoa": 24.0, 
       "displacement": 5107.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 566.0
     }, 
     "year": "1980"
   }, 

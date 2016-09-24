@@ -5,12 +5,13 @@
       1.2143, 
       1.3846
     ], 
-    "gph": 629.5, 
     "triple_inshore": [
       0.7118, 
       0.983, 
       1.1518
-    ]
+    ], 
+    "gph": 629.5, 
+    "osn": 610.2
   }, 
   "sailnumber": "NED5247", 
   "name": "Jemma", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.7, 
       "loa": 10.57, 
       "draft": 2.01, 
+      "wetted_surface": 25.1, 
       "main": 34.0, 
       "genoa": 24.4, 
       "displacement": 4033.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 400.0
     }, 
     "year": "1993"
   }, 

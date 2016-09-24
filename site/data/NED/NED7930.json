@@ -5,12 +5,13 @@
       1.2439, 
       1.3916
     ], 
-    "gph": 611.1, 
     "triple_inshore": [
       0.7484, 
       1.013, 
       1.1634
-    ]
+    ], 
+    "gph": 611.1, 
+    "osn": 595.6
   }, 
   "sailnumber": "NED7930", 
   "name": "SIXpack", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.3, 
       "loa": 10.6, 
       "draft": 2.19, 
+      "wetted_surface": 24.8, 
       "main": 42.2, 
       "genoa": 31.8, 
       "displacement": 4705.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 620.0
     }, 
     "year": "2005"
   }, 

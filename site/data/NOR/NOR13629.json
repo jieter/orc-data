@@ -5,12 +5,13 @@
       1.2515, 
       1.4343
     ], 
-    "gph": 615.0, 
     "triple_inshore": [
       0.711, 
       0.9906, 
       1.1678
-    ]
+    ], 
+    "gph": 615.0, 
+    "osn": 596.0
   }, 
   "sailnumber": "NOR13629", 
   "name": "Cortana", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.85, 
       "draft": 2.1, 
+      "wetted_surface": 37.5, 
       "main": 41.3, 
       "genoa": 47.8, 
       "displacement": 8569.0, 
-      "spinnaker_asym": 113.0
+      "spinnaker_asym": 113.0, 
+      "crew": 868.0
     }, 
     "year": "2007"
   }, 

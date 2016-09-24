@@ -5,12 +5,13 @@
       1.2663, 
       1.4394
     ], 
-    "gph": 604.4, 
     "triple_inshore": [
       0.7383, 
       1.0214, 
       1.2128
-    ]
+    ], 
+    "gph": 604.4, 
+    "osn": 586.1
   }, 
   "sailnumber": "NED8509", 
   "name": "CATHARINE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.82, 
       "draft": 2.56, 
+      "wetted_surface": 34.3, 
       "main": 47.5, 
       "genoa": 36.7, 
       "displacement": 8508.0, 
-      "spinnaker_asym": 123.0
+      "spinnaker_asym": 123.0, 
+      "crew": 794.0
     }, 
     "year": "2010"
   }, 

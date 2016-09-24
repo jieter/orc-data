@@ -5,12 +5,13 @@
       1.2608, 
       1.4241
     ], 
-    "gph": 605.1, 
     "triple_inshore": [
       0.7424, 
       1.0112, 
       1.1852
-    ]
+    ], 
+    "gph": 605.1, 
+    "osn": 589.4
   }, 
   "sailnumber": "ITA14544", 
   "name": "FANTASIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 128.6, 
       "loa": 12.895, 
       "draft": 2.13, 
+      "wetted_surface": 34.3, 
       "main": 45.9, 
       "genoa": 59.2, 
       "displacement": 8710.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 660.0
     }, 
     "year": "1998"
   }, 

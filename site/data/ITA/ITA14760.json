@@ -5,12 +5,13 @@
       1.1325, 
       1.2967
     ], 
-    "gph": 677.3, 
     "triple_inshore": [
       0.6543, 
       0.9143, 
       1.081
-    ]
+    ], 
+    "gph": 677.3, 
+    "osn": 655.3
   }, 
   "sailnumber": "ITA14760", 
   "name": "MARLIN BLU 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.0, 
       "loa": 9.5, 
       "draft": 1.91, 
+      "wetted_surface": 21.7, 
       "main": 24.7, 
       "genoa": 27.4, 
       "displacement": 3625.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 490.0
     }, 
     "year": "1998"
   }, 

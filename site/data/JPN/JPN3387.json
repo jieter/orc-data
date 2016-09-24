@@ -5,12 +5,13 @@
       1.2068, 
       1.3575
     ], 
-    "gph": 626.4, 
     "triple_inshore": [
       0.7391, 
       0.9892, 
       1.1354
-    ]
+    ], 
+    "gph": 626.4, 
+    "osn": 611.2
   }, 
   "sailnumber": "JPN3387", 
   "name": "BASIC", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.5, 
       "loa": 9.5, 
       "draft": 2.0, 
+      "wetted_surface": 19.6, 
       "main": 35.2, 
       "genoa": 30.3, 
       "displacement": 3167.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 542.0
     }, 
     "year": "1999"
   }, 

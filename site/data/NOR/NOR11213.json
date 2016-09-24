@@ -5,12 +5,13 @@
       1.2078, 
       1.3625
     ], 
-    "gph": 630.8, 
     "triple_inshore": [
       0.7165, 
       0.9733, 
       1.1405
-    ]
+    ], 
+    "gph": 630.8, 
+    "osn": 614.3
   }, 
   "sailnumber": "NOR11213", 
   "name": "Xanthippe III", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.7, 
       "loa": 11.25, 
       "draft": 1.95, 
+      "wetted_surface": 30.2, 
       "main": 40.4, 
       "genoa": 48.1, 
       "displacement": 7473.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 715.0
     }, 
     "year": "1999"
   }, 

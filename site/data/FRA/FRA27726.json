@@ -5,12 +5,13 @@
       1.2608, 
       1.4304
     ], 
-    "gph": 605.1, 
     "triple_inshore": [
       0.7465, 
       1.0244, 
       1.1886
-    ]
+    ], 
+    "gph": 605.1, 
+    "osn": 587.4
   }, 
   "sailnumber": "FRA27726", 
   "name": "HAPPY HOURS", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.8, 
       "loa": 10.617, 
       "draft": 2.15, 
+      "wetted_surface": 24.3, 
       "main": 37.4, 
       "genoa": 30.7, 
       "displacement": 4331.0, 
-      "spinnaker_asym": 77.0
+      "spinnaker_asym": 77.0, 
+      "crew": 560.0
     }, 
     "year": "2005"
   }, 

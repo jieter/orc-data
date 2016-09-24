@@ -5,12 +5,13 @@
       1.1598, 
       1.3518
     ], 
-    "gph": 663.7, 
     "triple_inshore": [
       0.6567, 
       0.9169, 
       1.113
-    ]
+    ], 
+    "gph": 663.7, 
+    "osn": 642.7
   }, 
   "sailnumber": "NOR15007", 
   "name": "Felizia", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.75, 
       "draft": 1.99, 
+      "wetted_surface": 34.4, 
       "main": 31.5, 
       "genoa": 41.3, 
       "displacement": 7992.0, 
-      "spinnaker_asym": 92.0
+      "spinnaker_asym": 92.0, 
+      "crew": 746.0
     }, 
     "year": "1999"
   }, 

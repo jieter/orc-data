@@ -5,12 +5,13 @@
       1.0222, 
       1.1425
     ], 
-    "gph": 743.5, 
     "triple_inshore": [
       0.6139, 
       0.8286, 
       0.9478
-    ]
+    ], 
+    "gph": 743.5, 
+    "osn": 724.9
   }, 
   "sailnumber": "NED8544", 
   "name": "Bellini", 
@@ -25,10 +26,12 @@
       "spinnaker": 40.0, 
       "loa": 8.001, 
       "draft": 1.24, 
+      "wetted_surface": 12.7, 
       "main": 18.9, 
       "genoa": 13.0, 
       "displacement": 1838.0, 
-      "spinnaker_asym": 36.0
+      "spinnaker_asym": 36.0, 
+      "crew": 250.0
     }, 
     "year": "2008"
   }, 

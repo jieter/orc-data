@@ -5,12 +5,13 @@
       1.2987, 
       1.5067
     ], 
-    "gph": 590.8, 
     "triple_inshore": [
       0.7367, 
       1.0254, 
       1.2324
-    ]
+    ], 
+    "gph": 590.8, 
+    "osn": 574.3
   }, 
   "sailnumber": "GRE1752", 
   "name": "NIKEA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.99, 
       "draft": 1.83, 
+      "wetted_surface": 41.0, 
       "main": 48.0, 
       "genoa": 66.6, 
       "displacement": 10498.0, 
-      "spinnaker_asym": 145.0
+      "spinnaker_asym": 145.0, 
+      "crew": 850.0
     }, 
     "year": "2004"
   }, 

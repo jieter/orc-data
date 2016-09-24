@@ -5,12 +5,13 @@
       1.2054, 
       1.3617
     ], 
-    "gph": 632.4, 
     "triple_inshore": [
       0.7225, 
       0.9838, 
       1.1566
-    ]
+    ], 
+    "gph": 632.4, 
+    "osn": 612.7
   }, 
   "sailnumber": "NOR4058", 
   "name": "Sula Bassana", 
@@ -25,10 +26,12 @@
       "spinnaker": 112.7, 
       "loa": 11.8, 
       "draft": 2.27, 
+      "wetted_surface": 30.9, 
       "main": 34.9, 
       "genoa": 45.8, 
       "displacement": 8200.0, 
-      "spinnaker_asym": 100.0
+      "spinnaker_asym": 100.0, 
+      "crew": 673.0
     }, 
     "year": "1983"
   }, 

@@ -5,12 +5,13 @@
       0.9343, 
       1.1088
     ], 
-    "gph": 824.2, 
     "triple_inshore": [
       0.5267, 
       0.7506, 
       0.9321
-    ]
+    ], 
+    "gph": 824.2, 
+    "osn": 794.0
   }, 
   "sailnumber": "ESP10287_C", 
   "name": "ISABELLA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.586, 
       "draft": 1.7, 
+      "wetted_surface": 17.6, 
       "main": 15.8, 
       "genoa": 21.8, 
       "displacement": 3118.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 380.0
     }, 
     "year": "1979"
   }, 

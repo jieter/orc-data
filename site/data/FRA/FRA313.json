@@ -5,12 +5,13 @@
       1.1062, 
       1.2575
     ], 
-    "gph": 687.3, 
     "triple_inshore": [
       0.6629, 
       0.9072, 
       1.0433
-    ]
+    ], 
+    "gph": 687.3, 
+    "osn": 666.4
   }, 
   "sailnumber": "FRA313", 
   "name": "TOSTAKI", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.7, 
       "loa": 7.78, 
       "draft": 1.83, 
+      "wetted_surface": 13.9, 
       "main": 21.2, 
       "genoa": 13.9, 
       "displacement": 1449.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1982"
   }, 

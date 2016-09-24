@@ -5,12 +5,13 @@
       1.0922, 
       1.2375
     ], 
-    "gph": 698.5, 
     "triple_inshore": [
       0.6482, 
       0.8788, 
       1.0394
-    ]
+    ], 
+    "gph": 698.5, 
+    "osn": 678.3
   }, 
   "sailnumber": "NOR10137", 
   "name": "Lady N", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.3, 
       "loa": 9.98, 
       "draft": 1.81, 
+      "wetted_surface": 27.0, 
       "main": 28.1, 
       "genoa": 35.5, 
       "displacement": 7330.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 595.0
     }, 
     "year": "1997"
   }, 

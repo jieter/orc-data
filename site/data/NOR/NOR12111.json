@@ -5,12 +5,13 @@
       1.2438, 
       1.4166
     ], 
-    "gph": 615.5, 
     "triple_inshore": [
       0.7201, 
       0.9967, 
       1.1819
-    ]
+    ], 
+    "gph": 615.5, 
+    "osn": 598.3
   }, 
   "sailnumber": "NOR12111", 
   "name": "Cebina", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.1, 
       "loa": 11.99, 
       "draft": 2.18, 
+      "wetted_surface": 32.5, 
       "main": 44.6, 
       "genoa": 50.9, 
       "displacement": 7852.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 807.0
     }, 
     "year": "2001"
   }, 

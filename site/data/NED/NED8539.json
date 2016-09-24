@@ -5,12 +5,13 @@
       1.1444, 
       1.2965
     ], 
-    "gph": 664.4, 
     "triple_inshore": [
       0.6871, 
       0.9361, 
       1.0698
-    ]
+    ], 
+    "gph": 664.4, 
+    "osn": 645.2
   }, 
   "sailnumber": "NED8539", 
   "name": "Deep", 
@@ -25,10 +26,12 @@
       "spinnaker": 48.5, 
       "loa": 7.92, 
       "draft": 1.7, 
+      "wetted_surface": 14.7, 
       "main": 23.3, 
       "genoa": 14.3, 
       "displacement": 1655.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 345.0
     }, 
     "year": "2010"
   }, 

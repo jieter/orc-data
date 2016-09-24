@@ -5,12 +5,13 @@
       1.1256, 
       1.2959
     ], 
-    "gph": 682.2, 
     "triple_inshore": [
       0.646, 
       0.9069, 
       1.0823
-    ]
+    ], 
+    "gph": 682.2, 
+    "osn": 660.1
   }, 
   "sailnumber": "ITA13620", 
   "name": "LUNA", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.0, 
       "loa": 9.5, 
       "draft": 1.92, 
+      "wetted_surface": 22.2, 
       "main": 24.2, 
       "genoa": 25.4, 
       "displacement": 3871.0, 
-      "spinnaker_asym": 67.0
+      "spinnaker_asym": 67.0, 
+      "crew": 584.0
     }, 
     "year": "1998"
   }, 

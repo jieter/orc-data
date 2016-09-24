@@ -5,12 +5,13 @@
       1.1727, 
       1.3207
     ], 
-    "gph": 649.8, 
     "triple_inshore": [
       0.6875, 
       0.9455, 
       1.1039
-    ]
+    ], 
+    "gph": 649.8, 
+    "osn": 634.1
   }, 
   "sailnumber": "NOR9801", 
   "name": "Trigger", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.5, 
       "loa": 10.45, 
       "draft": 1.91, 
+      "wetted_surface": 24.0, 
       "main": 33.5, 
       "genoa": 32.7, 
       "displacement": 4928.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 614.0
     }, 
     "year": "1998"
   }, 

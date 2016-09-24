@@ -5,12 +5,13 @@
       1.2642, 
       1.4178
     ], 
-    "gph": 593.6, 
     "triple_inshore": [
       0.776, 
       1.0211, 
       1.1802
-    ]
+    ], 
+    "gph": 593.6, 
+    "osn": 584.0
   }, 
   "sailnumber": "ITA16978", 
   "name": "STREGA ROSSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 2.35, 
+      "wetted_surface": 21.8, 
       "main": 38.0, 
       "genoa": 33.7, 
       "displacement": 3279.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 200.0
     }, 
     "year": "1997"
   }, 

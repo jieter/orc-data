@@ -5,12 +5,13 @@
       1.1775, 
       1.3842
     ], 
-    "gph": 656.6, 
     "triple_inshore": [
       0.6477, 
       0.9357, 
       1.1486
-    ]
+    ], 
+    "gph": 656.6, 
+    "osn": 635.3
   }, 
   "sailnumber": "NOR14740", 
   "name": "Danica", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 1.96, 
+      "wetted_surface": 35.0, 
       "main": 49.8, 
       "genoa": 31.5, 
       "displacement": 8023.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 784.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       0.9418, 
       1.0851
     ], 
-    "gph": 811.2, 
     "triple_inshore": [
       0.5478, 
       0.7592, 
       0.91
-    ]
+    ], 
+    "gph": 811.2, 
+    "osn": 787.8
   }, 
   "sailnumber": "NED8358", 
   "name": "Anoniem", 
@@ -25,10 +26,12 @@
       "spinnaker": 30.2, 
       "loa": 7.224, 
       "draft": 1.49, 
+      "wetted_surface": 12.2, 
       "main": 10.9, 
       "genoa": 15.1, 
       "displacement": 1622.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 313.0
     }, 
     "year": "1970"
   }, 

@@ -5,12 +5,13 @@
       1.3634, 
       1.5635
     ], 
-    "gph": 563.3, 
     "triple_inshore": [
       0.7746, 
       1.0795, 
       1.29
-    ]
+    ], 
+    "gph": 563.3, 
+    "osn": 547.9
   }, 
   "sailnumber": "NED5097", 
   "name": "EXIT", 
@@ -25,10 +26,12 @@
       "spinnaker": 158.8, 
       "loa": 15.757, 
       "draft": 2.55, 
+      "wetted_surface": 49.7, 
       "main": 59.6, 
       "genoa": 90.8, 
       "displacement": 14143.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1005.0
     }, 
     "year": "1993"
   }, 

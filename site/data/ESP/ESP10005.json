@@ -5,12 +5,13 @@
       1.333, 
       1.4997
     ], 
-    "gph": 571.2, 
     "triple_inshore": [
       0.7937, 
       1.0778, 
       1.2462
-    ]
+    ], 
+    "gph": 571.2, 
+    "osn": 556.4
   }, 
   "sailnumber": "ESP10005", 
   "name": "MAXIMO", 
@@ -25,10 +26,12 @@
       "spinnaker": 130.5, 
       "loa": 12.35, 
       "draft": 2.49, 
+      "wetted_surface": 32.4, 
       "main": 54.3, 
       "genoa": 46.2, 
       "displacement": 6754.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 730.0
     }, 
     "year": "2007"
   }, 

@@ -5,12 +5,13 @@
       1.2684, 
       1.4332
     ], 
-    "gph": 602.5, 
     "triple_inshore": [
       0.7425, 
       1.0261, 
       1.2015
-    ]
+    ], 
+    "gph": 602.5, 
+    "osn": 585.7
   }, 
   "sailnumber": "LAT888", 
   "name": "ARGOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.155, 
       "draft": 2.29, 
+      "wetted_surface": 30.5, 
       "main": 46.1, 
       "genoa": 36.4, 
       "displacement": 6912.0, 
-      "spinnaker_asym": 140.0
+      "spinnaker_asym": 140.0, 
+      "crew": 480.0
     }, 
     "year": "1995"
   }, 

@@ -5,12 +5,13 @@
       1.2314, 
       1.4396
     ], 
-    "gph": 626.7, 
     "triple_inshore": [
       0.689, 
       0.9718, 
       1.1761
-    ]
+    ], 
+    "gph": 626.7, 
+    "osn": 606.3
   }, 
   "sailnumber": "ESP9814_C", 
   "name": "AIGAM", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.59, 
       "draft": 2.14, 
+      "wetted_surface": 37.6, 
       "main": 39.2, 
       "genoa": 42.1, 
       "displacement": 8960.0, 
-      "spinnaker_asym": 98.0
+      "spinnaker_asym": 98.0, 
+      "crew": 862.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       1.3646, 
       1.539
     ], 
-    "gph": 554.9, 
     "triple_inshore": [
       0.827, 
       1.0974, 
       1.2562
-    ]
+    ], 
+    "gph": 554.9, 
+    "osn": 541.7
   }, 
   "sailnumber": "ITA14840", 
   "name": "FLYING CLOUD", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.005, 
       "draft": 2.55, 
+      "wetted_surface": 30.4, 
       "main": 53.8, 
       "genoa": 43.9, 
       "displacement": 5200.0, 
-      "spinnaker_asym": 155.0
+      "spinnaker_asym": 155.0, 
+      "crew": 680.0
     }, 
     "year": "2003"
   }, 

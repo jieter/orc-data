@@ -5,12 +5,13 @@
       1.1917, 
       1.3574
     ], 
-    "gph": 642.1, 
     "triple_inshore": [
       0.6946, 
       0.9625, 
       1.1365
-    ]
+    ], 
+    "gph": 642.1, 
+    "osn": 622.8
   }, 
   "sailnumber": "NED5661", 
   "name": "DIVIN'DUCK", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.8, 
       "loa": 10.87, 
       "draft": 1.96, 
+      "wetted_surface": 25.4, 
       "main": 37.1, 
       "genoa": 26.9, 
       "displacement": 5064.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "1987"
   }, 

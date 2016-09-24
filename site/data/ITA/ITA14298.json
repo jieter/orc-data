@@ -5,12 +5,13 @@
       1.0144, 
       1.17
     ], 
-    "gph": 760.5, 
     "triple_inshore": [
       0.5713, 
       0.8135, 
       0.9719
-    ]
+    ], 
+    "gph": 760.5, 
+    "osn": 734.5
   }, 
   "sailnumber": "ITA14298", 
   "name": "GERONIMO", 
@@ -25,10 +26,12 @@
       "spinnaker": 49.4, 
       "loa": 8.945, 
       "draft": 1.57, 
+      "wetted_surface": 17.2, 
       "main": 14.7, 
       "genoa": 26.2, 
       "displacement": 2314.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1978"
   }, 

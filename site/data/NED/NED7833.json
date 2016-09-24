@@ -5,12 +5,13 @@
       1.2641, 
       1.4601
     ], 
-    "gph": 607.7, 
     "triple_inshore": [
       0.7206, 
       1.0048, 
       1.2106
-    ]
+    ], 
+    "gph": 607.7, 
+    "osn": 589.2
   }, 
   "sailnumber": "NED7833", 
   "name": "Julia", 
@@ -25,10 +26,12 @@
       "spinnaker": 125.9, 
       "loa": 13.15, 
       "draft": 2.21, 
+      "wetted_surface": 40.8, 
       "main": 59.7, 
       "genoa": 37.5, 
       "displacement": 11457.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 780.0
     }, 
     "year": "2002"
   }, 

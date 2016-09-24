@@ -5,12 +5,13 @@
       1.1113, 
       1.2457
     ], 
-    "gph": 678.2, 
     "triple_inshore": [
       0.6908, 
       0.9158, 
       1.0377
-    ]
+    ], 
+    "gph": 678.2, 
+    "osn": 661.2
   }, 
   "sailnumber": "ESP5143_C", 
   "name": "KETIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.493, 
       "draft": 1.78, 
+      "wetted_surface": 12.0, 
       "main": 19.4, 
       "genoa": 16.6, 
       "displacement": 1435.0, 
-      "spinnaker_asym": 53.0
+      "spinnaker_asym": 53.0, 
+      "crew": 320.0
     }, 
     "year": "1996"
   }, 

@@ -5,12 +5,13 @@
       1.0832, 
       1.2319
     ], 
-    "gph": 707.9, 
     "triple_inshore": [
       0.6292, 
       0.8662, 
       1.0268
-    ]
+    ], 
+    "gph": 707.9, 
+    "osn": 686.5
   }, 
   "sailnumber": "GRE49402", 
   "name": "ALMYRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.2, 
       "loa": 10.14, 
       "draft": 1.89, 
+      "wetted_surface": 26.6, 
       "main": 28.0, 
       "genoa": 43.8, 
       "displacement": 6712.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1976"
   }, 

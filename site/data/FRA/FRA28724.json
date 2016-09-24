@@ -5,12 +5,13 @@
       1.0707, 
       1.2048
     ], 
-    "gph": 711.7, 
     "triple_inshore": [
       0.6408, 
       0.872, 
       1.01
-    ]
+    ], 
+    "gph": 711.7, 
+    "osn": 691.0
   }, 
   "sailnumber": "FRA28724", 
   "name": "GAYA", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.5, 
       "loa": 8.5, 
       "draft": 1.74, 
+      "wetted_surface": 17.5, 
       "main": 18.9, 
       "genoa": 27.5, 
       "displacement": 3004.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 451.0
     }, 
     "year": "1983"
   }, 

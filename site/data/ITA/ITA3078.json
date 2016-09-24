@@ -5,12 +5,13 @@
       1.2569, 
       1.429
     ], 
-    "gph": 600.3, 
     "triple_inshore": [
       0.7763, 
       1.03, 
       1.1831
-    ]
+    ], 
+    "gph": 600.3, 
+    "osn": 584.4
   }, 
   "sailnumber": "ITA3078", 
   "name": "TEAM ANDELSTANKEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.9, 
       "loa": 9.435, 
       "draft": 2.15, 
+      "wetted_surface": 18.2, 
       "main": 35.3, 
       "genoa": 21.0, 
       "displacement": 2462.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 490.0
     }, 
     "year": "1996"
   }, 

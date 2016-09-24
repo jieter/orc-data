@@ -5,12 +5,13 @@
       1.0227, 
       1.1627
     ], 
-    "gph": 746.5, 
     "triple_inshore": [
       0.6051, 
       0.8195, 
       0.9676
-    ]
+    ], 
+    "gph": 746.5, 
+    "osn": 725.2
   }, 
   "sailnumber": "NED6823", 
   "name": "DE BUURMAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.0, 
       "loa": 9.35, 
       "draft": 1.53, 
+      "wetted_surface": 20.5, 
       "main": 20.9, 
       "genoa": 24.4, 
       "displacement": 4669.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 479.0
     }, 
     "year": "1978"
   }, 

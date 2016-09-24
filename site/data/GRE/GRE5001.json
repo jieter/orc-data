@@ -5,12 +5,13 @@
       1.1373, 
       1.292
     ], 
-    "gph": 670.5, 
     "triple_inshore": [
       0.6747, 
       0.9163, 
       1.0847
-    ]
+    ], 
+    "gph": 670.5, 
+    "osn": 651.3
   }, 
   "sailnumber": "GRE5001", 
   "name": "ANDROMEDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.5, 
       "loa": 11.266, 
       "draft": 1.98, 
+      "wetted_surface": 28.1, 
       "main": 28.8, 
       "genoa": 49.1, 
       "displacement": 7553.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1978"
   }, 

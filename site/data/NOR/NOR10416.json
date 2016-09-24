@@ -5,12 +5,13 @@
       1.1568, 
       1.327
     ], 
-    "gph": 661.3, 
     "triple_inshore": [
       0.6724, 
       0.9259, 
       1.1034
-    ]
+    ], 
+    "gph": 661.3, 
+    "osn": 642.0
   }, 
   "sailnumber": "NOR10416", 
   "name": "Stompelompa", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.0, 
       "loa": 10.92, 
       "draft": 1.95, 
+      "wetted_surface": 27.3, 
       "main": 38.8, 
       "genoa": 36.5, 
       "displacement": 6267.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 620.0
     }, 
     "year": "1999"
   }, 

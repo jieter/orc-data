@@ -5,12 +5,13 @@
       1.3221, 
       1.554
     ], 
-    "gph": 570.1, 
     "triple_inshore": [
       0.8093, 
       1.0652, 
       1.2682
-    ]
+    ], 
+    "gph": 570.1, 
+    "osn": 555.0
   }, 
   "sailnumber": "ITA268", 
   "name": "ADRIATICA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.69, 
       "draft": 2.1, 
+      "wetted_surface": 16.4, 
       "main": 33.3, 
       "genoa": 19.8, 
       "displacement": 1606.0, 
-      "spinnaker_asym": 103.0
+      "spinnaker_asym": 103.0, 
+      "crew": 580.0
     }, 
     "year": "2014"
   }, 

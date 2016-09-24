@@ -5,12 +5,13 @@
       1.1885, 
       1.337
     ], 
-    "gph": 642.3, 
     "triple_inshore": [
       0.7031, 
       0.9606, 
       1.1187
-    ]
+    ], 
+    "gph": 642.3, 
+    "osn": 624.6
   }, 
   "sailnumber": "FIN11134", 
   "name": "Relax", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.5, 
       "loa": 10.36, 
       "draft": 1.92, 
+      "wetted_surface": 26.0, 
       "main": 40.0, 
       "genoa": 27.9, 
       "displacement": 5632.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2007"
   }, 

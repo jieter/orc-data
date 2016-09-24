@@ -5,12 +5,13 @@
       1.1705, 
       1.3212
     ], 
-    "gph": 645.9, 
     "triple_inshore": [
       0.7126, 
       0.9353, 
       1.0594
-    ]
+    ], 
+    "gph": 645.9, 
+    "osn": 631.5
   }, 
   "sailnumber": "ITA2601", 
   "name": "CHICA 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 45.5, 
       "loa": 7.925, 
       "draft": 1.91, 
+      "wetted_surface": 13.8, 
       "main": 24.4, 
       "genoa": 15.0, 
       "displacement": 1158.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 370.0
     }, 
     "year": "2006"
   }, 

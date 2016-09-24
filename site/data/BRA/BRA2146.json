@@ -5,12 +5,13 @@
       1.2628, 
       1.4233
     ], 
-    "gph": 604.5, 
     "triple_inshore": [
       0.7449, 
       1.0187, 
       1.1912
-    ]
+    ], 
+    "gph": 604.5, 
+    "osn": 588.0
   }, 
   "sailnumber": "BRA2146", 
   "name": "MARLIM", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.1, 
       "loa": 11.924, 
       "draft": 2.45, 
+      "wetted_surface": 32.3, 
       "main": 48.8, 
       "genoa": 48.2, 
       "displacement": 7806.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 740.0
     }, 
     "year": "1997"
   }, 

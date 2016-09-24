@@ -5,12 +5,13 @@
       1.4408, 
       1.7108
     ], 
-    "gph": 523.0, 
     "triple_inshore": [
       0.8694, 
       1.1442, 
       1.3931
-    ]
+    ], 
+    "gph": 523.0, 
+    "osn": 509.7
   }, 
   "sailnumber": "NOR15159", 
   "name": "Karma Police", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.14, 
       "draft": 1.86, 
+      "wetted_surface": 18.2, 
       "main": 39.7, 
       "genoa": 25.4, 
       "displacement": 1344.0, 
-      "spinnaker_asym": 119.0
+      "spinnaker_asym": 119.0, 
+      "crew": 534.0
     }, 
     "year": "2009"
   }, 

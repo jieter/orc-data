@@ -5,12 +5,13 @@
       1.2421, 
       1.4727
     ], 
-    "gph": 622.4, 
     "triple_inshore": [
       0.6806, 
       0.9733, 
       1.2004
-    ]
+    ], 
+    "gph": 622.4, 
+    "osn": 602.3
   }, 
   "sailnumber": "GRE1675", 
   "name": "CHRONOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 121.9, 
       "loa": 13.99, 
       "draft": 1.83, 
+      "wetted_surface": 41.0, 
       "main": 44.0, 
       "genoa": 60.7, 
       "displacement": 10498.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 965.0
     }, 
     "year": "2004"
   }, 

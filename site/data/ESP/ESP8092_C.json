@@ -5,12 +5,13 @@
       1.0208, 
       1.1521
     ], 
-    "gph": 749.9, 
     "triple_inshore": [
       0.5961, 
       0.8177, 
       0.9515
-    ]
+    ], 
+    "gph": 749.9, 
+    "osn": 728.5
   }, 
   "sailnumber": "ESP8092_C", 
   "name": "ROSA ROSER", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.461, 
       "draft": 1.45, 
+      "wetted_surface": 15.7, 
       "main": 19.9, 
       "genoa": 15.4, 
       "displacement": 2128.0, 
-      "spinnaker_asym": 40.0
+      "spinnaker_asym": 40.0, 
+      "crew": 200.0
     }, 
     "year": "2005"
   }, 

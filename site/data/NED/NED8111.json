@@ -5,12 +5,13 @@
       1.3022, 
       1.4841
     ], 
-    "gph": 586.8, 
     "triple_inshore": [
       0.7598, 
       1.0467, 
       1.2367
-    ]
+    ], 
+    "gph": 586.8, 
+    "osn": 570.8
   }, 
   "sailnumber": "NED8111", 
   "name": "Xoana", 
@@ -25,10 +26,12 @@
       "spinnaker": 112.2, 
       "loa": 12.903, 
       "draft": 2.2, 
+      "wetted_surface": 35.7, 
       "main": 53.8, 
       "genoa": 53.1, 
       "displacement": 9029.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2003"
   }, 

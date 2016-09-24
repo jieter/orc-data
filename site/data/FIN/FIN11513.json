@@ -5,12 +5,13 @@
       1.2422, 
       1.4048
     ], 
-    "gph": 615.7, 
     "triple_inshore": [
       0.7264, 
       1.0009, 
       1.1752
-    ]
+    ], 
+    "gph": 615.7, 
+    "osn": 598.3
   }, 
   "sailnumber": "FIN11513", 
   "name": "Das Boot", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.2, 
       "loa": 11.3, 
       "draft": 2.37, 
+      "wetted_surface": 31.5, 
       "main": 45.9, 
       "genoa": 42.5, 
       "displacement": 7072.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 690.0
     }, 
     "year": "2011"
   }, 

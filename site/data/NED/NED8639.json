@@ -5,12 +5,13 @@
       1.173, 
       1.3465
     ], 
-    "gph": 655.1, 
     "triple_inshore": [
       0.6725, 
       0.9417, 
       1.1247
-    ]
+    ], 
+    "gph": 655.1, 
+    "osn": 633.7
   }, 
   "sailnumber": "NED8639", 
   "name": "Pur Sang", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.8, 
       "loa": 10.675, 
       "draft": 1.93, 
+      "wetted_surface": 28.7, 
       "main": 30.2, 
       "genoa": 34.6, 
       "displacement": 5994.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "2007"
   }, 

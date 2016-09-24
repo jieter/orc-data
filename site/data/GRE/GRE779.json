@@ -5,12 +5,13 @@
       0.9728, 
       1.0841
     ], 
-    "gph": 777.7, 
     "triple_inshore": [
       0.6009, 
       0.8061, 
       0.9137
-    ]
+    ], 
+    "gph": 777.7, 
+    "osn": 756.6
   }, 
   "sailnumber": "GRE779", 
   "name": "ELENA", 
@@ -25,10 +26,12 @@
       "spinnaker": 25.9, 
       "loa": 6.64, 
       "draft": 1.42, 
+      "wetted_surface": 10.7, 
       "main": 17.5, 
       "genoa": 10.7, 
       "displacement": 1307.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1980"
   }, 

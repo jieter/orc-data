@@ -5,12 +5,13 @@
       1.1241, 
       1.3005
     ], 
-    "gph": 681.5, 
     "triple_inshore": [
       0.6493, 
       0.9003, 
       1.0897
-    ]
+    ], 
+    "gph": 681.5, 
+    "osn": 660.5
   }, 
   "sailnumber": "NOR15401", 
   "name": "Break a Leg", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 1.94, 
+      "wetted_surface": 26.1, 
       "main": 29.5, 
       "genoa": 25.9, 
       "displacement": 5941.0, 
-      "spinnaker_asym": 73.0
+      "spinnaker_asym": 73.0, 
+      "crew": 632.0
     }, 
     "year": "2011"
   }, 

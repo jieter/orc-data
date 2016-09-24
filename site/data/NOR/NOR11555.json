@@ -5,12 +5,13 @@
       1.2277, 
       1.3696
     ], 
-    "gph": 619.2, 
     "triple_inshore": [
       0.7394, 
       0.9991, 
       1.149
-    ]
+    ], 
+    "gph": 619.2, 
+    "osn": 603.5
   }, 
   "sailnumber": "NOR11555", 
   "name": "Mithrandir", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.8, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.8, 
       "main": 40.6, 
       "genoa": 41.4, 
       "displacement": 5652.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 642.0
     }, 
     "year": "2001"
   }, 

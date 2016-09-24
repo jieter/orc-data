@@ -5,12 +5,13 @@
       0.9415, 
       1.0502
     ], 
-    "gph": 806.4, 
     "triple_inshore": [
       0.571, 
       0.7581, 
       0.8675
-    ]
+    ], 
+    "gph": 806.4, 
+    "osn": 786.8
   }, 
   "sailnumber": "NED7756", 
   "name": "Furie", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.955, 
       "draft": 1.24, 
+      "wetted_surface": 11.5, 
       "main": 10.8, 
       "genoa": 15.0, 
       "displacement": 1331.0, 
-      "spinnaker_asym": 32.0
+      "spinnaker_asym": 32.0, 
+      "crew": 250.0
     }, 
     "year": "1978"
   }, 

@@ -5,12 +5,13 @@
       1.2021, 
       1.3648
     ], 
-    "gph": 637.6, 
     "triple_inshore": [
       0.6944, 
       0.97, 
       1.1398
-    ]
+    ], 
+    "gph": 637.6, 
+    "osn": 618.8
   }, 
   "sailnumber": "GER474", 
   "name": "EASY RACE", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.3, 
       "loa": 11.01, 
       "draft": 1.97, 
+      "wetted_surface": 26.9, 
       "main": 41.4, 
       "genoa": 25.4, 
       "displacement": 5165.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1989"
   }, 

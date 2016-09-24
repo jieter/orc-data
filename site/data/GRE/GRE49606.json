@@ -5,12 +5,13 @@
       1.1587, 
       1.3198
     ], 
-    "gph": 660.8, 
     "triple_inshore": [
       0.674, 
       0.932, 
       1.1019
-    ]
+    ], 
+    "gph": 660.8, 
+    "osn": 640.7
   }, 
   "sailnumber": "GRE49606", 
   "name": "BLUE LINE", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.3, 
       "loa": 11.24, 
       "draft": 1.91, 
+      "wetted_surface": 27.6, 
       "main": 30.3, 
       "genoa": 40.8, 
       "displacement": 5992.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1982"
   }, 

@@ -5,12 +5,13 @@
       1.1189, 
       1.2862
     ], 
-    "gph": 685.7, 
     "triple_inshore": [
       0.6461, 
       0.9028, 
       1.0758
-    ]
+    ], 
+    "gph": 685.7, 
+    "osn": 663.2
   }, 
   "sailnumber": "ITA14426", 
   "name": "PICCIRILLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.4, 
       "loa": 9.5, 
       "draft": 1.93, 
+      "wetted_surface": 22.4, 
       "main": 24.3, 
       "genoa": 28.5, 
       "displacement": 3912.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 592.0
     }, 
     "year": "1996"
   }, 

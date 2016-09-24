@@ -5,12 +5,13 @@
       0.9482, 
       1.1109
     ], 
-    "gph": 811.7, 
     "triple_inshore": [
       0.5354, 
       0.7563, 
       0.9264
-    ]
+    ], 
+    "gph": 811.7, 
+    "osn": 784.6
   }, 
   "sailnumber": "ESP8572_C", 
   "name": "ALADROQUE IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 46.9, 
       "loa": 7.7, 
       "draft": 1.61, 
+      "wetted_surface": 15.6, 
       "main": 13.5, 
       "genoa": 17.1, 
       "displacement": 2470.0, 
-      "spinnaker_asym": 40.0
+      "spinnaker_asym": 40.0, 
+      "crew": 300.0
     }, 
     "year": "1982"
   }, 

@@ -5,12 +5,13 @@
       1.118, 
       1.2721
     ], 
-    "gph": 678.4, 
     "triple_inshore": [
       0.6759, 
       0.9116, 
       1.0397
-    ]
+    ], 
+    "gph": 678.4, 
+    "osn": 659.4
   }, 
   "sailnumber": "ITA24035", 
   "name": "VENTO DELL'ESTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 40.9, 
       "loa": 7.495, 
       "draft": 1.67, 
+      "wetted_surface": 12.7, 
       "main": 19.9, 
       "genoa": 14.2, 
       "displacement": 1126.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 390.0
     }, 
     "year": "1994"
   }, 

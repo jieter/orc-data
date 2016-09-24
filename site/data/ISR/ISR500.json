@@ -5,12 +5,13 @@
       1.3741, 
       1.5654
     ], 
-    "gph": 558.4, 
     "triple_inshore": [
       0.7861, 
       1.0899, 
       1.2881
-    ]
+    ], 
+    "gph": 558.4, 
+    "osn": 543.6
   }, 
   "sailnumber": "ISR500", 
   "name": "Namora", 
@@ -25,10 +26,12 @@
       "spinnaker": 173.9, 
       "loa": 15.0, 
       "draft": 2.37, 
+      "wetted_surface": 47.0, 
       "main": 70.3, 
       "genoa": 71.3, 
       "displacement": 13002.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1032.0
     }, 
     "year": "2006"
   }, 

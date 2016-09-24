@@ -5,12 +5,13 @@
       1.0041, 
       1.1253
     ], 
-    "gph": 755.6, 
     "triple_inshore": [
       0.6089, 
       0.8208, 
       0.9338
-    ]
+    ], 
+    "gph": 755.6, 
+    "osn": 736.3
   }, 
   "sailnumber": "ESP4436_C", 
   "name": "MANDROS DOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 31.2, 
       "loa": 6.578, 
       "draft": 1.16, 
+      "wetted_surface": 12.0, 
       "main": 16.3, 
       "genoa": 16.4, 
       "displacement": 1435.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1986"
   }, 

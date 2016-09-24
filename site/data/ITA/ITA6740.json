@@ -5,12 +5,13 @@
       1.1316, 
       1.2922
     ], 
-    "gph": 675.7, 
     "triple_inshore": [
       0.662, 
       0.9088, 
       1.0827
-    ]
+    ], 
+    "gph": 675.7, 
+    "osn": 655.7
   }, 
   "sailnumber": "ITA6740", 
   "name": "TOMIRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.0, 
       "loa": 11.235, 
       "draft": 2.0, 
+      "wetted_surface": 29.6, 
       "main": 32.0, 
       "genoa": 45.6, 
       "displacement": 7587.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 530.0
     }, 
     "year": "1973"
   }, 

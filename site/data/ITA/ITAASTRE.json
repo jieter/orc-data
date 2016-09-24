@@ -5,12 +5,13 @@
       1.0382, 
       1.2336
     ], 
-    "gph": 743.9, 
     "triple_inshore": [
       0.5782, 
       0.8228, 
       1.0171
-    ]
+    ], 
+    "gph": 743.9, 
+    "osn": 716.5
   }, 
   "sailnumber": "ITAASTRE", 
   "name": "ASTRELLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 51.0, 
       "loa": 9.91, 
       "draft": 1.69, 
+      "wetted_surface": 19.4, 
       "main": 18.3, 
       "genoa": 20.8, 
       "displacement": 3347.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1988"
   }, 

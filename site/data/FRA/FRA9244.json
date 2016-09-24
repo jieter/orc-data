@@ -5,12 +5,13 @@
       1.331, 
       1.5042
     ], 
-    "gph": 574.4, 
     "triple_inshore": [
       0.7777, 
       1.0656, 
       1.2353
-    ]
+    ], 
+    "gph": 574.4, 
+    "osn": 558.6
   }, 
   "sailnumber": "FRA9244", 
   "name": "MICCHIOBLU", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.033, 
       "draft": 2.17, 
+      "wetted_surface": 38.0, 
       "main": 51.9, 
       "genoa": 61.0, 
       "displacement": 8592.0, 
-      "spinnaker_asym": 157.0
+      "spinnaker_asym": 157.0, 
+      "crew": 650.0
     }, 
     "year": "1993"
   }, 

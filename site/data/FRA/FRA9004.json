@@ -5,12 +5,13 @@
       1.2962, 
       1.4798
     ], 
-    "gph": 585.0, 
     "triple_inshore": [
       0.7845, 
       1.0533, 
       1.2212
-    ]
+    ], 
+    "gph": 585.0, 
+    "osn": 569.1
   }, 
   "sailnumber": "FRA9004", 
   "name": "PARTY TIME", 
@@ -25,10 +26,12 @@
       "spinnaker": 127.9, 
       "loa": 10.4, 
       "draft": 2.43, 
+      "wetted_surface": 20.9, 
       "main": 36.9, 
       "genoa": 29.6, 
       "displacement": 2895.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1988"
   }, 

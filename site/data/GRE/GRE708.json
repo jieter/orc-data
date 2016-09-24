@@ -5,12 +5,13 @@
       1.0517, 
       1.1843
     ], 
-    "gph": 729.3, 
     "triple_inshore": [
       0.6096, 
       0.8417, 
       0.9749
-    ]
+    ], 
+    "gph": 729.3, 
+    "osn": 708.1
   }, 
   "sailnumber": "GRE708", 
   "name": "DENIS K", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.3, 
       "loa": 9.201, 
       "draft": 1.37, 
+      "wetted_surface": 18.6, 
       "main": 18.3, 
       "genoa": 31.6, 
       "displacement": 3100.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1986"
   }, 

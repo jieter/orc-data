@@ -5,12 +5,13 @@
       0.9736, 
       1.157
     ], 
-    "gph": 794.3, 
     "triple_inshore": [
       0.5408, 
       0.7782, 
       0.9669
-    ]
+    ], 
+    "gph": 794.3, 
+    "osn": 764.4
   }, 
   "sailnumber": "ESP10077_C", 
   "name": "ALBEPA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.0, 
       "draft": 1.82, 
+      "wetted_surface": 23.1, 
       "main": 21.4, 
       "genoa": 23.6, 
       "displacement": 5395.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1977"
   }, 

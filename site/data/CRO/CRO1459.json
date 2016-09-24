@@ -5,12 +5,13 @@
       1.2785, 
       1.4574
     ], 
-    "gph": 599.3, 
     "triple_inshore": [
       0.7376, 
       1.0251, 
       1.2117
-    ]
+    ], 
+    "gph": 599.3, 
+    "osn": 582.2
   }, 
   "sailnumber": "CRO1459", 
   "name": "Trieste", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.555, 
       "draft": 2.46, 
+      "wetted_surface": 33.2, 
       "main": 48.0, 
       "genoa": 46.5, 
       "displacement": 7662.0, 
-      "spinnaker_asym": 98.0
+      "spinnaker_asym": 98.0, 
+      "crew": 818.0
     }, 
     "year": "2004"
   }, 

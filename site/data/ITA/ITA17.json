@@ -5,12 +5,13 @@
       1.0632, 
       1.198
     ], 
-    "gph": 714.9, 
     "triple_inshore": [
       0.6399, 
       0.8696, 
       0.9933
-    ]
+    ], 
+    "gph": 714.9, 
+    "osn": 694.4
   }, 
   "sailnumber": "ITA17", 
   "name": "CATMAZ", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.8, 
       "loa": 7.72, 
       "draft": 1.45, 
+      "wetted_surface": 12.5, 
       "main": 19.8, 
       "genoa": 15.0, 
       "displacement": 1457.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1987"
   }, 

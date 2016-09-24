@@ -5,12 +5,13 @@
       1.2305, 
       1.3853
     ], 
-    "gph": 614.9, 
     "triple_inshore": [
       0.7566, 
       1.0009, 
       1.142
-    ]
+    ], 
+    "gph": 614.9, 
+    "osn": 599.1
   }, 
   "sailnumber": "NOR15427", 
   "name": "Stutt-Tjukken", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.14, 
       "draft": 0.49, 
+      "wetted_surface": 18.3, 
       "main": 33.3, 
       "genoa": 26.6, 
       "displacement": 2691.0, 
-      "spinnaker_asym": 88.0
+      "spinnaker_asym": 88.0, 
+      "crew": 434.0
     }, 
     "year": "2013"
   }, 

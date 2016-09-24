@@ -5,12 +5,13 @@
       1.2348, 
       1.3917
     ], 
-    "gph": 618.2, 
     "triple_inshore": [
       0.7287, 
       1.0016, 
       1.1721
-    ]
+    ], 
+    "gph": 618.2, 
+    "osn": 600.7
   }, 
   "sailnumber": "ISR3701", 
   "name": "Blue Point", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.0, 
       "loa": 11.215, 
       "draft": 2.35, 
+      "wetted_surface": 28.5, 
       "main": 41.0, 
       "genoa": 41.0, 
       "displacement": 6399.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 708.0
     }, 
     "year": "2003"
   }, 

@@ -5,12 +5,13 @@
       1.2, 
       1.4059
     ], 
-    "gph": 641.6, 
     "triple_inshore": [
       0.6648, 
       0.9491, 
       1.1698
-    ]
+    ], 
+    "gph": 641.6, 
+    "osn": 624.1
   }, 
   "sailnumber": "ESP4868_C", 
   "name": "ETREUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.71, 
       "draft": 2.35, 
+      "wetted_surface": 40.2, 
       "main": 45.0, 
       "genoa": 65.4, 
       "displacement": 11565.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1990"
   }, 

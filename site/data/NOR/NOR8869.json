@@ -5,12 +5,13 @@
       1.109, 
       1.2528
     ], 
-    "gph": 688.1, 
     "triple_inshore": [
       0.6571, 
       0.9013, 
       1.0561
-    ]
+    ], 
+    "gph": 688.1, 
+    "osn": 668.2
   }, 
   "sailnumber": "NOR8869", 
   "name": "NN", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.3, 
       "loa": 9.85, 
       "draft": 1.75, 
+      "wetted_surface": 21.4, 
       "main": 26.4, 
       "genoa": 29.9, 
       "displacement": 4382.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "1978"
   }, 

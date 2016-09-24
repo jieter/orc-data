@@ -5,12 +5,13 @@
       1.1885, 
       1.3575
     ], 
-    "gph": 644.0, 
     "triple_inshore": [
       0.6931, 
       0.9617, 
       1.1415
-    ]
+    ], 
+    "gph": 644.0, 
+    "osn": 623.7
   }, 
   "sailnumber": "NED7097", 
   "name": "AQUA VITESSE Ricoh", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.8, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.8, 
       "main": 36.3, 
       "genoa": 32.8, 
       "displacement": 5755.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2001"
   }, 

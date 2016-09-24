@@ -5,12 +5,13 @@
       1.1063, 
       1.2623
     ], 
-    "gph": 688.5, 
     "triple_inshore": [
       0.6572, 
       0.9029, 
       1.0398
-    ]
+    ], 
+    "gph": 688.5, 
+    "osn": 667.8
   }, 
   "sailnumber": "ESP4616", 
   "name": "ESTERO BLANCO", 
@@ -25,10 +26,12 @@
       "spinnaker": 36.4, 
       "loa": 7.489, 
       "draft": 1.66, 
+      "wetted_surface": 12.0, 
       "main": 18.5, 
       "genoa": 11.6, 
       "displacement": 1140.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1995"
   }, 

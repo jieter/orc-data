@@ -5,12 +5,13 @@
       1.2045, 
       1.3747
     ], 
-    "gph": 633.8, 
     "triple_inshore": [
       0.7051, 
       0.964, 
       1.1445
-    ]
+    ], 
+    "gph": 633.8, 
+    "osn": 616.6
   }, 
   "sailnumber": "NOR12845", 
   "name": "Bolgen & Meg", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.3, 
       "loa": 11.99, 
       "draft": 1.96, 
+      "wetted_surface": 32.4, 
       "main": 42.7, 
       "genoa": 48.6, 
       "displacement": 8425.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 730.0
     }, 
     "year": "2000"
   }, 

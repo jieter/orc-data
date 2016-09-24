@@ -5,12 +5,13 @@
       1.2169, 
       1.3785
     ], 
-    "gph": 622.8, 
     "triple_inshore": [
       0.7365, 
       0.9864, 
       1.1265
-    ]
+    ], 
+    "gph": 622.8, 
+    "osn": 607.3
   }, 
   "sailnumber": "GRE302", 
   "name": "KRAKEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.5, 
       "loa": 9.529, 
       "draft": 1.98, 
+      "wetted_surface": 20.7, 
       "main": 37.0, 
       "genoa": 27.8, 
       "displacement": 2915.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 560.0
     }, 
     "year": "1993"
   }, 

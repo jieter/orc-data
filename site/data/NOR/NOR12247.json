@@ -5,12 +5,13 @@
       1.3317, 
       1.5068
     ], 
-    "gph": 576.1, 
     "triple_inshore": [
       0.7706, 
       1.0598, 
       1.2435
-    ]
+    ], 
+    "gph": 576.1, 
+    "osn": 559.5
   }, 
   "sailnumber": "NOR12247", 
   "name": "Hansemann", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.16, 
       "draft": 2.61, 
+      "wetted_surface": 47.3, 
       "main": 66.2, 
       "genoa": 54.7, 
       "displacement": 14478.0, 
-      "spinnaker_asym": 154.0
+      "spinnaker_asym": 154.0, 
+      "crew": 1030.0
     }, 
     "year": "2007"
   }, 

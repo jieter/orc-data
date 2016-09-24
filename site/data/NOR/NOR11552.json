@@ -5,12 +5,13 @@
       1.199, 
       1.3927
     ], 
-    "gph": 641.8, 
     "triple_inshore": [
       0.6784, 
       0.9441, 
       1.1372
-    ]
+    ], 
+    "gph": 641.8, 
+    "osn": 622.1
   }, 
   "sailnumber": "NOR11552", 
   "name": "Magica", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.88, 
       "draft": 1.99, 
+      "wetted_surface": 37.9, 
       "main": 42.6, 
       "genoa": 40.2, 
       "displacement": 10038.0, 
-      "spinnaker_asym": 97.0
+      "spinnaker_asym": 97.0, 
+      "crew": 863.0
     }, 
     "year": "2004"
   }, 

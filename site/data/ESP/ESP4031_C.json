@@ -5,12 +5,13 @@
       1.0969, 
       1.2841
     ], 
-    "gph": 701.0, 
     "triple_inshore": [
       0.6217, 
       0.8725, 
       1.0705
-    ]
+    ], 
+    "gph": 701.0, 
+    "osn": 678.4
   }, 
   "sailnumber": "ESP4031_C", 
   "name": "TAITA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.6, 
       "draft": 2.04, 
+      "wetted_surface": 27.7, 
       "main": 25.8, 
       "genoa": 43.7, 
       "displacement": 6682.0, 
-      "spinnaker_asym": 78.0
+      "spinnaker_asym": 78.0, 
+      "crew": 597.0
     }, 
     "year": "1980"
   }, 

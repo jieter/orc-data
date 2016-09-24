@@ -5,12 +5,13 @@
       2.3567, 
       2.7575
     ], 
-    "gph": 319.3, 
     "triple_inshore": [
       1.4138, 
       1.8544, 
       2.2161
-    ]
+    ], 
+    "gph": 319.3, 
+    "osn": 313.5
   }, 
   "sailnumber": "AUS10001", 
   "name": "WILD OATS XI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 30.48, 
       "draft": 5.89, 
+      "wetted_surface": 115.3, 
       "main": 374.1, 
       "genoa": 214.5, 
       "displacement": 28422.0, 
-      "spinnaker_asym": 961.0
+      "spinnaker_asym": 961.0, 
+      "crew": 2125.0
     }, 
     "year": "2015"
   }, 

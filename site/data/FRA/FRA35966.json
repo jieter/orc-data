@@ -5,12 +5,13 @@
       1.2535, 
       1.4069
     ], 
-    "gph": 607.8, 
     "triple_inshore": [
       0.7474, 
       1.0125, 
       1.1573
-    ]
+    ], 
+    "gph": 607.8, 
+    "osn": 591.0
   }, 
   "sailnumber": "FRA35966", 
   "name": "DR. FEELGOOD", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.59, 
       "draft": 2.15, 
+      "wetted_surface": 24.4, 
       "main": 37.4, 
       "genoa": 28.6, 
       "displacement": 4381.0, 
-      "spinnaker_asym": 103.0
+      "spinnaker_asym": 103.0, 
+      "crew": 425.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.0713, 
       1.2218
     ], 
-    "gph": 716.1, 
     "triple_inshore": [
       0.6042, 
       0.8413, 
       1.0031
-    ]
+    ], 
+    "gph": 716.1, 
+    "osn": 699.4
   }, 
   "sailnumber": "ITAVETRO", 
   "name": "VETROCCHIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.39, 
       "draft": 1.45, 
+      "wetted_surface": 21.9, 
       "main": 25.8, 
       "genoa": 27.9, 
       "displacement": 4531.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1993"
   }, 

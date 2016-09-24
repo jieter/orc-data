@@ -5,12 +5,13 @@
       1.4736, 
       1.7638
     ], 
-    "gph": 510.5, 
     "triple_inshore": [
       0.8872, 
       1.1503, 
       1.3944
-    ]
+    ], 
+    "gph": 510.5, 
+    "osn": 499.9
   }, 
   "sailnumber": "GER7170", 
   "name": "NILA-ANN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.55, 
       "draft": 1.8, 
+      "wetted_surface": 16.5, 
       "main": 41.4, 
       "genoa": 23.6, 
       "displacement": 1350.0, 
-      "spinnaker_asym": 112.0
+      "spinnaker_asym": 112.0, 
+      "crew": 520.0
     }, 
     "year": "1992"
   }, 

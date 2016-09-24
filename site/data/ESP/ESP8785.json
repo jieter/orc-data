@@ -5,12 +5,13 @@
       1.3627, 
       1.5419
     ], 
-    "gph": 561.2, 
     "triple_inshore": [
       0.7967, 
       1.0961, 
       1.2866
-    ]
+    ], 
+    "gph": 561.2, 
+    "osn": 545.8
   }, 
   "sailnumber": "ESP8785", 
   "name": "FLYER 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 155.2, 
       "loa": 13.665, 
       "draft": 2.74, 
+      "wetted_surface": 41.5, 
       "main": 67.6, 
       "genoa": 54.9, 
       "displacement": 10616.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 895.0
     }, 
     "year": "2008"
   }, 

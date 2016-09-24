@@ -5,12 +5,13 @@
       1.085, 
       1.2489
     ], 
-    "gph": 707.1, 
     "triple_inshore": [
       0.6235, 
       0.8605, 
       1.0327
-    ]
+    ], 
+    "gph": 707.1, 
+    "osn": 686.0
   }, 
   "sailnumber": "ESP8871_C", 
   "name": "GRISOL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.3, 
       "draft": 1.83, 
+      "wetted_surface": 22.2, 
       "main": 24.0, 
       "genoa": 22.2, 
       "displacement": 4554.0, 
-      "spinnaker_asym": 69.0
+      "spinnaker_asym": 69.0, 
+      "crew": 500.0
     }, 
     "year": "2007"
   }, 

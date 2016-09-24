@@ -5,12 +5,13 @@
       1.2363, 
       1.4441
     ], 
-    "gph": 623.0, 
     "triple_inshore": [
       0.6982, 
       0.9861, 
       1.2041
-    ]
+    ], 
+    "gph": 623.0, 
+    "osn": 601.9
   }, 
   "sailnumber": "NED7494", 
   "name": "Rebbons", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.1, 
       "loa": 12.14, 
       "draft": 2.43, 
+      "wetted_surface": 36.3, 
       "main": 44.5, 
       "genoa": 35.8, 
       "displacement": 8870.0, 
-      "spinnaker_asym": 99.0
+      "spinnaker_asym": 99.0, 
+      "crew": 817.0
     }, 
     "year": "2007"
   }, 

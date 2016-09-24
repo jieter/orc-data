@@ -5,12 +5,13 @@
       1.2967, 
       1.4899
     ], 
-    "gph": 591.2, 
     "triple_inshore": [
       0.7475, 
       1.0313, 
       1.2121
-    ]
+    ], 
+    "gph": 591.2, 
+    "osn": 573.5
   }, 
   "sailnumber": "ITA17129", 
   "name": "MAREAMORE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 2.26, 
+      "wetted_surface": 36.4, 
       "main": 46.3, 
       "genoa": 46.6, 
       "displacement": 7816.0, 
-      "spinnaker_asym": 131.0
+      "spinnaker_asym": 131.0, 
+      "crew": 400.0
     }, 
     "year": "2015"
   }, 

@@ -5,12 +5,13 @@
       1.2128, 
       1.3679
     ], 
-    "gph": 629.7, 
     "triple_inshore": [
       0.7123, 
       0.9734, 
       1.133
-    ]
+    ], 
+    "gph": 629.7, 
+    "osn": 613.4
   }, 
   "sailnumber": "KOR1234", 
   "name": "Menbal", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.4, 
       "loa": 11.975, 
       "draft": 2.11, 
+      "wetted_surface": 30.3, 
       "main": 50.4, 
       "genoa": 42.4, 
       "displacement": 6296.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 606.0
     }, 
     "year": "1983"
   }, 

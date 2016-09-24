@@ -5,12 +5,13 @@
       1.3792, 
       1.5727
     ], 
-    "gph": 550.6, 
     "triple_inshore": [
       0.8298, 
       1.1189, 
       1.2879
-    ]
+    ], 
+    "gph": 550.6, 
+    "osn": 534.9
   }, 
   "sailnumber": "ITA14872", 
   "name": "LUNA PER TE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 2.52, 
+      "wetted_surface": 33.6, 
       "main": 58.5, 
       "genoa": 46.8, 
       "displacement": 6688.0, 
-      "spinnaker_asym": 151.0
+      "spinnaker_asym": 151.0, 
+      "crew": 800.0
     }, 
     "year": "2002"
   }, 

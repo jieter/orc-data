@@ -5,12 +5,13 @@
       1.1862, 
       1.3759
     ], 
-    "gph": 651.8, 
     "triple_inshore": [
       0.6511, 
       0.9415, 
       1.1415
-    ]
+    ], 
+    "gph": 651.8, 
+    "osn": 632.5
   }, 
   "sailnumber": "ESP10292_C", 
   "name": "LULA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.754, 
       "draft": 2.19, 
+      "wetted_surface": 32.7, 
       "main": 42.5, 
       "genoa": 49.8, 
       "displacement": 6989.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2007"
   }, 

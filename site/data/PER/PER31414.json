@@ -5,12 +5,13 @@
       1.2131, 
       1.3858
     ], 
-    "gph": 631.9, 
     "triple_inshore": [
       0.7067, 
       0.9756, 
       1.1642
-    ]
+    ], 
+    "gph": 631.9, 
+    "osn": 611.4
   }, 
   "sailnumber": "PER31414", 
   "name": "COUNTERPOINT", 
@@ -25,10 +26,12 @@
       "spinnaker": 138.7, 
       "loa": 12.91, 
       "draft": 2.37, 
+      "wetted_surface": 36.6, 
       "main": 40.0, 
       "genoa": 43.8, 
       "displacement": 9806.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 763.0
     }, 
     "year": "1981"
   }, 

@@ -5,12 +5,13 @@
       1.2147, 
       1.4065
     ], 
-    "gph": 633.7, 
     "triple_inshore": [
       0.6847, 
       0.9634, 
       1.1593
-    ]
+    ], 
+    "gph": 633.7, 
+    "osn": 614.1
   }, 
   "sailnumber": "ISR411", 
   "name": "Kidmit", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.5, 
       "loa": 12.71, 
       "draft": 2.02, 
+      "wetted_surface": 35.0, 
       "main": 36.0, 
       "genoa": 55.0, 
       "displacement": 7800.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 795.0
     }, 
     "year": "1997"
   }, 

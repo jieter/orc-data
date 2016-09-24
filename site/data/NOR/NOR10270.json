@@ -5,12 +5,13 @@
       1.231, 
       1.4137
     ], 
-    "gph": 623.2, 
     "triple_inshore": [
       0.7071, 
       0.9861, 
       1.1814
-    ]
+    ], 
+    "gph": 623.2, 
+    "osn": 604.1
   }, 
   "sailnumber": "NOR10270", 
   "name": "BLU", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.9, 
       "loa": 11.99, 
       "draft": 2.19, 
+      "wetted_surface": 32.7, 
       "main": 41.7, 
       "genoa": 43.7, 
       "displacement": 7977.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 809.0
     }, 
     "year": "2001"
   }, 

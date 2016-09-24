@@ -5,12 +5,13 @@
       1.2533, 
       1.415
     ], 
-    "gph": 608.5, 
     "triple_inshore": [
       0.7405, 
       1.0086, 
       1.1813
-    ]
+    ], 
+    "gph": 608.5, 
+    "osn": 592.7
   }, 
   "sailnumber": "NOR8967", 
   "name": "Excalibur", 
@@ -25,10 +26,12 @@
       "spinnaker": 113.7, 
       "loa": 12.51, 
       "draft": 2.12, 
+      "wetted_surface": 31.8, 
       "main": 40.6, 
       "genoa": 62.3, 
       "displacement": 7773.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 716.0
     }, 
     "year": "1990"
   }, 

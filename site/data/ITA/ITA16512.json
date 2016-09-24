@@ -5,12 +5,13 @@
       1.2131, 
       1.3722
     ], 
-    "gph": 630.8, 
     "triple_inshore": [
       0.711, 
       0.9813, 
       1.1499
-    ]
+    ], 
+    "gph": 630.8, 
+    "osn": 612.1
   }, 
   "sailnumber": "ITA16512", 
   "name": "SQUALO BIANCO", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.7, 
       "loa": 10.66, 
       "draft": 2.21, 
+      "wetted_surface": 28.3, 
       "main": 40.3, 
       "genoa": 31.2, 
       "displacement": 5879.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2009"
   }, 

@@ -5,12 +5,13 @@
       1.189, 
       1.3579
     ], 
-    "gph": 640.7, 
     "triple_inshore": [
       0.7031, 
       0.9611, 
       1.1071
-    ]
+    ], 
+    "gph": 640.7, 
+    "osn": 623.3
   }, 
   "sailnumber": "ITA14977", 
   "name": "AIA DE MA", 
@@ -25,10 +26,12 @@
       "spinnaker": 49.5, 
       "loa": 8.509, 
       "draft": 2.05, 
+      "wetted_surface": 16.6, 
       "main": 27.4, 
       "genoa": 18.0, 
       "displacement": 1786.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 370.0
     }, 
     "year": "2004"
   }, 

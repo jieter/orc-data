@@ -5,12 +5,13 @@
       1.1164, 
       1.2768
     ], 
-    "gph": 685.8, 
     "triple_inshore": [
       0.6481, 
       0.8851, 
       1.053
-    ]
+    ], 
+    "gph": 685.8, 
+    "osn": 666.5
   }, 
   "sailnumber": "NOR9993", 
   "name": "Erina", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.15, 
       "draft": 1.8, 
+      "wetted_surface": 25.9, 
       "main": 32.1, 
       "genoa": 26.2, 
       "displacement": 5850.0, 
-      "spinnaker_asym": 60.0
+      "spinnaker_asym": 60.0, 
+      "crew": 619.0
     }, 
     "year": "1999"
   }, 

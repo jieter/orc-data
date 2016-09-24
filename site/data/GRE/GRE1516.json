@@ -5,12 +5,13 @@
       1.0378, 
       1.2086
     ], 
-    "gph": 742.0, 
     "triple_inshore": [
       0.5867, 
       0.8264, 
       1.005
-    ]
+    ], 
+    "gph": 742.0, 
+    "osn": 717.7
   }, 
   "sailnumber": "GRE1516", 
   "name": "KALLIPYGOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.8, 
       "loa": 9.34, 
       "draft": 1.61, 
+      "wetted_surface": 21.1, 
       "main": 19.0, 
       "genoa": 31.7, 
       "displacement": 4267.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 494.0
     }, 
     "year": "1993"
   }, 

@@ -5,12 +5,13 @@
       1.1742, 
       1.3231
     ], 
-    "gph": 650.4, 
     "triple_inshore": [
       0.6923, 
       0.9429, 
       1.1043
-    ]
+    ], 
+    "gph": 650.4, 
+    "osn": 632.5
   }, 
   "sailnumber": "ESP5838_C", 
   "name": "OCTUBRE III", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.3, 
       "loa": 11.832, 
       "draft": 2.09, 
+      "wetted_surface": 28.6, 
       "main": 30.8, 
       "genoa": 50.5, 
       "displacement": 7177.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1990"
   }, 

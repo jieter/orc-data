@@ -5,12 +5,13 @@
       1.3269, 
       1.5104
     ], 
-    "gph": 576.5, 
     "triple_inshore": [
       0.7749, 
       1.0719, 
       1.2531
-    ]
+    ], 
+    "gph": 576.5, 
+    "osn": 559.5
   }, 
   "sailnumber": "ITA333", 
   "name": "AURORA", 
@@ -25,10 +26,12 @@
       "spinnaker": 120.0, 
       "loa": 12.475, 
       "draft": 2.74, 
+      "wetted_surface": 31.9, 
       "main": 50.8, 
       "genoa": 40.2, 
       "displacement": 6336.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 670.0
     }, 
     "year": "2001"
   }, 

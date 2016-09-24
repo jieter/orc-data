@@ -5,12 +5,13 @@
       1.1387, 
       1.2873
     ], 
-    "gph": 671.2, 
     "triple_inshore": [
       0.6677, 
       0.9157, 
       1.0618
-    ]
+    ], 
+    "gph": 671.2, 
+    "osn": 652.3
   }, 
   "sailnumber": "NOR14575", 
   "name": "NN", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.0, 
       "loa": 9.54, 
       "draft": 1.45, 
+      "wetted_surface": 20.4, 
       "main": 26.3, 
       "genoa": 23.0, 
       "displacement": 3506.0, 
-      "spinnaker_asym": 67.0
+      "spinnaker_asym": 67.0, 
+      "crew": 554.0
     }, 
     "year": "1999"
   }, 

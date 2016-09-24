@@ -5,12 +5,13 @@
       1.164, 
       1.3328
     ], 
-    "gph": 660.8, 
     "triple_inshore": [
       0.6607, 
       0.9208, 
       1.0965
-    ]
+    ], 
+    "gph": 660.8, 
+    "osn": 641.0
   }, 
   "sailnumber": "ESP7985", 
   "name": "BACAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.8, 
       "loa": 11.624, 
       "draft": 1.89, 
+      "wetted_surface": 32.8, 
       "main": 33.4, 
       "genoa": 47.4, 
       "displacement": 8045.0, 
-      "spinnaker_asym": 103.0
+      "spinnaker_asym": 103.0, 
+      "crew": 640.0
     }, 
     "year": "2001"
   }, 

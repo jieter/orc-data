@@ -5,12 +5,13 @@
       1.0963, 
       1.2558
     ], 
-    "gph": 700.9, 
     "triple_inshore": [
       0.6284, 
       0.8781, 
       1.0429
-    ]
+    ], 
+    "gph": 700.9, 
+    "osn": 678.8
   }, 
   "sailnumber": "GRE1408", 
   "name": "FLORANNA III", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.0, 
       "loa": 9.35, 
       "draft": 1.72, 
+      "wetted_surface": 20.6, 
       "main": 26.5, 
       "genoa": 25.8, 
       "displacement": 3900.0, 
-      "spinnaker_asym": 52.0
+      "spinnaker_asym": 52.0, 
+      "crew": 400.0
     }, 
     "year": "2004"
   }, 

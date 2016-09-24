@@ -5,12 +5,13 @@
       1.1784, 
       1.3352
     ], 
-    "gph": 648.8, 
     "triple_inshore": [
       0.692, 
       0.9513, 
       1.1175
-    ]
+    ], 
+    "gph": 648.8, 
+    "osn": 629.3
   }, 
   "sailnumber": "EST606", 
   "name": "BRIGITTA-X", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.1, 
       "loa": 10.36, 
       "draft": 1.92, 
+      "wetted_surface": 26.0, 
       "main": 36.4, 
       "genoa": 28.0, 
       "displacement": 5638.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 670.0
     }, 
     "year": "2007"
   }, 

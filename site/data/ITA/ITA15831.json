@@ -5,12 +5,13 @@
       1.197, 
       1.3423
     ], 
-    "gph": 634.7, 
     "triple_inshore": [
       0.7242, 
       0.9806, 
       1.1254
-    ]
+    ], 
+    "gph": 634.7, 
+    "osn": 617.4
   }, 
   "sailnumber": "ITA15831", 
   "name": "MART D'ESTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.9, 
       "loa": 9.53, 
       "draft": 2.08, 
+      "wetted_surface": 20.1, 
       "main": 32.9, 
       "genoa": 24.0, 
       "displacement": 3270.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 532.0
     }, 
     "year": "1996"
   }, 

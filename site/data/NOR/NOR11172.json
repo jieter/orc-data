@@ -5,12 +5,13 @@
       1.3582, 
       1.5352
     ], 
-    "gph": 562.1, 
     "triple_inshore": [
       0.7965, 
       1.0921, 
       1.2682
-    ]
+    ], 
+    "gph": 562.1, 
+    "osn": 547.7
   }, 
   "sailnumber": "NOR11172", 
   "name": "Gratass", 
@@ -25,10 +26,12 @@
       "spinnaker": 123.5, 
       "loa": 12.69, 
       "draft": 2.55, 
+      "wetted_surface": 32.1, 
       "main": 61.8, 
       "genoa": 39.9, 
       "displacement": 6577.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 759.0
     }, 
     "year": "2004"
   }, 

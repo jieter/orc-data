@@ -5,12 +5,13 @@
       1.0755, 
       1.2364
     ], 
-    "gph": 712.3, 
     "triple_inshore": [
       0.6264, 
       0.8641, 
       1.0339
-    ]
+    ], 
+    "gph": 712.3, 
+    "osn": 690.2
   }, 
   "sailnumber": "ESP6230_C", 
   "name": "GUAYRE II", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.4, 
       "loa": 10.345, 
       "draft": 1.79, 
+      "wetted_surface": 22.6, 
       "main": 23.8, 
       "genoa": 34.6, 
       "displacement": 5114.0, 
-      "spinnaker_asym": 74.0
+      "spinnaker_asym": 74.0, 
+      "crew": 600.0
     }, 
     "year": "1974"
   }, 

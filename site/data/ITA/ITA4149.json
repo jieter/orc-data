@@ -5,12 +5,13 @@
       1.3326, 
       1.5023
     ], 
-    "gph": 571.8, 
     "triple_inshore": [
       0.7912, 
       1.0791, 
       1.2502
-    ]
+    ], 
+    "gph": 571.8, 
+    "osn": 556.5
   }, 
   "sailnumber": "ITA4149", 
   "name": "LE COQ HARDI'", 
@@ -25,10 +26,12 @@
       "spinnaker": 130.4, 
       "loa": 12.35, 
       "draft": 2.5, 
+      "wetted_surface": 32.8, 
       "main": 54.5, 
       "genoa": 45.2, 
       "displacement": 6991.0, 
-      "spinnaker_asym": 125.0
+      "spinnaker_asym": 125.0, 
+      "crew": 870.0
     }, 
     "year": "2006"
   }, 

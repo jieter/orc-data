@@ -5,12 +5,13 @@
       1.0529, 
       1.2016
     ], 
-    "gph": 727.8, 
     "triple_inshore": [
       0.6123, 
       0.8471, 
       1.0036
-    ]
+    ], 
+    "gph": 727.8, 
+    "osn": 705.5
   }, 
   "sailnumber": "ITA11758", 
   "name": "FAROUCHE", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.1, 
       "loa": 9.265, 
       "draft": 1.72, 
+      "wetted_surface": 19.3, 
       "main": 19.1, 
       "genoa": 26.7, 
       "displacement": 3556.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1982"
   }, 

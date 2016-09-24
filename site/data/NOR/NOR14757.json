@@ -5,12 +5,13 @@
       1.1812, 
       1.3695
     ], 
-    "gph": 650.2, 
     "triple_inshore": [
       0.6701, 
       0.9292, 
       1.1181
-    ]
+    ], 
+    "gph": 650.2, 
+    "osn": 631.8
   }, 
   "sailnumber": "NOR14757", 
   "name": "Hypocampe", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.82, 
       "draft": 1.79, 
+      "wetted_surface": 31.8, 
       "main": 38.4, 
       "genoa": 38.5, 
       "displacement": 7764.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 750.0
     }, 
     "year": "2005"
   }, 

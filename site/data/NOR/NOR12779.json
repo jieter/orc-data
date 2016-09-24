@@ -5,12 +5,13 @@
       1.227, 
       1.3943
     ], 
-    "gph": 624.4, 
     "triple_inshore": [
       0.7095, 
       0.9764, 
       1.1424
-    ]
+    ], 
+    "gph": 624.4, 
+    "osn": 606.4
   }, 
   "sailnumber": "NOR12779", 
   "name": "Gaia", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.25, 
       "draft": 1.98, 
+      "wetted_surface": 31.0, 
       "main": 43.4, 
       "genoa": 39.2, 
       "displacement": 6526.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 738.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       1.2382, 
       1.3872
     ], 
-    "gph": 616.1, 
     "triple_inshore": [
       0.7339, 
       0.993, 
       1.1387
-    ]
+    ], 
+    "gph": 616.1, 
+    "osn": 599.6
   }, 
   "sailnumber": "NED8208", 
   "name": "SASAL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.5, 
       "draft": 2.11, 
+      "wetted_surface": 27.0, 
       "main": 38.7, 
       "genoa": 32.0, 
       "displacement": 5024.0, 
-      "spinnaker_asym": 98.0
+      "spinnaker_asym": 98.0, 
+      "crew": 450.0
     }, 
     "year": "2010"
   }, 

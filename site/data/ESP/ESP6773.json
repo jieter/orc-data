@@ -5,12 +5,13 @@
       1.2124, 
       1.3574
     ], 
-    "gph": 628.4, 
     "triple_inshore": [
       0.723, 
       0.9844, 
       1.1411
-    ]
+    ], 
+    "gph": 628.4, 
+    "osn": 611.9
   }, 
   "sailnumber": "ESP6773", 
   "name": "BARCAROLE TRES", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.5, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.9, 
       "main": 39.7, 
       "genoa": 41.0, 
       "displacement": 5792.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "2001"
   }, 

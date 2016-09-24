@@ -5,12 +5,13 @@
       1.2228, 
       1.3795
     ], 
-    "gph": 624.5, 
     "triple_inshore": [
       0.7175, 
       0.9807, 
       1.1431
-    ]
+    ], 
+    "gph": 624.5, 
+    "osn": 608.1
   }, 
   "sailnumber": "ESP8413", 
   "name": "PAJUELIN XIII BENIDORM", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.4, 
       "loa": 11.257, 
       "draft": 2.03, 
+      "wetted_surface": 29.1, 
       "main": 43.7, 
       "genoa": 37.9, 
       "displacement": 6421.0, 
-      "spinnaker_asym": 88.0
+      "spinnaker_asym": 88.0, 
+      "crew": 650.0
     }, 
     "year": "2005"
   }, 

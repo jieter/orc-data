@@ -5,12 +5,13 @@
       1.3851, 
       1.6149
     ], 
-    "gph": 553.4, 
     "triple_inshore": [
       0.7885, 
       1.0898, 
       1.3426
-    ]
+    ], 
+    "gph": 553.4, 
+    "osn": 538.8
   }, 
   "sailnumber": "NED6572", 
   "name": "King's Legend", 
@@ -25,10 +26,12 @@
       "spinnaker": 292.2, 
       "loa": 19.68, 
       "draft": 2.92, 
+      "wetted_surface": 72.0, 
       "main": 97.8, 
       "genoa": 114.7, 
       "displacement": 33106.0, 
-      "spinnaker_asym": 254.0
+      "spinnaker_asym": 254.0, 
+      "crew": 1235.0
     }, 
     "year": "1970"
   }, 

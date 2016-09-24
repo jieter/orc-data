@@ -5,12 +5,13 @@
       0.9874, 
       1.099
     ], 
-    "gph": 768.0, 
     "triple_inshore": [
       0.6041, 
       0.813, 
       0.9218
-    ]
+    ], 
+    "gph": 768.0, 
+    "osn": 747.5
   }, 
   "sailnumber": "NED2684", 
   "name": "IMPULSE", 
@@ -25,10 +26,12 @@
       "spinnaker": 28.3, 
       "loa": 6.988, 
       "draft": 1.38, 
+      "wetted_surface": 10.8, 
       "main": 15.1, 
       "genoa": 14.6, 
       "displacement": 1296.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 308.0
     }, 
     "year": "1978"
   }, 

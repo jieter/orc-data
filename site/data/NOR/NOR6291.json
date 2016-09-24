@@ -5,12 +5,13 @@
       1.0801, 
       1.2028
     ], 
-    "gph": 700.0, 
     "triple_inshore": [
       0.6585, 
       0.8821, 
       1.0142
-    ]
+    ], 
+    "gph": 700.0, 
+    "osn": 684.9
   }, 
   "sailnumber": "NOR6291", 
   "name": "Froya", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.2, 
       "loa": 9.35, 
       "draft": 1.73, 
+      "wetted_surface": 19.2, 
       "main": 28.0, 
       "genoa": 25.8, 
       "displacement": 3846.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1983"
   }, 

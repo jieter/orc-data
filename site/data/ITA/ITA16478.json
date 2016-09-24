@@ -5,12 +5,13 @@
       1.3362, 
       1.5292
     ], 
-    "gph": 574.4, 
     "triple_inshore": [
       0.7683, 
       1.0722, 
       1.279
-    ]
+    ], 
+    "gph": 574.4, 
+    "osn": 557.0
   }, 
   "sailnumber": "ITA16478", 
   "name": "ZEN 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 135.9, 
       "loa": 13.665, 
       "draft": 2.76, 
+      "wetted_surface": 42.4, 
       "main": 60.2, 
       "genoa": 54.0, 
       "displacement": 11365.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 734.0
     }, 
     "year": "2008"
   }, 

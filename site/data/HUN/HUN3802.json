@@ -5,12 +5,13 @@
       1.2288, 
       1.4035
     ], 
-    "gph": 624.5, 
     "triple_inshore": [
       0.7072, 
       0.9873, 
       1.1719
-    ]
+    ], 
+    "gph": 624.5, 
+    "osn": 605.0
   }, 
   "sailnumber": "HUN3802", 
   "name": "Szurkebarat", 
@@ -25,10 +26,12 @@
       "spinnaker": 144.0, 
       "loa": 11.3, 
       "draft": 2.01, 
+      "wetted_surface": 31.9, 
       "main": 40.3, 
       "genoa": 33.3, 
       "displacement": 7545.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "2013"
   }, 

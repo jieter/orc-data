@@ -5,12 +5,13 @@
       0.9287, 
       1.0489
     ], 
-    "gph": 824.5, 
     "triple_inshore": [
       0.5434, 
       0.7461, 
       0.8711
-    ]
+    ], 
+    "gph": 824.5, 
+    "osn": 799.9
   }, 
   "sailnumber": "GER7230", 
   "name": "HAI", 
@@ -25,10 +26,12 @@
       "spinnaker": 32.2, 
       "loa": 7.85, 
       "draft": 1.18, 
+      "wetted_surface": 15.5, 
       "main": 17.0, 
       "genoa": 13.5, 
       "displacement": 2148.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1967"
   }, 

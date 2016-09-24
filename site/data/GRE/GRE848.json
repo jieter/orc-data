@@ -5,12 +5,13 @@
       0.9959, 
       1.1203
     ], 
-    "gph": 766.9, 
     "triple_inshore": [
       0.5899, 
       0.8043, 
       0.9354
-    ]
+    ], 
+    "gph": 766.9, 
+    "osn": 744.7
   }, 
   "sailnumber": "GRE848", 
   "name": "INO", 
@@ -25,10 +26,12 @@
       "spinnaker": 47.8, 
       "loa": 8.31, 
       "draft": 1.64, 
+      "wetted_surface": 16.4, 
       "main": 16.6, 
       "genoa": 26.8, 
       "displacement": 3092.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1974"
   }, 

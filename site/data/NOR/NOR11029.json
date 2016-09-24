@@ -5,12 +5,13 @@
       1.1696, 
       1.3204
     ], 
-    "gph": 653.5, 
     "triple_inshore": [
       0.685, 
       0.9417, 
       1.0996
-    ]
+    ], 
+    "gph": 653.5, 
+    "osn": 635.1
   }, 
   "sailnumber": "NOR11029", 
   "name": "Sjoliv", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.0, 
       "loa": 10.28, 
       "draft": 1.94, 
+      "wetted_surface": 25.2, 
       "main": 33.5, 
       "genoa": 35.6, 
       "displacement": 5174.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 613.0
     }, 
     "year": "2004"
   }, 

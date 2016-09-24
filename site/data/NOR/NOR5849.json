@@ -5,12 +5,13 @@
       1.1782, 
       1.3436
     ], 
-    "gph": 649.8, 
     "triple_inshore": [
       0.6812, 
       0.9472, 
       1.1252
-    ]
+    ], 
+    "gph": 649.8, 
+    "osn": 631.2
   }, 
   "sailnumber": "NOR5849", 
   "name": "Chakita", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.0, 
       "loa": 11.05, 
       "draft": 1.83, 
+      "wetted_surface": 27.7, 
       "main": 38.4, 
       "genoa": 36.9, 
       "displacement": 6071.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 678.0
     }, 
     "year": "1981"
   }, 

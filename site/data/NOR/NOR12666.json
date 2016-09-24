@@ -5,12 +5,13 @@
       1.337, 
       1.5042
     ], 
-    "gph": 569.8, 
     "triple_inshore": [
       0.7959, 
       1.0837, 
       1.2447
-    ]
+    ], 
+    "gph": 569.8, 
+    "osn": 553.9
   }, 
   "sailnumber": "NOR12666", 
   "name": "Uredd II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 2.54, 
+      "wetted_surface": 30.6, 
       "main": 53.2, 
       "genoa": 37.6, 
       "displacement": 6817.0, 
-      "spinnaker_asym": 149.0
+      "spinnaker_asym": 149.0, 
+      "crew": 748.0
     }, 
     "year": "2006"
   }, 

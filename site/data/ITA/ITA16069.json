@@ -5,12 +5,13 @@
       1.2391, 
       1.4055
     ], 
-    "gph": 617.2, 
     "triple_inshore": [
       0.7225, 
       0.997, 
       1.1745
-    ]
+    ], 
+    "gph": 617.2, 
+    "osn": 599.7
   }, 
   "sailnumber": "ITA16069", 
   "name": "MAGIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.9, 
       "loa": 11.913, 
       "draft": 2.02, 
+      "wetted_surface": 30.9, 
       "main": 45.3, 
       "genoa": 42.5, 
       "displacement": 7429.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 620.0
     }, 
     "year": "2002"
   }, 

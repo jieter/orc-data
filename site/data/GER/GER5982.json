@@ -5,12 +5,13 @@
       1.1937, 
       1.3378
     ], 
-    "gph": 638.0, 
     "triple_inshore": [
       0.7106, 
       0.9683, 
       1.1288
-    ]
+    ], 
+    "gph": 638.0, 
+    "osn": 621.7
   }, 
   "sailnumber": "GER5982", 
   "name": "SIXBEAT", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.8, 
       "loa": 10.927, 
       "draft": 2.06, 
+      "wetted_surface": 27.2, 
       "main": 43.3, 
       "genoa": 31.9, 
       "displacement": 5800.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1984"
   }, 

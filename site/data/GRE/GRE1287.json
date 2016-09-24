@@ -5,12 +5,13 @@
       1.0186, 
       1.1838
     ], 
-    "gph": 756.7, 
     "triple_inshore": [
       0.5769, 
       0.8131, 
       0.9888
-    ]
+    ], 
+    "gph": 756.7, 
+    "osn": 730.3
   }, 
   "sailnumber": "GRE1287", 
   "name": "SARA", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.4, 
       "loa": 9.08, 
       "draft": 1.85, 
+      "wetted_surface": 21.5, 
       "main": 19.5, 
       "genoa": 27.5, 
       "displacement": 4513.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1990"
   }, 

@@ -5,12 +5,13 @@
       1.0454, 
       1.1911
     ], 
-    "gph": 726.4, 
     "triple_inshore": [
       0.6254, 
       0.8507, 
       0.9751
-    ]
+    ], 
+    "gph": 726.4, 
+    "osn": 706.6
   }, 
   "sailnumber": "ITA177J24", 
   "name": "VINETA", 
@@ -25,10 +26,12 @@
       "spinnaker": 35.3, 
       "loa": 7.318, 
       "draft": 1.22, 
+      "wetted_surface": 11.9, 
       "main": 16.0, 
       "genoa": 18.8, 
       "displacement": 1271.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1977"
   }, 

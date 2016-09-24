@@ -5,12 +5,13 @@
       1.4392, 
       1.6226
     ], 
-    "gph": 527.4, 
     "triple_inshore": [
       0.8596, 
       1.1512, 
       1.3261
-    ]
+    ], 
+    "gph": 527.4, 
+    "osn": 514.9
   }, 
   "sailnumber": "PER1101", 
   "name": "ALMACENERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 133.7, 
       "loa": 13.8, 
       "draft": 2.81, 
+      "wetted_surface": 35.3, 
       "main": 78.3, 
       "genoa": 49.0, 
       "displacement": 7049.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1000.0
     }, 
     "year": "2005"
   }, 

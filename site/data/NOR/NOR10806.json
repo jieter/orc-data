@@ -5,12 +5,13 @@
       1.1746, 
       1.335
     ], 
-    "gph": 652.2, 
     "triple_inshore": [
       0.6826, 
       0.9351, 
       1.0937
-    ]
+    ], 
+    "gph": 652.2, 
+    "osn": 633.0
   }, 
   "sailnumber": "NOR10806", 
   "name": "Narnia", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.4, 
       "draft": 1.94, 
+      "wetted_surface": 26.5, 
       "main": 30.3, 
       "genoa": 36.6, 
       "displacement": 5475.0, 
-      "spinnaker_asym": 78.0
+      "spinnaker_asym": 78.0, 
+      "crew": 675.0
     }, 
     "year": "2001"
   }, 

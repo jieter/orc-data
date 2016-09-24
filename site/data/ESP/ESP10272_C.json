@@ -5,12 +5,13 @@
       1.1141, 
       1.3008
     ], 
-    "gph": 684.9, 
     "triple_inshore": [
       0.6493, 
       0.8983, 
       1.0503
-    ]
+    ], 
+    "gph": 684.9, 
+    "osn": 663.8
   }, 
   "sailnumber": "ESP10272_C", 
   "name": "PARATI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.62, 
       "draft": 1.76, 
+      "wetted_surface": 12.4, 
       "main": 21.9, 
       "genoa": 12.5, 
       "displacement": 1237.0, 
-      "spinnaker_asym": 35.0
+      "spinnaker_asym": 35.0, 
+      "crew": 480.0
     }, 
     "year": "2005"
   }, 

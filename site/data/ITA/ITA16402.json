@@ -5,12 +5,13 @@
       1.1388, 
       1.2878
     ], 
-    "gph": 671.2, 
     "triple_inshore": [
       0.673, 
       0.9233, 
       1.0812
-    ]
+    ], 
+    "gph": 671.2, 
+    "osn": 650.5
   }, 
   "sailnumber": "ITA16402", 
   "name": "LIMA GOLF 3.1", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.5, 
       "loa": 9.5, 
       "draft": 1.97, 
+      "wetted_surface": 21.6, 
       "main": 29.0, 
       "genoa": 22.4, 
       "displacement": 4135.0, 
-      "spinnaker_asym": 52.0
+      "spinnaker_asym": 52.0, 
+      "crew": 450.0
     }, 
     "year": "1998"
   }, 

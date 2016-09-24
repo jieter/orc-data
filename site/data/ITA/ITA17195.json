@@ -5,12 +5,13 @@
       1.1716, 
       1.355
     ], 
-    "gph": 643.8, 
     "triple_inshore": [
       0.7182, 
       0.9491, 
       1.1039
-    ]
+    ], 
+    "gph": 643.8, 
+    "osn": 626.6
   }, 
   "sailnumber": "ITA17195", 
   "name": "MAGIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 40.1, 
       "loa": 7.47, 
       "draft": 1.64, 
+      "wetted_surface": 12.1, 
       "main": 22.9, 
       "genoa": 12.7, 
       "displacement": 1107.0, 
-      "spinnaker_asym": 68.0
+      "spinnaker_asym": 68.0, 
+      "crew": 425.0
     }, 
     "year": "1995"
   }, 

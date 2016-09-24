@@ -5,12 +5,13 @@
       1.176, 
       1.3375
     ], 
-    "gph": 637.0, 
     "triple_inshore": [
       0.7438, 
       0.9543, 
       1.1101
-    ]
+    ], 
+    "gph": 637.0, 
+    "osn": 622.5
   }, 
   "sailnumber": "SUI14", 
   "name": "ESSE 750", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.5, 
       "draft": 1.72, 
+      "wetted_surface": 12.6, 
       "main": 23.9, 
       "genoa": 11.9, 
       "displacement": 1005.0, 
-      "spinnaker_asym": 60.0
+      "spinnaker_asym": 60.0, 
+      "crew": 220.0
     }, 
     "year": "2011"
   }, 

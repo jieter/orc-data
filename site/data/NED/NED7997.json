@@ -5,12 +5,13 @@
       1.3058, 
       1.4934
     ], 
-    "gph": 585.9, 
     "triple_inshore": [
       0.7608, 
       1.0505, 
       1.2519
-    ]
+    ], 
+    "gph": 585.9, 
+    "osn": 568.4
   }, 
   "sailnumber": "NED7997", 
   "name": "Aquavite", 
@@ -25,10 +26,12 @@
       "spinnaker": 136.9, 
       "loa": 13.66, 
       "draft": 2.48, 
+      "wetted_surface": 37.8, 
       "main": 55.6, 
       "genoa": 46.1, 
       "displacement": 10504.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 848.0
     }, 
     "year": "2008"
   }, 

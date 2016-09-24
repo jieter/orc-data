@@ -5,12 +5,13 @@
       1.1608, 
       1.3208
     ], 
-    "gph": 658.9, 
     "triple_inshore": [
       0.6739, 
       0.9129, 
       1.0828
-    ]
+    ], 
+    "gph": 658.9, 
+    "osn": 642.1
   }, 
   "sailnumber": "GER6323", 
   "name": "SEEBAER III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.275, 
       "draft": 1.53, 
+      "wetted_surface": 36.7, 
       "main": 47.3, 
       "genoa": 39.2, 
       "displacement": 10650.0, 
-      "spinnaker_asym": 87.0
+      "spinnaker_asym": 87.0, 
+      "crew": 300.0
     }, 
     "year": "1990"
   }, 

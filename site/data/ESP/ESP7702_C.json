@@ -5,12 +5,13 @@
       1.2462, 
       1.4192
     ], 
-    "gph": 614.0, 
     "triple_inshore": [
       0.7245, 
       0.9987, 
       1.1811
-    ]
+    ], 
+    "gph": 614.0, 
+    "osn": 596.8
   }, 
   "sailnumber": "ESP7702_C", 
   "name": "MIAJA", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.1, 
       "loa": 12.06, 
       "draft": 2.06, 
+      "wetted_surface": 31.8, 
       "main": 46.7, 
       "genoa": 42.2, 
       "displacement": 7771.0, 
-      "spinnaker_asym": 103.0
+      "spinnaker_asym": 103.0, 
+      "crew": 560.0
     }, 
     "year": "2002"
   }, 

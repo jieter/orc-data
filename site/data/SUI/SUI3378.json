@@ -5,12 +5,13 @@
       1.0947, 
       1.2854
     ], 
-    "gph": 686.6, 
     "triple_inshore": [
       0.6805, 
       0.8794, 
       1.0386
-    ]
+    ], 
+    "gph": 686.6, 
+    "osn": 668.2
   }, 
   "sailnumber": "SUI3378", 
   "name": "BEUGEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.15, 
       "draft": 1.49, 
+      "wetted_surface": 9.4, 
       "main": 17.7, 
       "genoa": 9.1, 
       "displacement": 579.0, 
-      "spinnaker_asym": 43.0
+      "spinnaker_asym": 43.0, 
+      "crew": 270.0
     }, 
     "year": "2003"
   }, 

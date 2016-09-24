@@ -5,12 +5,13 @@
       1.0581, 
       1.2369
     ], 
-    "gph": 726.0, 
     "triple_inshore": [
       0.6013, 
       0.8431, 
       1.0335
-    ]
+    ], 
+    "gph": 726.0, 
+    "osn": 703.0
   }, 
   "sailnumber": "ESP5213_C", 
   "name": "KIMERA III", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.8, 
       "loa": 9.678, 
       "draft": 1.69, 
+      "wetted_surface": 22.1, 
       "main": 24.9, 
       "genoa": 19.7, 
       "displacement": 4504.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1992"
   }, 

@@ -5,12 +5,13 @@
       1.1305, 
       1.2892
     ], 
-    "gph": 677.8, 
     "triple_inshore": [
       0.6572, 
       0.9129, 
       1.0761
-    ]
+    ], 
+    "gph": 677.8, 
+    "osn": 656.6
   }, 
   "sailnumber": "ITA14823", 
   "name": "TEKNO", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.0, 
       "loa": 9.5, 
       "draft": 1.92, 
+      "wetted_surface": 22.3, 
       "main": 25.1, 
       "genoa": 29.4, 
       "displacement": 3842.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1998"
   }, 

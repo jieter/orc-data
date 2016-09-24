@@ -5,12 +5,13 @@
       1.2614, 
       1.4152
     ], 
-    "gph": 602.6, 
     "triple_inshore": [
       0.7496, 
       1.0207, 
       1.1864
-    ]
+    ], 
+    "gph": 602.6, 
+    "osn": 588.5
   }, 
   "sailnumber": "NED7709", 
   "name": "SLAINTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.9, 
       "loa": 11.3, 
       "draft": 2.35, 
+      "wetted_surface": 30.0, 
       "main": 46.2, 
       "genoa": 42.7, 
       "displacement": 6567.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 635.0
     }, 
     "year": "2005"
   }, 

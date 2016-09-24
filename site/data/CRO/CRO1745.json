@@ -5,12 +5,13 @@
       1.4111, 
       1.6052
     ], 
-    "gph": 536.8, 
     "triple_inshore": [
       0.8548, 
       1.1428, 
       1.318
-    ]
+    ], 
+    "gph": 536.8, 
+    "osn": 522.6
   }, 
   "sailnumber": "CRO1745", 
   "name": "Damaco", 
@@ -25,10 +26,12 @@
       "spinnaker": 151.0, 
       "loa": 12.415, 
       "draft": 2.6, 
+      "wetted_surface": 30.0, 
       "main": 59.5, 
       "genoa": 41.6, 
       "displacement": 5116.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "1997"
   }, 

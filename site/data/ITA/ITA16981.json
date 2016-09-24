@@ -5,12 +5,13 @@
       1.2291, 
       1.3945
     ], 
-    "gph": 623.4, 
     "triple_inshore": [
       0.7142, 
       0.9886, 
       1.1597
-    ]
+    ], 
+    "gph": 623.4, 
+    "osn": 604.7
   }, 
   "sailnumber": "ITA16981", 
   "name": "N 2 O", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.5, 
       "loa": 10.97, 
       "draft": 2.18, 
+      "wetted_surface": 28.8, 
       "main": 41.3, 
       "genoa": 32.8, 
       "displacement": 6022.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2011"
   }, 

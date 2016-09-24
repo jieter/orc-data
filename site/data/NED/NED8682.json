@@ -5,12 +5,13 @@
       1.2312, 
       1.4083
     ], 
-    "gph": 623.1, 
     "triple_inshore": [
       0.7078, 
       0.9787, 
       1.16
-    ]
+    ], 
+    "gph": 623.1, 
+    "osn": 604.5
   }, 
   "sailnumber": "NED8682", 
   "name": "Blauwe Iris", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.995, 
       "draft": 1.96, 
+      "wetted_surface": 33.2, 
       "main": 46.5, 
       "genoa": 30.9, 
       "displacement": 7684.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 500.0
     }, 
     "year": "2003"
   }, 

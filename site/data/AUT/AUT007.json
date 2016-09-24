@@ -5,12 +5,13 @@
       1.2118, 
       1.3743
     ], 
-    "gph": 622.6, 
     "triple_inshore": [
       0.7478, 
       0.9797, 
       1.1239
-    ]
+    ], 
+    "gph": 622.6, 
+    "osn": 606.7
   }, 
   "sailnumber": "AUT007", 
   "name": "LA WALLY 4", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.99, 
       "draft": 1.96, 
+      "wetted_surface": 15.8, 
       "main": 27.0, 
       "genoa": 18.5, 
       "displacement": 1540.0, 
-      "spinnaker_asym": 72.0
+      "spinnaker_asym": 72.0, 
+      "crew": 270.0
     }, 
     "year": "2012"
   }, 

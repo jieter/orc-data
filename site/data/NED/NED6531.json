@@ -5,12 +5,13 @@
       1.252, 
       1.4121
     ], 
-    "gph": 608.2, 
     "triple_inshore": [
       0.7424, 
       1.0101, 
       1.1874
-    ]
+    ], 
+    "gph": 608.2, 
+    "osn": 593.0
   }, 
   "sailnumber": "NED6531", 
   "name": "BAIJI", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.7, 
       "loa": 12.267, 
       "draft": 2.3, 
+      "wetted_surface": 33.1, 
       "main": 54.9, 
       "genoa": 51.5, 
       "displacement": 8767.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 580.0
     }, 
     "year": "1991"
   }, 

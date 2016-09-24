@@ -5,12 +5,13 @@
       1.2024, 
       1.3796
     ], 
-    "gph": 636.3, 
     "triple_inshore": [
       0.7001, 
       0.9744, 
       1.1426
-    ]
+    ], 
+    "gph": 636.3, 
+    "osn": 616.0
   }, 
   "sailnumber": "FRA38731", 
   "name": "CHACASTAL 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.9, 
       "loa": 9.515, 
       "draft": 1.97, 
+      "wetted_surface": 22.4, 
       "main": 33.3, 
       "genoa": 24.6, 
       "displacement": 3601.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 595.0
     }, 
     "year": "2010"
   }, 

@@ -5,12 +5,13 @@
       1.7611, 
       2.0943
     ], 
-    "gph": 431.6, 
     "triple_inshore": [
       1.0287, 
       1.3809, 
       1.6515
-    ]
+    ], 
+    "gph": 431.6, 
+    "osn": 420.2
   }, 
   "sailnumber": "ITA18215", 
   "name": "ANYWAVE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 19.21, 
       "draft": 3.95, 
+      "wetted_surface": 50.8, 
       "main": 133.7, 
       "genoa": 73.9, 
       "displacement": 9504.0, 
-      "spinnaker_asym": 330.0
+      "spinnaker_asym": 330.0, 
+      "crew": 1430.0
     }, 
     "year": "2000"
   }, 

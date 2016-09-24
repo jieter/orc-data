@@ -5,12 +5,13 @@
       1.279, 
       1.4892
     ], 
-    "gph": 603.2, 
     "triple_inshore": [
       0.7125, 
       1.0053, 
       1.2137
-    ]
+    ], 
+    "gph": 603.2, 
+    "osn": 584.9
   }, 
   "sailnumber": "ITA17011", 
   "name": "ARCADIA I", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.73, 
       "draft": 2.35, 
+      "wetted_surface": 47.1, 
       "main": 55.8, 
       "genoa": 67.6, 
       "displacement": 13135.0, 
-      "spinnaker_asym": 130.0
+      "spinnaker_asym": 130.0, 
+      "crew": 700.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.0812, 
       1.2369
     ], 
-    "gph": 708.7, 
     "triple_inshore": [
       0.6275, 
       0.8789, 
       1.0495
-    ]
+    ], 
+    "gph": 708.7, 
+    "osn": 686.0
   }, 
   "sailnumber": "ESP1685_C", 
   "name": "PORTO PI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.104, 
       "draft": 2.29, 
+      "wetted_surface": 22.3, 
       "main": 23.8, 
       "genoa": 38.5, 
       "displacement": 4516.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1977"
   }, 

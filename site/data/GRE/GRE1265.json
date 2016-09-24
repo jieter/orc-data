@@ -5,12 +5,13 @@
       1.2598, 
       1.4306
     ], 
-    "gph": 597.3, 
     "triple_inshore": [
       0.7832, 
       1.0243, 
       1.1786
-    ]
+    ], 
+    "gph": 597.3, 
+    "osn": 582.9
   }, 
   "sailnumber": "GRE1265", 
   "name": "TAMUMM", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.435, 
       "draft": 2.16, 
+      "wetted_surface": 18.3, 
       "main": 35.7, 
       "genoa": 20.9, 
       "displacement": 2490.0, 
-      "spinnaker_asym": 106.0
+      "spinnaker_asym": 106.0, 
+      "crew": 573.0
     }, 
     "year": "1994"
   }, 

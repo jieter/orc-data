@@ -5,12 +5,13 @@
       1.2107, 
       1.3459
     ], 
-    "gph": 626.5, 
     "triple_inshore": [
       0.7345, 
       0.9792, 
       1.1148
-    ]
+    ], 
+    "gph": 626.5, 
+    "osn": 611.8
   }, 
   "sailnumber": "NOR12144", 
   "name": "FS 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 1.99, 
+      "wetted_surface": 23.3, 
       "main": 36.0, 
       "genoa": 37.2, 
       "displacement": 4476.0, 
-      "spinnaker_asym": 99.0
+      "spinnaker_asym": 99.0, 
+      "crew": 584.0
     }, 
     "year": "2005"
   }, 

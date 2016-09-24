@@ -5,12 +5,13 @@
       1.3068, 
       1.4958
     ], 
-    "gph": 586.7, 
     "triple_inshore": [
       0.7503, 
       1.0401, 
       1.2383
-    ]
+    ], 
+    "gph": 586.7, 
+    "osn": 570.2
   }, 
   "sailnumber": "NOR11873", 
   "name": "Scirocco III", 
@@ -25,10 +26,12 @@
       "spinnaker": 134.8, 
       "loa": 13.55, 
       "draft": 2.34, 
+      "wetted_surface": 40.6, 
       "main": 56.4, 
       "genoa": 63.0, 
       "displacement": 11219.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 940.0
     }, 
     "year": "2004"
   }, 

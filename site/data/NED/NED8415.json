@@ -5,12 +5,13 @@
       1.4117, 
       1.6518
     ], 
-    "gph": 545.5, 
     "triple_inshore": [
       0.7725, 
       1.0983, 
       1.3481
-    ]
+    ], 
+    "gph": 545.5, 
+    "osn": 533.4
   }, 
   "sailnumber": "NED8415", 
   "name": "Sunshine", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 17.75, 
       "draft": 2.5, 
+      "wetted_surface": 58.1, 
       "main": 89.4, 
       "genoa": 92.5, 
       "displacement": 17260.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1230.0
     }, 
     "year": "2009"
   }, 

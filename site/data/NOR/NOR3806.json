@@ -5,12 +5,13 @@
       1.0865, 
       1.2101
     ], 
-    "gph": 697.4, 
     "triple_inshore": [
       0.663, 
       0.8858, 
       1.0172
-    ]
+    ], 
+    "gph": 697.4, 
+    "osn": 680.7
   }, 
   "sailnumber": "NOR3806", 
   "name": "Godemine", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.8, 
       "loa": 9.5, 
       "draft": 1.75, 
+      "wetted_surface": 20.7, 
       "main": 31.7, 
       "genoa": 30.4, 
       "displacement": 4679.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 478.0
     }, 
     "year": "1982"
   }, 

@@ -5,12 +5,13 @@
       1.0879, 
       1.2397
     ], 
-    "gph": 702.9, 
     "triple_inshore": [
       0.6368, 
       0.8791, 
       1.0383
-    ]
+    ], 
+    "gph": 702.9, 
+    "osn": 681.8
   }, 
   "sailnumber": "NED8218", 
   "name": "Bliss", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.8, 
       "loa": 9.53, 
       "draft": 1.69, 
+      "wetted_surface": 20.4, 
       "main": 27.8, 
       "genoa": 20.7, 
       "displacement": 3732.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 485.0
     }, 
     "year": "1989"
   }, 

@@ -5,12 +5,13 @@
       1.1678, 
       1.3484
     ], 
-    "gph": 657.3, 
     "triple_inshore": [
       0.666, 
       0.921, 
       1.1083
-    ]
+    ], 
+    "gph": 657.3, 
+    "osn": 638.4
   }, 
   "sailnumber": "NED5680", 
   "name": "FLEUR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.71, 
       "draft": 2.03, 
+      "wetted_surface": 33.8, 
       "main": 35.5, 
       "genoa": 47.2, 
       "displacement": 8313.0, 
-      "spinnaker_asym": 90.0
+      "spinnaker_asym": 90.0, 
+      "crew": 750.0
     }, 
     "year": "1985"
   }, 

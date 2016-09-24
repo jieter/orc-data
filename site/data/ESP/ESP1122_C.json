@@ -5,12 +5,13 @@
       1.1228, 
       1.2746
     ], 
-    "gph": 680.1, 
     "triple_inshore": [
       0.656, 
       0.8876, 
       1.0453
-    ]
+    ], 
+    "gph": 680.1, 
+    "osn": 663.4
   }, 
   "sailnumber": "ESP1122_C", 
   "name": "EUREKA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.94, 
       "draft": 1.7, 
+      "wetted_surface": 28.3, 
       "main": 29.7, 
       "genoa": 43.4, 
       "displacement": 7423.0, 
-      "spinnaker_asym": 102.0
+      "spinnaker_asym": 102.0, 
+      "crew": 500.0
     }, 
     "year": "1980"
   }, 

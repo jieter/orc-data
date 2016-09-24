@@ -5,12 +5,13 @@
       1.1126, 
       1.259
     ], 
-    "gph": 687.7, 
     "triple_inshore": [
       0.6529, 
       0.9041, 
       1.0581
-    ]
+    ], 
+    "gph": 687.7, 
+    "osn": 666.6
   }, 
   "sailnumber": "ESP7270", 
   "name": "MARATHON DOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.2, 
       "loa": 8.792, 
       "draft": 2.02, 
+      "wetted_surface": 21.2, 
       "main": 30.0, 
       "genoa": 19.9, 
       "displacement": 3485.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "2002"
   }, 

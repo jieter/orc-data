@@ -5,12 +5,13 @@
       1.2302, 
       1.3756
     ], 
-    "gph": 617.7, 
     "triple_inshore": [
       0.7377, 
       0.9937, 
       1.148
-    ]
+    ], 
+    "gph": 617.7, 
+    "osn": 603.0
   }, 
   "sailnumber": "NOR11051", 
   "name": "AQUA VITAE", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.0, 
       "loa": 10.79, 
       "draft": 2.01, 
+      "wetted_surface": 26.6, 
       "main": 41.7, 
       "genoa": 42.6, 
       "displacement": 5784.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 708.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.3272, 
       1.5058
     ], 
-    "gph": 574.1, 
     "triple_inshore": [
       0.7746, 
       1.0585, 
       1.2419
-    ]
+    ], 
+    "gph": 574.1, 
+    "osn": 561.0
   }, 
   "sailnumber": "NOR14643", 
   "name": "Begge Dehler", 
@@ -25,10 +26,12 @@
       "spinnaker": 138.0, 
       "loa": 12.383, 
       "draft": 2.44, 
+      "wetted_surface": 38.4, 
       "main": 57.8, 
       "genoa": 48.1, 
       "displacement": 9041.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 884.0
     }, 
     "year": "2011"
   }, 

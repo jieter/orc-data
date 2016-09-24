@@ -5,12 +5,13 @@
       1.3383, 
       1.5048
     ], 
-    "gph": 569.8, 
     "triple_inshore": [
       0.79, 
       1.0763, 
       1.2535
-    ]
+    ], 
+    "gph": 569.8, 
+    "osn": 555.5
   }, 
   "sailnumber": "NOR14202", 
   "name": "FRI FLYT", 
@@ -25,10 +26,12 @@
       "spinnaker": 131.1, 
       "loa": 13.37, 
       "draft": 2.62, 
+      "wetted_surface": 38.0, 
       "main": 63.5, 
       "genoa": 58.0, 
       "displacement": 9440.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 869.0
     }, 
     "year": "2003"
   }, 

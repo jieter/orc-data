@@ -5,12 +5,13 @@
       1.1031, 
       1.3187
     ], 
-    "gph": 702.3, 
     "triple_inshore": [
       0.5964, 
       0.8686, 
       1.0891
-    ]
+    ], 
+    "gph": 702.3, 
+    "osn": 678.8
   }, 
   "sailnumber": "ESP10273_C", 
   "name": "ALTAIR SEXTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.772, 
       "draft": 1.92, 
+      "wetted_surface": 34.7, 
       "main": 36.0, 
       "genoa": 47.0, 
       "displacement": 9256.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 525.0
     }, 
     "year": "1998"
   }, 

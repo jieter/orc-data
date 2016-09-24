@@ -5,12 +5,13 @@
       1.2995, 
       1.4728
     ], 
-    "gph": 588.6, 
     "triple_inshore": [
       0.7604, 
       1.0482, 
       1.2286
-    ]
+    ], 
+    "gph": 588.6, 
+    "osn": 571.6
   }, 
   "sailnumber": "ITA16481", 
   "name": "NIENTEMALE", 
@@ -25,10 +26,12 @@
       "spinnaker": 129.0, 
       "loa": 12.24, 
       "draft": 2.47, 
+      "wetted_surface": 34.6, 
       "main": 52.9, 
       "genoa": 40.7, 
       "displacement": 7796.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2009"
   }, 

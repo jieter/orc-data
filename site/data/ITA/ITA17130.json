@@ -5,12 +5,13 @@
       1.4304, 
       1.6363
     ], 
-    "gph": 538.4, 
     "triple_inshore": [
       0.8097, 
       1.1347, 
       1.3378
-    ]
+    ], 
+    "gph": 538.4, 
+    "osn": 522.5
   }, 
   "sailnumber": "ITA17130", 
   "name": "BLACK HILL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.4, 
       "draft": 2.87, 
+      "wetted_surface": 52.0, 
       "main": 81.5, 
       "genoa": 56.5, 
       "displacement": 14200.0, 
-      "spinnaker_asym": 196.0
+      "spinnaker_asym": 196.0, 
+      "crew": 1148.0
     }, 
     "year": "2015"
   }, 

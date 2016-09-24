@@ -5,12 +5,13 @@
       0.9795, 
       1.0908
     ], 
-    "gph": 777.8, 
     "triple_inshore": [
       0.5824, 
       0.7835, 
       0.8967
-    ]
+    ], 
+    "gph": 777.8, 
+    "osn": 760.4
   }, 
   "sailnumber": "ITA17154", 
   "name": "ITACA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.88, 
       "draft": 1.5, 
+      "wetted_surface": 13.5, 
       "main": 15.7, 
       "genoa": 24.6, 
       "displacement": 2018.0, 
-      "spinnaker_asym": 48.0
+      "spinnaker_asym": 48.0, 
+      "crew": 300.0
     }, 
     "year": "1972"
   }, 

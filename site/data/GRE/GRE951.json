@@ -5,12 +5,13 @@
       1.1789, 
       1.3743
     ], 
-    "gph": 655.6, 
     "triple_inshore": [
       0.6525, 
       0.932, 
       1.1348
-    ]
+    ], 
+    "gph": 655.6, 
+    "osn": 634.2
   }, 
   "sailnumber": "GRE951", 
   "name": "ANIMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.4, 
       "loa": 12.32, 
       "draft": 2.04, 
+      "wetted_surface": 36.5, 
       "main": 34.8, 
       "genoa": 53.9, 
       "displacement": 8376.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1998"
   }, 

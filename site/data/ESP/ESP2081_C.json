@@ -5,12 +5,13 @@
       1.0404, 
       1.1976
     ], 
-    "gph": 735.4, 
     "triple_inshore": [
       0.6045, 
       0.835, 
       1.0034
-    ]
+    ], 
+    "gph": 735.4, 
+    "osn": 713.7
   }, 
   "sailnumber": "ESP2081_C", 
   "name": "SAGITARIO II", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.1, 
       "loa": 9.535, 
       "draft": 1.75, 
+      "wetted_surface": 21.7, 
       "main": 19.7, 
       "genoa": 30.7, 
       "displacement": 4504.0, 
-      "spinnaker_asym": 69.0
+      "spinnaker_asym": 69.0, 
+      "crew": 200.0
     }, 
     "year": "1979"
   }, 

@@ -5,12 +5,13 @@
       1.3161, 
       1.495
     ], 
-    "gph": 580.3, 
     "triple_inshore": [
       0.7717, 
       1.0592, 
       1.2355
-    ]
+    ], 
+    "gph": 580.3, 
+    "osn": 563.8
   }, 
   "sailnumber": "ITA16677", 
   "name": "MON ILE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.24, 
       "draft": 2.5, 
+      "wetted_surface": 35.2, 
       "main": 52.9, 
       "genoa": 49.9, 
       "displacement": 8231.0, 
-      "spinnaker_asym": 142.0
+      "spinnaker_asym": 142.0, 
+      "crew": 805.0
     }, 
     "year": "2009"
   }, 

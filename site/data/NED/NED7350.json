@@ -5,12 +5,13 @@
       1.268, 
       1.4592
     ], 
-    "gph": 605.9, 
     "triple_inshore": [
       0.7226, 
       1.0026, 
       1.196
-    ]
+    ], 
+    "gph": 605.9, 
+    "osn": 588.1
   }, 
   "sailnumber": "NED7350", 
   "name": "Eelgersee", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.33, 
       "draft": 2.13, 
+      "wetted_surface": 39.1, 
       "main": 51.4, 
       "genoa": 45.6, 
       "displacement": 10645.0, 
-      "spinnaker_asym": 127.0
+      "spinnaker_asym": 127.0, 
+      "crew": 920.0
     }, 
     "year": "2004"
   }, 

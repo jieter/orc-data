@@ -5,12 +5,13 @@
       1.1428, 
       1.306
     ], 
-    "gph": 670.1, 
     "triple_inshore": [
       0.668, 
       0.9322, 
       1.0917
-    ]
+    ], 
+    "gph": 670.1, 
+    "osn": 647.8
   }, 
   "sailnumber": "ESP7190_C", 
   "name": "BRITO", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.3, 
       "loa": 8.3, 
       "draft": 2.15, 
+      "wetted_surface": 20.1, 
       "main": 28.3, 
       "genoa": 19.3, 
       "displacement": 2613.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       1.1307, 
       1.2886
     ], 
-    "gph": 678.2, 
     "triple_inshore": [
       0.6557, 
       0.9082, 
       1.0808
-    ]
+    ], 
+    "gph": 678.2, 
+    "osn": 657.2
   }, 
   "sailnumber": "GER6715", 
   "name": "KIWI-MAGIC", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.8, 
       "loa": 10.615, 
       "draft": 1.9, 
+      "wetted_surface": 26.5, 
       "main": 33.1, 
       "genoa": 23.8, 
       "displacement": 6040.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 310.0
     }, 
     "year": "1993"
   }, 

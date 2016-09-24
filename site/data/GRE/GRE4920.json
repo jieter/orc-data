@@ -5,12 +5,13 @@
       0.964, 
       1.1164
     ], 
-    "gph": 796.7, 
     "triple_inshore": [
       0.5518, 
       0.7581, 
       0.9191
-    ]
+    ], 
+    "gph": 796.7, 
+    "osn": 773.1
   }, 
   "sailnumber": "GRE4920", 
   "name": "GALINI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.2, 
       "draft": 1.69, 
+      "wetted_surface": 19.3, 
       "main": 14.5, 
       "genoa": 24.9, 
       "displacement": 4012.0, 
-      "spinnaker_asym": 45.0
+      "spinnaker_asym": 45.0, 
+      "crew": 250.0
     }, 
     "year": "1973"
   }, 

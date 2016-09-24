@@ -5,12 +5,13 @@
       1.1367, 
       1.3032
     ], 
-    "gph": 664.1, 
     "triple_inshore": [
       0.6956, 
       0.9204, 
       1.0446
-    ]
+    ], 
+    "gph": 664.1, 
+    "osn": 647.5
   }, 
   "sailnumber": "ESP10309_C", 
   "name": "CANDELA", 
@@ -25,10 +26,12 @@
       "spinnaker": 44.4, 
       "loa": 7.2, 
       "draft": 1.4, 
+      "wetted_surface": 11.9, 
       "main": 21.0, 
       "genoa": 18.6, 
       "displacement": 1138.0, 
-      "spinnaker_asym": 44.0
+      "spinnaker_asym": 44.0, 
+      "crew": 480.0
     }, 
     "year": "1982"
   }, 

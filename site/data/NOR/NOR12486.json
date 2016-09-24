@@ -5,12 +5,13 @@
       1.1826, 
       1.3533
     ], 
-    "gph": 648.9, 
     "triple_inshore": [
       0.6813, 
       0.9489, 
       1.1281
-    ]
+    ], 
+    "gph": 648.9, 
+    "osn": 628.6
   }, 
   "sailnumber": "NOR12486", 
   "name": "Juni", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.5, 
       "loa": 10.69, 
       "draft": 1.95, 
+      "wetted_surface": 28.4, 
       "main": 31.9, 
       "genoa": 37.3, 
       "displacement": 5978.0, 
-      "spinnaker_asym": 79.0
+      "spinnaker_asym": 79.0, 
+      "crew": 676.0
     }, 
     "year": "2006"
   }, 

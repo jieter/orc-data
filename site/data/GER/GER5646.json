@@ -5,12 +5,13 @@
       1.2531, 
       1.4281
     ], 
-    "gph": 610.5, 
     "triple_inshore": [
       0.7276, 
       1.0035, 
       1.1859
-    ]
+    ], 
+    "gph": 610.5, 
+    "osn": 593.6
   }, 
   "sailnumber": "GER5646", 
   "name": "FREI-TAG", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.3, 
       "loa": 11.995, 
       "draft": 1.95, 
+      "wetted_surface": 32.8, 
       "main": 50.1, 
       "genoa": 37.7, 
       "displacement": 7409.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 485.0
     }, 
     "year": "2003"
   }, 

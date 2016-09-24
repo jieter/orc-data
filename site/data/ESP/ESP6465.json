@@ -5,12 +5,13 @@
       1.2, 
       1.352
     ], 
-    "gph": 637.2, 
     "triple_inshore": [
       0.7023, 
       0.9597, 
       1.1229
-    ]
+    ], 
+    "gph": 637.2, 
+    "osn": 619.7
   }, 
   "sailnumber": "ESP6465", 
   "name": "JULIETA", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.3, 
       "loa": 12.2, 
       "draft": 1.99, 
+      "wetted_surface": 31.3, 
       "main": 45.1, 
       "genoa": 37.6, 
       "displacement": 7555.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 200.0
     }, 
     "year": "1988"
   }, 

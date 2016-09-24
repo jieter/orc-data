@@ -5,12 +5,13 @@
       1.116, 
       1.3071
     ], 
-    "gph": 690.7, 
     "triple_inshore": [
       0.6261, 
       0.8846, 
       1.082
-    ]
+    ], 
+    "gph": 690.7, 
+    "osn": 668.1
   }, 
   "sailnumber": "GRE49687", 
   "name": "ANNA KATERINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.0, 
       "loa": 11.23, 
       "draft": 1.89, 
+      "wetted_surface": 30.9, 
       "main": 28.4, 
       "genoa": 38.9, 
       "displacement": 6831.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 695.0
     }, 
     "year": "1994"
   }, 

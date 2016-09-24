@@ -5,12 +5,13 @@
       1.3147, 
       1.5277
     ], 
-    "gph": 588.9, 
     "triple_inshore": [
       0.7237, 
       1.0272, 
       1.2275
-    ]
+    ], 
+    "gph": 588.9, 
+    "osn": 570.2
   }, 
   "sailnumber": "CRO1926", 
   "name": "God Speed", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.964, 
       "draft": 2.19, 
+      "wetted_surface": 52.1, 
       "main": 64.8, 
       "genoa": 57.6, 
       "displacement": 14100.0, 
-      "spinnaker_asym": 169.0
+      "spinnaker_asym": 169.0, 
+      "crew": 1047.0
     }, 
     "year": "2011"
   }, 

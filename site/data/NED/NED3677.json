@@ -5,12 +5,13 @@
       1.2517, 
       1.4072
     ], 
-    "gph": 607.1, 
     "triple_inshore": [
       0.75, 
       1.0124, 
       1.1708
-    ]
+    ], 
+    "gph": 607.1, 
+    "osn": 592.1
   }, 
   "sailnumber": "NED3677", 
   "name": "TOO HOT TO HANDLE", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.4, 
       "loa": 11.36, 
       "draft": 2.09, 
+      "wetted_surface": 27.3, 
       "main": 38.3, 
       "genoa": 53.5, 
       "displacement": 5306.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "1992"
   }, 

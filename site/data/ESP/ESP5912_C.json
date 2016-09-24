@@ -5,12 +5,13 @@
       1.1496, 
       1.3041
     ], 
-    "gph": 665.0, 
     "triple_inshore": [
       0.6719, 
       0.9243, 
       1.0884
-    ]
+    ], 
+    "gph": 665.0, 
+    "osn": 646.6
   }, 
   "sailnumber": "ESP5912_C", 
   "name": "TREN EXPRESSO", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.8, 
       "loa": 10.662, 
       "draft": 1.93, 
+      "wetted_surface": 26.6, 
       "main": 32.7, 
       "genoa": 51.8, 
       "displacement": 5977.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1982"
   }, 

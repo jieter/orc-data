@@ -5,12 +5,13 @@
       1.1866, 
       1.3406
     ], 
-    "gph": 645.0, 
     "triple_inshore": [
       0.6928, 
       0.9474, 
       1.1075
-    ]
+    ], 
+    "gph": 645.0, 
+    "osn": 626.4
   }, 
   "sailnumber": "SUI243", 
   "name": "PAUA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.5, 
       "draft": 2.02, 
+      "wetted_surface": 28.1, 
       "main": 37.4, 
       "genoa": 30.9, 
       "displacement": 5918.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 665.0
     }, 
     "year": "2007"
   }, 

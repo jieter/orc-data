@@ -5,12 +5,13 @@
       1.1803, 
       1.3427
     ], 
-    "gph": 647.7, 
     "triple_inshore": [
       0.6906, 
       0.9504, 
       1.1242
-    ]
+    ], 
+    "gph": 647.7, 
+    "osn": 628.7
   }, 
   "sailnumber": "NED7389", 
   "name": "Liink", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.7, 
       "loa": 10.944, 
       "draft": 2.1, 
+      "wetted_surface": 29.6, 
       "main": 37.6, 
       "genoa": 42.8, 
       "displacement": 6721.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 667.0
     }, 
     "year": "1995"
   }, 

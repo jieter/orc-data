@@ -5,12 +5,13 @@
       1.2708, 
       1.4422
     ], 
-    "gph": 600.9, 
     "triple_inshore": [
       0.7469, 
       1.0255, 
       1.2056
-    ]
+    ], 
+    "gph": 600.9, 
+    "osn": 583.7
   }, 
   "sailnumber": "NED8438", 
   "name": "Daredevil", 
@@ -25,10 +26,12 @@
       "spinnaker": 121.2, 
       "loa": 11.58, 
       "draft": 2.15, 
+      "wetted_surface": 32.2, 
       "main": 47.3, 
       "genoa": 38.5, 
       "displacement": 7692.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 767.0
     }, 
     "year": "2011"
   }, 

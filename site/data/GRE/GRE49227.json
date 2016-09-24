@@ -5,12 +5,13 @@
       1.1146, 
       1.3008
     ], 
-    "gph": 691.2, 
     "triple_inshore": [
       0.6298, 
       0.8849, 
       1.0806
-    ]
+    ], 
+    "gph": 691.2, 
+    "osn": 668.2
   }, 
   "sailnumber": "GRE49227", 
   "name": "GLAROS II", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.7, 
       "loa": 11.72, 
       "draft": 2.19, 
+      "wetted_surface": 31.8, 
       "main": 32.7, 
       "genoa": 39.2, 
       "displacement": 8439.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "1982"
   }, 

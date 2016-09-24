@@ -5,12 +5,13 @@
       1.2055, 
       1.3517
     ], 
-    "gph": 632.4, 
     "triple_inshore": [
       0.7167, 
       0.9764, 
       1.1325
-    ]
+    ], 
+    "gph": 632.4, 
+    "osn": 615.8
   }, 
   "sailnumber": "CRO5652", 
   "name": "Mr. DeeJay", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.3, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.7, 
       "main": 39.9, 
       "genoa": 38.2, 
       "displacement": 5771.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2001"
   }, 

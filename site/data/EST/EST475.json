@@ -5,12 +5,13 @@
       1.3208, 
       1.4947
     ], 
-    "gph": 578.3, 
     "triple_inshore": [
       0.7769, 
       1.0674, 
       1.2431
-    ]
+    ], 
+    "gph": 578.3, 
+    "osn": 562.0
   }, 
   "sailnumber": "EST475", 
   "name": "FORTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 126.7, 
       "loa": 12.35, 
       "draft": 2.5, 
+      "wetted_surface": 32.6, 
       "main": 49.0, 
       "genoa": 45.0, 
       "displacement": 6899.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 870.0
     }, 
     "year": "2006"
   }, 

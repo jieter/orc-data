@@ -5,12 +5,13 @@
       1.2653, 
       1.4728
     ], 
-    "gph": 609.5, 
     "triple_inshore": [
       0.7048, 
       0.9913, 
       1.1924
-    ]
+    ], 
+    "gph": 609.5, 
+    "osn": 591.6
   }, 
   "sailnumber": "NOR11864", 
   "name": "Veliero", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.73, 
       "draft": 2.1, 
+      "wetted_surface": 44.5, 
       "main": 50.7, 
       "genoa": 59.9, 
       "displacement": 11656.0, 
-      "spinnaker_asym": 128.0
+      "spinnaker_asym": 128.0, 
+      "crew": 915.0
     }, 
     "year": "2002"
   }, 

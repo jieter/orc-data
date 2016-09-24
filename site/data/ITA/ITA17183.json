@@ -5,12 +5,13 @@
       1.2558, 
       1.4672
     ], 
-    "gph": 612.9, 
     "triple_inshore": [
       0.6915, 
       0.979, 
       1.1986
-    ]
+    ], 
+    "gph": 612.9, 
+    "osn": 598.1
   }, 
   "sailnumber": "ITA17183", 
   "name": "ORSO BRILLO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.715, 
       "draft": 2.28, 
+      "wetted_surface": 39.9, 
       "main": 46.5, 
       "genoa": 56.9, 
       "displacement": 9700.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2004"
   }, 

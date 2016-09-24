@@ -5,12 +5,13 @@
       1.2137, 
       1.3927
     ], 
-    "gph": 617.6, 
     "triple_inshore": [
       0.7507, 
       0.969, 
       1.125
-    ]
+    ], 
+    "gph": 617.6, 
+    "osn": 606.8
   }, 
   "sailnumber": "RUS297", 
   "name": "Kvartet", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.0, 
       "draft": 1.91, 
+      "wetted_surface": 13.3, 
       "main": 24.6, 
       "genoa": 14.6, 
       "displacement": 1140.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 365.0
     }, 
     "year": "2008"
   }, 

@@ -5,12 +5,13 @@
       1.3236, 
       1.5473
     ], 
-    "gph": 580.8, 
     "triple_inshore": [
       0.7464, 
       1.0447, 
       1.2655
-    ]
+    ], 
+    "gph": 580.8, 
+    "osn": 563.7
   }, 
   "sailnumber": "ITAAMANDA", 
   "name": "AMANDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.85, 
       "draft": 2.23, 
+      "wetted_surface": 47.5, 
       "main": 62.2, 
       "genoa": 59.6, 
       "displacement": 13788.0, 
-      "spinnaker_asym": 150.0
+      "spinnaker_asym": 150.0, 
+      "crew": 640.0
     }, 
     "year": "2012"
   }, 

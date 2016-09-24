@@ -5,12 +5,13 @@
       1.1443, 
       1.2873
     ], 
-    "gph": 666.3, 
     "triple_inshore": [
       0.6813, 
       0.9326, 
       1.0772
-    ]
+    ], 
+    "gph": 666.3, 
+    "osn": 647.3
   }, 
   "sailnumber": "NED7739", 
   "name": "Jiggle", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.0, 
       "loa": 9.14, 
       "draft": 1.83, 
+      "wetted_surface": 19.0, 
       "main": 27.0, 
       "genoa": 19.1, 
       "displacement": 2766.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 310.0
     }, 
     "year": "1992"
   }, 

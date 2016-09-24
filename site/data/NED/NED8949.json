@@ -5,12 +5,13 @@
       1.3145, 
       1.4912
     ], 
-    "gph": 581.9, 
     "triple_inshore": [
       0.77, 
       1.0606, 
       1.2518
-    ]
+    ], 
+    "gph": 581.9, 
+    "osn": 564.7
   }, 
   "sailnumber": "NED8949", 
   "name": "Avanti", 
@@ -25,10 +26,12 @@
       "spinnaker": 151.5, 
       "loa": 12.95, 
       "draft": 2.33, 
+      "wetted_surface": 37.8, 
       "main": 57.9, 
       "genoa": 41.2, 
       "displacement": 10187.0, 
-      "spinnaker_asym": 123.0
+      "spinnaker_asym": 123.0, 
+      "crew": 640.0
     }, 
     "year": "2000"
   }, 

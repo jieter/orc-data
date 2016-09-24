@@ -5,12 +5,13 @@
       1.2715, 
       1.4313
     ], 
-    "gph": 600.0, 
     "triple_inshore": [
       0.7522, 
       1.0212, 
       1.1866
-    ]
+    ], 
+    "gph": 600.0, 
+    "osn": 583.5
   }, 
   "sailnumber": "NED8338", 
   "name": "De Zomer", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.58, 
       "draft": 2.15, 
+      "wetted_surface": 32.5, 
       "main": 47.3, 
       "genoa": 38.3, 
       "displacement": 7904.0, 
-      "spinnaker_asym": 134.0
+      "spinnaker_asym": 134.0, 
+      "crew": 772.0
     }, 
     "year": "2011"
   }, 

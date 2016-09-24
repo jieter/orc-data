@@ -5,12 +5,13 @@
       1.1585, 
       1.3071
     ], 
-    "gph": 660.0, 
     "triple_inshore": [
       0.681, 
       0.9367, 
       1.0963
-    ]
+    ], 
+    "gph": 660.0, 
+    "osn": 641.2
   }, 
   "sailnumber": "NED5783", 
   "name": "Que Guapa", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.7, 
       "loa": 10.06, 
       "draft": 1.85, 
+      "wetted_surface": 24.7, 
       "main": 35.4, 
       "genoa": 26.1, 
       "displacement": 4924.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 440.0
     }, 
     "year": "1994"
   }, 

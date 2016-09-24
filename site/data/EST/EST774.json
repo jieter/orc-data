@@ -5,12 +5,13 @@
       1.2211, 
       1.3847
     ], 
-    "gph": 624.6, 
     "triple_inshore": [
       0.7199, 
       0.9837, 
       1.1434
-    ]
+    ], 
+    "gph": 624.6, 
+    "osn": 607.7
   }, 
   "sailnumber": "EST774", 
   "name": "SUGAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.4, 
       "loa": 10.3, 
       "draft": 1.9, 
+      "wetted_surface": 24.8, 
       "main": 38.8, 
       "genoa": 32.7, 
       "displacement": 4522.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 630.0
     }, 
     "year": "2014"
   }, 

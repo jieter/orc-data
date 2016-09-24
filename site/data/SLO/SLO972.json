@@ -5,12 +5,13 @@
       1.3235, 
       1.5158
     ], 
-    "gph": 580.1, 
     "triple_inshore": [
       0.7568, 
       1.054, 
       1.2556
-    ]
+    ], 
+    "gph": 580.1, 
+    "osn": 562.6
   }, 
   "sailnumber": "SLO972", 
   "name": "Sky", 
@@ -25,10 +26,12 @@
       "spinnaker": 158.8, 
       "loa": 13.58, 
       "draft": 2.28, 
+      "wetted_surface": 45.5, 
       "main": 62.0, 
       "genoa": 47.6, 
       "displacement": 12262.0, 
-      "spinnaker_asym": 174.0
+      "spinnaker_asym": 174.0, 
+      "crew": 900.0
     }, 
     "year": "2008"
   }, 

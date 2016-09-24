@@ -5,12 +5,13 @@
       1.1623, 
       1.3249
     ], 
-    "gph": 658.4, 
     "triple_inshore": [
       0.6761, 
       0.9355, 
       1.1101
-    ]
+    ], 
+    "gph": 658.4, 
+    "osn": 638.9
   }, 
   "sailnumber": "GER6520", 
   "name": "BAZZ", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.0, 
       "loa": 10.3, 
       "draft": 1.98, 
+      "wetted_surface": 26.0, 
       "main": 32.3, 
       "genoa": 34.2, 
       "displacement": 5725.0, 
-      "spinnaker_asym": 79.0
+      "spinnaker_asym": 79.0, 
+      "crew": 580.0
     }, 
     "year": "2003"
   }, 

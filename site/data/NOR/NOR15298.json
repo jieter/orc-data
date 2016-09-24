@@ -5,12 +5,13 @@
       1.0242, 
       1.137
     ], 
-    "gph": 740.6, 
     "triple_inshore": [
       0.6271, 
       0.841, 
       0.9583
-    ]
+    ], 
+    "gph": 740.6, 
+    "osn": 721.0
   }, 
   "sailnumber": "NOR15298", 
   "name": "Tyr", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.5, 
       "loa": 8.28, 
       "draft": 1.55, 
+      "wetted_surface": 15.2, 
       "main": 14.9, 
       "genoa": 25.0, 
       "displacement": 2563.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 404.0
     }, 
     "year": "1977"
   }, 

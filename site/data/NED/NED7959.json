@@ -5,12 +5,13 @@
       1.1244, 
       1.2918
     ], 
-    "gph": 682.1, 
     "triple_inshore": [
       0.6514, 
       0.9088, 
       1.0844
-    ]
+    ], 
+    "gph": 682.1, 
+    "osn": 659.6
   }, 
   "sailnumber": "NED7959", 
   "name": "Kymera", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.2, 
       "loa": 9.49, 
       "draft": 1.94, 
+      "wetted_surface": 22.6, 
       "main": 25.5, 
       "genoa": 25.3, 
       "displacement": 4008.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 590.0
     }, 
     "year": "1998"
   }, 

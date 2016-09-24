@@ -5,12 +5,13 @@
       1.4217, 
       1.6146
     ], 
-    "gph": 532.3, 
     "triple_inshore": [
       0.8632, 
       1.1459, 
       1.3124
-    ]
+    ], 
+    "gph": 532.3, 
+    "osn": 518.6
   }, 
   "sailnumber": "ITA16434", 
   "name": "IRINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.411, 
       "draft": 2.6, 
+      "wetted_surface": 30.1, 
       "main": 64.5, 
       "genoa": 40.8, 
       "displacement": 5160.0, 
-      "spinnaker_asym": 148.0
+      "spinnaker_asym": 148.0, 
+      "crew": 930.0
     }, 
     "year": "1997"
   }, 

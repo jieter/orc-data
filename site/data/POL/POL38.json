@@ -5,12 +5,13 @@
       1.004, 
       1.1077
     ], 
-    "gph": 754.5, 
     "triple_inshore": [
       0.6138, 
       0.8174, 
       0.912
-    ]
+    ], 
+    "gph": 754.5, 
+    "osn": 737.6
   }, 
   "sailnumber": "POL38", 
   "name": "TWINS", 
@@ -25,10 +26,12 @@
       "spinnaker": 30.1, 
       "loa": 7.775, 
       "draft": 1.1, 
+      "wetted_surface": 11.9, 
       "main": 21.4, 
       "genoa": 10.2, 
       "displacement": 1402.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 339.0
     }, 
     "year": "1985"
   }, 

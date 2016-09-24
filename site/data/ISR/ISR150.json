@@ -5,12 +5,13 @@
       0.9541, 
       1.1423
     ], 
-    "gph": 808.9, 
     "triple_inshore": [
       0.5235, 
       0.7416, 
       0.9263
-    ]
+    ], 
+    "gph": 808.9, 
+    "osn": 782.5
   }, 
   "sailnumber": "ISR150", 
   "name": "Bellendaine", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.0, 
       "loa": 10.02, 
       "draft": 1.4, 
+      "wetted_surface": 26.4, 
       "main": 20.1, 
       "genoa": 27.0, 
       "displacement": 5795.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 562.0
     }, 
     "year": "1978"
   }, 

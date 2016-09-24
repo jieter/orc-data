@@ -5,12 +5,13 @@
       1.1004, 
       1.3509
     ], 
-    "gph": 709.3, 
     "triple_inshore": [
       0.5785, 
       0.8685, 
       1.1148
-    ]
+    ], 
+    "gph": 709.3, 
+    "osn": 680.1
   }, 
   "sailnumber": "GRE1721", 
   "name": "MESOGEIOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.526, 
       "draft": 2.12, 
+      "wetted_surface": 36.9, 
       "main": 34.7, 
       "genoa": 39.4, 
       "displacement": 8410.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 854.0
     }, 
     "year": "2005"
   }, 

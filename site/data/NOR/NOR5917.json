@@ -5,12 +5,13 @@
       0.9992, 
       1.0987
     ], 
-    "gph": 751.9, 
     "triple_inshore": [
       0.6346, 
       0.8204, 
       0.9046
-    ]
+    ], 
+    "gph": 751.9, 
+    "osn": 736.0
   }, 
   "sailnumber": "NOR5917", 
   "name": "StayWet", 
@@ -25,10 +26,12 @@
       "spinnaker": 28.0, 
       "loa": 7.14, 
       "draft": 1.4, 
+      "wetted_surface": 8.5, 
       "main": 17.4, 
       "genoa": 11.7, 
       "displacement": 759.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 244.0
     }, 
     "year": "1984"
   }, 

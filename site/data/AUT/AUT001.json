@@ -5,12 +5,13 @@
       1.2419, 
       1.3925
     ], 
-    "gph": 603.1, 
     "triple_inshore": [
       0.7917, 
       1.0204, 
       1.1598
-    ]
+    ], 
+    "gph": 603.1, 
+    "osn": 589.8
   }, 
   "sailnumber": "AUT001", 
   "name": "LA BLANCHE", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.3, 
       "loa": 9.207, 
       "draft": 1.99, 
+      "wetted_surface": 17.3, 
       "main": 36.5, 
       "genoa": 24.3, 
       "displacement": 2387.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1998"
   }, 

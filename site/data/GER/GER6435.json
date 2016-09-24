@@ -5,12 +5,13 @@
       1.2306, 
       1.3839
     ], 
-    "gph": 619.2, 
     "triple_inshore": [
       0.7322, 
       0.9974, 
       1.1528
-    ]
+    ], 
+    "gph": 619.2, 
+    "osn": 602.7
   }, 
   "sailnumber": "GER6435", 
   "name": "REE", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.4, 
       "loa": 10.494, 
       "draft": 2.15, 
+      "wetted_surface": 26.4, 
       "main": 40.7, 
       "genoa": 34.5, 
       "displacement": 5037.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2007"
   }, 

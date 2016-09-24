@@ -5,12 +5,13 @@
       1.2179, 
       1.3656
     ], 
-    "gph": 626.7, 
     "triple_inshore": [
       0.7212, 
       0.985, 
       1.1372
-    ]
+    ], 
+    "gph": 626.7, 
+    "osn": 609.3
   }, 
   "sailnumber": "NOR13990", 
   "name": "Wasabi", 
@@ -25,10 +26,12 @@
       "spinnaker": 116.5, 
       "loa": 10.66, 
       "draft": 2.2, 
+      "wetted_surface": 27.8, 
       "main": 40.2, 
       "genoa": 30.9, 
       "displacement": 5697.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 645.0
     }, 
     "year": "2009"
   }, 

@@ -5,12 +5,13 @@
       1.2517, 
       1.5322
     ], 
-    "gph": 613.6, 
     "triple_inshore": [
       0.7009, 
       0.9878, 
       1.2119
-    ]
+    ], 
+    "gph": 613.6, 
+    "osn": 590.9
   }, 
   "sailnumber": "GER7151", 
   "name": "MILAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.95, 
       "draft": 1.62, 
+      "wetted_surface": 11.8, 
       "main": 16.3, 
       "genoa": 11.7, 
       "displacement": 720.0, 
-      "spinnaker_asym": 48.0
+      "spinnaker_asym": 48.0, 
+      "crew": 500.0
     }, 
     "year": "2014"
   }, 

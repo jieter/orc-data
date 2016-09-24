@@ -5,12 +5,13 @@
       1.2298, 
       1.415
     ], 
-    "gph": 624.6, 
     "triple_inshore": [
       0.7044, 
       0.9831, 
       1.1819
-    ]
+    ], 
+    "gph": 624.6, 
+    "osn": 605.0
   }, 
   "sailnumber": "CRO1989", 
   "name": "Long Island", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.3, 
       "loa": 12.426, 
       "draft": 2.28, 
+      "wetted_surface": 36.9, 
       "main": 51.6, 
       "genoa": 33.6, 
       "displacement": 9461.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "2010"
   }, 

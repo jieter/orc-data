@@ -5,12 +5,13 @@
       1.2088, 
       1.3561
     ], 
-    "gph": 630.6, 
     "triple_inshore": [
       0.7191, 
       0.9806, 
       1.1384
-    ]
+    ], 
+    "gph": 630.6, 
+    "osn": 613.9
   }, 
   "sailnumber": "ITA15287", 
   "name": "MICCIARIELLO", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.7, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.9, 
       "main": 40.1, 
       "genoa": 39.2, 
       "displacement": 5760.0, 
-      "spinnaker_asym": 68.0
+      "spinnaker_asym": 68.0, 
+      "crew": 560.0
     }, 
     "year": "2001"
   }, 

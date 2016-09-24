@@ -5,12 +5,13 @@
       1.3444, 
       1.5735
     ], 
-    "gph": 575.7, 
     "triple_inshore": [
       0.7359, 
       1.0476, 
       1.2676
-    ]
+    ], 
+    "gph": 575.7, 
+    "osn": 558.2
   }, 
   "sailnumber": "ITA16596", 
   "name": "DAFNE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 16.27, 
       "draft": 2.33, 
+      "wetted_surface": 61.2, 
       "main": 70.2, 
       "genoa": 80.4, 
       "displacement": 18222.0, 
-      "spinnaker_asym": 173.0
+      "spinnaker_asym": 173.0, 
+      "crew": 800.0
     }, 
     "year": "2008"
   }, 

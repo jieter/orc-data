@@ -5,12 +5,13 @@
       1.1351, 
       1.2941
     ], 
-    "gph": 674.8, 
     "triple_inshore": [
       0.6611, 
       0.9171, 
       1.0796
-    ]
+    ], 
+    "gph": 674.8, 
+    "osn": 653.7
   }, 
   "sailnumber": "NOR9507", 
   "name": "Bacchus", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.9, 
       "loa": 9.85, 
       "draft": 1.93, 
+      "wetted_surface": 22.2, 
       "main": 25.9, 
       "genoa": 29.4, 
       "displacement": 3826.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 587.0
     }, 
     "year": "1998"
   }, 

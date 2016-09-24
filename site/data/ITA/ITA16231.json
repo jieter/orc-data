@@ -5,12 +5,13 @@
       1.2051, 
       1.3467
     ], 
-    "gph": 630.2, 
     "triple_inshore": [
       0.7274, 
       0.9745, 
       1.1157
-    ]
+    ], 
+    "gph": 630.2, 
+    "osn": 614.7
   }, 
   "sailnumber": "ITA16231", 
   "name": "ALMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.982, 
       "draft": 1.99, 
+      "wetted_surface": 23.5, 
       "main": 35.2, 
       "genoa": 35.3, 
       "displacement": 4527.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 560.0
     }, 
     "year": "2005"
   }, 

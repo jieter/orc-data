@@ -5,12 +5,13 @@
       1.1003, 
       1.2645
     ], 
-    "gph": 690.7, 
     "triple_inshore": [
       0.657, 
       0.9005, 
       1.0413
-    ]
+    ], 
+    "gph": 690.7, 
+    "osn": 669.8
   }, 
   "sailnumber": "ITA504SU", 
   "name": "SUN SURPRISE", 
@@ -25,10 +26,12 @@
       "spinnaker": 40.0, 
       "loa": 7.64, 
       "draft": 1.77, 
+      "wetted_surface": 13.1, 
       "main": 19.1, 
       "genoa": 18.0, 
       "displacement": 1286.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1977"
   }, 

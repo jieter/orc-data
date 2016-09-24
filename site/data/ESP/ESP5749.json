@@ -5,12 +5,13 @@
       1.1393, 
       1.292
     ], 
-    "gph": 672.4, 
     "triple_inshore": [
       0.6643, 
       0.9201, 
       1.0753
-    ]
+    ], 
+    "gph": 672.4, 
+    "osn": 652.0
   }, 
   "sailnumber": "ESP5749", 
   "name": "SIRPY", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.0, 
       "loa": 9.49, 
       "draft": 1.96, 
+      "wetted_surface": 21.9, 
       "main": 24.4, 
       "genoa": 29.3, 
       "displacement": 3542.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1998"
   }, 

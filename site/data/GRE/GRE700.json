@@ -5,12 +5,13 @@
       1.2583, 
       1.4312
     ], 
-    "gph": 608.3, 
     "triple_inshore": [
       0.7335, 
       1.0143, 
       1.1957
-    ]
+    ], 
+    "gph": 608.3, 
+    "osn": 590.2
   }, 
   "sailnumber": "GRE700", 
   "name": "CLEOPATRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.3, 
       "loa": 11.924, 
       "draft": 2.42, 
+      "wetted_surface": 31.3, 
       "main": 47.9, 
       "genoa": 35.5, 
       "displacement": 7127.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 730.0
     }, 
     "year": "1998"
   }, 

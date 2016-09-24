@@ -5,12 +5,13 @@
       1.1594, 
       1.3072
     ], 
-    "gph": 659.4, 
     "triple_inshore": [
       0.6814, 
       0.9382, 
       1.0966
-    ]
+    ], 
+    "gph": 659.4, 
+    "osn": 640.5
   }, 
   "sailnumber": "ITAMARSE", 
   "name": "MARSERA", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.5, 
       "loa": 9.965, 
       "draft": 2.05, 
+      "wetted_surface": 22.6, 
       "main": 29.3, 
       "genoa": 31.0, 
       "displacement": 4380.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2003"
   }, 

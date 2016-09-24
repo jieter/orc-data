@@ -5,12 +5,13 @@
       1.0448, 
       1.1636
     ], 
-    "gph": 722.7, 
     "triple_inshore": [
       0.6414, 
       0.8557, 
       0.9682
-    ]
+    ], 
+    "gph": 722.7, 
+    "osn": 706.4
   }, 
   "sailnumber": "UKR350", 
   "name": "Ariel", 
@@ -25,10 +26,12 @@
       "spinnaker": 35.1, 
       "loa": 7.65, 
       "draft": 1.51, 
+      "wetted_surface": 12.2, 
       "main": 18.8, 
       "genoa": 15.3, 
       "displacement": 1463.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1978"
   }, 

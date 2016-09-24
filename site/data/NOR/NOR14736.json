@@ -5,12 +5,13 @@
       1.1766, 
       1.3655
     ], 
-    "gph": 652.9, 
     "triple_inshore": [
       0.6701, 
       0.9325, 
       1.128
-    ]
+    ], 
+    "gph": 652.9, 
+    "osn": 633.2
   }, 
   "sailnumber": "NOR14736", 
   "name": "Nofint II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.93, 
       "draft": 1.88, 
+      "wetted_surface": 32.8, 
       "main": 31.9, 
       "genoa": 42.2, 
       "displacement": 8275.0, 
-      "spinnaker_asym": 97.0
+      "spinnaker_asym": 97.0, 
+      "crew": 771.0
     }, 
     "year": "2004"
   }, 

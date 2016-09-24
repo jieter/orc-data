@@ -5,12 +5,13 @@
       1.0008, 
       1.1967
     ], 
-    "gph": 775.5, 
     "triple_inshore": [
       0.5451, 
       0.7965, 
       0.9938
-    ]
+    ], 
+    "gph": 775.5, 
+    "osn": 745.1
   }, 
   "sailnumber": "GRE1447", 
   "name": "LOVA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.92, 
       "draft": 1.58, 
+      "wetted_surface": 24.2, 
       "main": 24.1, 
       "genoa": 24.6, 
       "displacement": 5200.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1998"
   }, 

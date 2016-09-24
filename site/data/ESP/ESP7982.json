@@ -5,12 +5,13 @@
       1.252, 
       1.401
     ], 
-    "gph": 606.5, 
     "triple_inshore": [
       0.7565, 
       1.0221, 
       1.1746
-    ]
+    ], 
+    "gph": 606.5, 
+    "osn": 591.0
   }, 
   "sailnumber": "ESP7982", 
   "name": "ESTEPONA.COM", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.2, 
       "loa": 10.6, 
       "draft": 2.18, 
+      "wetted_surface": 24.7, 
       "main": 42.6, 
       "genoa": 33.8, 
       "displacement": 4629.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 630.0
     }, 
     "year": "2005"
   }, 

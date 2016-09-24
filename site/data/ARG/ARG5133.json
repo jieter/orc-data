@@ -5,12 +5,13 @@
       1.2685, 
       1.4486
     ], 
-    "gph": 602.2, 
     "triple_inshore": [
       0.7412, 
       1.0214, 
       1.2058
-    ]
+    ], 
+    "gph": 602.2, 
+    "osn": 585.2
   }, 
   "sailnumber": "ARG5133", 
   "name": "007", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.1, 
       "loa": 11.77, 
       "draft": 1.98, 
+      "wetted_surface": 29.9, 
       "main": 46.2, 
       "genoa": 37.3, 
       "displacement": 6554.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 788.0
     }, 
     "year": "1999"
   }, 

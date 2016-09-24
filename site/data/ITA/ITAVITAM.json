@@ -5,12 +5,13 @@
       1.0612, 
       1.2003
     ], 
-    "gph": 720.8, 
     "triple_inshore": [
       0.6205, 
       0.8564, 
       1.0078
-    ]
+    ], 
+    "gph": 720.8, 
+    "osn": 700.5
   }, 
   "sailnumber": "ITAVITAM", 
   "name": "VITAMINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.05, 
       "draft": 1.86, 
+      "wetted_surface": 22.4, 
       "main": 24.6, 
       "genoa": 36.6, 
       "displacement": 5120.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1978"
   }, 

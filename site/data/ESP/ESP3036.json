@@ -5,12 +5,13 @@
       1.1006, 
       1.2358
     ], 
-    "gph": 691.5, 
     "triple_inshore": [
       0.66, 
       0.8889, 
       1.0351
-    ]
+    ], 
+    "gph": 691.5, 
+    "osn": 673.7
   }, 
   "sailnumber": "ESP3036", 
   "name": "PETROUCHKA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.8, 
       "loa": 10.345, 
       "draft": 1.83, 
+      "wetted_surface": 23.8, 
       "main": 26.9, 
       "genoa": 42.2, 
       "displacement": 5651.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1974"
   }, 

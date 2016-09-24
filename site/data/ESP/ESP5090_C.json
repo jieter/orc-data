@@ -5,12 +5,13 @@
       1.114, 
       1.2949
     ], 
-    "gph": 689.8, 
     "triple_inshore": [
       0.6339, 
       0.8887, 
       1.0811
-    ]
+    ], 
+    "gph": 689.8, 
+    "osn": 667.9
   }, 
   "sailnumber": "ESP5090_C", 
   "name": "FLOUNDER", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.8, 
       "loa": 10.37, 
       "draft": 1.85, 
+      "wetted_surface": 25.9, 
       "main": 29.4, 
       "genoa": 28.1, 
       "displacement": 5643.0, 
-      "spinnaker_asym": 62.0
+      "spinnaker_asym": 62.0, 
+      "crew": 300.0
     }, 
     "year": "1987"
   }, 

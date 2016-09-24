@@ -5,12 +5,13 @@
       1.2775, 
       1.4428
     ], 
-    "gph": 597.3, 
     "triple_inshore": [
       0.7532, 
       1.0315, 
       1.2039
-    ]
+    ], 
+    "gph": 597.3, 
+    "osn": 581.1
   }, 
   "sailnumber": "ESP4959", 
   "name": "MEIGAS FORA", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.2, 
       "loa": 11.924, 
       "draft": 2.41, 
+      "wetted_surface": 31.0, 
       "main": 48.2, 
       "genoa": 48.6, 
       "displacement": 6934.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 780.0
     }, 
     "year": "1997"
   }, 

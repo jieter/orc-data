@@ -5,12 +5,13 @@
       1.1179, 
       1.2656
     ], 
-    "gph": 684.3, 
     "triple_inshore": [
       0.6547, 
       0.8983, 
       1.0553
-    ]
+    ], 
+    "gph": 684.3, 
+    "osn": 664.5
   }, 
   "sailnumber": "GRE336", 
   "name": "DE MAR A MAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.0, 
       "loa": 10.49, 
       "draft": 1.84, 
+      "wetted_surface": 26.6, 
       "main": 28.3, 
       "genoa": 39.0, 
       "displacement": 5507.0, 
-      "spinnaker_asym": 72.0
+      "spinnaker_asym": 72.0, 
+      "crew": 440.0
     }, 
     "year": "1983"
   }, 

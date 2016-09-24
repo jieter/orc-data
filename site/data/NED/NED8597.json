@@ -5,12 +5,13 @@
       0.8979, 
       1.0349
     ], 
-    "gph": 859.1, 
     "triple_inshore": [
       0.5085, 
       0.7259, 
       0.863
-    ]
+    ], 
+    "gph": 859.1, 
+    "osn": 827.5
   }, 
   "sailnumber": "NED8597", 
   "name": "Ruman Muhe", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.78, 
       "draft": 1.18, 
+      "wetted_surface": 12.1, 
       "main": 12.0, 
       "genoa": 13.6, 
       "displacement": 1350.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 306.0
     }, 
     "year": "1967"
   }, 

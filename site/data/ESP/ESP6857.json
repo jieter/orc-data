@@ -5,12 +5,13 @@
       1.1705, 
       1.3357
     ], 
-    "gph": 654.2, 
     "triple_inshore": [
       0.6795, 
       0.9401, 
       1.1025
-    ]
+    ], 
+    "gph": 654.2, 
+    "osn": 634.8
   }, 
   "sailnumber": "ESP6857", 
   "name": "MARLEX", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.3, 
       "loa": 9.968, 
       "draft": 1.9, 
+      "wetted_surface": 21.9, 
       "main": 30.0, 
       "genoa": 23.8, 
       "displacement": 3540.0, 
-      "spinnaker_asym": 63.0
+      "spinnaker_asym": 63.0, 
+      "crew": 515.0
     }, 
     "year": "2000"
   }, 

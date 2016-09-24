@@ -5,12 +5,13 @@
       1.1634, 
       1.2968
     ], 
-    "gph": 653.6, 
     "triple_inshore": [
       0.6986, 
       0.94, 
       1.0784
-    ]
+    ], 
+    "gph": 653.6, 
+    "osn": 637.8
   }, 
   "sailnumber": "NOR11809", 
   "name": "Splitter Pine", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.6, 
       "loa": 10.35, 
       "draft": 1.79, 
+      "wetted_surface": 24.7, 
       "main": 36.0, 
       "genoa": 36.6, 
       "displacement": 5262.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 600.0
     }, 
     "year": "2001"
   }, 

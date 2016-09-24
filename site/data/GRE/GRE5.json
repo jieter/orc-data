@@ -5,12 +5,13 @@
       1.2467, 
       1.4054
     ], 
-    "gph": 610.6, 
     "triple_inshore": [
       0.7432, 
       1.0102, 
       1.1715
-    ]
+    ], 
+    "gph": 610.6, 
+    "osn": 594.3
   }, 
   "sailnumber": "GRE5", 
   "name": "ECHIONAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.2, 
       "loa": 11.36, 
       "draft": 2.1, 
+      "wetted_surface": 27.6, 
       "main": 39.5, 
       "genoa": 45.0, 
       "displacement": 5446.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1992"
   }, 

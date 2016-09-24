@@ -5,12 +5,13 @@
       1.176, 
       1.346
     ], 
-    "gph": 648.5, 
     "triple_inshore": [
       0.6885, 
       0.9393, 
       1.1245
-    ]
+    ], 
+    "gph": 648.5, 
+    "osn": 631.7
   }, 
   "sailnumber": "NED5701", 
   "name": "LA MATTANZA", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.0, 
       "loa": 11.97, 
       "draft": 2.05, 
+      "wetted_surface": 36.1, 
       "main": 49.8, 
       "genoa": 53.4, 
       "displacement": 11149.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 716.0
     }, 
     "year": "1995"
   }, 

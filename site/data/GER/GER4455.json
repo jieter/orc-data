@@ -5,12 +5,13 @@
       1.2798, 
       1.4396
     ], 
-    "gph": 596.3, 
     "triple_inshore": [
       0.7544, 
       1.0254, 
       1.1909
-    ]
+    ], 
+    "gph": 596.3, 
+    "osn": 581.1
   }, 
   "sailnumber": "GER4455", 
   "name": "ANNE-BONNY", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.4, 
       "loa": 13.05, 
       "draft": 2.06, 
+      "wetted_surface": 31.1, 
       "main": 43.6, 
       "genoa": 48.1, 
       "displacement": 7027.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1994"
   }, 

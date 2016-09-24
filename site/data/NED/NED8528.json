@@ -5,12 +5,13 @@
       1.2706, 
       1.4928
     ], 
-    "gph": 598.4, 
     "triple_inshore": [
       0.749, 
       1.01, 
       1.1961
-    ]
+    ], 
+    "gph": 598.4, 
+    "osn": 581.8
   }, 
   "sailnumber": "NED8528", 
   "name": "Fareast 28R", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.67, 
       "draft": 1.7, 
+      "wetted_surface": 17.1, 
       "main": 27.9, 
       "genoa": 18.9, 
       "displacement": 1423.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 450.0
     }, 
     "year": "2015"
   }, 

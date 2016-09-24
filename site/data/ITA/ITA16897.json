@@ -5,12 +5,13 @@
       1.3505, 
       1.5278
     ], 
-    "gph": 566.2, 
     "triple_inshore": [
       0.789, 
       1.0836, 
       1.2707
-    ]
+    ], 
+    "gph": 566.2, 
+    "osn": 551.1
   }, 
   "sailnumber": "ITA16897", 
   "name": "ADRENALINA A MILLE", 
@@ -25,10 +26,12 @@
       "spinnaker": 160.0, 
       "loa": 13.665, 
       "draft": 2.5, 
+      "wetted_surface": 40.3, 
       "main": 62.9, 
       "genoa": 55.9, 
       "displacement": 10576.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 950.0
     }, 
     "year": "2008"
   }, 

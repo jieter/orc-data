@@ -5,12 +5,13 @@
       1.2658, 
       1.4227
     ], 
-    "gph": 600.9, 
     "triple_inshore": [
       0.7575, 
       1.0278, 
       1.1946
-    ]
+    ], 
+    "gph": 600.9, 
+    "osn": 585.0
   }, 
   "sailnumber": "ITA12379", 
   "name": "SCINTILLA J", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.6, 
       "loa": 12.012, 
       "draft": 2.18, 
+      "wetted_surface": 28.8, 
       "main": 41.3, 
       "genoa": 49.9, 
       "displacement": 6177.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 585.0
     }, 
     "year": "1992"
   }, 

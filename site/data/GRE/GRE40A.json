@@ -5,12 +5,13 @@
       1.3445, 
       1.5266
     ], 
-    "gph": 566.7, 
     "triple_inshore": [
       0.7994, 
       1.0983, 
       1.2808
-    ]
+    ], 
+    "gph": 566.7, 
+    "osn": 549.9
   }, 
   "sailnumber": "GRE40A", 
   "name": "iSAIL", 
@@ -25,10 +26,12 @@
       "spinnaker": 130.8, 
       "loa": 12.0, 
       "draft": 2.52, 
+      "wetted_surface": 30.4, 
       "main": 51.0, 
       "genoa": 38.1, 
       "displacement": 6605.0, 
-      "spinnaker_asym": 129.0
+      "spinnaker_asym": 129.0, 
+      "crew": 800.0
     }, 
     "year": "2007"
   }, 

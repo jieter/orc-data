@@ -5,12 +5,13 @@
       1.0867, 
       1.2113
     ], 
-    "gph": 697.4, 
     "triple_inshore": [
       0.6634, 
       0.8898, 
       1.0102
-    ]
+    ], 
+    "gph": 697.4, 
+    "osn": 679.5
   }, 
   "sailnumber": "GRE5520", 
   "name": "YAKINTHI", 
@@ -25,10 +26,12 @@
       "spinnaker": 36.9, 
       "loa": 7.79, 
       "draft": 1.84, 
+      "wetted_surface": 14.1, 
       "main": 21.1, 
       "genoa": 17.9, 
       "displacement": 1537.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 240.0
     }, 
     "year": "1982"
   }, 

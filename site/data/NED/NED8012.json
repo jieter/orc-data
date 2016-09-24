@@ -5,12 +5,13 @@
       1.3528, 
       1.5182
     ], 
-    "gph": 561.8, 
     "triple_inshore": [
       0.8137, 
       1.0997, 
       1.2694
-    ]
+    ], 
+    "gph": 561.8, 
+    "osn": 547.0
   }, 
   "sailnumber": "NED8012", 
   "name": "DIGNITY 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 148.6, 
       "loa": 12.45, 
       "draft": 2.56, 
+      "wetted_surface": 33.4, 
       "main": 59.5, 
       "genoa": 42.2, 
       "displacement": 7203.0, 
-      "spinnaker_asym": 135.0
+      "spinnaker_asym": 135.0, 
+      "crew": 800.0
     }, 
     "year": "2005"
   }, 

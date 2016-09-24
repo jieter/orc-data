@@ -5,12 +5,13 @@
       1.2118, 
       1.3707
     ], 
-    "gph": 629.8, 
     "triple_inshore": [
       0.715, 
       0.9795, 
       1.1497
-    ]
+    ], 
+    "gph": 629.8, 
+    "osn": 611.9
   }, 
   "sailnumber": "NED7802", 
   "name": "Bubbels", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.7, 
       "loa": 10.972, 
       "draft": 2.0, 
+      "wetted_surface": 29.1, 
       "main": 41.0, 
       "genoa": 38.7, 
       "displacement": 6818.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 694.0
     }, 
     "year": "2000"
   }, 

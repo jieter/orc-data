@@ -5,12 +5,13 @@
       1.2954, 
       1.4641
     ], 
-    "gph": 589.8, 
     "triple_inshore": [
       0.7618, 
       1.0461, 
       1.2272
-    ]
+    ], 
+    "gph": 589.8, 
+    "osn": 573.0
   }, 
   "sailnumber": "ITA15757", 
   "name": "ZAHIR", 
@@ -25,10 +26,12 @@
       "spinnaker": 117.8, 
       "loa": 12.259, 
       "draft": 2.4, 
+      "wetted_surface": 35.2, 
       "main": 51.5, 
       "genoa": 49.8, 
       "displacement": 8715.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 848.0
     }, 
     "year": "2007"
   }, 

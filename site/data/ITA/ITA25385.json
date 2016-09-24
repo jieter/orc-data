@@ -5,12 +5,13 @@
       1.1188, 
       1.2621
     ], 
-    "gph": 673.7, 
     "triple_inshore": [
       0.6949, 
       0.9165, 
       1.0354
-    ]
+    ], 
+    "gph": 673.7, 
+    "osn": 656.4
   }, 
   "sailnumber": "ITA25385", 
   "name": "MISTRAL", 
@@ -25,10 +26,12 @@
       "spinnaker": 45.1, 
       "loa": 7.512, 
       "draft": 1.56, 
+      "wetted_surface": 11.9, 
       "main": 21.1, 
       "genoa": 13.2, 
       "displacement": 1244.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1997"
   }, 

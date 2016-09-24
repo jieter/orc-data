@@ -5,12 +5,13 @@
       1.1971, 
       1.3513
     ], 
-    "gph": 637.5, 
     "triple_inshore": [
       0.7089, 
       0.9707, 
       1.1353
-    ]
+    ], 
+    "gph": 637.5, 
+    "osn": 619.4
   }, 
   "sailnumber": "NED8037", 
   "name": "Moshulu", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.8, 
       "loa": 10.36, 
       "draft": 1.93, 
+      "wetted_surface": 26.1, 
       "main": 39.7, 
       "genoa": 28.0, 
       "displacement": 5702.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2007"
   }, 

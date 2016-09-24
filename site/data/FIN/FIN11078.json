@@ -5,12 +5,13 @@
       1.188, 
       1.3431
     ], 
-    "gph": 642.2, 
     "triple_inshore": [
       0.7061, 
       0.9652, 
       1.1272
-    ]
+    ], 
+    "gph": 642.2, 
+    "osn": 623.0
   }, 
   "sailnumber": "FIN11078", 
   "name": "Valkyrian", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.9, 
       "loa": 9.934, 
       "draft": 2.14, 
+      "wetted_surface": 24.9, 
       "main": 35.2, 
       "genoa": 28.5, 
       "displacement": 5064.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "2008"
   }, 

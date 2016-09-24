@@ -5,12 +5,13 @@
       1.1957, 
       1.3658
     ], 
-    "gph": 641.1, 
     "triple_inshore": [
       0.6932, 
       0.9661, 
       1.1327
-    ]
+    ], 
+    "gph": 641.1, 
+    "osn": 620.6
   }, 
   "sailnumber": "LTU2037", 
   "name": "PRUS PRIMO", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.4, 
       "loa": 9.8, 
       "draft": 1.92, 
+      "wetted_surface": 23.8, 
       "main": 31.2, 
       "genoa": 26.9, 
       "displacement": 3855.0, 
-      "spinnaker_asym": 72.0
+      "spinnaker_asym": 72.0, 
+      "crew": 400.0
     }, 
     "year": "2008"
   }, 

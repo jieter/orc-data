@@ -5,12 +5,13 @@
       1.3392, 
       1.5347
     ], 
-    "gph": 572.6, 
     "triple_inshore": [
       0.7708, 
       1.0725, 
       1.2831
-    ]
+    ], 
+    "gph": 572.6, 
+    "osn": 555.7
   }, 
   "sailnumber": "AUT7777", 
   "name": "Trinity+", 
@@ -25,10 +26,12 @@
       "spinnaker": 142.9, 
       "loa": 13.589, 
       "draft": 2.67, 
+      "wetted_surface": 44.3, 
       "main": 66.7, 
       "genoa": 55.1, 
       "displacement": 12827.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 850.0
     }, 
     "year": "2010"
   }, 

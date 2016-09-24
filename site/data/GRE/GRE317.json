@@ -5,12 +5,13 @@
       1.1335, 
       1.2883
     ], 
-    "gph": 676.1, 
     "triple_inshore": [
       0.6603, 
       0.9144, 
       1.0744
-    ]
+    ], 
+    "gph": 676.1, 
+    "osn": 654.9
   }, 
   "sailnumber": "GRE317", 
   "name": "AVANTES", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.0, 
       "loa": 9.49, 
       "draft": 1.94, 
+      "wetted_surface": 22.7, 
       "main": 27.9, 
       "genoa": 23.7, 
       "displacement": 3939.0, 
-      "spinnaker_asym": 61.0
+      "spinnaker_asym": 61.0, 
+      "crew": 528.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.3231, 
       1.5083
     ], 
-    "gph": 580.0, 
     "triple_inshore": [
       0.7597, 
       1.0548, 
       1.2494
-    ]
+    ], 
+    "gph": 580.0, 
+    "osn": 563.5
   }, 
   "sailnumber": "ITA16245", 
   "name": "ALEGHER..DO", 
@@ -25,10 +26,12 @@
       "spinnaker": 147.3, 
       "loa": 13.665, 
       "draft": 2.37, 
+      "wetted_surface": 43.3, 
       "main": 61.8, 
       "genoa": 57.7, 
       "displacement": 11514.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 905.0
     }, 
     "year": "2008"
   }, 

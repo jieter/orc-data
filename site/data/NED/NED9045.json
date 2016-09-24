@@ -5,12 +5,13 @@
       1.4091, 
       1.5868
     ], 
-    "gph": 538.0, 
     "triple_inshore": [
       0.8483, 
       1.1405, 
       1.3246
-    ]
+    ], 
+    "gph": 538.0, 
+    "osn": 525.4
   }, 
   "sailnumber": "NED9045", 
   "name": "Silveren Swaen", 
@@ -25,10 +26,12 @@
       "spinnaker": 153.3, 
       "loa": 13.829, 
       "draft": 2.83, 
+      "wetted_surface": 38.5, 
       "main": 79.3, 
       "genoa": 56.4, 
       "displacement": 9863.0, 
-      "spinnaker_asym": 154.0
+      "spinnaker_asym": 154.0, 
+      "crew": 950.0
     }, 
     "year": "2001"
   }, 

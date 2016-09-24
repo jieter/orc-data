@@ -5,12 +5,13 @@
       1.1821, 
       1.3249
     ], 
-    "gph": 644.0, 
     "triple_inshore": [
       0.7058, 
       0.9594, 
       1.109
-    ]
+    ], 
+    "gph": 644.0, 
+    "osn": 627.6
   }, 
   "sailnumber": "NOR9702", 
   "name": "Blaast", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.3, 
       "loa": 10.06, 
       "draft": 1.82, 
+      "wetted_surface": 24.2, 
       "main": 35.8, 
       "genoa": 35.3, 
       "displacement": 4530.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 609.0
     }, 
     "year": "1994"
   }, 

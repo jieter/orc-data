@@ -5,12 +5,13 @@
       1.0335, 
       1.1625
     ], 
-    "gph": 737.7, 
     "triple_inshore": [
       0.6147, 
       0.8411, 
       0.9699
-    ]
+    ], 
+    "gph": 737.7, 
+    "osn": 716.4
   }, 
   "sailnumber": "GER4799", 
   "name": "SPRINGBORN", 
@@ -25,10 +26,12 @@
       "spinnaker": 40.3, 
       "loa": 7.86, 
       "draft": 1.39, 
+      "wetted_surface": 14.6, 
       "main": 18.8, 
       "genoa": 13.2, 
       "displacement": 1917.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1987"
   }, 

@@ -5,12 +5,13 @@
       1.0055, 
       1.139
     ], 
-    "gph": 762.6, 
     "triple_inshore": [
       0.5847, 
       0.8063, 
       0.9463
-    ]
+    ], 
+    "gph": 762.6, 
+    "osn": 739.6
   }, 
   "sailnumber": "GRE029", 
   "name": "SOFIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.4, 
       "loa": 8.8, 
       "draft": 1.56, 
+      "wetted_surface": 17.6, 
       "main": 17.4, 
       "genoa": 29.4, 
       "displacement": 3123.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1979"
   }, 

@@ -5,12 +5,13 @@
       1.0307, 
       1.1983
     ], 
-    "gph": 744.4, 
     "triple_inshore": [
       0.5929, 
       0.821, 
       1.0014
-    ]
+    ], 
+    "gph": 744.4, 
+    "osn": 721.0
   }, 
   "sailnumber": "NED1369", 
   "name": "STUIVER", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.3, 
       "loa": 10.04, 
       "draft": 1.88, 
+      "wetted_surface": 25.7, 
       "main": 22.2, 
       "genoa": 34.8, 
       "displacement": 7206.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 548.0
     }, 
     "year": "1977"
   }, 

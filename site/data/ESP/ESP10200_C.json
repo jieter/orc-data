@@ -5,12 +5,13 @@
       1.0483, 
       1.1747
     ], 
-    "gph": 722.1, 
     "triple_inshore": [
       0.6415, 
       0.8521, 
       0.9729
-    ]
+    ], 
+    "gph": 722.1, 
+    "osn": 704.4
   }, 
   "sailnumber": "ESP10200_C", 
   "name": "ALBEBARAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.11, 
       "draft": 1.39, 
+      "wetted_surface": 13.0, 
       "main": 18.5, 
       "genoa": 15.5, 
       "displacement": 1633.0, 
-      "spinnaker_asym": 43.0
+      "spinnaker_asym": 43.0, 
+      "crew": 300.0
     }, 
     "year": "2003"
   }, 

@@ -5,12 +5,13 @@
       1.2501, 
       1.4079
     ], 
-    "gph": 610.3, 
     "triple_inshore": [
       0.7371, 
       1.0087, 
       1.1819
-    ]
+    ], 
+    "gph": 610.3, 
+    "osn": 594.1
   }, 
   "sailnumber": "GER5900", 
   "name": "ROEDE ORM", 
@@ -25,10 +26,12 @@
       "spinnaker": 120.2, 
       "loa": 11.913, 
       "draft": 2.06, 
+      "wetted_surface": 31.9, 
       "main": 47.5, 
       "genoa": 47.3, 
       "displacement": 8158.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2001"
   }, 

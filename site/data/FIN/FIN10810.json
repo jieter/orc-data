@@ -5,12 +5,13 @@
       1.169, 
       1.3159
     ], 
-    "gph": 652.7, 
     "triple_inshore": [
       0.6933, 
       0.9457, 
       1.1016
-    ]
+    ], 
+    "gph": 652.7, 
+    "osn": 634.9
   }, 
   "sailnumber": "FIN10810", 
   "name": "FinnFUN", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.9, 
       "loa": 10.146, 
       "draft": 1.86, 
+      "wetted_surface": 24.4, 
       "main": 35.9, 
       "genoa": 26.7, 
       "displacement": 5103.0, 
-      "spinnaker_asym": 63.0
+      "spinnaker_asym": 63.0, 
+      "crew": 415.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       1.2133, 
       1.3874
     ], 
-    "gph": 631.5, 
     "triple_inshore": [
       0.7039, 
       0.9761, 
       1.1605
-    ]
+    ], 
+    "gph": 631.5, 
+    "osn": 611.9
   }, 
   "sailnumber": "NED8293", 
   "name": "Adios", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.3, 
       "loa": 11.3, 
       "draft": 2.04, 
+      "wetted_surface": 29.6, 
       "main": 41.2, 
       "genoa": 29.9, 
       "displacement": 6641.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2005"
   }, 

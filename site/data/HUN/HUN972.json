@@ -5,12 +5,13 @@
       1.2353, 
       1.3822
     ], 
-    "gph": 612.5, 
     "triple_inshore": [
       0.7542, 
       1.0063, 
       1.1493
-    ]
+    ], 
+    "gph": 612.5, 
+    "osn": 598.3
   }, 
   "sailnumber": "HUN972", 
   "name": "Exultate", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.9, 
       "loa": 9.99, 
       "draft": 1.75, 
+      "wetted_surface": 22.6, 
       "main": 42.1, 
       "genoa": 28.1, 
       "displacement": 3953.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1995"
   }, 

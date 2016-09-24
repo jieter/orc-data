@@ -5,12 +5,13 @@
       1.2558, 
       1.426
     ], 
-    "gph": 609.3, 
     "triple_inshore": [
       0.7343, 
       1.014, 
       1.1968
-    ]
+    ], 
+    "gph": 609.3, 
+    "osn": 591.1
   }, 
   "sailnumber": "ESP9861", 
   "name": "BARBA FEITA", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.6, 
       "loa": 11.924, 
       "draft": 2.44, 
+      "wetted_surface": 32.2, 
       "main": 48.3, 
       "genoa": 37.1, 
       "displacement": 7689.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 717.0
     }, 
     "year": "1997"
   }, 

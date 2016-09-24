@@ -5,12 +5,13 @@
       1.4522, 
       1.6524
     ], 
-    "gph": 526.3, 
     "triple_inshore": [
       0.8445, 
       1.1601, 
       1.3615
-    ]
+    ], 
+    "gph": 526.3, 
+    "osn": 512.6
   }, 
   "sailnumber": "ITA14135", 
   "name": "MELISSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 176.0, 
       "loa": 15.41, 
       "draft": 2.9, 
+      "wetted_surface": 45.8, 
       "main": 74.3, 
       "genoa": 81.8, 
       "displacement": 11129.0, 
-      "spinnaker_asym": 162.0
+      "spinnaker_asym": 162.0, 
+      "crew": 930.0
     }, 
     "year": "2002"
   }, 

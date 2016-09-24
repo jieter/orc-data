@@ -5,12 +5,13 @@
       1.1497, 
       1.325
     ], 
-    "gph": 669.0, 
     "triple_inshore": [
       0.652, 
       0.9049, 
       1.0852
-    ]
+    ], 
+    "gph": 669.0, 
+    "osn": 649.1
   }, 
   "sailnumber": "GRE1636", 
   "name": "YULI III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.624, 
       "draft": 1.9, 
+      "wetted_surface": 32.7, 
       "main": 33.9, 
       "genoa": 40.2, 
       "displacement": 8046.0, 
-      "spinnaker_asym": 86.0
+      "spinnaker_asym": 86.0, 
+      "crew": 400.0
     }, 
     "year": "1999"
   }, 

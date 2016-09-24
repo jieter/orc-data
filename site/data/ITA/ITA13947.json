@@ -5,12 +5,13 @@
       1.1962, 
       1.3543
     ], 
-    "gph": 638.9, 
     "triple_inshore": [
       0.7048, 
       0.9683, 
       1.1372
-    ]
+    ], 
+    "gph": 638.9, 
+    "osn": 619.8
   }, 
   "sailnumber": "ITA13947", 
   "name": "SEA OWL", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.5, 
       "loa": 10.64, 
       "draft": 2.24, 
+      "wetted_surface": 27.1, 
       "main": 39.0, 
       "genoa": 30.6, 
       "displacement": 5875.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2001"
   }, 

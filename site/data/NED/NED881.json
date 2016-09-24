@@ -5,12 +5,13 @@
       1.1901, 
       1.3622
     ], 
-    "gph": 642.7, 
     "triple_inshore": [
       0.6968, 
       0.9657, 
       1.1393
-    ]
+    ], 
+    "gph": 642.7, 
+    "osn": 622.0
   }, 
   "sailnumber": "NED881", 
   "name": "A BOEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.3, 
       "loa": 9.993, 
       "draft": 1.98, 
+      "wetted_surface": 23.9, 
       "main": 33.2, 
       "genoa": 26.3, 
       "displacement": 4246.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "2003"
   }, 

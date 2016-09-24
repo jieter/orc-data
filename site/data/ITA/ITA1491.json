@@ -5,12 +5,13 @@
       1.1462, 
       1.3044
     ], 
-    "gph": 667.3, 
     "triple_inshore": [
       0.6716, 
       0.9257, 
       1.094
-    ]
+    ], 
+    "gph": 667.3, 
+    "osn": 647.1
   }, 
   "sailnumber": "ITA1491", 
   "name": "MELANIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.7, 
       "loa": 10.025, 
       "draft": 1.92, 
+      "wetted_surface": 24.4, 
       "main": 31.8, 
       "genoa": 30.5, 
       "displacement": 5137.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 570.0
     }, 
     "year": "1998"
   }, 

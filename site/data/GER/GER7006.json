@@ -5,12 +5,13 @@
       1.163, 
       1.2991
     ], 
-    "gph": 657.0, 
     "triple_inshore": [
       0.6832, 
       0.9378, 
       1.0829
-    ]
+    ], 
+    "gph": 657.0, 
+    "osn": 640.0
   }, 
   "sailnumber": "GER7006", 
   "name": "MISTY", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.2, 
       "loa": 11.16, 
       "draft": 1.8, 
+      "wetted_surface": 22.5, 
       "main": 27.8, 
       "genoa": 30.8, 
       "displacement": 4227.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1980"
   }, 

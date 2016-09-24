@@ -5,12 +5,13 @@
       1.2559, 
       1.4523
     ], 
-    "gph": 611.2, 
     "triple_inshore": [
       0.7222, 
       1.0073, 
       1.1904
-    ]
+    ], 
+    "gph": 611.2, 
+    "osn": 590.7
   }, 
   "sailnumber": "ITA17029", 
   "name": "KOKOPELLI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.0, 
       "draft": 2.36, 
+      "wetted_surface": 27.3, 
       "main": 33.1, 
       "genoa": 31.3, 
       "displacement": 4950.0, 
-      "spinnaker_asym": 99.0
+      "spinnaker_asym": 99.0, 
+      "crew": 640.0
     }, 
     "year": "2009"
   }, 

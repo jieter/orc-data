@@ -5,12 +5,13 @@
       1.3262, 
       1.5125
     ], 
-    "gph": 576.8, 
     "triple_inshore": [
       0.7716, 
       1.0608, 
       1.2614
-    ]
+    ], 
+    "gph": 576.8, 
+    "osn": 560.8
   }, 
   "sailnumber": "NED8408", 
   "name": "Xenacanthus", 
@@ -25,10 +26,12 @@
       "spinnaker": 153.2, 
       "loa": 14.499, 
       "draft": 2.23, 
+      "wetted_surface": 45.6, 
       "main": 57.4, 
       "genoa": 74.1, 
       "displacement": 13399.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1006.0
     }, 
     "year": "1996"
   }, 

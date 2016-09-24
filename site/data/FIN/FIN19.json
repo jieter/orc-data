@@ -5,12 +5,13 @@
       1.3344, 
       1.5029
     ], 
-    "gph": 570.9, 
     "triple_inshore": [
       0.794, 
       1.0805, 
       1.2492
-    ]
+    ], 
+    "gph": 570.9, 
+    "osn": 555.7
   }, 
   "sailnumber": "FIN19", 
   "name": "Normet", 
@@ -25,10 +26,12 @@
       "spinnaker": 130.7, 
       "loa": 12.35, 
       "draft": 2.5, 
+      "wetted_surface": 32.5, 
       "main": 54.6, 
       "genoa": 45.2, 
       "displacement": 6850.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "2006"
   }, 

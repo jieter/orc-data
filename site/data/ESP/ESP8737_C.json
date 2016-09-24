@@ -5,12 +5,13 @@
       1.1687, 
       1.3396
     ], 
-    "gph": 656.5, 
     "triple_inshore": [
       0.6699, 
       0.9369, 
       1.1151
-    ]
+    ], 
+    "gph": 656.5, 
+    "osn": 636.7
   }, 
   "sailnumber": "ESP8737_C", 
   "name": "CRYSEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.8, 
       "loa": 11.012, 
       "draft": 1.83, 
+      "wetted_surface": 27.0, 
       "main": 37.6, 
       "genoa": 35.8, 
       "displacement": 5593.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1992"
   }, 

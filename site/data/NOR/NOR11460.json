@@ -5,12 +5,13 @@
       1.1011, 
       1.2277
     ], 
-    "gph": 692.7, 
     "triple_inshore": [
       0.6531, 
       0.8882, 
       1.0286
-    ]
+    ], 
+    "gph": 692.7, 
+    "osn": 675.3
   }, 
   "sailnumber": "NOR11460", 
   "name": "Najaden", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.1, 
       "loa": 10.5, 
       "draft": 1.79, 
+      "wetted_surface": 22.1, 
       "main": 30.4, 
       "genoa": 28.9, 
       "displacement": 4675.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 534.0
     }, 
     "year": "1976"
   }, 

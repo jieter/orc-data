@@ -5,12 +5,13 @@
       1.255, 
       1.4179
     ], 
-    "gph": 606.4, 
     "triple_inshore": [
       0.7466, 
       1.0114, 
       1.1882
-    ]
+    ], 
+    "gph": 606.4, 
+    "osn": 591.0
   }, 
   "sailnumber": "NED8746", 
   "name": "Samba", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.233, 
       "draft": 2.04, 
+      "wetted_surface": 34.8, 
       "main": 56.6, 
       "genoa": 43.7, 
       "displacement": 9700.0, 
-      "spinnaker_asym": 120.0
+      "spinnaker_asym": 120.0, 
+      "crew": 779.0
     }, 
     "year": "2003"
   }, 

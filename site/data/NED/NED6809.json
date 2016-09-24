@@ -5,12 +5,13 @@
       1.2331, 
       1.3788
     ], 
-    "gph": 617.3, 
     "triple_inshore": [
       0.7378, 
       0.9955, 
       1.1408
-    ]
+    ], 
+    "gph": 617.3, 
+    "osn": 601.0
   }, 
   "sailnumber": "NED6809", 
   "name": "Jack rabbit", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.757, 
       "draft": 2.14, 
+      "wetted_surface": 26.3, 
       "main": 38.2, 
       "genoa": 38.7, 
       "displacement": 5120.0, 
-      "spinnaker_asym": 109.0
+      "spinnaker_asym": 109.0, 
+      "crew": 680.0
     }, 
     "year": "2001"
   }, 

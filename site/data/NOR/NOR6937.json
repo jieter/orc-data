@@ -5,12 +5,13 @@
       1.0684, 
       1.2021
     ], 
-    "gph": 712.6, 
     "triple_inshore": [
       0.6391, 
       0.8671, 
       1.0091
-    ]
+    ], 
+    "gph": 712.6, 
+    "osn": 693.3
   }, 
   "sailnumber": "NOR6937", 
   "name": "Ariela", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.3, 
       "loa": 9.48, 
       "draft": 1.69, 
+      "wetted_surface": 19.5, 
       "main": 26.8, 
       "genoa": 26.1, 
       "displacement": 3885.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 451.0
     }, 
     "year": "1986"
   }, 

@@ -5,12 +5,13 @@
       1.1674, 
       1.3227
     ], 
-    "gph": 654.8, 
     "triple_inshore": [
       0.6882, 
       0.944, 
       1.1088
-    ]
+    ], 
+    "gph": 654.8, 
+    "osn": 634.9
   }, 
   "sailnumber": "NOR12512", 
   "name": "Endorfine", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.3, 
       "loa": 9.99, 
       "draft": 2.07, 
+      "wetted_surface": 25.2, 
       "main": 34.7, 
       "genoa": 24.7, 
       "displacement": 5350.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 650.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       1.1831, 
       1.3454
     ], 
-    "gph": 646.4, 
     "triple_inshore": [
       0.6904, 
       0.9516, 
       1.1292
-    ]
+    ], 
+    "gph": 646.4, 
+    "osn": 627.8
   }, 
   "sailnumber": "GER5782", 
   "name": "JACARANDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.4, 
       "loa": 11.552, 
       "draft": 2.08, 
+      "wetted_surface": 29.7, 
       "main": 44.7, 
       "genoa": 31.7, 
       "displacement": 7464.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1987"
   }, 

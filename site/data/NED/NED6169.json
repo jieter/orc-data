@@ -5,12 +5,13 @@
       1.3171, 
       1.4995
     ], 
-    "gph": 580.1, 
     "triple_inshore": [
       0.7726, 
       1.0659, 
       1.2531
-    ]
+    ], 
+    "gph": 580.1, 
+    "osn": 563.0
   }, 
   "sailnumber": "NED6169", 
   "name": "Elke", 
@@ -25,10 +26,12 @@
       "spinnaker": 133.7, 
       "loa": 12.24, 
       "draft": 2.48, 
+      "wetted_surface": 34.7, 
       "main": 54.5, 
       "genoa": 41.7, 
       "displacement": 7856.0, 
-      "spinnaker_asym": 131.0
+      "spinnaker_asym": 131.0, 
+      "crew": 840.0
     }, 
     "year": "2008"
   }, 

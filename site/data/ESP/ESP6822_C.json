@@ -5,12 +5,13 @@
       1.2301, 
       1.4084
     ], 
-    "gph": 623.5, 
     "triple_inshore": [
       0.7074, 
       0.9832, 
       1.1707
-    ]
+    ], 
+    "gph": 623.5, 
+    "osn": 605.1
   }, 
   "sailnumber": "ESP6822_C", 
   "name": "PRAMNOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.1, 
       "loa": 12.06, 
       "draft": 2.06, 
+      "wetted_surface": 31.7, 
       "main": 45.6, 
       "genoa": 40.0, 
       "displacement": 7672.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "2003"
   }, 

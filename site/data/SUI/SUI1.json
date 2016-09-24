@@ -5,12 +5,13 @@
       1.171, 
       1.3045
     ], 
-    "gph": 649.6, 
     "triple_inshore": [
       0.6996, 
       0.9481, 
       1.0886
-    ]
+    ], 
+    "gph": 649.6, 
+    "osn": 634.3
   }, 
   "sailnumber": "SUI1", 
   "name": "NUMBER ONE", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.2, 
       "loa": 10.497, 
       "draft": 1.63, 
+      "wetted_surface": 22.0, 
       "main": 30.9, 
       "genoa": 36.3, 
       "displacement": 4111.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 577.0
     }, 
     "year": "1991"
   }, 

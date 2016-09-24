@@ -5,12 +5,13 @@
       1.3514, 
       1.5333
     ], 
-    "gph": 565.1, 
     "triple_inshore": [
       0.7923, 
       1.0839, 
       1.2817
-    ]
+    ], 
+    "gph": 565.1, 
+    "osn": 550.1
   }, 
   "sailnumber": "NED7746", 
   "name": "Montrachet", 
@@ -25,10 +26,12 @@
       "spinnaker": 178.0, 
       "loa": 14.835, 
       "draft": 2.36, 
+      "wetted_surface": 44.2, 
       "main": 58.4, 
       "genoa": 75.6, 
       "displacement": 13870.0, 
-      "spinnaker_asym": 163.0
+      "spinnaker_asym": 163.0, 
+      "crew": 983.0
     }, 
     "year": "1995"
   }, 

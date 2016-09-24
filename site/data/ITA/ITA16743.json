@@ -5,12 +5,13 @@
       1.2414, 
       1.394
     ], 
-    "gph": 613.2, 
     "triple_inshore": [
       0.7431, 
       1.0119, 
       1.1669
-    ]
+    ], 
+    "gph": 613.2, 
+    "osn": 596.6
   }, 
   "sailnumber": "ITA16743", 
   "name": "NAUTILUS XM", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.2, 
       "loa": 10.6, 
       "draft": 2.19, 
+      "wetted_surface": 24.9, 
       "main": 40.2, 
       "genoa": 30.5, 
       "displacement": 4779.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 620.0
     }, 
     "year": "2005"
   }, 

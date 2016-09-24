@@ -5,12 +5,13 @@
       1.1923, 
       1.3427
     ], 
-    "gph": 640.1, 
     "triple_inshore": [
       0.7035, 
       0.9504, 
       1.1095
-    ]
+    ], 
+    "gph": 640.1, 
+    "osn": 623.1
   }, 
   "sailnumber": "NOR8292", 
   "name": "Embla III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.98, 
       "draft": 2.0, 
+      "wetted_surface": 32.6, 
       "main": 48.0, 
       "genoa": 37.6, 
       "displacement": 8614.0, 
-      "spinnaker_asym": 112.0
+      "spinnaker_asym": 112.0, 
+      "crew": 663.0
     }, 
     "year": "1985"
   }, 

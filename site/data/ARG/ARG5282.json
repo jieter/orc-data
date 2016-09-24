@@ -5,12 +5,13 @@
       1.2336, 
       1.402
     ], 
-    "gph": 620.1, 
     "triple_inshore": [
       0.7257, 
       0.999, 
       1.1883
-    ]
+    ], 
+    "gph": 620.1, 
+    "osn": 600.4
   }, 
   "sailnumber": "ARG5282", 
   "name": "MUKA MALUGA 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.8, 
       "loa": 11.6, 
       "draft": 1.28, 
+      "wetted_surface": 33.3, 
       "main": 47.6, 
       "genoa": 39.5, 
       "displacement": 9704.0, 
-      "spinnaker_asym": 100.0
+      "spinnaker_asym": 100.0, 
+      "crew": 789.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       1.1996, 
       1.3491
     ], 
-    "gph": 636.8, 
     "triple_inshore": [
       0.7077, 
       0.9698, 
       1.1278
-    ]
+    ], 
+    "gph": 636.8, 
+    "osn": 619.2
   }, 
   "sailnumber": "ITA14412", 
   "name": "BETTA SPLENDENS", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.9, 
       "loa": 10.64, 
       "draft": 2.22, 
+      "wetted_surface": 26.4, 
       "main": 38.0, 
       "genoa": 35.2, 
       "displacement": 5498.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "2001"
   }, 

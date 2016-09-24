@@ -5,12 +5,13 @@
       1.142, 
       1.2966
     ], 
-    "gph": 668.4, 
     "triple_inshore": [
       0.672, 
       0.9262, 
       1.0856
-    ]
+    ], 
+    "gph": 668.4, 
+    "osn": 649.3
   }, 
   "sailnumber": "GER4445", 
   "name": "THIASSI", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.1, 
       "loa": 9.925, 
       "draft": 1.74, 
+      "wetted_surface": 21.5, 
       "main": 31.4, 
       "genoa": 27.9, 
       "displacement": 4071.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1995"
   }, 

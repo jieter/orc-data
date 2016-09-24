@@ -5,12 +5,13 @@
       1.1956, 
       1.3587
     ], 
-    "gph": 639.4, 
     "triple_inshore": [
       0.7038, 
       0.9708, 
       1.1365
-    ]
+    ], 
+    "gph": 639.4, 
+    "osn": 619.6
   }, 
   "sailnumber": "NED7526", 
   "name": "Lovely Rita", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.6, 
       "loa": 9.993, 
       "draft": 1.97, 
+      "wetted_surface": 23.7, 
       "main": 33.1, 
       "genoa": 25.9, 
       "displacement": 4149.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 648.0
     }, 
     "year": "2003"
   }, 

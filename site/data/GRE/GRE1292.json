@@ -5,12 +5,13 @@
       0.9156, 
       1.0655
     ], 
-    "gph": 836.4, 
     "triple_inshore": [
       0.5111, 
       0.7098, 
       0.8691
-    ]
+    ], 
+    "gph": 836.4, 
+    "osn": 818.3
   }, 
   "sailnumber": "GRE1292", 
   "name": "AMFITRITI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.54, 
       "draft": 1.39, 
+      "wetted_surface": 19.4, 
       "main": 15.5, 
       "genoa": 22.9, 
       "displacement": 3461.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1978"
   }, 

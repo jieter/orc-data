@@ -5,12 +5,13 @@
       1.0221, 
       1.1264
     ], 
-    "gph": 731.3, 
     "triple_inshore": [
       0.6497, 
       0.8406, 
       0.9358
-    ]
+    ], 
+    "gph": 731.3, 
+    "osn": 719.2
   }, 
   "sailnumber": "ITA9071", 
   "name": "ERLISE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.0, 
       "draft": 1.46, 
+      "wetted_surface": 9.1, 
       "main": 17.9, 
       "genoa": 12.9, 
       "displacement": 1038.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1981"
   }, 

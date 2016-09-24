@@ -5,12 +5,13 @@
       1.3003, 
       1.4727
     ], 
-    "gph": 588.4, 
     "triple_inshore": [
       0.7588, 
       1.0497, 
       1.2322
-    ]
+    ], 
+    "gph": 588.4, 
+    "osn": 571.8
   }, 
   "sailnumber": "GER5592", 
   "name": "MIO CARO", 
@@ -25,10 +26,12 @@
       "spinnaker": 140.6, 
       "loa": 12.555, 
       "draft": 2.46, 
+      "wetted_surface": 33.9, 
       "main": 53.1, 
       "genoa": 38.7, 
       "displacement": 7993.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2004"
   }, 

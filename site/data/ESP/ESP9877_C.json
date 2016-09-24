@@ -5,12 +5,13 @@
       1.0644, 
       1.2266
     ], 
-    "gph": 718.2, 
     "triple_inshore": [
       0.6195, 
       0.8467, 
       1.0192
-    ]
+    ], 
+    "gph": 718.2, 
+    "osn": 697.8
   }, 
   "sailnumber": "ESP9877_C", 
   "name": "LA PERLA BLANCA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.79, 
       "draft": 1.74, 
+      "wetted_surface": 21.3, 
       "main": 22.5, 
       "genoa": 19.8, 
       "displacement": 4207.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 400.0
     }, 
     "year": "2008"
   }, 

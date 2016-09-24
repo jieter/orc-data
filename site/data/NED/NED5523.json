@@ -5,12 +5,13 @@
       1.0015, 
       1.1418
     ], 
-    "gph": 764.9, 
     "triple_inshore": [
       0.5853, 
       0.8056, 
       0.95
-    ]
+    ], 
+    "gph": 764.9, 
+    "osn": 741.1
   }, 
   "sailnumber": "NED5523", 
   "name": "SIDDHARTHA", 
@@ -25,10 +26,12 @@
       "spinnaker": 51.3, 
       "loa": 8.75, 
       "draft": 1.62, 
+      "wetted_surface": 16.2, 
       "main": 14.9, 
       "genoa": 26.3, 
       "displacement": 2784.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 396.0
     }, 
     "year": "1974"
   }, 

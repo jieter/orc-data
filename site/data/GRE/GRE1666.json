@@ -5,12 +5,13 @@
       0.9324, 
       1.0418
     ], 
-    "gph": 812.7, 
     "triple_inshore": [
       0.5713, 
       0.767, 
       0.8642
-    ]
+    ], 
+    "gph": 812.7, 
+    "osn": 790.4
   }, 
   "sailnumber": "GRE1666", 
   "name": "KAPONI", 
@@ -25,10 +26,12 @@
       "spinnaker": 24.7, 
       "loa": 6.0, 
       "draft": 0.96, 
+      "wetted_surface": 9.2, 
       "main": 10.0, 
       "genoa": 12.4, 
       "displacement": 776.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 270.0
     }, 
     "year": "1968"
   }, 

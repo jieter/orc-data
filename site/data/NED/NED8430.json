@@ -5,12 +5,13 @@
       1.0113, 
       1.1554
     ], 
-    "gph": 755.1, 
     "triple_inshore": [
       0.5959, 
       0.8261, 
       0.9684
-    ]
+    ], 
+    "gph": 755.1, 
+    "osn": 731.1
   }, 
   "sailnumber": "NED8430", 
   "name": "Endeavour", 
@@ -25,10 +26,12 @@
       "spinnaker": 37.2, 
       "loa": 7.5, 
       "draft": 1.53, 
+      "wetted_surface": 13.4, 
       "main": 14.9, 
       "genoa": 16.7, 
       "displacement": 1500.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 335.0
     }, 
     "year": "2000"
   }, 

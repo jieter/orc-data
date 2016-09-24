@@ -5,12 +5,13 @@
       1.1124, 
       1.2533
     ], 
-    "gph": 685.9, 
     "triple_inshore": [
       0.6569, 
       0.8965, 
       1.047
-    ]
+    ], 
+    "gph": 685.9, 
+    "osn": 667.8
   }, 
   "sailnumber": "NED6126", 
   "name": "WIND OF CHANGE", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.1, 
       "loa": 10.112, 
       "draft": 1.78, 
+      "wetted_surface": 23.1, 
       "main": 31.6, 
       "genoa": 33.6, 
       "displacement": 4597.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1982"
   }, 

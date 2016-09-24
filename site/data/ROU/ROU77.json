@@ -5,12 +5,13 @@
       0.9596, 
       1.1002
     ], 
-    "gph": 799.5, 
     "triple_inshore": [
       0.5549, 
       0.7808, 
       0.928
-    ]
+    ], 
+    "gph": 799.5, 
+    "osn": 772.6
   }, 
   "sailnumber": "ROU77", 
   "name": "Getika", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.35, 
       "draft": 1.46, 
+      "wetted_surface": 13.3, 
       "main": 15.0, 
       "genoa": 16.0, 
       "displacement": 1840.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 362.0
     }, 
     "year": "1983"
   }, 

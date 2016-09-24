@@ -5,12 +5,13 @@
       1.1462, 
       1.3138
     ], 
-    "gph": 667.4, 
     "triple_inshore": [
       0.6657, 
       0.9069, 
       1.0796
-    ]
+    ], 
+    "gph": 667.4, 
+    "osn": 648.9
   }, 
   "sailnumber": "NOR9360", 
   "name": "SIW BONITA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.69, 
       "draft": 1.85, 
+      "wetted_surface": 29.6, 
       "main": 39.3, 
       "genoa": 28.3, 
       "displacement": 7316.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 685.0
     }, 
     "year": "1998"
   }, 

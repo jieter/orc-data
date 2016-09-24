@@ -5,12 +5,13 @@
       1.0751, 
       1.2139
     ], 
-    "gph": 709.3, 
     "triple_inshore": [
       0.6397, 
       0.8721, 
       1.0155
-    ]
+    ], 
+    "gph": 709.3, 
+    "osn": 688.9
   }, 
   "sailnumber": "ITA10646", 
   "name": "ETA BETA", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.1, 
       "loa": 9.363, 
       "draft": 1.69, 
+      "wetted_surface": 18.1, 
       "main": 17.5, 
       "genoa": 32.7, 
       "displacement": 3265.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1978"
   }, 

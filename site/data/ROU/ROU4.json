@@ -5,12 +5,13 @@
       1.2478, 
       1.472
     ], 
-    "gph": 618.3, 
     "triple_inshore": [
       0.6821, 
       0.982, 
       1.2194
-    ]
+    ], 
+    "gph": 618.3, 
+    "osn": 601.4
   }, 
   "sailnumber": "ROU4", 
   "name": "Ioana 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.97, 
       "draft": 2.01, 
+      "wetted_surface": 44.8, 
       "main": 53.2, 
       "genoa": 70.5, 
       "displacement": 12740.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "2003"
   }, 

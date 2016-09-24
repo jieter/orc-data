@@ -5,12 +5,13 @@
       1.1849, 
       1.3442
     ], 
-    "gph": 644.4, 
     "triple_inshore": [
       0.6967, 
       0.9574, 
       1.129
-    ]
+    ], 
+    "gph": 644.4, 
+    "osn": 626.5
   }, 
   "sailnumber": "NED6021", 
   "name": "EVENING TIDE", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.2, 
       "loa": 11.0, 
       "draft": 1.89, 
+      "wetted_surface": 27.6, 
       "main": 43.2, 
       "genoa": 27.4, 
       "displacement": 6133.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 628.0
     }, 
     "year": "1986"
   }, 

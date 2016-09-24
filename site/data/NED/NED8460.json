@@ -5,12 +5,13 @@
       1.2373, 
       1.4135
     ], 
-    "gph": 618.3, 
     "triple_inshore": [
       0.7205, 
       0.9974, 
       1.1799
-    ]
+    ], 
+    "gph": 618.3, 
+    "osn": 599.7
   }, 
   "sailnumber": "NED8460", 
   "name": "Cerva", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.1, 
       "loa": 11.39, 
       "draft": 2.05, 
+      "wetted_surface": 28.4, 
       "main": 43.1, 
       "genoa": 32.6, 
       "displacement": 6273.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 701.0
     }, 
     "year": "2007"
   }, 

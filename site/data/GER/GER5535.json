@@ -5,12 +5,13 @@
       1.2764, 
       1.483
     ], 
-    "gph": 603.1, 
     "triple_inshore": [
       0.7198, 
       1.0127, 
       1.2294
-    ]
+    ], 
+    "gph": 603.1, 
+    "osn": 584.1
   }, 
   "sailnumber": "GER5535", 
   "name": "LISA-MARIE II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.55, 
       "draft": 2.34, 
+      "wetted_surface": 40.6, 
       "main": 52.8, 
       "genoa": 39.5, 
       "displacement": 11224.0, 
-      "spinnaker_asym": 128.0
+      "spinnaker_asym": 128.0, 
+      "crew": 790.0
     }, 
     "year": "2003"
   }, 

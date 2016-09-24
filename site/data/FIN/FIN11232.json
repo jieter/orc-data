@@ -5,12 +5,13 @@
       1.2433, 
       1.3933
     ], 
-    "gph": 611.5, 
     "triple_inshore": [
       0.7463, 
       1.0083, 
       1.1559
-    ]
+    ], 
+    "gph": 611.5, 
+    "osn": 596.2
   }, 
   "sailnumber": "FIN11232", 
   "name": "Nornan IX", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.5, 
       "loa": 10.453, 
       "draft": 1.99, 
+      "wetted_surface": 24.0, 
       "main": 40.4, 
       "genoa": 30.2, 
       "displacement": 4217.0, 
-      "spinnaker_asym": 71.0
+      "spinnaker_asym": 71.0, 
+      "crew": 560.0
     }, 
     "year": "2010"
   }, 

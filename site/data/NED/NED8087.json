@@ -5,12 +5,13 @@
       1.2812, 
       1.4279
     ], 
-    "gph": 590.6, 
     "triple_inshore": [
       0.7885, 
       1.0469, 
       1.2107
-    ]
+    ], 
+    "gph": 590.6, 
+    "osn": 576.7
   }, 
   "sailnumber": "NED8087", 
   "name": "Stormvogel", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.99, 
       "draft": 3.29, 
+      "wetted_surface": 33.3, 
       "main": 67.2, 
       "genoa": 47.6, 
       "displacement": 10724.0, 
-      "spinnaker_asym": 157.0
+      "spinnaker_asym": 157.0, 
+      "crew": 726.0
     }, 
     "year": "1998"
   }, 

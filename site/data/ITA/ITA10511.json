@@ -5,12 +5,13 @@
       1.1521, 
       1.2991
     ], 
-    "gph": 659.2, 
     "triple_inshore": [
       0.6932, 
       0.9379, 
       1.0764
-    ]
+    ], 
+    "gph": 659.2, 
+    "osn": 642.2
   }, 
   "sailnumber": "ITA10511", 
   "name": "POLLUCE", 
@@ -25,10 +26,12 @@
       "spinnaker": 46.2, 
       "loa": 9.25, 
       "draft": 1.89, 
+      "wetted_surface": 15.3, 
       "main": 30.2, 
       "genoa": 20.3, 
       "displacement": 2207.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 495.0
     }, 
     "year": "1985"
   }, 

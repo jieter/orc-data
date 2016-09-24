@@ -5,12 +5,13 @@
       1.3314, 
       1.5206
     ], 
-    "gph": 572.7, 
     "triple_inshore": [
       0.7852, 
       1.079, 
       1.2611
-    ]
+    ], 
+    "gph": 572.7, 
+    "osn": 556.2
   }, 
   "sailnumber": "ESP4664", 
   "name": "PAIRO 8", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.2, 
       "loa": 12.04, 
       "draft": 2.77, 
+      "wetted_surface": 30.7, 
       "main": 49.9, 
       "genoa": 41.4, 
       "displacement": 5768.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 855.0
     }, 
     "year": "1994"
   }, 

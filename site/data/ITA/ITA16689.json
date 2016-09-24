@@ -5,12 +5,13 @@
       1.2251, 
       1.3729
     ], 
-    "gph": 621.9, 
     "triple_inshore": [
       0.7305, 
       0.9915, 
       1.1361
-    ]
+    ], 
+    "gph": 621.9, 
+    "osn": 605.0
   }, 
   "sailnumber": "ITA16689", 
   "name": "RAIRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 2.24, 
+      "wetted_surface": 23.6, 
       "main": 35.2, 
       "genoa": 28.5, 
       "displacement": 3988.0, 
-      "spinnaker_asym": 99.0
+      "spinnaker_asym": 99.0, 
+      "crew": 620.0
     }, 
     "year": "2010"
   }, 

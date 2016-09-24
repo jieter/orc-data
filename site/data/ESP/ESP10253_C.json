@@ -5,12 +5,13 @@
       1.0204, 
       1.1604
     ], 
-    "gph": 748.7, 
     "triple_inshore": [
       0.6, 
       0.8186, 
       0.9701
-    ]
+    ], 
+    "gph": 748.7, 
+    "osn": 727.5
   }, 
   "sailnumber": "ESP10253_C", 
   "name": "TESEO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.32, 
       "draft": 1.82, 
+      "wetted_surface": 21.3, 
       "main": 19.8, 
       "genoa": 34.3, 
       "displacement": 5098.0, 
-      "spinnaker_asym": 64.0
+      "spinnaker_asym": 64.0, 
+      "crew": 320.0
     }, 
     "year": "1975"
   }, 

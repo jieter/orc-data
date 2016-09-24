@@ -5,12 +5,13 @@
       1.1265, 
       1.3143
     ], 
-    "gph": 684.4, 
     "triple_inshore": [
       0.6327, 
       0.8928, 
       1.0894
-    ]
+    ], 
+    "gph": 684.4, 
+    "osn": 661.7
   }, 
   "sailnumber": "ITA17019", 
   "name": "AZIMUT", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.5, 
       "loa": 11.74, 
       "draft": 1.92, 
+      "wetted_surface": 30.9, 
       "main": 25.2, 
       "genoa": 38.9, 
       "displacement": 7781.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1981"
   }, 

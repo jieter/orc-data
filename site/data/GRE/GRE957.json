@@ -5,12 +5,13 @@
       1.2089, 
       1.3706
     ], 
-    "gph": 631.9, 
     "triple_inshore": [
       0.7063, 
       0.9666, 
       1.1407
-    ]
+    ], 
+    "gph": 631.9, 
+    "osn": 615.5
   }, 
   "sailnumber": "GRE957", 
   "name": "EL PRINE", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.2, 
       "loa": 12.52, 
       "draft": 2.0, 
+      "wetted_surface": 32.7, 
       "main": 50.8, 
       "genoa": 44.6, 
       "displacement": 8607.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1988"
   }, 

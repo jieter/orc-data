@@ -5,12 +5,13 @@
       1.0738, 
       1.2363
     ], 
-    "gph": 718.2, 
     "triple_inshore": [
       0.605, 
       0.8442, 
       1.0133
-    ]
+    ], 
+    "gph": 718.2, 
+    "osn": 695.1
   }, 
   "sailnumber": "ESP9792_C", 
   "name": "TITELLA AGUIXO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.38, 
       "draft": 1.9, 
+      "wetted_surface": 26.5, 
       "main": 27.1, 
       "genoa": 20.1, 
       "displacement": 5989.0, 
-      "spinnaker_asym": 62.0
+      "spinnaker_asym": 62.0, 
+      "crew": 320.0
     }, 
     "year": "2007"
   }, 

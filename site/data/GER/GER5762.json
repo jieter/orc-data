@@ -5,12 +5,13 @@
       1.2446, 
       1.4236
     ], 
-    "gph": 612.7, 
     "triple_inshore": [
       0.7285, 
       0.9879, 
       1.1831
-    ]
+    ], 
+    "gph": 612.7, 
+    "osn": 597.6
   }, 
   "sailnumber": "GER5762", 
   "name": "DANTES", 
@@ -25,10 +26,12 @@
       "spinnaker": 173.8, 
       "loa": 14.606, 
       "draft": 2.41, 
+      "wetted_surface": 45.1, 
       "main": 46.7, 
       "genoa": 88.4, 
       "displacement": 16992.0, 
-      "spinnaker_asym": 148.0
+      "spinnaker_asym": 148.0, 
+      "crew": 730.0
     }, 
     "year": "1972"
   }, 

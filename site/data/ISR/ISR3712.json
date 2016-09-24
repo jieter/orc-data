@@ -5,12 +5,13 @@
       1.1909, 
       1.3554
     ], 
-    "gph": 641.9, 
     "triple_inshore": [
       0.6959, 
       0.9573, 
       1.1336
-    ]
+    ], 
+    "gph": 641.9, 
+    "osn": 623.4
   }, 
   "sailnumber": "ISR3712", 
   "name": "Roni 1", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.2, 
       "loa": 11.25, 
       "draft": 1.93, 
+      "wetted_surface": 29.8, 
       "main": 39.4, 
       "genoa": 37.1, 
       "displacement": 7170.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 510.0
     }, 
     "year": "1999"
   }, 

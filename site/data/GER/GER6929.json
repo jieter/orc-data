@@ -5,12 +5,13 @@
       1.1775, 
       1.342
     ], 
-    "gph": 650.3, 
     "triple_inshore": [
       0.6834, 
       0.944, 
       1.1207
-    ]
+    ], 
+    "gph": 650.3, 
+    "osn": 631.3
   }, 
   "sailnumber": "GER6929", 
   "name": "LARUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.0, 
       "loa": 11.66, 
       "draft": 1.97, 
+      "wetted_surface": 31.5, 
       "main": 40.5, 
       "genoa": 37.8, 
       "displacement": 7396.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1986"
   }, 

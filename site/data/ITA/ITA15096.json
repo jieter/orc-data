@@ -5,12 +5,13 @@
       1.1377, 
       1.2957
     ], 
-    "gph": 665.7, 
     "triple_inshore": [
       0.6912, 
       0.9227, 
       1.0592
-    ]
+    ], 
+    "gph": 665.7, 
+    "osn": 647.5
   }, 
   "sailnumber": "ITA15096", 
   "name": "VENTO ROSSO III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.032, 
       "draft": 1.51, 
+      "wetted_surface": 13.7, 
       "main": 21.5, 
       "genoa": 13.8, 
       "displacement": 1507.0, 
-      "spinnaker_asym": 63.0
+      "spinnaker_asym": 63.0, 
+      "crew": 350.0
     }, 
     "year": "1997"
   }, 

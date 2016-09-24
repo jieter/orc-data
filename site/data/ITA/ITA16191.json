@@ -5,12 +5,13 @@
       1.1509, 
       1.3148
     ], 
-    "gph": 665.9, 
     "triple_inshore": [
       0.6672, 
       0.9258, 
       1.0999
-    ]
+    ], 
+    "gph": 665.9, 
+    "osn": 645.1
   }, 
   "sailnumber": "ITA16191", 
   "name": "BACIOTTINHO", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.6, 
       "loa": 10.3, 
       "draft": 1.96, 
+      "wetted_surface": 25.6, 
       "main": 32.4, 
       "genoa": 30.5, 
       "displacement": 5475.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 635.0
     }, 
     "year": "2003"
   }, 

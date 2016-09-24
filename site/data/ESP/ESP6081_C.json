@@ -5,12 +5,13 @@
       1.0799, 
       1.2802
     ], 
-    "gph": 714.8, 
     "triple_inshore": [
       0.5984, 
       0.8533, 
       1.0613
-    ]
+    ], 
+    "gph": 714.8, 
+    "osn": 690.6
   }, 
   "sailnumber": "ESP6081_C", 
   "name": "VIEJO LOBO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.37, 
       "draft": 1.85, 
+      "wetted_surface": 25.9, 
       "main": 26.4, 
       "genoa": 30.3, 
       "displacement": 5643.0, 
-      "spinnaker_asym": 68.0
+      "spinnaker_asym": 68.0, 
+      "crew": 450.0
     }, 
     "year": "1999"
   }, 

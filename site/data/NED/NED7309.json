@@ -5,12 +5,13 @@
       1.2956, 
       1.4861
     ], 
-    "gph": 592.5, 
     "triple_inshore": [
       0.7401, 
       1.0256, 
       1.2174
-    ]
+    ], 
+    "gph": 592.5, 
+    "osn": 575.7
   }, 
   "sailnumber": "NED7309", 
   "name": "MARE NOSTRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.61, 
       "draft": 2.12, 
+      "wetted_surface": 40.6, 
       "main": 50.7, 
       "genoa": 60.2, 
       "displacement": 10856.0, 
-      "spinnaker_asym": 129.0
+      "spinnaker_asym": 129.0, 
+      "crew": 977.0
     }, 
     "year": "2004"
   }, 

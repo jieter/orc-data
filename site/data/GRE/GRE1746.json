@@ -5,12 +5,13 @@
       0.9609, 
       1.1585
     ], 
-    "gph": 804.2, 
     "triple_inshore": [
       0.5307, 
       0.7643, 
       0.9563
-    ]
+    ], 
+    "gph": 804.2, 
+    "osn": 773.9
   }, 
   "sailnumber": "GRE1746", 
   "name": "KOKORO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.1, 
       "draft": 1.47, 
+      "wetted_surface": 35.1, 
       "main": 31.1, 
       "genoa": 24.9, 
       "displacement": 8754.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2010"
   }, 

@@ -5,12 +5,13 @@
       1.2074, 
       1.3999
     ], 
-    "gph": 637.8, 
     "triple_inshore": [
       0.6815, 
       0.952, 
       1.1453
-    ]
+    ], 
+    "gph": 637.8, 
+    "osn": 618.1
   }, 
   "sailnumber": "NED8730", 
   "name": "Mare", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.6, 
       "draft": 2.11, 
+      "wetted_surface": 35.4, 
       "main": 39.2, 
       "genoa": 42.6, 
       "displacement": 9001.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 500.0
     }, 
     "year": "2006"
   }, 

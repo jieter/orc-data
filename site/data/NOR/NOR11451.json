@@ -5,12 +5,13 @@
       1.1808, 
       1.3276
     ], 
-    "gph": 646.2, 
     "triple_inshore": [
       0.6969, 
       0.9519, 
       1.1058
-    ]
+    ], 
+    "gph": 646.2, 
+    "osn": 628.9
   }, 
   "sailnumber": "NOR11451", 
   "name": "Haizea", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.0, 
       "loa": 10.34, 
       "draft": 1.94, 
+      "wetted_surface": 25.2, 
       "main": 35.4, 
       "genoa": 35.9, 
       "displacement": 5174.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 613.0
     }, 
     "year": "0"
   }, 

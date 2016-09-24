@@ -5,12 +5,13 @@
       1.2252, 
       1.3914
     ], 
-    "gph": 624.8, 
     "triple_inshore": [
       0.7146, 
       0.9885, 
       1.1665
-    ]
+    ], 
+    "gph": 624.8, 
+    "osn": 605.8
   }, 
   "sailnumber": "RUS4142", 
   "name": "SAMBA", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.0, 
       "loa": 11.3, 
       "draft": 2.34, 
+      "wetted_surface": 30.2, 
       "main": 40.5, 
       "genoa": 38.0, 
       "displacement": 6828.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 739.0
     }, 
     "year": "2005"
   }, 

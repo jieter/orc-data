@@ -5,12 +5,13 @@
       1.2204, 
       1.3987
     ], 
-    "gph": 627.9, 
     "triple_inshore": [
       0.7033, 
       0.978, 
       1.1535
-    ]
+    ], 
+    "gph": 627.9, 
+    "osn": 609.7
   }, 
   "sailnumber": "NED4855", 
   "name": "BRIGHT-SIDE", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.8, 
       "loa": 11.01, 
       "draft": 2.01, 
+      "wetted_surface": 26.1, 
       "main": 39.1, 
       "genoa": 29.5, 
       "displacement": 4336.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 560.0
     }, 
     "year": "1991"
   }, 

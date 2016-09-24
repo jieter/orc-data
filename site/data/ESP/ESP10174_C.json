@@ -5,12 +5,13 @@
       1.141, 
       1.3351
     ], 
-    "gph": 675.9, 
     "triple_inshore": [
       0.6343, 
       0.8963, 
       1.0918
-    ]
+    ], 
+    "gph": 675.9, 
+    "osn": 655.0
   }, 
   "sailnumber": "ESP10174_C", 
   "name": "TOCONAL", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.8, 
       "loa": 11.91, 
       "draft": 1.69, 
+      "wetted_surface": 31.0, 
       "main": 35.8, 
       "genoa": 42.8, 
       "displacement": 7375.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 483.0
     }, 
     "year": "2003"
   }, 

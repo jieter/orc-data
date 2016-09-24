@@ -5,12 +5,13 @@
       1.0671, 
       1.2093
     ], 
-    "gph": 714.6, 
     "triple_inshore": [
       0.6317, 
       0.8564, 
       1.0079
-    ]
+    ], 
+    "gph": 714.6, 
+    "osn": 695.4
   }, 
   "sailnumber": "ESP10028_C", 
   "name": "AMADIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.99, 
       "draft": 1.74, 
+      "wetted_surface": 19.9, 
       "main": 23.0, 
       "genoa": 24.0, 
       "displacement": 3712.0, 
-      "spinnaker_asym": 64.0
+      "spinnaker_asym": 64.0, 
+      "crew": 375.0
     }, 
     "year": "1990"
   }, 

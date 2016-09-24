@@ -5,12 +5,13 @@
       1.2052, 
       1.3609
     ], 
-    "gph": 633.8, 
     "triple_inshore": [
       0.7091, 
       0.9761, 
       1.1402
-    ]
+    ], 
+    "gph": 633.8, 
+    "osn": 616.0
   }, 
   "sailnumber": "ITA15887", 
   "name": "LUNANTICA", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.7, 
       "loa": 10.64, 
       "draft": 2.22, 
+      "wetted_surface": 26.5, 
       "main": 39.3, 
       "genoa": 37.6, 
       "displacement": 5482.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.2647, 
       1.4287
     ], 
-    "gph": 603.7, 
     "triple_inshore": [
       0.7444, 
       1.0147, 
       1.1912
-    ]
+    ], 
+    "gph": 603.7, 
+    "osn": 587.7
   }, 
   "sailnumber": "RUS908", 
   "name": "Mir", 
@@ -25,10 +26,12 @@
       "spinnaker": 148.2, 
       "loa": 13.62, 
       "draft": 2.23, 
+      "wetted_surface": 37.0, 
       "main": 40.2, 
       "genoa": 70.9, 
       "displacement": 9888.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 793.0
     }, 
     "year": "1978"
   }, 

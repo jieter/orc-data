@@ -5,12 +5,13 @@
       1.3453, 
       1.518
     ], 
-    "gph": 567.1, 
     "triple_inshore": [
       0.7904, 
       1.0784, 
       1.2583
-    ]
+    ], 
+    "gph": 567.1, 
+    "osn": 552.9
   }, 
   "sailnumber": "ESP8448", 
   "name": "MALICIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 144.0, 
       "loa": 13.33, 
       "draft": 2.23, 
+      "wetted_surface": 38.6, 
       "main": 65.1, 
       "genoa": 52.9, 
       "displacement": 9527.0, 
-      "spinnaker_asym": 143.0
+      "spinnaker_asym": 143.0, 
+      "crew": 888.0
     }, 
     "year": "2004"
   }, 

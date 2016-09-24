@@ -5,12 +5,13 @@
       1.2728, 
       1.45
     ], 
-    "gph": 593.9, 
     "triple_inshore": [
       0.7688, 
       1.0247, 
       1.1871
-    ]
+    ], 
+    "gph": 593.9, 
+    "osn": 580.1
   }, 
   "sailnumber": "AUT3", 
   "name": "LISBETH", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.4, 
       "loa": 10.075, 
       "draft": 1.91, 
+      "wetted_surface": 16.3, 
       "main": 33.6, 
       "genoa": 24.7, 
       "displacement": 1887.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1989"
   }, 

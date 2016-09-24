@@ -5,12 +5,13 @@
       1.057, 
       1.2483
     ], 
-    "gph": 728.4, 
     "triple_inshore": [
       0.5924, 
       0.8397, 
       1.0345
-    ]
+    ], 
+    "gph": 728.4, 
+    "osn": 704.3
   }, 
   "sailnumber": "ESP7967_C", 
   "name": "AQUARI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.1, 
       "draft": 1.89, 
+      "wetted_surface": 35.8, 
       "main": 36.1, 
       "genoa": 44.4, 
       "displacement": 11816.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 735.0
     }, 
     "year": "1975"
   }, 

@@ -5,12 +5,13 @@
       1.3025, 
       1.4966
     ], 
-    "gph": 589.7, 
     "triple_inshore": [
       0.7445, 
       1.0341, 
       1.2338
-    ]
+    ], 
+    "gph": 589.7, 
+    "osn": 572.2
   }, 
   "sailnumber": "NED7744", 
   "name": "Blues", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.698, 
       "draft": 2.33, 
+      "wetted_surface": 43.2, 
       "main": 62.3, 
       "genoa": 42.5, 
       "displacement": 12227.0, 
-      "spinnaker_asym": 114.0
+      "spinnaker_asym": 114.0, 
+      "crew": 995.0
     }, 
     "year": "2007"
   }, 

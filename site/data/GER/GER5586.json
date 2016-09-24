@@ -5,12 +5,13 @@
       1.0711, 
       1.2535
     ], 
-    "gph": 718.0, 
     "triple_inshore": [
       0.6006, 
       0.8318, 
       1.013
-    ]
+    ], 
+    "gph": 718.0, 
+    "osn": 697.6
   }, 
   "sailnumber": "GER5586", 
   "name": "LUNA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.43, 
       "draft": 1.44, 
+      "wetted_surface": 32.2, 
       "main": 32.8, 
       "genoa": 33.8, 
       "displacement": 8179.0, 
-      "spinnaker_asym": 71.0
+      "spinnaker_asym": 71.0, 
+      "crew": 600.0
     }, 
     "year": "1995"
   }, 

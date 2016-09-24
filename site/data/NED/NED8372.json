@@ -5,12 +5,13 @@
       1.0598, 
       1.1988
     ], 
-    "gph": 719.8, 
     "triple_inshore": [
       0.6195, 
       0.8444, 
       0.9742
-    ]
+    ], 
+    "gph": 719.8, 
+    "osn": 701.6
   }, 
   "sailnumber": "NED8372", 
   "name": "Caro Mio", 
@@ -25,10 +26,12 @@
       "spinnaker": 51.0, 
       "loa": 9.92, 
       "draft": 1.12, 
+      "wetted_surface": 15.8, 
       "main": 23.8, 
       "genoa": 17.4, 
       "displacement": 2277.0, 
-      "spinnaker_asym": 52.0
+      "spinnaker_asym": 52.0, 
+      "crew": 400.0
     }, 
     "year": "2011"
   }, 

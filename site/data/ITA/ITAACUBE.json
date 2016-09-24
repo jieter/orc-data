@@ -5,12 +5,13 @@
       1.158, 
       1.3444
     ], 
-    "gph": 663.4, 
     "triple_inshore": [
       0.6569, 
       0.9119, 
       1.0986
-    ]
+    ], 
+    "gph": 663.4, 
+    "osn": 644.1
   }, 
   "sailnumber": "ITAACUBE", 
   "name": "ACUBE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.36, 
       "draft": 1.76, 
+      "wetted_surface": 30.4, 
       "main": 30.4, 
       "genoa": 42.6, 
       "displacement": 6910.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 520.0
     }, 
     "year": "2005"
   }, 

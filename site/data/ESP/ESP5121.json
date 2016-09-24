@@ -5,12 +5,13 @@
       1.275, 
       1.4407
     ], 
-    "gph": 598.6, 
     "triple_inshore": [
       0.7509, 
       1.0293, 
       1.2025
-    ]
+    ], 
+    "gph": 598.6, 
+    "osn": 582.3
   }, 
   "sailnumber": "ESP5121", 
   "name": "U.Politecnica Valencia", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.4, 
       "loa": 11.924, 
       "draft": 2.41, 
+      "wetted_surface": 31.2, 
       "main": 47.9, 
       "genoa": 44.6, 
       "displacement": 7053.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "1997"
   }, 

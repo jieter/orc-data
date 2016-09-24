@@ -5,12 +5,13 @@
       1.1307, 
       1.3004
     ], 
-    "gph": 680.5, 
     "triple_inshore": [
       0.642, 
       0.9018, 
       1.0839
-    ]
+    ], 
+    "gph": 680.5, 
+    "osn": 659.2
   }, 
   "sailnumber": "ITALEIIA", 
   "name": "LEI", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.4, 
       "loa": 11.28, 
       "draft": 2.1, 
+      "wetted_surface": 27.7, 
       "main": 31.1, 
       "genoa": 47.5, 
       "displacement": 6836.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1982"
   }, 

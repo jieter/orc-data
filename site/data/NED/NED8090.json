@@ -5,12 +5,13 @@
       1.2496, 
       1.4361
     ], 
-    "gph": 614.1, 
     "triple_inshore": [
       0.7164, 
       1.0011, 
       1.1944
-    ]
+    ], 
+    "gph": 614.1, 
+    "osn": 595.1
   }, 
   "sailnumber": "NED8090", 
   "name": "Antoinette", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.6, 
       "loa": 12.2, 
       "draft": 2.13, 
+      "wetted_surface": 32.9, 
       "main": 50.7, 
       "genoa": 34.3, 
       "displacement": 7614.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 717.0
     }, 
     "year": "2009"
   }, 

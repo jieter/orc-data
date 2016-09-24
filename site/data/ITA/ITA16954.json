@@ -5,12 +5,13 @@
       1.2552, 
       1.4382
     ], 
-    "gph": 610.4, 
     "triple_inshore": [
       0.7235, 
       0.9989, 
       1.1976
-    ]
+    ], 
+    "gph": 610.4, 
+    "osn": 593.2
   }, 
   "sailnumber": "ITA16954", 
   "name": "ALEF", 
@@ -25,10 +26,12 @@
       "spinnaker": 171.9, 
       "loa": 13.89, 
       "draft": 2.24, 
+      "wetted_surface": 42.4, 
       "main": 43.9, 
       "genoa": 74.4, 
       "displacement": 12869.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1983"
   }, 

@@ -5,12 +5,13 @@
       1.0045, 
       1.1316
     ], 
-    "gph": 762.9, 
     "triple_inshore": [
       0.588, 
       0.8101, 
       0.9426
-    ]
+    ], 
+    "gph": 762.9, 
+    "osn": 739.5
   }, 
   "sailnumber": "ESP6239_C", 
   "name": "DESASTRE", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.0, 
       "loa": 8.28, 
       "draft": 1.66, 
+      "wetted_surface": 16.2, 
       "main": 16.6, 
       "genoa": 27.9, 
       "displacement": 2821.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 419.0
     }, 
     "year": "1978"
   }, 

@@ -5,12 +5,13 @@
       1.1772, 
       1.3227
     ], 
-    "gph": 644.9, 
     "triple_inshore": [
       0.7099, 
       0.9602, 
       1.1109
-    ]
+    ], 
+    "gph": 644.9, 
+    "osn": 629.0
   }, 
   "sailnumber": "PER63409", 
   "name": "MANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.5, 
       "loa": 10.035, 
       "draft": 1.91, 
+      "wetted_surface": 21.2, 
       "main": 38.0, 
       "genoa": 31.5, 
       "displacement": 3878.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 515.0
     }, 
     "year": "1980"
   }, 

@@ -5,12 +5,13 @@
       1.2792, 
       1.4521
     ], 
-    "gph": 598.7, 
     "triple_inshore": [
       0.7422, 
       1.0238, 
       1.2062
-    ]
+    ], 
+    "gph": 598.7, 
+    "osn": 581.8
   }, 
   "sailnumber": "GER5404", 
   "name": "RELAX", 
@@ -25,10 +26,12 @@
       "spinnaker": 116.2, 
       "loa": 12.903, 
       "draft": 2.2, 
+      "wetted_surface": 35.6, 
       "main": 54.3, 
       "genoa": 39.3, 
       "displacement": 8961.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 720.0
     }, 
     "year": "2003"
   }, 

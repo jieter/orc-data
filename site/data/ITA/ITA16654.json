@@ -5,12 +5,13 @@
       1.1373, 
       1.2952
     ], 
-    "gph": 673.5, 
     "triple_inshore": [
       0.6621, 
       0.9187, 
       1.0807
-    ]
+    ], 
+    "gph": 673.5, 
+    "osn": 652.6
   }, 
   "sailnumber": "ITA16654", 
   "name": "TWENTY", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.0, 
       "loa": 9.5, 
       "draft": 1.92, 
+      "wetted_surface": 22.0, 
       "main": 26.1, 
       "genoa": 29.9, 
       "displacement": 3820.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1998"
   }, 

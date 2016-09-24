@@ -5,12 +5,13 @@
       1.1416, 
       1.2975
     ], 
-    "gph": 670.1, 
     "triple_inshore": [
       0.6692, 
       0.9244, 
       1.0842
-    ]
+    ], 
+    "gph": 670.1, 
+    "osn": 649.6
   }, 
   "sailnumber": "ITA14796", 
   "name": "BLUE SPIRIT", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.4, 
       "loa": 9.5, 
       "draft": 1.93, 
+      "wetted_surface": 22.3, 
       "main": 26.6, 
       "genoa": 30.5, 
       "displacement": 3913.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 530.0
     }, 
     "year": "1998"
   }, 

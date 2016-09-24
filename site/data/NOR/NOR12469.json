@@ -5,12 +5,13 @@
       1.1081, 
       1.2634
     ], 
-    "gph": 688.2, 
     "triple_inshore": [
       0.6561, 
       0.9019, 
       1.0642
-    ]
+    ], 
+    "gph": 688.2, 
+    "osn": 667.9
   }, 
   "sailnumber": "NOR12469", 
   "name": "Unit", 
@@ -25,10 +26,12 @@
       "spinnaker": 51.4, 
       "loa": 8.75, 
       "draft": 1.82, 
+      "wetted_surface": 19.7, 
       "main": 27.0, 
       "genoa": 25.4, 
       "displacement": 3627.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 526.0
     }, 
     "year": "1997"
   }, 

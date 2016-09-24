@@ -5,12 +5,13 @@
       1.2023, 
       1.3819
     ], 
-    "gph": 639.9, 
     "triple_inshore": [
       0.6822, 
       0.9518, 
       1.1338
-    ]
+    ], 
+    "gph": 639.9, 
+    "osn": 620.3
   }, 
   "sailnumber": "ITA15820", 
   "name": "MARZIANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.913, 
       "draft": 2.01, 
+      "wetted_surface": 30.5, 
       "main": 41.5, 
       "genoa": 43.4, 
       "displacement": 7200.0, 
-      "spinnaker_asym": 106.0
+      "spinnaker_asym": 106.0, 
+      "crew": 800.0
     }, 
     "year": "2002"
   }, 

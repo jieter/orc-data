@@ -5,12 +5,13 @@
       0.9968, 
       1.139
     ], 
-    "gph": 772.9, 
     "triple_inshore": [
       0.5665, 
       0.8007, 
       0.9399
-    ]
+    ], 
+    "gph": 772.9, 
+    "osn": 747.3
   }, 
   "sailnumber": "ITADEMUS", 
   "name": "DEMUSE", 
@@ -25,10 +26,12 @@
       "spinnaker": 34.3, 
       "loa": 8.12, 
       "draft": 1.54, 
+      "wetted_surface": 13.3, 
       "main": 18.1, 
       "genoa": 13.1, 
       "displacement": 1674.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1979"
   }, 

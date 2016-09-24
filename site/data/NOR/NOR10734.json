@@ -5,12 +5,13 @@
       1.1482, 
       1.3118
     ], 
-    "gph": 668.1, 
     "triple_inshore": [
       0.663, 
       0.921, 
       1.092
-    ]
+    ], 
+    "gph": 668.1, 
+    "osn": 647.2
   }, 
   "sailnumber": "NOR10734", 
   "name": "Rasken", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.3, 
       "loa": 10.34, 
       "draft": 1.94, 
+      "wetted_surface": 25.2, 
       "main": 33.3, 
       "genoa": 24.4, 
       "displacement": 5174.0, 
-      "spinnaker_asym": 61.0
+      "spinnaker_asym": 61.0, 
+      "crew": 613.0
     }, 
     "year": "2003"
   }, 

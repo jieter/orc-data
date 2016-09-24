@@ -5,12 +5,13 @@
       1.1879, 
       1.3522
     ], 
-    "gph": 643.2, 
     "triple_inshore": [
       0.6977, 
       0.9637, 
       1.1266
-    ]
+    ], 
+    "gph": 643.2, 
+    "osn": 623.9
   }, 
   "sailnumber": "FRA25528", 
   "name": "BIDOURIK", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.0, 
       "loa": 9.6, 
       "draft": 1.98, 
+      "wetted_surface": 22.6, 
       "main": 32.7, 
       "genoa": 23.7, 
       "displacement": 3648.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 430.0
     }, 
     "year": "2003"
   }, 

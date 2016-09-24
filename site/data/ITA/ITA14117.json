@@ -5,12 +5,13 @@
       1.187, 
       1.3389
     ], 
-    "gph": 642.2, 
     "triple_inshore": [
       0.7055, 
       0.967, 
       1.1281
-    ]
+    ], 
+    "gph": 642.2, 
+    "osn": 624.4
   }, 
   "sailnumber": "ITA14117", 
   "name": "ULTRAVOX", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.8, 
       "loa": 10.045, 
       "draft": 2.2, 
+      "wetted_surface": 24.2, 
       "main": 35.4, 
       "genoa": 31.5, 
       "displacement": 4722.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 603.0
     }, 
     "year": "1994"
   }, 

@@ -5,12 +5,13 @@
       1.2353, 
       1.4219
     ], 
-    "gph": 620.3, 
     "triple_inshore": [
       0.7122, 
       0.9873, 
       1.1826
-    ]
+    ], 
+    "gph": 620.3, 
+    "osn": 601.8
   }, 
   "sailnumber": "CRO1292", 
   "name": "Skalice", 
@@ -25,10 +26,12 @@
       "spinnaker": 116.3, 
       "loa": 12.895, 
       "draft": 2.13, 
+      "wetted_surface": 34.0, 
       "main": 38.1, 
       "genoa": 53.1, 
       "displacement": 8500.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 780.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.2059, 
       1.4231
     ], 
-    "gph": 642.3, 
     "triple_inshore": [
       0.658, 
       0.944, 
       1.1624
-    ]
+    ], 
+    "gph": 642.3, 
+    "osn": 621.6
   }, 
   "sailnumber": "CHN53007", 
   "name": "SHUGUANG HAIYANG", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.526, 
       "draft": 2.13, 
+      "wetted_surface": 38.0, 
       "main": 40.2, 
       "genoa": 43.3, 
       "displacement": 9055.0, 
-      "spinnaker_asym": 115.0
+      "spinnaker_asym": 115.0, 
+      "crew": 950.0
     }, 
     "year": "2007"
   }, 

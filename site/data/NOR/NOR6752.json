@@ -5,12 +5,13 @@
       1.0987, 
       1.2426
     ], 
-    "gph": 696.2, 
     "triple_inshore": [
       0.6403, 
       0.8831, 
       1.0354
-    ]
+    ], 
+    "gph": 696.2, 
+    "osn": 676.9
   }, 
   "sailnumber": "NOR6752", 
   "name": "FLAKS", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.4, 
       "loa": 9.81, 
       "draft": 1.74, 
+      "wetted_surface": 23.3, 
       "main": 29.6, 
       "genoa": 31.3, 
       "displacement": 4497.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 527.0
     }, 
     "year": "1986"
   }, 

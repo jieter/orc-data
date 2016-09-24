@@ -5,12 +5,13 @@
       1.2874, 
       1.4651
     ], 
-    "gph": 592.2, 
     "triple_inshore": [
       0.7364, 
       1.0116, 
       1.2077
-    ]
+    ], 
+    "gph": 592.2, 
+    "osn": 581.5
   }, 
   "sailnumber": "NOR12530", 
   "name": "KETCHUP", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.15, 
       "draft": 2.21, 
+      "wetted_surface": 41.0, 
       "main": 64.5, 
       "genoa": 47.3, 
       "displacement": 11599.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 880.0
     }, 
     "year": "2007"
   }, 

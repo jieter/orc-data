@@ -5,12 +5,13 @@
       1.1743, 
       1.3405
     ], 
-    "gph": 651.2, 
     "triple_inshore": [
       0.6853, 
       0.9452, 
       1.123
-    ]
+    ], 
+    "gph": 651.2, 
+    "osn": 632.2
   }, 
   "sailnumber": "NED8581", 
   "name": "Winged Winner", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.8, 
       "loa": 11.255, 
       "draft": 1.93, 
+      "wetted_surface": 28.9, 
       "main": 45.0, 
       "genoa": 27.5, 
       "displacement": 6700.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 623.0
     }, 
     "year": "1993"
   }, 

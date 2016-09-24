@@ -5,12 +5,13 @@
       1.0529, 
       1.2165
     ], 
-    "gph": 728.0, 
     "triple_inshore": [
       0.6083, 
       0.8408, 
       1.0169
-    ]
+    ], 
+    "gph": 728.0, 
+    "osn": 705.7
   }, 
   "sailnumber": "NED7513", 
   "name": "Rosy Maes", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.3, 
       "loa": 10.25, 
       "draft": 1.86, 
+      "wetted_surface": 26.0, 
       "main": 31.8, 
       "genoa": 23.6, 
       "displacement": 6565.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1989"
   }, 

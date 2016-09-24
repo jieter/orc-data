@@ -5,12 +5,13 @@
       1.247, 
       1.4001
     ], 
-    "gph": 612.4, 
     "triple_inshore": [
       0.7355, 
       1.0019, 
       1.1636
-    ]
+    ], 
+    "gph": 612.4, 
+    "osn": 595.4
   }, 
   "sailnumber": "ITA15962", 
   "name": "BYE BYE BABY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.918, 
       "draft": 2.44, 
+      "wetted_surface": 31.6, 
       "main": 45.0, 
       "genoa": 43.3, 
       "displacement": 7537.0, 
-      "spinnaker_asym": 121.0
+      "spinnaker_asym": 121.0, 
+      "crew": 540.0
     }, 
     "year": "2001"
   }, 

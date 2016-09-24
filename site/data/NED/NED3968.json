@@ -5,12 +5,13 @@
       1.2716, 
       1.436
     ], 
-    "gph": 598.4, 
     "triple_inshore": [
       0.7582, 
       1.0313, 
       1.1969
-    ]
+    ], 
+    "gph": 598.4, 
+    "osn": 582.3
   }, 
   "sailnumber": "NED3968", 
   "name": "Matrix", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.0, 
       "loa": 10.98, 
       "draft": 2.27, 
+      "wetted_surface": 26.6, 
       "main": 38.0, 
       "genoa": 46.5, 
       "displacement": 4801.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 672.0
     }, 
     "year": "1995"
   }, 

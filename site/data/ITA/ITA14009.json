@@ -5,12 +5,13 @@
       1.1679, 
       1.315
     ], 
-    "gph": 653.5, 
     "triple_inshore": [
       0.6891, 
       0.9434, 
       1.0934
-    ]
+    ], 
+    "gph": 653.5, 
+    "osn": 636.1
   }, 
   "sailnumber": "ITA14009", 
   "name": "DIECI X DIECI", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.8, 
       "loa": 9.978, 
       "draft": 1.76, 
+      "wetted_surface": 24.0, 
       "main": 35.5, 
       "genoa": 29.2, 
       "displacement": 4407.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 572.0
     }, 
     "year": "1994"
   }, 

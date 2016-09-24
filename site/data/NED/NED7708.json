@@ -5,12 +5,13 @@
       1.2214, 
       1.3764
     ], 
-    "gph": 625.3, 
     "triple_inshore": [
       0.7189, 
       0.9869, 
       1.1544
-    ]
+    ], 
+    "gph": 625.3, 
+    "osn": 607.8
   }, 
   "sailnumber": "NED7708", 
   "name": "Sail East", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.9, 
       "loa": 11.215, 
       "draft": 2.07, 
+      "wetted_surface": 28.7, 
       "main": 38.0, 
       "genoa": 39.7, 
       "displacement": 6532.0, 
-      "spinnaker_asym": 102.0
+      "spinnaker_asym": 102.0, 
+      "crew": 711.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.269, 
       1.4362
     ], 
-    "gph": 598.7, 
     "triple_inshore": [
       0.7518, 
       1.0228, 
       1.189
-    ]
+    ], 
+    "gph": 598.7, 
+    "osn": 584.7
   }, 
   "sailnumber": "NOR14777", 
   "name": "HYAK", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.6, 
       "draft": 2.13, 
+      "wetted_surface": 26.2, 
       "main": 38.1, 
       "genoa": 29.9, 
       "displacement": 5041.0, 
-      "spinnaker_asym": 117.0
+      "spinnaker_asym": 117.0, 
+      "crew": 670.0
     }, 
     "year": "2001"
   }, 

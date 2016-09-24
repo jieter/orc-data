@@ -5,12 +5,13 @@
       1.2959, 
       1.4529
     ], 
-    "gph": 587.4, 
     "triple_inshore": [
       0.7734, 
       1.0482, 
       1.2128
-    ]
+    ], 
+    "gph": 587.4, 
+    "osn": 572.4
   }, 
   "sailnumber": "ESP6316", 
   "name": "EGOA IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.0, 
       "loa": 12.1, 
       "draft": 2.41, 
+      "wetted_surface": 30.7, 
       "main": 50.3, 
       "genoa": 49.1, 
       "displacement": 6472.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 690.0
     }, 
     "year": "2000"
   }, 

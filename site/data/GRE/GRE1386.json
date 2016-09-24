@@ -5,12 +5,13 @@
       1.045, 
       1.2224
     ], 
-    "gph": 730.8, 
     "triple_inshore": [
       0.6086, 
       0.8448, 
       0.9879
-    ]
+    ], 
+    "gph": 730.8, 
+    "osn": 706.8
   }, 
   "sailnumber": "GRE1386", 
   "name": "MOLOTOW", 
@@ -25,10 +26,12 @@
       "spinnaker": 36.5, 
       "loa": 6.5, 
       "draft": 1.32, 
+      "wetted_surface": 10.2, 
       "main": 13.5, 
       "genoa": 8.2, 
       "displacement": 800.0, 
-      "spinnaker_asym": 26.0
+      "spinnaker_asym": 26.0, 
+      "crew": 250.0
     }, 
     "year": "2005"
   }, 

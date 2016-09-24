@@ -5,12 +5,13 @@
       1.216, 
       1.4325
     ], 
-    "gph": 637.6, 
     "triple_inshore": [
       0.6633, 
       0.948, 
       1.1565
-    ]
+    ], 
+    "gph": 637.6, 
+    "osn": 616.2
   }, 
   "sailnumber": "GRE1755", 
   "name": "DESTINY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.734, 
       "draft": 2.11, 
+      "wetted_surface": 46.5, 
       "main": 45.2, 
       "genoa": 47.1, 
       "displacement": 12600.0, 
-      "spinnaker_asym": 149.0
+      "spinnaker_asym": 149.0, 
+      "crew": 700.0
     }, 
     "year": "2010"
   }, 

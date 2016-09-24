@@ -5,12 +5,13 @@
       0.9969, 
       1.2034
     ], 
-    "gph": 777.7, 
     "triple_inshore": [
       0.5406, 
       0.7902, 
       0.9954
-    ]
+    ], 
+    "gph": 777.7, 
+    "osn": 748.3
   }, 
   "sailnumber": "ITAALCHI", 
   "name": "ALCHITA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.75, 
       "draft": 1.7, 
+      "wetted_surface": 21.2, 
       "main": 19.6, 
       "genoa": 28.0, 
       "displacement": 3815.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2004"
   }, 

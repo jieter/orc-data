@@ -5,12 +5,13 @@
       1.1495, 
       1.2918
     ], 
-    "gph": 661.6, 
     "triple_inshore": [
       0.6891, 
       0.9271, 
       1.0823
-    ]
+    ], 
+    "gph": 661.6, 
+    "osn": 644.9
   }, 
   "sailnumber": "NED8524", 
   "name": "Denonzen", 
@@ -25,10 +26,12 @@
       "spinnaker": 121.3, 
       "loa": 11.274, 
       "draft": 1.96, 
+      "wetted_surface": 28.3, 
       "main": 32.5, 
       "genoa": 51.7, 
       "displacement": 8000.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 610.0
     }, 
     "year": "1976"
   }, 

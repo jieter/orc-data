@@ -5,12 +5,13 @@
       1.1795, 
       1.3853
     ], 
-    "gph": 655.0, 
     "triple_inshore": [
       0.6561, 
       0.9323, 
       1.1463
-    ]
+    ], 
+    "gph": 655.0, 
+    "osn": 632.6
   }, 
   "sailnumber": "ITA15494", 
   "name": "MOMI BLU", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.2, 
       "loa": 13.425, 
       "draft": 2.24, 
+      "wetted_surface": 39.0, 
       "main": 35.8, 
       "genoa": 53.0, 
       "displacement": 10944.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1988"
   }, 

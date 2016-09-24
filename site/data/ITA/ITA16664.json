@@ -5,12 +5,13 @@
       1.2842, 
       1.488
     ], 
-    "gph": 598.3, 
     "triple_inshore": [
       0.7126, 
       1.0034, 
       1.2114
-    ]
+    ], 
+    "gph": 598.3, 
+    "osn": 583.9
   }, 
   "sailnumber": "ITA16664", 
   "name": "CLAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.715, 
       "draft": 2.28, 
+      "wetted_surface": 39.9, 
       "main": 52.5, 
       "genoa": 43.3, 
       "displacement": 9700.0, 
-      "spinnaker_asym": 126.0
+      "spinnaker_asym": 126.0, 
+      "crew": 890.0
     }, 
     "year": "2004"
   }, 

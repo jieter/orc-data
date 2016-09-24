@@ -5,12 +5,13 @@
       0.9743, 
       1.0874
     ], 
-    "gph": 779.1, 
     "triple_inshore": [
       0.5948, 
       0.7959, 
       0.9144
-    ]
+    ], 
+    "gph": 779.1, 
+    "osn": 758.2
   }, 
   "sailnumber": "NED2717", 
   "name": "KAIZEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.0, 
       "loa": 7.97, 
       "draft": 1.34, 
+      "wetted_surface": 14.1, 
       "main": 12.4, 
       "genoa": 22.9, 
       "displacement": 2541.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 382.0
     }, 
     "year": "1976"
   }, 

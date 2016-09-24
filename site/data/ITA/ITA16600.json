@@ -5,12 +5,13 @@
       1.3888, 
       1.5653
     ], 
-    "gph": 552.2, 
     "triple_inshore": [
       0.804, 
       1.105, 
       1.292
-    ]
+    ], 
+    "gph": 552.2, 
+    "osn": 537.1
   }, 
   "sailnumber": "ITA16600", 
   "name": "KIWI 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.95, 
       "draft": 2.92, 
+      "wetted_surface": 52.9, 
       "main": 83.5, 
       "genoa": 59.6, 
       "displacement": 16628.0, 
-      "spinnaker_asym": 204.0
+      "spinnaker_asym": 204.0, 
+      "crew": 1000.0
     }, 
     "year": "2008"
   }, 

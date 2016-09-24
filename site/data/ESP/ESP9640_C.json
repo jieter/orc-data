@@ -5,12 +5,13 @@
       1.2693, 
       1.4957
     ], 
-    "gph": 608.3, 
     "triple_inshore": [
       0.6996, 
       0.998, 
       1.2297
-    ]
+    ], 
+    "gph": 608.3, 
+    "osn": 589.5
   }, 
   "sailnumber": "ESP9640_C", 
   "name": "FESTINAZO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.73, 
       "draft": 2.15, 
+      "wetted_surface": 45.9, 
       "main": 55.5, 
       "genoa": 60.4, 
       "displacement": 13216.0, 
-      "spinnaker_asym": 145.0
+      "spinnaker_asym": 145.0, 
+      "crew": 954.0
     }, 
     "year": "2001"
   }, 

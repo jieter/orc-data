@@ -5,12 +5,13 @@
       1.2067, 
       1.3819
     ], 
-    "gph": 634.3, 
     "triple_inshore": [
       0.6978, 
       0.9694, 
       1.1398
-    ]
+    ], 
+    "gph": 634.3, 
+    "osn": 616.1
   }, 
   "sailnumber": "GRE01", 
   "name": "ASTRAPI", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.5, 
       "loa": 10.632, 
       "draft": 2.0, 
+      "wetted_surface": 24.9, 
       "main": 41.0, 
       "genoa": 26.9, 
       "displacement": 4205.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 620.0
     }, 
     "year": "1991"
   }, 

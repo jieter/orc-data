@@ -5,12 +5,13 @@
       1.1698, 
       1.3275
     ], 
-    "gph": 654.1, 
     "triple_inshore": [
       0.6826, 
       0.9414, 
       1.1048
-    ]
+    ], 
+    "gph": 654.1, 
+    "osn": 634.8
   }, 
   "sailnumber": "NOR10963", 
   "name": "Perle", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.5, 
       "loa": 10.34, 
       "draft": 1.94, 
+      "wetted_surface": 25.0, 
       "main": 34.8, 
       "genoa": 30.0, 
       "displacement": 5097.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 612.0
     }, 
     "year": "2003"
   }, 

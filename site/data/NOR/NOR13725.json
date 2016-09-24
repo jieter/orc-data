@@ -5,12 +5,13 @@
       1.2434, 
       1.4271
     ], 
-    "gph": 618.5, 
     "triple_inshore": [
       0.7075, 
       0.9836, 
       1.1664
-    ]
+    ], 
+    "gph": 618.5, 
+    "osn": 599.7
   }, 
   "sailnumber": "NOR13725", 
   "name": "Enzo", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.1, 
       "draft": 2.01, 
+      "wetted_surface": 37.0, 
       "main": 43.2, 
       "genoa": 49.6, 
       "displacement": 9262.0, 
-      "spinnaker_asym": 109.0
+      "spinnaker_asym": 109.0, 
+      "crew": 878.0
     }, 
     "year": "2007"
   }, 

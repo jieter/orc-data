@@ -5,12 +5,13 @@
       1.1137, 
       1.2623
     ], 
-    "gph": 680.3, 
     "triple_inshore": [
       0.676, 
       0.9133, 
       1.044
-    ]
+    ], 
+    "gph": 680.3, 
+    "osn": 661.7
   }, 
   "sailnumber": "NOR5821", 
   "name": "Taz", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.0, 
       "loa": 7.86, 
       "draft": 1.83, 
+      "wetted_surface": 13.9, 
       "main": 21.5, 
       "genoa": 18.5, 
       "displacement": 1498.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 407.0
     }, 
     "year": "1982"
   }, 

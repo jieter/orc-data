@@ -5,12 +5,13 @@
       1.0831, 
       1.2227
     ], 
-    "gph": 703.6, 
     "triple_inshore": [
       0.6438, 
       0.8732, 
       1.0236
-    ]
+    ], 
+    "gph": 703.6, 
+    "osn": 684.3
   }, 
   "sailnumber": "ESP7678_C", 
   "name": "ATOLON 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.99, 
       "draft": 1.74, 
+      "wetted_surface": 19.3, 
       "main": 25.6, 
       "genoa": 19.1, 
       "displacement": 3366.0, 
-      "spinnaker_asym": 52.0
+      "spinnaker_asym": 52.0, 
+      "crew": 150.0
     }, 
     "year": "1997"
   }, 

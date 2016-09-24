@@ -5,12 +5,13 @@
       1.1588, 
       1.2962
     ], 
-    "gph": 654.5, 
     "triple_inshore": [
       0.7034, 
       0.9405, 
       1.0649
-    ]
+    ], 
+    "gph": 654.5, 
+    "osn": 637.5
   }, 
   "sailnumber": "GER6749", 
   "name": "", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.35, 
       "draft": 1.81, 
+      "wetted_surface": 16.2, 
       "main": 25.4, 
       "genoa": 18.6, 
       "displacement": 2185.0, 
-      "spinnaker_asym": 73.0
+      "spinnaker_asym": 73.0, 
+      "crew": 360.0
     }, 
     "year": "2012"
   }, 

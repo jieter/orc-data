@@ -5,12 +5,13 @@
       1.1536, 
       1.335
     ], 
-    "gph": 651.6, 
     "triple_inshore": [
       0.718, 
       0.9285, 
       1.0645
-    ]
+    ], 
+    "gph": 651.6, 
+    "osn": 636.5
   }, 
   "sailnumber": "FRA19789_C", 
   "name": "LO CHIVAU", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.0, 
       "draft": 1.72, 
+      "wetted_surface": 12.5, 
       "main": 27.8, 
       "genoa": 12.7, 
       "displacement": 1089.0, 
-      "spinnaker_asym": 36.0
+      "spinnaker_asym": 36.0, 
+      "crew": 330.0
     }, 
     "year": "1999"
   }, 

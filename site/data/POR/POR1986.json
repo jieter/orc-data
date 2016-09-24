@@ -5,12 +5,13 @@
       1.1636, 
       1.3206
     ], 
-    "gph": 656.9, 
     "triple_inshore": [
       0.684, 
       0.9417, 
       1.1065
-    ]
+    ], 
+    "gph": 656.9, 
+    "osn": 637.5
   }, 
   "sailnumber": "POR1986", 
   "name": "BOMBAY", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.1, 
       "loa": 9.98, 
       "draft": 1.9, 
+      "wetted_surface": 23.0, 
       "main": 34.2, 
       "genoa": 25.3, 
       "displacement": 4603.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1998"
   }, 

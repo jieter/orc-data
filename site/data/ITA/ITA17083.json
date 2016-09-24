@@ -5,12 +5,13 @@
       1.1594, 
       1.3081
     ], 
-    "gph": 656.4, 
     "triple_inshore": [
       0.693, 
       0.9449, 
       1.0971
-    ]
+    ], 
+    "gph": 656.4, 
+    "osn": 638.4
   }, 
   "sailnumber": "ITA17083", 
   "name": "SPIRIT", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.1, 
       "loa": 9.295, 
       "draft": 1.99, 
+      "wetted_surface": 21.0, 
       "main": 32.3, 
       "genoa": 24.5, 
       "displacement": 3745.0, 
-      "spinnaker_asym": 60.0
+      "spinnaker_asym": 60.0, 
+      "crew": 600.0
     }, 
     "year": "1999"
   }, 

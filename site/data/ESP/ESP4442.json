@@ -5,12 +5,13 @@
       1.0368, 
       1.1836
     ], 
-    "gph": 742.1, 
     "triple_inshore": [
       0.5917, 
       0.8302, 
       0.9848
-    ]
+    ], 
+    "gph": 742.1, 
+    "osn": 718.3
   }, 
   "sailnumber": "ESP4442", 
   "name": "MARIBEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.2, 
       "loa": 8.8, 
       "draft": 1.74, 
+      "wetted_surface": 20.3, 
       "main": 23.2, 
       "genoa": 17.8, 
       "displacement": 3380.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1983"
   }, 

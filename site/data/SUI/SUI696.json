@@ -5,12 +5,13 @@
       1.1387, 
       1.286
     ], 
-    "gph": 670.0, 
     "triple_inshore": [
       0.6748, 
       0.924, 
       1.0782
-    ]
+    ], 
+    "gph": 670.0, 
+    "osn": 650.7
   }, 
   "sailnumber": "SUI696", 
   "name": "SAPHIRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.7, 
       "loa": 9.35, 
       "draft": 1.74, 
+      "wetted_surface": 21.4, 
       "main": 26.3, 
       "genoa": 30.3, 
       "displacement": 4273.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 534.0
     }, 
     "year": "2006"
   }, 

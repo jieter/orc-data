@@ -5,12 +5,13 @@
       0.9289, 
       1.1002
     ], 
-    "gph": 832.4, 
     "triple_inshore": [
       0.5113, 
       0.7328, 
       0.9005
-    ]
+    ], 
+    "gph": 832.4, 
+    "osn": 802.9
   }, 
   "sailnumber": "GRE899", 
   "name": "HARA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.45, 
       "draft": 1.39, 
+      "wetted_surface": 23.5, 
       "main": 17.9, 
       "genoa": 31.1, 
       "displacement": 5123.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1991"
   }, 

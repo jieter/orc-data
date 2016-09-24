@@ -5,12 +5,13 @@
       1.0046, 
       1.2021
     ], 
-    "gph": 767.6, 
     "triple_inshore": [
       0.5508, 
       0.7698, 
       0.9515
-    ]
+    ], 
+    "gph": 767.6, 
+    "osn": 744.8
   }, 
   "sailnumber": "GRE1429", 
   "name": "SCARLETT", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.741, 
       "draft": 1.72, 
+      "wetted_surface": 37.6, 
       "main": 25.4, 
       "genoa": 43.5, 
       "displacement": 12494.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 500.0
     }, 
     "year": "1977"
   }, 

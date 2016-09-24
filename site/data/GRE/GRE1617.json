@@ -5,12 +5,13 @@
       1.1194, 
       1.2626
     ], 
-    "gph": 672.9, 
     "triple_inshore": [
       0.6971, 
       0.9078, 
       1.0295
-    ]
+    ], 
+    "gph": 672.9, 
+    "osn": 657.2
   }, 
   "sailnumber": "GRE1617", 
   "name": "HELIOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.048, 
       "draft": 1.64, 
+      "wetted_surface": 11.7, 
       "main": 21.1, 
       "genoa": 12.6, 
       "displacement": 1121.0, 
-      "spinnaker_asym": 43.0
+      "spinnaker_asym": 43.0, 
+      "crew": 350.0
     }, 
     "year": "2012"
   }, 

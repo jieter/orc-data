@@ -5,12 +5,13 @@
       1.2377, 
       1.4104
     ], 
-    "gph": 619.2, 
     "triple_inshore": [
       0.7144, 
       0.989, 
       1.1703
-    ]
+    ], 
+    "gph": 619.2, 
+    "osn": 601.4
   }, 
   "sailnumber": "NED6803SH", 
   "name": "JAZZ", 
@@ -25,10 +26,12 @@
       "spinnaker": 117.6, 
       "loa": 12.8, 
       "draft": 2.05, 
+      "wetted_surface": 34.8, 
       "main": 44.3, 
       "genoa": 48.7, 
       "displacement": 8568.0, 
-      "spinnaker_asym": 90.0
+      "spinnaker_asym": 90.0, 
+      "crew": 175.0
     }, 
     "year": "1998"
   }, 

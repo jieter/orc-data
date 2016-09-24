@@ -5,12 +5,13 @@
       1.2595, 
       1.4361
     ], 
-    "gph": 608.3, 
     "triple_inshore": [
       0.7271, 
       1.0069, 
       1.1902
-    ]
+    ], 
+    "gph": 608.3, 
+    "osn": 591.1
   }, 
   "sailnumber": "POR400", 
   "name": "STEP IN / ROFF", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.1, 
       "loa": 11.99, 
       "draft": 2.05, 
+      "wetted_surface": 34.9, 
       "main": 54.0, 
       "genoa": 38.7, 
       "displacement": 8167.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "2005"
   }, 

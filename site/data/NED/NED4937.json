@@ -5,12 +5,13 @@
       1.2379, 
       1.4023
     ], 
-    "gph": 617.3, 
     "triple_inshore": [
       0.7231, 
       0.991, 
       1.1632
-    ]
+    ], 
+    "gph": 617.3, 
+    "osn": 600.8
   }, 
   "sailnumber": "NED4937", 
   "name": "Flyer", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.6, 
       "loa": 11.785, 
       "draft": 1.97, 
+      "wetted_surface": 33.3, 
       "main": 47.2, 
       "genoa": 47.4, 
       "displacement": 7964.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.111, 
       1.2621
     ], 
-    "gph": 688.1, 
     "triple_inshore": [
       0.6541, 
       0.902, 
       1.0637
-    ]
+    ], 
+    "gph": 688.1, 
+    "osn": 666.8
   }, 
   "sailnumber": "NOR8821", 
   "name": "Maiko", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.0, 
       "loa": 9.5, 
       "draft": 1.99, 
+      "wetted_surface": 21.6, 
       "main": 24.6, 
       "genoa": 28.1, 
       "displacement": 4082.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 520.0
     }, 
     "year": "1999"
   }, 

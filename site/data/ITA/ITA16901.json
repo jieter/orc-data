@@ -5,12 +5,13 @@
       1.2533, 
       1.4245
     ], 
-    "gph": 610.9, 
     "triple_inshore": [
       0.7293, 
       1.0099, 
       1.1845
-    ]
+    ], 
+    "gph": 610.9, 
+    "osn": 592.7
   }, 
   "sailnumber": "ITA16901", 
   "name": "OBI-WAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.4, 
       "loa": 11.3, 
       "draft": 2.39, 
+      "wetted_surface": 29.6, 
       "main": 43.9, 
       "genoa": 36.7, 
       "displacement": 5935.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 630.0
     }, 
     "year": "2011"
   }, 

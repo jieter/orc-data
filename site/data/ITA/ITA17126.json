@@ -5,12 +5,13 @@
       1.2606, 
       1.4722
     ], 
-    "gph": 612.2, 
     "triple_inshore": [
       0.7023, 
       0.9905, 
       1.1982
-    ]
+    ], 
+    "gph": 612.2, 
+    "osn": 593.3
   }, 
   "sailnumber": "ITA17126", 
   "name": "MIREA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.27, 
       "draft": 2.17, 
+      "wetted_surface": 44.5, 
       "main": 42.6, 
       "genoa": 57.8, 
       "displacement": 12593.0, 
-      "spinnaker_asym": 166.0
+      "spinnaker_asym": 166.0, 
+      "crew": 600.0
     }, 
     "year": "2001"
   }, 

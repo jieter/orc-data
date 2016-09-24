@@ -5,12 +5,13 @@
       1.1267, 
       1.3151
     ], 
-    "gph": 681.0, 
     "triple_inshore": [
       0.6432, 
       0.8893, 
       1.0853
-    ]
+    ], 
+    "gph": 681.0, 
+    "osn": 660.4
   }, 
   "sailnumber": "NED8439", 
   "name": "Per5mance", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.2, 
       "draft": 1.97, 
+      "wetted_surface": 31.2, 
       "main": 33.7, 
       "genoa": 31.4, 
       "displacement": 7410.0, 
-      "spinnaker_asym": 79.0
+      "spinnaker_asym": 79.0, 
+      "crew": 705.0
     }, 
     "year": "2001"
   }, 

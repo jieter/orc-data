@@ -5,12 +5,13 @@
       1.2097, 
       1.3706
     ], 
-    "gph": 631.9, 
     "triple_inshore": [
       0.7089, 
       0.9776, 
       1.1486
-    ]
+    ], 
+    "gph": 631.9, 
+    "osn": 613.6
   }, 
   "sailnumber": "ESP6106_C", 
   "name": "NEGRIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.1, 
       "loa": 11.2, 
       "draft": 2.24, 
+      "wetted_surface": 26.6, 
       "main": 38.5, 
       "genoa": 37.1, 
       "displacement": 5791.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2001"
   }, 

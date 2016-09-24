@@ -5,12 +5,13 @@
       1.2549, 
       1.4201
     ], 
-    "gph": 610.0, 
     "triple_inshore": [
       0.7307, 
       1.0084, 
       1.1819
-    ]
+    ], 
+    "gph": 610.0, 
+    "osn": 592.6
   }, 
   "sailnumber": "GER6752", 
   "name": "NOREIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 123.0, 
       "loa": 11.995, 
       "draft": 2.1, 
+      "wetted_surface": 32.7, 
       "main": 49.8, 
       "genoa": 35.1, 
       "displacement": 7514.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "2001"
   }, 

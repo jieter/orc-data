@@ -5,12 +5,13 @@
       1.1445, 
       1.3046
     ], 
-    "gph": 658.2, 
     "triple_inshore": [
       0.7112, 
       0.939, 
       1.0713
-    ]
+    ], 
+    "gph": 658.2, 
+    "osn": 640.1
   }, 
   "sailnumber": "ESP25025_C", 
   "name": "MEDITERRANEO", 
@@ -25,10 +26,12 @@
       "spinnaker": 47.4, 
       "loa": 7.512, 
       "draft": 1.55, 
+      "wetted_surface": 11.5, 
       "main": 21.5, 
       "genoa": 12.2, 
       "displacement": 1138.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1996"
   }, 

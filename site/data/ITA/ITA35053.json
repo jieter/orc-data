@@ -5,12 +5,13 @@
       1.2259, 
       1.3852
     ], 
-    "gph": 623.3, 
     "triple_inshore": [
       0.723, 
       0.9935, 
       1.158
-    ]
+    ], 
+    "gph": 623.3, 
+    "osn": 605.0
   }, 
   "sailnumber": "ITA35053", 
   "name": "JOLIE BRISE", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.3, 
       "loa": 10.66, 
       "draft": 2.2, 
+      "wetted_surface": 27.5, 
       "main": 40.2, 
       "genoa": 31.9, 
       "displacement": 5549.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 610.0
     }, 
     "year": "2009"
   }, 

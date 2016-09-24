@@ -5,12 +5,13 @@
       1.2492, 
       1.4067
     ], 
-    "gph": 610.9, 
     "triple_inshore": [
       0.7398, 
       1.0132, 
       1.1836
-    ]
+    ], 
+    "gph": 610.9, 
+    "osn": 593.6
   }, 
   "sailnumber": "ESP8878", 
   "name": "ZAS SAILING", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.4, 
       "loa": 11.31, 
       "draft": 2.43, 
+      "wetted_surface": 29.9, 
       "main": 48.8, 
       "genoa": 33.8, 
       "displacement": 6893.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.279, 
       1.4567
     ], 
-    "gph": 598.2, 
     "triple_inshore": [
       0.7414, 
       1.0241, 
       1.2089
-    ]
+    ], 
+    "gph": 598.2, 
+    "osn": 582.0
   }, 
   "sailnumber": "ITA14693", 
   "name": "MY BEST LOVE", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.9, 
       "loa": 12.555, 
       "draft": 2.17, 
+      "wetted_surface": 33.4, 
       "main": 50.1, 
       "genoa": 52.1, 
       "displacement": 7839.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 670.0
     }, 
     "year": "2004"
   }, 

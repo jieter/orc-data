@@ -5,12 +5,13 @@
       1.2069, 
       1.3818
     ], 
-    "gph": 636.2, 
     "triple_inshore": [
       0.694, 
       0.961, 
       1.1494
-    ]
+    ], 
+    "gph": 636.2, 
+    "osn": 616.8
   }, 
   "sailnumber": "NED4430", 
   "name": "Camelot", 
@@ -25,10 +26,12 @@
       "spinnaker": 135.6, 
       "loa": 13.408, 
       "draft": 2.1, 
+      "wetted_surface": 38.2, 
       "main": 41.7, 
       "genoa": 59.8, 
       "displacement": 11116.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1989"
   }, 

@@ -5,12 +5,13 @@
       1.1674, 
       1.3255
     ], 
-    "gph": 652.5, 
     "triple_inshore": [
       0.6943, 
       0.9456, 
       1.094
-    ]
+    ], 
+    "gph": 652.5, 
+    "osn": 634.3
   }, 
   "sailnumber": "FRA27110", 
   "name": "UCHUCK", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.0, 
       "loa": 9.147, 
       "draft": 1.8, 
+      "wetted_surface": 20.3, 
       "main": 25.9, 
       "genoa": 31.7, 
       "displacement": 2775.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1987"
   }, 

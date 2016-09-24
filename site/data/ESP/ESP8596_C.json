@@ -5,12 +5,13 @@
       1.0988, 
       1.2673
     ], 
-    "gph": 698.5, 
     "triple_inshore": [
       0.6221, 
       0.8718, 
       1.0531
-    ]
+    ], 
+    "gph": 698.5, 
+    "osn": 680.2
   }, 
   "sailnumber": "ESP8596_C", 
   "name": "NADIR III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 2.06, 
+      "wetted_surface": 31.8, 
       "main": 35.4, 
       "genoa": 66.5, 
       "displacement": 9652.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1972"
   }, 

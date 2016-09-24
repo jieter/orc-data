@@ -5,12 +5,13 @@
       1.4241, 
       1.6265
     ], 
-    "gph": 532.1, 
     "triple_inshore": [
       0.8585, 
       1.1453, 
       1.321
-    ]
+    ], 
+    "gph": 532.1, 
+    "osn": 518.4
   }, 
   "sailnumber": "ARG4400", 
   "name": "GAUCHO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.54, 
       "draft": 2.62, 
+      "wetted_surface": 29.6, 
       "main": 60.4, 
       "genoa": 40.4, 
       "displacement": 5025.0, 
-      "spinnaker_asym": 167.0
+      "spinnaker_asym": 167.0, 
+      "crew": 780.0
     }, 
     "year": "1998"
   }, 

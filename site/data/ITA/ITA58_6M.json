@@ -5,12 +5,13 @@
       1.1184, 
       1.2215
     ], 
-    "gph": 673.6, 
     "triple_inshore": [
       0.6875, 
       0.8953, 
       1.0157
-    ]
+    ], 
+    "gph": 673.6, 
+    "osn": 664.7
   }, 
   "sailnumber": "ITA58_6M", 
   "name": "BAU BAU", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.8, 
       "loa": 11.442, 
       "draft": 1.58, 
+      "wetted_surface": 19.6, 
       "main": 37.4, 
       "genoa": 28.1, 
       "displacement": 4292.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1938"
   }, 

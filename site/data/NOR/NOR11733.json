@@ -5,12 +5,13 @@
       1.247, 
       1.4071
     ], 
-    "gph": 611.2, 
     "triple_inshore": [
       0.7379, 
       1.0046, 
       1.1796
-    ]
+    ], 
+    "gph": 611.2, 
+    "osn": 595.4
   }, 
   "sailnumber": "NOR11733", 
   "name": "Mairi Bhan II", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.3, 
       "loa": 11.858, 
       "draft": 2.06, 
+      "wetted_surface": 31.9, 
       "main": 49.1, 
       "genoa": 49.6, 
       "displacement": 8158.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 760.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       1.246, 
       1.4054
     ], 
-    "gph": 612.2, 
     "triple_inshore": [
       0.7373, 
       1.0102, 
       1.1834
-    ]
+    ], 
+    "gph": 612.2, 
+    "osn": 595.2
   }, 
   "sailnumber": "NOR12057", 
   "name": "Katinken", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.0, 
       "loa": 11.31, 
       "draft": 2.46, 
+      "wetted_surface": 30.0, 
       "main": 47.2, 
       "genoa": 40.8, 
       "displacement": 7051.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 702.0
     }, 
     "year": "2005"
   }, 

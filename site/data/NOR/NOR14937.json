@@ -5,12 +5,13 @@
       1.3234, 
       1.5043
     ], 
-    "gph": 579.9, 
     "triple_inshore": [
       0.7621, 
       1.0512, 
       1.2403
-    ]
+    ], 
+    "gph": 579.9, 
+    "osn": 563.3
   }, 
   "sailnumber": "NOR14937", 
   "name": "NewAge", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.19, 
       "draft": 2.61, 
+      "wetted_surface": 47.3, 
       "main": 69.3, 
       "genoa": 51.6, 
       "displacement": 14478.0, 
-      "spinnaker_asym": 137.0
+      "spinnaker_asym": 137.0, 
+      "crew": 1030.0
     }, 
     "year": "2006"
   }, 

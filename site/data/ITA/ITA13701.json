@@ -5,12 +5,13 @@
       1.2292, 
       1.3756
     ], 
-    "gph": 620.1, 
     "triple_inshore": [
       0.7302, 
       0.9856, 
       1.1301
-    ]
+    ], 
+    "gph": 620.1, 
+    "osn": 604.2
   }, 
   "sailnumber": "ITA13701", 
   "name": "BLACK ANGEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.36, 
       "draft": 2.09, 
+      "wetted_surface": 27.4, 
       "main": 39.5, 
       "genoa": 35.2, 
       "displacement": 5342.0, 
-      "spinnaker_asym": 113.0
+      "spinnaker_asym": 113.0, 
+      "crew": 480.0
     }, 
     "year": "1992"
   }, 

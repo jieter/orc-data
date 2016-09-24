@@ -5,12 +5,13 @@
       1.1011, 
       1.2462
     ], 
-    "gph": 694.5, 
     "triple_inshore": [
       0.6433, 
       0.886, 
       1.0394
-    ]
+    ], 
+    "gph": 694.5, 
+    "osn": 674.8
   }, 
   "sailnumber": "NOR7106", 
   "name": "Anitra", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.8, 
       "loa": 9.81, 
       "draft": 1.74, 
+      "wetted_surface": 23.2, 
       "main": 29.4, 
       "genoa": 30.0, 
       "displacement": 4475.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 527.0
     }, 
     "year": "1986"
   }, 

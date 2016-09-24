@@ -5,12 +5,13 @@
       1.2328, 
       1.385
     ], 
-    "gph": 618.0, 
     "triple_inshore": [
       0.735, 
       0.9949, 
       1.1435
-    ]
+    ], 
+    "gph": 618.0, 
+    "osn": 601.0
   }, 
   "sailnumber": "NOR14887", 
   "name": "Jubel", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.75, 
       "draft": 2.11, 
+      "wetted_surface": 25.6, 
       "main": 37.7, 
       "genoa": 30.3, 
       "displacement": 4725.0, 
-      "spinnaker_asym": 99.0
+      "spinnaker_asym": 99.0, 
+      "crew": 626.0
     }, 
     "year": "2001"
   }, 

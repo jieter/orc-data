@@ -5,12 +5,13 @@
       1.2952, 
       1.4659
     ], 
-    "gph": 590.5, 
     "triple_inshore": [
       0.7588, 
       1.0454, 
       1.227
-    ]
+    ], 
+    "gph": 590.5, 
+    "osn": 573.6
   }, 
   "sailnumber": "ROU410", 
   "name": "Simina", 
@@ -25,10 +26,12 @@
       "spinnaker": 124.8, 
       "loa": 12.259, 
       "draft": 2.38, 
+      "wetted_surface": 34.7, 
       "main": 53.4, 
       "genoa": 40.2, 
       "displacement": 8334.0, 
-      "spinnaker_asym": 99.0
+      "spinnaker_asym": 99.0, 
+      "crew": 760.0
     }, 
     "year": "2005"
   }, 

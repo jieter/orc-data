@@ -5,12 +5,13 @@
       1.2471, 
       1.4179
     ], 
-    "gph": 612.7, 
     "triple_inshore": [
       0.7323, 
       1.0132, 
       1.1851
-    ]
+    ], 
+    "gph": 612.7, 
+    "osn": 594.1
   }, 
   "sailnumber": "ESP8835", 
   "name": "L'OREIG", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.2, 
       "loa": 10.617, 
       "draft": 2.17, 
+      "wetted_surface": 25.1, 
       "main": 38.3, 
       "genoa": 28.9, 
       "displacement": 4743.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 610.0
     }, 
     "year": "2005"
   }, 

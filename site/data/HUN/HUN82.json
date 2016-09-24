@@ -5,12 +5,13 @@
       1.2104, 
       1.3555
     ], 
-    "gph": 628.8, 
     "triple_inshore": [
       0.7141, 
       0.9723, 
       1.1438
-    ]
+    ], 
+    "gph": 628.8, 
+    "osn": 615.0
   }, 
   "sailnumber": "HUN82", 
   "name": "Kishamis", 
@@ -25,10 +26,12 @@
       "spinnaker": 170.5, 
       "loa": 12.57, 
       "draft": 1.74, 
+      "wetted_surface": 32.1, 
       "main": 49.3, 
       "genoa": 55.1, 
       "displacement": 9208.0, 
-      "spinnaker_asym": 135.0
+      "spinnaker_asym": 135.0, 
+      "crew": 600.0
     }, 
     "year": "1900"
   }, 

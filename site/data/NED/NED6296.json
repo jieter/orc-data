@@ -5,12 +5,13 @@
       1.1241, 
       1.2559
     ], 
-    "gph": 674.9, 
     "triple_inshore": [
       0.6793, 
       0.9016, 
       1.0466
-    ]
+    ], 
+    "gph": 674.9, 
+    "osn": 660.3
   }, 
   "sailnumber": "NED6296", 
   "name": "LARRIKIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.868, 
       "draft": 1.95, 
+      "wetted_surface": 26.1, 
       "main": 33.6, 
       "genoa": 42.7, 
       "displacement": 6657.0, 
-      "spinnaker_asym": 80.0
+      "spinnaker_asym": 80.0, 
+      "crew": 607.0
     }, 
     "year": "1992"
   }, 

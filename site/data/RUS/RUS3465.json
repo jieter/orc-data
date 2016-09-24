@@ -5,12 +5,13 @@
       1.3319, 
       1.5201
     ], 
-    "gph": 574.5, 
     "triple_inshore": [
       0.7711, 
       1.0657, 
       1.2571
-    ]
+    ], 
+    "gph": 574.5, 
+    "osn": 558.7
   }, 
   "sailnumber": "RUS3465", 
   "name": "TIBURON", 
@@ -25,10 +26,12 @@
       "spinnaker": 132.0, 
       "loa": 13.558, 
       "draft": 2.23, 
+      "wetted_surface": 38.3, 
       "main": 53.4, 
       "genoa": 66.9, 
       "displacement": 8427.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 863.0
     }, 
     "year": "1992"
   }, 

@@ -5,12 +5,13 @@
       1.2153, 
       1.3619
     ], 
-    "gph": 626.4, 
     "triple_inshore": [
       0.7255, 
       0.9855, 
       1.1411
-    ]
+    ], 
+    "gph": 626.4, 
+    "osn": 610.5
   }, 
   "sailnumber": "NOR11273", 
   "name": "Graabein", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.4, 
       "loa": 10.68, 
       "draft": 2.23, 
+      "wetted_surface": 26.8, 
       "main": 40.7, 
       "genoa": 41.1, 
       "displacement": 5652.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 642.0
     }, 
     "year": "2001"
   }, 

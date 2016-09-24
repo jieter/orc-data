@@ -5,12 +5,13 @@
       1.2149, 
       1.3799
     ], 
-    "gph": 628.5, 
     "triple_inshore": [
       0.7144, 
       0.979, 
       1.1314
-    ]
+    ], 
+    "gph": 628.5, 
+    "osn": 611.4
   }, 
   "sailnumber": "NED7071", 
   "name": "Jager", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.6, 
       "loa": 10.0, 
       "draft": 1.95, 
+      "wetted_surface": 21.8, 
       "main": 33.9, 
       "genoa": 22.8, 
       "displacement": 2928.0, 
-      "spinnaker_asym": 51.0
+      "spinnaker_asym": 51.0, 
+      "crew": 350.0
     }, 
     "year": "2003"
   }, 

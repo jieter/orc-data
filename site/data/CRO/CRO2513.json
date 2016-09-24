@@ -5,12 +5,13 @@
       1.3582, 
       1.544
     ], 
-    "gph": 562.9, 
     "triple_inshore": [
       0.7922, 
       1.0893, 
       1.2782
-    ]
+    ], 
+    "gph": 562.9, 
+    "osn": 547.8
   }, 
   "sailnumber": "CRO2513", 
   "name": "Teuta", 
@@ -25,10 +26,12 @@
       "spinnaker": 149.2, 
       "loa": 13.74, 
       "draft": 2.62, 
+      "wetted_surface": 37.6, 
       "main": 61.3, 
       "genoa": 54.6, 
       "displacement": 9447.0, 
-      "spinnaker_asym": 136.0
+      "spinnaker_asym": 136.0, 
+      "crew": 905.0
     }, 
     "year": "2003"
   }, 

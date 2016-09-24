@@ -5,12 +5,13 @@
       1.2034, 
       1.3633
     ], 
-    "gph": 635.2, 
     "triple_inshore": [
       0.7071, 
       0.9743, 
       1.1419
-    ]
+    ], 
+    "gph": 635.2, 
+    "osn": 616.8
   }, 
   "sailnumber": "GER4941", 
   "name": "STATIC ELECTRIC", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.4, 
       "loa": 10.72, 
       "draft": 2.23, 
+      "wetted_surface": 26.7, 
       "main": 38.6, 
       "genoa": 30.3, 
       "displacement": 5246.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 580.0
     }, 
     "year": "1993"
   }, 

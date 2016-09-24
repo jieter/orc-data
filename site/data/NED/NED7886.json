@@ -5,12 +5,13 @@
       1.3517, 
       1.5233
     ], 
-    "gph": 561.6, 
     "triple_inshore": [
       0.8125, 
       1.0958, 
       1.2708
-    ]
+    ], 
+    "gph": 561.6, 
+    "osn": 547.5
   }, 
   "sailnumber": "NED7886", 
   "name": "Laiva", 
@@ -25,10 +26,12 @@
       "spinnaker": 139.2, 
       "loa": 12.35, 
       "draft": 2.51, 
+      "wetted_surface": 32.9, 
       "main": 55.8, 
       "genoa": 67.3, 
       "displacement": 7153.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 803.0
     }, 
     "year": "2006"
   }, 

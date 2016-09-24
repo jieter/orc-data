@@ -5,12 +5,13 @@
       1.1859, 
       1.3395
     ], 
-    "gph": 645.1, 
     "triple_inshore": [
       0.6938, 
       0.9568, 
       1.1217
-    ]
+    ], 
+    "gph": 645.1, 
+    "osn": 626.2
   }, 
   "sailnumber": "NOR11285", 
   "name": "Tussa", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.0, 
       "loa": 10.43, 
       "draft": 2.15, 
+      "wetted_surface": 27.9, 
       "main": 32.1, 
       "genoa": 42.1, 
       "displacement": 5896.0, 
-      "spinnaker_asym": 88.0
+      "spinnaker_asym": 88.0, 
+      "crew": 692.0
     }, 
     "year": "2003"
   }, 

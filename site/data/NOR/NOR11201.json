@@ -5,12 +5,13 @@
       1.2907, 
       1.4558
     ], 
-    "gph": 590.3, 
     "triple_inshore": [
       0.7662, 
       1.0459, 
       1.2276
-    ]
+    ], 
+    "gph": 590.3, 
+    "osn": 574.5
   }, 
   "sailnumber": "NOR11201", 
   "name": "Zombrero 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 129.6, 
       "loa": 13.1, 
       "draft": 2.48, 
+      "wetted_surface": 37.9, 
       "main": 59.7, 
       "genoa": 54.8, 
       "displacement": 10234.0, 
-      "spinnaker_asym": 149.0
+      "spinnaker_asym": 149.0, 
+      "crew": 803.0
     }, 
     "year": "2005"
   }, 

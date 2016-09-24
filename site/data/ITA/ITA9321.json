@@ -5,12 +5,13 @@
       1.1264, 
       1.2651
     ], 
-    "gph": 674.8, 
     "triple_inshore": [
       0.6771, 
       0.9127, 
       1.0583
-    ]
+    ], 
+    "gph": 674.8, 
+    "osn": 657.3
   }, 
   "sailnumber": "ITA9321", 
   "name": "TEX", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.1, 
       "loa": 10.8, 
       "draft": 1.81, 
+      "wetted_surface": 25.1, 
       "main": 33.6, 
       "genoa": 44.9, 
       "displacement": 5747.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1980"
   }, 

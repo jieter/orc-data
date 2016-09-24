@@ -5,12 +5,13 @@
       1.1861, 
       1.3345
     ], 
-    "gph": 642.2, 
     "triple_inshore": [
       0.7061, 
       0.9631, 
       1.1156
-    ]
+    ], 
+    "gph": 642.2, 
+    "osn": 625.4
   }, 
   "sailnumber": "ITA16926", 
   "name": "EURISTICA", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.6, 
       "loa": 9.978, 
       "draft": 1.81, 
+      "wetted_surface": 23.9, 
       "main": 35.7, 
       "genoa": 34.1, 
       "displacement": 4394.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 590.0
     }, 
     "year": "1994"
   }, 

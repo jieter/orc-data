@@ -5,12 +5,13 @@
       1.2118, 
       1.3681
     ], 
-    "gph": 629.4, 
     "triple_inshore": [
       0.7159, 
       0.9744, 
       1.1482
-    ]
+    ], 
+    "gph": 629.4, 
+    "osn": 612.9
   }, 
   "sailnumber": "GRE1333", 
   "name": "MARIELINA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.3, 
       "loa": 12.62, 
       "draft": 2.3, 
+      "wetted_surface": 37.4, 
       "main": 49.3, 
       "genoa": 59.7, 
       "displacement": 11029.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1978"
   }, 

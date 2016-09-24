@@ -5,12 +5,13 @@
       1.2607, 
       1.4241
     ], 
-    "gph": 606.1, 
     "triple_inshore": [
       0.74, 
       1.0164, 
       1.1877
-    ]
+    ], 
+    "gph": 606.1, 
+    "osn": 589.4
   }, 
   "sailnumber": "GER6810", 
   "name": "SPORTHOTEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.4, 
       "loa": 11.3, 
       "draft": 2.18, 
+      "wetted_surface": 30.5, 
       "main": 47.8, 
       "genoa": 37.4, 
       "displacement": 6667.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2012"
   }, 

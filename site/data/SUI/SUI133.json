@@ -5,12 +5,13 @@
       0.9657, 
       0.9186
     ], 
-    "gph": 792.3, 
     "triple_inshore": [
       0.5771, 
       0.7763, 
       0.6851
-    ]
+    ], 
+    "gph": 792.3, 
+    "osn": 766.8
   }, 
   "sailnumber": "SUI133", 
   "name": "TALLY HO", 
@@ -25,10 +26,12 @@
       "spinnaker": 38.6, 
       "loa": 7.94, 
       "draft": 1.05, 
+      "wetted_surface": 15.2, 
       "main": 27.2, 
       "genoa": 9.9, 
       "displacement": 2226.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 347.0
     }, 
     "year": "1995"
   }, 

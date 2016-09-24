@@ -5,12 +5,13 @@
       1.2336, 
       1.3957
     ], 
-    "gph": 620.0, 
     "triple_inshore": [
       0.7181, 
       0.9825, 
       1.1422
-    ]
+    ], 
+    "gph": 620.0, 
+    "osn": 603.2
   }, 
   "sailnumber": "NOR13348", 
   "name": "Andrik", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.25, 
       "draft": 1.98, 
+      "wetted_surface": 31.0, 
       "main": 42.3, 
       "genoa": 45.6, 
       "displacement": 6526.0, 
-      "spinnaker_asym": 98.0
+      "spinnaker_asym": 98.0, 
+      "crew": 738.0
     }, 
     "year": "2005"
   }, 

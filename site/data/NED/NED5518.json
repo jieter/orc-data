@@ -5,12 +5,13 @@
       1.0383, 
       1.1536
     ], 
-    "gph": 722.1, 
     "triple_inshore": [
       0.6583, 
       0.8415, 
       0.9366
-    ]
+    ], 
+    "gph": 722.1, 
+    "osn": 708.3
   }, 
   "sailnumber": "NED5518", 
   "name": "", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.938, 
       "draft": 1.38, 
+      "wetted_surface": 12.0, 
       "main": 18.9, 
       "genoa": 20.1, 
       "displacement": 1220.0, 
-      "spinnaker_asym": 45.0
+      "spinnaker_asym": 45.0, 
+      "crew": 310.0
     }, 
     "year": "1994"
   }, 

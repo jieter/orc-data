@@ -5,12 +5,13 @@
       0.9864, 
       1.1602
     ], 
-    "gph": 778.9, 
     "triple_inshore": [
       0.545, 
       0.7658, 
       0.9485
-    ]
+    ], 
+    "gph": 778.9, 
+    "osn": 759.7
   }, 
   "sailnumber": "ESP10040_C", 
   "name": "AGUICA 2.0", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.818, 
       "draft": 1.57, 
+      "wetted_surface": 26.6, 
       "main": 25.0, 
       "genoa": 29.6, 
       "displacement": 6395.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 548.0
     }, 
     "year": "1982"
   }, 

@@ -5,12 +5,13 @@
       1.1127, 
       1.2625
     ], 
-    "gph": 688.4, 
     "triple_inshore": [
       0.6495, 
       0.9015, 
       1.0596
-    ]
+    ], 
+    "gph": 688.4, 
+    "osn": 666.8
   }, 
   "sailnumber": "ESP6109", 
   "name": "LAMPO ROSSO", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.1, 
       "loa": 9.344, 
       "draft": 1.97, 
+      "wetted_surface": 21.0, 
       "main": 24.4, 
       "genoa": 26.3, 
       "displacement": 3786.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 470.0
     }, 
     "year": "1994"
   }, 

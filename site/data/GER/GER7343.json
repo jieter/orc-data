@@ -5,12 +5,13 @@
       1.0714, 
       1.2355
     ], 
-    "gph": 717.7, 
     "triple_inshore": [
       0.6116, 
       0.8661, 
       1.0392
-    ]
+    ], 
+    "gph": 717.7, 
+    "osn": 693.6
   }, 
   "sailnumber": "GER7343", 
   "name": "MEDEA", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.1, 
       "loa": 8.86, 
       "draft": 1.69, 
+      "wetted_surface": 17.8, 
       "main": 22.0, 
       "genoa": 15.4, 
       "displacement": 2800.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1992"
   }, 

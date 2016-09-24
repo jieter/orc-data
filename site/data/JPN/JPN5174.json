@@ -5,12 +5,13 @@
       1.2603, 
       1.4232
     ], 
-    "gph": 601.4, 
     "triple_inshore": [
       0.7603, 
       1.0261, 
       1.1969
-    ]
+    ], 
+    "gph": 601.4, 
+    "osn": 587.3
   }, 
   "sailnumber": "JPN5174", 
   "name": "TONBI", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.2, 
       "loa": 12.115, 
       "draft": 2.28, 
+      "wetted_surface": 26.8, 
       "main": 54.3, 
       "genoa": 41.8, 
       "displacement": 5889.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 656.0
     }, 
     "year": "1991"
   }, 

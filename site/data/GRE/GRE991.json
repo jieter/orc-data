@@ -5,12 +5,13 @@
       1.0645, 
       1.2302
     ], 
-    "gph": 721.5, 
     "triple_inshore": [
       0.6084, 
       0.859, 
       1.0399
-    ]
+    ], 
+    "gph": 721.5, 
+    "osn": 698.0
   }, 
   "sailnumber": "GRE991", 
   "name": "BLACK SHADOW SEMI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.826, 
       "draft": 2.04, 
+      "wetted_surface": 27.2, 
       "main": 27.3, 
       "genoa": 41.2, 
       "displacement": 7172.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1974"
   }, 

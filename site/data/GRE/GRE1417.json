@@ -5,12 +5,13 @@
       0.9585, 
       1.0863
     ], 
-    "gph": 794.0, 
     "triple_inshore": [
       0.5736, 
       0.7702, 
       0.913
-    ]
+    ], 
+    "gph": 794.0, 
+    "osn": 774.0
   }, 
   "sailnumber": "GRE1417", 
   "name": "SOPHIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.8, 
       "draft": 1.63, 
+      "wetted_surface": 15.5, 
       "main": 16.0, 
       "genoa": 19.3, 
       "displacement": 3148.0, 
-      "spinnaker_asym": 43.0
+      "spinnaker_asym": 43.0, 
+      "crew": 364.0
     }, 
     "year": "1978"
   }, 

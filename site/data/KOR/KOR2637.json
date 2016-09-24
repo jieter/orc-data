@@ -5,12 +5,13 @@
       1.3917, 
       1.604
     ], 
-    "gph": 548.1, 
     "triple_inshore": [
       0.8106, 
       1.1113, 
       1.2986
-    ]
+    ], 
+    "gph": 548.1, 
+    "osn": 533.5
   }, 
   "sailnumber": "KOR2637", 
   "name": "TEAM chuyong", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.7, 
       "loa": 13.024, 
       "draft": 2.35, 
+      "wetted_surface": 32.9, 
       "main": 55.5, 
       "genoa": 51.5, 
       "displacement": 5442.0, 
-      "spinnaker_asym": 124.0
+      "spinnaker_asym": 124.0, 
+      "crew": 844.0
     }, 
     "year": "1991"
   }, 

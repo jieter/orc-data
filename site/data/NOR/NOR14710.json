@@ -5,12 +5,13 @@
       1.0736, 
       1.244
     ], 
-    "gph": 714.3, 
     "triple_inshore": [
       0.6183, 
       0.8623, 
       1.04
-    ]
+    ], 
+    "gph": 714.3, 
+    "osn": 691.3
   }, 
   "sailnumber": "NOR14710", 
   "name": "Livlig", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.5, 
       "loa": 8.99, 
       "draft": 1.72, 
+      "wetted_surface": 21.0, 
       "main": 22.6, 
       "genoa": 21.8, 
       "displacement": 3962.0, 
-      "spinnaker_asym": 58.0
+      "spinnaker_asym": 58.0, 
+      "crew": 518.0
     }, 
     "year": "2008"
   }, 

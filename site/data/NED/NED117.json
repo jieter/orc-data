@@ -5,12 +5,13 @@
       1.2476, 
       1.4034
     ], 
-    "gph": 609.7, 
     "triple_inshore": [
       0.7477, 
       1.0172, 
       1.1738
-    ]
+    ], 
+    "gph": 609.7, 
+    "osn": 593.5
   }, 
   "sailnumber": "NED117", 
   "name": "Nothing Box", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.0, 
       "loa": 10.6, 
       "draft": 2.18, 
+      "wetted_surface": 24.8, 
       "main": 42.2, 
       "genoa": 31.2, 
       "displacement": 4688.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 624.0
     }, 
     "year": "2005"
   }, 

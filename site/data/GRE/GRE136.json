@@ -5,12 +5,13 @@
       1.1287, 
       1.2926
     ], 
-    "gph": 677.3, 
     "triple_inshore": [
       0.6602, 
       0.9017, 
       1.0776
-    ]
+    ], 
+    "gph": 677.3, 
+    "osn": 657.6
   }, 
   "sailnumber": "GRE136", 
   "name": "ALKYON", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.6, 
       "loa": 11.298, 
       "draft": 1.94, 
+      "wetted_surface": 31.4, 
       "main": 31.7, 
       "genoa": 48.8, 
       "displacement": 8648.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 700.0
     }, 
     "year": "1980"
   }, 

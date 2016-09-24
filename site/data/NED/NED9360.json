@@ -5,12 +5,13 @@
       1.1771, 
       1.3272
     ], 
-    "gph": 650.1, 
     "triple_inshore": [
       0.688, 
       0.946, 
       1.1072
-    ]
+    ], 
+    "gph": 650.1, 
+    "osn": 632.2
   }, 
   "sailnumber": "NED9360", 
   "name": "Zilte Zoen", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.4, 
       "loa": 10.857, 
       "draft": 1.95, 
+      "wetted_surface": 24.8, 
       "main": 36.3, 
       "genoa": 25.2, 
       "displacement": 5195.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1995"
   }, 

@@ -5,12 +5,13 @@
       1.0454, 
       1.1973
     ], 
-    "gph": 736.8, 
     "triple_inshore": [
       0.5893, 
       0.8219, 
       0.971
-    ]
+    ], 
+    "gph": 736.8, 
+    "osn": 714.5
   }, 
   "sailnumber": "GRE1479", 
   "name": "NAFTILOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.72, 
       "draft": 1.29, 
+      "wetted_surface": 23.9, 
       "main": 21.6, 
       "genoa": 31.4, 
       "displacement": 4400.0, 
-      "spinnaker_asym": 59.0
+      "spinnaker_asym": 59.0, 
+      "crew": 340.0
     }, 
     "year": "1985"
   }, 

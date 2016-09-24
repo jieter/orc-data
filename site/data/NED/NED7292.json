@@ -5,12 +5,13 @@
       1.2304, 
       1.3896
     ], 
-    "gph": 620.3, 
     "triple_inshore": [
       0.7236, 
       0.9888, 
       1.1629
-    ]
+    ], 
+    "gph": 620.3, 
+    "osn": 604.0
   }, 
   "sailnumber": "NED7292", 
   "name": "Grace", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.9, 
       "draft": 2.1, 
+      "wetted_surface": 33.3, 
       "main": 47.7, 
       "genoa": 44.5, 
       "displacement": 8511.0, 
-      "spinnaker_asym": 104.0
+      "spinnaker_asym": 104.0, 
+      "crew": 400.0
     }, 
     "year": "2003"
   }, 

@@ -5,12 +5,13 @@
       1.3516, 
       1.5756
     ], 
-    "gph": 572.9, 
     "triple_inshore": [
       0.7401, 
       1.0552, 
       1.2718
-    ]
+    ], 
+    "gph": 572.9, 
+    "osn": 555.2
   }, 
   "sailnumber": "ESP8261_C", 
   "name": "GRAN FISGON", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 16.08, 
       "draft": 2.41, 
+      "wetted_surface": 59.0, 
       "main": 84.5, 
       "genoa": 56.7, 
       "displacement": 18265.0, 
-      "spinnaker_asym": 196.0
+      "spinnaker_asym": 196.0, 
+      "crew": 400.0
     }, 
     "year": "2006"
   }, 

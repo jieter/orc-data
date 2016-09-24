@@ -5,12 +5,13 @@
       1.1626, 
       1.3068
     ], 
-    "gph": 651.3, 
     "triple_inshore": [
       0.7057, 
       0.9355, 
       1.0695
-    ]
+    ], 
+    "gph": 651.3, 
+    "osn": 636.0
   }, 
   "sailnumber": "NED62", 
   "name": "Xiphias 8", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.99, 
       "draft": 1.97, 
+      "wetted_surface": 16.2, 
       "main": 26.2, 
       "genoa": 17.5, 
       "displacement": 1663.0, 
-      "spinnaker_asym": 80.0
+      "spinnaker_asym": 80.0, 
+      "crew": 210.0
     }, 
     "year": "2012"
   }, 

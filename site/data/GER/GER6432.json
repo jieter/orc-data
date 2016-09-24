@@ -5,12 +5,13 @@
       1.1716, 
       1.3203
     ], 
-    "gph": 653.1, 
     "triple_inshore": [
       0.688, 
       0.9473, 
       1.1028
-    ]
+    ], 
+    "gph": 653.1, 
+    "osn": 633.9
   }, 
   "sailnumber": "GER6432", 
   "name": "FREYA", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.4, 
       "loa": 9.808, 
       "draft": 2.0, 
+      "wetted_surface": 24.3, 
       "main": 33.2, 
       "genoa": 25.4, 
       "displacement": 4300.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "2010"
   }, 

@@ -5,12 +5,13 @@
       1.0912, 
       1.2385
     ], 
-    "gph": 699.8, 
     "triple_inshore": [
       0.6448, 
       0.8831, 
       1.0422
-    ]
+    ], 
+    "gph": 699.8, 
+    "osn": 679.0
   }, 
   "sailnumber": "ESP4760_C", 
   "name": "ARUBA", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.7, 
       "loa": 9.75, 
       "draft": 1.87, 
+      "wetted_surface": 22.1, 
       "main": 22.8, 
       "genoa": 34.6, 
       "displacement": 4702.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 370.0
     }, 
     "year": "1985"
   }, 

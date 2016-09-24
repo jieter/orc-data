@@ -5,12 +5,13 @@
       1.3034, 
       1.5251
     ], 
-    "gph": 578.5, 
     "triple_inshore": [
       0.7967, 
       1.0522, 
       1.2503
-    ]
+    ], 
+    "gph": 578.5, 
+    "osn": 563.0
   }, 
   "sailnumber": "TUR28001", 
   "name": "ACADIA 5", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.69, 
       "draft": 2.11, 
+      "wetted_surface": 16.5, 
       "main": 33.1, 
       "genoa": 19.7, 
       "displacement": 1674.0, 
-      "spinnaker_asym": 99.0
+      "spinnaker_asym": 99.0, 
+      "crew": 520.0
     }, 
     "year": "2014"
   }, 

@@ -5,12 +5,13 @@
       1.1613, 
       1.3235
     ], 
-    "gph": 659.4, 
     "triple_inshore": [
       0.6783, 
       0.9422, 
       1.1033
-    ]
+    ], 
+    "gph": 659.4, 
+    "osn": 638.1
   }, 
   "sailnumber": "RUS5000", 
   "name": "Valeriya", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.9, 
       "loa": 9.3, 
       "draft": 1.93, 
+      "wetted_surface": 21.7, 
       "main": 27.5, 
       "genoa": 23.2, 
       "displacement": 3361.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 576.0
     }, 
     "year": "2002"
   }, 

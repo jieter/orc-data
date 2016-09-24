@@ -5,12 +5,13 @@
       1.1197, 
       1.2414
     ], 
-    "gph": 673.2, 
     "triple_inshore": [
       0.696, 
       0.9199, 
       1.0431
-    ]
+    ], 
+    "gph": 673.2, 
+    "osn": 658.5
   }, 
   "sailnumber": "NOR6300", 
   "name": "NN", 
@@ -25,10 +26,12 @@
       "spinnaker": 49.7, 
       "loa": 9.166, 
       "draft": 1.7, 
+      "wetted_surface": 16.5, 
       "main": 32.6, 
       "genoa": 26.2, 
       "displacement": 2712.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 433.0
     }, 
     "year": "1985"
   }, 

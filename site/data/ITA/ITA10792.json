@@ -5,12 +5,13 @@
       1.2157, 
       1.3892
     ], 
-    "gph": 630.0, 
     "triple_inshore": [
       0.7061, 
       0.9748, 
       1.1616
-    ]
+    ], 
+    "gph": 630.0, 
+    "osn": 611.2
   }, 
   "sailnumber": "ITA10792", 
   "name": "MIVIA SECONDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 116.0, 
       "loa": 12.613, 
       "draft": 2.32, 
+      "wetted_surface": 33.3, 
       "main": 37.3, 
       "genoa": 58.0, 
       "displacement": 8813.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "1984"
   }, 

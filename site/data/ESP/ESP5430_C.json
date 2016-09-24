@@ -5,12 +5,13 @@
       1.2455, 
       1.4087
     ], 
-    "gph": 613.0, 
     "triple_inshore": [
       0.73, 
       0.9977, 
       1.1669
-    ]
+    ], 
+    "gph": 613.0, 
+    "osn": 597.0
   }, 
   "sailnumber": "ESP5430_C", 
   "name": "AROSA IX", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.5, 
       "loa": 11.785, 
       "draft": 1.95, 
+      "wetted_surface": 32.9, 
       "main": 47.4, 
       "genoa": 50.1, 
       "displacement": 7672.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 709.0
     }, 
     "year": "1999"
   }, 

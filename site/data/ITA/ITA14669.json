@@ -5,12 +5,13 @@
       1.131, 
       1.28
     ], 
-    "gph": 676.8, 
     "triple_inshore": [
       0.6623, 
       0.9131, 
       1.0673
-    ]
+    ], 
+    "gph": 676.8, 
+    "osn": 656.5
   }, 
   "sailnumber": "ITA14669", 
   "name": "SFERIKA", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.2, 
       "loa": 9.5, 
       "draft": 1.93, 
+      "wetted_surface": 22.4, 
       "main": 26.2, 
       "genoa": 28.7, 
       "displacement": 3920.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 460.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.1293, 
       1.2861
     ], 
-    "gph": 668.9, 
     "triple_inshore": [
       0.6957, 
       0.9291, 
       1.0581
-    ]
+    ], 
+    "gph": 668.9, 
+    "osn": 649.5
   }, 
   "sailnumber": "GRE2522", 
   "name": "MAXIMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 44.1, 
       "loa": 7.515, 
       "draft": 1.6, 
+      "wetted_surface": 12.1, 
       "main": 20.9, 
       "genoa": 13.0, 
       "displacement": 1281.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1995"
   }, 

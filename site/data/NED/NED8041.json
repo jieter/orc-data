@@ -5,12 +5,13 @@
       1.2903, 
       1.4696
     ], 
-    "gph": 591.8, 
     "triple_inshore": [
       0.7402, 
       1.0275, 
       1.2207
-    ]
+    ], 
+    "gph": 591.8, 
+    "osn": 578.3
   }, 
   "sailnumber": "NED8041", 
   "name": "Nickname", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.903, 
       "draft": 2.2, 
+      "wetted_surface": 35.5, 
       "main": 51.2, 
       "genoa": 40.2, 
       "displacement": 8907.0, 
-      "spinnaker_asym": 112.0
+      "spinnaker_asym": 112.0, 
+      "crew": 600.0
     }, 
     "year": "2003"
   }, 

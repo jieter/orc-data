@@ -5,12 +5,13 @@
       1.1819, 
       1.3599
     ], 
-    "gph": 647.4, 
     "triple_inshore": [
       0.6836, 
       0.9416, 
       1.1311
-    ]
+    ], 
+    "gph": 647.4, 
+    "osn": 629.1
   }, 
   "sailnumber": "NOR9921", 
   "name": "Ylajali", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 1.97, 
+      "wetted_surface": 32.7, 
       "main": 37.4, 
       "genoa": 48.1, 
       "displacement": 8655.0, 
-      "spinnaker_asym": 92.0
+      "spinnaker_asym": 92.0, 
+      "crew": 734.0
     }, 
     "year": "1998"
   }, 

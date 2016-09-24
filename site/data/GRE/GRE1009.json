@@ -5,12 +5,13 @@
       1.0516, 
       1.22
     ], 
-    "gph": 729.7, 
     "triple_inshore": [
       0.604, 
       0.8414, 
       1.0187
-    ]
+    ], 
+    "gph": 729.7, 
+    "osn": 706.9
   }, 
   "sailnumber": "GRE1009", 
   "name": "DESTINY", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.1, 
       "loa": 9.34, 
       "draft": 1.6, 
+      "wetted_surface": 21.0, 
       "main": 18.5, 
       "genoa": 27.5, 
       "displacement": 4147.0, 
-      "spinnaker_asym": 57.0
+      "spinnaker_asym": 57.0, 
+      "crew": 500.0
     }, 
     "year": "1990"
   }, 

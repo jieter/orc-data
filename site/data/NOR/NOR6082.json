@@ -5,12 +5,13 @@
       1.0715, 
       1.2033
     ], 
-    "gph": 710.2, 
     "triple_inshore": [
       0.6427, 
       0.8695, 
       1.0113
-    ]
+    ], 
+    "gph": 710.2, 
+    "osn": 691.1
   }, 
   "sailnumber": "NOR6082", 
   "name": "Stella", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.2, 
       "loa": 9.5, 
       "draft": 1.75, 
+      "wetted_surface": 20.7, 
       "main": 30.3, 
       "genoa": 27.1, 
       "displacement": 4694.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 478.0
     }, 
     "year": "1982"
   }, 

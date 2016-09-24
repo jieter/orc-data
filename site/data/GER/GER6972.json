@@ -5,12 +5,13 @@
       1.2225, 
       1.4007
     ], 
-    "gph": 627.9, 
     "triple_inshore": [
       0.7028, 
       0.9794, 
       1.1678
-    ]
+    ], 
+    "gph": 627.9, 
+    "osn": 608.0
   }, 
   "sailnumber": "GER6972", 
   "name": "SAONA", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.3, 
       "loa": 11.293, 
       "draft": 2.04, 
+      "wetted_surface": 32.4, 
       "main": 43.1, 
       "genoa": 33.4, 
       "displacement": 7633.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2013"
   }, 

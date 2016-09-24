@@ -5,12 +5,13 @@
       1.2552, 
       1.4191
     ], 
-    "gph": 609.6, 
     "triple_inshore": [
       0.7287, 
       0.998, 
       1.1655
-    ]
+    ], 
+    "gph": 609.6, 
+    "osn": 593.1
   }, 
   "sailnumber": "GER6597", 
   "name": "ASIA DE CUBA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.017, 
       "draft": 1.99, 
+      "wetted_surface": 36.6, 
       "main": 54.5, 
       "genoa": 40.8, 
       "displacement": 9312.0, 
-      "spinnaker_asym": 157.0
+      "spinnaker_asym": 157.0, 
+      "crew": 650.0
     }, 
     "year": "2005"
   }, 

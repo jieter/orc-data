@@ -5,12 +5,13 @@
       1.3744, 
       1.571
     ], 
-    "gph": 558.4, 
     "triple_inshore": [
       0.7874, 
       1.0939, 
       1.3027
-    ]
+    ], 
+    "gph": 558.4, 
+    "osn": 542.6
   }, 
   "sailnumber": "GER4285", 
   "name": "XXL", 
@@ -25,10 +26,12 @@
       "spinnaker": 156.1, 
       "loa": 15.543, 
       "draft": 2.69, 
+      "wetted_surface": 47.6, 
       "main": 67.5, 
       "genoa": 68.7, 
       "displacement": 14119.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1991"
   }, 

@@ -5,12 +5,13 @@
       1.233, 
       1.4318
     ], 
-    "gph": 624.9, 
     "triple_inshore": [
       0.693, 
       0.9784, 
       1.184
-    ]
+    ], 
+    "gph": 624.9, 
+    "osn": 604.8
   }, 
   "sailnumber": "ITA16297", 
   "name": "VILLAMAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.3, 
       "loa": 12.75, 
       "draft": 2.0, 
+      "wetted_surface": 36.6, 
       "main": 41.0, 
       "genoa": 45.7, 
       "displacement": 8960.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2007"
   }, 

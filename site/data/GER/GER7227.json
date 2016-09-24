@@ -5,12 +5,13 @@
       1.1267, 
       1.2953
     ], 
-    "gph": 681.6, 
     "triple_inshore": [
       0.6492, 
       0.9096, 
       1.0832
-    ]
+    ], 
+    "gph": 681.6, 
+    "osn": 658.6
   }, 
   "sailnumber": "GER7227", 
   "name": "LOORA", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.6, 
       "loa": 9.49, 
       "draft": 1.93, 
+      "wetted_surface": 22.1, 
       "main": 25.6, 
       "genoa": 21.1, 
       "displacement": 3728.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.1946, 
       1.3711
     ], 
-    "gph": 642.2, 
     "triple_inshore": [
       0.6857, 
       0.9597, 
       1.135
-    ]
+    ], 
+    "gph": 642.2, 
+    "osn": 622.7
   }, 
   "sailnumber": "ITAFUERTE", 
   "name": "FUERTE VENTURA", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.7, 
       "loa": 10.632, 
       "draft": 2.01, 
+      "wetted_surface": 24.9, 
       "main": 37.1, 
       "genoa": 27.5, 
       "displacement": 4242.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 460.0
     }, 
     "year": "1991"
   }, 

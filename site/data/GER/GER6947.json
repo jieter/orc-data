@@ -5,12 +5,13 @@
       1.1868, 
       1.3526
     ], 
-    "gph": 639.2, 
     "triple_inshore": [
       0.7149, 
       0.9579, 
       1.1012
-    ]
+    ], 
+    "gph": 639.2, 
+    "osn": 622.6
   }, 
   "sailnumber": "GER6947", 
   "name": "AVANTI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.99, 
       "draft": 1.98, 
+      "wetted_surface": 16.4, 
       "main": 26.8, 
       "genoa": 18.9, 
       "displacement": 1724.0, 
-      "spinnaker_asym": 74.0
+      "spinnaker_asym": 74.0, 
+      "crew": 350.0
     }, 
     "year": "2012"
   }, 

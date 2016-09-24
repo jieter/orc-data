@@ -5,12 +5,13 @@
       1.6037, 
       1.8296
     ], 
-    "gph": 480.3, 
     "triple_inshore": [
       0.9072, 
       1.275, 
       1.4921
-    ]
+    ], 
+    "gph": 480.3, 
+    "osn": 466.6
   }, 
   "sailnumber": "ITA16426", 
   "name": "BUENA VISTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 18.83, 
       "draft": 3.71, 
+      "wetted_surface": 66.0, 
       "main": 117.1, 
       "genoa": 84.7, 
       "displacement": 19121.0, 
-      "spinnaker_asym": 328.0
+      "spinnaker_asym": 328.0, 
+      "crew": 1200.0
     }, 
     "year": "2007"
   }, 

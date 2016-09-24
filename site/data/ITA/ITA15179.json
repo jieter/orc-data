@@ -5,12 +5,13 @@
       1.1104, 
       1.2715
     ], 
-    "gph": 691.1, 
     "triple_inshore": [
       0.6396, 
       0.8908, 
       1.0619
-    ]
+    ], 
+    "gph": 691.1, 
+    "osn": 669.3
   }, 
   "sailnumber": "ITA15179", 
   "name": "HAKUNA MATATA", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.3, 
       "loa": 10.43, 
       "draft": 1.86, 
+      "wetted_surface": 25.1, 
       "main": 26.5, 
       "genoa": 38.5, 
       "displacement": 5348.0, 
-      "spinnaker_asym": 73.0
+      "spinnaker_asym": 73.0, 
+      "crew": 450.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       1.2188, 
       1.3815
     ], 
-    "gph": 627.4, 
     "triple_inshore": [
       0.7125, 
       0.9703, 
       1.1424
-    ]
+    ], 
+    "gph": 627.4, 
+    "osn": 609.8
   }, 
   "sailnumber": "GER7358", 
   "name": "AUF EX", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.573, 
       "draft": 1.97, 
+      "wetted_surface": 32.9, 
       "main": 44.8, 
       "genoa": 35.6, 
       "displacement": 8761.0, 
-      "spinnaker_asym": 122.0
+      "spinnaker_asym": 122.0, 
+      "crew": 751.0
     }, 
     "year": "2010"
   }, 

@@ -5,12 +5,13 @@
       1.2102, 
       1.3899
     ], 
-    "gph": 632.7, 
     "triple_inshore": [
       0.7003, 
       0.9686, 
       1.1598
-    ]
+    ], 
+    "gph": 632.7, 
+    "osn": 614.0
   }, 
   "sailnumber": "NED8145", 
   "name": "Together", 
@@ -25,10 +26,12 @@
       "spinnaker": 112.1, 
       "loa": 11.35, 
       "draft": 1.98, 
+      "wetted_surface": 34.1, 
       "main": 40.6, 
       "genoa": 45.7, 
       "displacement": 8459.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 660.0
     }, 
     "year": "2005"
   }, 

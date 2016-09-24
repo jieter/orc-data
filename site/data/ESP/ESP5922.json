@@ -5,12 +5,13 @@
       1.1865, 
       1.3589
     ], 
-    "gph": 645.3, 
     "triple_inshore": [
       0.6849, 
       0.9399, 
       1.125
-    ]
+    ], 
+    "gph": 645.3, 
+    "osn": 627.8
   }, 
   "sailnumber": "ESP5922", 
   "name": "Euros", 
@@ -25,10 +26,12 @@
       "spinnaker": 119.1, 
       "loa": 12.895, 
       "draft": 1.75, 
+      "wetted_surface": 40.4, 
       "main": 46.9, 
       "genoa": 58.8, 
       "displacement": 12006.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1991"
   }, 

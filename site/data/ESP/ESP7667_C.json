@@ -5,12 +5,13 @@
       1.2856, 
       1.4427
     ], 
-    "gph": 592.9, 
     "triple_inshore": [
       0.7631, 
       1.0374, 
       1.2119
-    ]
+    ], 
+    "gph": 592.9, 
+    "osn": 577.4
   }, 
   "sailnumber": "ESP7667_C", 
   "name": "BLUE DRAGON", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.0, 
       "loa": 12.33, 
       "draft": 2.32, 
+      "wetted_surface": 35.3, 
       "main": 56.7, 
       "genoa": 48.6, 
       "displacement": 8811.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 620.0
     }, 
     "year": "2003"
   }, 

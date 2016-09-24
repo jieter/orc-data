@@ -5,12 +5,13 @@
       1.2159, 
       1.3958
     ], 
-    "gph": 633.2, 
     "triple_inshore": [
       0.6888, 
       0.9725, 
       1.1638
-    ]
+    ], 
+    "gph": 633.2, 
+    "osn": 613.1
   }, 
   "sailnumber": "HUN30", 
   "name": "Helikon", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.1, 
       "loa": 12.0, 
       "draft": 2.06, 
+      "wetted_surface": 31.3, 
       "main": 40.7, 
       "genoa": 32.9, 
       "displacement": 6538.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1988"
   }, 

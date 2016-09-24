@@ -5,12 +5,13 @@
       1.1237, 
       1.2807
     ], 
-    "gph": 681.8, 
     "triple_inshore": [
       0.6527, 
       0.9023, 
       1.065
-    ]
+    ], 
+    "gph": 681.8, 
+    "osn": 661.2
   }, 
   "sailnumber": "NOR8981", 
   "name": "Naomi IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.0, 
       "loa": 9.98, 
       "draft": 1.6, 
+      "wetted_surface": 24.3, 
       "main": 31.4, 
       "genoa": 26.1, 
       "displacement": 4765.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 622.0
     }, 
     "year": "1996"
   }, 

@@ -5,12 +5,13 @@
       1.1159, 
       1.2657
     ], 
-    "gph": 685.3, 
     "triple_inshore": [
       0.6528, 
       0.8981, 
       1.0517
-    ]
+    ], 
+    "gph": 685.3, 
+    "osn": 665.4
   }, 
   "sailnumber": "ESP9121", 
   "name": "CARPANCHO V", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.1, 
       "loa": 9.52, 
       "draft": 1.67, 
+      "wetted_surface": 21.7, 
       "main": 28.6, 
       "genoa": 25.8, 
       "displacement": 4020.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1999"
   }, 

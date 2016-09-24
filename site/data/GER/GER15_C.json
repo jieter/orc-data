@@ -5,12 +5,13 @@
       1.2511, 
       1.3992
     ], 
-    "gph": 608.8, 
     "triple_inshore": [
       0.7422, 
       0.998, 
       1.1549
-    ]
+    ], 
+    "gph": 608.8, 
+    "osn": 594.3
   }, 
   "sailnumber": "GER15_C", 
   "name": "FLORAX IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.432, 
       "draft": 1.99, 
+      "wetted_surface": 34.1, 
       "main": 54.4, 
       "genoa": 42.6, 
       "displacement": 8365.0, 
-      "spinnaker_asym": 114.0
+      "spinnaker_asym": 114.0, 
+      "crew": 160.0
     }, 
     "year": "1997"
   }, 

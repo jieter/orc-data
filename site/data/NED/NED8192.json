@@ -5,12 +5,13 @@
       1.2119, 
       1.3641
     ], 
-    "gph": 630.4, 
     "triple_inshore": [
       0.7136, 
       0.9737, 
       1.1303
-    ]
+    ], 
+    "gph": 630.4, 
+    "osn": 612.2
   }, 
   "sailnumber": "NED8192", 
   "name": "Marlijn", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.66, 
       "draft": 2.21, 
+      "wetted_surface": 28.1, 
       "main": 38.3, 
       "genoa": 30.9, 
       "displacement": 5846.0, 
-      "spinnaker_asym": 109.0
+      "spinnaker_asym": 109.0, 
+      "crew": 649.0
     }, 
     "year": "2009"
   }, 

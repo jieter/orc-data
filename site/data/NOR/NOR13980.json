@@ -5,12 +5,13 @@
       1.1653, 
       1.3886
     ], 
-    "gph": 665.1, 
     "triple_inshore": [
       0.6315, 
       0.9243, 
       1.1559
-    ]
+    ], 
+    "gph": 665.1, 
+    "osn": 642.0
   }, 
   "sailnumber": "NOR13980", 
   "name": "Rypa V", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.59, 
       "draft": 2.12, 
+      "wetted_surface": 35.5, 
       "main": 37.0, 
       "genoa": 45.3, 
       "displacement": 8868.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 848.0
     }, 
     "year": "2006"
   }, 

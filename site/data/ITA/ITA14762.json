@@ -5,12 +5,13 @@
       1.3037, 
       1.4631
     ], 
-    "gph": 585.4, 
     "triple_inshore": [
       0.7682, 
       1.0453, 
       1.2077
-    ]
+    ], 
+    "gph": 585.4, 
+    "osn": 570.1
   }, 
   "sailnumber": "ITA14762", 
   "name": "VALENTINA 4", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.555, 
       "draft": 2.46, 
+      "wetted_surface": 33.4, 
       "main": 53.3, 
       "genoa": 49.3, 
       "displacement": 7580.0, 
-      "spinnaker_asym": 122.0
+      "spinnaker_asym": 122.0, 
+      "crew": 600.0
     }, 
     "year": "2004"
   }, 

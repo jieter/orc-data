@@ -5,12 +5,13 @@
       1.2754, 
       1.4343
     ], 
-    "gph": 598.1, 
     "triple_inshore": [
       0.7548, 
       1.0307, 
       1.2013
-    ]
+    ], 
+    "gph": 598.1, 
+    "osn": 582.0
   }, 
   "sailnumber": "ESP5029", 
   "name": "CHAITAN II", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.3, 
       "loa": 11.924, 
       "draft": 2.41, 
+      "wetted_surface": 31.1, 
       "main": 47.5, 
       "genoa": 48.5, 
       "displacement": 7009.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1997"
   }, 

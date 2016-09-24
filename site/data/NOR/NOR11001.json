@@ -5,12 +5,13 @@
       1.2407, 
       1.4058
     ], 
-    "gph": 615.8, 
     "triple_inshore": [
       0.7246, 
       0.9963, 
       1.17
-    ]
+    ], 
+    "gph": 615.8, 
+    "osn": 599.3
   }, 
   "sailnumber": "NOR11001", 
   "name": "Easy Match", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.7, 
       "loa": 11.36, 
       "draft": 2.19, 
+      "wetted_surface": 30.9, 
       "main": 42.0, 
       "genoa": 50.5, 
       "displacement": 6852.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 758.0
     }, 
     "year": "2003"
   }, 

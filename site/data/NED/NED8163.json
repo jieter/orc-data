@@ -5,12 +5,13 @@
       1.1188, 
       1.2834
     ], 
-    "gph": 686.8, 
     "triple_inshore": [
       0.6437, 
       0.902, 
       1.0756
-    ]
+    ], 
+    "gph": 686.8, 
+    "osn": 663.8
   }, 
   "sailnumber": "NED8163", 
   "name": "Secondo", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.9, 
       "loa": 9.49, 
       "draft": 1.94, 
+      "wetted_surface": 22.1, 
       "main": 24.6, 
       "genoa": 19.8, 
       "displacement": 3867.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1998"
   }, 

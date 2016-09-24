@@ -5,12 +5,13 @@
       1.2034, 
       1.3823
     ], 
-    "gph": 638.7, 
     "triple_inshore": [
       0.6854, 
       0.9531, 
       1.1302
-    ]
+    ], 
+    "gph": 638.7, 
+    "osn": 619.2
   }, 
   "sailnumber": "NOR12408", 
   "name": "Pedro", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.25, 
       "draft": 1.98, 
+      "wetted_surface": 31.0, 
       "main": 42.3, 
       "genoa": 26.8, 
       "displacement": 6526.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 738.0
     }, 
     "year": "2005"
   }, 

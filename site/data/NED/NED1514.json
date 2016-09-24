@@ -5,12 +5,13 @@
       1.0045, 
       1.1342
     ], 
-    "gph": 760.4, 
     "triple_inshore": [
       0.5891, 
       0.7929, 
       0.9289
-    ]
+    ], 
+    "gph": 760.4, 
+    "osn": 741.4
   }, 
   "sailnumber": "NED1514", 
   "name": "PESCADOR", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.5, 
       "loa": 9.35, 
       "draft": 1.37, 
+      "wetted_surface": 20.8, 
       "main": 23.1, 
       "genoa": 34.1, 
       "displacement": 5395.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 478.0
     }, 
     "year": "1967"
   }, 

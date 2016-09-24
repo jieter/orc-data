@@ -5,12 +5,13 @@
       1.2941, 
       1.4751
     ], 
-    "gph": 591.5, 
     "triple_inshore": [
       0.7514, 
       1.0368, 
       1.2313
-    ]
+    ], 
+    "gph": 591.5, 
+    "osn": 574.8
   }, 
   "sailnumber": "ITA13442", 
   "name": "ALLEGRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 138.7, 
       "loa": 13.48, 
       "draft": 2.33, 
+      "wetted_surface": 39.6, 
       "main": 48.2, 
       "genoa": 67.2, 
       "displacement": 10617.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1993"
   }, 

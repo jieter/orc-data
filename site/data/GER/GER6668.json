@@ -5,12 +5,13 @@
       1.2381, 
       1.3905
     ], 
-    "gph": 616.7, 
     "triple_inshore": [
       0.7306, 
       0.9943, 
       1.1453
-    ]
+    ], 
+    "gph": 616.7, 
+    "osn": 599.5
   }, 
   "sailnumber": "GER6668", 
   "name": "TOKE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.65, 
       "draft": 2.14, 
+      "wetted_surface": 27.2, 
       "main": 39.3, 
       "genoa": 29.3, 
       "displacement": 5391.0, 
-      "spinnaker_asym": 110.0
+      "spinnaker_asym": 110.0, 
+      "crew": 500.0
     }, 
     "year": "2010"
   }, 

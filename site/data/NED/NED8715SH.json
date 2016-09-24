@@ -5,12 +5,13 @@
       1.1572, 
       1.2956
     ], 
-    "gph": 652.4, 
     "triple_inshore": [
       0.706, 
       0.9358, 
       1.0668
-    ]
+    ], 
+    "gph": 652.4, 
+    "osn": 639.5
   }, 
   "sailnumber": "NED8715SH", 
   "name": "Squiffy", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.5, 
       "draft": 1.77, 
+      "wetted_surface": 20.2, 
       "main": 27.6, 
       "genoa": 27.4, 
       "displacement": 2790.0, 
-      "spinnaker_asym": 73.0
+      "spinnaker_asym": 73.0, 
+      "crew": 170.0
     }, 
     "year": "2000"
   }, 

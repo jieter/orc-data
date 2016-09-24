@@ -5,12 +5,13 @@
       1.1025, 
       1.2376
     ], 
-    "gph": 684.2, 
     "triple_inshore": [
       0.6825, 
       0.9029, 
       1.0185
-    ]
+    ], 
+    "gph": 684.2, 
+    "osn": 667.1
   }, 
   "sailnumber": "ESP25069", 
   "name": "VAGALUME", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.7, 
       "loa": 7.512, 
       "draft": 1.56, 
+      "wetted_surface": 12.0, 
       "main": 21.0, 
       "genoa": 11.1, 
       "displacement": 1262.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1995"
   }, 

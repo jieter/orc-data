@@ -5,12 +5,13 @@
       1.1187, 
       1.2604
     ], 
-    "gph": 683.7, 
     "triple_inshore": [
       0.6557, 
       0.9018, 
       1.0476
-    ]
+    ], 
+    "gph": 683.7, 
+    "osn": 664.6
   }, 
   "sailnumber": "FRA16919", 
   "name": "JADE", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.4, 
       "loa": 9.147, 
       "draft": 1.83, 
+      "wetted_surface": 21.3, 
       "main": 26.8, 
       "genoa": 24.7, 
       "displacement": 3325.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1990"
   }, 

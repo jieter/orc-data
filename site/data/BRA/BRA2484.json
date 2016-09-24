@@ -5,12 +5,13 @@
       1.9612, 
       2.3465
     ], 
-    "gph": 389.8, 
     "triple_inshore": [
       1.0912, 
       1.5244, 
       1.8328
-    ]
+    ], 
+    "gph": 389.8, 
+    "osn": 381.1
   }, 
   "sailnumber": "BRA2484", 
   "name": "CAMIRANGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 21.09, 
       "draft": 4.17, 
+      "wetted_surface": 78.9, 
       "main": 163.7, 
       "genoa": 238.0, 
       "displacement": 17297.0, 
-      "spinnaker_asym": 497.0
+      "spinnaker_asym": 497.0, 
+      "crew": 1350.0
     }, 
     "year": "2013"
   }, 

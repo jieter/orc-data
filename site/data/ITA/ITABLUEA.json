@@ -5,12 +5,13 @@
       1.1424, 
       1.2943
     ], 
-    "gph": 662.0, 
     "triple_inshore": [
       0.6983, 
       0.9263, 
       1.0584
-    ]
+    ], 
+    "gph": 662.0, 
+    "osn": 645.0
   }, 
   "sailnumber": "ITABLUEA", 
   "name": "BLUE ANGEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.032, 
       "draft": 1.51, 
+      "wetted_surface": 13.8, 
       "main": 21.0, 
       "genoa": 20.1, 
       "displacement": 1542.0, 
-      "spinnaker_asym": 64.0
+      "spinnaker_asym": 64.0, 
+      "crew": 350.0
     }, 
     "year": "1997"
   }, 

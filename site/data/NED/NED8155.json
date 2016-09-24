@@ -5,12 +5,13 @@
       1.1456, 
       1.3202
     ], 
-    "gph": 669.6, 
     "triple_inshore": [
       0.6607, 
       0.9207, 
       1.1071
-    ]
+    ], 
+    "gph": 669.6, 
+    "osn": 648.2
   }, 
   "sailnumber": "NED8155", 
   "name": "Grand Cru", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.1, 
       "loa": 10.3, 
       "draft": 1.97, 
+      "wetted_surface": 25.9, 
       "main": 31.2, 
       "genoa": 30.2, 
       "displacement": 5642.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 637.0
     }, 
     "year": "2003"
   }, 

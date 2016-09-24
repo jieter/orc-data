@@ -5,12 +5,13 @@
       1.0932, 
       1.249
     ], 
-    "gph": 700.8, 
     "triple_inshore": [
       0.6331, 
       0.8782, 
       1.0403
-    ]
+    ], 
+    "gph": 700.8, 
+    "osn": 680.1
   }, 
   "sailnumber": "NOR5052", 
   "name": "La Nova II", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.7, 
       "loa": 9.87, 
       "draft": 1.69, 
+      "wetted_surface": 21.7, 
       "main": 29.3, 
       "genoa": 20.8, 
       "displacement": 3967.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 533.0
     }, 
     "year": "1981"
   }, 

@@ -5,12 +5,13 @@
       1.1356, 
       1.3012
     ], 
-    "gph": 675.1, 
     "triple_inshore": [
       0.6564, 
       0.9107, 
       1.0839
-    ]
+    ], 
+    "gph": 675.1, 
+    "osn": 654.3
   }, 
   "sailnumber": "NED8679", 
   "name": "Marloes", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.0, 
       "loa": 10.25, 
       "draft": 1.78, 
+      "wetted_surface": 25.7, 
       "main": 34.6, 
       "genoa": 19.6, 
       "displacement": 5350.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 614.0
     }, 
     "year": "2005"
   }, 

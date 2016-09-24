@@ -5,12 +5,13 @@
       1.0651, 
       1.2249
     ], 
-    "gph": 720.1, 
     "triple_inshore": [
       0.6104, 
       0.8422, 
       1.0054
-    ]
+    ], 
+    "gph": 720.1, 
+    "osn": 699.7
   }, 
   "sailnumber": "GER7021", 
   "name": "WINDFANG", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.678, 
       "draft": 1.64, 
+      "wetted_surface": 21.0, 
       "main": 24.7, 
       "genoa": 19.3, 
       "displacement": 3762.0, 
-      "spinnaker_asym": 60.0
+      "spinnaker_asym": 60.0, 
+      "crew": 450.0
     }, 
     "year": "1992"
   }, 

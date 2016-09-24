@@ -5,12 +5,13 @@
       1.0495, 
       1.2068
     ], 
-    "gph": 733.8, 
     "triple_inshore": [
       0.5926, 
       0.8241, 
       0.9799
-    ]
+    ], 
+    "gph": 733.8, 
+    "osn": 712.2
   }, 
   "sailnumber": "ITAGIULI", 
   "name": "GIULIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.91, 
       "draft": 1.69, 
+      "wetted_surface": 19.4, 
       "main": 21.4, 
       "genoa": 28.0, 
       "displacement": 3347.0, 
-      "spinnaker_asym": 54.0
+      "spinnaker_asym": 54.0, 
+      "crew": 350.0
     }, 
     "year": "1988"
   }, 

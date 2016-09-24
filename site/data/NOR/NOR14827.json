@@ -5,12 +5,13 @@
       1.1258, 
       1.293
     ], 
-    "gph": 684.3, 
     "triple_inshore": [
       0.6403, 
       0.9011, 
       1.079
-    ]
+    ], 
+    "gph": 684.3, 
+    "osn": 661.1
   }, 
   "sailnumber": "NOR14827", 
   "name": "Tigergutt", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.8, 
       "loa": 9.99, 
       "draft": 1.86, 
+      "wetted_surface": 25.5, 
       "main": 26.9, 
       "genoa": 27.0, 
       "displacement": 5447.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 637.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.0994, 
       1.2561
     ], 
-    "gph": 700.0, 
     "triple_inshore": [
       0.6282, 
       0.8836, 
       1.04
-    ]
+    ], 
+    "gph": 700.0, 
+    "osn": 676.6
   }, 
   "sailnumber": "ESP10142", 
   "name": "BLUE STAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 50.9, 
       "loa": 8.3, 
       "draft": 2.13, 
+      "wetted_surface": 20.2, 
       "main": 25.9, 
       "genoa": 17.5, 
       "displacement": 2621.0, 
-      "spinnaker_asym": 56.0
+      "spinnaker_asym": 56.0, 
+      "crew": 300.0
     }, 
     "year": "2002"
   }, 

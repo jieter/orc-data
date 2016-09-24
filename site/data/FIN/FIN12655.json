@@ -5,12 +5,13 @@
       1.3159, 
       1.4787
     ], 
-    "gph": 579.1, 
     "triple_inshore": [
       0.7815, 
       1.0671, 
       1.2352
-    ]
+    ], 
+    "gph": 579.1, 
+    "osn": 563.9
   }, 
   "sailnumber": "FIN12655", 
   "name": "Nissan Arita", 
@@ -25,10 +26,12 @@
       "spinnaker": 118.8, 
       "loa": 12.09, 
       "draft": 2.41, 
+      "wetted_surface": 31.9, 
       "main": 57.8, 
       "genoa": 39.8, 
       "displacement": 7029.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 850.0
     }, 
     "year": "2001"
   }, 

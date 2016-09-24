@@ -5,12 +5,13 @@
       1.089, 
       1.2864
     ], 
-    "gph": 706.3, 
     "triple_inshore": [
       0.6141, 
       0.8649, 
       1.072
-    ]
+    ], 
+    "gph": 706.3, 
+    "osn": 682.9
   }, 
   "sailnumber": "ISR34", 
   "name": "Gal-El", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.9, 
       "loa": 10.37, 
       "draft": 1.85, 
+      "wetted_surface": 26.0, 
       "main": 27.3, 
       "genoa": 26.4, 
       "displacement": 5700.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 510.0
     }, 
     "year": "1999"
   }, 

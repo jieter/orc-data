@@ -5,12 +5,13 @@
       1.288, 
       1.4521
     ], 
-    "gph": 593.4, 
     "triple_inshore": [
       0.753, 
       1.0308, 
       1.2056
-    ]
+    ], 
+    "gph": 593.4, 
+    "osn": 577.9
   }, 
   "sailnumber": "GER7125", 
   "name": "LIV", 
@@ -25,10 +26,12 @@
       "spinnaker": 117.2, 
       "loa": 12.903, 
       "draft": 2.19, 
+      "wetted_surface": 35.3, 
       "main": 52.7, 
       "genoa": 50.8, 
       "displacement": 8736.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 520.0
     }, 
     "year": "2003"
   }, 

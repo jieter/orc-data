@@ -5,12 +5,13 @@
       1.1056, 
       1.2888
     ], 
-    "gph": 678.1, 
     "triple_inshore": [
       0.6966, 
       0.8926, 
       1.0527
-    ]
+    ], 
+    "gph": 678.1, 
+    "osn": 659.3
   }, 
   "sailnumber": "ITA166M20", 
   "name": "POMPA PA'", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.1, 
       "draft": 1.39, 
+      "wetted_surface": 8.0, 
       "main": 16.1, 
       "genoa": 9.1, 
       "displacement": 514.0, 
-      "spinnaker_asym": 37.0
+      "spinnaker_asym": 37.0, 
+      "crew": 240.0
     }, 
     "year": "2008"
   }, 

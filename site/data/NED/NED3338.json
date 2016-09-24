@@ -5,12 +5,13 @@
       1.2447, 
       1.4056
     ], 
-    "gph": 612.3, 
     "triple_inshore": [
       0.7381, 
       1.0037, 
       1.1758
-    ]
+    ], 
+    "gph": 612.3, 
+    "osn": 596.0
   }, 
   "sailnumber": "NED3338", 
   "name": "BRAINSTORM", 
@@ -25,10 +26,12 @@
       "spinnaker": 117.5, 
       "loa": 12.512, 
       "draft": 2.08, 
+      "wetted_surface": 31.6, 
       "main": 41.0, 
       "genoa": 57.1, 
       "displacement": 8013.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 780.0
     }, 
     "year": "1990"
   }, 

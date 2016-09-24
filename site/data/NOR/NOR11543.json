@@ -5,12 +5,13 @@
       1.2203, 
       1.3865
     ], 
-    "gph": 625.4, 
     "triple_inshore": [
       0.7085, 
       0.9778, 
       1.1545
-    ]
+    ], 
+    "gph": 625.4, 
+    "osn": 609.6
   }, 
   "sailnumber": "NOR11543", 
   "name": "Carmencita", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.6, 
       "loa": 11.1, 
       "draft": 2.07, 
+      "wetted_surface": 29.4, 
       "main": 43.2, 
       "genoa": 31.9, 
       "displacement": 6408.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 716.0
     }, 
     "year": "2002"
   }, 

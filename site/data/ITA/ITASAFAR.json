@@ -5,12 +5,13 @@
       1.1724, 
       1.3735
     ], 
-    "gph": 642.2, 
     "triple_inshore": [
       0.7251, 
       0.962, 
       1.1245
-    ]
+    ], 
+    "gph": 642.2, 
+    "osn": 623.3
   }, 
   "sailnumber": "ITASAFAR", 
   "name": "SAFARI", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.9, 
       "loa": 7.0, 
       "draft": 1.8, 
+      "wetted_surface": 11.7, 
       "main": 23.7, 
       "genoa": 12.9, 
       "displacement": 1130.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "2000"
   }, 

@@ -5,12 +5,13 @@
       1.226, 
       1.4135
     ], 
-    "gph": 614.9, 
     "triple_inshore": [
       0.7445, 
       0.9769, 
       1.1359
-    ]
+    ], 
+    "gph": 614.9, 
+    "osn": 601.6
   }, 
   "sailnumber": "NOR14994", 
   "name": "Cookie Monster", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.99, 
       "draft": 1.96, 
+      "wetted_surface": 15.9, 
       "main": 26.3, 
       "genoa": 18.3, 
       "displacement": 1546.0, 
-      "spinnaker_asym": 75.0
+      "spinnaker_asym": 75.0, 
+      "crew": 496.0
     }, 
     "year": "2012"
   }, 

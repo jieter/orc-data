@@ -5,12 +5,13 @@
       1.2149, 
       1.3863
     ], 
-    "gph": 631.0, 
     "triple_inshore": [
       0.7011, 
       0.9729, 
       1.1396
-    ]
+    ], 
+    "gph": 631.0, 
+    "osn": 612.2
   }, 
   "sailnumber": "ITA16968", 
   "name": "JOSHUA 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.8, 
       "loa": 10.98, 
       "draft": 1.93, 
+      "wetted_surface": 27.1, 
       "main": 40.0, 
       "genoa": 28.8, 
       "displacement": 4835.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 667.0
     }, 
     "year": "2011"
   }, 

@@ -5,12 +5,13 @@
       1.2631, 
       1.4495
     ], 
-    "gph": 607.8, 
     "triple_inshore": [
       0.725, 
       1.0122, 
       1.2084
-    ]
+    ], 
+    "gph": 607.8, 
+    "osn": 588.8
   }, 
   "sailnumber": "CRO1614", 
   "name": "Arianna", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.3, 
       "loa": 12.27, 
       "draft": 2.12, 
+      "wetted_surface": 35.6, 
       "main": 49.4, 
       "genoa": 40.1, 
       "displacement": 8595.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 844.0
     }, 
     "year": "2007"
   }, 

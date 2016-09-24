@@ -5,12 +5,13 @@
       1.1969, 
       1.3775
     ], 
-    "gph": 638.8, 
     "triple_inshore": [
       0.6984, 
       0.967, 
       1.138
-    ]
+    ], 
+    "gph": 638.8, 
+    "osn": 619.2
   }, 
   "sailnumber": "FRA27853", 
   "name": "WAPI", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.8, 
       "loa": 9.6, 
       "draft": 1.97, 
+      "wetted_surface": 23.7, 
       "main": 35.6, 
       "genoa": 26.7, 
       "displacement": 3754.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "2002"
   }, 

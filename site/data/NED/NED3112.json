@@ -5,12 +5,13 @@
       1.1849, 
       1.3292
     ], 
-    "gph": 641.9, 
     "triple_inshore": [
       0.7104, 
       0.9579, 
       1.1153
-    ]
+    ], 
+    "gph": 641.9, 
+    "osn": 625.5
   }, 
   "sailnumber": "NED3112", 
   "name": "BATAAF", 
@@ -25,10 +26,12 @@
       "spinnaker": 122.1, 
       "loa": 11.915, 
       "draft": 2.1, 
+      "wetted_surface": 29.9, 
       "main": 32.6, 
       "genoa": 64.4, 
       "displacement": 7869.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1977"
   }, 

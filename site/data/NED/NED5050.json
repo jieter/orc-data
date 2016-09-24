@@ -5,12 +5,13 @@
       1.1943, 
       1.3612
     ], 
-    "gph": 641.3, 
     "triple_inshore": [
       0.6909, 
       0.9576, 
       1.1344
-    ]
+    ], 
+    "gph": 641.3, 
+    "osn": 622.7
   }, 
   "sailnumber": "NED5050", 
   "name": "KATSE KAAI", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.9, 
       "loa": 11.845, 
       "draft": 1.99, 
+      "wetted_surface": 28.9, 
       "main": 32.8, 
       "genoa": 50.0, 
       "displacement": 6388.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 690.0
     }, 
     "year": "1992"
   }, 

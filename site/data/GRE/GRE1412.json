@@ -5,12 +5,13 @@
       0.9254, 
       1.0815
     ], 
-    "gph": 831.8, 
     "triple_inshore": [
       0.5227, 
       0.7317, 
       0.8924
-    ]
+    ], 
+    "gph": 831.8, 
+    "osn": 804.3
   }, 
   "sailnumber": "GRE1412", 
   "name": "AQUARIUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 49.9, 
       "loa": 8.455, 
       "draft": 1.34, 
+      "wetted_surface": 16.9, 
       "main": 11.7, 
       "genoa": 22.3, 
       "displacement": 3228.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1979"
   }, 

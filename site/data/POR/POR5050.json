@@ -5,12 +5,13 @@
       1.3669, 
       1.5673
     ], 
-    "gph": 562.5, 
     "triple_inshore": [
       0.7775, 
       1.0876, 
       1.2957
-    ]
+    ], 
+    "gph": 562.5, 
+    "osn": 545.9
   }, 
   "sailnumber": "POR5050", 
   "name": "FIFTY", 
@@ -25,10 +26,12 @@
       "spinnaker": 153.3, 
       "loa": 15.0, 
       "draft": 2.81, 
+      "wetted_surface": 46.9, 
       "main": 72.6, 
       "genoa": 53.2, 
       "displacement": 12990.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 970.0
     }, 
     "year": "2006"
   }, 

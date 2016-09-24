@@ -5,12 +5,13 @@
       1.2373, 
       1.397
     ], 
-    "gph": 617.2, 
     "triple_inshore": [
       0.7296, 
       1.0011, 
       1.1765
-    ]
+    ], 
+    "gph": 617.2, 
+    "osn": 599.8
   }, 
   "sailnumber": "ESP7815", 
   "name": "SHAMAL", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.9, 
       "loa": 11.31, 
       "draft": 2.34, 
+      "wetted_surface": 30.4, 
       "main": 48.4, 
       "genoa": 35.3, 
       "displacement": 7452.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 715.0
     }, 
     "year": "2005"
   }, 

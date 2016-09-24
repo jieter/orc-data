@@ -5,12 +5,13 @@
       1.1884, 
       1.344
     ], 
-    "gph": 642.4, 
     "triple_inshore": [
       0.7004, 
       0.961, 
       1.128
-    ]
+    ], 
+    "gph": 642.4, 
+    "osn": 624.0
   }, 
   "sailnumber": "NED7791", 
   "name": "Penny-wise", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.4, 
       "loa": 10.222, 
       "draft": 1.89, 
+      "wetted_surface": 25.2, 
       "main": 33.4, 
       "genoa": 34.3, 
       "displacement": 5138.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 666.0
     }, 
     "year": "2001"
   }, 

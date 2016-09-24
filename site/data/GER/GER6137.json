@@ -5,12 +5,13 @@
       1.1413, 
       1.3309
     ], 
-    "gph": 675.8, 
     "triple_inshore": [
       0.6394, 
       0.9174, 
       1.0791
-    ]
+    ], 
+    "gph": 675.8, 
+    "osn": 652.4
   }, 
   "sailnumber": "GER6137", 
   "name": "THINCHEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 41.8, 
       "loa": 8.0, 
       "draft": 1.73, 
+      "wetted_surface": 15.3, 
       "main": 20.9, 
       "genoa": 12.9, 
       "displacement": 1348.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "2003"
   }, 

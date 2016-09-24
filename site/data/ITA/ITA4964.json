@@ -5,12 +5,13 @@
       1.1705, 
       1.3245
     ], 
-    "gph": 652.5, 
     "triple_inshore": [
       0.6867, 
       0.9322, 
       1.1008
-    ]
+    ], 
+    "gph": 652.5, 
+    "osn": 635.6
   }, 
   "sailnumber": "ITA4964", 
   "name": "ALBATROS", 
@@ -25,10 +26,12 @@
       "spinnaker": 120.3, 
       "loa": 12.646, 
       "draft": 2.15, 
+      "wetted_surface": 32.4, 
       "main": 38.1, 
       "genoa": 62.6, 
       "displacement": 9660.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 655.0
     }, 
     "year": "1969"
   }, 

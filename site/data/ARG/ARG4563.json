@@ -5,12 +5,13 @@
       1.1548, 
       1.294
     ], 
-    "gph": 658.3, 
     "triple_inshore": [
       0.6939, 
       0.935, 
       1.0796
-    ]
+    ], 
+    "gph": 658.3, 
+    "osn": 641.8
   }, 
   "sailnumber": "ARG4563", 
   "name": "HAPPY HOUR", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.6, 
       "loa": 10.43, 
       "draft": 1.78, 
+      "wetted_surface": 23.4, 
       "main": 28.9, 
       "genoa": 39.8, 
       "displacement": 4733.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 627.0
     }, 
     "year": "1992"
   }, 

@@ -5,12 +5,13 @@
       1.0766, 
       1.228
     ], 
-    "gph": 706.6, 
     "triple_inshore": [
       0.6422, 
       0.8733, 
       1.0026
-    ]
+    ], 
+    "gph": 706.6, 
+    "osn": 686.7
   }, 
   "sailnumber": "ITA7606", 
   "name": "BURIDONE", 
@@ -25,10 +26,12 @@
       "spinnaker": 38.5, 
       "loa": 7.902, 
       "draft": 1.58, 
+      "wetted_surface": 11.5, 
       "main": 18.0, 
       "genoa": 15.3, 
       "displacement": 1196.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 380.0
     }, 
     "year": "1977"
   }, 

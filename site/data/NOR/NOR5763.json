@@ -5,12 +5,13 @@
       1.1247, 
       1.2536
     ], 
-    "gph": 675.2, 
     "triple_inshore": [
       0.676, 
       0.9088, 
       1.0481
-    ]
+    ], 
+    "gph": 675.2, 
+    "osn": 660.0
   }, 
   "sailnumber": "NOR5763", 
   "name": "Hanna Marie", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.5, 
       "loa": 10.3, 
       "draft": 1.63, 
+      "wetted_surface": 22.4, 
       "main": 32.6, 
       "genoa": 36.0, 
       "displacement": 4774.0, 
-      "spinnaker_asym": 62.0
+      "spinnaker_asym": 62.0, 
+      "crew": 555.0
     }, 
     "year": "1980"
   }, 

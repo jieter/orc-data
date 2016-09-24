@@ -5,12 +5,13 @@
       1.2415, 
       1.4602
     ], 
-    "gph": 612.9, 
     "triple_inshore": [
       0.7305, 
       0.9838, 
       1.1733
-    ]
+    ], 
+    "gph": 612.9, 
+    "osn": 594.9
   }, 
   "sailnumber": "SUI36", 
   "name": "INVERNA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.97, 
       "draft": 1.57, 
+      "wetted_surface": 12.9, 
       "main": 22.7, 
       "genoa": 13.1, 
       "displacement": 931.0, 
-      "spinnaker_asym": 53.0
+      "spinnaker_asym": 53.0, 
+      "crew": 399.0
     }, 
     "year": "2009"
   }, 

@@ -5,12 +5,13 @@
       0.9863, 
       1.0854
     ], 
-    "gph": 762.1, 
     "triple_inshore": [
       0.6255, 
       0.8191, 
       0.9174
-    ]
+    ], 
+    "gph": 762.1, 
+    "osn": 744.1
   }, 
   "sailnumber": "SUI74", 
   "name": "SCORPION", 
@@ -25,10 +26,12 @@
       "spinnaker": 41.5, 
       "loa": 7.05, 
       "draft": 1.43, 
+      "wetted_surface": 10.3, 
       "main": 16.1, 
       "genoa": 10.8, 
       "displacement": 1147.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 299.0
     }, 
     "year": "1976"
   }, 

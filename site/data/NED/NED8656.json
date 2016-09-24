@@ -5,12 +5,13 @@
       1.0532, 
       1.2073
     ], 
-    "gph": 729.8, 
     "triple_inshore": [
       0.6032, 
       0.841, 
       1.0003
-    ]
+    ], 
+    "gph": 729.8, 
+    "osn": 706.5
   }, 
   "sailnumber": "NED8656", 
   "name": "L'avalanche", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.3, 
       "loa": 9.3, 
       "draft": 1.44, 
+      "wetted_surface": 21.1, 
       "main": 21.9, 
       "genoa": 26.6, 
       "displacement": 4050.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 530.0
     }, 
     "year": "1997"
   }, 

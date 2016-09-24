@@ -5,12 +5,13 @@
       1.2727, 
       1.4422
     ], 
-    "gph": 598.7, 
     "triple_inshore": [
       0.7559, 
       1.0351, 
       1.2042
-    ]
+    ], 
+    "gph": 598.7, 
+    "osn": 581.6
   }, 
   "sailnumber": "NOR14438", 
   "name": "Momentum", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.6, 
       "draft": 2.34, 
+      "wetted_surface": 26.0, 
       "main": 38.8, 
       "genoa": 31.6, 
       "displacement": 5001.0, 
-      "spinnaker_asym": 112.0
+      "spinnaker_asym": 112.0, 
+      "crew": 670.0
     }, 
     "year": "2009"
   }, 

@@ -5,12 +5,13 @@
       1.2103, 
       1.3769
     ], 
-    "gph": 633.4, 
     "triple_inshore": [
       0.6999, 
       0.9634, 
       1.1432
-    ]
+    ], 
+    "gph": 633.4, 
+    "osn": 614.7
   }, 
   "sailnumber": "ITA21120", 
   "name": "JAMILA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.4, 
       "draft": 2.4, 
+      "wetted_surface": 33.2, 
       "main": 44.5, 
       "genoa": 33.2, 
       "displacement": 8753.0, 
-      "spinnaker_asym": 106.0
+      "spinnaker_asym": 106.0, 
+      "crew": 520.0
     }, 
     "year": "2015"
   }, 

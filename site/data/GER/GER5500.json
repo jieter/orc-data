@@ -5,12 +5,13 @@
       1.5104, 
       1.742
     ], 
-    "gph": 508.7, 
     "triple_inshore": [
       0.8551, 
       1.1993, 
       1.4244
-    ]
+    ], 
+    "gph": 508.7, 
+    "osn": 494.5
   }, 
   "sailnumber": "GER5500", 
   "name": "BROADER VIEW HAMBURG", 
@@ -25,10 +26,12 @@
       "spinnaker": 188.0, 
       "loa": 17.14, 
       "draft": 2.75, 
+      "wetted_surface": 47.6, 
       "main": 72.7, 
       "genoa": 83.3, 
       "displacement": 11046.0, 
-      "spinnaker_asym": 162.0
+      "spinnaker_asym": 162.0, 
+      "crew": 850.0
     }, 
     "year": "1992"
   }, 

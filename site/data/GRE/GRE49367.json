@@ -5,12 +5,13 @@
       0.9384, 
       1.0779
     ], 
-    "gph": 818.6, 
     "triple_inshore": [
       0.5421, 
       0.7516, 
       0.8989
-    ]
+    ], 
+    "gph": 818.6, 
+    "osn": 791.8
   }, 
   "sailnumber": "GRE49367", 
   "name": "SKORPIOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 46.9, 
       "loa": 7.89, 
       "draft": 1.59, 
+      "wetted_surface": 17.1, 
       "main": 15.1, 
       "genoa": 22.0, 
       "displacement": 3362.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1993"
   }, 

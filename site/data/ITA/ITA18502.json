@@ -5,12 +5,13 @@
       1.3544, 
       1.565
     ], 
-    "gph": 566.9, 
     "triple_inshore": [
       0.77, 
       1.0652, 
       1.2834
-    ]
+    ], 
+    "gph": 566.9, 
+    "osn": 551.6
   }, 
   "sailnumber": "ITA18502", 
   "name": "PAOLISSSIMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 16.93, 
       "draft": 2.81, 
+      "wetted_surface": 62.8, 
       "main": 81.1, 
       "genoa": 96.4, 
       "displacement": 25555.0, 
-      "spinnaker_asym": 201.0
+      "spinnaker_asym": 201.0, 
+      "crew": 650.0
     }, 
     "year": "2003"
   }, 

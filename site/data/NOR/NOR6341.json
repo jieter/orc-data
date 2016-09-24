@@ -5,12 +5,13 @@
       1.062, 
       1.2073
     ], 
-    "gph": 726.0, 
     "triple_inshore": [
       0.6021, 
       0.847, 
       0.9971
-    ]
+    ], 
+    "gph": 726.0, 
+    "osn": 702.6
   }, 
   "sailnumber": "NOR6341", 
   "name": "Go'tid", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.4, 
       "loa": 10.3, 
       "draft": 1.57, 
+      "wetted_surface": 20.8, 
       "main": 31.7, 
       "genoa": 25.1, 
       "displacement": 3662.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 531.0
     }, 
     "year": "1985"
   }, 

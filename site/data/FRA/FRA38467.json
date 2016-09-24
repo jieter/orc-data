@@ -5,12 +5,13 @@
       1.2396, 
       1.415
     ], 
-    "gph": 618.3, 
     "triple_inshore": [
       0.7192, 
       0.9986, 
       1.178
-    ]
+    ], 
+    "gph": 618.3, 
+    "osn": 598.6
   }, 
   "sailnumber": "FRA38467", 
   "name": "JEMINY", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.6, 
       "loa": 10.99, 
       "draft": 2.17, 
+      "wetted_surface": 29.1, 
       "main": 42.0, 
       "genoa": 30.3, 
       "displacement": 6037.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 697.0
     }, 
     "year": "2012"
   }, 

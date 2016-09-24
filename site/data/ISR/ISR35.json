@@ -5,12 +5,13 @@
       1.1908, 
       1.348
     ], 
-    "gph": 640.1, 
     "triple_inshore": [
       0.7041, 
       0.9542, 
       1.1166
-    ]
+    ], 
+    "gph": 640.1, 
+    "osn": 623.2
   }, 
   "sailnumber": "ISR35", 
   "name": "Epoxy Lady", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.245, 
       "draft": 1.9, 
+      "wetted_surface": 27.7, 
       "main": 35.9, 
       "genoa": 37.6, 
       "displacement": 6545.0, 
-      "spinnaker_asym": 115.0
+      "spinnaker_asym": 115.0, 
+      "crew": 629.0
     }, 
     "year": "2014"
   }, 

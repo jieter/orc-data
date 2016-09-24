@@ -5,12 +5,13 @@
       1.1991, 
       1.4511
     ], 
-    "gph": 650.6, 
     "triple_inshore": [
       0.631, 
       0.9435, 
       1.1921
-    ]
+    ], 
+    "gph": 650.6, 
+    "osn": 626.0
   }, 
   "sailnumber": "NED8634", 
   "name": "Amarante", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.5, 
       "draft": 2.19, 
+      "wetted_surface": 44.3, 
       "main": 50.8, 
       "genoa": 50.6, 
       "displacement": 10000.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1009.0
     }, 
     "year": "2013"
   }, 

@@ -5,12 +5,13 @@
       1.2766, 
       1.4422
     ], 
-    "gph": 598.1, 
     "triple_inshore": [
       0.7502, 
       1.0301, 
       1.2115
-    ]
+    ], 
+    "gph": 598.1, 
+    "osn": 582.0
   }, 
   "sailnumber": "ESP8694", 
   "name": "ALEPH IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 113.5, 
       "loa": 12.12, 
       "draft": 2.5, 
+      "wetted_surface": 33.6, 
       "main": 49.6, 
       "genoa": 50.8, 
       "displacement": 8921.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 640.0
     }, 
     "year": "2006"
   }, 

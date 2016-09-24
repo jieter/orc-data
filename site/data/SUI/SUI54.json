@@ -5,12 +5,13 @@
       1.1348, 
       1.2469
     ], 
-    "gph": 665.9, 
     "triple_inshore": [
       0.7007, 
       0.9296, 
       1.0481
-    ]
+    ], 
+    "gph": 665.9, 
+    "osn": 651.7
   }, 
   "sailnumber": "SUI54", 
   "name": "WUSCHEL vor", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.2, 
       "loa": 9.503, 
       "draft": 1.64, 
+      "wetted_surface": 19.4, 
       "main": 28.8, 
       "genoa": 29.8, 
       "displacement": 3528.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 505.0
     }, 
     "year": "1982"
   }, 

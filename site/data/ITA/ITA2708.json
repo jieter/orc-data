@@ -5,12 +5,13 @@
       1.1844, 
       1.3421
     ], 
-    "gph": 644.9, 
     "triple_inshore": [
       0.6982, 
       0.961, 
       1.1236
-    ]
+    ], 
+    "gph": 644.9, 
+    "osn": 625.8
   }, 
   "sailnumber": "ITA2708", 
   "name": "RICOMINCIO DA TRE", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.3, 
       "loa": 9.982, 
       "draft": 2.0, 
+      "wetted_surface": 23.6, 
       "main": 34.1, 
       "genoa": 30.3, 
       "displacement": 4661.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2005"
   }, 

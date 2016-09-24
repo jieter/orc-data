@@ -5,12 +5,13 @@
       1.2389, 
       1.4217
     ], 
-    "gph": 615.3, 
     "triple_inshore": [
       0.7268, 
       0.9919, 
       1.1484
-    ]
+    ], 
+    "gph": 615.3, 
+    "osn": 598.5
   }, 
   "sailnumber": "GER7107", 
   "name": "LIBERTY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.14, 
       "draft": 2.5, 
+      "wetted_surface": 23.0, 
       "main": 33.4, 
       "genoa": 24.0, 
       "displacement": 2968.0, 
-      "spinnaker_asym": 90.0
+      "spinnaker_asym": 90.0, 
+      "crew": 360.0
     }, 
     "year": "2013"
   }, 

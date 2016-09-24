@@ -5,12 +5,13 @@
       1.2001, 
       1.4129
     ], 
-    "gph": 642.1, 
     "triple_inshore": [
       0.6604, 
       0.9462, 
       1.1703
-    ]
+    ], 
+    "gph": 642.1, 
+    "osn": 624.3
   }, 
   "sailnumber": "NOR12477", 
   "name": "Signe Malene", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.7, 
       "draft": 2.03, 
+      "wetted_surface": 41.6, 
       "main": 49.0, 
       "genoa": 58.1, 
       "displacement": 11236.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 924.0
     }, 
     "year": "1993"
   }, 

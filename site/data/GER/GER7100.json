@@ -5,12 +5,13 @@
       1.2991, 
       1.4818
     ], 
-    "gph": 589.4, 
     "triple_inshore": [
       0.753, 
       1.0353, 
       1.2339
-    ]
+    ], 
+    "gph": 589.4, 
+    "osn": 572.7
   }, 
   "sailnumber": "GER7100", 
   "name": "EXTASY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.634, 
       "draft": 2.24, 
+      "wetted_surface": 44.8, 
       "main": 64.0, 
       "genoa": 47.3, 
       "displacement": 14591.0, 
-      "spinnaker_asym": 164.0
+      "spinnaker_asym": 164.0, 
+      "crew": 650.0
     }, 
     "year": "2006"
   }, 

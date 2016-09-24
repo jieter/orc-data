@@ -5,12 +5,13 @@
       1.1542, 
       1.2936
     ], 
-    "gph": 660.1, 
     "triple_inshore": [
       0.6858, 
       0.9362, 
       1.0838
-    ]
+    ], 
+    "gph": 660.1, 
+    "osn": 643.3
   }, 
   "sailnumber": "ESP2174", 
   "name": "MACHAQUITO UNO", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.6, 
       "loa": 10.02, 
       "draft": 1.92, 
+      "wetted_surface": 22.5, 
       "main": 37.1, 
       "genoa": 26.8, 
       "displacement": 4393.0, 
-      "spinnaker_asym": 64.0
+      "spinnaker_asym": 64.0, 
+      "crew": 530.0
     }, 
     "year": "1981"
   }, 

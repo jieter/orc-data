@@ -5,12 +5,13 @@
       1.2964, 
       1.4637
     ], 
-    "gph": 588.7, 
     "triple_inshore": [
       0.7656, 
       1.0483, 
       1.2176
-    ]
+    ], 
+    "gph": 588.7, 
+    "osn": 572.5
   }, 
   "sailnumber": "GER5559", 
   "name": "MORRAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.6, 
       "loa": 12.1, 
       "draft": 2.39, 
+      "wetted_surface": 30.2, 
       "main": 50.9, 
       "genoa": 37.5, 
       "displacement": 6129.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 720.0
     }, 
     "year": "2000"
   }, 

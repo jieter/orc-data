@@ -5,12 +5,13 @@
       1.273, 
       1.4548
     ], 
-    "gph": 602.7, 
     "triple_inshore": [
       0.7252, 
       1.0155, 
       1.2022
-    ]
+    ], 
+    "gph": 602.7, 
+    "osn": 586.9
   }, 
   "sailnumber": "NOR5690", 
   "name": "Amelia", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.3, 
       "loa": 13.37, 
       "draft": 2.05, 
+      "wetted_surface": 31.2, 
       "main": 46.1, 
       "genoa": 39.2, 
       "displacement": 6387.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 794.0
     }, 
     "year": "1983"
   }, 

@@ -5,12 +5,13 @@
       1.123, 
       1.3003
     ], 
-    "gph": 684.9, 
     "triple_inshore": [
       0.6355, 
       0.8837, 
       1.0599
-    ]
+    ], 
+    "gph": 684.9, 
+    "osn": 664.9
   }, 
   "sailnumber": "ITA15821", 
   "name": "GALANA RIVER", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.185, 
       "draft": 1.83, 
+      "wetted_surface": 29.8, 
       "main": 28.3, 
       "genoa": 38.9, 
       "displacement": 6247.0, 
-      "spinnaker_asym": 88.0
+      "spinnaker_asym": 88.0, 
+      "crew": 500.0
     }, 
     "year": "1995"
   }, 

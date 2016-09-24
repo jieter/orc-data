@@ -5,12 +5,13 @@
       1.181, 
       1.3385
     ], 
-    "gph": 648.3, 
     "triple_inshore": [
       0.687, 
       0.9479, 
       1.1166
-    ]
+    ], 
+    "gph": 648.3, 
+    "osn": 629.5
   }, 
   "sailnumber": "ESP9882", 
   "name": "KOUKO", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.4, 
       "loa": 11.121, 
       "draft": 1.96, 
+      "wetted_surface": 28.4, 
       "main": 38.1, 
       "genoa": 35.4, 
       "displacement": 6589.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1992"
   }, 

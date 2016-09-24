@@ -5,12 +5,13 @@
       1.2685, 
       1.4471
     ], 
-    "gph": 603.1, 
     "triple_inshore": [
       0.7367, 
       1.0191, 
       1.2021
-    ]
+    ], 
+    "gph": 603.1, 
+    "osn": 586.1
   }, 
   "sailnumber": "NED7505", 
   "name": "Alskling", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.2, 
       "loa": 12.016, 
       "draft": 2.15, 
+      "wetted_surface": 30.8, 
       "main": 44.1, 
       "genoa": 47.1, 
       "displacement": 6682.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 775.0
     }, 
     "year": "2000"
   }, 

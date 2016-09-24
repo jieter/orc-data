@@ -5,12 +5,13 @@
       1.271, 
       1.451
     ], 
-    "gph": 603.2, 
     "triple_inshore": [
       0.7316, 
       1.0042, 
       1.1935
-    ]
+    ], 
+    "gph": 603.2, 
+    "osn": 586.6
   }, 
   "sailnumber": "GER5822", 
   "name": "SHAKA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.0, 
       "draft": 2.21, 
+      "wetted_surface": 47.1, 
       "main": 61.6, 
       "genoa": 52.5, 
       "displacement": 16327.0, 
-      "spinnaker_asym": 178.0
+      "spinnaker_asym": 178.0, 
+      "crew": 500.0
     }, 
     "year": "2004"
   }, 

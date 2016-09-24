@@ -5,12 +5,13 @@
       1.0769, 
       1.2247
     ], 
-    "gph": 709.8, 
     "triple_inshore": [
       0.6322, 
       0.8645, 
       1.0204
-    ]
+    ], 
+    "gph": 709.8, 
+    "osn": 689.2
   }, 
   "sailnumber": "ITA13334", 
   "name": "MARINA DI PESCARA", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.0, 
       "loa": 10.1, 
       "draft": 1.79, 
+      "wetted_surface": 22.7, 
       "main": 22.8, 
       "genoa": 35.8, 
       "displacement": 4856.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1983"
   }, 

@@ -5,12 +5,13 @@
       1.2604, 
       1.4312
     ], 
-    "gph": 605.5, 
     "triple_inshore": [
       0.7423, 
       1.0161, 
       1.1971
-    ]
+    ], 
+    "gph": 605.5, 
+    "osn": 589.0
   }, 
   "sailnumber": "ITA13543", 
   "name": "X-ELOR", 
@@ -25,10 +26,12 @@
       "spinnaker": 117.3, 
       "loa": 12.5, 
       "draft": 2.23, 
+      "wetted_surface": 32.1, 
       "main": 41.4, 
       "genoa": 59.4, 
       "displacement": 7871.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 690.0
     }, 
     "year": "1991"
   }, 

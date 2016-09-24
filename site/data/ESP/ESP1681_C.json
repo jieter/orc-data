@@ -5,12 +5,13 @@
       1.0178, 
       1.1546
     ], 
-    "gph": 743.6, 
     "triple_inshore": [
       0.6199, 
       0.8363, 
       0.9577
-    ]
+    ], 
+    "gph": 743.6, 
+    "osn": 723.5
   }, 
   "sailnumber": "ESP1681_C", 
   "name": "REBUCH", 
@@ -25,10 +26,12 @@
       "spinnaker": 26.8, 
       "loa": 7.15, 
       "draft": 1.4, 
+      "wetted_surface": 10.3, 
       "main": 17.9, 
       "genoa": 13.1, 
       "displacement": 1153.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 260.0
     }, 
     "year": "1977"
   }, 

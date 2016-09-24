@@ -5,12 +5,13 @@
       0.9861, 
       1.099
     ], 
-    "gph": 769.7, 
     "triple_inshore": [
       0.6013, 
       0.8114, 
       0.9228
-    ]
+    ], 
+    "gph": 769.7, 
+    "osn": 748.1
   }, 
   "sailnumber": "NED8669", 
   "name": "Swing", 
@@ -25,10 +26,12 @@
       "spinnaker": 40.8, 
       "loa": 7.2, 
       "draft": 1.54, 
+      "wetted_surface": 13.0, 
       "main": 12.8, 
       "genoa": 22.2, 
       "displacement": 1700.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 334.0
     }, 
     "year": "1980"
   }, 

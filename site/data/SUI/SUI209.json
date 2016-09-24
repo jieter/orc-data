@@ -5,12 +5,13 @@
       1.2368, 
       1.3749
     ], 
-    "gph": 612.4, 
     "triple_inshore": [
       0.7526, 
       1.0003, 
       1.1371
-    ]
+    ], 
+    "gph": 612.4, 
+    "osn": 598.8
   }, 
   "sailnumber": "SUI209", 
   "name": "MAXI-MILIAN  III", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.2, 
       "loa": 10.6, 
       "draft": 1.85, 
+      "wetted_surface": 23.9, 
       "main": 42.8, 
       "genoa": 32.4, 
       "displacement": 4331.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "2006"
   }, 

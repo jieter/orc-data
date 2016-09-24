@@ -5,12 +5,13 @@
       0.9237, 
       1.0619
     ], 
-    "gph": 829.4, 
     "triple_inshore": [
       0.534, 
       0.7415, 
       0.8847
-    ]
+    ], 
+    "gph": 829.4, 
+    "osn": 804.8
   }, 
   "sailnumber": "NED2043", 
   "name": "Ciao Baby", 
@@ -25,10 +26,12 @@
       "spinnaker": 32.3, 
       "loa": 7.224, 
       "draft": 1.25, 
+      "wetted_surface": 12.6, 
       "main": 10.3, 
       "genoa": 16.6, 
       "displacement": 1638.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 250.0
     }, 
     "year": "1968"
   }, 

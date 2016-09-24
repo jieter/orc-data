@@ -5,12 +5,13 @@
       1.2384, 
       1.4052
     ], 
-    "gph": 617.0, 
     "triple_inshore": [
       0.7252, 
       0.9998, 
       1.1694
-    ]
+    ], 
+    "gph": 617.0, 
+    "osn": 599.6
   }, 
   "sailnumber": "NOR9629", 
   "name": "CB`N", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.1, 
       "loa": 11.11, 
       "draft": 2.02, 
+      "wetted_surface": 28.0, 
       "main": 41.3, 
       "genoa": 31.1, 
       "displacement": 5478.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 730.0
     }, 
     "year": "1999"
   }, 

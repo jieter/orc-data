@@ -5,12 +5,13 @@
       0.9693, 
       1.0895
     ], 
-    "gph": 786.2, 
     "triple_inshore": [
       0.5782, 
       0.7846, 
       0.9091
-    ]
+    ], 
+    "gph": 786.2, 
+    "osn": 764.7
   }, 
   "sailnumber": "NED1401", 
   "name": "PASSAAT", 
@@ -25,10 +26,12 @@
       "spinnaker": 40.8, 
       "loa": 7.96, 
       "draft": 1.42, 
+      "wetted_surface": 13.7, 
       "main": 12.0, 
       "genoa": 22.8, 
       "displacement": 2245.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 340.0
     }, 
     "year": "1975"
   }, 

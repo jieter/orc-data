@@ -5,12 +5,13 @@
       1.1662, 
       1.3101
     ], 
-    "gph": 654.1, 
     "triple_inshore": [
       0.6896, 
       0.9383, 
       1.0822
-    ]
+    ], 
+    "gph": 654.1, 
+    "osn": 636.2
   }, 
   "sailnumber": "FRA38321", 
   "name": "PICKWICK", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.598, 
       "draft": 1.92, 
+      "wetted_surface": 21.3, 
       "main": 27.9, 
       "genoa": 25.1, 
       "displacement": 3854.0, 
-      "spinnaker_asym": 98.0
+      "spinnaker_asym": 98.0, 
+      "crew": 539.0
     }, 
     "year": "2009"
   }, 

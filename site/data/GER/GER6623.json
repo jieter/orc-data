@@ -5,12 +5,13 @@
       1.1607, 
       1.3212
     ], 
-    "gph": 659.2, 
     "triple_inshore": [
       0.6794, 
       0.9387, 
       1.1065
-    ]
+    ], 
+    "gph": 659.2, 
+    "osn": 638.9
   }, 
   "sailnumber": "GER6623", 
   "name": "XTC", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.8, 
       "loa": 10.06, 
       "draft": 1.83, 
+      "wetted_surface": 24.6, 
       "main": 34.1, 
       "genoa": 24.0, 
       "displacement": 4758.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 615.0
     }, 
     "year": "1994"
   }, 

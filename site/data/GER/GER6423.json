@@ -5,12 +5,13 @@
       1.281, 
       1.4608
     ], 
-    "gph": 599.9, 
     "triple_inshore": [
       0.7325, 
       1.0209, 
       1.207
-    ]
+    ], 
+    "gph": 599.9, 
+    "osn": 581.9
   }, 
   "sailnumber": "GER6423", 
   "name": "AVENTURA", 
@@ -25,10 +26,12 @@
       "spinnaker": 125.8, 
       "loa": 12.4, 
       "draft": 2.15, 
+      "wetted_surface": 39.1, 
       "main": 54.7, 
       "genoa": 42.3, 
       "displacement": 8828.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 820.0
     }, 
     "year": "2010"
   }, 

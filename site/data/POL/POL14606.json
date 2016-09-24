@@ -5,12 +5,13 @@
       1.0101, 
       1.1262
     ], 
-    "gph": 752.9, 
     "triple_inshore": [
       0.6078, 
       0.8199, 
       0.9368
-    ]
+    ], 
+    "gph": 752.9, 
+    "osn": 732.8
   }, 
   "sailnumber": "POL14606", 
   "name": "Gibsea", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.2, 
       "loa": 7.85, 
       "draft": 1.43, 
+      "wetted_surface": 15.4, 
       "main": 24.5, 
       "genoa": 15.9, 
       "displacement": 2472.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 376.0
     }, 
     "year": "1978"
   }, 

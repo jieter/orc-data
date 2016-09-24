@@ -5,12 +5,13 @@
       1.0511, 
       1.2645
     ], 
-    "gph": 740.0, 
     "triple_inshore": [
       0.5616, 
       0.8302, 
       1.0441
-    ]
+    ], 
+    "gph": 740.0, 
+    "osn": 712.3
   }, 
   "sailnumber": "ARG013_C", 
   "name": "LOANCA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.8, 
       "draft": 1.79, 
+      "wetted_surface": 30.2, 
       "main": 27.7, 
       "genoa": 35.3, 
       "displacement": 5989.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2002"
   }, 

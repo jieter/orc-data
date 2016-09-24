@@ -5,12 +5,13 @@
       1.4441, 
       1.6823
     ], 
-    "gph": 524.2, 
     "triple_inshore": [
       0.8505, 
       1.1403, 
       1.3375
-    ]
+    ], 
+    "gph": 524.2, 
+    "osn": 513.3
   }, 
   "sailnumber": "CRO1933", 
   "name": "Dubrovnik", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.6, 
       "draft": 2.67, 
+      "wetted_surface": 31.3, 
       "main": 58.9, 
       "genoa": 44.7, 
       "displacement": 4120.0, 
-      "spinnaker_asym": 137.0
+      "spinnaker_asym": 137.0, 
+      "crew": 750.0
     }, 
     "year": "2013"
   }, 

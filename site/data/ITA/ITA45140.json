@@ -5,12 +5,13 @@
       1.3273, 
       1.5176
     ], 
-    "gph": 578.4, 
     "triple_inshore": [
       0.7608, 
       1.0595, 
       1.2578
-    ]
+    ], 
+    "gph": 578.4, 
+    "osn": 561.4
   }, 
   "sailnumber": "ITA45140", 
   "name": "VAHINE' 7", 
@@ -25,10 +26,12 @@
       "spinnaker": 152.8, 
       "loa": 13.665, 
       "draft": 2.36, 
+      "wetted_surface": 42.8, 
       "main": 59.9, 
       "genoa": 55.2, 
       "displacement": 11199.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 850.0
     }, 
     "year": "2007"
   }, 

@@ -5,12 +5,13 @@
       1.2464, 
       1.4258
     ], 
-    "gph": 614.5, 
     "triple_inshore": [
       0.7177, 
       0.9959, 
       1.1839
-    ]
+    ], 
+    "gph": 614.5, 
+    "osn": 597.5
   }, 
   "sailnumber": "NED6869", 
   "name": "Pier 10", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.8, 
       "loa": 12.8, 
       "draft": 2.05, 
+      "wetted_surface": 34.6, 
       "main": 44.7, 
       "genoa": 54.1, 
       "displacement": 8433.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2002"
   }, 

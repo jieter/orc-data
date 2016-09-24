@@ -5,12 +5,13 @@
       1.076, 
       1.207
     ], 
-    "gph": 706.3, 
     "triple_inshore": [
       0.6473, 
       0.8658, 
       1.0065
-    ]
+    ], 
+    "gph": 706.3, 
+    "osn": 689.0
   }, 
   "sailnumber": "ITAMIZAS", 
   "name": "MIZAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.363, 
       "draft": 1.76, 
+      "wetted_surface": 19.6, 
       "main": 25.1, 
       "genoa": 27.8, 
       "displacement": 4164.0, 
-      "spinnaker_asym": 63.0
+      "spinnaker_asym": 63.0, 
+      "crew": 490.0
     }, 
     "year": "1992"
   }, 

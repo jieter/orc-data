@@ -5,12 +5,13 @@
       1.2432, 
       1.3878
     ], 
-    "gph": 613.8, 
     "triple_inshore": [
       0.7359, 
       0.9978, 
       1.1435
-    ]
+    ], 
+    "gph": 613.8, 
+    "osn": 598.2
   }, 
   "sailnumber": "ESP9986", 
   "name": "TUMBAU", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.0, 
       "draft": 2.21, 
+      "wetted_surface": 25.9, 
       "main": 45.2, 
       "genoa": 28.8, 
       "displacement": 5045.0, 
-      "spinnaker_asym": 86.0
+      "spinnaker_asym": 86.0, 
+      "crew": 645.0
     }, 
     "year": "2003"
   }, 

@@ -5,12 +5,13 @@
       1.2052, 
       1.373
     ], 
-    "gph": 636.6, 
     "triple_inshore": [
       0.6988, 
       0.9729, 
       1.1541
-    ]
+    ], 
+    "gph": 636.6, 
+    "osn": 615.8
   }, 
   "sailnumber": "NED7387", 
   "name": "E-Motion", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.2, 
       "loa": 11.215, 
       "draft": 2.46, 
+      "wetted_surface": 28.7, 
       "main": 37.4, 
       "genoa": 29.4, 
       "displacement": 6211.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "2004"
   }, 

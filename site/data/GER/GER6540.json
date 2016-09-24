@@ -5,12 +5,13 @@
       1.1166, 
       1.2598
     ], 
-    "gph": 682.8, 
     "triple_inshore": [
       0.6621, 
       0.8989, 
       1.0542
-    ]
+    ], 
+    "gph": 682.8, 
+    "osn": 664.6
   }, 
   "sailnumber": "GER6540", 
   "name": "SAGITTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.7, 
       "loa": 10.765, 
       "draft": 1.86, 
+      "wetted_surface": 24.7, 
       "main": 33.0, 
       "genoa": 34.9, 
       "displacement": 6237.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 530.0
     }, 
     "year": "1982"
   }, 

@@ -5,12 +5,13 @@
       1.0287, 
       1.1669
     ], 
-    "gph": 743.0, 
     "triple_inshore": [
       0.6052, 
       0.8264, 
       0.9718
-    ]
+    ], 
+    "gph": 743.0, 
+    "osn": 721.7
   }, 
   "sailnumber": "GRE6279", 
   "name": "SOGNO DI MARE", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.3, 
       "loa": 9.33, 
       "draft": 1.64, 
+      "wetted_surface": 18.7, 
       "main": 19.7, 
       "genoa": 26.6, 
       "displacement": 3795.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1972"
   }, 

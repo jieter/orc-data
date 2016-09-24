@@ -5,12 +5,13 @@
       0.989, 
       1.137
     ], 
-    "gph": 771.4, 
     "triple_inshore": [
       0.5836, 
       0.7991, 
       0.9544
-    ]
+    ], 
+    "gph": 771.4, 
+    "osn": 748.9
   }, 
   "sailnumber": "NOR4081", 
   "name": "Nini", 
@@ -25,10 +26,12 @@
       "spinnaker": 44.8, 
       "loa": 7.62, 
       "draft": 1.73, 
+      "wetted_surface": 13.7, 
       "main": 11.1, 
       "genoa": 21.9, 
       "displacement": 2256.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 369.0
     }, 
     "year": "1972"
   }, 

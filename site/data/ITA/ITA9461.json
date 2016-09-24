@@ -5,12 +5,13 @@
       1.1104, 
       1.238
     ], 
-    "gph": 685.9, 
     "triple_inshore": [
       0.6682, 
       0.9029, 
       1.0377
-    ]
+    ], 
+    "gph": 685.9, 
+    "osn": 667.1
   }, 
   "sailnumber": "ITA9461", 
   "name": "JOSHUA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.2, 
       "loa": 9.96, 
       "draft": 1.94, 
+      "wetted_surface": 20.4, 
       "main": 23.0, 
       "genoa": 31.6, 
       "displacement": 4089.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 427.0
     }, 
     "year": "1981"
   }, 

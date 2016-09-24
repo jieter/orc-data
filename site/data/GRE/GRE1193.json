@@ -5,12 +5,13 @@
       0.9889, 
       1.1517
     ], 
-    "gph": 779.4, 
     "triple_inshore": [
       0.56, 
       0.7862, 
       0.957
-    ]
+    ], 
+    "gph": 779.4, 
+    "osn": 752.7
   }, 
   "sailnumber": "GRE1193", 
   "name": "KYMO II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.1, 
       "draft": 1.69, 
+      "wetted_surface": 22.1, 
       "main": 17.2, 
       "genoa": 27.2, 
       "displacement": 4853.0, 
-      "spinnaker_asym": 53.0
+      "spinnaker_asym": 53.0, 
+      "crew": 300.0
     }, 
     "year": "1986"
   }, 

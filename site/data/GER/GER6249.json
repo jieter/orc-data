@@ -5,12 +5,13 @@
       1.2297, 
       1.4165
     ], 
-    "gph": 624.9, 
     "triple_inshore": [
       0.6975, 
       0.9776, 
       1.1722
-    ]
+    ], 
+    "gph": 624.9, 
+    "osn": 606.3
   }, 
   "sailnumber": "GER6249", 
   "name": "STUCHEL V", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 1.98, 
+      "wetted_surface": 35.9, 
       "main": 50.5, 
       "genoa": 30.9, 
       "displacement": 8638.0, 
-      "spinnaker_asym": 120.0
+      "spinnaker_asym": 120.0, 
+      "crew": 400.0
     }, 
     "year": "2005"
   }, 

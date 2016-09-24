@@ -5,12 +5,13 @@
       1.1497, 
       1.3021
     ], 
-    "gph": 664.4, 
     "triple_inshore": [
       0.6767, 
       0.9286, 
       1.0877
-    ]
+    ], 
+    "gph": 664.4, 
+    "osn": 645.2
   }, 
   "sailnumber": "NED8175", 
   "name": "Tien-10", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.5, 
       "loa": 10.1, 
       "draft": 1.81, 
+      "wetted_surface": 24.0, 
       "main": 30.6, 
       "genoa": 31.4, 
       "displacement": 4721.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 520.0
     }, 
     "year": "1999"
   }, 

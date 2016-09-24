@@ -5,12 +5,13 @@
       1.2021, 
       1.3561
     ], 
-    "gph": 635.9, 
     "triple_inshore": [
       0.7062, 
       0.969, 
       1.1372
-    ]
+    ], 
+    "gph": 635.9, 
+    "osn": 617.8
   }, 
   "sailnumber": "FRA35242", 
   "name": "PETIT PRINCE 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.2, 
       "loa": 10.84, 
       "draft": 2.03, 
+      "wetted_surface": 27.4, 
       "main": 39.8, 
       "genoa": 31.2, 
       "displacement": 6296.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "2004"
   }, 

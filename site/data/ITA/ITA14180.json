@@ -5,12 +5,13 @@
       1.1562, 
       1.3409
     ], 
-    "gph": 663.7, 
     "triple_inshore": [
       0.6625, 
       0.926, 
       1.1238
-    ]
+    ], 
+    "gph": 663.7, 
+    "osn": 642.7
   }, 
   "sailnumber": "ITA14180", 
   "name": "CHIARO DI LUNA", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.6, 
       "loa": 10.944, 
       "draft": 2.1, 
+      "wetted_surface": 29.6, 
       "main": 36.7, 
       "genoa": 34.8, 
       "displacement": 6724.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "2002"
   }, 

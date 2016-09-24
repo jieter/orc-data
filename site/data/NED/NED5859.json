@@ -5,12 +5,13 @@
       1.1764, 
       1.3228
     ], 
-    "gph": 647.8, 
     "triple_inshore": [
       0.6991, 
       0.9537, 
       1.1064
-    ]
+    ], 
+    "gph": 647.8, 
+    "osn": 630.7
   }, 
   "sailnumber": "NED5859", 
   "name": "Vanilla", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.5, 
       "loa": 10.06, 
       "draft": 1.83, 
+      "wetted_surface": 24.5, 
       "main": 36.5, 
       "genoa": 33.3, 
       "displacement": 4751.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "1994"
   }, 

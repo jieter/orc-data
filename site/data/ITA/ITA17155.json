@@ -5,12 +5,13 @@
       1.2261, 
       1.4481
     ], 
-    "gph": 623.3, 
     "triple_inshore": [
       0.7091, 
       0.9806, 
       1.1566
-    ]
+    ], 
+    "gph": 623.3, 
+    "osn": 603.0
   }, 
   "sailnumber": "ITA17155", 
   "name": "ABBIDUBBI XL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.14, 
       "draft": 1.95, 
+      "wetted_surface": 22.1, 
       "main": 31.9, 
       "genoa": 25.9, 
       "displacement": 2985.0, 
-      "spinnaker_asym": 92.0
+      "spinnaker_asym": 92.0, 
+      "crew": 500.0
     }, 
     "year": "2013"
   }, 

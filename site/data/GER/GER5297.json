@@ -5,12 +5,13 @@
       1.1324, 
       1.2835
     ], 
-    "gph": 676.4, 
     "triple_inshore": [
       0.6548, 
       0.8968, 
       1.0557
-    ]
+    ], 
+    "gph": 676.4, 
+    "osn": 658.0
   }, 
   "sailnumber": "GER5297", 
   "name": "TIMPE TE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.005, 
       "draft": 1.85, 
+      "wetted_surface": 28.7, 
       "main": 37.8, 
       "genoa": 28.7, 
       "displacement": 6321.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 320.0
     }, 
     "year": "1994"
   }, 

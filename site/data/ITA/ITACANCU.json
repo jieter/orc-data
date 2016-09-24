@@ -5,12 +5,13 @@
       1.0568, 
       1.2195
     ], 
-    "gph": 725.4, 
     "triple_inshore": [
       0.6057, 
       0.8471, 
       1.0206
-    ]
+    ], 
+    "gph": 725.4, 
+    "osn": 703.8
   }, 
   "sailnumber": "ITACANCU", 
   "name": "CANCUN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.75, 
       "draft": 1.93, 
+      "wetted_surface": 27.0, 
       "main": 29.7, 
       "genoa": 42.6, 
       "displacement": 6948.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "1972"
   }, 

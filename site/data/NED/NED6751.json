@@ -5,12 +5,13 @@
       1.1585, 
       1.3171
     ], 
-    "gph": 658.5, 
     "triple_inshore": [
       0.6839, 
       0.9277, 
       1.1007
-    ]
+    ], 
+    "gph": 658.5, 
+    "osn": 640.3
   }, 
   "sailnumber": "NED6751", 
   "name": "LEMMIKKI", 
@@ -25,10 +26,12 @@
       "spinnaker": 123.9, 
       "loa": 11.89, 
       "draft": 1.89, 
+      "wetted_surface": 32.7, 
       "main": 31.8, 
       "genoa": 54.2, 
       "displacement": 9763.0, 
-      "spinnaker_asym": 124.0
+      "spinnaker_asym": 124.0, 
+      "crew": 674.0
     }, 
     "year": "1981"
   }, 

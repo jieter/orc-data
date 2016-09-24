@@ -5,12 +5,13 @@
       1.3222, 
       1.544
     ], 
-    "gph": 583.6, 
     "triple_inshore": [
       0.7329, 
       1.0427, 
       1.2707
-    ]
+    ], 
+    "gph": 583.6, 
+    "osn": 565.9
   }, 
   "sailnumber": "ITA16680", 
   "name": "THULE-KERMESSE", 
@@ -25,10 +26,12 @@
       "spinnaker": 147.2, 
       "loa": 14.915, 
       "draft": 2.32, 
+      "wetted_surface": 46.3, 
       "main": 58.1, 
       "genoa": 67.8, 
       "displacement": 12897.0, 
-      "spinnaker_asym": 122.0
+      "spinnaker_asym": 122.0, 
+      "crew": 630.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.202, 
       1.3552
     ], 
-    "gph": 635.1, 
     "triple_inshore": [
       0.7082, 
       0.9667, 
       1.1293
-    ]
+    ], 
+    "gph": 635.1, 
+    "osn": 618.0
   }, 
   "sailnumber": "ESP8111", 
   "name": "BLUE FERRARI 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.8, 
       "loa": 10.972, 
       "draft": 1.98, 
+      "wetted_surface": 28.4, 
       "main": 43.5, 
       "genoa": 32.9, 
       "displacement": 6411.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2001"
   }, 

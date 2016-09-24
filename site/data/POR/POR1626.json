@@ -5,12 +5,13 @@
       1.2243, 
       1.3773
     ], 
-    "gph": 622.1, 
     "triple_inshore": [
       0.7301, 
       0.9959, 
       1.1564
-    ]
+    ], 
+    "gph": 622.1, 
+    "osn": 605.5
   }, 
   "sailnumber": "POR1626", 
   "name": "CONTRASTES", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.4, 
       "loa": 10.64, 
       "draft": 2.22, 
+      "wetted_surface": 26.1, 
       "main": 41.3, 
       "genoa": 38.0, 
       "displacement": 5410.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2001"
   }, 

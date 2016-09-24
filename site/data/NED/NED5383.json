@@ -5,12 +5,13 @@
       1.1827, 
       1.3472
     ], 
-    "gph": 647.1, 
     "triple_inshore": [
       0.6878, 
       0.9499, 
       1.1251
-    ]
+    ], 
+    "gph": 647.1, 
+    "osn": 628.3
   }, 
   "sailnumber": "NED5383", 
   "name": "KUNST & VLIEGWERK", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.1, 
       "loa": 11.121, 
       "draft": 1.95, 
+      "wetted_surface": 28.2, 
       "main": 37.2, 
       "genoa": 37.1, 
       "displacement": 6491.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1993"
   }, 

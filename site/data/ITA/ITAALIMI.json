@@ -5,12 +5,13 @@
       1.0567, 
       1.2367
     ], 
-    "gph": 730.8, 
     "triple_inshore": [
       0.5842, 
       0.836, 
       1.0213
-    ]
+    ], 
+    "gph": 730.8, 
+    "osn": 707.5
   }, 
   "sailnumber": "ITAALIMI", 
   "name": "ALICE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.97, 
       "draft": 1.53, 
+      "wetted_surface": 25.5, 
       "main": 26.4, 
       "genoa": 38.6, 
       "displacement": 6006.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1999"
   }, 

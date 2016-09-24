@@ -5,12 +5,13 @@
       1.1834, 
       1.3277
     ], 
-    "gph": 642.7, 
     "triple_inshore": [
       0.7083, 
       0.9617, 
       1.1147
-    ]
+    ], 
+    "gph": 642.7, 
+    "osn": 626.6
   }, 
   "sailnumber": "NED6732", 
   "name": "GRAPHIX", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.3, 
       "loa": 10.06, 
       "draft": 1.84, 
+      "wetted_surface": 24.5, 
       "main": 36.2, 
       "genoa": 36.3, 
       "displacement": 4769.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 611.0
     }, 
     "year": "1994"
   }, 

@@ -5,12 +5,13 @@
       1.1648, 
       1.3465
     ], 
-    "gph": 660.2, 
     "triple_inshore": [
       0.6529, 
       0.9237, 
       1.1149
-    ]
+    ], 
+    "gph": 660.2, 
+    "osn": 641.9
   }, 
   "sailnumber": "NOR13443", 
   "name": "TY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.93, 
       "draft": 1.87, 
+      "wetted_surface": 32.7, 
       "main": 41.1, 
       "genoa": 45.6, 
       "displacement": 8200.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 771.0
     }, 
     "year": "2004"
   }, 

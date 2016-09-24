@@ -5,12 +5,13 @@
       1.1883, 
       1.3707
     ], 
-    "gph": 645.3, 
     "triple_inshore": [
       0.6813, 
       0.9426, 
       1.1317
-    ]
+    ], 
+    "gph": 645.3, 
+    "osn": 626.5
   }, 
   "sailnumber": "GER5476", 
   "name": "LUCKY SPIRIT", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.6, 
       "loa": 11.99, 
       "draft": 1.76, 
+      "wetted_surface": 33.1, 
       "main": 39.7, 
       "genoa": 45.4, 
       "displacement": 8595.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "2000"
   }, 

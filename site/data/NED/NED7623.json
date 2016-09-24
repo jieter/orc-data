@@ -5,12 +5,13 @@
       1.2591, 
       1.4294
     ], 
-    "gph": 607.0, 
     "triple_inshore": [
       0.739, 
       1.0193, 
       1.186
-    ]
+    ], 
+    "gph": 607.0, 
+    "osn": 589.2
   }, 
   "sailnumber": "NED7623", 
   "name": "Intention", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.0, 
       "loa": 10.98, 
       "draft": 2.25, 
+      "wetted_surface": 26.1, 
       "main": 37.0, 
       "genoa": 31.0, 
       "displacement": 4533.0, 
-      "spinnaker_asym": 92.0
+      "spinnaker_asym": 92.0, 
+      "crew": 680.0
     }, 
     "year": "1997"
   }, 

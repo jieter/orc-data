@@ -5,12 +5,13 @@
       1.0014, 
       1.1344
     ], 
-    "gph": 763.3, 
     "triple_inshore": [
       0.5917, 
       0.8099, 
       0.9515
-    ]
+    ], 
+    "gph": 763.3, 
+    "osn": 740.2
   }, 
   "sailnumber": "FRA24444", 
   "name": "CAVEJE 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 52.4, 
       "loa": 8.248, 
       "draft": 1.68, 
+      "wetted_surface": 16.6, 
       "main": 15.0, 
       "genoa": 23.5, 
       "displacement": 3019.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 365.0
     }, 
     "year": "1973"
   }, 

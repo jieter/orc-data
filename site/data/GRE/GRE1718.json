@@ -5,12 +5,13 @@
       1.0558, 
       1.2825
     ], 
-    "gph": 732.9, 
     "triple_inshore": [
       0.5687, 
       0.8286, 
       1.0531
-    ]
+    ], 
+    "gph": 732.9, 
+    "osn": 707.8
   }, 
   "sailnumber": "GRE1718", 
   "name": "ANDROMEDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.84, 
       "draft": 1.7, 
+      "wetted_surface": 35.5, 
       "main": 31.3, 
       "genoa": 43.5, 
       "displacement": 10290.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2000"
   }, 

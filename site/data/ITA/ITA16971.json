@@ -5,12 +5,13 @@
       1.1814, 
       1.3493
     ], 
-    "gph": 647.1, 
     "triple_inshore": [
       0.691, 
       0.95, 
       1.1142
-    ]
+    ], 
+    "gph": 647.1, 
+    "osn": 627.4
   }, 
   "sailnumber": "ITA16971", 
   "name": "CHEREN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.74, 
       "draft": 1.9, 
+      "wetted_surface": 22.6, 
       "main": 30.8, 
       "genoa": 21.6, 
       "displacement": 3900.0, 
-      "spinnaker_asym": 77.0
+      "spinnaker_asym": 77.0, 
+      "crew": 400.0
     }, 
     "year": "2013"
   }, 

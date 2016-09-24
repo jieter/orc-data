@@ -5,12 +5,13 @@
       1.0396, 
       1.198
     ], 
-    "gph": 746.0, 
     "triple_inshore": [
       0.5755, 
       0.8291, 
       0.9939
-    ]
+    ], 
+    "gph": 746.0, 
+    "osn": 718.6
   }, 
   "sailnumber": "NED1870", 
   "name": "De Wiekslag", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.4, 
       "loa": 9.253, 
       "draft": 1.93, 
+      "wetted_surface": 17.4, 
       "main": 14.4, 
       "genoa": 23.3, 
       "displacement": 2381.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 532.0
     }, 
     "year": "1960"
   }, 

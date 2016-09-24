@@ -5,12 +5,13 @@
       1.0811, 
       1.2321
     ], 
-    "gph": 706.7, 
     "triple_inshore": [
       0.6341, 
       0.8585, 
       1.0208
-    ]
+    ], 
+    "gph": 706.7, 
+    "osn": 687.0
   }, 
   "sailnumber": "NED459", 
   "name": "Sara-Mia", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.1, 
       "loa": 11.018, 
       "draft": 1.58, 
+      "wetted_surface": 31.1, 
       "main": 35.8, 
       "genoa": 35.5, 
       "displacement": 9553.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 610.0
     }, 
     "year": "1952"
   }, 

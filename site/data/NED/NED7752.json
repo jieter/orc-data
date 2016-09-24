@@ -5,12 +5,13 @@
       1.1131, 
       1.2644
     ], 
-    "gph": 688.0, 
     "triple_inshore": [
       0.6443, 
       0.883, 
       1.0368
-    ]
+    ], 
+    "gph": 688.0, 
+    "osn": 669.3
   }, 
   "sailnumber": "NED7752", 
   "name": "Baloega", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.1, 
       "draft": 1.41, 
+      "wetted_surface": 23.6, 
       "main": 32.5, 
       "genoa": 23.7, 
       "displacement": 4587.0, 
-      "spinnaker_asym": 54.0
+      "spinnaker_asym": 54.0, 
+      "crew": 425.0
     }, 
     "year": "1999"
   }, 

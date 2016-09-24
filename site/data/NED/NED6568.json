@@ -5,12 +5,13 @@
       1.1677, 
       1.322
     ], 
-    "gph": 653.1, 
     "triple_inshore": [
       0.6923, 
       0.9473, 
       1.1135
-    ]
+    ], 
+    "gph": 653.1, 
+    "osn": 634.4
   }, 
   "sailnumber": "NED6568", 
   "name": "Chickx", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.3, 
       "loa": 11.022, 
       "draft": 2.02, 
+      "wetted_surface": 25.3, 
       "main": 40.1, 
       "genoa": 23.4, 
       "displacement": 5558.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 591.0
     }, 
     "year": "1987"
   }, 

@@ -5,12 +5,13 @@
       1.3155, 
       1.5293
     ], 
-    "gph": 585.9, 
     "triple_inshore": [
       0.7387, 
       1.0327, 
       1.2493
-    ]
+    ], 
+    "gph": 585.9, 
+    "osn": 568.0
   }, 
   "sailnumber": "GER7011", 
   "name": "SARABANDE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 16.122, 
       "draft": 2.43, 
+      "wetted_surface": 62.9, 
       "main": 69.4, 
       "genoa": 58.5, 
       "displacement": 22986.0, 
-      "spinnaker_asym": 201.0
+      "spinnaker_asym": 201.0, 
+      "crew": 600.0
     }, 
     "year": "2010"
   }, 

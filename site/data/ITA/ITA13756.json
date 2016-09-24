@@ -5,12 +5,13 @@
       1.1371, 
       1.2928
     ], 
-    "gph": 673.3, 
     "triple_inshore": [
       0.6653, 
       0.9201, 
       1.0806
-    ]
+    ], 
+    "gph": 673.3, 
+    "osn": 652.2
   }, 
   "sailnumber": "ITA13756", 
   "name": "SPIRIT OF RED MULLET", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.0, 
       "loa": 9.5, 
       "draft": 1.93, 
+      "wetted_surface": 22.3, 
       "main": 26.3, 
       "genoa": 29.0, 
       "displacement": 3935.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 585.0
     }, 
     "year": "1998"
   }, 

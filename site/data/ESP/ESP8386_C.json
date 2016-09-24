@@ -5,12 +5,13 @@
       1.0797, 
       1.2611
     ], 
-    "gph": 712.1, 
     "triple_inshore": [
       0.6099, 
       0.8485, 
       1.0347
-    ]
+    ], 
+    "gph": 712.1, 
+    "osn": 690.3
   }, 
   "sailnumber": "ESP8386_C", 
   "name": "INFINITO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.18, 
       "draft": 1.78, 
+      "wetted_surface": 25.5, 
       "main": 25.0, 
       "genoa": 20.2, 
       "displacement": 5296.0, 
-      "spinnaker_asym": 73.0
+      "spinnaker_asym": 73.0, 
+      "crew": 350.0
     }, 
     "year": "2005"
   }, 

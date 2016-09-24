@@ -5,12 +5,13 @@
       1.1998, 
       1.3551
     ], 
-    "gph": 635.4, 
     "triple_inshore": [
       0.7142, 
       0.9764, 
       1.1393
-    ]
+    ], 
+    "gph": 635.4, 
+    "osn": 617.1
   }, 
   "sailnumber": "BRA2466", 
   "name": "FLASH BEST FELLOW", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.7, 
       "loa": 10.062, 
       "draft": 1.93, 
+      "wetted_surface": 25.5, 
       "main": 36.9, 
       "genoa": 31.7, 
       "displacement": 5044.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 655.0
     }, 
     "year": "2013"
   }, 

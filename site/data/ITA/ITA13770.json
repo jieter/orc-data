@@ -5,12 +5,13 @@
       1.267, 
       1.4296
     ], 
-    "gph": 602.5, 
     "triple_inshore": [
       0.7466, 
       1.0226, 
       1.1966
-    ]
+    ], 
+    "gph": 602.5, 
+    "osn": 586.1
   }, 
   "sailnumber": "ITA13770", 
   "name": "ALBA BLU", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.5, 
       "loa": 11.924, 
       "draft": 2.43, 
+      "wetted_surface": 31.7, 
       "main": 46.8, 
       "genoa": 49.9, 
       "displacement": 7456.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 720.0
     }, 
     "year": "1997"
   }, 

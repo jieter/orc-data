@@ -5,12 +5,13 @@
       1.1726, 
       1.3257
     ], 
-    "gph": 651.3, 
     "triple_inshore": [
       0.6918, 
       0.9506, 
       1.1098
-    ]
+    ], 
+    "gph": 651.3, 
+    "osn": 632.5
   }, 
   "sailnumber": "NOR9899", 
   "name": "Drom", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.9, 
       "loa": 10.06, 
       "draft": 1.83, 
+      "wetted_surface": 24.4, 
       "main": 37.6, 
       "genoa": 23.2, 
       "displacement": 4622.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 612.0
     }, 
     "year": "1994"
   }, 

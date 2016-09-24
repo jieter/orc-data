@@ -5,12 +5,13 @@
       1.2837, 
       1.4791
     ], 
-    "gph": 597.0, 
     "triple_inshore": [
       0.7396, 
       1.0258, 
       1.238
-    ]
+    ], 
+    "gph": 597.0, 
+    "osn": 579.2
   }, 
   "sailnumber": "GER6023", 
   "name": "VETO", 
@@ -25,10 +26,12 @@
       "spinnaker": 135.2, 
       "loa": 13.33, 
       "draft": 2.4, 
+      "wetted_surface": 42.3, 
       "main": 55.2, 
       "genoa": 57.0, 
       "displacement": 12980.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2004"
   }, 

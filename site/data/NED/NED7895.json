@@ -5,12 +5,13 @@
       1.1646, 
       1.3147
     ], 
-    "gph": 655.3, 
     "triple_inshore": [
       0.6902, 
       0.948, 
       1.1034
-    ]
+    ], 
+    "gph": 655.3, 
+    "osn": 636.1
   }, 
   "sailnumber": "NED7895", 
   "name": "Lucifer", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.7, 
       "loa": 9.503, 
       "draft": 1.96, 
+      "wetted_surface": 21.9, 
       "main": 34.2, 
       "genoa": 22.3, 
       "displacement": 3860.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 562.0
     }, 
     "year": "1994"
   }, 

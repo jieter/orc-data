@@ -5,12 +5,13 @@
       1.1711, 
       1.3197
     ], 
-    "gph": 648.2, 
     "triple_inshore": [
       0.7073, 
       0.9499, 
       1.0846
-    ]
+    ], 
+    "gph": 648.2, 
+    "osn": 630.6
   }, 
   "sailnumber": "NED6710", 
   "name": "Jottem", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.14, 
       "draft": 1.82, 
+      "wetted_surface": 18.6, 
       "main": 28.0, 
       "genoa": 19.0, 
       "displacement": 2643.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 508.0
     }, 
     "year": "1992"
   }, 

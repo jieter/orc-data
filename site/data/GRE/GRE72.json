@@ -5,12 +5,13 @@
       1.2532, 
       1.403
     ], 
-    "gph": 606.1, 
     "triple_inshore": [
       0.7557, 
       1.0205, 
       1.1697
-    ]
+    ], 
+    "gph": 606.1, 
+    "osn": 591.0
   }, 
   "sailnumber": "GRE72", 
   "name": "GANT", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.0, 
       "loa": 10.6, 
       "draft": 2.17, 
+      "wetted_surface": 24.4, 
       "main": 42.6, 
       "genoa": 32.3, 
       "displacement": 4479.0, 
-      "spinnaker_asym": 78.0
+      "spinnaker_asym": 78.0, 
+      "crew": 650.0
     }, 
     "year": "2005"
   }, 

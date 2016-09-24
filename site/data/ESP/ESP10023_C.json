@@ -5,12 +5,13 @@
       1.2636, 
       1.4254
     ], 
-    "gph": 605.5, 
     "triple_inshore": [
       0.7326, 
       1.0027, 
       1.1652
-    ]
+    ], 
+    "gph": 605.5, 
+    "osn": 590.5
   }, 
   "sailnumber": "ESP10023_C", 
   "name": "ESTEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 2.08, 
+      "wetted_surface": 35.1, 
       "main": 45.8, 
       "genoa": 56.0, 
       "displacement": 7771.0, 
-      "spinnaker_asym": 111.0
+      "spinnaker_asym": 111.0, 
+      "crew": 280.0
     }, 
     "year": "2011"
   }, 

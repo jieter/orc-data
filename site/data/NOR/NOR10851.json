@@ -5,12 +5,13 @@
       1.2585, 
       1.423
     ], 
-    "gph": 607.4, 
     "triple_inshore": [
       0.738, 
       1.0075, 
       1.1749
-    ]
+    ], 
+    "gph": 607.4, 
+    "osn": 590.0
   }, 
   "sailnumber": "NOR10851", 
   "name": "Nirvana", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.98, 
       "draft": 2.11, 
+      "wetted_surface": 32.9, 
       "main": 50.8, 
       "genoa": 35.6, 
       "displacement": 7746.0, 
-      "spinnaker_asym": 107.0
+      "spinnaker_asym": 107.0, 
+      "crew": 797.0
     }, 
     "year": "2001"
   }, 

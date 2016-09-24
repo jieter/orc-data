@@ -5,12 +5,13 @@
       1.1894, 
       1.353
     ], 
-    "gph": 645.1, 
     "triple_inshore": [
       0.687, 
       0.9504, 
       1.1163
-    ]
+    ], 
+    "gph": 645.1, 
+    "osn": 625.1
   }, 
   "sailnumber": "ITA15793", 
   "name": "MAAYAAFUSHI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.69, 
       "draft": 2.1, 
+      "wetted_surface": 28.1, 
       "main": 32.1, 
       "genoa": 35.3, 
       "displacement": 5651.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 470.0
     }, 
     "year": "2007"
   }, 

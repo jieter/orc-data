@@ -5,12 +5,13 @@
       1.0823, 
       1.2385
     ], 
-    "gph": 707.9, 
     "triple_inshore": [
       0.6258, 
       0.8679, 
       1.031
-    ]
+    ], 
+    "gph": 707.9, 
+    "osn": 687.3
   }, 
   "sailnumber": "NED8515", 
   "name": "Boekanier", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.7, 
       "loa": 10.112, 
       "draft": 1.5, 
+      "wetted_surface": 22.4, 
       "main": 29.5, 
       "genoa": 21.4, 
       "displacement": 4343.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 536.0
     }, 
     "year": "1985"
   }, 

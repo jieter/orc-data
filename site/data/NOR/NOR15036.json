@@ -5,12 +5,13 @@
       1.3391, 
       1.5184
     ], 
-    "gph": 565.9, 
     "triple_inshore": [
       0.7936, 
       1.0724, 
       1.2494
-    ]
+    ], 
+    "gph": 565.9, 
+    "osn": 554.7
   }, 
   "sailnumber": "NOR15036", 
   "name": "Kraftkar", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.95, 
       "draft": 2.34, 
+      "wetted_surface": 33.2, 
       "main": 51.8, 
       "genoa": 38.8, 
       "displacement": 6953.0, 
-      "spinnaker_asym": 140.0
+      "spinnaker_asym": 140.0, 
+      "crew": 773.0
     }, 
     "year": "2012"
   }, 

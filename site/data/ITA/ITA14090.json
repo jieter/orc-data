@@ -5,12 +5,13 @@
       1.2633, 
       1.441
     ], 
-    "gph": 603.9, 
     "triple_inshore": [
       0.7461, 
       1.0285, 
       1.1954
-    ]
+    ], 
+    "gph": 603.9, 
+    "osn": 585.8
   }, 
   "sailnumber": "ITA14090", 
   "name": "SCHEGGIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.7, 
       "loa": 9.99, 
       "draft": 2.55, 
+      "wetted_surface": 22.1, 
       "main": 40.1, 
       "genoa": 25.9, 
       "displacement": 3350.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 530.0
     }, 
     "year": "1997"
   }, 

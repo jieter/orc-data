@@ -5,12 +5,13 @@
       1.2235, 
       1.3947
     ], 
-    "gph": 625.8, 
     "triple_inshore": [
       0.7094, 
       0.9805, 
       1.1566
-    ]
+    ], 
+    "gph": 625.8, 
+    "osn": 607.5
   }, 
   "sailnumber": "GER6100", 
   "name": "PENTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.9, 
       "loa": 11.833, 
       "draft": 1.95, 
+      "wetted_surface": 33.0, 
       "main": 42.9, 
       "genoa": 44.4, 
       "displacement": 7388.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 690.0
     }, 
     "year": "2006"
   }, 

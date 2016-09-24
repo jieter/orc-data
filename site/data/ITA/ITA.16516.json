@@ -5,12 +5,13 @@
       1.2522, 
       1.4039
     ], 
-    "gph": 606.7, 
     "triple_inshore": [
       0.7547, 
       1.0214, 
       1.1745
-    ]
+    ], 
+    "gph": 606.7, 
+    "osn": 591.4
   }, 
   "sailnumber": "ITA.16516", 
   "name": "EXTREMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.3, 
       "loa": 10.6, 
       "draft": 2.18, 
+      "wetted_surface": 24.6, 
       "main": 42.6, 
       "genoa": 32.9, 
       "displacement": 4601.0, 
-      "spinnaker_asym": 72.0
+      "spinnaker_asym": 72.0, 
+      "crew": 660.0
     }, 
     "year": "2005"
   }, 

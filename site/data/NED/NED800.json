@@ -5,12 +5,13 @@
       1.086, 
       1.2112
     ], 
-    "gph": 699.2, 
     "triple_inshore": [
       0.6561, 
       0.8775, 
       1.0045
-    ]
+    ], 
+    "gph": 699.2, 
+    "osn": 681.9
   }, 
   "sailnumber": "NED800", 
   "name": "Winner 8", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.0, 
       "draft": 1.51, 
+      "wetted_surface": 18.0, 
       "main": 26.4, 
       "genoa": 18.0, 
       "displacement": 2754.0, 
-      "spinnaker_asym": 63.0
+      "spinnaker_asym": 63.0, 
+      "crew": 454.0
     }, 
     "year": "2014"
   }, 

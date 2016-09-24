@@ -5,12 +5,13 @@
       1.2939, 
       1.4666
     ], 
-    "gph": 590.3, 
     "triple_inshore": [
       0.7612, 
       1.0464, 
       1.2213
-    ]
+    ], 
+    "gph": 590.3, 
+    "osn": 573.5
   }, 
   "sailnumber": "GRE1880", 
   "name": "APIDALOS NAFS", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.0, 
       "loa": 12.1, 
       "draft": 2.4, 
+      "wetted_surface": 30.4, 
       "main": 50.4, 
       "genoa": 37.4, 
       "displacement": 6279.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "2000"
   }, 

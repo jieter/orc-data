@@ -5,12 +5,13 @@
       1.1696, 
       1.3214
     ], 
-    "gph": 653.3, 
     "triple_inshore": [
       0.6873, 
       0.9423, 
       1.1028
-    ]
+    ], 
+    "gph": 653.3, 
+    "osn": 635.0
   }, 
   "sailnumber": "FIN10314", 
   "name": "Ilmarinen", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.7, 
       "loa": 10.3, 
       "draft": 1.96, 
+      "wetted_surface": 25.6, 
       "main": 34.9, 
       "genoa": 34.7, 
       "displacement": 5458.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "2003"
   }, 

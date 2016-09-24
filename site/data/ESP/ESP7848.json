@@ -5,12 +5,13 @@
       1.3031, 
       1.4787
     ], 
-    "gph": 587.4, 
     "triple_inshore": [
       0.7558, 
       1.0441, 
       1.2334
-    ]
+    ], 
+    "gph": 587.4, 
+    "osn": 571.3
   }, 
   "sailnumber": "ESP7848", 
   "name": "SOMNI", 
@@ -25,10 +26,12 @@
       "spinnaker": 120.9, 
       "loa": 12.95, 
       "draft": 2.36, 
+      "wetted_surface": 37.6, 
       "main": 54.6, 
       "genoa": 57.6, 
       "displacement": 9713.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "2005"
   }, 

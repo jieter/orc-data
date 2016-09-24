@@ -5,12 +5,13 @@
       1.2441, 
       1.4125
     ], 
-    "gph": 614.2, 
     "triple_inshore": [
       0.7299, 
       1.0011, 
       1.1792
-    ]
+    ], 
+    "gph": 614.2, 
+    "osn": 596.8
   }, 
   "sailnumber": "NED4961", 
   "name": "FARSIDE XL", 
@@ -25,10 +26,12 @@
       "spinnaker": 115.4, 
       "loa": 12.52, 
       "draft": 2.22, 
+      "wetted_surface": 32.0, 
       "main": 41.2, 
       "genoa": 48.6, 
       "displacement": 7807.0, 
-      "spinnaker_asym": 102.0
+      "spinnaker_asym": 102.0, 
+      "crew": 650.0
     }, 
     "year": "1994"
   }, 

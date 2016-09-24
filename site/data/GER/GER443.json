@@ -5,12 +5,13 @@
       1.2594, 
       1.4034
     ], 
-    "gph": 600.5, 
     "triple_inshore": [
       0.7686, 
       1.021, 
       1.1722
-    ]
+    ], 
+    "gph": 600.5, 
+    "osn": 588.0
   }, 
   "sailnumber": "GER443", 
   "name": "UNIVERSITAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.9, 
       "loa": 12.079, 
       "draft": 2.27, 
+      "wetted_surface": 26.0, 
       "main": 52.0, 
       "genoa": 44.6, 
       "displacement": 5443.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 648.0
     }, 
     "year": "1988"
   }, 

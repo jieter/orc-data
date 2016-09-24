@@ -5,12 +5,13 @@
       1.0364, 
       1.1767
     ], 
-    "gph": 732.9, 
     "triple_inshore": [
       0.621, 
       0.844, 
       0.9683
-    ]
+    ], 
+    "gph": 732.9, 
+    "osn": 712.9
   }, 
   "sailnumber": "SUI4741", 
   "name": "CAROLINE", 
@@ -25,10 +26,12 @@
       "spinnaker": 36.1, 
       "loa": 7.313, 
       "draft": 1.23, 
+      "wetted_surface": 12.2, 
       "main": 15.5, 
       "genoa": 18.5, 
       "displacement": 1354.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1977"
   }, 

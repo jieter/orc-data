@@ -5,12 +5,13 @@
       1.1805, 
       1.3823
     ], 
-    "gph": 656.1, 
     "triple_inshore": [
       0.6503, 
       0.9262, 
       1.1239
-    ]
+    ], 
+    "gph": 656.1, 
+    "osn": 634.0
   }, 
   "sailnumber": "ITA17161", 
   "name": "LORAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.59, 
       "draft": 2.11, 
+      "wetted_surface": 33.6, 
       "main": 41.2, 
       "genoa": 39.0, 
       "displacement": 8174.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 450.0
     }, 
     "year": "2006"
   }, 

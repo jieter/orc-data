@@ -5,12 +5,13 @@
       1.4037, 
       1.5798
     ], 
-    "gph": 540.4, 
     "triple_inshore": [
       0.8435, 
       1.1361, 
       1.3201
-    ]
+    ], 
+    "gph": 540.4, 
+    "osn": 527.5
   }, 
   "sailnumber": "ITA2945", 
   "name": "THETIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 152.1, 
       "loa": 13.829, 
       "draft": 2.84, 
+      "wetted_surface": 38.7, 
       "main": 78.3, 
       "genoa": 55.3, 
       "displacement": 10004.0, 
-      "spinnaker_asym": 151.0
+      "spinnaker_asym": 151.0, 
+      "crew": 935.0
     }, 
     "year": "2001"
   }, 

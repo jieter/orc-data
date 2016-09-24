@@ -5,12 +5,13 @@
       1.2865, 
       1.4484
     ], 
-    "gph": 594.0, 
     "triple_inshore": [
       0.7549, 
       1.0289, 
       1.1948
-    ]
+    ], 
+    "gph": 594.0, 
+    "osn": 578.2
   }, 
   "sailnumber": "ITA16335", 
   "name": "PROSPETTICA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.469, 
       "draft": 2.5, 
+      "wetted_surface": 34.1, 
       "main": 51.9, 
       "genoa": 43.3, 
       "displacement": 8041.0, 
-      "spinnaker_asym": 122.0
+      "spinnaker_asym": 122.0, 
+      "crew": 450.0
     }, 
     "year": "2005"
   }, 

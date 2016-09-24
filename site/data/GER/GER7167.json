@@ -5,12 +5,13 @@
       1.0374, 
       1.1898
     ], 
-    "gph": 740.6, 
     "triple_inshore": [
       0.5933, 
       0.8302, 
       0.9885
-    ]
+    ], 
+    "gph": 740.6, 
+    "osn": 718.0
   }, 
   "sailnumber": "GER7167", 
   "name": "CHARLOTTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 51.0, 
       "loa": 8.86, 
       "draft": 1.1, 
+      "wetted_surface": 18.7, 
       "main": 21.2, 
       "genoa": 18.7, 
       "displacement": 3004.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 455.0
     }, 
     "year": "1992"
   }, 

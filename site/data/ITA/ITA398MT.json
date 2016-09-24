@@ -5,12 +5,13 @@
       1.0855, 
       1.2345
     ], 
-    "gph": 682.3, 
     "triple_inshore": [
       0.7167, 
       0.8814, 
       1.0182
-    ]
+    ], 
+    "gph": 682.3, 
+    "osn": 670.4
   }, 
   "sailnumber": "ITA398MT", 
   "name": "LISKA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.5, 
       "draft": 1.6, 
+      "wetted_surface": 10.7, 
       "main": 24.7, 
       "genoa": 14.9, 
       "displacement": 900.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 200.0
     }, 
     "year": "1996"
   }, 

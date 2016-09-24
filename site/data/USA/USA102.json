@@ -5,12 +5,13 @@
       1.3743, 
       1.5812
     ], 
-    "gph": 540.3, 
     "triple_inshore": [
       0.9003, 
       1.1259, 
       1.3242
-    ]
+    ], 
+    "gph": 540.3, 
+    "osn": 528.7
   }, 
   "sailnumber": "USA102", 
   "name": "PAOLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.7, 
       "draft": 3.06, 
+      "wetted_surface": 19.5, 
       "main": 50.0, 
       "genoa": 35.1, 
       "displacement": 2343.0, 
-      "spinnaker_asym": 147.0
+      "spinnaker_asym": 147.0, 
+      "crew": 750.0
     }, 
     "year": "1995"
   }, 

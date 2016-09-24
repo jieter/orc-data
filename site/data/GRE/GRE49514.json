@@ -5,12 +5,13 @@
       1.0371, 
       1.1931
     ], 
-    "gph": 744.1, 
     "triple_inshore": [
       0.582, 
       0.8284, 
       0.9917
-    ]
+    ], 
+    "gph": 744.1, 
+    "osn": 719.9
   }, 
   "sailnumber": "GRE49514", 
   "name": "D.X.M.", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.75, 
       "draft": 1.72, 
+      "wetted_surface": 22.4, 
       "main": 23.9, 
       "genoa": 35.8, 
       "displacement": 4509.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 541.0
     }, 
     "year": "1986"
   }, 

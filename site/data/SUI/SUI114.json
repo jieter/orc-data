@@ -5,12 +5,13 @@
       1.2245, 
       1.3805
     ], 
-    "gph": 611.5, 
     "triple_inshore": [
       0.7723, 
       0.9813, 
       1.1266
-    ]
+    ], 
+    "gph": 611.5, 
+    "osn": 600.6
   }, 
   "sailnumber": "SUI114", 
   "name": "WOODWAY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.5, 
       "draft": 2.0, 
+      "wetted_surface": 14.9, 
       "main": 28.1, 
       "genoa": 17.5, 
       "displacement": 1236.0, 
-      "spinnaker_asym": 72.0
+      "spinnaker_asym": 72.0, 
+      "crew": 280.0
     }, 
     "year": "2004"
   }, 

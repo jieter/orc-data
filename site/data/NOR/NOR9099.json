@@ -5,12 +5,13 @@
       1.1574, 
       1.3126
     ], 
-    "gph": 660.2, 
     "triple_inshore": [
       0.6814, 
       0.9386, 
       1.1022
-    ]
+    ], 
+    "gph": 660.2, 
+    "osn": 640.6
   }, 
   "sailnumber": "NOR9099", 
   "name": "First One", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.7, 
       "loa": 9.798, 
       "draft": 2.09, 
+      "wetted_surface": 24.0, 
       "main": 30.9, 
       "genoa": 34.0, 
       "displacement": 4574.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 615.0
     }, 
     "year": "1996"
   }, 

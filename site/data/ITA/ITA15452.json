@@ -5,12 +5,13 @@
       1.1196, 
       1.2803
     ], 
-    "gph": 685.3, 
     "triple_inshore": [
       0.6475, 
       0.9029, 
       1.0709
-    ]
+    ], 
+    "gph": 685.3, 
+    "osn": 663.2
   }, 
   "sailnumber": "ITA15452", 
   "name": "SIF", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.6, 
       "loa": 9.44, 
       "draft": 1.98, 
+      "wetted_surface": 22.0, 
       "main": 25.3, 
       "genoa": 28.5, 
       "displacement": 4092.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 542.0
     }, 
     "year": "2001"
   }, 

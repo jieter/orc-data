@@ -5,12 +5,13 @@
       1.1702, 
       1.3126
     ], 
-    "gph": 652.1, 
     "triple_inshore": [
       0.6917, 
       0.9346, 
       1.0853
-    ]
+    ], 
+    "gph": 652.1, 
+    "osn": 635.0
   }, 
   "sailnumber": "GER6225", 
   "name": "JAZARA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.954, 
       "draft": 1.78, 
+      "wetted_surface": 26.4, 
       "main": 36.9, 
       "genoa": 28.3, 
       "displacement": 5796.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 480.0
     }, 
     "year": "1992"
   }, 

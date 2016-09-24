@@ -5,12 +5,13 @@
       1.325, 
       1.5156
     ], 
-    "gph": 577.0, 
     "triple_inshore": [
       0.7714, 
       1.0663, 
       1.2572
-    ]
+    ], 
+    "gph": 577.0, 
+    "osn": 560.8
   }, 
   "sailnumber": "ESP2525", 
   "name": "NUBA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 121.6, 
       "loa": 13.295, 
       "draft": 2.63, 
+      "wetted_surface": 32.1, 
       "main": 52.3, 
       "genoa": 53.9, 
       "displacement": 6972.0, 
-      "spinnaker_asym": 92.0
+      "spinnaker_asym": 92.0, 
+      "crew": 750.0
     }, 
     "year": "1985"
   }, 

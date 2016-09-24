@@ -5,12 +5,13 @@
       0.9496, 
       1.0914
     ], 
-    "gph": 809.9, 
     "triple_inshore": [
       0.5437, 
       0.7641, 
       0.9114
-    ]
+    ], 
+    "gph": 809.9, 
+    "osn": 783.5
   }, 
   "sailnumber": "ITAVOLVI", 
   "name": "VOLAVIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 41.2, 
       "loa": 7.54, 
       "draft": 1.52, 
+      "wetted_surface": 13.8, 
       "main": 10.8, 
       "genoa": 22.0, 
       "displacement": 2014.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1980"
   }, 

@@ -5,12 +5,13 @@
       1.2284, 
       1.3896
     ], 
-    "gph": 620.1, 
     "triple_inshore": [
       0.7322, 
       0.997, 
       1.1533
-    ]
+    ], 
+    "gph": 620.1, 
+    "osn": 602.8
   }, 
   "sailnumber": "ITA17033", 
   "name": "LA CAGE AUX FOLLES", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.3, 
       "loa": 9.991, 
       "draft": 1.92, 
+      "wetted_surface": 23.4, 
       "main": 35.1, 
       "genoa": 30.5, 
       "displacement": 4230.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 690.0
     }, 
     "year": "2011"
   }, 

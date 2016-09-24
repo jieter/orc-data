@@ -5,12 +5,13 @@
       1.0006, 
       1.1782
     ], 
-    "gph": 773.3, 
     "triple_inshore": [
       0.5521, 
       0.7986, 
       0.978
-    ]
+    ], 
+    "gph": 773.3, 
+    "osn": 745.7
   }, 
   "sailnumber": "NOR10338", 
   "name": "Jolly Good Feeling", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.1, 
       "draft": 1.41, 
+      "wetted_surface": 19.6, 
       "main": 18.9, 
       "genoa": 23.0, 
       "displacement": 3094.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 505.0
     }, 
     "year": "1999"
   }, 

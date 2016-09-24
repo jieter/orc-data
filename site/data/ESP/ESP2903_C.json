@@ -5,12 +5,13 @@
       1.2026, 
       1.347
     ], 
-    "gph": 628.1, 
     "triple_inshore": [
       0.7403, 
       0.9872, 
       1.1293
-    ]
+    ], 
+    "gph": 628.1, 
+    "osn": 612.7
   }, 
   "sailnumber": "ESP2903_C", 
   "name": "RIGEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.9, 
       "loa": 9.985, 
       "draft": 2.01, 
+      "wetted_surface": 17.4, 
       "main": 35.5, 
       "genoa": 26.2, 
       "displacement": 2920.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 440.0
     }, 
     "year": "1989"
   }, 

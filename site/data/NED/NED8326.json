@@ -5,12 +5,13 @@
       1.1261, 
       1.2937
     ], 
-    "gph": 680.9, 
     "triple_inshore": [
       0.6529, 
       0.9108, 
       1.0853
-    ]
+    ], 
+    "gph": 680.9, 
+    "osn": 658.5
   }, 
   "sailnumber": "NED8326", 
   "name": "Sea Dazzle", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.2, 
       "loa": 9.49, 
       "draft": 1.94, 
+      "wetted_surface": 22.4, 
       "main": 24.3, 
       "genoa": 25.7, 
       "displacement": 3919.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 589.0
     }, 
     "year": "1998"
   }, 

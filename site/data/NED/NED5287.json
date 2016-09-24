@@ -5,12 +5,13 @@
       1.0472, 
       1.212
     ], 
-    "gph": 734.1, 
     "triple_inshore": [
       0.5974, 
       0.8318, 
       1.0063
-    ]
+    ], 
+    "gph": 734.1, 
+    "osn": 710.5
   }, 
   "sailnumber": "NED5287", 
   "name": "BLACK RABBIT", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.7, 
       "loa": 10.44, 
       "draft": 1.91, 
+      "wetted_surface": 25.7, 
       "main": 22.6, 
       "genoa": 40.5, 
       "displacement": 6187.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 539.0
     }, 
     "year": "1980"
   }, 

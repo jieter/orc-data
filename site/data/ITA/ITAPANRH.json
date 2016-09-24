@@ -5,12 +5,13 @@
       1.2611, 
       1.4648
     ], 
-    "gph": 606.3, 
     "triple_inshore": [
       0.712, 
       0.9865, 
       1.2041
-    ]
+    ], 
+    "gph": 606.3, 
+    "osn": 593.9
   }, 
   "sailnumber": "ITAPANRH", 
   "name": "PANTA RHEI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.98, 
       "draft": 2.23, 
+      "wetted_surface": 40.8, 
       "main": 50.8, 
       "genoa": 49.1, 
       "displacement": 11255.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1998"
   }, 

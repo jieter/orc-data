@@ -5,12 +5,13 @@
       1.2456, 
       1.3953
     ], 
-    "gph": 612.4, 
     "triple_inshore": [
       0.7348, 
       0.9931, 
       1.1476
-    ]
+    ], 
+    "gph": 612.4, 
+    "osn": 597.3
   }, 
   "sailnumber": "NED4308", 
   "name": "RAFFICA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.785, 
       "draft": 1.96, 
+      "wetted_surface": 32.9, 
       "main": 46.7, 
       "genoa": 49.0, 
       "displacement": 7727.0, 
-      "spinnaker_asym": 119.0
+      "spinnaker_asym": 119.0, 
+      "crew": 510.0
     }, 
     "year": "1999"
   }, 

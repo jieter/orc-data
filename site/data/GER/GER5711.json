@@ -5,12 +5,13 @@
       1.2729, 
       1.4386
     ], 
-    "gph": 601.7, 
     "triple_inshore": [
       0.739, 
       1.0185, 
       1.182
-    ]
+    ], 
+    "gph": 601.7, 
+    "osn": 584.4
   }, 
   "sailnumber": "GER5711", 
   "name": "KREUTZ ASS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.11, 
       "draft": 2.2, 
+      "wetted_surface": 31.2, 
       "main": 44.4, 
       "genoa": 33.8, 
       "displacement": 6512.0, 
-      "spinnaker_asym": 125.0
+      "spinnaker_asym": 125.0, 
+      "crew": 670.0
     }, 
     "year": "2004"
   }, 

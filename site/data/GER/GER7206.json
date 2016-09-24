@@ -5,12 +5,13 @@
       1.2818, 
       1.4487
     ], 
-    "gph": 595.2, 
     "triple_inshore": [
       0.7594, 
       1.0357, 
       1.1887
-    ]
+    ], 
+    "gph": 595.2, 
+    "osn": 577.7
   }, 
   "sailnumber": "GER7206", 
   "name": "FRIDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.82, 
       "draft": 2.16, 
+      "wetted_surface": 26.0, 
       "main": 38.0, 
       "genoa": 31.3, 
       "displacement": 4750.0, 
-      "spinnaker_asym": 119.0
+      "spinnaker_asym": 119.0, 
+      "crew": 480.0
     }, 
     "year": "2013"
   }, 

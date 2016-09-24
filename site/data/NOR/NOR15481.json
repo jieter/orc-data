@@ -5,12 +5,13 @@
       1.158, 
       1.3187
     ], 
-    "gph": 661.4, 
     "triple_inshore": [
       0.6718, 
       0.9314, 
       1.1006
-    ]
+    ], 
+    "gph": 661.4, 
+    "osn": 641.4
   }, 
   "sailnumber": "NOR15481", 
   "name": "Willa W", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.34, 
       "draft": 1.94, 
+      "wetted_surface": 25.2, 
       "main": 32.3, 
       "genoa": 31.9, 
       "displacement": 5174.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 613.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       1.1826, 
       1.3679
     ], 
-    "gph": 649.6, 
     "triple_inshore": [
       0.6526, 
       0.9159, 
       1.1136
-    ]
+    ], 
+    "gph": 649.6, 
+    "osn": 637.3
   }, 
   "sailnumber": "GRE1756", 
   "name": "ADAGIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.0, 
       "draft": 2.01, 
+      "wetted_surface": 35.7, 
       "main": 45.8, 
       "genoa": 29.4, 
       "displacement": 8680.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "2010"
   }, 

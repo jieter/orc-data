@@ -5,12 +5,13 @@
       1.2822, 
       1.463
     ], 
-    "gph": 597.7, 
     "triple_inshore": [
       0.7404, 
       1.0285, 
       1.2139
-    ]
+    ], 
+    "gph": 597.7, 
+    "osn": 580.4
   }, 
   "sailnumber": "ESP10205", 
   "name": "MAVERTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.8, 
       "loa": 12.395, 
       "draft": 2.31, 
+      "wetted_surface": 32.8, 
       "main": 51.2, 
       "genoa": 37.2, 
       "displacement": 7480.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 805.0
     }, 
     "year": "2002"
   }, 

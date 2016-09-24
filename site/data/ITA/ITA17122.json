@@ -5,12 +5,13 @@
       1.2952, 
       1.502
     ], 
-    "gph": 595.8, 
     "triple_inshore": [
       0.7252, 
       1.0343, 
       1.2513
-    ]
+    ], 
+    "gph": 595.8, 
+    "osn": 575.9
   }, 
   "sailnumber": "ITA17122", 
   "name": "SKY FALL", 
@@ -25,10 +26,12 @@
       "spinnaker": 124.7, 
       "loa": 12.89, 
       "draft": 2.41, 
+      "wetted_surface": 38.6, 
       "main": 49.4, 
       "genoa": 40.6, 
       "displacement": 9033.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2012"
   }, 

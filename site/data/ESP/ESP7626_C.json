@@ -5,12 +5,13 @@
       1.2741, 
       1.462
     ], 
-    "gph": 603.5, 
     "triple_inshore": [
       0.7217, 
       1.0018, 
       1.1878
-    ]
+    ], 
+    "gph": 603.5, 
+    "osn": 586.8
   }, 
   "sailnumber": "ESP7626_C", 
   "name": "ALVEDRO II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.99, 
       "draft": 2.07, 
+      "wetted_surface": 44.6, 
       "main": 51.1, 
       "genoa": 66.1, 
       "displacement": 12325.0, 
-      "spinnaker_asym": 151.0
+      "spinnaker_asym": 151.0, 
+      "crew": 179.0
     }, 
     "year": "2005"
   }, 

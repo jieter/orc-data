@@ -5,12 +5,13 @@
       1.1867, 
       1.3625
     ], 
-    "gph": 646.8, 
     "triple_inshore": [
       0.6797, 
       0.9397, 
       1.1198
-    ]
+    ], 
+    "gph": 646.8, 
+    "osn": 627.7
   }, 
   "sailnumber": "NOR11921", 
   "name": "Silje", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.2, 
       "draft": 1.99, 
+      "wetted_surface": 34.4, 
       "main": 39.0, 
       "genoa": 47.3, 
       "displacement": 7992.0, 
-      "spinnaker_asym": 94.0
+      "spinnaker_asym": 94.0, 
+      "crew": 746.0
     }, 
     "year": "2004"
   }, 

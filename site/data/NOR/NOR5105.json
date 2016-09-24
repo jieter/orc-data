@@ -5,12 +5,13 @@
       1.0507, 
       1.1868
     ], 
-    "gph": 725.3, 
     "triple_inshore": [
       0.6284, 
       0.8558, 
       1.0033
-    ]
+    ], 
+    "gph": 725.3, 
+    "osn": 703.8
   }, 
   "sailnumber": "NOR5105", 
   "name": "EIR IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.2, 
       "loa": 9.35, 
       "draft": 1.73, 
+      "wetted_surface": 19.2, 
       "main": 26.0, 
       "genoa": 17.8, 
       "displacement": 3846.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1983"
   }, 

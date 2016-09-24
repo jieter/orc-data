@@ -5,12 +5,13 @@
       1.0214, 
       1.1562
     ], 
-    "gph": 744.6, 
     "triple_inshore": [
       0.6133, 
       0.8366, 
       0.9622
-    ]
+    ], 
+    "gph": 744.6, 
+    "osn": 722.0
   }, 
   "sailnumber": "ESP9899", 
   "name": "KRUSTY KRAB", 
@@ -25,10 +26,12 @@
       "spinnaker": 37.3, 
       "loa": 6.75, 
       "draft": 1.5, 
+      "wetted_surface": 13.4, 
       "main": 17.5, 
       "genoa": 15.2, 
       "displacement": 1459.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 340.0
     }, 
     "year": "1997"
   }, 

@@ -5,12 +5,13 @@
       1.3715, 
       1.5394
     ], 
-    "gph": 553.6, 
     "triple_inshore": [
       0.81, 
       1.1002, 
       1.2831
-    ]
+    ], 
+    "gph": 553.6, 
+    "osn": 543.0
   }, 
   "sailnumber": "ESP10250", 
   "name": "X MERIT", 
@@ -25,10 +26,12 @@
       "spinnaker": 143.2, 
       "loa": 13.98, 
       "draft": 2.67, 
+      "wetted_surface": 40.0, 
       "main": 64.6, 
       "genoa": 58.1, 
       "displacement": 10821.0, 
-      "spinnaker_asym": 170.0
+      "spinnaker_asym": 170.0, 
+      "crew": 650.0
     }, 
     "year": "2003"
   }, 

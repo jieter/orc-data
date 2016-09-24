@@ -5,12 +5,13 @@
       1.2071, 
       1.4298
     ], 
-    "gph": 642.3, 
     "triple_inshore": [
       0.6563, 
       0.9392, 
       1.1523
-    ]
+    ], 
+    "gph": 642.3, 
+    "osn": 620.9
   }, 
   "sailnumber": "CRO2062", 
   "name": "Marina Hramina 37", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.734, 
       "draft": 2.11, 
+      "wetted_surface": 46.4, 
       "main": 44.3, 
       "genoa": 47.5, 
       "displacement": 12600.0, 
-      "spinnaker_asym": 143.0
+      "spinnaker_asym": 143.0, 
+      "crew": 945.0
     }, 
     "year": "2014"
   }, 

@@ -5,12 +5,13 @@
       1.2161, 
       1.3908
     ], 
-    "gph": 628.9, 
     "triple_inshore": [
       0.7075, 
       0.9732, 
       1.1561
-    ]
+    ], 
+    "gph": 628.9, 
+    "osn": 610.9
   }, 
   "sailnumber": "NOR13590", 
   "name": "NN", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.3, 
       "loa": 12.84, 
       "draft": 1.92, 
+      "wetted_surface": 32.0, 
       "main": 38.9, 
       "genoa": 46.6, 
       "displacement": 7825.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 729.0
     }, 
     "year": "1996"
   }, 

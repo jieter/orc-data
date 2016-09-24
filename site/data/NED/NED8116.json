@@ -5,12 +5,13 @@
       1.2535, 
       1.4352
     ], 
-    "gph": 612.1, 
     "triple_inshore": [
       0.7208, 
       1.0054, 
       1.1939
-    ]
+    ], 
+    "gph": 612.1, 
+    "osn": 593.2
   }, 
   "sailnumber": "NED8116", 
   "name": "Horizon", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.8, 
       "loa": 12.2, 
       "draft": 2.12, 
+      "wetted_surface": 32.8, 
       "main": 48.8, 
       "genoa": 35.8, 
       "displacement": 7490.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 715.0
     }, 
     "year": "2009"
   }, 

@@ -5,12 +5,13 @@
       1.4717, 
       1.6723
     ], 
-    "gph": 520.0, 
     "triple_inshore": [
       0.8509, 
       1.1723, 
       1.3873
-    ]
+    ], 
+    "gph": 520.0, 
+    "osn": 506.6
   }, 
   "sailnumber": "ITA1951", 
   "name": "IL COLORE DEL VENTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 217.9, 
       "loa": 16.83, 
       "draft": 2.87, 
+      "wetted_surface": 55.5, 
       "main": 95.3, 
       "genoa": 96.5, 
       "displacement": 17503.0, 
-      "spinnaker_asym": 218.0
+      "spinnaker_asym": 218.0, 
+      "crew": 1088.0
     }, 
     "year": "2007"
   }, 

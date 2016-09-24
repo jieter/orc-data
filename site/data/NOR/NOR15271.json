@@ -5,12 +5,13 @@
       1.1202, 
       1.3078
     ], 
-    "gph": 672.7, 
     "triple_inshore": [
       0.6896, 
       0.8988, 
       1.0447
-    ]
+    ], 
+    "gph": 672.7, 
+    "osn": 654.1
   }, 
   "sailnumber": "NOR15271", 
   "name": "P.O Fykerten", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.5, 
       "draft": 1.3, 
+      "wetted_surface": 9.8, 
       "main": 17.8, 
       "genoa": 9.2, 
       "displacement": 683.0, 
-      "spinnaker_asym": 37.0
+      "spinnaker_asym": 37.0, 
+      "crew": 324.0
     }, 
     "year": "2003"
   }, 

@@ -5,12 +5,13 @@
       1.2083, 
       1.3599
     ], 
-    "gph": 631.7, 
     "triple_inshore": [
       0.7154, 
       0.9803, 
       1.1421
-    ]
+    ], 
+    "gph": 631.7, 
+    "osn": 614.2
   }, 
   "sailnumber": "ITA16354", 
   "name": "HAY LIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.9, 
       "loa": 10.64, 
       "draft": 2.22, 
+      "wetted_surface": 26.5, 
       "main": 38.8, 
       "genoa": 35.2, 
       "displacement": 5482.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2001"
   }, 

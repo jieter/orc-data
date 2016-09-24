@@ -5,12 +5,13 @@
       1.2339, 
       1.4461
     ], 
-    "gph": 624.6, 
     "triple_inshore": [
       0.6882, 
       0.9642, 
       1.1747
-    ]
+    ], 
+    "gph": 624.6, 
+    "osn": 606.1
   }, 
   "sailnumber": "ITA17192", 
   "name": "HOME IN THE WIND", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.73, 
       "draft": 2.25, 
+      "wetted_surface": 49.8, 
       "main": 51.6, 
       "genoa": 70.1, 
       "displacement": 16043.0, 
-      "spinnaker_asym": 140.0
+      "spinnaker_asym": 140.0, 
+      "crew": 350.0
     }, 
     "year": "2001"
   }, 

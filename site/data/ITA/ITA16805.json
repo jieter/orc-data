@@ -5,12 +5,13 @@
       1.3815, 
       1.5671
     ], 
-    "gph": 553.1, 
     "triple_inshore": [
       0.8063, 
       1.105, 
       1.2918
-    ]
+    ], 
+    "gph": 553.1, 
+    "osn": 538.9
   }, 
   "sailnumber": "ITA16805", 
   "name": "TAKE FIVE", 
@@ -25,10 +26,12 @@
       "spinnaker": 171.5, 
       "loa": 13.98, 
       "draft": 2.55, 
+      "wetted_surface": 41.7, 
       "main": 68.0, 
       "genoa": 58.9, 
       "displacement": 10241.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 950.0
     }, 
     "year": "2012"
   }, 

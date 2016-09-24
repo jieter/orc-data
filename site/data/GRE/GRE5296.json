@@ -5,12 +5,13 @@
       1.0981, 
       1.2341
     ], 
-    "gph": 694.5, 
     "triple_inshore": [
       0.6542, 
       0.8946, 
       1.0362
-    ]
+    ], 
+    "gph": 694.5, 
+    "osn": 674.7
   }, 
   "sailnumber": "GRE5296", 
   "name": "GLAFKI II", 
@@ -25,10 +26,12 @@
       "spinnaker": 48.4, 
       "loa": 9.5, 
       "draft": 1.8, 
+      "wetted_surface": 17.6, 
       "main": 27.8, 
       "genoa": 20.5, 
       "displacement": 2991.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 459.0
     }, 
     "year": "1979"
   }, 

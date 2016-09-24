@@ -5,12 +5,13 @@
       1.2051, 
       1.3533
     ], 
-    "gph": 631.0, 
     "triple_inshore": [
       0.722, 
       0.9791, 
       1.1318
-    ]
+    ], 
+    "gph": 631.0, 
+    "osn": 615.0
   }, 
   "sailnumber": "ITA15347", 
   "name": "SUAKIN II", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.4, 
       "loa": 9.982, 
       "draft": 1.99, 
+      "wetted_surface": 23.3, 
       "main": 35.6, 
       "genoa": 36.0, 
       "displacement": 4468.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 608.0
     }, 
     "year": "2006"
   }, 

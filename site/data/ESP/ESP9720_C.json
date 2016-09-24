@@ -5,12 +5,13 @@
       1.1723, 
       1.3587
     ], 
-    "gph": 655.3, 
     "triple_inshore": [
       0.6658, 
       0.924, 
       1.1066
-    ]
+    ], 
+    "gph": 655.3, 
+    "osn": 636.1
   }, 
   "sailnumber": "ESP9720_C", 
   "name": "BONADVENTURE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.36, 
       "draft": 1.74, 
+      "wetted_surface": 29.6, 
       "main": 31.5, 
       "genoa": 40.7, 
       "displacement": 6484.0, 
-      "spinnaker_asym": 85.0
+      "spinnaker_asym": 85.0, 
+      "crew": 480.0
     }, 
     "year": "2006"
   }, 

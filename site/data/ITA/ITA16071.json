@@ -5,12 +5,13 @@
       1.279, 
       1.4392
     ], 
-    "gph": 597.4, 
     "triple_inshore": [
       0.7561, 
       1.0381, 
       1.214
-    ]
+    ], 
+    "gph": 597.4, 
+    "osn": 579.6
   }, 
   "sailnumber": "ITA16071", 
   "name": "MAYDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 125.2, 
       "loa": 12.204, 
       "draft": 2.81, 
+      "wetted_surface": 31.9, 
       "main": 37.8, 
       "genoa": 52.7, 
       "displacement": 7511.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2007"
   }, 

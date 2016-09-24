@@ -5,12 +5,13 @@
       1.1737, 
       1.3186
     ], 
-    "gph": 649.8, 
     "triple_inshore": [
       0.6957, 
       0.9498, 
       1.0993
-    ]
+    ], 
+    "gph": 649.8, 
+    "osn": 632.7
   }, 
   "sailnumber": "FRA18828", 
   "name": "ELIXIR", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.1, 
       "loa": 9.978, 
       "draft": 1.81, 
+      "wetted_surface": 23.9, 
       "main": 35.0, 
       "genoa": 31.4, 
       "displacement": 4422.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1994"
   }, 

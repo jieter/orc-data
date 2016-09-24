@@ -5,12 +5,13 @@
       1.078, 
       1.2426
     ], 
-    "gph": 713.6, 
     "triple_inshore": [
       0.6105, 
       0.8617, 
       1.0393
-    ]
+    ], 
+    "gph": 713.6, 
+    "osn": 691.7
   }, 
   "sailnumber": "ITADATEN", 
   "name": "DATENANDI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.01, 
       "draft": 1.99, 
+      "wetted_surface": 28.4, 
       "main": 24.8, 
       "genoa": 51.2, 
       "displacement": 6924.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1976"
   }, 

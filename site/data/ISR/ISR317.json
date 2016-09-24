@@ -5,12 +5,13 @@
       1.1349, 
       1.3012
     ], 
-    "gph": 675.3, 
     "triple_inshore": [
       0.6578, 
       0.9174, 
       1.0877
-    ]
+    ], 
+    "gph": 675.3, 
+    "osn": 653.4
   }, 
   "sailnumber": "ISR317", 
   "name": "Miralba", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.4, 
       "loa": 9.49, 
       "draft": 1.93, 
+      "wetted_surface": 21.9, 
       "main": 25.0, 
       "genoa": 29.2, 
       "displacement": 3750.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 579.0
     }, 
     "year": "1998"
   }, 

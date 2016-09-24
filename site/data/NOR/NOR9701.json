@@ -5,12 +5,13 @@
       1.2816, 
       1.4452
     ], 
-    "gph": 594.6, 
     "triple_inshore": [
       0.7583, 
       1.0349, 
       1.2077
-    ]
+    ], 
+    "gph": 594.6, 
+    "osn": 579.3
   }, 
   "sailnumber": "NOR9701", 
   "name": "Amaryllis", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.4, 
       "loa": 11.92, 
       "draft": 2.41, 
+      "wetted_surface": 31.1, 
       "main": 49.6, 
       "genoa": 52.9, 
       "displacement": 6983.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 732.0
     }, 
     "year": "1997"
   }, 

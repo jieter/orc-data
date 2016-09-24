@@ -5,12 +5,13 @@
       1.2413, 
       1.3744
     ], 
-    "gph": 609.0, 
     "triple_inshore": [
       0.7641, 
       1.0071, 
       1.1356
-    ]
+    ], 
+    "gph": 609.0, 
+    "osn": 594.9
   }, 
   "sailnumber": "GER7357", 
   "name": "WEXELKURS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.991, 
       "draft": 1.92, 
+      "wetted_surface": 23.4, 
       "main": 37.8, 
       "genoa": 31.1, 
       "displacement": 4248.0, 
-      "spinnaker_asym": 122.0
+      "spinnaker_asym": 122.0, 
+      "crew": 400.0
     }, 
     "year": "2012"
   }, 

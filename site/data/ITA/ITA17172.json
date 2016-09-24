@@ -5,12 +5,13 @@
       1.2589, 
       1.4376
     ], 
-    "gph": 600.0, 
     "triple_inshore": [
       0.7711, 
       1.018, 
       1.1769
-    ]
+    ], 
+    "gph": 600.0, 
+    "osn": 584.4
   }, 
   "sailnumber": "ITA17172", 
   "name": "CAMALEONTE IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.4, 
       "draft": 2.11, 
+      "wetted_surface": 17.8, 
       "main": 36.0, 
       "genoa": 17.2, 
       "displacement": 2211.0, 
-      "spinnaker_asym": 75.0
+      "spinnaker_asym": 75.0, 
+      "crew": 400.0
     }, 
     "year": "2010"
   }, 

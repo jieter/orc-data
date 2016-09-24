@@ -5,12 +5,13 @@
       1.103, 
       1.2991
     ], 
-    "gph": 701.4, 
     "triple_inshore": [
       0.6071, 
       0.8703, 
       1.0701
-    ]
+    ], 
+    "gph": 701.4, 
+    "osn": 677.5
   }, 
   "sailnumber": "ESP8856", 
   "name": "ALWAYS", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.3, 
       "loa": 11.23, 
       "draft": 1.84, 
+      "wetted_surface": 28.9, 
       "main": 23.6, 
       "genoa": 32.5, 
       "displacement": 6042.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "1999"
   }, 

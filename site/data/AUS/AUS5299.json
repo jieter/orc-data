@@ -5,12 +5,13 @@
       1.637, 
       1.9257
     ], 
-    "gph": 464.7, 
     "triple_inshore": [
       0.9589, 
       1.2913, 
       1.5215
-    ]
+    ], 
+    "gph": 464.7, 
+    "osn": 450.9
   }, 
   "sailnumber": "AUS5299", 
   "name": "VICTOIRE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.22, 
       "draft": 3.55, 
+      "wetted_surface": 42.5, 
       "main": 86.0, 
       "genoa": 59.4, 
       "displacement": 7477.0, 
-      "spinnaker_asym": 259.0
+      "spinnaker_asym": 259.0, 
+      "crew": 1080.0
     }, 
     "year": "2004"
   }, 

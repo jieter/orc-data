@@ -5,12 +5,13 @@
       1.2616, 
       1.4525
     ], 
-    "gph": 606.5, 
     "triple_inshore": [
       0.7276, 
       0.9923, 
       1.1952
-    ]
+    ], 
+    "gph": 606.5, 
+    "osn": 590.8
   }, 
   "sailnumber": "NED5432", 
   "name": "SAYONARA", 
@@ -25,10 +26,12 @@
       "spinnaker": 181.8, 
       "loa": 15.395, 
       "draft": 2.25, 
+      "wetted_surface": 53.0, 
       "main": 64.9, 
       "genoa": 85.6, 
       "displacement": 21594.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1041.0
     }, 
     "year": "1995"
   }, 

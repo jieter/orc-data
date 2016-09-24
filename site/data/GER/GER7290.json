@@ -5,12 +5,13 @@
       1.1231, 
       1.2809
     ], 
-    "gph": 680.0, 
     "triple_inshore": [
       0.6612, 
       0.9026, 
       1.0739
-    ]
+    ], 
+    "gph": 680.0, 
+    "osn": 660.4
   }, 
   "sailnumber": "GER7290", 
   "name": "JOS OF HAMBLE", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.2, 
       "loa": 11.079, 
       "draft": 1.87, 
+      "wetted_surface": 27.1, 
       "main": 27.7, 
       "genoa": 45.0, 
       "displacement": 6925.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 583.0
     }, 
     "year": "1970"
   }, 

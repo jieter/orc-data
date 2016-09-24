@@ -5,12 +5,13 @@
       1.2772, 
       1.4354
     ], 
-    "gph": 594.9, 
     "triple_inshore": [
       0.7647, 
       1.0321, 
       1.1955
-    ]
+    ], 
+    "gph": 594.9, 
+    "osn": 580.4
   }, 
   "sailnumber": "NOR9299", 
   "name": "Olisabeth", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.5, 
       "loa": 12.22, 
       "draft": 2.04, 
+      "wetted_surface": 27.8, 
       "main": 40.4, 
       "genoa": 51.8, 
       "displacement": 5484.0, 
-      "spinnaker_asym": 86.0
+      "spinnaker_asym": 86.0, 
+      "crew": 731.0
     }, 
     "year": "1988"
   }, 

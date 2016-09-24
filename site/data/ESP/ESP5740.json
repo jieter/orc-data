@@ -5,12 +5,13 @@
       1.1453, 
       1.304
     ], 
-    "gph": 668.2, 
     "triple_inshore": [
       0.668, 
       0.9253, 
       1.0853
-    ]
+    ], 
+    "gph": 668.2, 
+    "osn": 648.0
   }, 
   "sailnumber": "ESP5740", 
   "name": "TITICACA", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.6, 
       "loa": 9.49, 
       "draft": 1.92, 
+      "wetted_surface": 21.9, 
       "main": 26.1, 
       "genoa": 30.9, 
       "displacement": 3673.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1998"
   }, 

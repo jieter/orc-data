@@ -5,12 +5,13 @@
       0.9917, 
       1.1486
     ], 
-    "gph": 776.1, 
     "triple_inshore": [
       0.5647, 
       0.7914, 
       0.9573
-    ]
+    ], 
+    "gph": 776.1, 
+    "osn": 750.6
   }, 
   "sailnumber": "GER7131", 
   "name": "CALLE STROMER", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.5, 
       "loa": 8.66, 
       "draft": 1.58, 
+      "wetted_surface": 20.0, 
       "main": 17.0, 
       "genoa": 24.4, 
       "displacement": 3811.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1971"
   }, 

@@ -5,12 +5,13 @@
       1.0249, 
       1.1451
     ], 
-    "gph": 740.1, 
     "triple_inshore": [
       0.6245, 
       0.843, 
       0.9608
-    ]
+    ], 
+    "gph": 740.1, 
+    "osn": 719.9
   }, 
   "sailnumber": "LTU20", 
   "name": "RASA", 
@@ -25,10 +26,12 @@
       "spinnaker": 36.1, 
       "loa": 7.63, 
       "draft": 1.55, 
+      "wetted_surface": 12.9, 
       "main": 19.0, 
       "genoa": 16.8, 
       "displacement": 1769.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 430.0
     }, 
     "year": "1978"
   }, 

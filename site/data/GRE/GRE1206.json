@@ -5,12 +5,13 @@
       1.061, 
       1.2221
     ], 
-    "gph": 721.7, 
     "triple_inshore": [
       0.616, 
       0.8508, 
       1.0215
-    ]
+    ], 
+    "gph": 721.7, 
+    "osn": 700.2
   }, 
   "sailnumber": "GRE1206", 
   "name": "NEMO", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.3, 
       "loa": 9.34, 
       "draft": 1.63, 
+      "wetted_surface": 21.4, 
       "main": 20.1, 
       "genoa": 31.3, 
       "displacement": 4466.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1993"
   }, 

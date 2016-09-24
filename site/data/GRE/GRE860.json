@@ -5,12 +5,13 @@
       1.0288, 
       1.1972
     ], 
-    "gph": 747.7, 
     "triple_inshore": [
       0.5865, 
       0.8203, 
       0.9981
-    ]
+    ], 
+    "gph": 747.7, 
+    "osn": 722.8
   }, 
   "sailnumber": "GRE860", 
   "name": "NIKI", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.8, 
       "loa": 9.868, 
       "draft": 1.82, 
+      "wetted_surface": 21.4, 
       "main": 21.2, 
       "genoa": 27.1, 
       "displacement": 4707.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1978"
   }, 

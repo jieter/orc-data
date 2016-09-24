@@ -5,12 +5,13 @@
       1.2251, 
       1.3783
     ], 
-    "gph": 622.5, 
     "triple_inshore": [
       0.7261, 
       0.9915, 
       1.1609
-    ]
+    ], 
+    "gph": 622.5, 
+    "osn": 605.6
   }, 
   "sailnumber": "NOR11356", 
   "name": "Nemo", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.9, 
       "loa": 11.16, 
       "draft": 2.37, 
+      "wetted_surface": 29.3, 
       "main": 41.0, 
       "genoa": 45.8, 
       "displacement": 6850.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 718.0
     }, 
     "year": "2004"
   }, 

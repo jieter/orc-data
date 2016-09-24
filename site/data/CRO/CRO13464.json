@@ -5,12 +5,13 @@
       1.2636, 
       1.4339
     ], 
-    "gph": 605.1, 
     "triple_inshore": [
       0.7399, 
       1.0193, 
       1.1985
-    ]
+    ], 
+    "gph": 605.1, 
+    "osn": 587.7
   }, 
   "sailnumber": "CRO13464", 
   "name": "Mareus", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.5, 
       "loa": 11.924, 
       "draft": 2.42, 
+      "wetted_surface": 31.4, 
       "main": 48.4, 
       "genoa": 38.5, 
       "displacement": 7183.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 760.0
     }, 
     "year": "1997"
   }, 

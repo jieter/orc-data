@@ -5,12 +5,13 @@
       1.044, 
       1.2527
     ], 
-    "gph": 743.6, 
     "triple_inshore": [
       0.5526, 
       0.8113, 
       1.0248
-    ]
+    ], 
+    "gph": 743.6, 
+    "osn": 721.0
   }, 
   "sailnumber": "GRE1395", 
   "name": "THARRINOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.23, 
       "draft": 1.88, 
+      "wetted_surface": 30.7, 
       "main": 25.1, 
       "genoa": 39.4, 
       "displacement": 6709.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 674.0
     }, 
     "year": "1994"
   }, 

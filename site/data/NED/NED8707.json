@@ -5,12 +5,13 @@
       1.1626, 
       1.3517
     ], 
-    "gph": 661.9, 
     "triple_inshore": [
       0.6524, 
       0.9232, 
       1.1217
-    ]
+    ], 
+    "gph": 661.9, 
+    "osn": 642.0
   }, 
   "sailnumber": "NED8707", 
   "name": "Maria Magdalena", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.93, 
       "draft": 1.89, 
+      "wetted_surface": 33.1, 
       "main": 42.1, 
       "genoa": 43.5, 
       "displacement": 8500.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 776.0
     }, 
     "year": "2005"
   }, 

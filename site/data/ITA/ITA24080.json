@@ -5,12 +5,13 @@
       1.1279, 
       1.289
     ], 
-    "gph": 673.0, 
     "triple_inshore": [
       0.679, 
       0.9189, 
       1.0496
-    ]
+    ], 
+    "gph": 673.0, 
+    "osn": 653.7
   }, 
   "sailnumber": "ITA24080", 
   "name": "2 TESTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 39.8, 
       "loa": 7.495, 
       "draft": 1.67, 
+      "wetted_surface": 12.4, 
       "main": 19.6, 
       "genoa": 12.8, 
       "displacement": 1057.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1994"
   }, 

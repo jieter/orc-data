@@ -5,12 +5,13 @@
       1.1365, 
       1.3921
     ], 
-    "gph": 687.2, 
     "triple_inshore": [
       0.5892, 
       0.8847, 
       1.1321
-    ]
+    ], 
+    "gph": 687.2, 
+    "osn": 662.0
   }, 
   "sailnumber": "ROU873", 
   "name": "Constantza", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.11, 
       "draft": 2.12, 
+      "wetted_surface": 44.6, 
       "main": 35.9, 
       "genoa": 58.8, 
       "displacement": 11090.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1300.0
     }, 
     "year": "2003"
   }, 

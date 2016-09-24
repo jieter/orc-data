@@ -5,12 +5,13 @@
       1.1824, 
       1.3298
     ], 
-    "gph": 646.1, 
     "triple_inshore": [
       0.697, 
       0.954, 
       1.1105
-    ]
+    ], 
+    "gph": 646.1, 
+    "osn": 628.5
   }, 
   "sailnumber": "ESP8088", 
   "name": "X-GROG", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.7, 
       "loa": 10.36, 
       "draft": 1.91, 
+      "wetted_surface": 25.8, 
       "main": 38.7, 
       "genoa": 28.3, 
       "displacement": 5506.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 530.0
     }, 
     "year": "2004"
   }, 

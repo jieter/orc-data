@@ -5,12 +5,13 @@
       1.1318, 
       1.26
     ], 
-    "gph": 675.6, 
     "triple_inshore": [
       0.6696, 
       0.9134, 
       1.0476
-    ]
+    ], 
+    "gph": 675.6, 
+    "osn": 656.8
   }, 
   "sailnumber": "NOR10786", 
   "name": "Miraculix", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.2, 
       "loa": 9.75, 
       "draft": 1.81, 
+      "wetted_surface": 21.9, 
       "main": 29.7, 
       "genoa": 24.4, 
       "displacement": 4108.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 559.0
     }, 
     "year": "2003"
   }, 

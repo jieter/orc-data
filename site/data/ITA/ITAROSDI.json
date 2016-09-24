@@ -5,12 +5,13 @@
       1.133, 
       1.2817
     ], 
-    "gph": 677.2, 
     "triple_inshore": [
       0.6539, 
       0.9015, 
       1.0534
-    ]
+    ], 
+    "gph": 677.2, 
+    "osn": 658.0
   }, 
   "sailnumber": "ITAROSDI", 
   "name": "ROSSO DI SERA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.025, 
       "draft": 1.89, 
+      "wetted_surface": 22.6, 
       "main": 30.8, 
       "genoa": 32.5, 
       "displacement": 4354.0, 
-      "spinnaker_asym": 69.0
+      "spinnaker_asym": 69.0, 
+      "crew": 450.0
     }, 
     "year": "1998"
   }, 

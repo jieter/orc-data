@@ -5,12 +5,13 @@
       1.2962, 
       1.4696
     ], 
-    "gph": 589.5, 
     "triple_inshore": [
       0.7582, 
       1.041, 
       1.2188
-    ]
+    ], 
+    "gph": 589.5, 
+    "osn": 573.5
   }, 
   "sailnumber": "ITA15875", 
   "name": "NAMASTE'", 
@@ -25,10 +26,12 @@
       "spinnaker": 116.4, 
       "loa": 12.48, 
       "draft": 2.15, 
+      "wetted_surface": 32.8, 
       "main": 52.0, 
       "genoa": 43.5, 
       "displacement": 7444.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2005"
   }, 

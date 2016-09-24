@@ -5,12 +5,13 @@
       1.2718, 
       1.4268
     ], 
-    "gph": 595.0, 
     "triple_inshore": [
       0.7721, 
       1.0332, 
       1.1965
-    ]
+    ], 
+    "gph": 595.0, 
+    "osn": 582.0
   }, 
   "sailnumber": "RUS3521", 
   "name": "Alaska", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.3, 
       "loa": 12.41, 
       "draft": 2.28, 
+      "wetted_surface": 28.1, 
       "main": 52.5, 
       "genoa": 49.4, 
       "displacement": 6232.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 664.0
     }, 
     "year": "1985"
   }, 

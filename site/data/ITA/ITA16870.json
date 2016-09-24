@@ -5,12 +5,13 @@
       1.1481, 
       1.3046
     ], 
-    "gph": 666.1, 
     "triple_inshore": [
       0.6736, 
       0.9274, 
       1.0945
-    ]
+    ], 
+    "gph": 666.1, 
+    "osn": 646.0
   }, 
   "sailnumber": "ITA16870", 
   "name": "MERAK 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.3, 
       "loa": 10.025, 
       "draft": 1.92, 
+      "wetted_surface": 24.4, 
       "main": 34.8, 
       "genoa": 25.7, 
       "displacement": 5157.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 620.0
     }, 
     "year": "1998"
   }, 

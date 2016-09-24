@@ -5,12 +5,13 @@
       1.0887, 
       1.2606
     ], 
-    "gph": 707.8, 
     "triple_inshore": [
       0.6136, 
       0.8576, 
       1.033
-    ]
+    ], 
+    "gph": 707.8, 
+    "osn": 685.8
   }, 
   "sailnumber": "NOR11618", 
   "name": "RINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.25, 
       "draft": 1.78, 
+      "wetted_surface": 25.7, 
       "main": 29.7, 
       "genoa": 27.6, 
       "displacement": 5300.0, 
-      "spinnaker_asym": 60.0
+      "spinnaker_asym": 60.0, 
+      "crew": 616.0
     }, 
     "year": "2005"
   }, 

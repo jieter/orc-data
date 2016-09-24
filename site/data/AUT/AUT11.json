@@ -5,12 +5,13 @@
       1.233, 
       1.3698
     ], 
-    "gph": 612.4, 
     "triple_inshore": [
       0.7618, 
       1.0045, 
       1.1584
-    ]
+    ], 
+    "gph": 612.4, 
+    "osn": 599.2
   }, 
   "sailnumber": "AUT11", 
   "name": "Thomahax", 
@@ -25,10 +26,12 @@
       "spinnaker": 121.8, 
       "loa": 11.8, 
       "draft": 2.12, 
+      "wetted_surface": 33.3, 
       "main": 55.8, 
       "genoa": 54.4, 
       "displacement": 9560.0, 
-      "spinnaker_asym": 142.0
+      "spinnaker_asym": 142.0, 
+      "crew": 600.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.1324, 
       1.2945
     ], 
-    "gph": 677.0, 
     "triple_inshore": [
       0.6575, 
       0.9149, 
       1.0803
-    ]
+    ], 
+    "gph": 677.0, 
+    "osn": 655.3
   }, 
   "sailnumber": "ITA15953", 
   "name": "SUAKIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.6, 
       "loa": 9.5, 
       "draft": 1.92, 
+      "wetted_surface": 22.0, 
       "main": 25.4, 
       "genoa": 27.9, 
       "displacement": 3777.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 582.0
     }, 
     "year": "1998"
   }, 

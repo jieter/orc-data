@@ -5,12 +5,13 @@
       1.0909, 
       1.249
     ], 
-    "gph": 701.7, 
     "triple_inshore": [
       0.6353, 
       0.8786, 
       1.0454
-    ]
+    ], 
+    "gph": 701.7, 
+    "osn": 680.6
   }, 
   "sailnumber": "ROU44", 
   "name": "Santa Cruz", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.0, 
       "loa": 10.112, 
       "draft": 1.76, 
+      "wetted_surface": 22.8, 
       "main": 27.1, 
       "genoa": 27.8, 
       "displacement": 4399.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 525.0
     }, 
     "year": "1987"
   }, 

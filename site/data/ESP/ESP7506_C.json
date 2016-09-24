@@ -5,12 +5,13 @@
       1.2365, 
       1.4025
     ], 
-    "gph": 617.3, 
     "triple_inshore": [
       0.7312, 
       1.0019, 
       1.1853
-    ]
+    ], 
+    "gph": 617.3, 
+    "osn": 599.0
   }, 
   "sailnumber": "ESP7506_C", 
   "name": "SELENE III", 
@@ -25,10 +26,12 @@
       "spinnaker": 134.7, 
       "loa": 12.96, 
       "draft": 2.45, 
+      "wetted_surface": 35.6, 
       "main": 38.9, 
       "genoa": 61.6, 
       "displacement": 9850.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 525.0
     }, 
     "year": "1981"
   }, 

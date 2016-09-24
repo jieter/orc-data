@@ -5,12 +5,13 @@
       1.454, 
       1.6553
     ], 
-    "gph": 523.7, 
     "triple_inshore": [
       0.8577, 
       1.1634, 
       1.3481
-    ]
+    ], 
+    "gph": 523.7, 
+    "osn": 510.3
   }, 
   "sailnumber": "ITA14351", 
   "name": "MC SEAWONDER", 
@@ -25,10 +26,12 @@
       "spinnaker": 155.3, 
       "loa": 14.01, 
       "draft": 2.78, 
+      "wetted_surface": 37.3, 
       "main": 75.8, 
       "genoa": 51.4, 
       "displacement": 7332.0, 
-      "spinnaker_asym": 155.0
+      "spinnaker_asym": 155.0, 
+      "crew": 785.0
     }, 
     "year": "2003"
   }, 

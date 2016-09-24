@@ -5,12 +5,13 @@
       1.3077, 
       1.4845
     ], 
-    "gph": 581.2, 
     "triple_inshore": [
       0.7739, 
       1.0584, 
       1.2367
-    ]
+    ], 
+    "gph": 581.2, 
+    "osn": 567.1
   }, 
   "sailnumber": "GER5938", 
   "name": "GINKGO", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.6, 
       "loa": 11.615, 
       "draft": 2.44, 
+      "wetted_surface": 30.0, 
       "main": 50.9, 
       "genoa": 39.8, 
       "displacement": 6232.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 730.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.0288, 
       1.1474
     ], 
-    "gph": 740.9, 
     "triple_inshore": [
       0.6161, 
       0.8354, 
       0.9628
-    ]
+    ], 
+    "gph": 740.9, 
+    "osn": 720.4
   }, 
   "sailnumber": "NOR2620", 
   "name": "Kompis", 
@@ -25,10 +26,12 @@
       "spinnaker": 51.6, 
       "loa": 8.64, 
       "draft": 1.73, 
+      "wetted_surface": 18.6, 
       "main": 20.4, 
       "genoa": 27.0, 
       "displacement": 3646.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 435.0
     }, 
     "year": "1968"
   }, 

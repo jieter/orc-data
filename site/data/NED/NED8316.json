@@ -5,12 +5,13 @@
       1.1338, 
       1.2871
     ], 
-    "gph": 668.1, 
     "triple_inshore": [
       0.6887, 
       0.9188, 
       1.0521
-    ]
+    ], 
+    "gph": 668.1, 
+    "osn": 650.1
   }, 
   "sailnumber": "NED8316", 
   "name": "J'Zus", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.997, 
       "draft": 1.49, 
+      "wetted_surface": 13.8, 
       "main": 21.6, 
       "genoa": 13.7, 
       "displacement": 1516.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 410.0
     }, 
     "year": "1995"
   }, 

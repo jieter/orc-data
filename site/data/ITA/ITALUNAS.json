@@ -5,12 +5,13 @@
       1.2314, 
       1.3902
     ], 
-    "gph": 620.8, 
     "triple_inshore": [
       0.7212, 
       0.9876, 
       1.1536
-    ]
+    ], 
+    "gph": 620.8, 
+    "osn": 603.4
   }, 
   "sailnumber": "ITALUNAS", 
   "name": "LUNA STORTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.3, 
       "draft": 2.33, 
+      "wetted_surface": 29.6, 
       "main": 43.4, 
       "genoa": 37.8, 
       "displacement": 6447.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 500.0
     }, 
     "year": "2005"
   }, 

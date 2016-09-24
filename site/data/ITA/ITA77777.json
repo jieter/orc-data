@@ -5,12 +5,13 @@
       1.2969, 
       1.4729
     ], 
-    "gph": 590.1, 
     "triple_inshore": [
       0.7552, 
       1.0459, 
       1.2312
-    ]
+    ], 
+    "gph": 590.1, 
+    "osn": 573.2
   }, 
   "sailnumber": "ITA77777", 
   "name": "TINKERBELL", 
@@ -25,10 +26,12 @@
       "spinnaker": 135.3, 
       "loa": 12.24, 
       "draft": 2.5, 
+      "wetted_surface": 35.1, 
       "main": 51.7, 
       "genoa": 42.5, 
       "displacement": 8200.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 710.0
     }, 
     "year": "2008"
   }, 

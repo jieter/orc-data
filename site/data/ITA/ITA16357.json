@@ -5,12 +5,13 @@
       1.4161, 
       1.5966
     ], 
-    "gph": 540.4, 
     "triple_inshore": [
       0.8258, 
       1.1328, 
       1.3064
-    ]
+    ], 
+    "gph": 540.4, 
+    "osn": 525.7
   }, 
   "sailnumber": "ITA16357", 
   "name": "CORTO MALTESE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.882, 
       "draft": 2.77, 
+      "wetted_surface": 43.1, 
       "main": 72.7, 
       "genoa": 60.6, 
       "displacement": 10770.0, 
-      "spinnaker_asym": 200.0
+      "spinnaker_asym": 200.0, 
+      "crew": 1000.0
     }, 
     "year": "2002"
   }, 

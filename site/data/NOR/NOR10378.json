@@ -5,12 +5,13 @@
       1.251, 
       1.4678
     ], 
-    "gph": 603.9, 
     "triple_inshore": [
       0.7409, 
       0.9811, 
       1.1699
-    ]
+    ], 
+    "gph": 603.9, 
+    "osn": 592.4
   }, 
   "sailnumber": "NOR10378", 
   "name": "Bris", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.125, 
       "draft": 1.74, 
+      "wetted_surface": 12.9, 
       "main": 18.9, 
       "genoa": 10.4, 
       "displacement": 1001.0, 
-      "spinnaker_asym": 48.0
+      "spinnaker_asym": 48.0, 
+      "crew": 581.0
     }, 
     "year": "2002"
   }, 

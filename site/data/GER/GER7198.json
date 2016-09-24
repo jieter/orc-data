@@ -5,12 +5,13 @@
       1.3862, 
       1.5658
     ], 
-    "gph": 553.0, 
     "triple_inshore": [
       0.802, 
       1.1038, 
       1.2806
-    ]
+    ], 
+    "gph": 553.0, 
+    "osn": 538.1
   }, 
   "sailnumber": "GER7198", 
   "name": "INSPIRE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.95, 
       "draft": 2.52, 
+      "wetted_surface": 42.6, 
       "main": 70.2, 
       "genoa": 52.0, 
       "displacement": 10700.0, 
-      "spinnaker_asym": 161.0
+      "spinnaker_asym": 161.0, 
+      "crew": 850.0
     }, 
     "year": "2014"
   }, 

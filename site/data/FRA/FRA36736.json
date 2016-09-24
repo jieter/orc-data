@@ -5,12 +5,13 @@
       1.196, 
       1.3686
     ], 
-    "gph": 638.5, 
     "triple_inshore": [
       0.7031, 
       0.9695, 
       1.1334
-    ]
+    ], 
+    "gph": 638.5, 
+    "osn": 619.1
   }, 
   "sailnumber": "FRA36736", 
   "name": "WAHOO", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.2, 
       "loa": 9.6, 
       "draft": 1.99, 
+      "wetted_surface": 22.5, 
       "main": 32.0, 
       "genoa": 26.2, 
       "displacement": 3574.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 571.0
     }, 
     "year": "2003"
   }, 

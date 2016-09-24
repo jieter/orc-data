@@ -5,12 +5,13 @@
       1.1063, 
       1.2611
     ], 
-    "gph": 693.2, 
     "triple_inshore": [
       0.6406, 
       0.886, 
       1.0439
-    ]
+    ], 
+    "gph": 693.2, 
+    "osn": 672.0
   }, 
   "sailnumber": "NED7251", 
   "name": "White Hawk", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.8, 
       "loa": 9.49, 
       "draft": 1.49, 
+      "wetted_surface": 22.0, 
       "main": 25.2, 
       "genoa": 22.4, 
       "displacement": 3987.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1998"
   }, 

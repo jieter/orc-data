@@ -5,12 +5,13 @@
       1.3219, 
       1.4962
     ], 
-    "gph": 577.1, 
     "triple_inshore": [
       0.7762, 
       1.0592, 
       1.2433
-    ]
+    ], 
+    "gph": 577.1, 
+    "osn": 562.7
   }, 
   "sailnumber": "NOR11814", 
   "name": "Summertime", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.35, 
       "draft": 1.96, 
+      "wetted_surface": 37.6, 
       "main": 67.1, 
       "genoa": 42.8, 
       "displacement": 10457.0, 
-      "spinnaker_asym": 133.0
+      "spinnaker_asym": 133.0, 
+      "crew": 902.0
     }, 
     "year": "2004"
   }, 

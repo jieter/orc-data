@@ -5,12 +5,13 @@
       1.0616, 
       1.1918
     ], 
-    "gph": 715.5, 
     "triple_inshore": [
       0.6414, 
       0.868, 
       0.9915
-    ]
+    ], 
+    "gph": 715.5, 
+    "osn": 696.6
   }, 
   "sailnumber": "ITA8884", 
   "name": "VIRACOCHA", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.8, 
       "loa": 8.578, 
       "draft": 1.5, 
+      "wetted_surface": 13.3, 
       "main": 22.0, 
       "genoa": 17.6, 
       "displacement": 1869.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1979"
   }, 

@@ -5,12 +5,13 @@
       1.0909, 
       1.256
     ], 
-    "gph": 703.2, 
     "triple_inshore": [
       0.6298, 
       0.8744, 
       1.0484
-    ]
+    ], 
+    "gph": 703.2, 
+    "osn": 681.1
   }, 
   "sailnumber": "NOR14629", 
   "name": "Akina", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.1, 
       "loa": 9.3, 
       "draft": 1.52, 
+      "wetted_surface": 22.6, 
       "main": 23.9, 
       "genoa": 23.6, 
       "displacement": 4548.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 591.0
     }, 
     "year": "1999"
   }, 

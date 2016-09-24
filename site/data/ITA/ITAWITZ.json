@@ -5,12 +5,13 @@
       1.2139, 
       1.4132
     ], 
-    "gph": 624.4, 
     "triple_inshore": [
       0.7259, 
       0.9724, 
       1.1318
-    ]
+    ], 
+    "gph": 624.4, 
+    "osn": 606.9
   }, 
   "sailnumber": "ITAWITZ", 
   "name": "WITZ", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.354, 
       "draft": 1.93, 
+      "wetted_surface": 14.7, 
       "main": 25.5, 
       "genoa": 13.5, 
       "displacement": 1338.0, 
-      "spinnaker_asym": 62.0
+      "spinnaker_asym": 62.0, 
+      "crew": 480.0
     }, 
     "year": "1996"
   }, 

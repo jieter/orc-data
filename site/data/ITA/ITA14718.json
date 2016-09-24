@@ -5,12 +5,13 @@
       1.3508, 
       1.5289
     ], 
-    "gph": 564.5, 
     "triple_inshore": [
       0.7793, 
       1.0798, 
       1.2719
-    ]
+    ], 
+    "gph": 564.5, 
+    "osn": 552.8
   }, 
   "sailnumber": "ITA14718", 
   "name": "IREAL", 
@@ -25,10 +26,12 @@
       "spinnaker": 161.7, 
       "loa": 13.72, 
       "draft": 2.74, 
+      "wetted_surface": 40.3, 
       "main": 58.9, 
       "genoa": 49.0, 
       "displacement": 10207.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 584.0
     }, 
     "year": "2004"
   }, 

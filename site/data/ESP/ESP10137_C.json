@@ -5,12 +5,13 @@
       1.1779, 
       1.3451
     ], 
-    "gph": 649.3, 
     "triple_inshore": [
       0.6854, 
       0.9497, 
       1.1243
-    ]
+    ], 
+    "gph": 649.3, 
+    "osn": 630.1
   }, 
   "sailnumber": "ESP10137_C", 
   "name": "CHENICA", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.0, 
       "loa": 10.3, 
       "draft": 1.95, 
+      "wetted_surface": 24.9, 
       "main": 34.5, 
       "genoa": 35.3, 
       "displacement": 5148.0, 
-      "spinnaker_asym": 72.0
+      "spinnaker_asym": 72.0, 
+      "crew": 628.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       1.327, 
       1.5145
     ], 
-    "gph": 578.1, 
     "triple_inshore": [
       0.7613, 
       1.0582, 
       1.2554
-    ]
+    ], 
+    "gph": 578.1, 
+    "osn": 561.7
   }, 
   "sailnumber": "ESP8870_C", 
   "name": "EL PAPAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 136.1, 
       "loa": 13.6, 
       "draft": 2.28, 
+      "wetted_surface": 41.6, 
       "main": 59.7, 
       "genoa": 61.3, 
       "displacement": 10345.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "2008"
   }, 

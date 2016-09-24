@@ -5,12 +5,13 @@
       1.224, 
       1.3964
     ], 
-    "gph": 625.4, 
     "triple_inshore": [
       0.7106, 
       0.9791, 
       1.1477
-    ]
+    ], 
+    "gph": 625.4, 
+    "osn": 606.5
   }, 
   "sailnumber": "NOR15111", 
   "name": "Vilja", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.0, 
       "draft": 2.0, 
+      "wetted_surface": 27.2, 
       "main": 37.0, 
       "genoa": 28.3, 
       "displacement": 5085.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 642.0
     }, 
     "year": "2014"
   }, 

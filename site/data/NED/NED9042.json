@@ -5,12 +5,13 @@
       1.2683, 
       1.4389
     ], 
-    "gph": 604.8, 
     "triple_inshore": [
       0.7311, 
       1.0053, 
       1.1837
-    ]
+    ], 
+    "gph": 604.8, 
+    "osn": 587.5
   }, 
   "sailnumber": "NED9042", 
   "name": "Stella Maris", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.16, 
       "draft": 2.21, 
+      "wetted_surface": 42.8, 
       "main": 60.9, 
       "genoa": 44.8, 
       "displacement": 12959.0, 
-      "spinnaker_asym": 176.0
+      "spinnaker_asym": 176.0, 
+      "crew": 900.0
     }, 
     "year": "2013"
   }, 

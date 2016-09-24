@@ -5,12 +5,13 @@
       1.2725, 
       1.4388
     ], 
-    "gph": 600.0, 
     "triple_inshore": [
       0.7491, 
       1.0284, 
       1.2046
-    ]
+    ], 
+    "gph": 600.0, 
+    "osn": 583.3
   }, 
   "sailnumber": "ITA13301", 
   "name": "SEA WOLF", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.0, 
       "loa": 11.924, 
       "draft": 2.42, 
+      "wetted_surface": 31.3, 
       "main": 46.5, 
       "genoa": 48.7, 
       "displacement": 7129.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 737.0
     }, 
     "year": "1997"
   }, 

@@ -5,12 +5,13 @@
       1.3554, 
       1.5993
     ], 
-    "gph": 557.1, 
     "triple_inshore": [
       0.8111, 
       1.0643, 
       1.2684
-    ]
+    ], 
+    "gph": 557.1, 
+    "osn": 544.3
   }, 
   "sailnumber": "ITA15AS99", 
   "name": "CHE SPASSO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.96, 
       "draft": 1.73, 
+      "wetted_surface": 14.3, 
       "main": 29.6, 
       "genoa": 23.3, 
       "displacement": 1150.0, 
-      "spinnaker_asym": 79.0
+      "spinnaker_asym": 79.0, 
+      "crew": 500.0
     }, 
     "year": "1982"
   }, 

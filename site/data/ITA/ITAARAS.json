@@ -5,12 +5,13 @@
       1.1112, 
       1.2881
     ], 
-    "gph": 690.7, 
     "triple_inshore": [
       0.6364, 
       0.8767, 
       1.0564
-    ]
+    ], 
+    "gph": 690.7, 
+    "osn": 670.2
   }, 
   "sailnumber": "ITAARAS", 
   "name": "ARAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.33, 
       "draft": 2.02, 
+      "wetted_surface": 27.4, 
       "main": 25.5, 
       "genoa": 37.0, 
       "displacement": 6237.0, 
-      "spinnaker_asym": 77.0
+      "spinnaker_asym": 77.0, 
+      "crew": 450.0
     }, 
     "year": "1997"
   }, 

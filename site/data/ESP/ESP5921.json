@@ -5,12 +5,13 @@
       1.0414, 
       1.1978
     ], 
-    "gph": 740.6, 
     "triple_inshore": [
       0.5861, 
       0.8281, 
       0.9887
-    ]
+    ], 
+    "gph": 740.6, 
+    "osn": 716.5
   }, 
   "sailnumber": "ESP5921", 
   "name": "MARAVAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.1, 
       "loa": 9.03, 
       "draft": 1.56, 
+      "wetted_surface": 19.8, 
       "main": 23.3, 
       "genoa": 20.9, 
       "displacement": 3587.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1998"
   }, 

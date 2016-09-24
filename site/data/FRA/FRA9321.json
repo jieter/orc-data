@@ -5,12 +5,13 @@
       1.4001, 
       1.5966
     ], 
-    "gph": 542.2, 
     "triple_inshore": [
       0.8347, 
       1.1262, 
       1.3094
-    ]
+    ], 
+    "gph": 542.2, 
+    "osn": 528.6
   }, 
   "sailnumber": "FRA9321", 
   "name": "FORREST GUMP", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.3, 
       "loa": 12.496, 
       "draft": 2.57, 
+      "wetted_surface": 29.1, 
       "main": 61.4, 
       "genoa": 51.5, 
       "displacement": 5337.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 852.0
     }, 
     "year": "1995"
   }, 

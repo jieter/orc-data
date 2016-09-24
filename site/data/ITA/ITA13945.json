@@ -5,12 +5,13 @@
       1.2654, 
       1.4259
     ], 
-    "gph": 603.3, 
     "triple_inshore": [
       0.7457, 
       1.0213, 
       1.195
-    ]
+    ], 
+    "gph": 603.3, 
+    "osn": 586.9
   }, 
   "sailnumber": "ITA13945", 
   "name": "BLU FANTA' SIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.7, 
       "loa": 11.924, 
       "draft": 2.43, 
+      "wetted_surface": 31.7, 
       "main": 47.4, 
       "genoa": 50.3, 
       "displacement": 7418.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 630.0
     }, 
     "year": "1997"
   }, 

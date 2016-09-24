@@ -5,12 +5,13 @@
       1.2202, 
       1.3814
     ], 
-    "gph": 627.2, 
     "triple_inshore": [
       0.7119, 
       0.9827, 
       1.1539
-    ]
+    ], 
+    "gph": 627.2, 
+    "osn": 609.0
   }, 
   "sailnumber": "ESP8440", 
   "name": "ORAL GROUP", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.3, 
       "loa": 11.289, 
       "draft": 2.31, 
+      "wetted_surface": 29.8, 
       "main": 43.4, 
       "genoa": 35.7, 
       "displacement": 6694.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 581.0
     }, 
     "year": "2005"
   }, 

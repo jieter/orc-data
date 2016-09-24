@@ -5,12 +5,13 @@
       1.3198, 
       1.5324
     ], 
-    "gph": 574.0, 
     "triple_inshore": [
       0.7924, 
       1.0527, 
       1.2372
-    ]
+    ], 
+    "gph": 574.0, 
+    "osn": 558.8
   }, 
   "sailnumber": "BRA2761", 
   "name": "Corta Vento", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.3, 
       "draft": 2.12, 
+      "wetted_surface": 21.6, 
       "main": 41.2, 
       "genoa": 26.7, 
       "displacement": 2204.0, 
-      "spinnaker_asym": 105.0
+      "spinnaker_asym": 105.0, 
+      "crew": 540.0
     }, 
     "year": "2010"
   }, 

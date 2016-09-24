@@ -5,12 +5,13 @@
       1.3434, 
       1.5192
     ], 
-    "gph": 570.1, 
     "triple_inshore": [
       0.7803, 
       1.0751, 
       1.263
-    ]
+    ], 
+    "gph": 570.1, 
+    "osn": 554.3
   }, 
   "sailnumber": "ESP9928", 
   "name": "TIGER II", 
@@ -25,10 +26,12 @@
       "spinnaker": 155.0, 
       "loa": 13.65, 
       "draft": 2.27, 
+      "wetted_surface": 40.6, 
       "main": 60.6, 
       "genoa": 54.9, 
       "displacement": 10504.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "2008"
   }, 

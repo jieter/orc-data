@@ -5,12 +5,13 @@
       1.1709, 
       1.3197
     ], 
-    "gph": 651.6, 
     "triple_inshore": [
       0.6955, 
       0.951, 
       1.1094
-    ]
+    ], 
+    "gph": 651.6, 
+    "osn": 632.8
   }, 
   "sailnumber": "GRE49167", 
   "name": "EQUINOX", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.9, 
       "loa": 11.022, 
       "draft": 2.01, 
+      "wetted_surface": 24.6, 
       "main": 28.6, 
       "genoa": 43.1, 
       "displacement": 5239.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 580.0
     }, 
     "year": "1987"
   }, 

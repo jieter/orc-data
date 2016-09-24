@@ -5,12 +5,13 @@
       1.2334, 
       1.3864
     ], 
-    "gph": 614.8, 
     "triple_inshore": [
       0.7478, 
       1.0062, 
       1.1551
-    ]
+    ], 
+    "gph": 614.8, 
+    "osn": 599.1
   }, 
   "sailnumber": "ITA12893", 
   "name": "SEE YOU", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.8, 
       "loa": 9.98, 
       "draft": 2.15, 
+      "wetted_surface": 21.5, 
       "main": 39.0, 
       "genoa": 26.1, 
       "displacement": 3486.0, 
-      "spinnaker_asym": 73.0
+      "spinnaker_asym": 73.0, 
+      "crew": 550.0
     }, 
     "year": "1996"
   }, 

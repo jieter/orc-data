@@ -5,12 +5,13 @@
       1.1658, 
       1.3527
     ], 
-    "gph": 655.8, 
     "triple_inshore": [
       0.6675, 
       0.9043, 
       1.0908
-    ]
+    ], 
+    "gph": 655.8, 
+    "osn": 640.2
   }, 
   "sailnumber": "NED3939", 
   "name": "OSTOYA", 
@@ -25,10 +26,12 @@
       "spinnaker": 149.1, 
       "loa": 15.6, 
       "draft": 1.99, 
+      "wetted_surface": 47.7, 
       "main": 51.3, 
       "genoa": 73.9, 
       "displacement": 21265.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 884.0
     }, 
     "year": "1968"
   }, 

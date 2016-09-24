@@ -5,12 +5,13 @@
       1.2567, 
       1.4027
     ], 
-    "gph": 605.3, 
     "triple_inshore": [
       0.7536, 
       1.0129, 
       1.1647
-    ]
+    ], 
+    "gph": 605.3, 
+    "osn": 590.3
   }, 
   "sailnumber": "NOR11850", 
   "name": "Stella Rosso", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.5, 
       "draft": 2.08, 
+      "wetted_surface": 29.8, 
       "main": 46.8, 
       "genoa": 38.7, 
       "displacement": 6440.0, 
-      "spinnaker_asym": 105.0
+      "spinnaker_asym": 105.0, 
+      "crew": 726.0
     }, 
     "year": "2004"
   }, 

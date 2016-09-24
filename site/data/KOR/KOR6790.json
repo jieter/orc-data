@@ -5,12 +5,13 @@
       1.3402, 
       1.5379
     ], 
-    "gph": 565.2, 
     "triple_inshore": [
       0.807, 
       1.0716, 
       1.2336
-    ]
+    ], 
+    "gph": 565.2, 
+    "osn": 551.0
   }, 
   "sailnumber": "KOR6790", 
   "name": "TEAM HAEMARU", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.63, 
       "draft": 2.3, 
+      "wetted_surface": 22.4, 
       "main": 47.4, 
       "genoa": 28.9, 
       "displacement": 2868.0, 
-      "spinnaker_asym": 73.0
+      "spinnaker_asym": 73.0, 
+      "crew": 643.0
     }, 
     "year": "1998"
   }, 

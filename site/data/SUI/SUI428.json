@@ -5,12 +5,13 @@
       0.9969, 
       1.1143
     ], 
-    "gph": 767.2, 
     "triple_inshore": [
       0.5854, 
       0.8039, 
       0.9199
-    ]
+    ], 
+    "gph": 767.2, 
+    "osn": 745.9
   }, 
   "sailnumber": "SUI428", 
   "name": "TAMINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 31.9, 
       "loa": 8.292, 
       "draft": 1.25, 
+      "wetted_surface": 11.8, 
       "main": 15.9, 
       "genoa": 10.3, 
       "displacement": 1384.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 240.0
     }, 
     "year": "1966"
   }, 

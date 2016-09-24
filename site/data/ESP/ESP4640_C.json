@@ -5,12 +5,13 @@
       1.085, 
       1.2583
     ], 
-    "gph": 706.4, 
     "triple_inshore": [
       0.6256, 
       0.8666, 
       1.0585
-    ]
+    ], 
+    "gph": 706.4, 
+    "osn": 684.6
   }, 
   "sailnumber": "ESP4640_C", 
   "name": "ALOPEX III", 
@@ -25,10 +26,12 @@
       "spinnaker": 112.0, 
       "loa": 12.3, 
       "draft": 2.22, 
+      "wetted_surface": 30.1, 
       "main": 26.0, 
       "genoa": 41.1, 
       "displacement": 9256.0, 
-      "spinnaker_asym": 104.0
+      "spinnaker_asym": 104.0, 
+      "crew": 400.0
     }, 
     "year": "1970"
   }, 

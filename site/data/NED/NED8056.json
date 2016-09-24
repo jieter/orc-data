@@ -5,12 +5,13 @@
       1.2482, 
       1.4457
     ], 
-    "gph": 613.3, 
     "triple_inshore": [
       0.7187, 
       0.9833, 
       1.191
-    ]
+    ], 
+    "gph": 613.3, 
+    "osn": 596.5
   }, 
   "sailnumber": "NED8056", 
   "name": "Ellinor", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 16.085, 
       "draft": 2.51, 
+      "wetted_surface": 51.3, 
       "main": 59.2, 
       "genoa": 84.3, 
       "displacement": 20699.0, 
-      "spinnaker_asym": 174.0
+      "spinnaker_asym": 174.0, 
+      "crew": 947.0
     }, 
     "year": "1970"
   }, 

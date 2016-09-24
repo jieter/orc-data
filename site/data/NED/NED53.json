@@ -5,12 +5,13 @@
       1.3909, 
       1.6026
     ], 
-    "gph": 552.0, 
     "triple_inshore": [
       0.7918, 
       1.0985, 
       1.3229
-    ]
+    ], 
+    "gph": 552.0, 
+    "osn": 536.7
   }, 
   "sailnumber": "NED53", 
   "name": "SILVEREN SWAEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 220.8, 
       "loa": 16.462, 
       "draft": 2.45, 
+      "wetted_surface": 57.2, 
       "main": 85.4, 
       "genoa": 73.9, 
       "displacement": 20760.0, 
-      "spinnaker_asym": 223.0
+      "spinnaker_asym": 223.0, 
+      "crew": 1060.0
     }, 
     "year": "2004"
   }, 

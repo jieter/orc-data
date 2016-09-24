@@ -5,12 +5,13 @@
       1.2397, 
       1.3991
     ], 
-    "gph": 617.4, 
     "triple_inshore": [
       0.7219, 
       0.9917, 
       1.1499
-    ]
+    ], 
+    "gph": 617.4, 
+    "osn": 599.7
   }, 
   "sailnumber": "BRA2477", 
   "name": "SANTA FE V", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.97, 
       "draft": 2.18, 
+      "wetted_surface": 28.8, 
       "main": 41.2, 
       "genoa": 32.3, 
       "displacement": 5992.0, 
-      "spinnaker_asym": 120.0
+      "spinnaker_asym": 120.0, 
+      "crew": 650.0
     }, 
     "year": "2012"
   }, 

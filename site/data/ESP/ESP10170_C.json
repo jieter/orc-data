@@ -5,12 +5,13 @@
       1.0075, 
       1.1823
     ], 
-    "gph": 765.0, 
     "triple_inshore": [
       0.5622, 
       0.8012, 
       0.9839
-    ]
+    ], 
+    "gph": 765.0, 
+    "osn": 740.0
   }, 
   "sailnumber": "ESP10170_C", 
   "name": "MAYA PRIMERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.82, 
       "draft": 1.68, 
+      "wetted_surface": 26.6, 
       "main": 31.7, 
       "genoa": 34.8, 
       "displacement": 6880.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 200.0
     }, 
     "year": "1966"
   }, 

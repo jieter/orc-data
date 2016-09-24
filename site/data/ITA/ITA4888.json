@@ -5,12 +5,13 @@
       1.6332, 
       1.9183
     ], 
-    "gph": 463.9, 
     "triple_inshore": [
       0.9682, 
       1.2926, 
       1.5341
-    ]
+    ], 
+    "gph": 463.9, 
+    "osn": 452.7
   }, 
   "sailnumber": "ITA4888", 
   "name": "CIPPA LIPPA 8", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.22, 
       "draft": 3.04, 
+      "wetted_surface": 42.3, 
       "main": 92.4, 
       "genoa": 69.0, 
       "displacement": 7602.0, 
-      "spinnaker_asym": 261.0
+      "spinnaker_asym": 261.0, 
+      "crew": 1031.0
     }, 
     "year": "2004"
   }, 

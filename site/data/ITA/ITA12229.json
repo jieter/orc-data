@@ -5,12 +5,13 @@
       1.042, 
       1.1715
     ], 
-    "gph": 732.7, 
     "triple_inshore": [
       0.6195, 
       0.8419, 
       0.9803
-    ]
+    ], 
+    "gph": 732.7, 
+    "osn": 711.6
   }, 
   "sailnumber": "ITA12229", 
   "name": "DESIREE", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.3, 
       "loa": 9.16, 
       "draft": 1.71, 
+      "wetted_surface": 18.2, 
       "main": 18.3, 
       "genoa": 31.5, 
       "displacement": 3743.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1980"
   }, 

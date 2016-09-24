@@ -5,12 +5,13 @@
       1.022, 
       1.1559
     ], 
-    "gph": 748.8, 
     "triple_inshore": [
       0.5984, 
       0.8269, 
       0.9666
-    ]
+    ], 
+    "gph": 748.8, 
+    "osn": 726.2
   }, 
   "sailnumber": "NOR5577", 
   "name": "Frida", 
@@ -25,10 +26,12 @@
       "spinnaker": 41.3, 
       "loa": 8.3, 
       "draft": 1.57, 
+      "wetted_surface": 17.8, 
       "main": 22.3, 
       "genoa": 21.6, 
       "displacement": 2886.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 413.0
     }, 
     "year": "1981"
   }, 

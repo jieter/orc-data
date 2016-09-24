@@ -5,12 +5,13 @@
       1.0772, 
       1.2355
     ], 
-    "gph": 710.9, 
     "triple_inshore": [
       0.6278, 
       0.8695, 
       1.0373
-    ]
+    ], 
+    "gph": 710.9, 
+    "osn": 688.7
   }, 
   "sailnumber": "NOR12434", 
   "name": "Mari", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.3, 
       "loa": 9.32, 
       "draft": 1.85, 
+      "wetted_surface": 20.8, 
       "main": 26.6, 
       "genoa": 21.9, 
       "displacement": 4151.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 523.0
     }, 
     "year": "2007"
   }, 

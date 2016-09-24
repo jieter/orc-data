@@ -5,12 +5,13 @@
       1.306, 
       1.4709
     ], 
-    "gph": 583.4, 
     "triple_inshore": [
       0.7777, 
       1.0557, 
       1.2101
-    ]
+    ], 
+    "gph": 583.4, 
+    "osn": 567.1
   }, 
   "sailnumber": "ITA4465", 
   "name": "JSTORM", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.085, 
       "draft": 2.22, 
+      "wetted_surface": 26.2, 
       "main": 36.3, 
       "genoa": 34.9, 
       "displacement": 4482.0, 
-      "spinnaker_asym": 129.0
+      "spinnaker_asym": 129.0, 
+      "crew": 580.0
     }, 
     "year": "2011"
   }, 

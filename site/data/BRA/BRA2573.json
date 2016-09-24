@@ -5,12 +5,13 @@
       1.3191, 
       1.5316
     ], 
-    "gph": 571.1, 
     "triple_inshore": [
       0.8064, 
       1.0513, 
       1.2368
-    ]
+    ], 
+    "gph": 571.1, 
+    "osn": 557.9
   }, 
   "sailnumber": "BRA2573", 
   "name": "CAPATOSTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.222, 
       "draft": 2.01, 
+      "wetted_surface": 18.4, 
       "main": 33.2, 
       "genoa": 24.1, 
       "displacement": 1854.0, 
-      "spinnaker_asym": 97.0
+      "spinnaker_asym": 97.0, 
+      "crew": 500.0
     }, 
     "year": "2011"
   }, 

@@ -5,12 +5,13 @@
       1.1685, 
       1.3366
     ], 
-    "gph": 656.8, 
     "triple_inshore": [
       0.6713, 
       0.9359, 
       1.1145
-    ]
+    ], 
+    "gph": 656.8, 
+    "osn": 636.9
   }, 
   "sailnumber": "POR1427", 
   "name": "CARIOCA", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.8, 
       "loa": 11.4, 
       "draft": 1.83, 
+      "wetted_surface": 27.3, 
       "main": 40.3, 
       "genoa": 25.4, 
       "displacement": 5746.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1989"
   }, 

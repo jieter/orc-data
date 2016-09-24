@@ -5,12 +5,13 @@
       1.0208, 
       1.1631
     ], 
-    "gph": 747.9, 
     "triple_inshore": [
       0.599, 
       0.8207, 
       0.9492
-    ]
+    ], 
+    "gph": 747.9, 
+    "osn": 726.9
   }, 
   "sailnumber": "ITAPENDU", 
   "name": "PEN DUICK", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.5, 
       "draft": 1.64, 
+      "wetted_surface": 12.5, 
       "main": 18.2, 
       "genoa": 10.7, 
       "displacement": 1243.0, 
-      "spinnaker_asym": 47.0
+      "spinnaker_asym": 47.0, 
+      "crew": 320.0
     }, 
     "year": "1992"
   }, 

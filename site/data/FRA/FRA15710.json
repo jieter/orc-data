@@ -5,12 +5,13 @@
       1.1577, 
       1.3253
     ], 
-    "gph": 648.6, 
     "triple_inshore": [
       0.7257, 
       0.9312, 
       1.068
-    ]
+    ], 
+    "gph": 648.6, 
+    "osn": 633.9
   }, 
   "sailnumber": "FRA15710", 
   "name": "ILLICO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.47, 
       "draft": 1.75, 
+      "wetted_surface": 11.9, 
       "main": 22.4, 
       "genoa": 15.2, 
       "displacement": 1070.0, 
-      "spinnaker_asym": 52.0
+      "spinnaker_asym": 52.0, 
+      "crew": 364.0
     }, 
     "year": "1998"
   }, 

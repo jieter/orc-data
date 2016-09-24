@@ -5,12 +5,13 @@
       1.3197, 
       1.5011
     ], 
-    "gph": 578.5, 
     "triple_inshore": [
       0.7734, 
       1.0662, 
       1.2482
-    ]
+    ], 
+    "gph": 578.5, 
+    "osn": 562.2
   }, 
   "sailnumber": "ITA15785", 
   "name": "CAPO HORN", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.4, 
       "loa": 12.007, 
       "draft": 2.5, 
+      "wetted_surface": 30.8, 
       "main": 49.4, 
       "genoa": 49.8, 
       "displacement": 6127.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2003"
   }, 

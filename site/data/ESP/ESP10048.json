@@ -5,12 +5,13 @@
       1.0454, 
       1.1926
     ], 
-    "gph": 729.5, 
     "triple_inshore": [
       0.6213, 
       0.8551, 
       0.99
-    ]
+    ], 
+    "gph": 729.5, 
+    "osn": 706.3
   }, 
   "sailnumber": "ESP10048", 
   "name": "FIRME", 
@@ -25,10 +26,12 @@
       "spinnaker": 34.5, 
       "loa": 7.258, 
       "draft": 1.53, 
+      "wetted_surface": 12.5, 
       "main": 15.8, 
       "genoa": 11.8, 
       "displacement": 1333.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 358.0
     }, 
     "year": "2011"
   }, 

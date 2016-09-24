@@ -5,12 +5,13 @@
       1.2675, 
       1.4392
     ], 
-    "gph": 605.7, 
     "triple_inshore": [
       0.7294, 
       1.0075, 
       1.1822
-    ]
+    ], 
+    "gph": 605.7, 
+    "osn": 587.7
   }, 
   "sailnumber": "GER6818", 
   "name": "RAPID RELIEF", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.4, 
       "draft": 2.18, 
+      "wetted_surface": 40.3, 
       "main": 53.1, 
       "genoa": 40.0, 
       "displacement": 9711.0, 
-      "spinnaker_asym": 134.0
+      "spinnaker_asym": 134.0, 
+      "crew": 700.0
     }, 
     "year": "2010"
   }, 

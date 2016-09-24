@@ -5,12 +5,13 @@
       1.3522, 
       1.5414
     ], 
-    "gph": 566.1, 
     "triple_inshore": [
       0.7825, 
       1.0815, 
       1.272
-    ]
+    ], 
+    "gph": 566.1, 
+    "osn": 550.5
   }, 
   "sailnumber": "GER6655", 
   "name": "X-DAY", 
@@ -25,10 +26,12 @@
       "spinnaker": 140.4, 
       "loa": 13.305, 
       "draft": 2.34, 
+      "wetted_surface": 38.8, 
       "main": 61.1, 
       "genoa": 48.0, 
       "displacement": 9520.0, 
-      "spinnaker_asym": 142.0
+      "spinnaker_asym": 142.0, 
+      "crew": 998.0
     }, 
     "year": "2010"
   }, 

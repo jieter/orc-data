@@ -5,12 +5,13 @@
       1.1212, 
       1.2778
     ], 
-    "gph": 682.0, 
     "triple_inshore": [
       0.6565, 
       0.9008, 
       1.0709
-    ]
+    ], 
+    "gph": 682.0, 
+    "osn": 661.7
   }, 
   "sailnumber": "NED28", 
   "name": "RASPA", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.7, 
       "loa": 10.837, 
       "draft": 1.99, 
+      "wetted_surface": 26.2, 
       "main": 29.3, 
       "genoa": 39.9, 
       "displacement": 6403.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1972"
   }, 

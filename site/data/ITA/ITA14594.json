@@ -5,12 +5,13 @@
       1.3476, 
       1.5202
     ], 
-    "gph": 567.2, 
     "triple_inshore": [
       0.7891, 
       1.0804, 
       1.2627
-    ]
+    ], 
+    "gph": 567.2, 
+    "osn": 552.3
   }, 
   "sailnumber": "ITA14594", 
   "name": "X-BLUES", 
@@ -25,10 +26,12 @@
       "spinnaker": 139.8, 
       "loa": 13.99, 
       "draft": 2.64, 
+      "wetted_surface": 38.8, 
       "main": 63.7, 
       "genoa": 51.2, 
       "displacement": 9919.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "2003"
   }, 

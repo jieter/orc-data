@@ -5,12 +5,13 @@
       1.1096, 
       1.2502
     ], 
-    "gph": 680.0, 
     "triple_inshore": [
       0.6866, 
       0.9097, 
       1.0291
-    ]
+    ], 
+    "gph": 680.0, 
+    "osn": 662.4
   }, 
   "sailnumber": "NED7725", 
   "name": "De Witte Draak", 
@@ -25,10 +26,12 @@
       "spinnaker": 44.1, 
       "loa": 7.512, 
       "draft": 1.57, 
+      "wetted_surface": 12.1, 
       "main": 20.6, 
       "genoa": 13.1, 
       "displacement": 1287.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 394.0
     }, 
     "year": "1997"
   }, 

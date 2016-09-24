@@ -5,12 +5,13 @@
       1.1229, 
       1.272
     ], 
-    "gph": 674.5, 
     "triple_inshore": [
       0.681, 
       0.908, 
       1.0375
-    ]
+    ], 
+    "gph": 674.5, 
+    "osn": 657.3
   }, 
   "sailnumber": "TUR6436", 
   "name": "Just For 4", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.997, 
       "draft": 1.5, 
+      "wetted_surface": 13.8, 
       "main": 21.4, 
       "genoa": 13.3, 
       "displacement": 1555.0, 
-      "spinnaker_asym": 66.0
+      "spinnaker_asym": 66.0, 
+      "crew": 350.0
     }, 
     "year": "1993"
   }, 

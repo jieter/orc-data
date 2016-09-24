@@ -5,12 +5,13 @@
       1.238, 
       1.4106
     ], 
-    "gph": 619.9, 
     "triple_inshore": [
       0.7157, 
       0.9961, 
       1.1828
-    ]
+    ], 
+    "gph": 619.9, 
+    "osn": 600.3
   }, 
   "sailnumber": "ESP10184", 
   "name": "MOURISCA", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.0, 
       "loa": 11.924, 
       "draft": 2.44, 
+      "wetted_surface": 32.0, 
       "main": 45.2, 
       "genoa": 32.4, 
       "displacement": 7704.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "2007"
   }, 

@@ -5,12 +5,13 @@
       1.2183, 
       1.3982
     ], 
-    "gph": 627.6, 
     "triple_inshore": [
       0.7112, 
       0.9863, 
       1.1534
-    ]
+    ], 
+    "gph": 627.6, 
+    "osn": 608.5
   }, 
   "sailnumber": "ESP7498", 
   "name": "SWING PRIMERA", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.5, 
       "loa": 9.55, 
       "draft": 2.08, 
+      "wetted_surface": 20.7, 
       "main": 31.9, 
       "genoa": 22.9, 
       "displacement": 2844.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "1999"
   }, 

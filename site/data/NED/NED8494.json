@@ -5,12 +5,13 @@
       1.0607, 
       1.2207
     ], 
-    "gph": 722.7, 
     "triple_inshore": [
       0.6135, 
       0.8526, 
       1.0244
-    ]
+    ], 
+    "gph": 722.7, 
+    "osn": 700.2
   }, 
   "sailnumber": "NED8494", 
   "name": "Hartenvrouw", 
@@ -25,10 +26,12 @@
       "spinnaker": 53.0, 
       "loa": 9.53, 
       "draft": 1.72, 
+      "wetted_surface": 21.3, 
       "main": 26.3, 
       "genoa": 18.6, 
       "displacement": 4155.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1989"
   }, 

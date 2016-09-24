@@ -5,12 +5,13 @@
       1.1255, 
       1.2898
     ], 
-    "gph": 681.9, 
     "triple_inshore": [
       0.6483, 
       0.9073, 
       1.0769
-    ]
+    ], 
+    "gph": 681.9, 
+    "osn": 660.2
   }, 
   "sailnumber": "ITA14852", 
   "name": "MIZAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.0, 
       "loa": 9.5, 
       "draft": 1.92, 
+      "wetted_surface": 22.2, 
       "main": 26.1, 
       "genoa": 27.7, 
       "displacement": 3852.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 490.0
     }, 
     "year": "1998"
   }, 

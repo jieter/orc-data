@@ -5,12 +5,13 @@
       0.9879, 
       1.1367
     ], 
-    "gph": 772.1, 
     "triple_inshore": [
       0.5839, 
       0.7986, 
       0.9549
-    ]
+    ], 
+    "gph": 772.1, 
+    "osn": 749.3
   }, 
   "sailnumber": "NOR1147", 
   "name": "Tangoen", 
@@ -25,10 +26,12 @@
       "spinnaker": 44.3, 
       "loa": 7.62, 
       "draft": 1.73, 
+      "wetted_surface": 13.5, 
       "main": 10.8, 
       "genoa": 21.2, 
       "displacement": 2175.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 363.0
     }, 
     "year": "1972"
   }, 

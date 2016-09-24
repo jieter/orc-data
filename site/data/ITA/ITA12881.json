@@ -5,12 +5,13 @@
       1.2328, 
       1.3847
     ], 
-    "gph": 615.5, 
     "triple_inshore": [
       0.7422, 
       0.9981, 
       1.1477
-    ]
+    ], 
+    "gph": 615.5, 
+    "osn": 600.4
   }, 
   "sailnumber": "ITA12881", 
   "name": "EMANUELA SANREMOMARE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.04, 
       "draft": 1.97, 
+      "wetted_surface": 22.2, 
       "main": 31.9, 
       "genoa": 35.3, 
       "displacement": 3726.0, 
-      "spinnaker_asym": 86.0
+      "spinnaker_asym": 86.0, 
+      "crew": 530.0
     }, 
     "year": "1996"
   }, 

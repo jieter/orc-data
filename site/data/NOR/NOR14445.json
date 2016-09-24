@@ -5,12 +5,13 @@
       1.3751, 
       1.5501
     ], 
-    "gph": 553.1, 
     "triple_inshore": [
       0.8094, 
       1.1021, 
       1.2877
-    ]
+    ], 
+    "gph": 553.1, 
+    "osn": 541.3
   }, 
   "sailnumber": "NOR14445", 
   "name": "Argo", 
@@ -25,10 +26,12 @@
       "spinnaker": 161.7, 
       "loa": 13.68, 
       "draft": 2.75, 
+      "wetted_surface": 41.9, 
       "main": 70.5, 
       "genoa": 58.0, 
       "displacement": 10915.0, 
-      "spinnaker_asym": 132.0
+      "spinnaker_asym": 132.0, 
+      "crew": 898.0
     }, 
     "year": "2007"
   }, 

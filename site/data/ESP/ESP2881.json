@@ -5,12 +5,13 @@
       1.1076, 
       1.2562
     ], 
-    "gph": 689.8, 
     "triple_inshore": [
       0.6514, 
       0.8947, 
       1.051
-    ]
+    ], 
+    "gph": 689.8, 
+    "osn": 669.7
   }, 
   "sailnumber": "ESP2881", 
   "name": "ARGALLAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.4, 
       "loa": 10.112, 
       "draft": 1.77, 
+      "wetted_surface": 22.7, 
       "main": 29.6, 
       "genoa": 30.6, 
       "displacement": 4525.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1982"
   }, 

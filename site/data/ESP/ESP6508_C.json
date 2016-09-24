@@ -5,12 +5,13 @@
       1.1077, 
       1.2628
     ], 
-    "gph": 691.5, 
     "triple_inshore": [
       0.6381, 
       0.883, 
       1.0425
-    ]
+    ], 
+    "gph": 691.5, 
+    "osn": 672.6
   }, 
   "sailnumber": "ESP6508_C", 
   "name": "ARIAN DOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.98, 
       "draft": 1.53, 
+      "wetted_surface": 23.3, 
       "main": 23.9, 
       "genoa": 35.8, 
       "displacement": 4504.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 350.0
     }, 
     "year": "1986"
   }, 

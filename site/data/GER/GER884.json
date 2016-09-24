@@ -5,12 +5,13 @@
       1.1515, 
       1.2955
     ], 
-    "gph": 660.8, 
     "triple_inshore": [
       0.6887, 
       0.9259, 
       1.0833
-    ]
+    ], 
+    "gph": 660.8, 
+    "osn": 644.5
   }, 
   "sailnumber": "GER884", 
   "name": "OROMOCTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 121.2, 
       "loa": 12.001, 
       "draft": 1.95, 
+      "wetted_surface": 28.6, 
       "main": 34.3, 
       "genoa": 51.2, 
       "displacement": 7914.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1971"
   }, 

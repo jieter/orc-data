@@ -5,12 +5,13 @@
       1.1847, 
       1.3382
     ], 
-    "gph": 643.4, 
     "triple_inshore": [
       0.7033, 
       0.9589, 
       1.1193
-    ]
+    ], 
+    "gph": 643.4, 
+    "osn": 625.7
   }, 
   "sailnumber": "BRA2476", 
   "name": "MELODY 5", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.3, 
       "loa": 10.062, 
       "draft": 1.94, 
+      "wetted_surface": 25.9, 
       "main": 37.7, 
       "genoa": 30.9, 
       "displacement": 5250.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 630.0
     }, 
     "year": "2010"
   }, 

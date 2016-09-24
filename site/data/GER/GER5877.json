@@ -5,12 +5,13 @@
       1.4112, 
       1.5944
     ], 
-    "gph": 542.1, 
     "triple_inshore": [
       0.8227, 
       1.1292, 
       1.3204
-    ]
+    ], 
+    "gph": 542.1, 
+    "osn": 528.0
   }, 
   "sailnumber": "GER5877", 
   "name": "NIRAMO", 
@@ -25,10 +26,12 @@
       "spinnaker": 181.1, 
       "loa": 15.22, 
       "draft": 2.95, 
+      "wetted_surface": 45.6, 
       "main": 77.6, 
       "genoa": 62.4, 
       "displacement": 12475.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 965.0
     }, 
     "year": "2005"
   }, 

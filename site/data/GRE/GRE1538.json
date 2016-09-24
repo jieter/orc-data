@@ -5,12 +5,13 @@
       0.9921, 
       1.1368
     ], 
-    "gph": 775.2, 
     "triple_inshore": [
       0.5684, 
       0.7972, 
       0.9513
-    ]
+    ], 
+    "gph": 775.2, 
+    "osn": 750.0
   }, 
   "sailnumber": "GRE1538", 
   "name": "ZMPIRIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.2, 
       "loa": 8.32, 
       "draft": 1.62, 
+      "wetted_surface": 17.7, 
       "main": 17.2, 
       "genoa": 23.3, 
       "displacement": 3110.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1985"
   }, 

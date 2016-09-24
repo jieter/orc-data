@@ -5,12 +5,13 @@
       1.3361, 
       1.5457
     ], 
-    "gph": 576.0, 
     "triple_inshore": [
       0.7426, 
       1.0582, 
       1.2818
-    ]
+    ], 
+    "gph": 576.0, 
+    "osn": 561.8
   }, 
   "sailnumber": "ITA14580", 
   "name": "ARIANNA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.5, 
       "draft": 2.71, 
+      "wetted_surface": 44.4, 
       "main": 74.9, 
       "genoa": 56.2, 
       "displacement": 10811.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 860.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.2126, 
       1.3767
     ], 
-    "gph": 629.3, 
     "triple_inshore": [
       0.7165, 
       0.9766, 
       1.1557
-    ]
+    ], 
+    "gph": 629.3, 
+    "osn": 611.4
   }, 
   "sailnumber": "NED5300", 
   "name": "SWARTE SWAEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 116.9, 
       "loa": 12.248, 
       "draft": 2.17, 
+      "wetted_surface": 32.6, 
       "main": 43.6, 
       "genoa": 47.5, 
       "displacement": 9146.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 721.0
     }, 
     "year": "1994"
   }, 

@@ -5,12 +5,13 @@
       1.1869, 
       1.3568
     ], 
-    "gph": 645.1, 
     "triple_inshore": [
       0.6895, 
       0.9493, 
       1.1328
-    ]
+    ], 
+    "gph": 645.1, 
+    "osn": 626.1
   }, 
   "sailnumber": "GRE49722", 
   "name": "ARION I", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.3, 
       "loa": 12.25, 
       "draft": 2.03, 
+      "wetted_surface": 33.9, 
       "main": 36.0, 
       "genoa": 50.9, 
       "displacement": 8986.0, 
-      "spinnaker_asym": 94.0
+      "spinnaker_asym": 94.0, 
+      "crew": 700.0
     }, 
     "year": "1985"
   }, 

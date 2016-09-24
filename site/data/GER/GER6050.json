@@ -5,12 +5,13 @@
       1.2043, 
       1.3609
     ], 
-    "gph": 633.7, 
     "triple_inshore": [
       0.7125, 
       0.9764, 
       1.143
-    ]
+    ], 
+    "gph": 633.7, 
+    "osn": 615.3
   }, 
   "sailnumber": "GER6050", 
   "name": "ELFE OF NEW YORK", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.9, 
       "loa": 11.049, 
       "draft": 2.08, 
+      "wetted_surface": 28.7, 
       "main": 36.4, 
       "genoa": 43.8, 
       "displacement": 6142.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "1999"
   }, 

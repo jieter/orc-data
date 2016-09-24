@@ -5,12 +5,13 @@
       1.1464, 
       1.3097
     ], 
-    "gph": 668.2, 
     "triple_inshore": [
       0.6659, 
       0.9205, 
       1.0934
-    ]
+    ], 
+    "gph": 668.2, 
+    "osn": 647.7
   }, 
   "sailnumber": "GRE49527", 
   "name": "ALDEBARAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.5, 
       "loa": 10.785, 
       "draft": 1.81, 
+      "wetted_surface": 25.7, 
       "main": 29.0, 
       "genoa": 35.1, 
       "displacement": 5639.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1988"
   }, 

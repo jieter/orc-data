@@ -5,12 +5,13 @@
       1.2293, 
       1.3623
     ], 
-    "gph": 619.2, 
     "triple_inshore": [
       0.7356, 
       0.985, 
       1.1289
-    ]
+    ], 
+    "gph": 619.2, 
+    "osn": 604.5
   }, 
   "sailnumber": "ITA16303", 
   "name": "ANDREBORA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.313, 
       "draft": 2.12, 
+      "wetted_surface": 29.1, 
       "main": 45.3, 
       "genoa": 39.8, 
       "displacement": 6678.0, 
-      "spinnaker_asym": 103.0
+      "spinnaker_asym": 103.0, 
+      "crew": 180.0
     }, 
     "year": "2005"
   }, 

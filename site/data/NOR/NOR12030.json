@@ -5,12 +5,13 @@
       1.2097, 
       1.3782
     ], 
-    "gph": 633.1, 
     "triple_inshore": [
       0.7054, 
       0.9777, 
       1.1608
-    ]
+    ], 
+    "gph": 633.1, 
+    "osn": 613.0
   }, 
   "sailnumber": "NOR12030", 
   "name": "Baba Yaga", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.5, 
       "loa": 11.16, 
       "draft": 2.37, 
+      "wetted_surface": 29.1, 
       "main": 39.0, 
       "genoa": 32.6, 
       "displacement": 6749.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 716.0
     }, 
     "year": "2003"
   }, 

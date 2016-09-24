@@ -5,12 +5,13 @@
       1.2321, 
       1.4079
     ], 
-    "gph": 622.0, 
     "triple_inshore": [
       0.7102, 
       0.9868, 
       1.1653
-    ]
+    ], 
+    "gph": 622.0, 
+    "osn": 603.8
   }, 
   "sailnumber": "NOR12036", 
   "name": "Ubi Bene", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.8, 
       "loa": 11.25, 
       "draft": 1.98, 
+      "wetted_surface": 31.0, 
       "main": 42.1, 
       "genoa": 41.5, 
       "displacement": 6526.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 738.0
     }, 
     "year": "2005"
   }, 

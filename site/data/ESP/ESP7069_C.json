@@ -5,12 +5,13 @@
       1.2132, 
       1.3689
     ], 
-    "gph": 628.9, 
     "triple_inshore": [
       0.7173, 
       0.983, 
       1.1461
-    ]
+    ], 
+    "gph": 628.9, 
+    "osn": 611.8
   }, 
   "sailnumber": "ESP7069_C", 
   "name": "PAO III", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.4, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.2, 
       "main": 38.5, 
       "genoa": 40.5, 
       "displacement": 5494.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 580.0
     }, 
     "year": "2001"
   }, 

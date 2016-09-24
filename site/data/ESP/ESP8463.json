@@ -5,12 +5,13 @@
       1.2174, 
       1.3689
     ], 
-    "gph": 626.2, 
     "triple_inshore": [
       0.7237, 
       0.9894, 
       1.1508
-    ]
+    ], 
+    "gph": 626.2, 
+    "osn": 609.1
   }, 
   "sailnumber": "ESP8463", 
   "name": "LUNA VI", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.7, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.8, 
       "main": 39.8, 
       "genoa": 39.5, 
       "displacement": 5763.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 630.0
     }, 
     "year": "2001"
   }, 

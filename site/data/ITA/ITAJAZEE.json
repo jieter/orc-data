@@ -5,12 +5,13 @@
       1.2177, 
       1.41
     ], 
-    "gph": 630.2, 
     "triple_inshore": [
       0.6963, 
       0.9711, 
       1.1735
-    ]
+    ], 
+    "gph": 630.2, 
+    "osn": 611.1
   }, 
   "sailnumber": "ITAJAZEE", 
   "name": "JAZEERA", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.0, 
       "loa": 12.9, 
       "draft": 2.28, 
+      "wetted_surface": 33.6, 
       "main": 35.8, 
       "genoa": 51.4, 
       "displacement": 8463.0, 
-      "spinnaker_asym": 90.0
+      "spinnaker_asym": 90.0, 
+      "crew": 550.0
     }, 
     "year": "1998"
   }, 

@@ -5,12 +5,13 @@
       1.4466, 
       1.7174
     ], 
-    "gph": 521.8, 
     "triple_inshore": [
       0.8793, 
       1.166, 
       1.3982
-    ]
+    ], 
+    "gph": 521.8, 
+    "osn": 506.2
   }, 
   "sailnumber": "FRA9163", 
   "name": "KEEL BILL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.65, 
       "draft": 2.83, 
+      "wetted_surface": 23.0, 
       "main": 48.5, 
       "genoa": 32.7, 
       "displacement": 2952.0, 
-      "spinnaker_asym": 156.0
+      "spinnaker_asym": 156.0, 
+      "crew": 680.0
     }, 
     "year": "2008"
   }, 

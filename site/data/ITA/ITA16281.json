@@ -5,12 +5,13 @@
       1.1568, 
       1.3015
     ], 
-    "gph": 659.3, 
     "triple_inshore": [
       0.6857, 
       0.9316, 
       1.0815
-    ]
+    ], 
+    "gph": 659.3, 
+    "osn": 640.9
   }, 
   "sailnumber": "ITA16281", 
   "name": "SOLARIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.24, 
       "draft": 1.93, 
+      "wetted_surface": 22.9, 
       "main": 31.7, 
       "genoa": 23.3, 
       "displacement": 4294.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 480.0
     }, 
     "year": "2009"
   }, 

@@ -5,12 +5,13 @@
       1.0964, 
       1.2494
     ], 
-    "gph": 698.1, 
     "triple_inshore": [
       0.6405, 
       0.8835, 
       1.0471
-    ]
+    ], 
+    "gph": 698.1, 
+    "osn": 677.1
   }, 
   "sailnumber": "GRE1532", 
   "name": "TUCACU", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.0, 
       "loa": 10.112, 
       "draft": 1.8, 
+      "wetted_surface": 23.5, 
       "main": 30.9, 
       "genoa": 24.9, 
       "displacement": 4860.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 541.0
     }, 
     "year": "1982"
   }, 

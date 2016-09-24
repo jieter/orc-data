@@ -5,12 +5,13 @@
       1.0896, 
       1.2603
     ], 
-    "gph": 704.3, 
     "triple_inshore": [
       0.625, 
       0.8772, 
       1.0635
-    ]
+    ], 
+    "gph": 704.3, 
+    "osn": 682.1
   }, 
   "sailnumber": "ITABIRBA2", 
   "name": "BIRBA 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.583, 
       "draft": 3.23, 
+      "wetted_surface": 31.6, 
       "main": 33.0, 
       "genoa": 55.4, 
       "displacement": 11863.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 250.0
     }, 
     "year": "1980"
   }, 

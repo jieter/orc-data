@@ -5,12 +5,13 @@
       1.2594, 
       1.4173
     ], 
-    "gph": 608.4, 
     "triple_inshore": [
       0.732, 
       1.0033, 
       1.1681
-    ]
+    ], 
+    "gph": 608.4, 
+    "osn": 591.2
   }, 
   "sailnumber": "ITA17142", 
   "name": "ROBADAMATTI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.27, 
       "draft": 2.14, 
+      "wetted_surface": 35.9, 
       "main": 48.9, 
       "genoa": 38.3, 
       "displacement": 8965.0, 
-      "spinnaker_asym": 137.0
+      "spinnaker_asym": 137.0, 
+      "crew": 500.0
     }, 
     "year": "2007"
   }, 

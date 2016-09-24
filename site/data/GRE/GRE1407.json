@@ -5,12 +5,13 @@
       0.9435, 
       1.0957
     ], 
-    "gph": 820.9, 
     "triple_inshore": [
       0.5214, 
       0.7518, 
       0.903
-    ]
+    ], 
+    "gph": 820.9, 
+    "osn": 791.3
   }, 
   "sailnumber": "GRE1407", 
   "name": "ALKISTIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.76, 
       "draft": 1.02, 
+      "wetted_surface": 16.2, 
       "main": 17.7, 
       "genoa": 15.7, 
       "displacement": 2050.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1989"
   }, 

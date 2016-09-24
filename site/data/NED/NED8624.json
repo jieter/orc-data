@@ -5,12 +5,13 @@
       1.2364, 
       1.4492
     ], 
-    "gph": 624.1, 
     "triple_inshore": [
       0.6822, 
       0.9812, 
       1.2078
-    ]
+    ], 
+    "gph": 624.1, 
+    "osn": 604.7
   }, 
   "sailnumber": "NED8624", 
   "name": "Navicula", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.33, 
       "draft": 2.31, 
+      "wetted_surface": 38.8, 
       "main": 54.6, 
       "genoa": 44.5, 
       "displacement": 10145.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 906.0
     }, 
     "year": "2004"
   }, 

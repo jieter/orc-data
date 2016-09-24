@@ -5,12 +5,13 @@
       1.1784, 
       1.321
     ], 
-    "gph": 644.1, 
     "triple_inshore": [
       0.7106, 
       0.9582, 
       1.1048
-    ]
+    ], 
+    "gph": 644.1, 
+    "osn": 628.8
   }, 
   "sailnumber": "NOR5361", 
   "name": "Hello Goodbye", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.2, 
       "loa": 9.996, 
       "draft": 1.87, 
+      "wetted_surface": 20.8, 
       "main": 37.0, 
       "genoa": 32.1, 
       "displacement": 3588.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 505.0
     }, 
     "year": "1984"
   }, 

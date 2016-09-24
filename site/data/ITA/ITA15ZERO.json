@@ -5,12 +5,13 @@
       1.0926, 
       1.246
     ], 
-    "gph": 686.1, 
     "triple_inshore": [
       0.6907, 
       0.8796, 
       1.0058
-    ]
+    ], 
+    "gph": 686.1, 
+    "osn": 671.2
   }, 
   "sailnumber": "ITA15ZERO", 
   "name": "3...2...1...ZEROOO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.6, 
       "draft": 1.62, 
+      "wetted_surface": 9.9, 
       "main": 19.3, 
       "genoa": 11.0, 
       "displacement": 800.0, 
-      "spinnaker_asym": 47.0
+      "spinnaker_asym": 47.0, 
+      "crew": 310.0
     }, 
     "year": "1999"
   }, 

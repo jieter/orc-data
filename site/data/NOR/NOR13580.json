@@ -5,12 +5,13 @@
       1.1572, 
       1.3445
     ], 
-    "gph": 665.1, 
     "triple_inshore": [
       0.6458, 
       0.9167, 
       1.1139
-    ]
+    ], 
+    "gph": 665.1, 
+    "osn": 646.3
   }, 
   "sailnumber": "NOR13580", 
   "name": "Salig", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.93, 
       "draft": 1.88, 
+      "wetted_surface": 32.7, 
       "main": 38.8, 
       "genoa": 45.7, 
       "displacement": 8225.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 770.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.0632, 
       1.2173
     ], 
-    "gph": 721.6, 
     "triple_inshore": [
       0.6164, 
       0.855, 
       1.0184
-    ]
+    ], 
+    "gph": 721.6, 
+    "osn": 698.6
   }, 
   "sailnumber": "ITA10972", 
   "name": "PIERROT", 
@@ -25,10 +26,12 @@
       "spinnaker": 49.9, 
       "loa": 9.785, 
       "draft": 1.8, 
+      "wetted_surface": 21.5, 
       "main": 19.4, 
       "genoa": 30.7, 
       "displacement": 4221.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1981"
   }, 

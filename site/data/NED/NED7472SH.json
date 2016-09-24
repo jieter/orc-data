@@ -5,12 +5,13 @@
       1.2168, 
       1.3542
     ], 
-    "gph": 626.1, 
     "triple_inshore": [
       0.7267, 
       0.9816, 
       1.1226
-    ]
+    ], 
+    "gph": 626.1, 
+    "osn": 609.6
   }, 
   "sailnumber": "NED7472SH", 
   "name": "Team Heiner 4", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.757, 
       "draft": 2.13, 
+      "wetted_surface": 26.1, 
       "main": 38.0, 
       "genoa": 28.5, 
       "displacement": 4997.0, 
-      "spinnaker_asym": 114.0
+      "spinnaker_asym": 114.0, 
+      "crew": 175.0
     }, 
     "year": "2001"
   }, 

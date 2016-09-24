@@ -5,12 +5,13 @@
       1.2572, 
       1.4165
     ], 
-    "gph": 606.4, 
     "triple_inshore": [
       0.7381, 
       0.9961, 
       1.1594
-    ]
+    ], 
+    "gph": 606.4, 
+    "osn": 592.6
   }, 
   "sailnumber": "ESP10304_C", 
   "name": "JARANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.43, 
       "draft": 1.79, 
+      "wetted_surface": 34.8, 
       "main": 45.7, 
       "genoa": 66.4, 
       "displacement": 8692.0, 
-      "spinnaker_asym": 128.0
+      "spinnaker_asym": 128.0, 
+      "crew": 300.0
     }, 
     "year": "2012"
   }, 

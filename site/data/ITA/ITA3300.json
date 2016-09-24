@@ -5,12 +5,13 @@
       1.2274, 
       1.3822
     ], 
-    "gph": 620.0, 
     "triple_inshore": [
       0.7345, 
       0.9961, 
       1.1478
-    ]
+    ], 
+    "gph": 620.0, 
+    "osn": 603.6
   }, 
   "sailnumber": "ITA3300", 
   "name": "CONTROCORRENTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.7, 
       "loa": 9.991, 
       "draft": 1.92, 
+      "wetted_surface": 23.4, 
       "main": 35.0, 
       "genoa": 32.0, 
       "displacement": 4230.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2012"
   }, 

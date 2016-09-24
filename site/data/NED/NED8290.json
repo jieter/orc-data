@@ -5,12 +5,13 @@
       1.2297, 
       1.4219
     ], 
-    "gph": 624.7, 
     "triple_inshore": [
       0.7024, 
       0.9847, 
       1.1848
-    ]
+    ], 
+    "gph": 624.7, 
+    "osn": 604.7
   }, 
   "sailnumber": "NED8290", 
   "name": "Azzuro", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.5, 
       "loa": 12.016, 
       "draft": 2.17, 
+      "wetted_surface": 32.1, 
       "main": 43.4, 
       "genoa": 33.1, 
       "displacement": 7357.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 796.0
     }, 
     "year": "2000"
   }, 

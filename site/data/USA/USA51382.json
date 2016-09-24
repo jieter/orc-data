@@ -5,12 +5,13 @@
       1.3207, 
       1.514
     ], 
-    "gph": 580.4, 
     "triple_inshore": [
       0.7653, 
       1.0496, 
       1.2513
-    ]
+    ], 
+    "gph": 580.4, 
+    "osn": 563.4
   }, 
   "sailnumber": "USA51382", 
   "name": "Skye", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 16.057, 
       "draft": 3.15, 
+      "wetted_surface": 55.7, 
       "main": 69.8, 
       "genoa": 81.0, 
       "displacement": 21432.0, 
-      "spinnaker_asym": 179.0
+      "spinnaker_asym": 179.0, 
+      "crew": 1046.0
     }, 
     "year": "1989"
   }, 

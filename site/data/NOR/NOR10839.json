@@ -5,12 +5,13 @@
       1.108, 
       1.2622
     ], 
-    "gph": 692.5, 
     "triple_inshore": [
       0.6402, 
       0.8766, 
       1.036
-    ]
+    ], 
+    "gph": 692.5, 
+    "osn": 672.0
   }, 
   "sailnumber": "NOR10839", 
   "name": "SIMETRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.43, 
       "draft": 1.72, 
+      "wetted_surface": 27.8, 
       "main": 26.5, 
       "genoa": 36.1, 
       "displacement": 6232.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 688.0
     }, 
     "year": "2003"
   }, 

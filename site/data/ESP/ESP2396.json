@@ -5,12 +5,13 @@
       1.133, 
       1.2812
     ], 
-    "gph": 671.5, 
     "triple_inshore": [
       0.6766, 
       0.9252, 
       1.0684
-    ]
+    ], 
+    "gph": 671.5, 
+    "osn": 652.5
   }, 
   "sailnumber": "ESP2396", 
   "name": "TANJAOUI", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.6, 
       "loa": 9.0, 
       "draft": 1.76, 
+      "wetted_surface": 18.3, 
       "main": 27.7, 
       "genoa": 27.1, 
       "displacement": 2670.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 520.0
     }, 
     "year": "1979"
   }, 

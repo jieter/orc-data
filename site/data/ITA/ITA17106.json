@@ -5,12 +5,13 @@
       1.0298, 
       1.2039
     ], 
-    "gph": 749.4, 
     "triple_inshore": [
       0.5763, 
       0.82, 
       1.0007
-    ]
+    ], 
+    "gph": 749.4, 
+    "osn": 724.0
   }, 
   "sailnumber": "ITA17106", 
   "name": "DOLPHIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.7, 
       "loa": 8.95, 
       "draft": 1.7, 
+      "wetted_surface": 22.2, 
       "main": 24.8, 
       "genoa": 15.6, 
       "displacement": 3600.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 380.0
     }, 
     "year": "1997"
   }, 

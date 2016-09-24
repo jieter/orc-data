@@ -5,12 +5,13 @@
       1.1631, 
       1.3215
     ], 
-    "gph": 656.6, 
     "triple_inshore": [
       0.6842, 
       0.9411, 
       1.1121
-    ]
+    ], 
+    "gph": 656.6, 
+    "osn": 637.5
   }, 
   "sailnumber": "NED6292", 
   "name": "ZEEUWSE RAKKER", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.0, 
       "loa": 10.51, 
       "draft": 1.93, 
+      "wetted_surface": 26.2, 
       "main": 39.9, 
       "genoa": 25.7, 
       "displacement": 5749.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 609.0
     }, 
     "year": "1999"
   }, 

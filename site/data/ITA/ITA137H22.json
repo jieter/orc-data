@@ -5,12 +5,13 @@
       1.1094, 
       1.2764
     ], 
-    "gph": 677.3, 
     "triple_inshore": [
       0.6904, 
       0.8861, 
       1.0254
-    ]
+    ], 
+    "gph": 677.3, 
+    "osn": 662.4
   }, 
   "sailnumber": "ITA137H22", 
   "name": "H22 RACING ACCADEMY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.74, 
       "draft": 1.52, 
+      "wetted_surface": 11.0, 
       "main": 20.4, 
       "genoa": 11.0, 
       "displacement": 789.0, 
-      "spinnaker_asym": 51.0
+      "spinnaker_asym": 51.0, 
+      "crew": 280.0
     }, 
     "year": "2002"
   }, 

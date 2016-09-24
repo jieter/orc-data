@@ -5,12 +5,13 @@
       1.2457, 
       1.415
     ], 
-    "gph": 613.9, 
     "triple_inshore": [
       0.7244, 
       0.9997, 
       1.172
-    ]
+    ], 
+    "gph": 613.9, 
+    "osn": 597.1
   }, 
   "sailnumber": "NOR12140", 
   "name": "Marie II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.25, 
       "draft": 1.98, 
+      "wetted_surface": 30.9, 
       "main": 46.2, 
       "genoa": 42.6, 
       "displacement": 6436.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 735.0
     }, 
     "year": "2005"
   }, 

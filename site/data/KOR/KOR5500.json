@@ -5,12 +5,13 @@
       1.3031, 
       1.4724
     ], 
-    "gph": 585.1, 
     "triple_inshore": [
       0.7704, 
       1.0472, 
       1.1987
-    ]
+    ], 
+    "gph": 585.1, 
+    "osn": 569.4
   }, 
   "sailnumber": "KOR5500", 
   "name": "Band POE II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.935, 
       "draft": 2.21, 
+      "wetted_surface": 27.4, 
       "main": 41.9, 
       "genoa": 36.3, 
       "displacement": 5061.0, 
-      "spinnaker_asym": 138.0
+      "spinnaker_asym": 138.0, 
+      "crew": 693.0
     }, 
     "year": "2011"
   }, 

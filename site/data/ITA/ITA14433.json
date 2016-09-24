@@ -5,12 +5,13 @@
       1.2106, 
       1.3661
     ], 
-    "gph": 630.3, 
     "triple_inshore": [
       0.7156, 
       0.9825, 
       1.1455
-    ]
+    ], 
+    "gph": 630.3, 
+    "osn": 612.3
   }, 
   "sailnumber": "ITA14433", 
   "name": "ADRASTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.5, 
       "loa": 10.64, 
       "draft": 2.22, 
+      "wetted_surface": 26.5, 
       "main": 37.6, 
       "genoa": 41.5, 
       "displacement": 5482.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "2001"
   }, 

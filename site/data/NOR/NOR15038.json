@@ -5,12 +5,13 @@
       1.3071, 
       1.47
     ], 
-    "gph": 579.7, 
     "triple_inshore": [
       0.7828, 
       1.0559, 
       1.2283
-    ]
+    ], 
+    "gph": 579.7, 
+    "osn": 567.1
   }, 
   "sailnumber": "NOR15038", 
   "name": "XPRONTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 129.7, 
       "loa": 11.58, 
       "draft": 2.41, 
+      "wetted_surface": 31.9, 
       "main": 50.1, 
       "genoa": 37.6, 
       "displacement": 7292.0, 
-      "spinnaker_asym": 129.0
+      "spinnaker_asym": 129.0, 
+      "crew": 752.0
     }, 
     "year": "2011"
   }, 

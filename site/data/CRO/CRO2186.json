@@ -5,12 +5,13 @@
       1.1796, 
       1.3357
     ], 
-    "gph": 647.8, 
     "triple_inshore": [
       0.6958, 
       0.9564, 
       1.1198
-    ]
+    ], 
+    "gph": 647.8, 
+    "osn": 628.4
   }, 
   "sailnumber": "CRO2186", 
   "name": "Green Pepper", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.9, 
       "loa": 9.934, 
       "draft": 2.13, 
+      "wetted_surface": 24.4, 
       "main": 33.2, 
       "genoa": 28.6, 
       "displacement": 4853.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 515.0
     }, 
     "year": "2008"
   }, 

@@ -5,12 +5,13 @@
       0.9845, 
       1.1076
     ], 
-    "gph": 773.3, 
     "triple_inshore": [
       0.5921, 
       0.8029, 
       0.9311
-    ]
+    ], 
+    "gph": 773.3, 
+    "osn": 751.3
   }, 
   "sailnumber": "NOR4246", 
   "name": "Papillon", 
@@ -25,10 +26,12 @@
       "spinnaker": 41.1, 
       "loa": 7.8, 
       "draft": 1.47, 
+      "wetted_surface": 14.1, 
       "main": 15.4, 
       "genoa": 18.1, 
       "displacement": 2327.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 353.0
     }, 
     "year": "1978"
   }, 

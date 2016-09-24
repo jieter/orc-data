@@ -5,12 +5,13 @@
       1.1334, 
       1.2726
     ], 
-    "gph": 672.2, 
     "triple_inshore": [
       0.6763, 
       0.9097, 
       1.0593
-    ]
+    ], 
+    "gph": 672.2, 
+    "osn": 655.0
   }, 
   "sailnumber": "NED806", 
   "name": "JUTTER", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.7, 
       "loa": 10.97, 
       "draft": 1.97, 
+      "wetted_surface": 26.5, 
       "main": 31.9, 
       "genoa": 42.3, 
       "displacement": 6757.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 601.0
     }, 
     "year": "1980"
   }, 

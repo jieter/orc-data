@@ -5,12 +5,13 @@
       1.2372, 
       1.4063
     ], 
-    "gph": 619.3, 
     "triple_inshore": [
       0.7201, 
       0.9984, 
       1.1832
-    ]
+    ], 
+    "gph": 619.3, 
+    "osn": 599.7
   }, 
   "sailnumber": "NOR14391", 
   "name": "Ajda Bjorg", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.5, 
       "loa": 11.347, 
       "draft": 2.31, 
+      "wetted_surface": 31.6, 
       "main": 41.5, 
       "genoa": 33.3, 
       "displacement": 7481.0, 
-      "spinnaker_asym": 110.0
+      "spinnaker_asym": 110.0, 
+      "crew": 779.0
     }, 
     "year": "2008"
   }, 

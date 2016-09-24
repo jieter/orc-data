@@ -5,12 +5,13 @@
       1.1237, 
       1.2577
     ], 
-    "gph": 677.4, 
     "triple_inshore": [
       0.6739, 
       0.9117, 
       1.0524
-    ]
+    ], 
+    "gph": 677.4, 
+    "osn": 659.7
   }, 
   "sailnumber": "FRA7460", 
   "name": "ANTIPOLIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.9, 
       "loa": 10.11, 
       "draft": 1.82, 
+      "wetted_surface": 21.1, 
       "main": 25.6, 
       "genoa": 37.6, 
       "displacement": 4294.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1978"
   }, 

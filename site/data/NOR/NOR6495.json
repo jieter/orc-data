@@ -5,12 +5,13 @@
       1.2271, 
       1.388
     ], 
-    "gph": 621.2, 
     "triple_inshore": [
       0.7235, 
       0.994, 
       1.1569
-    ]
+    ], 
+    "gph": 621.2, 
+    "osn": 604.7
   }, 
   "sailnumber": "NOR6495", 
   "name": "Silje Marie", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.3, 
       "loa": 10.8, 
       "draft": 1.93, 
+      "wetted_surface": 24.0, 
       "main": 35.4, 
       "genoa": 35.4, 
       "displacement": 4484.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 635.0
     }, 
     "year": "1987"
   }, 

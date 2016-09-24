@@ -5,12 +5,13 @@
       1.0449, 
       1.1553
     ], 
-    "gph": 721.6, 
     "triple_inshore": [
       0.6526, 
       0.8596, 
       0.9619
-    ]
+    ], 
+    "gph": 721.6, 
+    "osn": 705.0
   }, 
   "sailnumber": "POL33", 
   "name": "Diament", 
@@ -25,10 +26,12 @@
       "spinnaker": 32.8, 
       "loa": 7.655, 
       "draft": 1.48, 
+      "wetted_surface": 11.9, 
       "main": 20.8, 
       "genoa": 16.9, 
       "displacement": 1406.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1979"
   }, 

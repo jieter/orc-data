@@ -5,12 +5,13 @@
       1.4553, 
       1.6435
     ], 
-    "gph": 520.8, 
     "triple_inshore": [
       0.8806, 
       1.1827, 
       1.368
-    ]
+    ], 
+    "gph": 520.8, 
+    "osn": 507.3
   }, 
   "sailnumber": "GER5496", 
   "name": "GUT'S N GLORY", 
@@ -25,10 +26,12 @@
       "spinnaker": 188.4, 
       "loa": 14.1, 
       "draft": 3.04, 
+      "wetted_surface": 39.3, 
       "main": 78.2, 
       "genoa": 54.7, 
       "displacement": 8768.0, 
-      "spinnaker_asym": 204.0
+      "spinnaker_asym": 204.0, 
+      "crew": 600.0
     }, 
     "year": "2003"
   }, 

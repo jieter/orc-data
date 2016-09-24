@@ -5,12 +5,13 @@
       1.0019, 
       1.1876
     ], 
-    "gph": 772.1, 
     "triple_inshore": [
       0.5501, 
       0.7894, 
       0.9824
-    ]
+    ], 
+    "gph": 772.1, 
+    "osn": 745.3
   }, 
   "sailnumber": "GRE1192", 
   "name": "EVITA K", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.34, 
       "draft": 1.61, 
+      "wetted_surface": 21.4, 
       "main": 17.8, 
       "genoa": 25.2, 
       "displacement": 4346.0, 
-      "spinnaker_asym": 69.0
+      "spinnaker_asym": 69.0, 
+      "crew": 400.0
     }, 
     "year": "1991"
   }, 

@@ -5,12 +5,13 @@
       1.1185, 
       1.2485
     ], 
-    "gph": 680.1, 
     "triple_inshore": [
       0.6709, 
       0.9052, 
       1.0412
-    ]
+    ], 
+    "gph": 680.1, 
+    "osn": 663.3
   }, 
   "sailnumber": "NOR11975", 
   "name": "Nirvana", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.6, 
       "loa": 10.04, 
       "draft": 1.58, 
+      "wetted_surface": 21.6, 
       "main": 30.6, 
       "genoa": 31.1, 
       "displacement": 4343.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 529.0
     }, 
     "year": "1994"
   }, 

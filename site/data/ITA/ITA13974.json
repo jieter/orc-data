@@ -5,12 +5,13 @@
       1.2043, 
       1.3567
     ], 
-    "gph": 631.9, 
     "triple_inshore": [
       0.7221, 
       0.9854, 
       1.1432
-    ]
+    ], 
+    "gph": 631.9, 
+    "osn": 614.3
   }, 
   "sailnumber": "ITA13974", 
   "name": "BIX", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.1, 
       "loa": 10.045, 
       "draft": 2.16, 
+      "wetted_surface": 23.5, 
       "main": 36.2, 
       "genoa": 32.9, 
       "displacement": 4291.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 565.0
     }, 
     "year": "1994"
   }, 

@@ -5,12 +5,13 @@
       1.1047, 
       1.2893
     ], 
-    "gph": 686.7, 
     "triple_inshore": [
       0.6626, 
       0.8905, 
       1.04
-    ]
+    ], 
+    "gph": 686.7, 
+    "osn": 666.3
   }, 
   "sailnumber": "NED8432", 
   "name": "J Force One", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.907, 
       "draft": 1.4, 
+      "wetted_surface": 11.3, 
       "main": 16.3, 
       "genoa": 10.0, 
       "displacement": 913.0, 
-      "spinnaker_asym": 45.0
+      "spinnaker_asym": 45.0, 
+      "crew": 368.0
     }, 
     "year": "2013"
   }, 

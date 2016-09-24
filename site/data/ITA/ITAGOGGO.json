@@ -5,12 +5,13 @@
       1.1903, 
       1.3472
     ], 
-    "gph": 644.1, 
     "triple_inshore": [
       0.6911, 
       0.9512, 
       1.1102
-    ]
+    ], 
+    "gph": 644.1, 
+    "osn": 624.6
   }, 
   "sailnumber": "ITAGOGGO", 
   "name": "GOGHI GO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.815, 
       "draft": 2.1, 
+      "wetted_surface": 28.1, 
       "main": 31.5, 
       "genoa": 35.1, 
       "displacement": 5465.0, 
-      "spinnaker_asym": 88.0
+      "spinnaker_asym": 88.0, 
+      "crew": 450.0
     }, 
     "year": "2000"
   }, 

@@ -5,12 +5,13 @@
       1.1235, 
       1.2772
     ], 
-    "gph": 682.5, 
     "triple_inshore": [
       0.6533, 
       0.9087, 
       1.0658
-    ]
+    ], 
+    "gph": 682.5, 
+    "osn": 660.5
   }, 
   "sailnumber": "ESP5192_C", 
   "name": "ALBOR", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.1, 
       "loa": 8.959, 
       "draft": 1.8, 
+      "wetted_surface": 21.0, 
       "main": 25.3, 
       "genoa": 21.5, 
       "displacement": 3267.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 310.0
     }, 
     "year": "1994"
   }, 

@@ -5,12 +5,13 @@
       1.4813, 
       1.7121
     ], 
-    "gph": 511.2, 
     "triple_inshore": [
       0.8862, 
       1.1755, 
       1.3776
-    ]
+    ], 
+    "gph": 511.2, 
+    "osn": 499.3
   }, 
   "sailnumber": "BRA2447", 
   "name": "VESPER 4", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.3, 
       "draft": 2.6, 
+      "wetted_surface": 30.2, 
       "main": 64.4, 
       "genoa": 41.7, 
       "displacement": 4206.0, 
-      "spinnaker_asym": 176.0
+      "spinnaker_asym": 176.0, 
+      "crew": 860.0
     }, 
     "year": "2008"
   }, 

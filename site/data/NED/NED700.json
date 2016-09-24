@@ -5,12 +5,13 @@
       1.1216, 
       1.2698
     ], 
-    "gph": 679.7, 
     "triple_inshore": [
       0.6637, 
       0.8953, 
       1.052
-    ]
+    ], 
+    "gph": 679.7, 
+    "osn": 662.8
   }, 
   "sailnumber": "NED700", 
   "name": "l' Esprit du Morbihan", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.4, 
       "loa": 11.38, 
       "draft": 1.66, 
+      "wetted_surface": 27.5, 
       "main": 34.7, 
       "genoa": 40.9, 
       "displacement": 6628.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "1969"
   }, 

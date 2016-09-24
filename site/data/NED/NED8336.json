@@ -5,12 +5,13 @@
       1.2187, 
       1.3991
     ], 
-    "gph": 629.1, 
     "triple_inshore": [
       0.7024, 
       0.9769, 
       1.1497
-    ]
+    ], 
+    "gph": 629.1, 
+    "osn": 609.5
   }, 
   "sailnumber": "NED8336", 
   "name": "Dolce Vita", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.2, 
       "loa": 10.98, 
       "draft": 1.93, 
+      "wetted_surface": 27.0, 
       "main": 38.9, 
       "genoa": 27.8, 
       "displacement": 4762.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 663.0
     }, 
     "year": "2011"
   }, 

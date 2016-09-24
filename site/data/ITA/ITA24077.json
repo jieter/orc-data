@@ -5,12 +5,13 @@
       1.1275, 
       1.2898
     ], 
-    "gph": 672.8, 
     "triple_inshore": [
       0.6801, 
       0.918, 
       1.0497
-    ]
+    ], 
+    "gph": 672.8, 
+    "osn": 653.6
   }, 
   "sailnumber": "ITA24077", 
   "name": "MODESTAMENTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 38.4, 
       "loa": 7.495, 
       "draft": 1.67, 
+      "wetted_surface": 12.5, 
       "main": 19.5, 
       "genoa": 14.7, 
       "displacement": 1064.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1994"
   }, 

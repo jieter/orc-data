@@ -5,12 +5,13 @@
       1.1691, 
       1.3314
     ], 
-    "gph": 653.5, 
     "triple_inshore": [
       0.6776, 
       0.9372, 
       1.1092
-    ]
+    ], 
+    "gph": 653.5, 
+    "osn": 636.3
   }, 
   "sailnumber": "ITA14914", 
   "name": "CHOCOLAT", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.0, 
       "loa": 10.3, 
       "draft": 1.9, 
+      "wetted_surface": 25.1, 
       "main": 33.3, 
       "genoa": 32.8, 
       "displacement": 5211.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 590.0
     }, 
     "year": "2003"
   }, 

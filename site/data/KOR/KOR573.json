@@ -5,12 +5,13 @@
       1.3911, 
       1.6055
     ], 
-    "gph": 550.4, 
     "triple_inshore": [
       0.7981, 
       1.1111, 
       1.3042
-    ]
+    ], 
+    "gph": 550.4, 
+    "osn": 535.5
   }, 
   "sailnumber": "KOR573", 
   "name": "Mariners", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.8, 
       "loa": 11.97, 
       "draft": 2.39, 
+      "wetted_surface": 28.5, 
       "main": 50.1, 
       "genoa": 33.7, 
       "displacement": 4057.0, 
-      "spinnaker_asym": 94.0
+      "spinnaker_asym": 94.0, 
+      "crew": 800.0
     }, 
     "year": "2006"
   }, 

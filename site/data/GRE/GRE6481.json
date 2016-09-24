@@ -5,12 +5,13 @@
       0.922, 
       1.079
     ], 
-    "gph": 828.8, 
     "triple_inshore": [
       0.5363, 
       0.7401, 
       0.9006
-    ]
+    ], 
+    "gph": 828.8, 
+    "osn": 803.1
   }, 
   "sailnumber": "GRE6481", 
   "name": "DELFIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 34.3, 
       "loa": 7.14, 
       "draft": 1.38, 
+      "wetted_surface": 13.0, 
       "main": 12.9, 
       "genoa": 13.8, 
       "displacement": 1857.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1975"
   }, 

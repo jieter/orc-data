@@ -5,12 +5,13 @@
       1.2232, 
       1.384
     ], 
-    "gph": 623.6, 
     "triple_inshore": [
       0.724, 
       0.9949, 
       1.1592
-    ]
+    ], 
+    "gph": 623.6, 
+    "osn": 606.0
   }, 
   "sailnumber": "GER6767", 
   "name": "IZJAHURTIG", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.5, 
       "loa": 10.15, 
       "draft": 2.11, 
+      "wetted_surface": 24.4, 
       "main": 38.5, 
       "genoa": 29.1, 
       "displacement": 4622.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 590.0
     }, 
     "year": "2011"
   }, 

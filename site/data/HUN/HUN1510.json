@@ -5,12 +5,13 @@
       1.2051, 
       1.3507
     ], 
-    "gph": 629.2, 
     "triple_inshore": [
       0.7205, 
       0.973, 
       1.1197
-    ]
+    ], 
+    "gph": 629.2, 
+    "osn": 615.9
   }, 
   "sailnumber": "HUN1510", 
   "name": "Rose", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.0, 
       "loa": 9.515, 
       "draft": 1.94, 
+      "wetted_surface": 23.8, 
       "main": 35.0, 
       "genoa": 26.6, 
       "displacement": 4143.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 571.0
     }, 
     "year": "2011"
   }, 

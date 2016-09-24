@@ -5,12 +5,13 @@
       0.9401, 
       1.0788
     ], 
-    "gph": 814.3, 
     "triple_inshore": [
       0.5454, 
       0.7563, 
       0.8993
-    ]
+    ], 
+    "gph": 814.3, 
+    "osn": 790.1
   }, 
   "sailnumber": "NED2406", 
   "name": "HoutNsteen", 
@@ -25,10 +26,12 @@
       "spinnaker": 34.0, 
       "loa": 7.224, 
       "draft": 1.24, 
+      "wetted_surface": 12.2, 
       "main": 11.8, 
       "genoa": 14.7, 
       "displacement": 1550.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 250.0
     }, 
     "year": "1978"
   }, 

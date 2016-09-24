@@ -5,12 +5,13 @@
       1.2534, 
       1.4143
     ], 
-    "gph": 609.1, 
     "triple_inshore": [
       0.7339, 
       1.003, 
       1.169
-    ]
+    ], 
+    "gph": 609.1, 
+    "osn": 593.8
   }, 
   "sailnumber": "ITA15908", 
   "name": "NON SOLO VELA", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.6, 
       "loa": 11.91, 
       "draft": 1.9, 
+      "wetted_surface": 31.2, 
       "main": 46.5, 
       "genoa": 49.1, 
       "displacement": 7004.0, 
-      "spinnaker_asym": 96.0
+      "spinnaker_asym": 96.0, 
+      "crew": 640.0
     }, 
     "year": "1997"
   }, 

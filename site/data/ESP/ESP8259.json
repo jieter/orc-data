@@ -5,12 +5,13 @@
       1.2557, 
       1.4257
     ], 
-    "gph": 609.3, 
     "triple_inshore": [
       0.7299, 
       1.0041, 
       1.1811
-    ]
+    ], 
+    "gph": 609.3, 
+    "osn": 592.2
   }, 
   "sailnumber": "ESP8259", 
   "name": "ARCHER DOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 121.0, 
       "loa": 12.027, 
       "draft": 1.99, 
+      "wetted_surface": 35.8, 
       "main": 51.4, 
       "genoa": 47.0, 
       "displacement": 8962.0, 
-      "spinnaker_asym": 116.0
+      "spinnaker_asym": 116.0, 
+      "crew": 650.0
     }, 
     "year": "2005"
   }, 

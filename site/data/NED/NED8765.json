@@ -5,12 +5,13 @@
       1.3656, 
       1.5678
     ], 
-    "gph": 563.8, 
     "triple_inshore": [
       0.7717, 
       1.0819, 
       1.2662
-    ]
+    ], 
+    "gph": 563.8, 
+    "osn": 546.9
   }, 
   "sailnumber": "NED8765", 
   "name": "Popedien", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.6, 
       "draft": 2.08, 
+      "wetted_surface": 38.9, 
       "main": 57.0, 
       "genoa": 46.3, 
       "displacement": 8300.0, 
-      "spinnaker_asym": 153.0
+      "spinnaker_asym": 153.0, 
+      "crew": 889.0
     }, 
     "year": "2014"
   }, 

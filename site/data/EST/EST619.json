@@ -5,12 +5,13 @@
       1.2314, 
       1.3951
     ], 
-    "gph": 621.8, 
     "triple_inshore": [
       0.7194, 
       0.9924, 
       1.1723
-    ]
+    ], 
+    "gph": 621.8, 
+    "osn": 603.0
   }, 
   "sailnumber": "EST619", 
   "name": "BERTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.8, 
       "loa": 11.347, 
       "draft": 2.33, 
+      "wetted_surface": 32.1, 
       "main": 44.1, 
       "genoa": 34.8, 
       "displacement": 7785.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 660.0
     }, 
     "year": "2008"
   }, 

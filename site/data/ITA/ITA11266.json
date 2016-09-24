@@ -5,12 +5,13 @@
       1.1925, 
       1.3317
     ], 
-    "gph": 635.4, 
     "triple_inshore": [
       0.7286, 
       0.9765, 
       1.116
-    ]
+    ], 
+    "gph": 635.4, 
+    "osn": 619.4
   }, 
   "sailnumber": "ITA11266", 
   "name": "PERVINCA", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.9, 
       "loa": 10.0, 
       "draft": 2.04, 
+      "wetted_surface": 18.9, 
       "main": 35.7, 
       "genoa": 20.7, 
       "displacement": 3130.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1985"
   }, 

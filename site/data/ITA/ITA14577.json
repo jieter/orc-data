@@ -5,12 +5,13 @@
       1.2733, 
       1.4342
     ], 
-    "gph": 599.1, 
     "triple_inshore": [
       0.7523, 
       1.0283, 
       1.202
-    ]
+    ], 
+    "gph": 599.1, 
+    "osn": 583.1
   }, 
   "sailnumber": "ITA14577", 
   "name": "SAILING RACE", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.3, 
       "loa": 11.99, 
       "draft": 2.4, 
+      "wetted_surface": 31.3, 
       "main": 49.8, 
       "genoa": 48.0, 
       "displacement": 7191.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 520.0
     }, 
     "year": "2001"
   }, 

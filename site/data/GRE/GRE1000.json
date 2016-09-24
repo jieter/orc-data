@@ -5,12 +5,13 @@
       1.1321, 
       1.2846
     ], 
-    "gph": 676.6, 
     "triple_inshore": [
       0.6578, 
       0.9078, 
       1.0652
-    ]
+    ], 
+    "gph": 676.6, 
+    "osn": 656.4
   }, 
   "sailnumber": "GRE1000", 
   "name": "EX ANIMO", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.9, 
       "loa": 10.53, 
       "draft": 1.81, 
+      "wetted_surface": 24.3, 
       "main": 25.6, 
       "genoa": 36.3, 
       "displacement": 4849.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 580.0
     }, 
     "year": "1985"
   }, 

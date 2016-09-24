@@ -5,12 +5,13 @@
       1.1679, 
       1.3063
     ], 
-    "gph": 651.7, 
     "triple_inshore": [
       0.7019, 
       0.9495, 
       1.0998
-    ]
+    ], 
+    "gph": 651.7, 
+    "osn": 634.1
   }, 
   "sailnumber": "ITA13404", 
   "name": "MARIEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.1, 
       "loa": 10.02, 
       "draft": 2.15, 
+      "wetted_surface": 24.0, 
       "main": 31.3, 
       "genoa": 35.3, 
       "displacement": 5076.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 485.0
     }, 
     "year": "1999"
   }, 

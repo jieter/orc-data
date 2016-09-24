@@ -5,12 +5,13 @@
       1.2207, 
       1.3712
     ], 
-    "gph": 625.6, 
     "triple_inshore": [
       0.7236, 
       0.9904, 
       1.1516
-    ]
+    ], 
+    "gph": 625.6, 
+    "osn": 607.7
   }, 
   "sailnumber": "ITA16361", 
   "name": "MY WAY", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.5, 
       "loa": 10.66, 
       "draft": 2.22, 
+      "wetted_surface": 28.2, 
       "main": 41.1, 
       "genoa": 32.9, 
       "displacement": 5971.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2009"
   }, 

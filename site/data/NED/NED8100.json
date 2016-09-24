@@ -5,12 +5,13 @@
       1.2131, 
       1.3685
     ], 
-    "gph": 628.5, 
     "triple_inshore": [
       0.7201, 
       0.9835, 
       1.1475
-    ]
+    ], 
+    "gph": 628.5, 
+    "osn": 611.2
   }, 
   "sailnumber": "NED8100", 
   "name": "Inspirit", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.4, 
       "loa": 10.515, 
       "draft": 2.0, 
+      "wetted_surface": 27.4, 
       "main": 40.5, 
       "genoa": 32.6, 
       "displacement": 5857.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "2007"
   }, 

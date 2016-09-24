@@ -5,12 +5,13 @@
       1.1935, 
       1.3656
     ], 
-    "gph": 641.1, 
     "triple_inshore": [
       0.696, 
       0.967, 
       1.1385
-    ]
+    ], 
+    "gph": 641.1, 
+    "osn": 621.1
   }, 
   "sailnumber": "NED8495", 
   "name": "Brothership", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.9, 
       "loa": 10.033, 
       "draft": 1.99, 
+      "wetted_surface": 23.4, 
       "main": 33.3, 
       "genoa": 22.8, 
       "displacement": 3844.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1997"
   }, 

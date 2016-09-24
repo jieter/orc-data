@@ -5,12 +5,13 @@
       1.1597, 
       1.3116
     ], 
-    "gph": 657.8, 
     "triple_inshore": [
       0.6842, 
       0.9337, 
       1.0978
-    ]
+    ], 
+    "gph": 657.8, 
+    "osn": 640.0
   }, 
   "sailnumber": "ITA5562", 
   "name": "BUCANIERE", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.8, 
       "loa": 11.125, 
       "draft": 1.81, 
+      "wetted_surface": 27.0, 
       "main": 29.2, 
       "genoa": 53.6, 
       "displacement": 6371.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 660.0
     }, 
     "year": "1971"
   }, 

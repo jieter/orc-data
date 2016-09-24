@@ -5,12 +5,13 @@
       1.3677, 
       1.5509
     ], 
-    "gph": 560.1, 
     "triple_inshore": [
       0.7954, 
       1.0953, 
       1.2734
-    ]
+    ], 
+    "gph": 560.1, 
+    "osn": 543.5
   }, 
   "sailnumber": "NED8500", 
   "name": "Yachtcontrol", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.6, 
       "draft": 2.52, 
+      "wetted_surface": 39.3, 
       "main": 60.1, 
       "genoa": 46.5, 
       "displacement": 9930.0, 
-      "spinnaker_asym": 160.0
+      "spinnaker_asym": 160.0, 
+      "crew": 928.0
     }, 
     "year": "2007"
   }, 

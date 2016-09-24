@@ -5,12 +5,13 @@
       1.0094, 
       1.2298
     ], 
-    "gph": 769.2, 
     "triple_inshore": [
       0.5439, 
       0.7995, 
       1.0181
-    ]
+    ], 
+    "gph": 769.2, 
+    "osn": 738.8
   }, 
   "sailnumber": "GRE1727", 
   "name": "CHRISTINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.8, 
       "draft": 2.04, 
+      "wetted_surface": 31.1, 
       "main": 24.0, 
       "genoa": 41.9, 
       "displacement": 8993.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 690.0
     }, 
     "year": "1987"
   }, 

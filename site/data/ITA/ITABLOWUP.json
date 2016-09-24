@@ -5,12 +5,13 @@
       0.9555, 
       1.1314
     ], 
-    "gph": 804.3, 
     "triple_inshore": [
       0.5458, 
       0.7555, 
       0.9302
-    ]
+    ], 
+    "gph": 804.3, 
+    "osn": 776.3
   }, 
   "sailnumber": "ITABLOWUP", 
   "name": "BLOW UP", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.0, 
       "loa": 9.98, 
       "draft": 1.7, 
+      "wetted_surface": 24.2, 
       "main": 14.2, 
       "genoa": 27.9, 
       "displacement": 8335.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1969"
   }, 

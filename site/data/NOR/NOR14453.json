@@ -5,12 +5,13 @@
       1.2439, 
       1.4209
     ], 
-    "gph": 616.2, 
     "triple_inshore": [
       0.7178, 
       0.9942, 
       1.1823
-    ]
+    ], 
+    "gph": 616.2, 
+    "osn": 598.0
   }, 
   "sailnumber": "NOR14453", 
   "name": "Spinell", 
@@ -25,10 +26,12 @@
       "spinnaker": 123.4, 
       "loa": 11.94, 
       "draft": 2.28, 
+      "wetted_surface": 36.9, 
       "main": 51.9, 
       "genoa": 37.9, 
       "displacement": 9434.0, 
-      "spinnaker_asym": 123.0
+      "spinnaker_asym": 123.0, 
+      "crew": 795.0
     }, 
     "year": "2010"
   }, 

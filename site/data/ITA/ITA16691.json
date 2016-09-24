@@ -5,12 +5,13 @@
       1.2666, 
       1.4191
     ], 
-    "gph": 603.8, 
     "triple_inshore": [
       0.7431, 
       1.0168, 
       1.1781
-    ]
+    ], 
+    "gph": 603.8, 
+    "osn": 586.8
   }, 
   "sailnumber": "ITA16691", 
   "name": "MAGIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.82, 
       "draft": 2.56, 
+      "wetted_surface": 34.1, 
       "main": 46.7, 
       "genoa": 39.1, 
       "displacement": 8516.0, 
-      "spinnaker_asym": 151.0
+      "spinnaker_asym": 151.0, 
+      "crew": 760.0
     }, 
     "year": "2010"
   }, 

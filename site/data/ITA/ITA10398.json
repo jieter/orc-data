@@ -5,12 +5,13 @@
       1.1645, 
       1.2993
     ], 
-    "gph": 650.2, 
     "triple_inshore": [
       0.7105, 
       0.9501, 
       1.0909
-    ]
+    ], 
+    "gph": 650.2, 
+    "osn": 635.3
   }, 
   "sailnumber": "ITA10398", 
   "name": "TELEPATIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.5, 
       "loa": 10.16, 
       "draft": 1.93, 
+      "wetted_surface": 19.9, 
       "main": 36.8, 
       "genoa": 31.9, 
       "displacement": 3686.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 490.0
     }, 
     "year": "1984"
   }, 

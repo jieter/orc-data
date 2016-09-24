@@ -5,12 +5,13 @@
       1.1658, 
       1.3107
     ], 
-    "gph": 653.0, 
     "triple_inshore": [
       0.6979, 
       0.9514, 
       1.1047
-    ]
+    ], 
+    "gph": 653.0, 
+    "osn": 635.0
   }, 
   "sailnumber": "ITA13626", 
   "name": "LOUCURA", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.5, 
       "loa": 9.53, 
       "draft": 1.94, 
+      "wetted_surface": 20.5, 
       "main": 30.9, 
       "genoa": 27.3, 
       "displacement": 3897.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 570.0
     }, 
     "year": "1996"
   }, 

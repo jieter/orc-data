@@ -5,12 +5,13 @@
       0.9722, 
       1.0941
     ], 
-    "gph": 783.3, 
     "triple_inshore": [
       0.5834, 
       0.7925, 
       0.9169
-    ]
+    ], 
+    "gph": 783.3, 
+    "osn": 760.8
   }, 
   "sailnumber": "ITA10948", 
   "name": "BOLINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 36.4, 
       "loa": 7.132, 
       "draft": 1.44, 
+      "wetted_surface": 13.1, 
       "main": 12.7, 
       "genoa": 19.5, 
       "displacement": 1862.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1972"
   }, 

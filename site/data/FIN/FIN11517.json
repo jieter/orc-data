@@ -5,12 +5,13 @@
       1.3014, 
       1.4676
     ], 
-    "gph": 581.5, 
     "triple_inshore": [
       0.7975, 
       1.0686, 
       1.2292
-    ]
+    ], 
+    "gph": 581.5, 
+    "osn": 565.9
   }, 
   "sailnumber": "FIN11517", 
   "name": "Castillo de Bellver", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.9, 
       "loa": 10.58, 
       "draft": 2.55, 
+      "wetted_surface": 25.3, 
       "main": 43.5, 
       "genoa": 36.6, 
       "displacement": 4552.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 585.0
     }, 
     "year": "2012"
   }, 

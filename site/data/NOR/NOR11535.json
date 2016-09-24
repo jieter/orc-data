@@ -5,12 +5,13 @@
       1.2205, 
       1.4033
     ], 
-    "gph": 628.8, 
     "triple_inshore": [
       0.6992, 
       0.9748, 
       1.16
-    ]
+    ], 
+    "gph": 628.8, 
+    "osn": 609.5
   }, 
   "sailnumber": "NOR11535", 
   "name": "Fus", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.25, 
       "draft": 1.98, 
+      "wetted_surface": 31.0, 
       "main": 42.4, 
       "genoa": 33.0, 
       "displacement": 6533.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 738.0
     }, 
     "year": "2005"
   }, 

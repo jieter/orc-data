@@ -5,12 +5,13 @@
       1.3123, 
       1.4864
     ], 
-    "gph": 580.7, 
     "triple_inshore": [
       0.7776, 
       1.0617, 
       1.2327
-    ]
+    ], 
+    "gph": 580.7, 
+    "osn": 564.9
   }, 
   "sailnumber": "ESP5906", 
   "name": "CARONTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.4, 
       "loa": 11.933, 
       "draft": 2.4, 
+      "wetted_surface": 29.7, 
       "main": 52.1, 
       "genoa": 34.5, 
       "displacement": 5849.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 780.0
     }, 
     "year": "2000"
   }, 

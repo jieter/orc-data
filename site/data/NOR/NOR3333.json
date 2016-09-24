@@ -5,12 +5,13 @@
       1.001, 
       1.1619
     ], 
-    "gph": 762.9, 
     "triple_inshore": [
       0.5853, 
       0.8008, 
       0.9738
-    ]
+    ], 
+    "gph": 762.9, 
+    "osn": 740.3
   }, 
   "sailnumber": "NOR3333", 
   "name": "Gone Sailing", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.9, 
       "loa": 9.15, 
       "draft": 1.58, 
+      "wetted_surface": 21.3, 
       "main": 18.0, 
       "genoa": 22.3, 
       "displacement": 4466.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 492.0
     }, 
     "year": "1977"
   }, 

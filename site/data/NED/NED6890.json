@@ -5,12 +5,13 @@
       1.1595, 
       1.3162
     ], 
-    "gph": 658.9, 
     "triple_inshore": [
       0.6825, 
       0.9357, 
       1.1049
-    ]
+    ], 
+    "gph": 658.9, 
+    "osn": 639.4
   }, 
   "sailnumber": "NED6890", 
   "name": "CAPOLAVORO", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.8, 
       "loa": 11.01, 
       "draft": 2.0, 
+      "wetted_surface": 28.4, 
       "main": 32.8, 
       "genoa": 40.8, 
       "displacement": 6672.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 510.0
     }, 
     "year": "1985"
   }, 

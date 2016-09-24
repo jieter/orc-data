@@ -5,12 +5,13 @@
       1.2082, 
       1.3873
     ], 
-    "gph": 631.7, 
     "triple_inshore": [
       0.7059, 
       0.9714, 
       1.1376
-    ]
+    ], 
+    "gph": 631.7, 
+    "osn": 614.0
   }, 
   "sailnumber": "SUI18", 
   "name": "INSOMNIX", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.0, 
       "loa": 10.0, 
       "draft": 1.98, 
+      "wetted_surface": 24.4, 
       "main": 34.6, 
       "genoa": 29.8, 
       "displacement": 3869.0, 
-      "spinnaker_asym": 75.0
+      "spinnaker_asym": 75.0, 
+      "crew": 350.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       1.152, 
       1.3506
     ], 
-    "gph": 670.0, 
     "triple_inshore": [
       0.6359, 
       0.9152, 
       1.1255
-    ]
+    ], 
+    "gph": 670.0, 
+    "osn": 648.9
   }, 
   "sailnumber": "NED8471", 
   "name": "Esprit-Zero", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.13, 
       "draft": 2.02, 
+      "wetted_surface": 34.0, 
       "main": 38.0, 
       "genoa": 42.9, 
       "displacement": 8412.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 779.0
     }, 
     "year": "2007"
   }, 

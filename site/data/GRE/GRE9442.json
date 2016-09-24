@@ -5,12 +5,13 @@
       1.3504, 
       1.5239
     ], 
-    "gph": 565.2, 
     "triple_inshore": [
       0.7942, 
       1.0897, 
       1.2646
-    ]
+    ], 
+    "gph": 565.2, 
+    "osn": 550.1
   }, 
   "sailnumber": "GRE9442", 
   "name": "CODE ZERO-VODAFONE", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.2, 
       "loa": 12.45, 
       "draft": 2.55, 
+      "wetted_surface": 31.4, 
       "main": 59.7, 
       "genoa": 38.3, 
       "displacement": 6377.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 710.0
     }, 
     "year": "2003"
   }, 

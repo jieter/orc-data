@@ -5,12 +5,13 @@
       0.9295, 
       1.1105
     ], 
-    "gph": 830.6, 
     "triple_inshore": [
       0.5098, 
       0.7286, 
       0.9024
-    ]
+    ], 
+    "gph": 830.6, 
+    "osn": 802.5
   }, 
   "sailnumber": "GRE1220", 
   "name": "ASTROPALIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.02, 
       "draft": 1.42, 
+      "wetted_surface": 26.8, 
       "main": 23.3, 
       "genoa": 30.2, 
       "displacement": 6059.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1978"
   }, 

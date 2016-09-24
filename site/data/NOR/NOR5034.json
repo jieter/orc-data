@@ -5,12 +5,13 @@
       1.0358, 
       1.1485
     ], 
-    "gph": 735.1, 
     "triple_inshore": [
       0.6253, 
       0.8429, 
       0.9617
-    ]
+    ], 
+    "gph": 735.1, 
+    "osn": 715.3
   }, 
   "sailnumber": "NOR5034", 
   "name": "AJAJA", 
@@ -25,10 +26,12 @@
       "spinnaker": 52.1, 
       "loa": 8.64, 
       "draft": 1.7, 
+      "wetted_surface": 17.6, 
       "main": 19.1, 
       "genoa": 26.4, 
       "displacement": 3146.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 426.0
     }, 
     "year": "1968"
   }, 

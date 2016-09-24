@@ -5,12 +5,13 @@
       1.2001, 
       1.3681
     ], 
-    "gph": 638.2, 
     "triple_inshore": [
       0.7009, 
       0.969, 
       1.1493
-    ]
+    ], 
+    "gph": 638.2, 
+    "osn": 617.7
   }, 
   "sailnumber": "POR1177", 
   "name": "FREDERICA DEVONIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.2, 
       "loa": 11.46, 
       "draft": 2.06, 
+      "wetted_surface": 29.9, 
       "main": 34.6, 
       "genoa": 34.9, 
       "displacement": 6827.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1992"
   }, 

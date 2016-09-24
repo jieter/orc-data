@@ -5,12 +5,13 @@
       1.1411, 
       1.285
     ], 
-    "gph": 670.5, 
     "triple_inshore": [
       0.6682, 
       0.9182, 
       1.0683
-    ]
+    ], 
+    "gph": 670.5, 
+    "osn": 651.4
   }, 
   "sailnumber": "ARG1771", 
   "name": "LIMAY", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.1, 
       "loa": 9.87, 
       "draft": 1.65, 
+      "wetted_surface": 24.2, 
       "main": 26.4, 
       "genoa": 37.4, 
       "displacement": 4608.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 410.0
     }, 
     "year": "2005"
   }, 

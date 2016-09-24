@@ -5,12 +5,13 @@
       0.9902, 
       1.1097
     ], 
-    "gph": 767.8, 
     "triple_inshore": [
       0.597, 
       0.8068, 
       0.9173
-    ]
+    ], 
+    "gph": 767.8, 
+    "osn": 747.4
   }, 
   "sailnumber": "ITA9228", 
   "name": "IRIDE", 
@@ -25,10 +26,12 @@
       "spinnaker": 24.5, 
       "loa": 7.52, 
       "draft": 1.38, 
+      "wetted_surface": 9.9, 
       "main": 15.6, 
       "genoa": 11.7, 
       "displacement": 1056.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1978"
   }, 

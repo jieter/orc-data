@@ -5,12 +5,13 @@
       1.0789, 
       1.2116
     ], 
-    "gph": 706.1, 
     "triple_inshore": [
       0.6434, 
       0.875, 
       1.0144
-    ]
+    ], 
+    "gph": 706.1, 
+    "osn": 686.8
   }, 
   "sailnumber": "ESP9081", 
   "name": "LIDEIRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.1, 
       "loa": 8.99, 
       "draft": 1.74, 
+      "wetted_surface": 19.9, 
       "main": 26.8, 
       "genoa": 25.3, 
       "displacement": 3726.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 394.0
     }, 
     "year": "1989"
   }, 

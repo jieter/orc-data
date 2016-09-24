@@ -5,12 +5,13 @@
       1.1208, 
       1.25
     ], 
-    "gph": 678.3, 
     "triple_inshore": [
       0.673, 
       0.9069, 
       1.0423
-    ]
+    ], 
+    "gph": 678.3, 
+    "osn": 662.0
   }, 
   "sailnumber": "NOR9723", 
   "name": "Fryd", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.4, 
       "loa": 10.1, 
       "draft": 1.58, 
+      "wetted_surface": 21.6, 
       "main": 31.1, 
       "genoa": 31.4, 
       "displacement": 4336.0, 
-      "spinnaker_asym": 61.0
+      "spinnaker_asym": 61.0, 
+      "crew": 529.0
     }, 
     "year": "1994"
   }, 

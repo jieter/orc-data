@@ -5,12 +5,13 @@
       0.9603, 
       1.1138
     ], 
-    "gph": 799.8, 
     "triple_inshore": [
       0.5511, 
       0.7672, 
       0.9229
-    ]
+    ], 
+    "gph": 799.8, 
+    "osn": 773.6
   }, 
   "sailnumber": "GER7297", 
   "name": "FIORDILIGI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.97, 
       "draft": 1.63, 
+      "wetted_surface": 26.2, 
       "main": 26.0, 
       "genoa": 34.0, 
       "displacement": 7200.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1973"
   }, 

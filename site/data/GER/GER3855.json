@@ -5,12 +5,13 @@
       1.2517, 
       1.4102
     ], 
-    "gph": 609.3, 
     "triple_inshore": [
       0.7413, 
       1.0046, 
       1.1832
-    ]
+    ], 
+    "gph": 609.3, 
+    "osn": 593.2
   }, 
   "sailnumber": "GER3855", 
   "name": "JENIFFER", 
@@ -25,10 +26,12 @@
       "spinnaker": 158.2, 
       "loa": 13.521, 
       "draft": 2.47, 
+      "wetted_surface": 41.4, 
       "main": 46.4, 
       "genoa": 79.2, 
       "displacement": 13277.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "1978"
   }, 

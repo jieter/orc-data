@@ -5,12 +5,13 @@
       1.1833, 
       1.3808
     ], 
-    "gph": 648.5, 
     "triple_inshore": [
       0.6609, 
       0.9175, 
       1.1264
-    ]
+    ], 
+    "gph": 648.5, 
+    "osn": 633.8
   }, 
   "sailnumber": "ISR44", 
   "name": "Giselle", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.423, 
       "draft": 2.9, 
+      "wetted_surface": 35.1, 
       "main": 35.1, 
       "genoa": 40.3, 
       "displacement": 13052.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 917.0
     }, 
     "year": "1973"
   }, 

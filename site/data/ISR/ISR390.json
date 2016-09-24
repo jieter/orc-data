@@ -5,12 +5,13 @@
       1.0565, 
       1.2351
     ], 
-    "gph": 731.9, 
     "triple_inshore": [
       0.5826, 
       0.8183, 
       0.993
-    ]
+    ], 
+    "gph": 731.9, 
+    "osn": 709.4
   }, 
   "sailnumber": "ISR390", 
   "name": "Mermaid of Delaware", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.3, 
       "draft": 1.65, 
+      "wetted_surface": 30.6, 
       "main": 28.8, 
       "genoa": 40.1, 
       "displacement": 7558.0, 
-      "spinnaker_asym": 76.0
+      "spinnaker_asym": 76.0, 
+      "crew": 510.0
     }, 
     "year": "1990"
   }, 

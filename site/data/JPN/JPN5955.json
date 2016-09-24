@@ -5,12 +5,13 @@
       1.1418, 
       1.2945
     ], 
-    "gph": 668.0, 
     "triple_inshore": [
       0.6747, 
       0.9237, 
       1.0874
-    ]
+    ], 
+    "gph": 668.0, 
+    "osn": 649.4
   }, 
   "sailnumber": "JPN5955", 
   "name": "GEFION", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.0, 
       "loa": 10.625, 
       "draft": 1.92, 
+      "wetted_surface": 24.8, 
       "main": 34.0, 
       "genoa": 34.4, 
       "displacement": 5358.0, 
-      "spinnaker_asym": 68.0
+      "spinnaker_asym": 68.0, 
+      "crew": 583.0
     }, 
     "year": "1984"
   }, 

@@ -5,12 +5,13 @@
       1.2857, 
       1.4687
     ], 
-    "gph": 595.3, 
     "triple_inshore": [
       0.7481, 
       1.0366, 
       1.23
-    ]
+    ], 
+    "gph": 595.3, 
+    "osn": 577.2
   }, 
   "sailnumber": "ESP10206", 
   "name": "EL CARMEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.1, 
       "loa": 12.09, 
       "draft": 2.6, 
+      "wetted_surface": 32.3, 
       "main": 50.5, 
       "genoa": 37.1, 
       "displacement": 7453.0, 
-      "spinnaker_asym": 113.0
+      "spinnaker_asym": 113.0, 
+      "crew": 799.0
     }, 
     "year": "2000"
   }, 

@@ -5,12 +5,13 @@
       1.22, 
       1.3931
     ], 
-    "gph": 625.6, 
     "triple_inshore": [
       0.7177, 
       0.9873, 
       1.1477
-    ]
+    ], 
+    "gph": 625.6, 
+    "osn": 607.6
   }, 
   "sailnumber": "ESP7101", 
   "name": "COSTA ESTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.6, 
       "loa": 9.55, 
       "draft": 2.09, 
+      "wetted_surface": 20.9, 
       "main": 33.4, 
       "genoa": 23.2, 
       "displacement": 2930.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 585.0
     }, 
     "year": "2000"
   }, 

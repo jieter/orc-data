@@ -5,12 +5,13 @@
       1.2016, 
       1.3817
     ], 
-    "gph": 639.4, 
     "triple_inshore": [
       0.6863, 
       0.957, 
       1.1492
-    ]
+    ], 
+    "gph": 639.4, 
+    "osn": 619.7
   }, 
   "sailnumber": "CRO1672", 
   "name": "Catch Me", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.8, 
       "loa": 12.13, 
       "draft": 2.04, 
+      "wetted_surface": 34.7, 
       "main": 39.5, 
       "genoa": 43.8, 
       "displacement": 9050.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "2007"
   }, 

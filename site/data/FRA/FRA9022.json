@@ -5,12 +5,13 @@
       1.1245, 
       1.2581
     ], 
-    "gph": 674.5, 
     "triple_inshore": [
       0.6802, 
       0.9136, 
       1.0425
-    ]
+    ], 
+    "gph": 674.5, 
+    "osn": 658.5
   }, 
   "sailnumber": "FRA9022", 
   "name": "VENTRE BLEU", 
@@ -25,10 +26,12 @@
       "spinnaker": 48.1, 
       "loa": 8.982, 
       "draft": 1.75, 
+      "wetted_surface": 16.3, 
       "main": 28.2, 
       "genoa": 24.6, 
       "displacement": 2415.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1983"
   }, 

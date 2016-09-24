@@ -5,12 +5,13 @@
       1.1102, 
       1.2497
     ], 
-    "gph": 679.7, 
     "triple_inshore": [
       0.6889, 
       0.9151, 
       1.036
-    ]
+    ], 
+    "gph": 679.7, 
+    "osn": 661.3
   }, 
   "sailnumber": "ESP7771", 
   "name": "LOBSTER", 
@@ -25,10 +26,12 @@
       "spinnaker": 44.3, 
       "loa": 7.512, 
       "draft": 1.58, 
+      "wetted_surface": 12.4, 
       "main": 20.9, 
       "genoa": 13.0, 
       "displacement": 1392.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 404.0
     }, 
     "year": "1996"
   }, 

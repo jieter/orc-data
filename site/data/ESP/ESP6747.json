@@ -5,12 +5,13 @@
       1.2475, 
       1.4015
     ], 
-    "gph": 612.1, 
     "triple_inshore": [
       0.736, 
       1.0071, 
       1.1623
-    ]
+    ], 
+    "gph": 612.1, 
+    "osn": 595.7
   }, 
   "sailnumber": "ESP6747", 
   "name": "HMS SURPRISE", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.0, 
       "loa": 11.0, 
       "draft": 2.2, 
+      "wetted_surface": 25.8, 
       "main": 43.6, 
       "genoa": 29.7, 
       "displacement": 4990.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2003"
   }, 

@@ -5,12 +5,13 @@
       1.5758, 
       1.7779
     ], 
-    "gph": 487.4, 
     "triple_inshore": [
       0.8998, 
       1.244, 
       1.4491
-    ]
+    ], 
+    "gph": 487.4, 
+    "osn": 475.3
   }, 
   "sailnumber": "ESP9518", 
   "name": "2 MUCH", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 19.97, 
       "draft": 2.98, 
+      "wetted_surface": 76.1, 
       "main": 131.7, 
       "genoa": 114.3, 
       "displacement": 28312.0, 
-      "spinnaker_asym": 398.0
+      "spinnaker_asym": 398.0, 
+      "crew": 1150.0
     }, 
     "year": "2009"
   }, 

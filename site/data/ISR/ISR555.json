@@ -5,12 +5,13 @@
       1.2715, 
       1.4411
     ], 
-    "gph": 601.3, 
     "triple_inshore": [
       0.7443, 
       1.0261, 
       1.2119
-    ]
+    ], 
+    "gph": 601.3, 
+    "osn": 584.0
   }, 
   "sailnumber": "ISR555", 
   "name": "Ghost", 
@@ -25,10 +26,12 @@
       "spinnaker": 119.3, 
       "loa": 12.12, 
       "draft": 2.51, 
+      "wetted_surface": 34.1, 
       "main": 49.2, 
       "genoa": 48.4, 
       "displacement": 9212.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "2007"
   }, 

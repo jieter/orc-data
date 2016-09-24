@@ -5,12 +5,13 @@
       1.2557, 
       1.413
     ], 
-    "gph": 606.3, 
     "triple_inshore": [
       0.7434, 
       1.003, 
       1.1654
-    ]
+    ], 
+    "gph": 606.3, 
+    "osn": 592.2
   }, 
   "sailnumber": "NED7535", 
   "name": "", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.785, 
       "draft": 1.97, 
+      "wetted_surface": 33.1, 
       "main": 48.8, 
       "genoa": 53.3, 
       "displacement": 7907.0, 
-      "spinnaker_asym": 105.0
+      "spinnaker_asym": 105.0, 
+      "crew": 787.0
     }, 
     "year": "1998"
   }, 

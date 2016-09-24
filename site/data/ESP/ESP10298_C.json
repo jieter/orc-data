@@ -5,12 +5,13 @@
       1.0049, 
       1.1541
     ], 
-    "gph": 764.1, 
     "triple_inshore": [
       0.5805, 
       0.8047, 
       0.9656
-    ]
+    ], 
+    "gph": 764.1, 
+    "osn": 739.1
   }, 
   "sailnumber": "ESP10298_C", 
   "name": "ISLA TORTUGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.3, 
       "loa": 9.5, 
       "draft": 1.85, 
+      "wetted_surface": 21.4, 
       "main": 21.5, 
       "genoa": 25.4, 
       "displacement": 4999.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1977"
   }, 

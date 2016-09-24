@@ -5,12 +5,13 @@
       1.1946, 
       1.3705
     ], 
-    "gph": 641.5, 
     "triple_inshore": [
       0.6931, 
       0.9613, 
       1.1526
-    ]
+    ], 
+    "gph": 641.5, 
+    "osn": 621.3
   }, 
   "sailnumber": "ITA10721", 
   "name": "REGINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.8, 
       "loa": 11.99, 
       "draft": 2.32, 
+      "wetted_surface": 33.3, 
       "main": 32.5, 
       "genoa": 53.6, 
       "displacement": 8829.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1984"
   }, 

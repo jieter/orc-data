@@ -5,12 +5,13 @@
       1.0814, 
       1.2201
     ], 
-    "gph": 698.3, 
     "triple_inshore": [
       0.669, 
       0.8889, 
       1.0083
-    ]
+    ], 
+    "gph": 698.3, 
+    "osn": 679.8
   }, 
   "sailnumber": "NED2216", 
   "name": "Slow Motion", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.4, 
       "loa": 7.54, 
       "draft": 1.44, 
+      "wetted_surface": 12.2, 
       "main": 20.3, 
       "genoa": 15.7, 
       "displacement": 1364.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1975"
   }, 

@@ -5,12 +5,13 @@
       1.3927, 
       1.5568
     ], 
-    "gph": 544.9, 
     "triple_inshore": [
       0.8424, 
       1.1266, 
       1.2806
-    ]
+    ], 
+    "gph": 544.9, 
+    "osn": 531.0
   }, 
   "sailnumber": "ITA4217", 
   "name": "ORBIT", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.96, 
       "draft": 2.74, 
+      "wetted_surface": 34.8, 
       "main": 62.2, 
       "genoa": 48.0, 
       "displacement": 7663.0, 
-      "spinnaker_asym": 185.0
+      "spinnaker_asym": 185.0, 
+      "crew": 844.0
     }, 
     "year": "2006"
   }, 

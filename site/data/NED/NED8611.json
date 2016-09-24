@@ -5,12 +5,13 @@
       1.2718, 
       1.4311
     ], 
-    "gph": 599.8, 
     "triple_inshore": [
       0.7506, 
       1.0242, 
       1.1903
-    ]
+    ], 
+    "gph": 599.8, 
+    "osn": 584.3
   }, 
   "sailnumber": "NED8611", 
   "name": "EVENTYR", 
@@ -25,10 +26,12 @@
       "spinnaker": 126.2, 
       "loa": 11.58, 
       "draft": 2.12, 
+      "wetted_surface": 31.5, 
       "main": 49.2, 
       "genoa": 37.2, 
       "displacement": 7176.0, 
-      "spinnaker_asym": 120.0
+      "spinnaker_asym": 120.0, 
+      "crew": 670.0
     }, 
     "year": "2011"
   }, 

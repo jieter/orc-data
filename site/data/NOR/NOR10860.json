@@ -5,12 +5,13 @@
       1.2219, 
       1.3804
     ], 
-    "gph": 624.1, 
     "triple_inshore": [
       0.7222, 
       0.9869, 
       1.1579
-    ]
+    ], 
+    "gph": 624.1, 
+    "osn": 607.3
   }, 
   "sailnumber": "NOR10860", 
   "name": "Lille My", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.8, 
       "loa": 11.16, 
       "draft": 2.09, 
+      "wetted_surface": 28.7, 
       "main": 39.9, 
       "genoa": 46.1, 
       "displacement": 6781.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 717.0
     }, 
     "year": "2004"
   }, 

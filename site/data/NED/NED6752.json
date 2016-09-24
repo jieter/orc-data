@@ -5,12 +5,13 @@
       1.0349, 
       1.2009
     ], 
-    "gph": 742.6, 
     "triple_inshore": [
       0.5872, 
       0.8111, 
       0.9822
-    ]
+    ], 
+    "gph": 742.6, 
+    "osn": 721.6
   }, 
   "sailnumber": "NED6752", 
   "name": "VIRAGO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.75, 
       "draft": 1.95, 
+      "wetted_surface": 27.4, 
       "main": 24.3, 
       "genoa": 40.4, 
       "displacement": 7251.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 565.0
     }, 
     "year": "1976"
   }, 

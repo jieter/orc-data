@@ -5,12 +5,13 @@
       1.0658, 
       1.2206
     ], 
-    "gph": 719.2, 
     "triple_inshore": [
       0.6163, 
       0.8468, 
       1.0112
-    ]
+    ], 
+    "gph": 719.2, 
+    "osn": 698.0
   }, 
   "sailnumber": "NED8022", 
   "name": "Pentasail", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.0, 
       "draft": 1.59, 
+      "wetted_surface": 21.3, 
       "main": 22.8, 
       "genoa": 18.0, 
       "displacement": 4395.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 578.0
     }, 
     "year": "2008"
   }, 

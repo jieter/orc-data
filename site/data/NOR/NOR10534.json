@@ -5,12 +5,13 @@
       1.1838, 
       1.3306
     ], 
-    "gph": 644.4, 
     "triple_inshore": [
       0.6999, 
       0.9483, 
       1.0975
-    ]
+    ], 
+    "gph": 644.4, 
+    "osn": 627.5
   }, 
   "sailnumber": "NOR10534", 
   "name": "Blafugl", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.22, 
       "draft": 1.87, 
+      "wetted_surface": 24.8, 
       "main": 34.8, 
       "genoa": 31.2, 
       "displacement": 4869.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 660.0
     }, 
     "year": "2001"
   }, 

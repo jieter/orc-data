@@ -5,12 +5,13 @@
       1.39, 
       1.5882
     ], 
-    "gph": 552.5, 
     "triple_inshore": [
       0.7946, 
       1.104, 
       1.3193
-    ]
+    ], 
+    "gph": 552.5, 
+    "osn": 536.8
   }, 
   "sailnumber": "GER4000", 
   "name": "PETER VON DANZIG", 
@@ -25,10 +26,12 @@
       "spinnaker": 211.5, 
       "loa": 17.01, 
       "draft": 2.96, 
+      "wetted_surface": 61.6, 
       "main": 80.5, 
       "genoa": 101.5, 
       "displacement": 19746.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 960.0
     }, 
     "year": "1992"
   }, 

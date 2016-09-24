@@ -5,12 +5,13 @@
       1.1774, 
       1.3471
     ], 
-    "gph": 651.3, 
     "triple_inshore": [
       0.6783, 
       0.9432, 
       1.1168
-    ]
+    ], 
+    "gph": 651.3, 
+    "osn": 631.6
   }, 
   "sailnumber": "NOR10073", 
   "name": "BACKFISCH III", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.5, 
       "loa": 11.063, 
       "draft": 1.94, 
+      "wetted_surface": 26.4, 
       "main": 32.4, 
       "genoa": 35.9, 
       "displacement": 5366.0, 
-      "spinnaker_asym": 62.0
+      "spinnaker_asym": 62.0, 
+      "crew": 671.0
     }, 
     "year": "2001"
   }, 

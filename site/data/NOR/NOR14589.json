@@ -5,12 +5,13 @@
       1.2811, 
       1.4662
     ], 
-    "gph": 600.5, 
     "triple_inshore": [
       0.7272, 
       1.0101, 
       1.1918
-    ]
+    ], 
+    "gph": 600.5, 
+    "osn": 582.7
   }, 
   "sailnumber": "NOR14589", 
   "name": "Arabia", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.52, 
       "draft": 1.8, 
+      "wetted_surface": 41.6, 
       "main": 55.8, 
       "genoa": 42.0, 
       "displacement": 10853.0, 
-      "spinnaker_asym": 146.0
+      "spinnaker_asym": 146.0, 
+      "crew": 906.0
     }, 
     "year": "2011"
   }, 

@@ -5,12 +5,13 @@
       1.0197, 
       1.1681
     ], 
-    "gph": 753.5, 
     "triple_inshore": [
       0.5864, 
       0.8179, 
       0.9732
-    ]
+    ], 
+    "gph": 753.5, 
+    "osn": 729.2
   }, 
   "sailnumber": "ITA9149", 
   "name": "SAVANNAH", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.2, 
       "loa": 9.065, 
       "draft": 1.68, 
+      "wetted_surface": 18.0, 
       "main": 21.3, 
       "genoa": 25.2, 
       "displacement": 3359.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1975"
   }, 

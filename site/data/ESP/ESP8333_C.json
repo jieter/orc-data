@@ -5,12 +5,13 @@
       1.2326, 
       1.4514
     ], 
-    "gph": 629.2, 
     "triple_inshore": [
       0.6691, 
       0.9619, 
       1.1825
-    ]
+    ], 
+    "gph": 629.2, 
+    "osn": 608.5
   }, 
   "sailnumber": "ESP8333_C", 
   "name": "ARAUCARIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 149.6, 
       "loa": 14.75, 
       "draft": 2.04, 
+      "wetted_surface": 47.9, 
       "main": 56.0, 
       "genoa": 53.3, 
       "displacement": 14188.0, 
-      "spinnaker_asym": 139.0
+      "spinnaker_asym": 139.0, 
+      "crew": 650.0
     }, 
     "year": "2006"
   }, 

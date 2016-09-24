@@ -5,12 +5,13 @@
       1.2645, 
       1.4177
     ], 
-    "gph": 598.5, 
     "triple_inshore": [
       0.7683, 
       1.0261, 
       1.1851
-    ]
+    ], 
+    "gph": 598.5, 
+    "osn": 585.5
   }, 
   "sailnumber": "KOR3357", 
   "name": "AFRO BLUE", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.8, 
       "loa": 12.006, 
       "draft": 2.27, 
+      "wetted_surface": 25.8, 
       "main": 52.3, 
       "genoa": 44.5, 
       "displacement": 5531.0, 
-      "spinnaker_asym": 87.0
+      "spinnaker_asym": 87.0, 
+      "crew": 645.0
     }, 
     "year": "1988"
   }, 

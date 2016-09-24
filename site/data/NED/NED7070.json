@@ -5,12 +5,13 @@
       1.1502, 
       1.3074
     ], 
-    "gph": 665.6, 
     "triple_inshore": [
       0.6734, 
       0.9263, 
       1.0956
-    ]
+    ], 
+    "gph": 665.6, 
+    "osn": 645.1
   }, 
   "sailnumber": "NED7070", 
   "name": "COOL RED", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.3, 
       "loa": 11.01, 
       "draft": 1.99, 
+      "wetted_surface": 27.8, 
       "main": 32.8, 
       "genoa": 30.7, 
       "displacement": 6370.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 510.0
     }, 
     "year": "1991"
   }, 

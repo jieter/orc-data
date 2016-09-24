@@ -5,12 +5,13 @@
       1.3568, 
       1.5395
     ], 
-    "gph": 563.6, 
     "triple_inshore": [
       0.7897, 
       1.0888, 
       1.2696
-    ]
+    ], 
+    "gph": 563.6, 
+    "osn": 548.4
   }, 
   "sailnumber": "ITA14942", 
   "name": "MAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.8, 
       "loa": 12.69, 
       "draft": 2.54, 
+      "wetted_surface": 31.7, 
       "main": 59.8, 
       "genoa": 41.3, 
       "displacement": 6314.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 784.0
     }, 
     "year": "2005"
   }, 

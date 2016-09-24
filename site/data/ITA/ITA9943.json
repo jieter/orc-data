@@ -5,12 +5,13 @@
       1.0915, 
       1.2236
     ], 
-    "gph": 698.4, 
     "triple_inshore": [
       0.6467, 
       0.8811, 
       1.0135
-    ]
+    ], 
+    "gph": 698.4, 
+    "osn": 680.9
   }, 
   "sailnumber": "ITA9943", 
   "name": "MAHATMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 48.3, 
       "loa": 9.42, 
       "draft": 1.66, 
+      "wetted_surface": 17.7, 
       "main": 30.0, 
       "genoa": 21.7, 
       "displacement": 2893.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 260.0
     }, 
     "year": "1980"
   }, 

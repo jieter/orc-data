@@ -5,12 +5,13 @@
       1.1702, 
       1.3232
     ], 
-    "gph": 652.2, 
     "triple_inshore": [
       0.6911, 
       0.9523, 
       1.1087
-    ]
+    ], 
+    "gph": 652.2, 
+    "osn": 633.8
   }, 
   "sailnumber": "NED8376", 
   "name": "Kowabunga", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.5, 
       "loa": 9.503, 
       "draft": 1.94, 
+      "wetted_surface": 21.1, 
       "main": 33.9, 
       "genoa": 20.7, 
       "displacement": 3522.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 410.0
     }, 
     "year": "1994"
   }, 

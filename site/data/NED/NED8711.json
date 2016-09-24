@@ -5,12 +5,13 @@
       0.8939, 
       1.0393
     ], 
-    "gph": 862.9, 
     "triple_inshore": [
       0.5043, 
       0.7136, 
       0.8603
-    ]
+    ], 
+    "gph": 862.9, 
+    "osn": 831.8
   }, 
   "sailnumber": "NED8711", 
   "name": "Clara", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.92, 
       "draft": 1.25, 
+      "wetted_surface": 17.9, 
       "main": 18.8, 
       "genoa": 18.2, 
       "displacement": 3100.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 250.0
     }, 
     "year": "1991"
   }, 

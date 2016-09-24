@@ -5,12 +5,13 @@
       1.0838, 
       1.2527
     ], 
-    "gph": 711.2, 
     "triple_inshore": [
       0.6107, 
       0.8549, 
       1.0281
-    ]
+    ], 
+    "gph": 711.2, 
+    "osn": 688.5
   }, 
   "sailnumber": "ITA17107", 
   "name": "ANTONELLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.85, 
       "draft": 1.85, 
+      "wetted_surface": 23.3, 
       "main": 23.1, 
       "genoa": 27.0, 
       "displacement": 4675.0, 
-      "spinnaker_asym": 72.0
+      "spinnaker_asym": 72.0, 
+      "crew": 400.0
     }, 
     "year": "2007"
   }, 

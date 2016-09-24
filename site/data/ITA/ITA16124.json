@@ -5,12 +5,13 @@
       1.2798, 
       1.4507
     ], 
-    "gph": 598.2, 
     "triple_inshore": [
       0.747, 
       1.0306, 
       1.2143
-    ]
+    ], 
+    "gph": 598.2, 
+    "osn": 580.5
   }, 
   "sailnumber": "ITA16124", 
   "name": "PHANTOMAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 120.8, 
       "loa": 12.259, 
       "draft": 2.4, 
+      "wetted_surface": 35.3, 
       "main": 51.1, 
       "genoa": 41.8, 
       "displacement": 8737.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 670.0
     }, 
     "year": "2005"
   }, 

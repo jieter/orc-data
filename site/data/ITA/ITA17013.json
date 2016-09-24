@@ -5,12 +5,13 @@
       1.1299, 
       1.2885
     ], 
-    "gph": 678.6, 
     "triple_inshore": [
       0.6555, 
       0.912, 
       1.0757
-    ]
+    ], 
+    "gph": 678.6, 
+    "osn": 657.1
   }, 
   "sailnumber": "ITA17013", 
   "name": "GENESIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.5, 
       "loa": 9.5, 
       "draft": 1.92, 
+      "wetted_surface": 22.2, 
       "main": 25.7, 
       "genoa": 28.3, 
       "displacement": 3871.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 443.0
     }, 
     "year": "1998"
   }, 

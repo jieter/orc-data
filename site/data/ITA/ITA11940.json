@@ -5,12 +5,13 @@
       1.0493, 
       1.1712
     ], 
-    "gph": 727.5, 
     "triple_inshore": [
       0.624, 
       0.8517, 
       0.9777
-    ]
+    ], 
+    "gph": 727.5, 
+    "osn": 707.0
   }, 
   "sailnumber": "ITA11940", 
   "name": "MARINA 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.5, 
       "loa": 8.94, 
       "draft": 1.78, 
+      "wetted_surface": 18.1, 
       "main": 18.1, 
       "genoa": 29.2, 
       "displacement": 2970.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1980"
   }, 

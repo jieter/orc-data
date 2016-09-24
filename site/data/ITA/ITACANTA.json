@@ -5,12 +5,13 @@
       1.1303, 
       1.2985
     ], 
-    "gph": 679.1, 
     "triple_inshore": [
       0.6406, 
       0.9034, 
       1.0845
-    ]
+    ], 
+    "gph": 679.1, 
+    "osn": 660.7
   }, 
   "sailnumber": "ITACANTA", 
   "name": "CANTARIDE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.33, 
       "draft": 2.0, 
+      "wetted_surface": 27.8, 
       "main": 35.3, 
       "genoa": 43.1, 
       "displacement": 6262.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 260.0
     }, 
     "year": "1997"
   }, 

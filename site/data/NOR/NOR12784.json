@@ -5,12 +5,13 @@
       1.23, 
       1.3898
     ], 
-    "gph": 619.3, 
     "triple_inshore": [
       0.7277, 
       0.9916, 
       1.158
-    ]
+    ], 
+    "gph": 619.3, 
+    "osn": 603.7
   }, 
   "sailnumber": "NOR12784", 
   "name": "Birgit Margrethe", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.1, 
       "draft": 2.07, 
+      "wetted_surface": 29.4, 
       "main": 45.0, 
       "genoa": 43.2, 
       "displacement": 6408.0, 
-      "spinnaker_asym": 80.0
+      "spinnaker_asym": 80.0, 
+      "crew": 716.0
     }, 
     "year": "2006"
   }, 

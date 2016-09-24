@@ -5,12 +5,13 @@
       1.1512, 
       1.3147
     ], 
-    "gph": 664.2, 
     "triple_inshore": [
       0.668, 
       0.9212, 
       1.0924
-    ]
+    ], 
+    "gph": 664.2, 
+    "osn": 645.9
   }, 
   "sailnumber": "ITA16394", 
   "name": "PANAMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.4, 
       "loa": 10.3, 
       "draft": 1.5, 
+      "wetted_surface": 24.7, 
       "main": 31.9, 
       "genoa": 33.2, 
       "displacement": 5532.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 550.0
     }, 
     "year": "2003"
   }, 

@@ -5,12 +5,13 @@
       1.0977, 
       1.2653
     ], 
-    "gph": 698.4, 
     "triple_inshore": [
       0.6304, 
       0.865, 
       1.0396
-    ]
+    ], 
+    "gph": 698.4, 
+    "osn": 678.8
   }, 
   "sailnumber": "GRE1351", 
   "name": "BLUESCAPE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.8, 
       "draft": 1.55, 
+      "wetted_surface": 27.7, 
       "main": 28.2, 
       "genoa": 36.8, 
       "displacement": 6623.0, 
-      "spinnaker_asym": 68.0
+      "spinnaker_asym": 68.0, 
+      "crew": 400.0
     }, 
     "year": "1999"
   }, 

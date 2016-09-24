@@ -5,12 +5,13 @@
       1.2536, 
       1.4354
     ], 
-    "gph": 610.6, 
     "triple_inshore": [
       0.7151, 
       0.9859, 
       1.1733
-    ]
+    ], 
+    "gph": 610.6, 
+    "osn": 596.7
   }, 
   "sailnumber": "FIN11826", 
   "name": "Sopu", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.59, 
       "draft": 2.12, 
+      "wetted_surface": 35.3, 
       "main": 41.9, 
       "genoa": 43.0, 
       "displacement": 8925.0, 
-      "spinnaker_asym": 92.0
+      "spinnaker_asym": 92.0, 
+      "crew": 500.0
     }, 
     "year": "2006"
   }, 

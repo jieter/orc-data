@@ -5,12 +5,13 @@
       1.2096, 
       1.3734
     ], 
-    "gph": 631.0, 
     "triple_inshore": [
       0.7139, 
       0.9728, 
       1.1515
-    ]
+    ], 
+    "gph": 631.0, 
+    "osn": 613.3
   }, 
   "sailnumber": "GER6640", 
   "name": "LENA LY", 
@@ -25,10 +26,12 @@
       "spinnaker": 119.5, 
       "loa": 12.248, 
       "draft": 2.19, 
+      "wetted_surface": 33.0, 
       "main": 42.2, 
       "genoa": 54.3, 
       "displacement": 9515.0, 
-      "spinnaker_asym": 104.0
+      "spinnaker_asym": 104.0, 
+      "crew": 620.0
     }, 
     "year": "1979"
   }, 

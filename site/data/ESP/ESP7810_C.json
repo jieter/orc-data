@@ -5,12 +5,13 @@
       1.0518, 
       1.2122
     ], 
-    "gph": 727.8, 
     "triple_inshore": [
       0.6127, 
       0.845, 
       1.0198
-    ]
+    ], 
+    "gph": 727.8, 
+    "osn": 705.2
   }, 
   "sailnumber": "ESP7810_C", 
   "name": "GUASON", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.32, 
       "draft": 1.94, 
+      "wetted_surface": 22.8, 
       "main": 26.9, 
       "genoa": 21.5, 
       "displacement": 5494.0, 
-      "spinnaker_asym": 49.0
+      "spinnaker_asym": 49.0, 
+      "crew": 300.0
     }, 
     "year": "2005"
   }, 

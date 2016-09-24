@@ -5,12 +5,13 @@
       1.0157, 
       1.2222
     ], 
-    "gph": 765.0, 
     "triple_inshore": [
       0.5486, 
       0.8071, 
       1.0135
-    ]
+    ], 
+    "gph": 765.0, 
+    "osn": 734.6
   }, 
   "sailnumber": "ITAGIAMM", 
   "name": "GIAMMARUCHEDDA 1?", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.1, 
       "draft": 1.67, 
+      "wetted_surface": 25.4, 
       "main": 24.7, 
       "genoa": 23.6, 
       "displacement": 4846.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1999"
   }, 

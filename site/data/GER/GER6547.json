@@ -5,12 +5,13 @@
       1.2336, 
       1.4543
     ], 
-    "gph": 614.9, 
     "triple_inshore": [
       0.7376, 
       0.9886, 
       1.1626
-    ]
+    ], 
+    "gph": 614.9, 
+    "osn": 596.4
   }, 
   "sailnumber": "GER6547", 
   "name": "POUR ELLE", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.1, 
       "loa": 8.083, 
       "draft": 1.58, 
+      "wetted_surface": 13.4, 
       "main": 22.2, 
       "genoa": 15.7, 
       "displacement": 1038.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 410.0
     }, 
     "year": "1993"
   }, 

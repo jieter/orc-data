@@ -5,12 +5,13 @@
       1.0609, 
       1.2035
     ], 
-    "gph": 714.1, 
     "triple_inshore": [
       0.6437, 
       0.8587, 
       0.9804
-    ]
+    ], 
+    "gph": 714.1, 
+    "osn": 695.6
   }, 
   "sailnumber": "ITAPICCOL", 
   "name": "PICCOLA PESTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.95, 
       "draft": 1.48, 
+      "wetted_surface": 12.1, 
       "main": 17.5, 
       "genoa": 13.0, 
       "displacement": 1312.0, 
-      "spinnaker_asym": 48.0
+      "spinnaker_asym": 48.0, 
+      "crew": 400.0
     }, 
     "year": "2012"
   }, 

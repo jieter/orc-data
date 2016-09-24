@@ -5,12 +5,13 @@
       1.2274, 
       1.3923
     ], 
-    "gph": 621.5, 
     "triple_inshore": [
       0.7216, 
       0.9806, 
       1.1578
-    ]
+    ], 
+    "gph": 621.5, 
+    "osn": 605.5
   }, 
   "sailnumber": "NED7813", 
   "name": "Indian Summer", 
@@ -25,10 +26,12 @@
       "spinnaker": 116.7, 
       "loa": 13.3, 
       "draft": 1.46, 
+      "wetted_surface": 37.4, 
       "main": 49.6, 
       "genoa": 53.3, 
       "displacement": 10016.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 799.0
     }, 
     "year": "2007"
   }, 

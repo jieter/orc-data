@@ -5,12 +5,13 @@
       1.0709, 
       1.2302
     ], 
-    "gph": 715.2, 
     "triple_inshore": [
       0.6215, 
       0.8602, 
       1.0275
-    ]
+    ], 
+    "gph": 715.2, 
+    "osn": 693.6
   }, 
   "sailnumber": "GRE920", 
   "name": "ANNA MARIA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.9, 
       "loa": 9.34, 
       "draft": 1.59, 
+      "wetted_surface": 20.8, 
       "main": 20.5, 
       "genoa": 29.7, 
       "displacement": 4074.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 470.0
     }, 
     "year": "1990"
   }, 

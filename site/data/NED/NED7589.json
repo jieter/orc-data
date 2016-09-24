@@ -5,12 +5,13 @@
       1.2369, 
       1.4164
     ], 
-    "gph": 619.9, 
     "triple_inshore": [
       0.7146, 
       0.9899, 
       1.1854
-    ]
+    ], 
+    "gph": 619.9, 
+    "osn": 600.9
   }, 
   "sailnumber": "NED7589", 
   "name": "Splendide", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.3, 
       "loa": 12.33, 
       "draft": 1.86, 
+      "wetted_surface": 36.8, 
       "main": 51.5, 
       "genoa": 34.2, 
       "displacement": 9828.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "2003"
   }, 

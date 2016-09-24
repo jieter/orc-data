@@ -5,12 +5,13 @@
       1.2636, 
       1.456
     ], 
-    "gph": 607.2, 
     "triple_inshore": [
       0.725, 
       1.0092, 
       1.2152
-    ]
+    ], 
+    "gph": 607.2, 
+    "osn": 588.8
   }, 
   "sailnumber": "ESP4134", 
   "name": "CORSARIO VI", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.3, 
       "loa": 13.665, 
       "draft": 2.49, 
+      "wetted_surface": 38.3, 
       "main": 57.0, 
       "genoa": 43.5, 
       "displacement": 11056.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 790.0
     }, 
     "year": "1990"
   }, 

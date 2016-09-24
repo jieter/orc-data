@@ -5,12 +5,13 @@
       0.8833, 
       1.0186
     ], 
-    "gph": 874.7, 
     "triple_inshore": [
       0.4917, 
       0.6958, 
       0.8268
-    ]
+    ], 
+    "gph": 874.7, 
+    "osn": 846.7
   }, 
   "sailnumber": "NOR15379", 
   "name": "Magnolia", 
@@ -25,10 +26,12 @@
       "spinnaker": 36.3, 
       "loa": 7.1, 
       "draft": 1.0, 
+      "wetted_surface": 13.7, 
       "main": 10.9, 
       "genoa": 16.0, 
       "displacement": 1511.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 338.0
     }, 
     "year": "1970"
   }, 

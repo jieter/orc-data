@@ -5,12 +5,13 @@
       1.2093, 
       1.4364
     ], 
-    "gph": 627.4, 
     "triple_inshore": [
       0.717, 
       0.9574, 
       1.1428
-    ]
+    ], 
+    "gph": 627.4, 
+    "osn": 609.8
   }, 
   "sailnumber": "GRE1668", 
   "name": "STONE AGE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.509, 
       "draft": 1.52, 
+      "wetted_surface": 12.1, 
       "main": 21.9, 
       "genoa": 12.0, 
       "displacement": 776.0, 
-      "spinnaker_asym": 52.0
+      "spinnaker_asym": 52.0, 
+      "crew": 410.0
     }, 
     "year": "1992"
   }, 

@@ -5,12 +5,13 @@
       1.1221, 
       1.2906
     ], 
-    "gph": 683.3, 
     "triple_inshore": [
       0.6408, 
       0.8895, 
       1.055
-    ]
+    ], 
+    "gph": 683.3, 
+    "osn": 664.2
   }, 
   "sailnumber": "NOR9814", 
   "name": "Oriana", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.8, 
       "loa": 10.35, 
       "draft": 1.39, 
+      "wetted_surface": 23.9, 
       "main": 29.2, 
       "genoa": 31.9, 
       "displacement": 4475.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 619.0
     }, 
     "year": "1998"
   }, 

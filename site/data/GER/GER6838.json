@@ -5,12 +5,13 @@
       1.3505, 
       1.5253
     ], 
-    "gph": 565.1, 
     "triple_inshore": [
       0.7933, 
       1.0834, 
       1.2715
-    ]
+    ], 
+    "gph": 565.1, 
+    "osn": 550.6
   }, 
   "sailnumber": "GER6838", 
   "name": "THYRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 139.9, 
       "loa": 13.99, 
       "draft": 2.43, 
+      "wetted_surface": 39.7, 
       "main": 62.6, 
       "genoa": 65.5, 
       "displacement": 10920.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 916.0
     }, 
     "year": "2003"
   }, 

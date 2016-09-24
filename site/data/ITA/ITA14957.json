@@ -5,12 +5,13 @@
       1.2269, 
       1.378
     ], 
-    "gph": 621.9, 
     "triple_inshore": [
       0.724, 
       0.9876, 
       1.148
-    ]
+    ], 
+    "gph": 621.9, 
+    "osn": 605.8
   }, 
   "sailnumber": "ITA14957", 
   "name": "GECKO", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.1, 
       "loa": 11.345, 
       "draft": 2.02, 
+      "wetted_surface": 29.2, 
       "main": 43.2, 
       "genoa": 41.6, 
       "displacement": 6616.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 735.0
     }, 
     "year": "2004"
   }, 

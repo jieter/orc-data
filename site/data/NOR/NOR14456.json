@@ -5,12 +5,13 @@
       1.1017, 
       1.2465
     ], 
-    "gph": 690.9, 
     "triple_inshore": [
       0.6587, 
       0.8911, 
       1.0488
-    ]
+    ], 
+    "gph": 690.9, 
+    "osn": 672.0
   }, 
   "sailnumber": "NOR14456", 
   "name": "ROSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.9, 
       "loa": 10.32, 
       "draft": 1.87, 
+      "wetted_surface": 25.0, 
       "main": 33.2, 
       "genoa": 27.5, 
       "displacement": 6164.0, 
-      "spinnaker_asym": 78.0
+      "spinnaker_asym": 78.0, 
+      "crew": 536.0
     }, 
     "year": "2007"
   }, 

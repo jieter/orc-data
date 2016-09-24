@@ -5,12 +5,13 @@
       1.0012, 
       1.2382
     ], 
-    "gph": 777.5, 
     "triple_inshore": [
       0.5298, 
       0.7881, 
       1.0143
-    ]
+    ], 
+    "gph": 777.5, 
+    "osn": 745.4
   }, 
   "sailnumber": "GRE3118", 
   "name": "TAKIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.72, 
       "draft": 1.69, 
+      "wetted_surface": 30.8, 
       "main": 26.5, 
       "genoa": 29.1, 
       "displacement": 7200.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2000"
   }, 

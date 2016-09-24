@@ -5,12 +5,13 @@
       1.0637, 
       1.2044
     ], 
-    "gph": 719.9, 
     "triple_inshore": [
       0.6168, 
       0.8577, 
       1.0086
-    ]
+    ], 
+    "gph": 719.9, 
+    "osn": 699.6
   }, 
   "sailnumber": "ITA10849", 
   "name": "L'ALTRA LUNA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.1, 
       "draft": 1.81, 
+      "wetted_surface": 23.1, 
       "main": 24.9, 
       "genoa": 39.4, 
       "displacement": 5124.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1984"
   }, 

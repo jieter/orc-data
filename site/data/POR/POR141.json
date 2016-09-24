@@ -5,12 +5,13 @@
       1.2125, 
       1.3715
     ], 
-    "gph": 629.7, 
     "triple_inshore": [
       0.7163, 
       0.9846, 
       1.1516
-    ]
+    ], 
+    "gph": 629.7, 
+    "osn": 611.4
   }, 
   "sailnumber": "POR141", 
   "name": "TROVAO", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.0, 
       "loa": 10.64, 
       "draft": 2.22, 
+      "wetted_surface": 26.1, 
       "main": 38.2, 
       "genoa": 35.4, 
       "displacement": 5461.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2001"
   }, 

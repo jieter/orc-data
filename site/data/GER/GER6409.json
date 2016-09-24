@@ -5,12 +5,13 @@
       1.2373, 
       1.3806
     ], 
-    "gph": 613.9, 
     "triple_inshore": [
       0.7359, 
       0.9942, 
       1.1381
-    ]
+    ], 
+    "gph": 613.9, 
+    "osn": 600.6
   }, 
   "sailnumber": "GER6409", 
   "name": "ELLIDE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.757, 
       "draft": 2.14, 
+      "wetted_surface": 26.3, 
       "main": 38.2, 
       "genoa": 36.7, 
       "displacement": 5120.0, 
-      "spinnaker_asym": 118.0
+      "spinnaker_asym": 118.0, 
+      "crew": 580.0
     }, 
     "year": "2001"
   }, 

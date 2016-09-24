@@ -5,12 +5,13 @@
       1.2226, 
       1.3767
     ], 
-    "gph": 624.4, 
     "triple_inshore": [
       0.7211, 
       0.9855, 
       1.1389
-    ]
+    ], 
+    "gph": 624.4, 
+    "osn": 607.6
   }, 
   "sailnumber": "ITA13477", 
   "name": "VELENOSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.3, 
       "loa": 10.815, 
       "draft": 2.07, 
+      "wetted_surface": 27.3, 
       "main": 37.5, 
       "genoa": 33.5, 
       "displacement": 5008.0, 
-      "spinnaker_asym": 80.0
+      "spinnaker_asym": 80.0, 
+      "crew": 480.0
     }, 
     "year": "2000"
   }, 

@@ -5,12 +5,13 @@
       1.2961, 
       1.4722
     ], 
-    "gph": 589.9, 
     "triple_inshore": [
       0.7547, 
       1.0362, 
       1.2153
-    ]
+    ], 
+    "gph": 589.9, 
+    "osn": 574.2
   }, 
   "sailnumber": "ITA1298", 
   "name": "PAX TIBI", 
@@ -25,10 +26,12 @@
       "spinnaker": 120.6, 
       "loa": 12.98, 
       "draft": 2.27, 
+      "wetted_surface": 36.3, 
       "main": 58.6, 
       "genoa": 47.4, 
       "displacement": 8589.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "2016"
   }, 

@@ -5,12 +5,13 @@
       1.3072, 
       1.4694
     ], 
-    "gph": 570.8, 
     "triple_inshore": [
       0.8287, 
       1.0473, 
       1.2053
-    ]
+    ], 
+    "gph": 570.8, 
+    "osn": 563.4
   }, 
   "sailnumber": "SUI9911", 
   "name": "ESSE 990", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 2.09, 
+      "wetted_surface": 19.7, 
       "main": 41.6, 
       "genoa": 26.0, 
       "displacement": 2187.0, 
-      "spinnaker_asym": 110.0
+      "spinnaker_asym": 110.0, 
+      "crew": 320.0
     }, 
     "year": "2008"
   }, 

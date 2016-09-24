@@ -5,12 +5,13 @@
       1.0088, 
       1.1384
     ], 
-    "gph": 756.0, 
     "triple_inshore": [
       0.6004, 
       0.814, 
       0.9517
-    ]
+    ], 
+    "gph": 756.0, 
+    "osn": 734.9
   }, 
   "sailnumber": "GRE14", 
   "name": "KALIMERA", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.0, 
       "loa": 8.85, 
       "draft": 1.63, 
+      "wetted_surface": 18.3, 
       "main": 17.2, 
       "genoa": 27.6, 
       "displacement": 3595.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 416.0
     }, 
     "year": "1978"
   }, 

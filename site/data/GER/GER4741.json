@@ -5,12 +5,13 @@
       1.1115, 
       1.2511
     ], 
-    "gph": 686.4, 
     "triple_inshore": [
       0.6595, 
       0.9027, 
       1.0451
-    ]
+    ], 
+    "gph": 686.4, 
+    "osn": 666.9
   }, 
   "sailnumber": "GER4741", 
   "name": "CALA VENTINOVE", 
@@ -25,10 +26,12 @@
       "spinnaker": 53.7, 
       "loa": 8.75, 
       "draft": 1.78, 
+      "wetted_surface": 18.7, 
       "main": 26.5, 
       "genoa": 22.5, 
       "displacement": 3118.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 483.0
     }, 
     "year": "1997"
   }, 

@@ -5,12 +5,13 @@
       1.2065, 
       1.3893
     ], 
-    "gph": 645.8, 
     "triple_inshore": [
       0.6472, 
       0.9353, 
       1.1183
-    ]
+    ], 
+    "gph": 645.8, 
+    "osn": 625.7
   }, 
   "sailnumber": "HUN404", 
   "name": "Tabu", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.8, 
       "loa": 15.058, 
       "draft": 1.75, 
+      "wetted_surface": 31.4, 
       "main": 39.3, 
       "genoa": 23.5, 
       "displacement": 6502.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1942"
   }, 

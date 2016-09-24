@@ -5,12 +5,13 @@
       1.15, 
       1.3081
     ], 
-    "gph": 665.7, 
     "triple_inshore": [
       0.6721, 
       0.9317, 
       1.0927
-    ]
+    ], 
+    "gph": 665.7, 
+    "osn": 644.9
   }, 
   "sailnumber": "ITAMOWGL", 
   "name": "MOWGLI", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.8, 
       "loa": 9.5, 
       "draft": 1.92, 
+      "wetted_surface": 22.1, 
       "main": 25.6, 
       "genoa": 28.9, 
       "displacement": 3812.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1998"
   }, 

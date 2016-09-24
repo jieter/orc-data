@@ -5,12 +5,13 @@
       1.1749, 
       1.3264
     ], 
-    "gph": 644.2, 
     "triple_inshore": [
       0.7102, 
       0.9446, 
       1.0756
-    ]
+    ], 
+    "gph": 644.2, 
+    "osn": 629.7
   }, 
   "sailnumber": "NED8714", 
   "name": "Dinky Toy", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.5, 
       "draft": 1.77, 
+      "wetted_surface": 20.0, 
       "main": 27.4, 
       "genoa": 28.2, 
       "displacement": 2724.0, 
-      "spinnaker_asym": 74.0
+      "spinnaker_asym": 74.0, 
+      "crew": 536.0
     }, 
     "year": "2000"
   }, 

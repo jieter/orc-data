@@ -5,12 +5,13 @@
       1.2857, 
       1.4847
     ], 
-    "gph": 598.2, 
     "triple_inshore": [
       0.727, 
       1.0213, 
       1.23
-    ]
+    ], 
+    "gph": 598.2, 
+    "osn": 580.1
   }, 
   "sailnumber": "ESP8872", 
   "name": "PIROPO", 
@@ -25,10 +26,12 @@
       "spinnaker": 130.5, 
       "loa": 14.09, 
       "draft": 2.33, 
+      "wetted_surface": 41.8, 
       "main": 53.1, 
       "genoa": 57.4, 
       "displacement": 11122.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 843.0
     }, 
     "year": "2003"
   }, 

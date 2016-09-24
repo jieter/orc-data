@@ -5,12 +5,13 @@
       1.1654, 
       1.3264
     ], 
-    "gph": 654.5, 
     "triple_inshore": [
       0.6888, 
       0.9434, 
       1.0976
-    ]
+    ], 
+    "gph": 654.5, 
+    "osn": 635.6
   }, 
   "sailnumber": "ARG5490", 
   "name": "KAIZEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.0, 
       "loa": 9.35, 
       "draft": 1.8, 
+      "wetted_surface": 21.8, 
       "main": 30.7, 
       "genoa": 27.2, 
       "displacement": 3446.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 624.0
     }, 
     "year": "1996"
   }, 

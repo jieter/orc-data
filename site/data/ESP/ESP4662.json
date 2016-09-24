@@ -5,12 +5,13 @@
       1.1522, 
       1.295
     ], 
-    "gph": 662.9, 
     "triple_inshore": [
       0.6784, 
       0.9288, 
       1.0808
-    ]
+    ], 
+    "gph": 662.9, 
+    "osn": 645.2
   }, 
   "sailnumber": "ESP4662", 
   "name": "FLOR DE LIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.3, 
       "loa": 10.06, 
       "draft": 1.84, 
+      "wetted_surface": 24.9, 
       "main": 36.6, 
       "genoa": 28.2, 
       "displacement": 4944.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1994"
   }, 

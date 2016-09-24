@@ -5,12 +5,13 @@
       1.2085, 
       1.369
     ], 
-    "gph": 632.3, 
     "triple_inshore": [
       0.7085, 
       0.974, 
       1.1481
-    ]
+    ], 
+    "gph": 632.3, 
+    "osn": 614.4
   }, 
   "sailnumber": "GER5095", 
   "name": "MORGENROETE", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.8, 
       "loa": 11.475, 
       "draft": 2.08, 
+      "wetted_surface": 30.6, 
       "main": 34.6, 
       "genoa": 46.5, 
       "displacement": 7288.0, 
-      "spinnaker_asym": 111.0
+      "spinnaker_asym": 111.0, 
+      "crew": 510.0
     }, 
     "year": "1992"
   }, 

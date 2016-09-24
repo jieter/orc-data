@@ -5,12 +5,13 @@
       1.2178, 
       1.3802
     ], 
-    "gph": 625.5, 
     "triple_inshore": [
       0.7024, 
       0.9653, 
       1.1375
-    ]
+    ], 
+    "gph": 625.5, 
+    "osn": 614.0
   }, 
   "sailnumber": "NOR660", 
   "name": "Twister", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.8, 
       "draft": 1.83, 
+      "wetted_surface": 26.3, 
       "main": 39.9, 
       "genoa": 33.3, 
       "displacement": 4998.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 689.0
     }, 
     "year": "1984"
   }, 

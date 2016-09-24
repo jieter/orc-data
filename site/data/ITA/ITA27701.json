@@ -5,12 +5,13 @@
       1.2585, 
       1.4152
     ], 
-    "gph": 608.0, 
     "triple_inshore": [
       0.7379, 
       1.0088, 
       1.1767
-    ]
+    ], 
+    "gph": 608.0, 
+    "osn": 590.3
   }, 
   "sailnumber": "ITA27701", 
   "name": "SBIRO'", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.82, 
       "draft": 2.55, 
+      "wetted_surface": 33.9, 
       "main": 48.9, 
       "genoa": 36.2, 
       "displacement": 8421.0, 
-      "spinnaker_asym": 119.0
+      "spinnaker_asym": 119.0, 
+      "crew": 720.0
     }, 
     "year": "2010"
   }, 

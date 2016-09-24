@@ -5,12 +5,13 @@
       1.2747, 
       1.4317
     ], 
-    "gph": 598.0, 
     "triple_inshore": [
       0.7558, 
       1.0286, 
       1.1949
-    ]
+    ], 
+    "gph": 598.0, 
+    "osn": 582.6
   }, 
   "sailnumber": "POR4000", 
   "name": "BREAKALEG", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.5, 
       "loa": 11.924, 
       "draft": 2.41, 
+      "wetted_surface": 31.1, 
       "main": 48.6, 
       "genoa": 48.0, 
       "displacement": 6994.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 560.0
     }, 
     "year": "1997"
   }, 

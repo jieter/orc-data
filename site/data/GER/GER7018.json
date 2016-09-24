@@ -5,12 +5,13 @@
       1.0512, 
       1.2187
     ], 
-    "gph": 729.9, 
     "triple_inshore": [
       0.5992, 
       0.8385, 
       1.0154
-    ]
+    ], 
+    "gph": 729.9, 
+    "osn": 708.0
   }, 
   "sailnumber": "GER7018", 
   "name": "SPINDRIFT", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.397, 
       "draft": 1.64, 
+      "wetted_surface": 26.0, 
       "main": 27.8, 
       "genoa": 36.9, 
       "displacement": 6500.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1980"
   }, 

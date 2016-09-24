@@ -5,12 +5,13 @@
       1.2086, 
       1.3663
     ], 
-    "gph": 633.2, 
     "triple_inshore": [
       0.7022, 
       0.9663, 
       1.1322
-    ]
+    ], 
+    "gph": 633.2, 
+    "osn": 615.8
   }, 
   "sailnumber": "GRE3762", 
   "name": "PANORMITIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.7, 
       "loa": 12.2, 
       "draft": 2.0, 
+      "wetted_surface": 32.1, 
       "main": 46.2, 
       "genoa": 41.9, 
       "displacement": 7778.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 734.0
     }, 
     "year": "1988"
   }, 

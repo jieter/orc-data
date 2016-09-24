@@ -5,12 +5,13 @@
       1.2006, 
       1.3487
     ], 
-    "gph": 635.2, 
     "triple_inshore": [
       0.7112, 
       0.9718, 
       1.1289
-    ]
+    ], 
+    "gph": 635.2, 
+    "osn": 618.4
   }, 
   "sailnumber": "ITA15912", 
   "name": "SFIXIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.7, 
       "loa": 10.36, 
       "draft": 1.91, 
+      "wetted_surface": 25.8, 
       "main": 40.1, 
       "genoa": 27.8, 
       "displacement": 5503.0, 
-      "spinnaker_asym": 92.0
+      "spinnaker_asym": 92.0, 
+      "crew": 560.0
     }, 
     "year": "2007"
   }, 

@@ -5,12 +5,13 @@
       1.2544, 
       1.41
     ], 
-    "gph": 607.6, 
     "triple_inshore": [
       0.7436, 
       1.0058, 
       1.1584
-    ]
+    ], 
+    "gph": 607.6, 
+    "osn": 591.7
   }, 
   "sailnumber": "ITA31041", 
   "name": "SCRICCA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.39, 
       "draft": 2.09, 
+      "wetted_surface": 29.3, 
       "main": 45.9, 
       "genoa": 38.9, 
       "displacement": 6233.0, 
-      "spinnaker_asym": 123.0
+      "spinnaker_asym": 123.0, 
+      "crew": 770.0
     }, 
     "year": "2007"
   }, 

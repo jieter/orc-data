@@ -5,12 +5,13 @@
       1.2354, 
       1.4151
     ], 
-    "gph": 620.1, 
     "triple_inshore": [
       0.7137, 
       0.9884, 
       1.1765
-    ]
+    ], 
+    "gph": 620.1, 
+    "osn": 602.0
   }, 
   "sailnumber": "POR14", 
   "name": "SUPER ACOR", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.9, 
       "loa": 11.99, 
       "draft": 2.07, 
+      "wetted_surface": 31.9, 
       "main": 43.9, 
       "genoa": 40.9, 
       "displacement": 7800.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 735.0
     }, 
     "year": "2003"
   }, 

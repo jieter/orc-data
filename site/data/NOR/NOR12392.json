@@ -5,12 +5,13 @@
       1.1458, 
       1.2998
     ], 
-    "gph": 667.3, 
     "triple_inshore": [
       0.6715, 
       0.9262, 
       1.0832
-    ]
+    ], 
+    "gph": 667.3, 
+    "osn": 647.8
   }, 
   "sailnumber": "NOR12392", 
   "name": "Ragnhild", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.6, 
       "loa": 9.85, 
       "draft": 1.93, 
+      "wetted_surface": 22.0, 
       "main": 27.1, 
       "genoa": 31.5, 
       "displacement": 3750.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 583.0
     }, 
     "year": "1998"
   }, 

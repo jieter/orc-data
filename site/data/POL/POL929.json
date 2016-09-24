@@ -5,12 +5,13 @@
       0.9703, 
       1.1095
     ], 
-    "gph": 784.9, 
     "triple_inshore": [
       0.5778, 
       0.7907, 
       0.9309
-    ]
+    ], 
+    "gph": 784.9, 
+    "osn": 761.8
   }, 
   "sailnumber": "POL929", 
   "name": "PALLAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 37.9, 
       "loa": 7.28, 
       "draft": 1.54, 
+      "wetted_surface": 12.8, 
       "main": 12.2, 
       "genoa": 18.9, 
       "displacement": 1604.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 330.0
     }, 
     "year": "1976"
   }, 

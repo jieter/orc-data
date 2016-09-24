@@ -5,12 +5,13 @@
       1.327, 
       1.4958
     ], 
-    "gph": 574.4, 
     "triple_inshore": [
       0.7872, 
       1.0733, 
       1.2461
-    ]
+    ], 
+    "gph": 574.4, 
+    "osn": 559.0
   }, 
   "sailnumber": "GER7350", 
   "name": "SYDBANK", 
@@ -25,10 +26,12 @@
       "spinnaker": 126.5, 
       "loa": 12.35, 
       "draft": 2.51, 
+      "wetted_surface": 32.8, 
       "main": 53.2, 
       "genoa": 47.2, 
       "displacement": 7082.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 770.0
     }, 
     "year": "2007"
   }, 

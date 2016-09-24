@@ -5,12 +5,13 @@
       1.2056, 
       1.3475
     ], 
-    "gph": 632.1, 
     "triple_inshore": [
       0.7182, 
       0.9758, 
       1.1277
-    ]
+    ], 
+    "gph": 632.1, 
+    "osn": 615.9
   }, 
   "sailnumber": "GRE1007", 
   "name": "AEOLUS II", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.9, 
       "loa": 10.64, 
       "draft": 2.22, 
+      "wetted_surface": 26.7, 
       "main": 39.9, 
       "genoa": 38.2, 
       "displacement": 5631.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "2001"
   }, 

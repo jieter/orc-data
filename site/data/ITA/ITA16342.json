@@ -5,12 +5,13 @@
       1.1951, 
       1.4058
     ], 
-    "gph": 645.0, 
     "triple_inshore": [
       0.6685, 
       0.947, 
       1.1668
-    ]
+    ], 
+    "gph": 645.0, 
+    "osn": 623.7
   }, 
   "sailnumber": "ITA16342", 
   "name": "HERMOSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 108.6, 
       "loa": 12.59, 
       "draft": 2.13, 
+      "wetted_surface": 34.4, 
       "main": 33.6, 
       "genoa": 40.9, 
       "displacement": 8668.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2006"
   }, 

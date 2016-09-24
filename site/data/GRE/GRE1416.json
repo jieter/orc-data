@@ -5,12 +5,13 @@
       1.0789, 
       1.2427
     ], 
-    "gph": 712.1, 
     "triple_inshore": [
       0.6181, 
       0.8647, 
       1.0399
-    ]
+    ], 
+    "gph": 712.1, 
+    "osn": 689.1
   }, 
   "sailnumber": "GRE1416", 
   "name": "HARRISON", 
@@ -25,10 +26,12 @@
       "spinnaker": 49.1, 
       "loa": 9.76, 
       "draft": 1.77, 
+      "wetted_surface": 23.2, 
       "main": 26.2, 
       "genoa": 27.4, 
       "displacement": 4700.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2007"
   }, 

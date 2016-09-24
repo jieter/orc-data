@@ -5,12 +5,13 @@
       1.303, 
       1.4773
     ], 
-    "gph": 587.9, 
     "triple_inshore": [
       0.756, 
       1.0464, 
       1.2383
-    ]
+    ], 
+    "gph": 587.9, 
+    "osn": 571.3
   }, 
   "sailnumber": "GRE1378", 
   "name": "FLIRT", 
@@ -25,10 +26,12 @@
       "spinnaker": 122.6, 
       "loa": 12.957, 
       "draft": 2.62, 
+      "wetted_surface": 37.8, 
       "main": 56.4, 
       "genoa": 45.2, 
       "displacement": 10079.0, 
-      "spinnaker_asym": 121.0
+      "spinnaker_asym": 121.0, 
+      "crew": 650.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.1264, 
       1.3313
     ], 
-    "gph": 690.7, 
     "triple_inshore": [
       0.6043, 
       0.8782, 
       1.0812
-    ]
+    ], 
+    "gph": 690.7, 
+    "osn": 666.2
   }, 
   "sailnumber": "GRE3141", 
   "name": "FISKARDO", 
@@ -25,10 +26,12 @@
       "spinnaker": 112.8, 
       "loa": 12.67, 
       "draft": 1.66, 
+      "wetted_surface": 37.0, 
       "main": 35.1, 
       "genoa": 46.8, 
       "displacement": 8810.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2000"
   }, 

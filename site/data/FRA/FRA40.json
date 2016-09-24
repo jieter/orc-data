@@ -5,12 +5,13 @@
       1.2457, 
       1.4078
     ], 
-    "gph": 612.2, 
     "triple_inshore": [
       0.7295, 
       1.0019, 
       1.1812
-    ]
+    ], 
+    "gph": 612.2, 
+    "osn": 597.0
   }, 
   "sailnumber": "FRA40", 
   "name": "FREYJA", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.3, 
       "loa": 11.918, 
       "draft": 2.44, 
+      "wetted_surface": 31.7, 
       "main": 45.8, 
       "genoa": 46.0, 
       "displacement": 7618.0, 
-      "spinnaker_asym": 99.0
+      "spinnaker_asym": 99.0, 
+      "crew": 170.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.2043, 
       1.389
     ], 
-    "gph": 635.5, 
     "triple_inshore": [
       0.6968, 
       0.9531, 
       1.1495
-    ]
+    ], 
+    "gph": 635.5, 
+    "osn": 617.6
   }, 
   "sailnumber": "ESP7813_C", 
   "name": "BLUE JACQ", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.48, 
       "draft": 2.11, 
+      "wetted_surface": 39.6, 
       "main": 48.9, 
       "genoa": 46.2, 
       "displacement": 11830.0, 
-      "spinnaker_asym": 102.0
+      "spinnaker_asym": 102.0, 
+      "crew": 500.0
     }, 
     "year": "2004"
   }, 

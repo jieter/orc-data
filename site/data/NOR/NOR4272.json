@@ -5,12 +5,13 @@
       0.9414, 
       1.0684
     ], 
-    "gph": 809.4, 
     "triple_inshore": [
       0.562, 
       0.7674, 
       0.8968
-    ]
+    ], 
+    "gph": 809.4, 
+    "osn": 785.6
   }, 
   "sailnumber": "NOR4272", 
   "name": "Kria", 
@@ -25,10 +26,12 @@
       "spinnaker": 30.0, 
       "loa": 7.0, 
       "draft": 1.32, 
+      "wetted_surface": 11.3, 
       "main": 10.8, 
       "genoa": 15.0, 
       "displacement": 1460.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 318.0
     }, 
     "year": "1980"
   }, 

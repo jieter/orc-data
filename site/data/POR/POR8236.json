@@ -5,12 +5,13 @@
       1.3354, 
       1.5539
     ], 
-    "gph": 578.7, 
     "triple_inshore": [
       0.7407, 
       1.0576, 
       1.2832
-    ]
+    ], 
+    "gph": 578.7, 
+    "osn": 560.0
   }, 
   "sailnumber": "POR8236", 
   "name": "SWING", 
@@ -25,10 +26,12 @@
       "spinnaker": 158.5, 
       "loa": 14.882, 
       "draft": 2.77, 
+      "wetted_surface": 46.7, 
       "main": 62.9, 
       "genoa": 65.5, 
       "displacement": 13018.0, 
-      "spinnaker_asym": 126.0
+      "spinnaker_asym": 126.0, 
+      "crew": 720.0
     }, 
     "year": "2003"
   }, 

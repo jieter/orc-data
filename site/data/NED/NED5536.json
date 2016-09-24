@@ -5,12 +5,13 @@
       1.0555, 
       1.2122
     ], 
-    "gph": 719.6, 
     "triple_inshore": [
       0.6341, 
       0.8644, 
       0.9928
-    ]
+    ], 
+    "gph": 719.6, 
+    "osn": 697.3
   }, 
   "sailnumber": "NED5536", 
   "name": "Fortissimo", 
@@ -25,10 +26,12 @@
       "spinnaker": 34.0, 
       "loa": 6.505, 
       "draft": 1.62, 
+      "wetted_surface": 11.7, 
       "main": 16.5, 
       "genoa": 13.7, 
       "displacement": 875.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 339.0
     }, 
     "year": "2000"
   }, 

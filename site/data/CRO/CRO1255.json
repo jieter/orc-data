@@ -5,12 +5,13 @@
       1.2716, 
       1.4353
     ], 
-    "gph": 600.1, 
     "triple_inshore": [
       0.7498, 
       1.0267, 
       1.2009
-    ]
+    ], 
+    "gph": 600.1, 
+    "osn": 583.9
   }, 
   "sailnumber": "CRO1255", 
   "name": "Jonathan III", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.4, 
       "loa": 11.924, 
       "draft": 2.42, 
+      "wetted_surface": 31.5, 
       "main": 47.2, 
       "genoa": 50.8, 
       "displacement": 7297.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 744.0
     }, 
     "year": "1997"
   }, 

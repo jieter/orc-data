@@ -5,12 +5,13 @@
       1.0961, 
       1.235
     ], 
-    "gph": 693.4, 
     "triple_inshore": [
       0.6496, 
       0.8818, 
       1.028
-    ]
+    ], 
+    "gph": 693.4, 
+    "osn": 678.0
   }, 
   "sailnumber": "NED5853", 
   "name": "CATOOTJE", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.9, 
       "loa": 9.55, 
       "draft": 1.28, 
+      "wetted_surface": 20.4, 
       "main": 28.2, 
       "genoa": 19.9, 
       "displacement": 3933.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 498.0
     }, 
     "year": "1985"
   }, 

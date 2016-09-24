@@ -5,12 +5,13 @@
       0.9863, 
       1.1367
     ], 
-    "gph": 780.8, 
     "triple_inshore": [
       0.5591, 
       0.7838, 
       0.9446
-    ]
+    ], 
+    "gph": 780.8, 
+    "osn": 755.7
   }, 
   "sailnumber": "GRE4902", 
   "name": "THYELLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 48.6, 
       "loa": 9.06, 
       "draft": 1.42, 
+      "wetted_surface": 19.2, 
       "main": 19.6, 
       "genoa": 18.5, 
       "displacement": 3587.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 200.0
     }, 
     "year": "1961"
   }, 

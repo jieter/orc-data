@@ -5,12 +5,13 @@
       1.2371, 
       1.4068
     ], 
-    "gph": 618.5, 
     "triple_inshore": [
       0.7221, 
       0.9985, 
       1.1806
-    ]
+    ], 
+    "gph": 618.5, 
+    "osn": 599.9
   }, 
   "sailnumber": "ESP10177_C", 
   "name": "KUSKUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.2, 
       "loa": 11.75, 
       "draft": 2.44, 
+      "wetted_surface": 33.6, 
       "main": 45.6, 
       "genoa": 43.7, 
       "displacement": 7897.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 440.0
     }, 
     "year": "1999"
   }, 

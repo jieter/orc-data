@@ -5,12 +5,13 @@
       1.1203, 
       1.2809
     ], 
-    "gph": 683.0, 
     "triple_inshore": [
       0.6511, 
       0.8927, 
       1.0598
-    ]
+    ], 
+    "gph": 683.0, 
+    "osn": 663.5
   }, 
   "sailnumber": "NED7958", 
   "name": "Grutto", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.1, 
       "draft": 1.81, 
+      "wetted_surface": 24.2, 
       "main": 31.9, 
       "genoa": 21.9, 
       "displacement": 4810.0, 
-      "spinnaker_asym": 61.0
+      "spinnaker_asym": 61.0, 
+      "crew": 580.0
     }, 
     "year": "1999"
   }, 

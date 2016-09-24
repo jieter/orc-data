@@ -5,12 +5,13 @@
       1.0204, 
       1.1586
     ], 
-    "gph": 748.2, 
     "triple_inshore": [
       0.602, 
       0.8252, 
       0.9681
-    ]
+    ], 
+    "gph": 748.2, 
+    "osn": 726.4
   }, 
   "sailnumber": "ESP10505_C", 
   "name": "ALOA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.3, 
       "loa": 8.586, 
       "draft": 1.7, 
+      "wetted_surface": 17.7, 
       "main": 19.5, 
       "genoa": 28.9, 
       "displacement": 3118.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1979"
   }, 

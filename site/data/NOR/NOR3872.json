@@ -5,12 +5,13 @@
       1.015, 
       1.1212
     ], 
-    "gph": 744.5, 
     "triple_inshore": [
       0.6284, 
       0.8346, 
       0.9459
-    ]
+    ], 
+    "gph": 744.5, 
+    "osn": 727.7
   }, 
   "sailnumber": "NOR3872", 
   "name": "Ella hval", 
@@ -25,10 +26,12 @@
       "spinnaker": 51.3, 
       "loa": 7.44, 
       "draft": 1.39, 
+      "wetted_surface": 14.5, 
       "main": 20.1, 
       "genoa": 21.1, 
       "displacement": 2388.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 351.0
     }, 
     "year": "1969"
   }, 

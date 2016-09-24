@@ -5,12 +5,13 @@
       1.4257, 
       1.658
     ], 
-    "gph": 534.5, 
     "triple_inshore": [
       0.8172, 
       1.1219, 
       1.3184
-    ]
+    ], 
+    "gph": 534.5, 
+    "osn": 522.1
   }, 
   "sailnumber": "GER4070", 
   "name": "UIJUIJUI 4", 
@@ -25,10 +26,12 @@
       "spinnaker": 115.3, 
       "loa": 12.826, 
       "draft": 2.5, 
+      "wetted_surface": 31.8, 
       "main": 59.1, 
       "genoa": 32.7, 
       "displacement": 4013.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 580.0
     }, 
     "year": "1987"
   }, 

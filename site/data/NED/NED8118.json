@@ -5,12 +5,13 @@
       1.1929, 
       1.3647
     ], 
-    "gph": 641.4, 
     "triple_inshore": [
       0.6977, 
       0.9705, 
       1.1378
-    ]
+    ], 
+    "gph": 641.4, 
+    "osn": 620.5
   }, 
   "sailnumber": "NED8118", 
   "name": "Rakker", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.1, 
       "loa": 9.55, 
       "draft": 1.96, 
+      "wetted_surface": 19.9, 
       "main": 28.0, 
       "genoa": 21.8, 
       "displacement": 3262.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 595.0
     }, 
     "year": "2009"
   }, 

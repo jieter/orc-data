@@ -5,12 +5,13 @@
       1.1117, 
       1.2895
     ], 
-    "gph": 690.6, 
     "triple_inshore": [
       0.6327, 
       0.8736, 
       1.053
-    ]
+    ], 
+    "gph": 690.6, 
+    "osn": 671.0
   }, 
   "sailnumber": "ITAAMBRO", 
   "name": "AMBROSIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.37, 
       "draft": 1.6, 
+      "wetted_surface": 27.4, 
       "main": 26.8, 
       "genoa": 38.0, 
       "displacement": 6467.0, 
-      "spinnaker_asym": 78.0
+      "spinnaker_asym": 78.0, 
+      "crew": 650.0
     }, 
     "year": "1998"
   }, 

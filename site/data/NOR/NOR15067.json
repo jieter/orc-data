@@ -5,12 +5,13 @@
       1.2085, 
       1.4358
     ], 
-    "gph": 640.2, 
     "triple_inshore": [
       0.6548, 
       0.9476, 
       1.1779
-    ]
+    ], 
+    "gph": 640.2, 
+    "osn": 620.6
   }, 
   "sailnumber": "NOR15067", 
   "name": "Majuca", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.02, 
       "draft": 2.01, 
+      "wetted_surface": 42.7, 
       "main": 43.4, 
       "genoa": 59.7, 
       "displacement": 10622.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 955.0
     }, 
     "year": "2004"
   }, 

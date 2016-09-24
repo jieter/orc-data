@@ -5,12 +5,13 @@
       1.335, 
       1.5031
     ], 
-    "gph": 570.3, 
     "triple_inshore": [
       0.7959, 
       1.0808, 
       1.2496
-    ]
+    ], 
+    "gph": 570.3, 
+    "osn": 555.2
   }, 
   "sailnumber": "GER6960", 
   "name": "IMAGINE", 
@@ -25,10 +26,12 @@
       "spinnaker": 130.3, 
       "loa": 12.35, 
       "draft": 2.5, 
+      "wetted_surface": 32.5, 
       "main": 54.4, 
       "genoa": 46.0, 
       "displacement": 6864.0, 
-      "spinnaker_asym": 111.0
+      "spinnaker_asym": 111.0, 
+      "crew": 800.0
     }, 
     "year": "2006"
   }, 

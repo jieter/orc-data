@@ -5,12 +5,13 @@
       1.2418, 
       1.4057
     ], 
-    "gph": 614.0, 
     "triple_inshore": [
       0.7359, 
       1.0041, 
       1.1786
-    ]
+    ], 
+    "gph": 614.0, 
+    "osn": 597.1
   }, 
   "sailnumber": "PER44", 
   "name": "TIFON", 
@@ -25,10 +26,12 @@
       "spinnaker": 121.2, 
       "loa": 12.36, 
       "draft": 2.25, 
+      "wetted_surface": 31.4, 
       "main": 38.4, 
       "genoa": 58.4, 
       "displacement": 7628.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 691.0
     }, 
     "year": "1990"
   }, 

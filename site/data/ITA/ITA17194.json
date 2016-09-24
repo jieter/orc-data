@@ -5,12 +5,13 @@
       1.1975, 
       1.3733
     ], 
-    "gph": 639.5, 
     "triple_inshore": [
       0.6954, 
       0.9628, 
       1.153
-    ]
+    ], 
+    "gph": 639.5, 
+    "osn": 619.9
   }, 
   "sailnumber": "ITA17194", 
   "name": "FIGI", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.4, 
       "loa": 11.99, 
       "draft": 2.32, 
+      "wetted_surface": 33.3, 
       "main": 34.9, 
       "genoa": 57.9, 
       "displacement": 8829.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "1984"
   }, 

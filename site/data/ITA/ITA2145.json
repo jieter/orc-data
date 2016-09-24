@@ -5,12 +5,13 @@
       1.4157, 
       1.6298
     ], 
-    "gph": 537.8, 
     "triple_inshore": [
       0.8373, 
       1.1446, 
       1.3246
-    ]
+    ], 
+    "gph": 537.8, 
+    "osn": 522.1
   }, 
   "sailnumber": "ITA2145", 
   "name": "GAIARDA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.18, 
       "draft": 2.6, 
+      "wetted_surface": 32.4, 
       "main": 61.1, 
       "genoa": 38.4, 
       "displacement": 6080.0, 
-      "spinnaker_asym": 163.0
+      "spinnaker_asym": 163.0, 
+      "crew": 400.0
     }, 
     "year": "2005"
   }, 

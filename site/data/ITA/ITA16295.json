@@ -5,12 +5,13 @@
       1.2729, 
       1.434
     ], 
-    "gph": 601.2, 
     "triple_inshore": [
       0.7415, 
       1.0217, 
       1.1881
-    ]
+    ], 
+    "gph": 601.2, 
+    "osn": 584.4
   }, 
   "sailnumber": "ITA16295", 
   "name": "PAPEROGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.016, 
       "draft": 2.43, 
+      "wetted_surface": 32.2, 
       "main": 50.5, 
       "genoa": 35.9, 
       "displacement": 7412.0, 
-      "spinnaker_asym": 137.0
+      "spinnaker_asym": 137.0, 
+      "crew": 650.0
     }, 
     "year": "2000"
   }, 

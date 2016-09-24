@@ -5,12 +5,13 @@
       1.2362, 
       1.3982
     ], 
-    "gph": 617.1, 
     "triple_inshore": [
       0.7315, 
       1.0002, 
       1.1648
-    ]
+    ], 
+    "gph": 617.1, 
+    "osn": 599.7
   }, 
   "sailnumber": "NED9446", 
   "name": "FELIX", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.8, 
       "loa": 11.36, 
       "draft": 2.1, 
+      "wetted_surface": 27.6, 
       "main": 37.8, 
       "genoa": 43.1, 
       "displacement": 5444.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 665.0
     }, 
     "year": "1992"
   }, 

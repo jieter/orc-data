@@ -5,12 +5,13 @@
       1.0294, 
       1.1772
     ], 
-    "gph": 745.4, 
     "triple_inshore": [
       0.597, 
       0.8232, 
       0.9786
-    ]
+    ], 
+    "gph": 745.4, 
+    "osn": 721.8
   }, 
   "sailnumber": "GRE49595", 
   "name": "GALINI", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.4, 
       "loa": 9.961, 
       "draft": 1.77, 
+      "wetted_surface": 21.1, 
       "main": 20.0, 
       "genoa": 31.1, 
       "displacement": 4435.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1971"
   }, 

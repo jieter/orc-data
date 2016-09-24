@@ -5,12 +5,13 @@
       1.0603, 
       1.2023
     ], 
-    "gph": 720.5, 
     "triple_inshore": [
       0.6228, 
       0.8551, 
       1.0007
-    ]
+    ], 
+    "gph": 720.5, 
+    "osn": 700.0
   }, 
   "sailnumber": "NED8687", 
   "name": "Breeze", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.5, 
       "draft": 1.4, 
+      "wetted_surface": 18.4, 
       "main": 21.6, 
       "genoa": 17.5, 
       "displacement": 3000.0, 
-      "spinnaker_asym": 56.0
+      "spinnaker_asym": 56.0, 
+      "crew": 477.0
     }, 
     "year": "1990"
   }, 

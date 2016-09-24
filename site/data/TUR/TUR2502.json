@@ -5,12 +5,13 @@
       1.2168, 
       1.4268
     ], 
-    "gph": 620.1, 
     "triple_inshore": [
       0.7397, 
       0.969, 
       1.1428
-    ]
+    ], 
+    "gph": 620.1, 
+    "osn": 604.2
   }, 
   "sailnumber": "TUR2502", 
   "name": "Nafiz II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.619, 
       "draft": 1.79, 
+      "wetted_surface": 12.5, 
       "main": 23.0, 
       "genoa": 13.4, 
       "displacement": 930.0, 
-      "spinnaker_asym": 63.0
+      "spinnaker_asym": 63.0, 
+      "crew": 405.0
     }, 
     "year": "2008"
   }, 

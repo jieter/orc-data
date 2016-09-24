@@ -5,12 +5,13 @@
       1.1562, 
       1.3123
     ], 
-    "gph": 661.7, 
     "triple_inshore": [
       0.679, 
       0.9364, 
       1.104
-    ]
+    ], 
+    "gph": 661.7, 
+    "osn": 641.2
   }, 
   "sailnumber": "ITA16065", 
   "name": "BORN TO BE", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.4, 
       "loa": 9.965, 
       "draft": 2.07, 
+      "wetted_surface": 23.6, 
       "main": 29.3, 
       "genoa": 28.8, 
       "displacement": 4752.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "2008"
   }, 

@@ -5,12 +5,13 @@
       1.1636, 
       1.2957
     ], 
-    "gph": 650.3, 
     "triple_inshore": [
       0.7134, 
       0.9452, 
       1.0899
-    ]
+    ], 
+    "gph": 650.3, 
+    "osn": 636.0
   }, 
   "sailnumber": "NED2974", 
   "name": "JASON", 
@@ -25,10 +26,12 @@
       "spinnaker": 119.5, 
       "loa": 11.033, 
       "draft": 2.06, 
+      "wetted_surface": 28.6, 
       "main": 33.8, 
       "genoa": 63.8, 
       "displacement": 8120.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1983"
   }, 

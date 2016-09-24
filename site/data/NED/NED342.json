@@ -5,12 +5,13 @@
       1.4512, 
       1.6553
     ], 
-    "gph": 525.0, 
     "triple_inshore": [
       0.859, 
       1.1705, 
       1.3487
-    ]
+    ], 
+    "gph": 525.0, 
+    "osn": 510.0
   }, 
   "sailnumber": "NED342", 
   "name": "Coin Coin", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.094, 
       "draft": 2.78, 
+      "wetted_surface": 36.6, 
       "main": 66.7, 
       "genoa": 46.4, 
       "displacement": 7569.0, 
-      "spinnaker_asym": 196.0
+      "spinnaker_asym": 196.0, 
+      "crew": 915.0
     }, 
     "year": "2001"
   }, 

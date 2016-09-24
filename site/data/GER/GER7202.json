@@ -5,12 +5,13 @@
       1.2718, 
       1.4412
     ], 
-    "gph": 593.2, 
     "triple_inshore": [
       0.7828, 
       1.0308, 
       1.1854
-    ]
+    ], 
+    "gph": 593.2, 
+    "osn": 578.5
   }, 
   "sailnumber": "GER7202", 
   "name": "", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.43, 
       "draft": 2.25, 
+      "wetted_surface": 19.9, 
       "main": 35.5, 
       "genoa": 23.4, 
       "displacement": 2624.0, 
-      "spinnaker_asym": 94.0
+      "spinnaker_asym": 94.0, 
+      "crew": 450.0
     }, 
     "year": "2003"
   }, 

@@ -5,12 +5,13 @@
       1.1432, 
       1.3061
     ], 
-    "gph": 668.3, 
     "triple_inshore": [
       0.6709, 
       0.913, 
       1.0882
-    ]
+    ], 
+    "gph": 668.3, 
+    "osn": 649.2
   }, 
   "sailnumber": "NED2695", 
   "name": "BREEZAND", 
@@ -25,10 +26,12 @@
       "spinnaker": 121.5, 
       "loa": 12.203, 
       "draft": 2.08, 
+      "wetted_surface": 33.2, 
       "main": 32.2, 
       "genoa": 55.3, 
       "displacement": 10039.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "1979"
   }, 

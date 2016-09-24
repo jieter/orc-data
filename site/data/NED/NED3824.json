@@ -5,12 +5,13 @@
       1.319, 
       1.497
     ], 
-    "gph": 579.6, 
     "triple_inshore": [
       0.7686, 
       1.057, 
       1.2526
-    ]
+    ], 
+    "gph": 579.6, 
+    "osn": 564.0
   }, 
   "sailnumber": "NED3824", 
   "name": "'T SPANWIL IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 141.2, 
       "loa": 13.667, 
       "draft": 2.49, 
+      "wetted_surface": 42.4, 
       "main": 58.9, 
       "genoa": 74.6, 
       "displacement": 11306.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "1989"
   }, 

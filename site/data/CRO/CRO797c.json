@@ -5,12 +5,13 @@
       1.254, 
       1.4242
     ], 
-    "gph": 610.5, 
     "triple_inshore": [
       0.7296, 
       1.0083, 
       1.1886
-    ]
+    ], 
+    "gph": 610.5, 
+    "osn": 592.6
   }, 
   "sailnumber": "CRO797c", 
   "name": "Stribor", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.3, 
       "loa": 12.016, 
       "draft": 2.44, 
+      "wetted_surface": 32.7, 
       "main": 46.5, 
       "genoa": 45.3, 
       "displacement": 7698.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "2000"
   }, 

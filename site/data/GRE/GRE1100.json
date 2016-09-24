@@ -5,12 +5,13 @@
       1.3103, 
       1.4761
     ], 
-    "gph": 582.5, 
     "triple_inshore": [
       0.7718, 
       1.0553, 
       1.2329
-    ]
+    ], 
+    "gph": 582.5, 
+    "osn": 567.2
   }, 
   "sailnumber": "GRE1100", 
   "name": "IONIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 119.2, 
       "loa": 12.903, 
       "draft": 2.5, 
+      "wetted_surface": 35.1, 
       "main": 54.5, 
       "genoa": 53.0, 
       "displacement": 8468.0, 
-      "spinnaker_asym": 110.0
+      "spinnaker_asym": 110.0, 
+      "crew": 625.0
     }, 
     "year": "2003"
   }, 

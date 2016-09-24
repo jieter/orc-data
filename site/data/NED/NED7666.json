@@ -5,12 +5,13 @@
       1.1226, 
       1.3055
     ], 
-    "gph": 684.0, 
     "triple_inshore": [
       0.6412, 
       0.895, 
       1.0905
-    ]
+    ], 
+    "gph": 684.0, 
+    "osn": 662.4
   }, 
   "sailnumber": "NED7666", 
   "name": "Lumen Maris", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.0, 
       "loa": 10.53, 
       "draft": 1.71, 
+      "wetted_surface": 27.3, 
       "main": 27.8, 
       "genoa": 29.5, 
       "displacement": 6410.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2005"
   }, 

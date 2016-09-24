@@ -5,12 +5,13 @@
       0.9366, 
       1.0777
     ], 
-    "gph": 824.4, 
     "triple_inshore": [
       0.5234, 
       0.7494, 
       0.8888
-    ]
+    ], 
+    "gph": 824.4, 
+    "osn": 797.7
   }, 
   "sailnumber": "ESP101_C", 
   "name": "WOLF", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.06, 
       "draft": 1.14, 
+      "wetted_surface": 12.9, 
       "main": 14.2, 
       "genoa": 18.5, 
       "displacement": 1435.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 140.0
     }, 
     "year": "1961"
   }, 

@@ -5,12 +5,13 @@
       1.1511, 
       1.3194
     ], 
-    "gph": 665.3, 
     "triple_inshore": [
       0.6717, 
       0.9304, 
       1.1145
-    ]
+    ], 
+    "gph": 665.3, 
+    "osn": 643.7
   }, 
   "sailnumber": "ITA16955", 
   "name": "OSORKO", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.7, 
       "loa": 9.983, 
       "draft": 2.1, 
+      "wetted_surface": 25.9, 
       "main": 32.4, 
       "genoa": 24.4, 
       "displacement": 5866.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "2006"
   }, 

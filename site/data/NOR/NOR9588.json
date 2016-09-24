@@ -5,12 +5,13 @@
       1.0508, 
       1.2431
     ], 
-    "gph": 738.7, 
     "triple_inshore": [
       0.5685, 
       0.8261, 
       1.0165
-    ]
+    ], 
+    "gph": 738.7, 
+    "osn": 712.8
   }, 
   "sailnumber": "NOR9588", 
   "name": "Mariander", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.8, 
       "draft": 1.56, 
+      "wetted_surface": 29.8, 
       "main": 28.4, 
       "genoa": 35.4, 
       "displacement": 6225.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 727.0
     }, 
     "year": "1999"
   }, 

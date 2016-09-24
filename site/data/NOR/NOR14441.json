@@ -5,12 +5,13 @@
       1.3158, 
       1.4768
     ], 
-    "gph": 578.3, 
     "triple_inshore": [
       0.7739, 
       1.0511, 
       1.211
-    ]
+    ], 
+    "gph": 578.3, 
+    "osn": 565.8
   }, 
   "sailnumber": "NOR14441", 
   "name": "Awesome", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.48, 
       "draft": 2.35, 
+      "wetted_surface": 32.8, 
       "main": 53.8, 
       "genoa": 41.8, 
       "displacement": 7453.0, 
-      "spinnaker_asym": 141.0
+      "spinnaker_asym": 141.0, 
+      "crew": 786.0
     }, 
     "year": "2005"
   }, 

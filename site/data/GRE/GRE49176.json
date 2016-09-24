@@ -5,12 +5,13 @@
       0.9874, 
       1.122
     ], 
-    "gph": 776.2, 
     "triple_inshore": [
       0.5763, 
       0.7989, 
       0.9407
-    ]
+    ], 
+    "gph": 776.2, 
+    "osn": 751.7
   }, 
   "sailnumber": "GRE49176", 
   "name": "FILIRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 35.2, 
       "loa": 7.946, 
       "draft": 1.53, 
+      "wetted_surface": 14.5, 
       "main": 16.6, 
       "genoa": 16.3, 
       "displacement": 2294.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1977"
   }, 

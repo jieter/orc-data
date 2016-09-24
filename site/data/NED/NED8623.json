@@ -5,12 +5,13 @@
       1.1389, 
       1.3219
     ], 
-    "gph": 676.5, 
     "triple_inshore": [
       0.6368, 
       0.9121, 
       1.1091
-    ]
+    ], 
+    "gph": 676.5, 
+    "osn": 655.0
   }, 
   "sailnumber": "NED8623", 
   "name": "Bon Vivant", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.73, 
       "draft": 1.91, 
+      "wetted_surface": 27.5, 
       "main": 37.2, 
       "genoa": 31.2, 
       "displacement": 6000.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 678.0
     }, 
     "year": "1998"
   }, 

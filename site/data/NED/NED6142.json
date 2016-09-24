@@ -5,12 +5,13 @@
       1.1151, 
       1.2854
     ], 
-    "gph": 686.5, 
     "triple_inshore": [
       0.635, 
       0.8866, 
       1.0605
-    ]
+    ], 
+    "gph": 686.5, 
+    "osn": 669.3
   }, 
   "sailnumber": "NED6142", 
   "name": "DE FRANSCHMAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.4, 
       "loa": 8.97, 
       "draft": 1.67, 
+      "wetted_surface": 24.8, 
       "main": 31.4, 
       "genoa": 18.4, 
       "displacement": 4158.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1995"
   }, 

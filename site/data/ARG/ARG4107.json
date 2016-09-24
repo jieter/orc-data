@@ -5,12 +5,13 @@
       1.0963, 
       1.2349
     ], 
-    "gph": 694.7, 
     "triple_inshore": [
       0.6551, 
       0.8888, 
       1.0316
-    ]
+    ], 
+    "gph": 694.7, 
+    "osn": 675.5
   }, 
   "sailnumber": "ARG4107", 
   "name": "COMPLICE", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.8, 
       "loa": 9.25, 
       "draft": 1.62, 
+      "wetted_surface": 19.9, 
       "main": 22.0, 
       "genoa": 31.3, 
       "displacement": 3678.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 502.0
     }, 
     "year": "1988"
   }, 

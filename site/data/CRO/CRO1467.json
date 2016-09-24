@@ -5,12 +5,13 @@
       1.2787, 
       1.4576
     ], 
-    "gph": 599.5, 
     "triple_inshore": [
       0.7383, 
       1.0264, 
       1.2123
-    ]
+    ], 
+    "gph": 599.5, 
+    "osn": 581.6
   }, 
   "sailnumber": "CRO1467", 
   "name": "Les Sables d'Olonne", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.4, 
       "loa": 12.555, 
       "draft": 2.46, 
+      "wetted_surface": 33.2, 
       "main": 47.8, 
       "genoa": 45.5, 
       "displacement": 7662.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 818.0
     }, 
     "year": "2004"
   }, 

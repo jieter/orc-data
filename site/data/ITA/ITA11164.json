@@ -5,12 +5,13 @@
       1.1192, 
       1.2567
     ], 
-    "gph": 678.7, 
     "triple_inshore": [
       0.6767, 
       0.9138, 
       1.0548
-    ]
+    ], 
+    "gph": 678.7, 
+    "osn": 660.7
   }, 
   "sailnumber": "ITA11164", 
   "name": "BIRBA", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.0, 
       "loa": 9.35, 
       "draft": 1.77, 
+      "wetted_surface": 17.9, 
       "main": 23.5, 
       "genoa": 31.5, 
       "displacement": 3261.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 490.0
     }, 
     "year": "1986"
   }, 

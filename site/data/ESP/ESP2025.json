@@ -5,12 +5,13 @@
       0.934, 
       1.0665
     ], 
-    "gph": 818.3, 
     "triple_inshore": [
       0.5484, 
       0.7545, 
       0.8862
-    ]
+    ], 
+    "gph": 818.3, 
+    "osn": 793.3
   }, 
   "sailnumber": "ESP2025", 
   "name": "CALABRUIX II", 
@@ -25,10 +26,12 @@
       "spinnaker": 28.3, 
       "loa": 7.015, 
       "draft": 1.24, 
+      "wetted_surface": 11.0, 
       "main": 10.7, 
       "genoa": 12.7, 
       "displacement": 1318.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1977"
   }, 

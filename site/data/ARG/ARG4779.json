@@ -5,12 +5,13 @@
       1.1279, 
       1.2633
     ], 
-    "gph": 674.4, 
     "triple_inshore": [
       0.6796, 
       0.9232, 
       1.0627
-    ]
+    ], 
+    "gph": 674.4, 
+    "osn": 655.8
   }, 
   "sailnumber": "ARG4779", 
   "name": "PAPAREIM", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.4, 
       "loa": 8.55, 
       "draft": 1.84, 
+      "wetted_surface": 18.3, 
       "main": 27.3, 
       "genoa": 20.6, 
       "displacement": 2924.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 490.0
     }, 
     "year": "2002"
   }, 

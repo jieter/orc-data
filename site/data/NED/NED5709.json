@@ -5,12 +5,13 @@
       1.2033, 
       1.3903
     ], 
-    "gph": 637.6, 
     "triple_inshore": [
       0.6881, 
       0.9679, 
       1.1464
-    ]
+    ], 
+    "gph": 637.6, 
+    "osn": 617.7
   }, 
   "sailnumber": "NED5709", 
   "name": "EX10SION", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.0, 
       "loa": 10.399, 
       "draft": 1.84, 
+      "wetted_surface": 22.7, 
       "main": 31.6, 
       "genoa": 25.9, 
       "displacement": 3423.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 610.0
     }, 
     "year": "1985"
   }, 

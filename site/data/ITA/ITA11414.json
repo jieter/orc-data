@@ -5,12 +5,13 @@
       1.0589, 
       1.171
     ], 
-    "gph": 712.6, 
     "triple_inshore": [
       0.6594, 
       0.8745, 
       0.9842
-    ]
+    ], 
+    "gph": 712.6, 
+    "osn": 695.8
   }, 
   "sailnumber": "ITA11414", 
   "name": "ANITA", 
@@ -25,10 +26,12 @@
       "spinnaker": 32.8, 
       "loa": 7.733, 
       "draft": 1.53, 
+      "wetted_surface": 11.4, 
       "main": 20.6, 
       "genoa": 16.4, 
       "displacement": 1548.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 308.0
     }, 
     "year": "1980"
   }, 

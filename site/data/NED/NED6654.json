@@ -5,12 +5,13 @@
       1.1718, 
       1.338
     ], 
-    "gph": 652.6, 
     "triple_inshore": [
       0.6852, 
       0.9446, 
       1.1205
-    ]
+    ], 
+    "gph": 652.6, 
+    "osn": 632.8
   }, 
   "sailnumber": "NED6654", 
   "name": "XQUISE", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.1, 
       "loa": 10.725, 
       "draft": 1.93, 
+      "wetted_surface": 27.7, 
       "main": 30.7, 
       "genoa": 40.5, 
       "displacement": 5951.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 671.0
     }, 
     "year": "1988"
   }, 

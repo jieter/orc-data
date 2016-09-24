@@ -5,12 +5,13 @@
       1.1607, 
       1.3214
     ], 
-    "gph": 659.9, 
     "triple_inshore": [
       0.6798, 
       0.9397, 
       1.1135
-    ]
+    ], 
+    "gph": 659.9, 
+    "osn": 638.5
   }, 
   "sailnumber": "NOR14918", 
   "name": "Almazi", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.4, 
       "loa": 9.99, 
       "draft": 2.07, 
+      "wetted_surface": 25.2, 
       "main": 31.9, 
       "genoa": 25.2, 
       "displacement": 5350.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       1.1227, 
       1.3304
     ], 
-    "gph": 688.8, 
     "triple_inshore": [
       0.619, 
       0.8795, 
       1.0875
-    ]
+    ], 
+    "gph": 688.8, 
+    "osn": 665.6
   }, 
   "sailnumber": "ESP10297_C", 
   "name": "IDIL SEGON", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.562, 
       "draft": 1.99, 
+      "wetted_surface": 30.9, 
       "main": 31.0, 
       "genoa": 34.0, 
       "displacement": 7375.0, 
-      "spinnaker_asym": 74.0
+      "spinnaker_asym": 74.0, 
+      "crew": 450.0
     }, 
     "year": "2001"
   }, 

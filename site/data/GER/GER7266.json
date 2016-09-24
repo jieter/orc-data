@@ -5,12 +5,13 @@
       1.3575, 
       1.5521
     ], 
-    "gph": 564.6, 
     "triple_inshore": [
       0.7818, 
       1.0832, 
       1.2562
-    ]
+    ], 
+    "gph": 564.6, 
+    "osn": 548.6
   }, 
   "sailnumber": "GER7266", 
   "name": "INTERMEZZO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.63, 
       "draft": 2.51, 
+      "wetted_surface": 30.5, 
       "main": 50.2, 
       "genoa": 34.4, 
       "displacement": 5313.0, 
-      "spinnaker_asym": 128.0
+      "spinnaker_asym": 128.0, 
+      "crew": 820.0
     }, 
     "year": "1995"
   }, 

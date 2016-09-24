@@ -5,12 +5,13 @@
       1.0395, 
       1.2231
     ], 
-    "gph": 740.7, 
     "triple_inshore": [
       0.5814, 
       0.8204, 
       1.0127
-    ]
+    ], 
+    "gph": 740.7, 
+    "osn": 717.0
   }, 
   "sailnumber": "NED8189", 
   "name": "Nosy Roa", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.0, 
       "loa": 9.68, 
       "draft": 2.02, 
+      "wetted_surface": 25.1, 
       "main": 24.0, 
       "genoa": 31.9, 
       "displacement": 5956.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2000"
   }, 

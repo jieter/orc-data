@@ -5,12 +5,13 @@
       1.6331, 
       1.9183
     ], 
-    "gph": 464.0, 
     "triple_inshore": [
       0.9705, 
       1.2946, 
       1.5367
-    ]
+    ], 
+    "gph": 464.0, 
+    "osn": 451.9
   }, 
   "sailnumber": "EST999", 
   "name": "FURIOSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.99, 
       "draft": 3.55, 
+      "wetted_surface": 42.7, 
       "main": 92.4, 
       "genoa": 67.5, 
       "displacement": 7599.0, 
-      "spinnaker_asym": 257.0
+      "spinnaker_asym": 257.0, 
+      "crew": 1100.0
     }, 
     "year": "2004"
   }, 

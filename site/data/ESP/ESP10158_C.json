@@ -5,12 +5,13 @@
       1.1991, 
       1.3946
     ], 
-    "gph": 638.2, 
     "triple_inshore": [
       0.6702, 
       0.9356, 
       1.1515
-    ]
+    ], 
+    "gph": 638.2, 
+    "osn": 625.4
   }, 
   "sailnumber": "ESP10158_C", 
   "name": "BICUSPIDE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.98, 
       "draft": 2.09, 
+      "wetted_surface": 33.9, 
       "main": 40.6, 
       "genoa": 39.6, 
       "displacement": 8761.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2013"
   }, 

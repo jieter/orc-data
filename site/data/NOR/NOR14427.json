@@ -5,12 +5,13 @@
       1.1631, 
       1.336
     ], 
-    "gph": 659.1, 
     "triple_inshore": [
       0.6698, 
       0.9287, 
       1.1066
-    ]
+    ], 
+    "gph": 659.1, 
+    "osn": 639.6
   }, 
   "sailnumber": "NOR14427", 
   "name": "Berenike", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.2, 
       "loa": 10.96, 
       "draft": 1.56, 
+      "wetted_surface": 26.1, 
       "main": 28.7, 
       "genoa": 36.6, 
       "displacement": 5674.0, 
-      "spinnaker_asym": 68.0
+      "spinnaker_asym": 68.0, 
+      "crew": 680.0
     }, 
     "year": "2001"
   }, 

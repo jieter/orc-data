@@ -5,12 +5,13 @@
       1.5182, 
       1.8027
     ], 
-    "gph": 491.4, 
     "triple_inshore": [
       0.951, 
       1.204, 
       1.4801
-    ]
+    ], 
+    "gph": 491.4, 
+    "osn": 484.6
   }, 
   "sailnumber": "SUI500", 
   "name": "FALCON", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.0, 
       "draft": 2.56, 
+      "wetted_surface": 18.8, 
       "main": 50.7, 
       "genoa": 31.9, 
       "displacement": 1921.0, 
-      "spinnaker_asym": 155.0
+      "spinnaker_asym": 155.0, 
+      "crew": 567.0
     }, 
     "year": "2012"
   }, 

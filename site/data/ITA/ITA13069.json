@@ -5,12 +5,13 @@
       1.1734, 
       1.316
     ], 
-    "gph": 647.7, 
     "triple_inshore": [
       0.706, 
       0.9561, 
       1.1008
-    ]
+    ], 
+    "gph": 647.7, 
+    "osn": 630.9
   }, 
   "sailnumber": "ITA13069", 
   "name": "GLOBULO ROSSO", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.0, 
       "loa": 9.53, 
       "draft": 1.91, 
+      "wetted_surface": 19.9, 
       "main": 31.2, 
       "genoa": 27.5, 
       "displacement": 3507.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 558.0
     }, 
     "year": "1996"
   }, 

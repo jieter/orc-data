@@ -5,12 +5,13 @@
       1.0744, 
       1.1931
     ], 
-    "gph": 705.5, 
     "triple_inshore": [
       0.6577, 
       0.8779, 
       0.9986
-    ]
+    ], 
+    "gph": 705.5, 
+    "osn": 688.2
   }, 
   "sailnumber": "ITA7681", 
   "name": "MORETTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.3, 
       "loa": 9.124, 
       "draft": 1.69, 
+      "wetted_surface": 17.7, 
       "main": 22.4, 
       "genoa": 29.0, 
       "displacement": 2951.0, 
-      "spinnaker_asym": 62.0
+      "spinnaker_asym": 62.0, 
+      "crew": 450.0
     }, 
     "year": "1977"
   }, 

@@ -5,12 +5,13 @@
       1.1449, 
       1.3295
     ], 
-    "gph": 655.2, 
     "triple_inshore": [
       0.7205, 
       0.9178, 
       1.0827
-    ]
+    ], 
+    "gph": 655.2, 
+    "osn": 637.0
   }, 
   "sailnumber": "ITA2214", 
   "name": "VIVA LA MONO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.7, 
       "draft": 1.7, 
+      "wetted_surface": 10.1, 
       "main": 22.2, 
       "genoa": 8.6, 
       "displacement": 647.0, 
-      "spinnaker_asym": 43.0
+      "spinnaker_asym": 43.0, 
+      "crew": 250.0
     }, 
     "year": "1998"
   }, 

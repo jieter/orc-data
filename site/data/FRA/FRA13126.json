@@ -5,12 +5,13 @@
       1.0158, 
       1.1513
     ], 
-    "gph": 752.5, 
     "triple_inshore": [
       0.5979, 
       0.819, 
       0.9612
-    ]
+    ], 
+    "gph": 752.5, 
+    "osn": 730.3
   }, 
   "sailnumber": "FRA13126", 
   "name": "ERA ORA", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.1, 
       "loa": 8.61, 
       "draft": 1.68, 
+      "wetted_surface": 17.3, 
       "main": 15.5, 
       "genoa": 26.3, 
       "displacement": 2994.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 285.0
     }, 
     "year": "1981"
   }, 

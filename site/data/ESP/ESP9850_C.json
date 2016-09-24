@@ -5,12 +5,13 @@
       1.2346, 
       1.4282
     ], 
-    "gph": 621.3, 
     "triple_inshore": [
       0.7006, 
       0.9739, 
       1.1685
-    ]
+    ], 
+    "gph": 621.3, 
+    "osn": 604.7
   }, 
   "sailnumber": "ESP9850_C", 
   "name": "ALAKILA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.08, 
       "draft": 1.78, 
+      "wetted_surface": 36.4, 
       "main": 49.6, 
       "genoa": 54.5, 
       "displacement": 9256.0, 
-      "spinnaker_asym": 112.0
+      "spinnaker_asym": 112.0, 
+      "crew": 1000.0
     }, 
     "year": "1990"
   }, 

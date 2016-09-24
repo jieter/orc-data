@@ -5,12 +5,13 @@
       0.9422, 
       1.0869
     ], 
-    "gph": 809.9, 
     "triple_inshore": [
       0.5532, 
       0.7462, 
       0.9018
-    ]
+    ], 
+    "gph": 809.9, 
+    "osn": 788.5
   }, 
   "sailnumber": "GRE49591", 
   "name": "DELFINI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.94, 
       "draft": 1.61, 
+      "wetted_surface": 18.0, 
       "main": 16.0, 
       "genoa": 21.0, 
       "displacement": 3684.0, 
-      "spinnaker_asym": 40.0
+      "spinnaker_asym": 40.0, 
+      "crew": 428.0
     }, 
     "year": "1980"
   }, 

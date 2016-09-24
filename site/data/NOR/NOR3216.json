@@ -5,12 +5,13 @@
       1.1671, 
       1.3053
     ], 
-    "gph": 650.8, 
     "triple_inshore": [
       0.7033, 
       0.9493, 
       1.0945
-    ]
+    ], 
+    "gph": 650.8, 
+    "osn": 635.1
   }, 
   "sailnumber": "NOR3216", 
   "name": "Fjordfryd", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.3, 
       "loa": 9.99, 
       "draft": 1.89, 
+      "wetted_surface": 20.9, 
       "main": 37.3, 
       "genoa": 31.6, 
       "displacement": 3871.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 507.0
     }, 
     "year": "1981"
   }, 

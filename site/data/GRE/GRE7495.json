@@ -5,12 +5,13 @@
       1.2285, 
       1.3944
     ], 
-    "gph": 619.7, 
     "triple_inshore": [
       0.7317, 
       0.991, 
       1.139
-    ]
+    ], 
+    "gph": 619.7, 
+    "osn": 602.5
   }, 
   "sailnumber": "GRE7495", 
   "name": "COSA NOSTRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.55, 
       "draft": 2.09, 
+      "wetted_surface": 20.8, 
       "main": 33.5, 
       "genoa": 22.4, 
       "displacement": 2873.0, 
-      "spinnaker_asym": 85.0
+      "spinnaker_asym": 85.0, 
+      "crew": 540.0
     }, 
     "year": "1999"
   }, 

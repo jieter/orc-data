@@ -5,12 +5,13 @@
       1.3056, 
       1.468
     ], 
-    "gph": 580.0, 
     "triple_inshore": [
       0.7909, 
       1.0587, 
       1.2263
-    ]
+    ], 
+    "gph": 580.0, 
+    "osn": 566.8
   }, 
   "sailnumber": "ESP2586", 
   "name": "SIRIUS IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.5, 
       "loa": 12.013, 
       "draft": 2.72, 
+      "wetted_surface": 26.5, 
       "main": 56.0, 
       "genoa": 45.2, 
       "displacement": 5814.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "1984"
   }, 

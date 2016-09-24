@@ -5,12 +5,13 @@
       1.2309, 
       1.4108
     ], 
-    "gph": 623.9, 
     "triple_inshore": [
       0.7023, 
       0.9724, 
       1.1524
-    ]
+    ], 
+    "gph": 623.9, 
+    "osn": 605.9
   }, 
   "sailnumber": "ESP9626_C", 
   "name": "PORTAGO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.027, 
       "draft": 1.99, 
+      "wetted_surface": 34.9, 
       "main": 51.1, 
       "genoa": 46.5, 
       "displacement": 8860.0, 
-      "spinnaker_asym": 114.0
+      "spinnaker_asym": 114.0, 
+      "crew": 788.0
     }, 
     "year": "2006"
   }, 

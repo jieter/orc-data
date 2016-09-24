@@ -5,12 +5,13 @@
       1.2308, 
       1.4075
     ], 
-    "gph": 622.5, 
     "triple_inshore": [
       0.7117, 
       0.9853, 
       1.1745
-    ]
+    ], 
+    "gph": 622.5, 
+    "osn": 604.1
   }, 
   "sailnumber": "ITA15409", 
   "name": "INDIGO", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.0, 
       "loa": 12.016, 
       "draft": 2.2, 
+      "wetted_surface": 33.0, 
       "main": 42.1, 
       "genoa": 45.3, 
       "displacement": 8210.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2000"
   }, 

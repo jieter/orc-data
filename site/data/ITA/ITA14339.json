@@ -5,12 +5,13 @@
       1.223, 
       1.3611
     ], 
-    "gph": 622.5, 
     "triple_inshore": [
       0.7311, 
       0.9845, 
       1.124
-    ]
+    ], 
+    "gph": 622.5, 
+    "osn": 606.9
   }, 
   "sailnumber": "ITA14339", 
   "name": "CHESTRESS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.757, 
       "draft": 2.14, 
+      "wetted_surface": 26.4, 
       "main": 37.1, 
       "genoa": 39.7, 
       "displacement": 5160.0, 
-      "spinnaker_asym": 111.0
+      "spinnaker_asym": 111.0, 
+      "crew": 480.0
     }, 
     "year": "2001"
   }, 

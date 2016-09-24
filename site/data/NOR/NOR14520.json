@@ -5,12 +5,13 @@
       1.1513, 
       1.3762
     ], 
-    "gph": 672.2, 
     "triple_inshore": [
       0.6234, 
       0.9088, 
       1.1421
-    ]
+    ], 
+    "gph": 672.2, 
+    "osn": 650.5
   }, 
   "sailnumber": "NOR14520", 
   "name": "Dilemma", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.6, 
       "draft": 2.1, 
+      "wetted_surface": 35.1, 
       "main": 35.3, 
       "genoa": 47.3, 
       "displacement": 8798.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 814.0
     }, 
     "year": "2009"
   }, 

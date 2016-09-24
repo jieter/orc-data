@@ -5,12 +5,13 @@
       1.0877, 
       1.2321
     ], 
-    "gph": 700.8, 
     "triple_inshore": [
       0.6474, 
       0.8863, 
       1.0398
-    ]
+    ], 
+    "gph": 700.8, 
+    "osn": 680.4
   }, 
   "sailnumber": "ESP9137_C", 
   "name": "TRANSCOVERY", 
@@ -25,10 +26,12 @@
       "spinnaker": 52.7, 
       "loa": 9.0, 
       "draft": 1.74, 
+      "wetted_surface": 19.9, 
       "main": 25.2, 
       "genoa": 27.1, 
       "displacement": 3712.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 482.0
     }, 
     "year": "1989"
   }, 

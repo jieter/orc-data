@@ -5,12 +5,13 @@
       1.2294, 
       1.3828
     ], 
-    "gph": 619.2, 
     "triple_inshore": [
       0.7338, 
       0.9999, 
       1.1627
-    ]
+    ], 
+    "gph": 619.2, 
+    "osn": 603.1
   }, 
   "sailnumber": "ESP6740_C", 
   "name": "DAGON", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.1, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.2, 
       "main": 41.6, 
       "genoa": 42.0, 
       "displacement": 5494.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2001"
   }, 

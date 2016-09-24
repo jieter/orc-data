@@ -5,12 +5,13 @@
       1.2697, 
       1.4404
     ], 
-    "gph": 601.9, 
     "triple_inshore": [
       0.7443, 
       1.0246, 
       1.202
-    ]
+    ], 
+    "gph": 601.9, 
+    "osn": 584.8
   }, 
   "sailnumber": "ESP5670", 
   "name": "HISTOLAB", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.4, 
       "loa": 11.924, 
       "draft": 2.41, 
+      "wetted_surface": 31.0, 
       "main": 45.8, 
       "genoa": 45.8, 
       "displacement": 6951.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "1997"
   }, 

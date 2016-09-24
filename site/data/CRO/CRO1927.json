@@ -5,12 +5,13 @@
       1.2603, 
       1.4244
     ], 
-    "gph": 605.9, 
     "triple_inshore": [
       0.7434, 
       1.0195, 
       1.1811
-    ]
+    ], 
+    "gph": 605.9, 
+    "osn": 587.4
   }, 
   "sailnumber": "CRO1927", 
   "name": "November", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.5, 
       "draft": 2.14, 
+      "wetted_surface": 27.0, 
       "main": 39.0, 
       "genoa": 31.1, 
       "displacement": 5350.0, 
-      "spinnaker_asym": 110.0
+      "spinnaker_asym": 110.0, 
+      "crew": 684.0
     }, 
     "year": "2001"
   }, 

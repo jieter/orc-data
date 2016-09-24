@@ -5,12 +5,13 @@
       0.8967, 
       1.0615
     ], 
-    "gph": 857.4, 
     "triple_inshore": [
       0.5005, 
       0.7017, 
       0.8718
-    ]
+    ], 
+    "gph": 857.4, 
+    "osn": 831.9
   }, 
   "sailnumber": "GRE1183", 
   "name": "IRINI", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.9, 
       "loa": 8.54, 
       "draft": 1.42, 
+      "wetted_surface": 19.8, 
       "main": 13.9, 
       "genoa": 19.4, 
       "displacement": 3675.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 280.0
     }, 
     "year": "1978"
   }, 

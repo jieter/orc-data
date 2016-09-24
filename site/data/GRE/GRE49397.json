@@ -5,12 +5,13 @@
       0.9344, 
       1.1186
     ], 
-    "gph": 824.9, 
     "triple_inshore": [
       0.5173, 
       0.7375, 
       0.9212
-    ]
+    ], 
+    "gph": 824.9, 
+    "osn": 796.9
   }, 
   "sailnumber": "GRE49397", 
   "name": "PANEFI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.7, 
       "draft": 1.35, 
+      "wetted_surface": 21.3, 
       "main": 19.9, 
       "genoa": 24.9, 
       "displacement": 4580.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1975"
   }, 

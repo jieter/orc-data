@@ -5,12 +5,13 @@
       1.1972, 
       1.3672
     ], 
-    "gph": 639.2, 
     "triple_inshore": [
       0.6955, 
       0.9636, 
       1.1474
-    ]
+    ], 
+    "gph": 639.2, 
+    "osn": 620.7
   }, 
   "sailnumber": "ESP2215_C", 
   "name": "HALCON NEGRO", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.8, 
       "loa": 11.751, 
       "draft": 2.22, 
+      "wetted_surface": 30.5, 
       "main": 47.8, 
       "genoa": 33.1, 
       "displacement": 7516.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1981"
   }, 

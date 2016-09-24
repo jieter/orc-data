@@ -5,12 +5,13 @@
       1.2461, 
       1.4179
     ], 
-    "gph": 614.8, 
     "triple_inshore": [
       0.721, 
       0.9898, 
       1.1633
-    ]
+    ], 
+    "gph": 614.8, 
+    "osn": 597.4
   }, 
   "sailnumber": "ITA16493", 
   "name": "GUARDAMAGO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.85, 
       "draft": 2.13, 
+      "wetted_surface": 34.5, 
       "main": 42.3, 
       "genoa": 52.9, 
       "displacement": 8754.0, 
-      "spinnaker_asym": 117.0
+      "spinnaker_asym": 117.0, 
+      "crew": 700.0
     }, 
     "year": "2006"
   }, 

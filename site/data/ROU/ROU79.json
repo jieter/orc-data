@@ -5,12 +5,13 @@
       1.0651, 
       1.298
     ], 
-    "gph": 728.7, 
     "triple_inshore": [
       0.572, 
       0.8416, 
       1.075
-    ]
+    ], 
+    "gph": 728.7, 
+    "osn": 700.5
   }, 
   "sailnumber": "ROU79", 
   "name": "Santa Maria", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.82, 
       "draft": 1.59, 
+      "wetted_surface": 33.1, 
       "main": 38.0, 
       "genoa": 31.8, 
       "displacement": 8953.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 945.0
     }, 
     "year": "2007"
   }, 

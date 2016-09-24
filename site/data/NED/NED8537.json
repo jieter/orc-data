@@ -5,12 +5,13 @@
       1.1061, 
       1.2448
     ], 
-    "gph": 689.8, 
     "triple_inshore": [
       0.6527, 
       0.8848, 
       1.0276
-    ]
+    ], 
+    "gph": 689.8, 
+    "osn": 671.5
   }, 
   "sailnumber": "NED8537", 
   "name": "Let it Be", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.0, 
       "draft": 1.61, 
+      "wetted_surface": 21.0, 
       "main": 28.0, 
       "genoa": 20.3, 
       "displacement": 3726.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 480.0
     }, 
     "year": "2013"
   }, 

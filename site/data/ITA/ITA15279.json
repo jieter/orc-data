@@ -5,12 +5,13 @@
       1.1106, 
       1.272
     ], 
-    "gph": 688.0, 
     "triple_inshore": [
       0.653, 
       0.9024, 
       1.0758
-    ]
+    ], 
+    "gph": 688.0, 
+    "osn": 666.8
   }, 
   "sailnumber": "ITA15279", 
   "name": "LUPA MANNARA", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.0, 
       "loa": 9.25, 
       "draft": 1.91, 
+      "wetted_surface": 21.6, 
       "main": 29.8, 
       "genoa": 23.6, 
       "displacement": 4380.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2002"
   }, 

@@ -5,12 +5,13 @@
       1.1254, 
       1.2577
     ], 
-    "gph": 673.9, 
     "triple_inshore": [
       0.6778, 
       0.9087, 
       1.0548
-    ]
+    ], 
+    "gph": 673.9, 
+    "osn": 659.5
   }, 
   "sailnumber": "SWE164", 
   "name": "Menina", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.3, 
       "draft": 1.65, 
+      "wetted_surface": 22.9, 
       "main": 33.8, 
       "genoa": 43.7, 
       "displacement": 5090.0, 
-      "spinnaker_asym": 58.0
+      "spinnaker_asym": 58.0, 
+      "crew": 562.0
     }, 
     "year": "1980"
   }, 

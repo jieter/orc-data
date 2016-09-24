@@ -5,12 +5,13 @@
       1.3414, 
       1.5192
     ], 
-    "gph": 569.1, 
     "triple_inshore": [
       0.7859, 
       1.0752, 
       1.2572
-    ]
+    ], 
+    "gph": 569.1, 
+    "osn": 554.6
   }, 
   "sailnumber": "ESP9229", 
   "name": "Es tes unno...", 
@@ -25,10 +26,12 @@
       "spinnaker": 146.6, 
       "loa": 13.33, 
       "draft": 2.23, 
+      "wetted_surface": 38.3, 
       "main": 63.5, 
       "genoa": 53.5, 
       "displacement": 9299.0, 
-      "spinnaker_asym": 145.0
+      "spinnaker_asym": 145.0, 
+      "crew": 935.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.0963, 
       1.2246
     ], 
-    "gph": 695.1, 
     "triple_inshore": [
       0.6556, 
       0.8846, 
       1.0255
-    ]
+    ], 
+    "gph": 695.1, 
+    "osn": 676.9
   }, 
   "sailnumber": "ITA8519", 
   "name": "MAIDIREMAI", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.4, 
       "loa": 10.05, 
       "draft": 1.86, 
+      "wetted_surface": 22.4, 
       "main": 23.4, 
       "genoa": 43.7, 
       "displacement": 5120.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 405.0
     }, 
     "year": "1978"
   }, 

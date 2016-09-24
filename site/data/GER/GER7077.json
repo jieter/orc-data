@@ -5,12 +5,13 @@
       1.4034, 
       1.5711
     ], 
-    "gph": 544.3, 
     "triple_inshore": [
       0.8091, 
       1.1015, 
       1.2794
-    ]
+    ], 
+    "gph": 544.3, 
+    "osn": 533.8
   }, 
   "sailnumber": "GER7077", 
   "name": "SUNBIRD", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.983, 
       "draft": 2.96, 
+      "wetted_surface": 63.5, 
       "main": 91.1, 
       "genoa": 72.3, 
       "displacement": 18920.0, 
-      "spinnaker_asym": 227.0
+      "spinnaker_asym": 227.0, 
+      "crew": 700.0
     }, 
     "year": "2015"
   }, 

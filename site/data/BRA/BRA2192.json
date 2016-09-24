@@ -5,12 +5,13 @@
       1.4721, 
       1.6668
     ], 
-    "gph": 517.8, 
     "triple_inshore": [
       0.8702, 
       1.179, 
       1.3619
-    ]
+    ], 
+    "gph": 517.8, 
+    "osn": 503.9
   }, 
   "sailnumber": "BRA2192", 
   "name": "SAMURAI RIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.4, 
       "draft": 3.13, 
+      "wetted_surface": 38.8, 
       "main": 77.2, 
       "genoa": 42.8, 
       "displacement": 7699.0, 
-      "spinnaker_asym": 181.0
+      "spinnaker_asym": 181.0, 
+      "crew": 800.0
     }, 
     "year": "2000"
   }, 

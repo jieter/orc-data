@@ -5,12 +5,13 @@
       1.3758, 
       1.5445
     ], 
-    "gph": 552.6, 
     "triple_inshore": [
       0.822, 
       1.1086, 
       1.2833
-    ]
+    ], 
+    "gph": 552.6, 
+    "osn": 539.4
   }, 
   "sailnumber": "ESP8045", 
   "name": "78 DE MAYO", 
@@ -25,10 +26,12 @@
       "spinnaker": 155.3, 
       "loa": 13.73, 
       "draft": 2.45, 
+      "wetted_surface": 37.6, 
       "main": 68.2, 
       "genoa": 60.6, 
       "displacement": 9484.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 962.0
     }, 
     "year": "2001"
   }, 

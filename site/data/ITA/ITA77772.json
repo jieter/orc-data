@@ -5,12 +5,13 @@
       1.4546, 
       1.6406
     ], 
-    "gph": 524.7, 
     "triple_inshore": [
       0.8564, 
       1.1666, 
       1.3453
-    ]
+    ], 
+    "gph": 524.7, 
+    "osn": 510.7
   }, 
   "sailnumber": "ITA77772", 
   "name": "CANDELLUVA ii", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.31, 
       "draft": 2.77, 
+      "wetted_surface": 42.3, 
       "main": 76.8, 
       "genoa": 50.2, 
       "displacement": 10244.0, 
-      "spinnaker_asym": 166.0
+      "spinnaker_asym": 166.0, 
+      "crew": 810.0
     }, 
     "year": "2012"
   }, 

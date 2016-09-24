@@ -5,12 +5,13 @@
       1.053, 
       1.2329
     ], 
-    "gph": 730.3, 
     "triple_inshore": [
       0.5983, 
       0.8379, 
       1.0281
-    ]
+    ], 
+    "gph": 730.3, 
+    "osn": 706.1
   }, 
   "sailnumber": "GRE1529", 
   "name": "THALASSINOS AETOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.7, 
       "loa": 9.83, 
       "draft": 1.75, 
+      "wetted_surface": 25.2, 
       "main": 20.1, 
       "genoa": 28.8, 
       "displacement": 5320.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1996"
   }, 

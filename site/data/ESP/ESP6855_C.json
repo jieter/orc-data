@@ -5,12 +5,13 @@
       1.1684, 
       1.3459
     ], 
-    "gph": 657.1, 
     "triple_inshore": [
       0.669, 
       0.9345, 
       1.1185
-    ]
+    ], 
+    "gph": 657.1, 
+    "osn": 636.6
   }, 
   "sailnumber": "ESP6855_C", 
   "name": "TIBERE", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.0, 
       "loa": 11.04, 
       "draft": 1.96, 
+      "wetted_surface": 26.8, 
       "main": 31.5, 
       "genoa": 34.9, 
       "displacement": 5692.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 600.0
     }, 
     "year": "1999"
   }, 

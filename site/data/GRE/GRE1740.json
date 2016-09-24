@@ -5,12 +5,13 @@
       1.202, 
       1.3865
     ], 
-    "gph": 639.0, 
     "triple_inshore": [
       0.6884, 
       0.9616, 
       1.1602
-    ]
+    ], 
+    "gph": 639.0, 
+    "osn": 618.7
   }, 
   "sailnumber": "GRE1740", 
   "name": "LENA", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.9, 
       "loa": 11.913, 
       "draft": 2.08, 
+      "wetted_surface": 33.1, 
       "main": 37.6, 
       "genoa": 42.0, 
       "displacement": 8335.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2002"
   }, 

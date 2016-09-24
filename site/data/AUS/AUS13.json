@@ -5,12 +5,13 @@
       1.8447, 
       2.1651
     ], 
-    "gph": 412.1, 
     "triple_inshore": [
       1.0774, 
       1.4489, 
       1.7268
-    ]
+    ], 
+    "gph": 412.1, 
+    "osn": 402.3
   }, 
   "sailnumber": "AUS13", 
   "name": "CHINESE WHISPER", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 18.9, 
       "draft": 4.16, 
+      "wetted_surface": 59.9, 
       "main": 136.5, 
       "genoa": 88.5, 
       "displacement": 11138.0, 
-      "spinnaker_asym": 365.0
+      "spinnaker_asym": 365.0, 
+      "crew": 1400.0
     }, 
     "year": "2009"
   }, 

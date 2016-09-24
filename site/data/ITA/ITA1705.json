@@ -5,12 +5,13 @@
       1.3467, 
       1.5328
     ], 
-    "gph": 569.5, 
     "triple_inshore": [
       0.775, 
       1.0756, 
       1.2721
-    ]
+    ], 
+    "gph": 569.5, 
+    "osn": 553.3
   }, 
   "sailnumber": "ITA1705", 
   "name": "SOTTO SOPRA 2.0", 
@@ -25,10 +26,12 @@
       "spinnaker": 167.0, 
       "loa": 14.1, 
       "draft": 2.62, 
+      "wetted_surface": 43.2, 
       "main": 66.5, 
       "genoa": 54.1, 
       "displacement": 12171.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 900.0
     }, 
     "year": "2008"
   }, 

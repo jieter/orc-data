@@ -5,12 +5,13 @@
       1.3234, 
       1.4937
     ], 
-    "gph": 576.5, 
     "triple_inshore": [
       0.7814, 
       1.0686, 
       1.2403
-    ]
+    ], 
+    "gph": 576.5, 
+    "osn": 560.9
   }, 
   "sailnumber": "GER6869", 
   "name": "LEUFT", 
@@ -25,10 +26,12 @@
       "spinnaker": 122.2, 
       "loa": 12.35, 
       "draft": 2.5, 
+      "wetted_surface": 32.6, 
       "main": 52.8, 
       "genoa": 45.4, 
       "displacement": 6924.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 800.0
     }, 
     "year": "2006"
   }, 

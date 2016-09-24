@@ -5,12 +5,13 @@
       1.1254, 
       1.2837
     ], 
-    "gph": 673.6, 
     "triple_inshore": [
       0.6796, 
       0.9131, 
       1.0392
-    ]
+    ], 
+    "gph": 673.6, 
+    "osn": 655.6
   }, 
   "sailnumber": "ITA24033", 
   "name": "NO STAME TOCAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 39.2, 
       "loa": 7.495, 
       "draft": 1.67, 
+      "wetted_surface": 12.4, 
       "main": 19.9, 
       "genoa": 13.8, 
       "displacement": 1057.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 409.0
     }, 
     "year": "1994"
   }, 

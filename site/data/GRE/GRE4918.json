@@ -5,12 +5,13 @@
       1.0075, 
       1.1665
     ], 
-    "gph": 762.3, 
     "triple_inshore": [
       0.5715, 
       0.7961, 
       0.9643
-    ]
+    ], 
+    "gph": 762.3, 
+    "osn": 739.6
   }, 
   "sailnumber": "GRE4918", 
   "name": "ELEONORA", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.6, 
       "loa": 9.961, 
       "draft": 1.78, 
+      "wetted_surface": 21.4, 
       "main": 17.5, 
       "genoa": 24.0, 
       "displacement": 4658.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1971"
   }, 

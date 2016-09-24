@@ -5,12 +5,13 @@
       1.0301, 
       1.1948
     ], 
-    "gph": 744.6, 
     "triple_inshore": [
       0.5922, 
       0.8179, 
       0.9918
-    ]
+    ], 
+    "gph": 744.6, 
+    "osn": 722.0
   }, 
   "sailnumber": "GRE1500", 
   "name": "EMMANOUELA", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.2, 
       "loa": 9.908, 
       "draft": 1.58, 
+      "wetted_surface": 26.7, 
       "main": 24.7, 
       "genoa": 31.6, 
       "displacement": 6442.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1987"
   }, 

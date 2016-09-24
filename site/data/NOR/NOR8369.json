@@ -5,12 +5,13 @@
       0.9796, 
       1.1005
     ], 
-    "gph": 782.9, 
     "triple_inshore": [
       0.572, 
       0.7944, 
       0.9224
-    ]
+    ], 
+    "gph": 782.9, 
+    "osn": 757.8
   }, 
   "sailnumber": "NOR8369", 
   "name": "Giggity", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.3, 
       "draft": 1.55, 
+      "wetted_surface": 17.0, 
       "main": 21.2, 
       "genoa": 20.5, 
       "displacement": 2971.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 412.0
     }, 
     "year": "1981"
   }, 

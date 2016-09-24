@@ -5,12 +5,13 @@
       1.2341, 
       1.3839
     ], 
-    "gph": 615.7, 
     "triple_inshore": [
       0.7422, 
       0.9958, 
       1.1332
-    ]
+    ], 
+    "gph": 615.7, 
+    "osn": 600.1
   }, 
   "sailnumber": "SUI8", 
   "name": "Xperience", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 1.91, 
+      "wetted_surface": 23.3, 
       "main": 35.9, 
       "genoa": 30.2, 
       "displacement": 4155.0, 
-      "spinnaker_asym": 116.0
+      "spinnaker_asym": 116.0, 
+      "crew": 588.0
     }, 
     "year": "2011"
   }, 

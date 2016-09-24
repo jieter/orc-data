@@ -5,12 +5,13 @@
       1.0736, 
       1.237
     ], 
-    "gph": 718.0, 
     "triple_inshore": [
       0.6069, 
       0.8496, 
       1.0199
-    ]
+    ], 
+    "gph": 718.0, 
+    "osn": 694.5
   }, 
   "sailnumber": "GRE1224", 
   "name": "LYGEIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.44, 
       "draft": 2.0, 
+      "wetted_surface": 22.6, 
       "main": 25.1, 
       "genoa": 23.9, 
       "displacement": 4446.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 390.0
     }, 
     "year": "2001"
   }, 

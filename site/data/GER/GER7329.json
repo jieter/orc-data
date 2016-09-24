@@ -5,12 +5,13 @@
       1.112, 
       1.2858
     ], 
-    "gph": 683.3, 
     "triple_inshore": [
       0.6635, 
       0.8986, 
       1.0433
-    ]
+    ], 
+    "gph": 683.3, 
+    "osn": 663.1
   }, 
   "sailnumber": "GER7329", 
   "name": "GER 29", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.41, 
       "draft": 1.57, 
+      "wetted_surface": 13.0, 
       "main": 18.8, 
       "genoa": 12.0, 
       "displacement": 1386.0, 
-      "spinnaker_asym": 54.0
+      "spinnaker_asym": 54.0, 
+      "crew": 350.0
     }, 
     "year": "2008"
   }, 

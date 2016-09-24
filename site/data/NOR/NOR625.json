@@ -5,12 +5,13 @@
       1.1372, 
       1.292
     ], 
-    "gph": 665.3, 
     "triple_inshore": [
       0.6931, 
       0.9206, 
       1.0553
-    ]
+    ], 
+    "gph": 665.3, 
+    "osn": 648.2
   }, 
   "sailnumber": "NOR625", 
   "name": "Gullan'go", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.032, 
       "draft": 1.5, 
+      "wetted_surface": 13.6, 
       "main": 21.5, 
       "genoa": 14.0, 
       "displacement": 1438.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 340.0
     }, 
     "year": "1995"
   }, 

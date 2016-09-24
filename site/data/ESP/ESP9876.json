@@ -5,12 +5,13 @@
       1.2236, 
       1.3829
     ], 
-    "gph": 625.2, 
     "triple_inshore": [
       0.7144, 
       0.984, 
       1.1539
-    ]
+    ], 
+    "gph": 625.2, 
+    "osn": 607.7
   }, 
   "sailnumber": "ESP9876", 
   "name": "NIDEA 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.4, 
       "loa": 11.313, 
       "draft": 2.07, 
+      "wetted_surface": 29.6, 
       "main": 46.5, 
       "genoa": 32.4, 
       "displacement": 6744.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 585.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.2403, 
       1.3848
     ], 
-    "gph": 612.7, 
     "triple_inshore": [
       0.7469, 
       1.0031, 
       1.1475
-    ]
+    ], 
+    "gph": 612.7, 
+    "osn": 597.1
   }, 
   "sailnumber": "NED7275", 
   "name": "CAPTAIN JACK", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.757, 
       "draft": 2.13, 
+      "wetted_surface": 26.2, 
       "main": 37.1, 
       "genoa": 41.5, 
       "displacement": 5051.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 640.0
     }, 
     "year": "2001"
   }, 

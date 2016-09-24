@@ -5,12 +5,13 @@
       1.621, 
       1.866
     ], 
-    "gph": 474.7, 
     "triple_inshore": [
       0.9188, 
       1.2922, 
       1.5227
-    ]
+    ], 
+    "gph": 474.7, 
+    "osn": 460.5
   }, 
   "sailnumber": "ITA17060", 
   "name": "WHY NOT", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 18.325, 
       "draft": 3.62, 
+      "wetted_surface": 64.5, 
       "main": 112.2, 
       "genoa": 86.2, 
       "displacement": 18151.0, 
-      "spinnaker_asym": 309.0
+      "spinnaker_asym": 309.0, 
+      "crew": 900.0
     }, 
     "year": "2013"
   }, 

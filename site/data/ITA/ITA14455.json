@@ -5,12 +5,13 @@
       1.1384, 
       1.2878
     ], 
-    "gph": 670.8, 
     "triple_inshore": [
       0.6725, 
       0.9236, 
       1.0698
-    ]
+    ], 
+    "gph": 670.8, 
+    "osn": 651.4
   }, 
   "sailnumber": "ITA14455", 
   "name": "KIKO", 
@@ -25,10 +26,12 @@
       "spinnaker": 53.8, 
       "loa": 8.3, 
       "draft": 2.13, 
+      "wetted_surface": 20.0, 
       "main": 28.5, 
       "genoa": 23.9, 
       "displacement": 2519.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "2002"
   }, 

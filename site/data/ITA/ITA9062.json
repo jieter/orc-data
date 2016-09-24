@@ -5,12 +5,13 @@
       1.0559, 
       1.1743
     ], 
-    "gph": 719.4, 
     "triple_inshore": [
       0.6402, 
       0.8567, 
       0.9841
-    ]
+    ], 
+    "gph": 719.4, 
+    "osn": 701.6
   }, 
   "sailnumber": "ITA9062", 
   "name": "LUPO ALBERTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.0, 
       "loa": 9.16, 
       "draft": 1.68, 
+      "wetted_surface": 17.7, 
       "main": 18.4, 
       "genoa": 33.7, 
       "displacement": 3458.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 330.0
     }, 
     "year": "1977"
   }, 

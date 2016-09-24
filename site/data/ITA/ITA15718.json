@@ -5,12 +5,13 @@
       1.158, 
       1.3198
     ], 
-    "gph": 661.5, 
     "triple_inshore": [
       0.6711, 
       0.9312, 
       1.1033
-    ]
+    ], 
+    "gph": 661.5, 
+    "osn": 641.7
   }, 
   "sailnumber": "ITA15718", 
   "name": "GEPPINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.7, 
       "loa": 10.3, 
       "draft": 1.96, 
+      "wetted_surface": 25.4, 
       "main": 32.4, 
       "genoa": 34.3, 
       "displacement": 5352.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 410.0
     }, 
     "year": "2003"
   }, 

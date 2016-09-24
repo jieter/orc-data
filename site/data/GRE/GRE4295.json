@@ -5,12 +5,13 @@
       1.1053, 
       1.2799
     ], 
-    "gph": 695.9, 
     "triple_inshore": [
       0.6208, 
       0.862, 
       1.0401
-    ]
+    ], 
+    "gph": 695.9, 
+    "osn": 676.6
   }, 
   "sailnumber": "GRE4295", 
   "name": "WATER GIPSY", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.2, 
       "loa": 12.95, 
       "draft": 1.93, 
+      "wetted_surface": 41.5, 
       "main": 32.7, 
       "genoa": 55.1, 
       "displacement": 13943.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 630.0
     }, 
     "year": "1984"
   }, 

@@ -5,12 +5,13 @@
       1.0471, 
       1.2047
     ], 
-    "gph": 730.7, 
     "triple_inshore": [
       0.6112, 
       0.8448, 
       1.0141
-    ]
+    ], 
+    "gph": 730.7, 
+    "osn": 708.3
   }, 
   "sailnumber": "ESP8711_C", 
   "name": "BELUGA UNO", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.6, 
       "loa": 8.845, 
       "draft": 1.75, 
+      "wetted_surface": 20.1, 
       "main": 21.0, 
       "genoa": 28.5, 
       "displacement": 4108.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1989"
   }, 

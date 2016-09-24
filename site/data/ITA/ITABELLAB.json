@@ -5,12 +5,13 @@
       1.181, 
       1.362
     ], 
-    "gph": 650.2, 
     "triple_inshore": [
       0.6768, 
       0.9411, 
       1.1333
-    ]
+    ], 
+    "gph": 650.2, 
+    "osn": 629.9
   }, 
   "sailnumber": "ITABELLAB", 
   "name": "BELLABLU", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.1, 
       "loa": 12.613, 
       "draft": 2.13, 
+      "wetted_surface": 33.5, 
       "main": 33.0, 
       "genoa": 52.0, 
       "displacement": 8833.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1984"
   }, 

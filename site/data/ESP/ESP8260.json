@@ -5,12 +5,13 @@
       1.3507, 
       1.5219
     ], 
-    "gph": 563.0, 
     "triple_inshore": [
       0.7909, 
       1.072, 
       1.2629
-    ]
+    ], 
+    "gph": 563.0, 
+    "osn": 552.2
   }, 
   "sailnumber": "ESP8260", 
   "name": "NIRVANA TRES", 
@@ -25,10 +26,12 @@
       "spinnaker": 155.7, 
       "loa": 14.2, 
       "draft": 2.59, 
+      "wetted_surface": 46.8, 
       "main": 66.5, 
       "genoa": 51.8, 
       "displacement": 13958.0, 
-      "spinnaker_asym": 140.0
+      "spinnaker_asym": 140.0, 
+      "crew": 560.0
     }, 
     "year": "2006"
   }, 

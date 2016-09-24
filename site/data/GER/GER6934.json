@@ -5,12 +5,13 @@
       1.1468, 
       1.3192
     ], 
-    "gph": 662.4, 
     "triple_inshore": [
       0.6852, 
       0.9335, 
       1.0756
-    ]
+    ], 
+    "gph": 662.4, 
+    "osn": 643.1
   }, 
   "sailnumber": "GER6934", 
   "name": "NEMO", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.0, 
       "loa": 7.62, 
       "draft": 1.68, 
+      "wetted_surface": 13.8, 
       "main": 21.2, 
       "genoa": 17.1, 
       "displacement": 1334.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 340.0
     }, 
     "year": "1996"
   }, 

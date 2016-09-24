@@ -5,12 +5,13 @@
       1.2271, 
       1.3998
     ], 
-    "gph": 623.4, 
     "triple_inshore": [
       0.7129, 
       0.9776, 
       1.1614
-    ]
+    ], 
+    "gph": 623.4, 
+    "osn": 606.3
   }, 
   "sailnumber": "ITA14732", 
   "name": "MAGIE", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.0, 
       "loa": 12.85, 
       "draft": 2.04, 
+      "wetted_surface": 34.8, 
       "main": 50.3, 
       "genoa": 48.9, 
       "displacement": 9723.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2004"
   }, 

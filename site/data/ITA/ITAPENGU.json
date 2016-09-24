@@ -5,12 +5,13 @@
       0.8997, 
       1.0758
     ], 
-    "gph": 857.6, 
     "triple_inshore": [
       0.4969, 
       0.7101, 
       0.8867
-    ]
+    ], 
+    "gph": 857.6, 
+    "osn": 828.5
   }, 
   "sailnumber": "ITAPENGU", 
   "name": "PEN GUEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.71, 
       "draft": 1.51, 
+      "wetted_surface": 20.0, 
       "main": 15.3, 
       "genoa": 28.0, 
       "displacement": 4166.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1977"
   }, 

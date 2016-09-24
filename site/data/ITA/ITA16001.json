@@ -5,12 +5,13 @@
       1.159, 
       1.3167
     ], 
-    "gph": 659.3, 
     "triple_inshore": [
       0.6766, 
       0.9216, 
       1.0841
-    ]
+    ], 
+    "gph": 659.3, 
+    "osn": 641.7
   }, 
   "sailnumber": "ITA16001", 
   "name": "DUC IN ALTUM", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.33, 
       "draft": 2.0, 
+      "wetted_surface": 27.8, 
       "main": 35.4, 
       "genoa": 40.6, 
       "displacement": 6262.0, 
-      "spinnaker_asym": 88.0
+      "spinnaker_asym": 88.0, 
+      "crew": 410.0
     }, 
     "year": "1997"
   }, 

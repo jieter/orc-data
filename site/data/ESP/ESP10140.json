@@ -5,12 +5,13 @@
       1.0902, 
       1.2184
     ], 
-    "gph": 697.5, 
     "triple_inshore": [
       0.6534, 
       0.8708, 
       1.0072
-    ]
+    ], 
+    "gph": 697.5, 
+    "osn": 681.9
   }, 
   "sailnumber": "ESP10140", 
   "name": "DAIKOKU", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.345, 
       "draft": 1.81, 
+      "wetted_surface": 23.2, 
       "main": 26.7, 
       "genoa": 41.6, 
       "displacement": 5482.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 225.0
     }, 
     "year": "1974"
   }, 

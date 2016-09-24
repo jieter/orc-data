@@ -5,12 +5,13 @@
       1.2928, 
       1.4565
     ], 
-    "gph": 588.5, 
     "triple_inshore": [
       0.7734, 
       1.0501, 
       1.2171
-    ]
+    ], 
+    "gph": 588.5, 
+    "osn": 573.1
   }, 
   "sailnumber": "GER3105", 
   "name": "AMUSE-BOUCHE", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.7, 
       "loa": 11.915, 
       "draft": 2.31, 
+      "wetted_surface": 28.2, 
       "main": 53.7, 
       "genoa": 32.2, 
       "displacement": 5814.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "1992"
   }, 

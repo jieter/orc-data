@@ -5,12 +5,13 @@
       1.1132, 
       1.2552
     ], 
-    "gph": 677.2, 
     "triple_inshore": [
       0.6915, 
       0.9135, 
       1.0337
-    ]
+    ], 
+    "gph": 677.2, 
+    "osn": 659.7
   }, 
   "sailnumber": "ESP25473", 
   "name": "PETRUS-K", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.9, 
       "loa": 7.512, 
       "draft": 1.57, 
+      "wetted_surface": 12.1, 
       "main": 20.9, 
       "genoa": 13.2, 
       "displacement": 1297.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 380.0
     }, 
     "year": "1995"
   }, 

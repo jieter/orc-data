@@ -5,12 +5,13 @@
       1.093, 
       1.2648
     ], 
-    "gph": 702.6, 
     "triple_inshore": [
       0.6286, 
       0.8807, 
       1.0626
-    ]
+    ], 
+    "gph": 702.6, 
+    "osn": 679.3
   }, 
   "sailnumber": "NED8718", 
   "name": "Box jellyfish", 
@@ -25,10 +26,12 @@
       "spinnaker": 53.9, 
       "loa": 9.34, 
       "draft": 1.98, 
+      "wetted_surface": 20.7, 
       "main": 25.0, 
       "genoa": 19.6, 
       "displacement": 3800.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 513.0
     }, 
     "year": "1994"
   }, 

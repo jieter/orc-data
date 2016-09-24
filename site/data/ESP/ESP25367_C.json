@@ -5,12 +5,13 @@
       1.1342, 
       1.2816
     ], 
-    "gph": 663.5, 
     "triple_inshore": [
       0.7091, 
       0.9306, 
       1.0561
-    ]
+    ], 
+    "gph": 663.5, 
+    "osn": 646.1
   }, 
   "sailnumber": "ESP25367_C", 
   "name": "KH 7", 
@@ -25,10 +26,12 @@
       "spinnaker": 44.6, 
       "loa": 7.512, 
       "draft": 1.55, 
+      "wetted_surface": 11.5, 
       "main": 21.1, 
       "genoa": 12.8, 
       "displacement": 1138.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1996"
   }, 

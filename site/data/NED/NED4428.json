@@ -5,12 +5,13 @@
       1.1058, 
       1.2843
     ], 
-    "gph": 696.4, 
     "triple_inshore": [
       0.6225, 
       0.8828, 
       1.0442
-    ]
+    ], 
+    "gph": 696.4, 
+    "osn": 673.2
   }, 
   "sailnumber": "NED4428", 
   "name": "WINDVEER", 
@@ -25,10 +26,12 @@
       "spinnaker": 41.3, 
       "loa": 8.953, 
       "draft": 1.69, 
+      "wetted_surface": 16.7, 
       "main": 22.5, 
       "genoa": 13.8, 
       "displacement": 1857.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1991"
   }, 

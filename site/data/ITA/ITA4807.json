@@ -5,12 +5,13 @@
       1.0881, 
       1.2531
     ], 
-    "gph": 704.9, 
     "triple_inshore": [
       0.6263, 
       0.8662, 
       1.0437
-    ]
+    ], 
+    "gph": 704.9, 
+    "osn": 683.6
   }, 
   "sailnumber": "ITA4807", 
   "name": "ARDI", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.3, 
       "loa": 11.034, 
       "draft": 1.98, 
+      "wetted_surface": 27.5, 
       "main": 29.3, 
       "genoa": 51.3, 
       "displacement": 7749.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1968"
   }, 

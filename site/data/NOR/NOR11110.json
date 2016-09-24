@@ -5,12 +5,13 @@
       1.111, 
       1.2615
     ], 
-    "gph": 687.0, 
     "triple_inshore": [
       0.6436, 
       0.8843, 
       1.0466
-    ]
+    ], 
+    "gph": 687.0, 
+    "osn": 671.0
   }, 
   "sailnumber": "NOR11110", 
   "name": "Lupona", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.4, 
       "draft": 1.62, 
+      "wetted_surface": 21.9, 
       "main": 30.0, 
       "genoa": 21.4, 
       "displacement": 3994.0, 
-      "spinnaker_asym": 50.0
+      "spinnaker_asym": 50.0, 
+      "crew": 560.0
     }, 
     "year": "1998"
   }, 

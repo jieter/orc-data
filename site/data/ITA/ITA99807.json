@@ -5,12 +5,13 @@
       1.211, 
       1.3716
     ], 
-    "gph": 630.5, 
     "triple_inshore": [
       0.7113, 
       0.973, 
       1.1307
-    ]
+    ], 
+    "gph": 630.5, 
+    "osn": 613.7
   }, 
   "sailnumber": "ITA99807", 
   "name": "UNPOPERGIOCO", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.7, 
       "loa": 10.3, 
       "draft": 1.9, 
+      "wetted_surface": 24.9, 
       "main": 37.3, 
       "genoa": 32.5, 
       "displacement": 4577.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2014"
   }, 

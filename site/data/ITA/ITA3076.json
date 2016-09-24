@@ -5,12 +5,13 @@
       1.2486, 
       1.4239
     ], 
-    "gph": 605.7, 
     "triple_inshore": [
       0.765, 
       1.026, 
       1.1795
-    ]
+    ], 
+    "gph": 605.7, 
+    "osn": 588.4
   }, 
   "sailnumber": "ITA3076", 
   "name": "ARTETECA", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.8, 
       "loa": 9.435, 
       "draft": 2.17, 
+      "wetted_surface": 18.6, 
       "main": 34.2, 
       "genoa": 19.6, 
       "displacement": 2655.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 510.0
     }, 
     "year": "1996"
   }, 

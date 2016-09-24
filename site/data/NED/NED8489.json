@@ -5,12 +5,13 @@
       1.2886, 
       1.4716
     ], 
-    "gph": 595.7, 
     "triple_inshore": [
       0.7386, 
       1.021, 
       1.2034
-    ]
+    ], 
+    "gph": 595.7, 
+    "osn": 578.5
   }, 
   "sailnumber": "NED8489", 
   "name": "Westwind", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.1, 
       "draft": 2.18, 
+      "wetted_surface": 40.6, 
       "main": 55.5, 
       "genoa": 48.5, 
       "displacement": 10131.0, 
-      "spinnaker_asym": 142.0
+      "spinnaker_asym": 142.0, 
+      "crew": 860.0
     }, 
     "year": "2010"
   }, 

@@ -5,12 +5,13 @@
       1.0142, 
       1.1313
     ], 
-    "gph": 751.2, 
     "triple_inshore": [
       0.6066, 
       0.8282, 
       0.9509
-    ]
+    ], 
+    "gph": 751.2, 
+    "osn": 730.7
   }, 
   "sailnumber": "NED5527", 
   "name": "SAFFIER", 
@@ -25,10 +26,12 @@
       "spinnaker": 37.6, 
       "loa": 7.78, 
       "draft": 1.66, 
+      "wetted_surface": 14.0, 
       "main": 18.2, 
       "genoa": 19.7, 
       "displacement": 1979.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 200.0
     }, 
     "year": "1982"
   }, 

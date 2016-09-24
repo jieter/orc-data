@@ -5,12 +5,13 @@
       1.5445, 
       1.7529
     ], 
-    "gph": 498.0, 
     "triple_inshore": [
       0.8756, 
       1.2155, 
       1.4232
-    ]
+    ], 
+    "gph": 498.0, 
+    "osn": 485.3
   }, 
   "sailnumber": "ITA40474", 
   "name": "STREGATTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 19.0, 
       "draft": 2.95, 
+      "wetted_surface": 73.7, 
       "main": 125.8, 
       "genoa": 97.7, 
       "displacement": 23887.0, 
-      "spinnaker_asym": 310.0
+      "spinnaker_asym": 310.0, 
+      "crew": 1000.0
     }, 
     "year": "2008"
   }, 

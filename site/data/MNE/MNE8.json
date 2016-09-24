@@ -5,12 +5,13 @@
       1.2506, 
       1.4448
     ], 
-    "gph": 614.6, 
     "triple_inshore": [
       0.7107, 
       0.9973, 
       1.194
-    ]
+    ], 
+    "gph": 614.6, 
+    "osn": 595.5
   }, 
   "sailnumber": "MNE8", 
   "name": "Vagabund", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 2.15, 
+      "wetted_surface": 32.4, 
       "main": 43.4, 
       "genoa": 43.2, 
       "displacement": 7600.0, 
-      "spinnaker_asym": 101.0
+      "spinnaker_asym": 101.0, 
+      "crew": 900.0
     }, 
     "year": "2007"
   }, 

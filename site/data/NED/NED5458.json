@@ -5,12 +5,13 @@
       1.1058, 
       1.2568
     ], 
-    "gph": 692.6, 
     "triple_inshore": [
       0.6458, 
       0.8952, 
       1.0549
-    ]
+    ], 
+    "gph": 692.6, 
+    "osn": 670.9
   }, 
   "sailnumber": "NED5458", 
   "name": "GEINTJE", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.0, 
       "loa": 9.344, 
       "draft": 1.98, 
+      "wetted_surface": 21.3, 
       "main": 24.5, 
       "genoa": 29.3, 
       "displacement": 3937.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 513.0
     }, 
     "year": "1995"
   }, 

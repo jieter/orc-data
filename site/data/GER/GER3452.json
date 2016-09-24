@@ -5,12 +5,13 @@
       0.9909, 
       1.099
     ], 
-    "gph": 764.0, 
     "triple_inshore": [
       0.6115, 
       0.8172, 
       0.9217
-    ]
+    ], 
+    "gph": 764.0, 
+    "osn": 744.0
   }, 
   "sailnumber": "GER3452", 
   "name": "AMARONE", 
@@ -25,10 +26,12 @@
       "spinnaker": 27.9, 
       "loa": 7.06, 
       "draft": 1.49, 
+      "wetted_surface": 9.9, 
       "main": 16.0, 
       "genoa": 12.4, 
       "displacement": 1157.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 280.0
     }, 
     "year": "1985"
   }, 

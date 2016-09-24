@@ -5,12 +5,13 @@
       1.2507, 
       1.4139
     ], 
-    "gph": 610.4, 
     "triple_inshore": [
       0.7381, 
       1.0073, 
       1.1677
-    ]
+    ], 
+    "gph": 610.4, 
+    "osn": 592.4
   }, 
   "sailnumber": "CRO1834", 
   "name": "Victor", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.5, 
       "draft": 2.14, 
+      "wetted_surface": 27.0, 
       "main": 38.5, 
       "genoa": 31.2, 
       "displacement": 5350.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 684.0
     }, 
     "year": "2010"
   }, 

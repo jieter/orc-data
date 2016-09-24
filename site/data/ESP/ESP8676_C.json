@@ -5,12 +5,13 @@
       1.0938, 
       1.2812
     ], 
-    "gph": 707.0, 
     "triple_inshore": [
       0.6046, 
       0.8566, 
       1.0429
-    ]
+    ], 
+    "gph": 707.0, 
+    "osn": 683.9
   }, 
   "sailnumber": "ESP8676_C", 
   "name": "ATHENEA 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.53, 
       "draft": 1.66, 
+      "wetted_surface": 25.6, 
       "main": 27.7, 
       "genoa": 29.9, 
       "displacement": 5395.0, 
-      "spinnaker_asym": 68.0
+      "spinnaker_asym": 68.0, 
+      "crew": 300.0
     }, 
     "year": "2005"
   }, 

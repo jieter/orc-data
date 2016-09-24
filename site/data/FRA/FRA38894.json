@@ -5,12 +5,13 @@
       1.0802, 
       1.2465
     ], 
-    "gph": 710.2, 
     "triple_inshore": [
       0.6141, 
       0.8587, 
       1.0096
-    ]
+    ], 
+    "gph": 710.2, 
+    "osn": 689.4
   }, 
   "sailnumber": "FRA38894", 
   "name": "STARLIGHT", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.7, 
       "draft": 1.16, 
+      "wetted_surface": 14.6, 
       "main": 24.7, 
       "genoa": 18.9, 
       "displacement": 1984.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 300.0
     }, 
     "year": "2011"
   }, 

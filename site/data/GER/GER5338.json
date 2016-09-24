@@ -5,12 +5,13 @@
       1.1736, 
       1.3165
     ], 
-    "gph": 649.1, 
     "triple_inshore": [
       0.6988, 
       0.951, 
       1.1016
-    ]
+    ], 
+    "gph": 649.1, 
+    "osn": 632.4
   }, 
   "sailnumber": "GER5338", 
   "name": "PEGGY", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.1, 
       "loa": 10.06, 
       "draft": 1.84, 
+      "wetted_surface": 24.6, 
       "main": 36.2, 
       "genoa": 33.9, 
       "displacement": 4819.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 575.0
     }, 
     "year": "1994"
   }, 

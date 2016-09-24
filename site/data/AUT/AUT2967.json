@@ -5,12 +5,13 @@
       1.2628, 
       1.4283
     ], 
-    "gph": 603.8, 
     "triple_inshore": [
       0.7474, 
       1.0214, 
       1.1812
-    ]
+    ], 
+    "gph": 603.8, 
+    "osn": 587.1
   }, 
   "sailnumber": "AUT2967", 
   "name": "Luma", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.5, 
       "loa": 10.5, 
       "draft": 2.31, 
+      "wetted_surface": 25.8, 
       "main": 39.5, 
       "genoa": 31.4, 
       "displacement": 4602.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2010"
   }, 

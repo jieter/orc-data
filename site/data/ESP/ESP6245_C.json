@@ -5,12 +5,13 @@
       1.1035, 
       1.2345
     ], 
-    "gph": 687.6, 
     "triple_inshore": [
       0.6709, 
       0.9032, 
       1.0401
-    ]
+    ], 
+    "gph": 687.6, 
+    "osn": 669.5
   }, 
   "sailnumber": "ESP6245_C", 
   "name": "ALKAID II", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.6, 
       "loa": 9.788, 
       "draft": 1.75, 
+      "wetted_surface": 18.8, 
       "main": 24.0, 
       "genoa": 30.9, 
       "displacement": 3663.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 458.0
     }, 
     "year": "1977"
   }, 

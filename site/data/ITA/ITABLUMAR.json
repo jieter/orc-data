@@ -5,12 +5,13 @@
       1.1882, 
       1.3372
     ], 
-    "gph": 641.7, 
     "triple_inshore": [
       0.7036, 
       0.9521, 
       1.1112
-    ]
+    ], 
+    "gph": 641.7, 
+    "osn": 624.9
   }, 
   "sailnumber": "ITABLUMAR", 
   "name": "BLUMARTI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.475, 
       "draft": 2.27, 
+      "wetted_surface": 30.1, 
       "main": 41.3, 
       "genoa": 42.9, 
       "displacement": 7152.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 500.0
     }, 
     "year": "1992"
   }, 

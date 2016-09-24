@@ -5,12 +5,13 @@
       0.9865, 
       1.1429
     ], 
-    "gph": 779.8, 
     "triple_inshore": [
       0.5583, 
       0.785, 
       0.9472
-    ]
+    ], 
+    "gph": 779.8, 
+    "osn": 755.6
   }, 
   "sailnumber": "NED6547", 
   "name": "PELIKAAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.402, 
       "draft": 1.7, 
+      "wetted_surface": 24.6, 
       "main": 23.6, 
       "genoa": 39.1, 
       "displacement": 5380.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 425.0
     }, 
     "year": "1966"
   }, 

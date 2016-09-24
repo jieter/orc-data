@@ -5,12 +5,13 @@
       1.1756, 
       1.3398
     ], 
-    "gph": 650.4, 
     "triple_inshore": [
       0.6862, 
       0.9483, 
       1.1208
-    ]
+    ], 
+    "gph": 650.4, 
+    "osn": 631.2
   }, 
   "sailnumber": "POR8175", 
   "name": "METRALHA", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.2, 
       "loa": 10.3, 
       "draft": 1.95, 
+      "wetted_surface": 24.8, 
       "main": 32.4, 
       "genoa": 34.3, 
       "displacement": 5128.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 627.0
     }, 
     "year": "2003"
   }, 

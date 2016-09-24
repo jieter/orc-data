@@ -5,12 +5,13 @@
       1.0654, 
       1.2028
     ], 
-    "gph": 716.4, 
     "triple_inshore": [
       0.6303, 
       0.8627, 
       1.0097
-    ]
+    ], 
+    "gph": 716.4, 
+    "osn": 695.9
   }, 
   "sailnumber": "ESP6746_C", 
   "name": "ATZAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.99, 
       "draft": 1.74, 
+      "wetted_surface": 20.0, 
       "main": 24.0, 
       "genoa": 25.1, 
       "displacement": 3712.0, 
-      "spinnaker_asym": 48.0
+      "spinnaker_asym": 48.0, 
+      "crew": 150.0
     }, 
     "year": "1990"
   }, 

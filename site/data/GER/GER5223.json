@@ -5,12 +5,13 @@
       1.1855, 
       1.3373
     ], 
-    "gph": 643.8, 
     "triple_inshore": [
       0.702, 
       0.9636, 
       1.1196
-    ]
+    ], 
+    "gph": 643.8, 
+    "osn": 625.6
   }, 
   "sailnumber": "GER5223", 
   "name": "VARUNA X PRESS", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.8, 
       "loa": 10.045, 
       "draft": 2.15, 
+      "wetted_surface": 23.1, 
       "main": 36.0, 
       "genoa": 25.2, 
       "displacement": 4124.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 555.0
     }, 
     "year": "1994"
   }, 

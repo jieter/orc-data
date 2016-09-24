@@ -5,12 +5,13 @@
       1.2048, 
       1.4278
     ], 
-    "gph": 642.7, 
     "triple_inshore": [
       0.6465, 
       0.9366, 
       1.1634
-    ]
+    ], 
+    "gph": 642.7, 
+    "osn": 624.7
   }, 
   "sailnumber": "NOR15068", 
   "name": "Timeout", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.75, 
       "draft": 2.0, 
+      "wetted_surface": 46.3, 
       "main": 51.0, 
       "genoa": 68.2, 
       "displacement": 12929.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 903.0
     }, 
     "year": "2012"
   }, 

@@ -5,12 +5,13 @@
       1.1737, 
       1.3164
     ], 
-    "gph": 649.5, 
     "triple_inshore": [
       0.6972, 
       0.9502, 
       1.0986
-    ]
+    ], 
+    "gph": 649.5, 
+    "osn": 632.7
   }, 
   "sailnumber": "ITA13388", 
   "name": "SEXY", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.2, 
       "loa": 9.978, 
       "draft": 1.82, 
+      "wetted_surface": 24.2, 
       "main": 36.8, 
       "genoa": 29.8, 
       "displacement": 4556.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1994"
   }, 

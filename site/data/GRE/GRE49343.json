@@ -5,12 +5,13 @@
       0.9849, 
       1.1277
     ], 
-    "gph": 776.7, 
     "triple_inshore": [
       0.5742, 
       0.7906, 
       0.9419
-    ]
+    ], 
+    "gph": 776.7, 
+    "osn": 754.3
   }, 
   "sailnumber": "GRE49343", 
   "name": "CPT CAMFON", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.0, 
       "loa": 8.4, 
       "draft": 1.52, 
+      "wetted_surface": 17.5, 
       "main": 13.9, 
       "genoa": 29.4, 
       "displacement": 3221.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 455.0
     }, 
     "year": "1977"
   }, 

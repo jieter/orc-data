@@ -5,12 +5,13 @@
       1.2092, 
       1.4062
     ], 
-    "gph": 634.8, 
     "triple_inshore": [
       0.6852, 
       0.9563, 
       1.1591
-    ]
+    ], 
+    "gph": 634.8, 
+    "osn": 616.9
   }, 
   "sailnumber": "ESP8050_C", 
   "name": "ZIDAY", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.7, 
       "loa": 12.688, 
       "draft": 1.81, 
+      "wetted_surface": 36.1, 
       "main": 43.9, 
       "genoa": 54.8, 
       "displacement": 9157.0, 
-      "spinnaker_asym": 99.0
+      "spinnaker_asym": 99.0, 
+      "crew": 800.0
     }, 
     "year": "1993"
   }, 

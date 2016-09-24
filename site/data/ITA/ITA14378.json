@@ -5,12 +5,13 @@
       1.4639, 
       1.6541
     ], 
-    "gph": 514.6, 
     "triple_inshore": [
       0.8894, 
       1.1824, 
       1.3599
-    ]
+    ], 
+    "gph": 514.6, 
+    "osn": 504.8
   }, 
   "sailnumber": "ITA14378", 
   "name": "MARGHERITA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.29, 
       "draft": 2.91, 
+      "wetted_surface": 35.5, 
       "main": 67.4, 
       "genoa": 57.4, 
       "displacement": 7493.0, 
-      "spinnaker_asym": 224.0
+      "spinnaker_asym": 224.0, 
+      "crew": 800.0
     }, 
     "year": "2002"
   }, 

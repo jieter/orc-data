@@ -5,12 +5,13 @@
       1.0846, 
       1.217
     ], 
-    "gph": 704.7, 
     "triple_inshore": [
       0.6365, 
       0.8857, 
       1.0282
-    ]
+    ], 
+    "gph": 704.7, 
+    "osn": 684.5
   }, 
   "sailnumber": "ITA15405", 
   "name": "MORGANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.1, 
       "draft": 1.7, 
+      "wetted_surface": 20.8, 
       "main": 32.5, 
       "genoa": 25.9, 
       "displacement": 3782.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "2002"
   }, 

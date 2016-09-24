@@ -5,12 +5,13 @@
       1.1587, 
       1.2982
     ], 
-    "gph": 657.2, 
     "triple_inshore": [
       0.6929, 
       0.9384, 
       1.0929
-    ]
+    ], 
+    "gph": 657.2, 
+    "osn": 640.0
   }, 
   "sailnumber": "NED4697", 
   "name": "FUTURO", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.6, 
       "loa": 10.02, 
       "draft": 2.18, 
+      "wetted_surface": 24.9, 
       "main": 31.6, 
       "genoa": 39.8, 
       "displacement": 5354.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 510.0
     }, 
     "year": "1999"
   }, 

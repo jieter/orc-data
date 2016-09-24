@@ -5,12 +5,13 @@
       1.2826, 
       1.4609
     ], 
-    "gph": 597.0, 
     "triple_inshore": [
       0.7425, 
       1.025, 
       1.2178
-    ]
+    ], 
+    "gph": 597.0, 
+    "osn": 580.5
   }, 
   "sailnumber": "ESP4628_C", 
   "name": "PERSEO XVIII", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.48, 
       "draft": 2.34, 
+      "wetted_surface": 39.8, 
       "main": 48.9, 
       "genoa": 61.2, 
       "displacement": 10848.0, 
-      "spinnaker_asym": 123.0
+      "spinnaker_asym": 123.0, 
+      "crew": 380.0
     }, 
     "year": "1993"
   }, 

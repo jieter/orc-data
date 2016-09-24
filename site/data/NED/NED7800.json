@@ -5,12 +5,13 @@
       1.2214, 
       1.3729
     ], 
-    "gph": 624.3, 
     "triple_inshore": [
       0.726, 
       0.9852, 
       1.1378
-    ]
+    ], 
+    "gph": 624.3, 
+    "osn": 606.5
   }, 
   "sailnumber": "NED7800", 
   "name": "Arethusa", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.757, 
       "draft": 2.14, 
+      "wetted_surface": 26.5, 
       "main": 37.9, 
       "genoa": 29.0, 
       "displacement": 5209.0, 
-      "spinnaker_asym": 104.0
+      "spinnaker_asym": 104.0, 
+      "crew": 641.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.3212, 
       1.484
     ], 
-    "gph": 579.0, 
     "triple_inshore": [
       0.7683, 
       1.0478, 
       1.2082
-    ]
+    ], 
+    "gph": 579.0, 
+    "osn": 564.7
   }, 
   "sailnumber": "NOR14732", 
   "name": "Friendship", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.15, 
       "draft": 2.17, 
+      "wetted_surface": 37.6, 
       "main": 59.9, 
       "genoa": 54.7, 
       "displacement": 9293.0, 
-      "spinnaker_asym": 141.0
+      "spinnaker_asym": 141.0, 
+      "crew": 807.0
     }, 
     "year": "1999"
   }, 

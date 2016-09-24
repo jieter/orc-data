@@ -5,12 +5,13 @@
       1.1057, 
       1.2426
     ], 
-    "gph": 682.1, 
     "triple_inshore": [
       0.6865, 
       0.9084, 
       1.0273
-    ]
+    ], 
+    "gph": 682.1, 
+    "osn": 664.5
   }, 
   "sailnumber": "ITA13067", 
   "name": "ARIEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 44.1, 
       "loa": 7.512, 
       "draft": 1.58, 
+      "wetted_surface": 12.3, 
       "main": 21.1, 
       "genoa": 13.2, 
       "displacement": 1366.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1997"
   }, 

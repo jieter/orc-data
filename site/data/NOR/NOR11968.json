@@ -5,12 +5,13 @@
       1.338, 
       1.5036
     ], 
-    "gph": 569.4, 
     "triple_inshore": [
       0.7916, 
       1.0748, 
       1.2524
-    ]
+    ], 
+    "gph": 569.4, 
+    "osn": 555.6
   }, 
   "sailnumber": "NOR11968", 
   "name": "Farvide", 
@@ -25,10 +26,12 @@
       "spinnaker": 124.0, 
       "loa": 13.37, 
       "draft": 2.62, 
+      "wetted_surface": 38.0, 
       "main": 63.5, 
       "genoa": 64.4, 
       "displacement": 9459.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 869.0
     }, 
     "year": "2003"
   }, 

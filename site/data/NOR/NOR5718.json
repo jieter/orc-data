@@ -5,12 +5,13 @@
       1.0064, 
       1.1201
     ], 
-    "gph": 752.1, 
     "triple_inshore": [
       0.619, 
       0.8265, 
       0.9315
-    ]
+    ], 
+    "gph": 752.1, 
+    "osn": 732.8
   }, 
   "sailnumber": "NOR5718", 
   "name": "Don't Panic", 
@@ -25,10 +26,12 @@
       "spinnaker": 25.2, 
       "loa": 6.823, 
       "draft": 1.44, 
+      "wetted_surface": 9.5, 
       "main": 16.6, 
       "genoa": 12.6, 
       "displacement": 963.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 258.0
     }, 
     "year": "1984"
   }, 

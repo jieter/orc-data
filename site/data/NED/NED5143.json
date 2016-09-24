@@ -5,12 +5,13 @@
       1.038, 
       1.1574
     ], 
-    "gph": 727.4, 
     "triple_inshore": [
       0.6413, 
       0.8532, 
       0.9632
-    ]
+    ], 
+    "gph": 727.4, 
+    "osn": 709.6
   }, 
   "sailnumber": "NED5143", 
   "name": "TAAI BENNIK II", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.4, 
       "loa": 6.938, 
       "draft": 1.39, 
+      "wetted_surface": 12.1, 
       "main": 18.4, 
       "genoa": 13.5, 
       "displacement": 1323.0, 
-      "spinnaker_asym": 45.0
+      "spinnaker_asym": 45.0, 
+      "crew": 200.0
     }, 
     "year": "1993"
   }, 

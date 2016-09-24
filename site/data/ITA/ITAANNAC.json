@@ -5,12 +5,13 @@
       1.2289, 
       1.3965
     ], 
-    "gph": 624.5, 
     "triple_inshore": [
       0.706, 
       0.9774, 
       1.1478
-    ]
+    ], 
+    "gph": 624.5, 
+    "osn": 606.7
   }, 
   "sailnumber": "ITAANNAC", 
   "name": "ANNA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.98, 
       "draft": 2.09, 
+      "wetted_surface": 31.9, 
       "main": 36.7, 
       "genoa": 47.3, 
       "displacement": 7707.0, 
-      "spinnaker_asym": 134.0
+      "spinnaker_asym": 134.0, 
+      "crew": 455.0
     }, 
     "year": "2011"
   }, 

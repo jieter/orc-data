@@ -5,12 +5,13 @@
       1.2874, 
       1.4634
     ], 
-    "gph": 591.7, 
     "triple_inshore": [
       0.7641, 
       1.0464, 
       1.2152
-    ]
+    ], 
+    "gph": 591.7, 
+    "osn": 574.8
   }, 
   "sailnumber": "FRA39337", 
   "name": "LEON", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.0, 
       "loa": 10.82, 
       "draft": 2.17, 
+      "wetted_surface": 26.2, 
       "main": 39.0, 
       "genoa": 32.4, 
       "displacement": 4882.0, 
-      "spinnaker_asym": 122.0
+      "spinnaker_asym": 122.0, 
+      "crew": 640.0
     }, 
     "year": "2013"
   }, 

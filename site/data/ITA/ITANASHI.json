@@ -5,12 +5,13 @@
       1.0967, 
       1.2361
     ], 
-    "gph": 695.1, 
     "triple_inshore": [
       0.6546, 
       0.8882, 
       1.041
-    ]
+    ], 
+    "gph": 695.1, 
+    "osn": 675.4
   }, 
   "sailnumber": "ITANASHI", 
   "name": "NASHIRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.3, 
       "loa": 10.05, 
       "draft": 1.88, 
+      "wetted_surface": 22.7, 
       "main": 22.8, 
       "genoa": 37.0, 
       "displacement": 5300.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1980"
   }, 

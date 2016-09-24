@@ -5,12 +5,13 @@
       1.3738, 
       1.5543
     ], 
-    "gph": 550.7, 
     "triple_inshore": [
       0.8331, 
       1.1119, 
       1.2802
-    ]
+    ], 
+    "gph": 550.7, 
+    "osn": 537.5
   }, 
   "sailnumber": "ESP4496", 
   "name": "LLEVANT BLAU REGATA", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.2, 
       "loa": 11.98, 
       "draft": 2.5, 
+      "wetted_surface": 28.4, 
       "main": 55.1, 
       "genoa": 47.2, 
       "displacement": 5133.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 830.0
     }, 
     "year": "1995"
   }, 

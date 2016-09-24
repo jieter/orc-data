@@ -5,12 +5,13 @@
       1.1395, 
       1.2828
     ], 
-    "gph": 669.4, 
     "triple_inshore": [
       0.6758, 
       0.9204, 
       1.0724
-    ]
+    ], 
+    "gph": 669.4, 
+    "osn": 651.1
   }, 
   "sailnumber": "ARG3796", 
   "name": "SUDESTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.1, 
       "loa": 10.43, 
       "draft": 1.77, 
+      "wetted_surface": 24.0, 
       "main": 30.1, 
       "genoa": 33.5, 
       "displacement": 4895.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 369.0
     }, 
     "year": "1992"
   }, 

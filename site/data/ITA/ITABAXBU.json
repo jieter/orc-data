@@ -5,12 +5,13 @@
       1.0795, 
       1.1715
     ], 
-    "gph": 690.2, 
     "triple_inshore": [
       0.7088, 
       0.8982, 
       0.9968
-    ]
+    ], 
+    "gph": 690.2, 
+    "osn": 677.4
   }, 
   "sailnumber": "ITABAXBU", 
   "name": "BAX BUNNY", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.1, 
       "loa": 7.23, 
       "draft": 1.75, 
+      "wetted_surface": 13.0, 
       "main": 23.8, 
       "genoa": 20.0, 
       "displacement": 1797.0, 
-      "spinnaker_asym": 51.0
+      "spinnaker_asym": 51.0, 
+      "crew": 280.0
     }, 
     "year": "2003"
   }, 

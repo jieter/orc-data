@@ -5,12 +5,13 @@
       1.177, 
       1.3359
     ], 
-    "gph": 647.2, 
     "triple_inshore": [
       0.7012, 
       0.9526, 
       1.126
-    ]
+    ], 
+    "gph": 647.2, 
+    "osn": 628.8
   }, 
   "sailnumber": "ITA8268", 
   "name": "JONATHAN LIVINGSTON", 
@@ -25,10 +26,12 @@
       "spinnaker": 114.6, 
       "loa": 11.841, 
       "draft": 2.12, 
+      "wetted_surface": 30.2, 
       "main": 32.5, 
       "genoa": 56.2, 
       "displacement": 8162.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1978"
   }, 

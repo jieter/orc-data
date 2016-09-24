@@ -5,12 +5,13 @@
       1.1093, 
       1.3011
     ], 
-    "gph": 695.1, 
     "triple_inshore": [
       0.6239, 
       0.8813, 
       1.084
-    ]
+    ], 
+    "gph": 695.1, 
+    "osn": 671.2
   }, 
   "sailnumber": "FIN11777", 
   "name": "Maomi", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.9, 
       "loa": 11.72, 
       "draft": 2.19, 
+      "wetted_surface": 32.0, 
       "main": 29.9, 
       "genoa": 43.8, 
       "displacement": 8455.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1982"
   }, 

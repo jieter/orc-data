@@ -5,12 +5,13 @@
       1.2609, 
       1.4228
     ], 
-    "gph": 604.0, 
     "triple_inshore": [
       0.7502, 
       1.0221, 
       1.1849
-    ]
+    ], 
+    "gph": 604.0, 
+    "osn": 587.7
   }, 
   "sailnumber": "GRE9536", 
   "name": "PIX-LAX III", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.2, 
       "loa": 10.97, 
       "draft": 2.27, 
+      "wetted_surface": 27.1, 
       "main": 37.8, 
       "genoa": 42.5, 
       "displacement": 4972.0, 
-      "spinnaker_asym": 84.0
+      "spinnaker_asym": 84.0, 
+      "crew": 650.0
     }, 
     "year": "1996"
   }, 

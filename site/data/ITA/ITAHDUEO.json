@@ -5,12 +5,13 @@
       1.2281, 
       1.4079
     ], 
-    "gph": 624.8, 
     "triple_inshore": [
       0.7085, 
       0.9812, 
       1.1743
-    ]
+    ], 
+    "gph": 624.8, 
+    "osn": 605.5
   }, 
   "sailnumber": "ITAHDUEO", 
   "name": "H2O", 
@@ -25,10 +26,12 @@
       "spinnaker": 129.1, 
       "loa": 13.238, 
       "draft": 2.29, 
+      "wetted_surface": 37.1, 
       "main": 44.2, 
       "genoa": 47.0, 
       "displacement": 10162.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1986"
   }, 

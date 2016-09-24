@@ -5,12 +5,13 @@
       1.1357, 
       1.2923
     ], 
-    "gph": 673.9, 
     "triple_inshore": [
       0.6626, 
       0.9177, 
       1.078
-    ]
+    ], 
+    "gph": 673.9, 
+    "osn": 653.2
   }, 
   "sailnumber": "NOR10990", 
   "name": "Harek", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.6, 
       "loa": 9.85, 
       "draft": 1.93, 
+      "wetted_surface": 22.2, 
       "main": 25.4, 
       "genoa": 31.3, 
       "displacement": 3814.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 586.0
     }, 
     "year": "1998"
   }, 

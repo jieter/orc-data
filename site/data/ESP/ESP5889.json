@@ -5,12 +5,13 @@
       1.0511, 
       1.1825
     ], 
-    "gph": 727.2, 
     "triple_inshore": [
       0.6178, 
       0.8445, 
       0.9809
-    ]
+    ], 
+    "gph": 727.2, 
+    "osn": 706.8
   }, 
   "sailnumber": "ESP5889", 
   "name": "TUCANA I", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.1, 
       "loa": 8.872, 
       "draft": 1.43, 
+      "wetted_surface": 19.7, 
       "main": 20.1, 
       "genoa": 29.6, 
       "displacement": 3650.0, 
-      "spinnaker_asym": 61.0
+      "spinnaker_asym": 61.0, 
+      "crew": 350.0
     }, 
     "year": "1986"
   }, 

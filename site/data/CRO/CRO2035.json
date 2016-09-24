@@ -5,12 +5,13 @@
       1.2103, 
       1.4321
     ], 
-    "gph": 640.7, 
     "triple_inshore": [
       0.6585, 
       0.9423, 
       1.1543
-    ]
+    ], 
+    "gph": 640.7, 
+    "osn": 619.1
   }, 
   "sailnumber": "CRO2035", 
   "name": "Eveline", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.734, 
       "draft": 2.11, 
+      "wetted_surface": 46.4, 
       "main": 44.7, 
       "genoa": 47.5, 
       "displacement": 12600.0, 
-      "spinnaker_asym": 146.0
+      "spinnaker_asym": 146.0, 
+      "crew": 945.0
     }, 
     "year": "2014"
   }, 

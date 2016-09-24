@@ -5,12 +5,13 @@
       1.1295, 
       1.285
     ], 
-    "gph": 679.0, 
     "triple_inshore": [
       0.655, 
       0.9122, 
       1.0744
-    ]
+    ], 
+    "gph": 679.0, 
+    "osn": 657.1
   }, 
   "sailnumber": "GER4922", 
   "name": "ILTSCHI", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.9, 
       "loa": 9.49, 
       "draft": 1.93, 
+      "wetted_surface": 22.3, 
       "main": 25.6, 
       "genoa": 25.6, 
       "displacement": 3856.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1998"
   }, 

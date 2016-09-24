@@ -5,12 +5,13 @@
       1.0164, 
       1.1643
     ], 
-    "gph": 751.9, 
     "triple_inshore": [
       0.598, 
       0.818, 
       0.9748
-    ]
+    ], 
+    "gph": 751.9, 
+    "osn": 729.7
   }, 
   "sailnumber": "GRE49954", 
   "name": "ESCAPE", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.3, 
       "loa": 9.155, 
       "draft": 1.59, 
+      "wetted_surface": 18.7, 
       "main": 16.6, 
       "genoa": 28.2, 
       "displacement": 3741.0, 
-      "spinnaker_asym": 52.0
+      "spinnaker_asym": 52.0, 
+      "crew": 450.0
     }, 
     "year": "1972"
   }, 

@@ -5,12 +5,13 @@
       1.2602, 
       1.4279
     ], 
-    "gph": 604.1, 
     "triple_inshore": [
       0.7464, 
       1.0163, 
       1.1791
-    ]
+    ], 
+    "gph": 604.1, 
+    "osn": 588.5
   }, 
   "sailnumber": "NED7422", 
   "name": "Ragamuffin", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.5, 
       "loa": 11.01, 
       "draft": 1.95, 
+      "wetted_surface": 26.1, 
       "main": 40.7, 
       "genoa": 36.0, 
       "displacement": 4183.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1996"
   }, 

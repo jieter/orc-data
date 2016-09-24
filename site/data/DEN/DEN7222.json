@@ -5,12 +5,13 @@
       1.351, 
       1.5474
     ], 
-    "gph": 567.9, 
     "triple_inshore": [
       0.7768, 
       1.084, 
       1.2815
-    ]
+    ], 
+    "gph": 567.9, 
+    "osn": 550.8
   }, 
   "sailnumber": "DEN7222", 
   "name": "JOKI", 
@@ -25,10 +26,12 @@
       "spinnaker": 145.1, 
       "loa": 12.97, 
       "draft": 2.61, 
+      "wetted_surface": 39.2, 
       "main": 57.7, 
       "genoa": 48.3, 
       "displacement": 8536.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 930.0
     }, 
     "year": "2013"
   }, 

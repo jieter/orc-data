@@ -5,12 +5,13 @@
       1.2467, 
       1.4017
     ], 
-    "gph": 610.1, 
     "triple_inshore": [
       0.7452, 
       1.0096, 
       1.1683
-    ]
+    ], 
+    "gph": 610.1, 
+    "osn": 594.4
   }, 
   "sailnumber": "GRE88", 
   "name": "GRANMA X", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.7, 
       "loa": 11.36, 
       "draft": 2.1, 
+      "wetted_surface": 27.6, 
       "main": 40.1, 
       "genoa": 48.6, 
       "displacement": 5472.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 670.0
     }, 
     "year": "1992"
   }, 

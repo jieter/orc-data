@@ -5,12 +5,13 @@
       1.1384, 
       1.2605
     ], 
-    "gph": 666.6, 
     "triple_inshore": [
       0.6906, 
       0.9237, 
       1.0618
-    ]
+    ], 
+    "gph": 666.6, 
+    "osn": 651.5
   }, 
   "sailnumber": "AUT5", 
   "name": "Tschenny II", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.8, 
       "loa": 10.788, 
       "draft": 1.82, 
+      "wetted_surface": 23.8, 
       "main": 33.9, 
       "genoa": 36.8, 
       "displacement": 5486.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1978"
   }, 

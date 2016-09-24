@@ -5,12 +5,13 @@
       1.2302, 
       1.3962
     ], 
-    "gph": 620.2, 
     "triple_inshore": [
       0.7262, 
       0.988, 
       1.1683
-    ]
+    ], 
+    "gph": 620.2, 
+    "osn": 602.9
   }, 
   "sailnumber": "NED7561", 
   "name": "Brany", 
@@ -25,10 +26,12 @@
       "spinnaker": 124.9, 
       "loa": 12.233, 
       "draft": 2.06, 
+      "wetted_surface": 35.5, 
       "main": 51.2, 
       "genoa": 43.3, 
       "displacement": 10170.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 793.0
     }, 
     "year": "2001"
   }, 

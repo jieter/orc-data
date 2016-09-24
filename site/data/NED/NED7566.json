@@ -5,12 +5,13 @@
       1.1094, 
       1.2508
     ], 
-    "gph": 680.7, 
     "triple_inshore": [
       0.6843, 
       0.9098, 
       1.0298
-    ]
+    ], 
+    "gph": 680.7, 
+    "osn": 662.7
   }, 
   "sailnumber": "NED7566", 
   "name": "Chouette III", 
@@ -25,10 +26,12 @@
       "spinnaker": 45.6, 
       "loa": 7.512, 
       "draft": 1.57, 
+      "wetted_surface": 12.1, 
       "main": 20.4, 
       "genoa": 12.0, 
       "displacement": 1283.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 395.0
     }, 
     "year": "1997"
   }, 

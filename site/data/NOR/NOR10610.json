@@ -5,12 +5,13 @@
       1.1162, 
       1.2581
     ], 
-    "gph": 685.0, 
     "triple_inshore": [
       0.6572, 
       0.8997, 
       1.0429
-    ]
+    ], 
+    "gph": 685.0, 
+    "osn": 664.9
   }, 
   "sailnumber": "NOR10610", 
   "name": "Armogika", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.3, 
       "draft": 2.14, 
+      "wetted_surface": 20.3, 
       "main": 29.3, 
       "genoa": 21.2, 
       "displacement": 2927.0, 
-      "spinnaker_asym": 63.0
+      "spinnaker_asym": 63.0, 
+      "crew": 566.0
     }, 
     "year": "2002"
   }, 

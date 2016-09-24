@@ -5,12 +5,13 @@
       1.1117, 
       1.264
     ], 
-    "gph": 689.6, 
     "triple_inshore": [
       0.6464, 
       0.8956, 
       1.057
-    ]
+    ], 
+    "gph": 689.6, 
+    "osn": 667.9
   }, 
   "sailnumber": "FRA28007", 
   "name": "MARGEM DO AZUL III", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.6, 
       "loa": 9.44, 
       "draft": 1.99, 
+      "wetted_surface": 22.5, 
       "main": 25.4, 
       "genoa": 28.3, 
       "displacement": 4380.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2001"
   }, 

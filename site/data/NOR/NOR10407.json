@@ -5,12 +5,13 @@
       1.2677, 
       1.4389
     ], 
-    "gph": 603.2, 
     "triple_inshore": [
       0.7407, 
       1.0223, 
       1.2009
-    ]
+    ], 
+    "gph": 603.2, 
+    "osn": 586.0
   }, 
   "sailnumber": "NOR10407", 
   "name": "Madcap", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.4, 
       "loa": 11.99, 
       "draft": 2.41, 
+      "wetted_surface": 31.1, 
       "main": 49.7, 
       "genoa": 36.2, 
       "displacement": 6983.0, 
-      "spinnaker_asym": 102.0
+      "spinnaker_asym": 102.0, 
+      "crew": 732.0
     }, 
     "year": "1997"
   }, 

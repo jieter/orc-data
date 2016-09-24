@@ -5,12 +5,13 @@
       1.1054, 
       1.2607
     ], 
-    "gph": 694.4, 
     "triple_inshore": [
       0.6378, 
       0.8744, 
       1.0349
-    ]
+    ], 
+    "gph": 694.4, 
+    "osn": 673.6
   }, 
   "sailnumber": "NOR12313", 
   "name": "Lysing III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.413, 
       "draft": 1.72, 
+      "wetted_surface": 27.8, 
       "main": 25.9, 
       "genoa": 35.6, 
       "displacement": 6232.0, 
-      "spinnaker_asym": 69.0
+      "spinnaker_asym": 69.0, 
+      "crew": 688.0
     }, 
     "year": "2002"
   }, 

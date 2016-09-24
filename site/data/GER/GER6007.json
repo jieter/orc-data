@@ -5,12 +5,13 @@
       1.1812, 
       1.3244
     ], 
-    "gph": 644.7, 
     "triple_inshore": [
       0.7041, 
       0.9577, 
       1.1063
-    ]
+    ], 
+    "gph": 644.7, 
+    "osn": 628.3
   }, 
   "sailnumber": "GER6007", 
   "name": "PHOENIX", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.8, 
       "loa": 10.06, 
       "draft": 1.82, 
+      "wetted_surface": 24.1, 
       "main": 36.4, 
       "genoa": 33.0, 
       "displacement": 4502.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1997"
   }, 

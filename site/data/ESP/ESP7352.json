@@ -5,12 +5,13 @@
       1.6621, 
       1.9462
     ], 
-    "gph": 457.5, 
     "triple_inshore": [
       0.9752, 
       1.3184, 
       1.5651
-    ]
+    ], 
+    "gph": 457.5, 
+    "osn": 445.3
   }, 
   "sailnumber": "ESP7352", 
   "name": "SIRIUS VI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.84, 
       "draft": 3.2, 
+      "wetted_surface": 42.8, 
       "main": 93.5, 
       "genoa": 65.9, 
       "displacement": 7638.0, 
-      "spinnaker_asym": 270.0
+      "spinnaker_asym": 270.0, 
+      "crew": 1215.0
     }, 
     "year": "2005"
   }, 

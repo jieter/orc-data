@@ -5,12 +5,13 @@
       1.2473, 
       1.4135
     ], 
-    "gph": 612.2, 
     "triple_inshore": [
       0.7226, 
       0.992, 
       1.1647
-    ]
+    ], 
+    "gph": 612.2, 
+    "osn": 598.2
   }, 
   "sailnumber": "NOR9990", 
   "name": "Libera", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.0, 
       "loa": 11.62, 
       "draft": 1.97, 
+      "wetted_surface": 32.4, 
       "main": 39.9, 
       "genoa": 35.7, 
       "displacement": 7230.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 755.0
     }, 
     "year": "2006"
   }, 

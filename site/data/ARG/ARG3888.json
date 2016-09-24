@@ -5,12 +5,13 @@
       1.1489, 
       1.2948
     ], 
-    "gph": 663.1, 
     "triple_inshore": [
       0.6842, 
       0.93, 
       1.0822
-    ]
+    ], 
+    "gph": 663.1, 
+    "osn": 645.3
   }, 
   "sailnumber": "ARG3888", 
   "name": "LLANERO 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.8, 
       "loa": 10.43, 
       "draft": 1.76, 
+      "wetted_surface": 23.7, 
       "main": 27.3, 
       "genoa": 39.7, 
       "displacement": 4689.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 610.0
     }, 
     "year": "1992"
   }, 

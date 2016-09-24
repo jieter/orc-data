@@ -5,12 +5,13 @@
       1.445, 
       1.6402
     ], 
-    "gph": 526.7, 
     "triple_inshore": [
       0.8532, 
       1.1579, 
       1.3476
-    ]
+    ], 
+    "gph": 526.7, 
+    "osn": 513.7
   }, 
   "sailnumber": "KOR3000", 
   "name": "WINDWARD II", 
@@ -25,10 +26,12 @@
       "spinnaker": 157.9, 
       "loa": 14.265, 
       "draft": 2.87, 
+      "wetted_surface": 38.3, 
       "main": 63.6, 
       "genoa": 77.5, 
       "displacement": 7924.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 979.0
     }, 
     "year": "1997"
   }, 

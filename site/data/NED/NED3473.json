@@ -5,12 +5,13 @@
       1.1911, 
       1.3589
     ], 
-    "gph": 642.8, 
     "triple_inshore": [
       0.6914, 
       0.9569, 
       1.1165
-    ]
+    ], 
+    "gph": 642.8, 
+    "osn": 624.4
   }, 
   "sailnumber": "NED3473", 
   "name": "GOUDVIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 47.7, 
       "loa": 10.1, 
       "draft": 1.93, 
+      "wetted_surface": 19.4, 
       "main": 29.4, 
       "genoa": 18.2, 
       "displacement": 2629.0, 
-      "spinnaker_asym": 47.0
+      "spinnaker_asym": 47.0, 
+      "crew": 450.0
     }, 
     "year": "1984"
   }, 

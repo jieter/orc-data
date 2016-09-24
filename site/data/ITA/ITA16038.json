@@ -5,12 +5,13 @@
       1.2439, 
       1.4073
     ], 
-    "gph": 614.1, 
     "triple_inshore": [
       0.7292, 
       1.0026, 
       1.1728
-    ]
+    ], 
+    "gph": 614.1, 
+    "osn": 597.2
   }, 
   "sailnumber": "ITA16038", 
   "name": "BETTA SPLENDENS", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.7, 
       "loa": 11.39, 
       "draft": 2.1, 
+      "wetted_surface": 29.7, 
       "main": 46.1, 
       "genoa": 35.5, 
       "displacement": 6559.0, 
-      "spinnaker_asym": 110.0
+      "spinnaker_asym": 110.0, 
+      "crew": 640.0
     }, 
     "year": "2007"
   }, 

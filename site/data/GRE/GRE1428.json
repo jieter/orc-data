@@ -5,12 +5,13 @@
       1.1928, 
       1.3816
     ], 
-    "gph": 646.7, 
     "triple_inshore": [
       0.6664, 
       0.9443, 
       1.1386
-    ]
+    ], 
+    "gph": 646.7, 
+    "osn": 626.2
   }, 
   "sailnumber": "GRE1428", 
   "name": "AMALIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.2, 
       "loa": 12.17, 
       "draft": 2.0, 
+      "wetted_surface": 33.5, 
       "main": 41.1, 
       "genoa": 47.7, 
       "displacement": 8162.0, 
-      "spinnaker_asym": 103.0
+      "spinnaker_asym": 103.0, 
+      "crew": 763.0
     }, 
     "year": "2002"
   }, 

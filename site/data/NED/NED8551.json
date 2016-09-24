@@ -5,12 +5,13 @@
       0.9455, 
       1.1088
     ], 
-    "gph": 816.2, 
     "triple_inshore": [
       0.5312, 
       0.7516, 
       0.9108
-    ]
+    ], 
+    "gph": 816.2, 
+    "osn": 786.6
   }, 
   "sailnumber": "NED8551", 
   "name": "Conquest", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.83, 
       "draft": 1.6, 
+      "wetted_surface": 22.6, 
       "main": 20.1, 
       "genoa": 27.3, 
       "displacement": 5250.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 470.0
     }, 
     "year": "1971"
   }, 

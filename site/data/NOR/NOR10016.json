@@ -5,12 +5,13 @@
       1.2712, 
       1.4474
     ], 
-    "gph": 600.7, 
     "triple_inshore": [
       0.7376, 
       1.0148, 
       1.2003
-    ]
+    ], 
+    "gph": 600.7, 
+    "osn": 585.7
   }, 
   "sailnumber": "NOR10016", 
   "name": "Lufelia", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.4, 
       "loa": 13.0, 
       "draft": 2.12, 
+      "wetted_surface": 33.3, 
       "main": 46.4, 
       "genoa": 49.5, 
       "displacement": 8487.0, 
-      "spinnaker_asym": 97.0
+      "spinnaker_asym": 97.0, 
+      "crew": 830.0
     }, 
     "year": "1994"
   }, 

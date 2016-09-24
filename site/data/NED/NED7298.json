@@ -5,12 +5,13 @@
       1.2097, 
       1.3674
     ], 
-    "gph": 630.4, 
     "triple_inshore": [
       0.7144, 
       0.976, 
       1.1458
-    ]
+    ], 
+    "gph": 630.4, 
+    "osn": 613.4
   }, 
   "sailnumber": "NED7298", 
   "name": "BLIT", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.1, 
       "loa": 11.73, 
       "draft": 1.95, 
+      "wetted_surface": 28.6, 
       "main": 40.9, 
       "genoa": 39.5, 
       "displacement": 6667.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 695.0
     }, 
     "year": "1998"
   }, 

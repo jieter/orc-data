@@ -5,12 +5,13 @@
       1.3602, 
       1.5418
     ], 
-    "gph": 562.0, 
     "triple_inshore": [
       0.7969, 
       1.0959, 
       1.2881
-    ]
+    ], 
+    "gph": 562.0, 
+    "osn": 546.2
   }, 
   "sailnumber": "ESP7111", 
   "name": "RAQUERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 148.9, 
       "loa": 13.578, 
       "draft": 2.74, 
+      "wetted_surface": 39.4, 
       "main": 64.5, 
       "genoa": 54.1, 
       "displacement": 10001.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 950.0
     }, 
     "year": "2003"
   }, 

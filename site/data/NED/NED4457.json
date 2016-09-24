@@ -5,12 +5,13 @@
       1.1874, 
       1.35
     ], 
-    "gph": 643.5, 
     "triple_inshore": [
       0.7004, 
       0.9656, 
       1.1348
-    ]
+    ], 
+    "gph": 643.5, 
+    "osn": 623.5
   }, 
   "sailnumber": "NED4457", 
   "name": "Janboel", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.1, 
       "loa": 10.79, 
       "draft": 2.12, 
+      "wetted_surface": 25.1, 
       "main": 31.9, 
       "genoa": 31.0, 
       "displacement": 4680.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 575.0
     }, 
     "year": "1985"
   }, 

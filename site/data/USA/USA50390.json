@@ -5,12 +5,13 @@
       1.3122, 
       1.4967
     ], 
-    "gph": 578.4, 
     "triple_inshore": [
       0.7846, 
       1.0604, 
       1.2244
-    ]
+    ], 
+    "gph": 578.4, 
+    "osn": 563.7
   }, 
   "sailnumber": "USA50390", 
   "name": "PAKALOLO", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.2, 
       "loa": 10.93, 
       "draft": 2.23, 
+      "wetted_surface": 23.2, 
       "main": 42.8, 
       "genoa": 39.0, 
       "displacement": 3450.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 625.0
     }, 
     "year": "1993"
   }, 

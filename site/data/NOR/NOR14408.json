@@ -5,12 +5,13 @@
       1.2537, 
       1.4264
     ], 
-    "gph": 609.2, 
     "triple_inshore": [
       0.737, 
       1.0152, 
       1.1867
-    ]
+    ], 
+    "gph": 609.2, 
+    "osn": 591.1
   }, 
   "sailnumber": "NOR14408", 
   "name": "Caromilla", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.6, 
       "draft": 2.13, 
+      "wetted_surface": 26.2, 
       "main": 37.7, 
       "genoa": 31.4, 
       "displacement": 5041.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 670.0
     }, 
     "year": "2001"
   }, 

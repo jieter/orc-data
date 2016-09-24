@@ -5,12 +5,13 @@
       1.3156, 
       1.4881
     ], 
-    "gph": 581.3, 
     "triple_inshore": [
       0.7699, 
       1.0611, 
       1.2439
-    ]
+    ], 
+    "gph": 581.3, 
+    "osn": 564.7
   }, 
   "sailnumber": "ITA14318", 
   "name": "BELLAMIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 149.1, 
       "loa": 12.86, 
       "draft": 2.57, 
+      "wetted_surface": 37.7, 
       "main": 53.8, 
       "genoa": 57.1, 
       "displacement": 9420.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 963.0
     }, 
     "year": "2000"
   }, 

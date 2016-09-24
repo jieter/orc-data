@@ -5,12 +5,13 @@
       1.1767, 
       1.3304
     ], 
-    "gph": 651.5, 
     "triple_inshore": [
       0.6842, 
       0.948, 
       1.1134
-    ]
+    ], 
+    "gph": 651.5, 
+    "osn": 631.6
   }, 
   "sailnumber": "ITA14722", 
   "name": "ARMADA NUEVA", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.4, 
       "loa": 10.45, 
       "draft": 2.14, 
+      "wetted_surface": 27.3, 
       "main": 31.2, 
       "genoa": 37.6, 
       "displacement": 5585.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "2004"
   }, 

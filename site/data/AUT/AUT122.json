@@ -5,12 +5,13 @@
       1.2052, 
       1.348
     ], 
-    "gph": 631.4, 
     "triple_inshore": [
       0.7212, 
       0.9772, 
       1.1279
-    ]
+    ], 
+    "gph": 631.4, 
+    "osn": 615.2
   }, 
   "sailnumber": "AUT122", 
   "name": "BOREAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.1, 
       "loa": 9.99, 
       "draft": 2.0, 
+      "wetted_surface": 22.3, 
       "main": 35.3, 
       "genoa": 28.2, 
       "displacement": 3760.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1995"
   }, 

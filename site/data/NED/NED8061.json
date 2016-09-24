@@ -5,12 +5,13 @@
       1.1525, 
       1.3114
     ], 
-    "gph": 663.7, 
     "triple_inshore": [
       0.6741, 
       0.9319, 
       1.0971
-    ]
+    ], 
+    "gph": 663.7, 
+    "osn": 643.5
   }, 
   "sailnumber": "NED8061", 
   "name": "mare liberum", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.5, 
       "loa": 10.1, 
       "draft": 1.95, 
+      "wetted_surface": 24.0, 
       "main": 32.2, 
       "genoa": 28.2, 
       "displacement": 4536.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 568.0
     }, 
     "year": "1999"
   }, 

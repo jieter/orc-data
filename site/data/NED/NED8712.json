@@ -5,12 +5,13 @@
       1.2723, 
       1.4617
     ], 
-    "gph": 600.1, 
     "triple_inshore": [
       0.738, 
       1.0139, 
       1.1829
-    ]
+    ], 
+    "gph": 600.1, 
+    "osn": 585.0
   }, 
   "sailnumber": "NED8712", 
   "name": "Sables", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.7, 
       "loa": 11.03, 
       "draft": 1.9, 
+      "wetted_surface": 24.2, 
       "main": 40.9, 
       "genoa": 23.2, 
       "displacement": 3100.0, 
-      "spinnaker_asym": 61.0
+      "spinnaker_asym": 61.0, 
+      "crew": 250.0
     }, 
     "year": "1989"
   }, 

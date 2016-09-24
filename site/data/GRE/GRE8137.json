@@ -5,12 +5,13 @@
       1.0013, 
       1.1752
     ], 
-    "gph": 769.1, 
     "triple_inshore": [
       0.5621, 
       0.787, 
       0.9685
-    ]
+    ], 
+    "gph": 769.1, 
+    "osn": 744.9
   }, 
   "sailnumber": "GRE8137", 
   "name": "MYSTIC", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.0, 
       "draft": 1.64, 
+      "wetted_surface": 21.8, 
       "main": 19.9, 
       "genoa": 23.5, 
       "displacement": 3982.0, 
-      "spinnaker_asym": 50.0
+      "spinnaker_asym": 50.0, 
+      "crew": 500.0
     }, 
     "year": "1996"
   }, 

@@ -5,12 +5,13 @@
       1.2151, 
       1.3695
     ], 
-    "gph": 627.4, 
     "triple_inshore": [
       0.72, 
       0.9827, 
       1.1477
-    ]
+    ], 
+    "gph": 627.4, 
+    "osn": 610.4
   }, 
   "sailnumber": "NED8492", 
   "name": "Layam", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.9, 
       "loa": 10.972, 
       "draft": 1.98, 
+      "wetted_surface": 28.7, 
       "main": 39.0, 
       "genoa": 43.1, 
       "displacement": 6565.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "2000"
   }, 

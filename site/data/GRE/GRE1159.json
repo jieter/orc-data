@@ -5,12 +5,13 @@
       1.06, 
       1.2528
     ], 
-    "gph": 730.3, 
     "triple_inshore": [
       0.5838, 
       0.8355, 
       1.0334
-    ]
+    ], 
+    "gph": 730.3, 
+    "osn": 704.6
   }, 
   "sailnumber": "GRE1159", 
   "name": "CHER", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.5, 
       "loa": 10.795, 
       "draft": 1.86, 
+      "wetted_surface": 26.9, 
       "main": 23.6, 
       "genoa": 32.2, 
       "displacement": 5867.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1983"
   }, 

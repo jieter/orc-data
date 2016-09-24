@@ -5,12 +5,13 @@
       1.3812, 
       1.5775
     ], 
-    "gph": 554.0, 
     "triple_inshore": [
       0.8043, 
       1.1111, 
       1.3024
-    ]
+    ], 
+    "gph": 554.0, 
+    "osn": 538.0
   }, 
   "sailnumber": "NED8124", 
   "name": "Knight of Hamble", 
@@ -25,10 +26,12 @@
       "spinnaker": 134.2, 
       "loa": 13.417, 
       "draft": 2.8, 
+      "wetted_surface": 35.7, 
       "main": 58.2, 
       "genoa": 46.1, 
       "displacement": 7255.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 837.0
     }, 
     "year": "1996"
   }, 

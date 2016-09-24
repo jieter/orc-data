@@ -5,12 +5,13 @@
       1.0709, 
       1.22
     ], 
-    "gph": 716.0, 
     "triple_inshore": [
       0.6195, 
       0.8599, 
       1.0168
-    ]
+    ], 
+    "gph": 716.0, 
+    "osn": 694.2
   }, 
   "sailnumber": "ITALIMET", 
   "name": "LIME TIME", 
@@ -25,10 +26,12 @@
       "spinnaker": 53.4, 
       "loa": 9.55, 
       "draft": 1.53, 
+      "wetted_surface": 20.8, 
       "main": 28.0, 
       "genoa": 21.9, 
       "displacement": 3966.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1995"
   }, 

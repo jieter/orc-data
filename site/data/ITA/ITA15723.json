@@ -5,12 +5,13 @@
       1.4141, 
       1.6051
     ], 
-    "gph": 540.7, 
     "triple_inshore": [
       0.8229, 
       1.1335, 
       1.3389
-    ]
+    ], 
+    "gph": 540.7, 
+    "osn": 526.5
   }, 
   "sailnumber": "ITA15723", 
   "name": "SVEVA", 
@@ -25,10 +26,12 @@
       "spinnaker": 171.0, 
       "loa": 15.22, 
       "draft": 3.01, 
+      "wetted_surface": 47.7, 
       "main": 78.8, 
       "genoa": 81.0, 
       "displacement": 14292.0, 
-      "spinnaker_asym": 165.0
+      "spinnaker_asym": 165.0, 
+      "crew": 1000.0
     }, 
     "year": "2004"
   }, 

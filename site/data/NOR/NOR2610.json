@@ -5,12 +5,13 @@
       1.1894, 
       1.3225
     ], 
-    "gph": 638.1, 
     "triple_inshore": [
       0.7227, 
       0.9616, 
       1.1115
-    ]
+    ], 
+    "gph": 638.1, 
+    "osn": 623.2
   }, 
   "sailnumber": "NOR2610", 
   "name": "Vilja", 
@@ -25,10 +26,12 @@
       "spinnaker": 128.7, 
       "loa": 12.1, 
       "draft": 2.01, 
+      "wetted_surface": 30.3, 
       "main": 35.9, 
       "genoa": 61.1, 
       "displacement": 8975.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 620.0
     }, 
     "year": "1980"
   }, 

@@ -5,12 +5,13 @@
       1.2124, 
       1.3678
     ], 
-    "gph": 630.6, 
     "triple_inshore": [
       0.7111, 
       0.9786, 
       1.1409
-    ]
+    ], 
+    "gph": 630.6, 
+    "osn": 612.4
   }, 
   "sailnumber": "FIN11745", 
   "name": "WE 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.8, 
       "loa": 10.66, 
       "draft": 2.21, 
+      "wetted_surface": 27.7, 
       "main": 40.2, 
       "genoa": 30.8, 
       "displacement": 5708.0, 
-      "spinnaker_asym": 92.0
+      "spinnaker_asym": 92.0, 
+      "crew": 720.0
     }, 
     "year": "2009"
   }, 

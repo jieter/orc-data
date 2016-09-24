@@ -5,12 +5,13 @@
       1.0477, 
       1.1953
     ], 
-    "gph": 731.2, 
     "triple_inshore": [
       0.609, 
       0.8459, 
       0.9972
-    ]
+    ], 
+    "gph": 731.2, 
+    "osn": 708.8
   }, 
   "sailnumber": "ESP6618_C", 
   "name": "PLUMA HIERRO", 
@@ -25,10 +26,12 @@
       "spinnaker": 47.9, 
       "loa": 8.43, 
       "draft": 1.6, 
+      "wetted_surface": 17.5, 
       "main": 20.3, 
       "genoa": 24.3, 
       "displacement": 2821.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1986"
   }, 

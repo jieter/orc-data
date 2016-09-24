@@ -5,12 +5,13 @@
       1.3218, 
       1.502
     ], 
-    "gph": 579.7, 
     "triple_inshore": [
       0.7643, 
       1.0606, 
       1.2404
-    ]
+    ], 
+    "gph": 579.7, 
+    "osn": 563.4
   }, 
   "sailnumber": "ESP5725", 
   "name": "U 47", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.3, 
       "loa": 12.487, 
       "draft": 2.51, 
+      "wetted_surface": 31.9, 
       "main": 52.6, 
       "genoa": 37.9, 
       "displacement": 6309.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2001"
   }, 

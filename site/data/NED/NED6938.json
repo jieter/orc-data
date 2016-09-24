@@ -5,12 +5,13 @@
       1.2084, 
       1.3749
     ], 
-    "gph": 632.8, 
     "triple_inshore": [
       0.7095, 
       0.981, 
       1.155
-    ]
+    ], 
+    "gph": 632.8, 
+    "osn": 613.3
   }, 
   "sailnumber": "NED6938", 
   "name": "Druzix", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.5, 
       "loa": 10.72, 
       "draft": 2.23, 
+      "wetted_surface": 26.6, 
       "main": 37.3, 
       "genoa": 28.8, 
       "displacement": 5165.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1993"
   }, 

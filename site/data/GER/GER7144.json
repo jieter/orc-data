@@ -5,12 +5,13 @@
       1.275, 
       1.4854
     ], 
-    "gph": 604.4, 
     "triple_inshore": [
       0.7162, 
       1.0158, 
       1.2372
-    ]
+    ], 
+    "gph": 604.4, 
+    "osn": 584.8
   }, 
   "sailnumber": "GER7144", 
   "name": "MARLIESE", 
@@ -25,10 +26,12 @@
       "spinnaker": 151.1, 
       "loa": 13.33, 
       "draft": 2.33, 
+      "wetted_surface": 39.5, 
       "main": 50.2, 
       "genoa": 40.7, 
       "displacement": 10645.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 900.0
     }, 
     "year": "2004"
   }, 

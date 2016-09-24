@@ -5,12 +5,13 @@
       1.0043, 
       1.199
     ], 
-    "gph": 770.8, 
     "triple_inshore": [
       0.5538, 
       0.8026, 
       0.9984
-    ]
+    ], 
+    "gph": 770.8, 
+    "osn": 741.0
   }, 
   "sailnumber": "NOR15390", 
   "name": "Elida", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 1.56, 
+      "wetted_surface": 22.5, 
       "main": 26.3, 
       "genoa": 20.5, 
       "displacement": 4837.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 587.0
     }, 
     "year": "2001"
   }, 

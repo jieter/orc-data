@@ -5,12 +5,13 @@
       1.2928, 
       1.459
     ], 
-    "gph": 589.8, 
     "triple_inshore": [
       0.7657, 
       1.0451, 
       1.2144
-    ]
+    ], 
+    "gph": 589.8, 
+    "osn": 573.8
   }, 
   "sailnumber": "GER6688", 
   "name": "PASSION X", 
@@ -25,10 +26,12 @@
       "spinnaker": 120.8, 
       "loa": 11.58, 
       "draft": 2.1, 
+      "wetted_surface": 31.0, 
       "main": 50.6, 
       "genoa": 38.5, 
       "displacement": 6844.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 790.0
     }, 
     "year": "2011"
   }, 

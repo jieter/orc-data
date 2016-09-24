@@ -5,12 +5,13 @@
       1.1713, 
       1.3486
     ], 
-    "gph": 658.0, 
     "triple_inshore": [
       0.661, 
       0.9379, 
       1.1208
-    ]
+    ], 
+    "gph": 658.0, 
+    "osn": 636.0
   }, 
   "sailnumber": "ITA12034", 
   "name": "GHITA", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.8, 
       "loa": 11.0, 
       "draft": 1.95, 
+      "wetted_surface": 26.9, 
       "main": 43.2, 
       "genoa": 25.4, 
       "displacement": 5071.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1990"
   }, 

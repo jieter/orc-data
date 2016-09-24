@@ -5,12 +5,13 @@
       1.4194, 
       1.6026
     ], 
-    "gph": 532.2, 
     "triple_inshore": [
       0.852, 
       1.1445, 
       1.3198
-    ]
+    ], 
+    "gph": 532.2, 
+    "osn": 522.2
   }, 
   "sailnumber": "DEN1", 
   "name": "Min Ide H", 
@@ -25,10 +26,12 @@
       "spinnaker": 175.6, 
       "loa": 13.071, 
       "draft": 2.7, 
+      "wetted_surface": 35.8, 
       "main": 70.6, 
       "genoa": 46.2, 
       "displacement": 7891.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1035.0
     }, 
     "year": "2006"
   }, 

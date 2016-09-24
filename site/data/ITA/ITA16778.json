@@ -5,12 +5,13 @@
       1.1579, 
       1.311
     ], 
-    "gph": 659.3, 
     "triple_inshore": [
       0.6834, 
       0.9327, 
       1.09
-    ]
+    ], 
+    "gph": 659.3, 
+    "osn": 640.0
   }, 
   "sailnumber": "ITA16778", 
   "name": "LITTLE BABY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.24, 
       "draft": 2.18, 
+      "wetted_surface": 22.8, 
       "main": 30.1, 
       "genoa": 24.8, 
       "displacement": 4147.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 600.0
     }, 
     "year": "2009"
   }, 

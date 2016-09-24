@@ -5,12 +5,13 @@
       1.2017, 
       1.3497
     ], 
-    "gph": 634.6, 
     "triple_inshore": [
       0.7127, 
       0.9687, 
       1.1295
-    ]
+    ], 
+    "gph": 634.6, 
+    "osn": 617.8
   }, 
   "sailnumber": "GER6390", 
   "name": "TROSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.4, 
       "loa": 11.455, 
       "draft": 1.9, 
+      "wetted_surface": 28.8, 
       "main": 40.7, 
       "genoa": 39.0, 
       "displacement": 6782.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "2007"
   }, 

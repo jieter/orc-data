@@ -5,12 +5,13 @@
       1.3467, 
       1.6062
     ], 
-    "gph": 576.9, 
     "triple_inshore": [
       0.7215, 
       1.0435, 
       1.2913
-    ]
+    ], 
+    "gph": 576.9, 
+    "osn": 557.9
   }, 
   "sailnumber": "ITA16625", 
   "name": "TOSCANE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 19.2, 
       "draft": 2.5, 
+      "wetted_surface": 70.6, 
       "main": 74.4, 
       "genoa": 110.2, 
       "displacement": 28714.0, 
-      "spinnaker_asym": 218.0
+      "spinnaker_asym": 218.0, 
+      "crew": 1000.0
     }, 
     "year": "1991"
   }, 

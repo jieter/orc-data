@@ -5,12 +5,13 @@
       1.2262, 
       1.3943
     ], 
-    "gph": 624.1, 
     "triple_inshore": [
       0.7166, 
       0.9873, 
       1.1615
-    ]
+    ], 
+    "gph": 624.1, 
+    "osn": 605.6
   }, 
   "sailnumber": "NED3076", 
   "name": "Smooth Operator", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.5, 
       "loa": 12.04, 
       "draft": 2.08, 
+      "wetted_surface": 28.8, 
       "main": 32.1, 
       "genoa": 50.1, 
       "displacement": 6119.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1984"
   }, 

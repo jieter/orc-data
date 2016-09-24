@@ -5,12 +5,13 @@
       0.924, 
       1.0788
     ], 
-    "gph": 834.1, 
     "triple_inshore": [
       0.5214, 
       0.7444, 
       0.9062
-    ]
+    ], 
+    "gph": 834.1, 
+    "osn": 804.4
   }, 
   "sailnumber": "ITAFANSI", 
   "name": "FANTASIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.13, 
       "draft": 1.6, 
+      "wetted_surface": 15.7, 
       "main": 13.3, 
       "genoa": 19.8, 
       "displacement": 2339.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1984"
   }, 

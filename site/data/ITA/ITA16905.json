@@ -5,12 +5,13 @@
       1.1943, 
       1.362
     ], 
-    "gph": 641.4, 
     "triple_inshore": [
       0.6897, 
       0.9496, 
       1.1279
-    ]
+    ], 
+    "gph": 641.4, 
+    "osn": 623.3
   }, 
   "sailnumber": "ITA16905", 
   "name": "MARTA III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.313, 
       "draft": 1.98, 
+      "wetted_surface": 30.3, 
       "main": 42.7, 
       "genoa": 37.2, 
       "displacement": 7435.0, 
-      "spinnaker_asym": 75.0
+      "spinnaker_asym": 75.0, 
+      "crew": 450.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.2407, 
       1.4075
     ], 
-    "gph": 616.7, 
     "triple_inshore": [
       0.7227, 
       0.99, 
       1.1593
-    ]
+    ], 
+    "gph": 616.7, 
+    "osn": 598.9
   }, 
   "sailnumber": "NOR15470", 
   "name": "Isola", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.3, 
       "draft": 2.0, 
+      "wetted_surface": 31.3, 
       "main": 44.6, 
       "genoa": 34.7, 
       "displacement": 7107.0, 
-      "spinnaker_asym": 107.0
+      "spinnaker_asym": 107.0, 
+      "crew": 743.0
     }, 
     "year": "2014"
   }, 

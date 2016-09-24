@@ -5,12 +5,13 @@
       1.1009, 
       1.2635
     ], 
-    "gph": 691.1, 
     "triple_inshore": [
       0.6549, 
       0.8994, 
       1.0394
-    ]
+    ], 
+    "gph": 691.1, 
+    "osn": 669.8
   }, 
   "sailnumber": "SUI329", 
   "name": "AZURA", 
@@ -25,10 +26,12 @@
       "spinnaker": 41.1, 
       "loa": 7.65, 
       "draft": 1.57, 
+      "wetted_surface": 13.0, 
       "main": 18.9, 
       "genoa": 16.4, 
       "displacement": 1234.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1977"
   }, 

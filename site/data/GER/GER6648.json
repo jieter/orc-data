@@ -5,12 +5,13 @@
       1.441, 
       1.6616
     ], 
-    "gph": 520.7, 
     "triple_inshore": [
       0.8796, 
       1.1439, 
       1.33
-    ]
+    ], 
+    "gph": 520.7, 
+    "osn": 513.0
   }, 
   "sailnumber": "GER6648", 
   "name": "SHOOTING STAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.299, 
       "draft": 2.42, 
+      "wetted_surface": 24.6, 
       "main": 51.4, 
       "genoa": 39.2, 
       "displacement": 3584.0, 
-      "spinnaker_asym": 137.0
+      "spinnaker_asym": 137.0, 
+      "crew": 690.0
     }, 
     "year": "2012"
   }, 

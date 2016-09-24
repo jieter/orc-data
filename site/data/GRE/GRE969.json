@@ -5,12 +5,13 @@
       1.0917, 
       1.2456
     ], 
-    "gph": 701.0, 
     "triple_inshore": [
       0.6369, 
       0.8787, 
       1.0412
-    ]
+    ], 
+    "gph": 701.0, 
+    "osn": 680.2
   }, 
   "sailnumber": "GRE969", 
   "name": "ARMENISTIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.1, 
       "loa": 10.112, 
       "draft": 1.78, 
+      "wetted_surface": 23.2, 
       "main": 27.7, 
       "genoa": 31.6, 
       "displacement": 4629.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "1982"
   }, 

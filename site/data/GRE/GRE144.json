@@ -5,12 +5,13 @@
       1.3225, 
       1.5018
     ], 
-    "gph": 574.5, 
     "triple_inshore": [
       0.7879, 
       1.0683, 
       1.2407
-    ]
+    ], 
+    "gph": 574.5, 
+    "osn": 559.9
   }, 
   "sailnumber": "GRE144", 
   "name": "RUSH", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.0, 
       "loa": 11.982, 
       "draft": 2.35, 
+      "wetted_surface": 27.2, 
       "main": 49.1, 
       "genoa": 45.2, 
       "displacement": 4904.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 805.0
     }, 
     "year": "1991"
   }, 

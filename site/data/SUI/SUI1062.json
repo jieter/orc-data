@@ -5,12 +5,13 @@
       1.0648, 
       1.1796
     ], 
-    "gph": 710.7, 
     "triple_inshore": [
       0.6449, 
       0.8633, 
       0.9859
-    ]
+    ], 
+    "gph": 710.7, 
+    "osn": 696.5
   }, 
   "sailnumber": "SUI1062", 
   "name": "MONIQUE-ANNE V", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.9, 
       "loa": 9.152, 
       "draft": 1.67, 
+      "wetted_surface": 18.3, 
       "main": 18.3, 
       "genoa": 33.0, 
       "displacement": 3450.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 428.0
     }, 
     "year": "1977"
   }, 

@@ -5,12 +5,13 @@
       1.0323, 
       1.1581
     ], 
-    "gph": 736.0, 
     "triple_inshore": [
       0.6236, 
       0.8456, 
       0.9678
-    ]
+    ], 
+    "gph": 736.0, 
+    "osn": 715.6
   }, 
   "sailnumber": "NED2762", 
   "name": "OVERDRIVE", 
@@ -25,10 +26,12 @@
       "spinnaker": 35.8, 
       "loa": 7.514, 
       "draft": 1.44, 
+      "wetted_surface": 13.4, 
       "main": 16.6, 
       "genoa": 19.0, 
       "displacement": 1648.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 377.0
     }, 
     "year": "1990"
   }, 

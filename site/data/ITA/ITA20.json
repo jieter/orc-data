@@ -5,12 +5,13 @@
       1.2931, 
       1.4841
     ], 
-    "gph": 592.4, 
     "triple_inshore": [
       0.7461, 
       1.0293, 
       1.2162
-    ]
+    ], 
+    "gph": 592.4, 
+    "osn": 575.1
   }, 
   "sailnumber": "ITA20", 
   "name": "FURIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.538, 
       "draft": 2.27, 
+      "wetted_surface": 36.3, 
       "main": 54.6, 
       "genoa": 40.2, 
       "displacement": 8633.0, 
-      "spinnaker_asym": 135.0
+      "spinnaker_asym": 135.0, 
+      "crew": 800.0
     }, 
     "year": "2016"
   }, 

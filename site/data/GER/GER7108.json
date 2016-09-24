@@ -5,12 +5,13 @@
       1.1893, 
       1.3522
     ], 
-    "gph": 644.6, 
     "triple_inshore": [
       0.6895, 
       0.9586, 
       1.1226
-    ]
+    ], 
+    "gph": 644.6, 
+    "osn": 624.8
   }, 
   "sailnumber": "GER7108", 
   "name": "FREIZHEIT", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.9, 
       "loa": 9.99, 
       "draft": 1.97, 
+      "wetted_surface": 23.4, 
       "main": 33.7, 
       "genoa": 21.4, 
       "displacement": 4071.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "2010"
   }, 

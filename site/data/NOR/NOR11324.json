@@ -5,12 +5,13 @@
       1.1704, 
       1.3347
     ], 
-    "gph": 653.5, 
     "triple_inshore": [
       0.6788, 
       0.9346, 
       1.1042
-    ]
+    ], 
+    "gph": 653.5, 
+    "osn": 635.6
   }, 
   "sailnumber": "NOR11324", 
   "name": "NEMI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.07, 
       "draft": 1.56, 
+      "wetted_surface": 26.1, 
       "main": 32.5, 
       "genoa": 36.9, 
       "displacement": 5674.0, 
-      "spinnaker_asym": 62.0
+      "spinnaker_asym": 62.0, 
+      "crew": 680.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.2338, 
       1.4235
     ], 
-    "gph": 619.2, 
     "triple_inshore": [
       0.7213, 
       1.0, 
       1.1698
-    ]
+    ], 
+    "gph": 619.2, 
+    "osn": 600.0
   }, 
   "sailnumber": "GRE1961", 
   "name": "BLUE SHARK", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.4, 
       "loa": 9.55, 
       "draft": 2.08, 
+      "wetted_surface": 20.7, 
       "main": 32.8, 
       "genoa": 23.0, 
       "displacement": 2809.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 630.0
     }, 
     "year": "1999"
   }, 

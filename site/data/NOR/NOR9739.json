@@ -5,12 +5,13 @@
       1.1002, 
       1.2617
     ], 
-    "gph": 698.9, 
     "triple_inshore": [
       0.6258, 
       0.8827, 
       1.0521
-    ]
+    ], 
+    "gph": 698.9, 
+    "osn": 677.0
   }, 
   "sailnumber": "NOR9739", 
   "name": "Centena Milia", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.1, 
       "draft": 1.77, 
+      "wetted_surface": 25.1, 
       "main": 29.9, 
       "genoa": 32.8, 
       "displacement": 5335.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 596.0
     }, 
     "year": "1999"
   }, 

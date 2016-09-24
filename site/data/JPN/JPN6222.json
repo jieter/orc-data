@@ -5,12 +5,13 @@
       1.261, 
       1.4122
     ], 
-    "gph": 603.3, 
     "triple_inshore": [
       0.7526, 
       1.016, 
       1.1708
-    ]
+    ], 
+    "gph": 603.3, 
+    "osn": 588.7
   }, 
   "sailnumber": "JPN6222", 
   "name": "Le Grand Blue", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.345, 
       "draft": 2.29, 
+      "wetted_surface": 27.9, 
       "main": 46.4, 
       "genoa": 43.8, 
       "displacement": 6019.0, 
-      "spinnaker_asym": 90.0
+      "spinnaker_asym": 90.0, 
+      "crew": 696.0
     }, 
     "year": "2004"
   }, 

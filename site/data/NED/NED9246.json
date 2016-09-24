@@ -5,12 +5,13 @@
       1.3023, 
       1.483
     ], 
-    "gph": 588.5, 
     "triple_inshore": [
       0.752, 
       1.0412, 
       1.2333
-    ]
+    ], 
+    "gph": 588.5, 
+    "osn": 571.8
   }, 
   "sailnumber": "NED9246", 
   "name": "Tante Miek Miek", 
@@ -25,10 +26,12 @@
       "spinnaker": 120.7, 
       "loa": 13.352, 
       "draft": 2.15, 
+      "wetted_surface": 38.9, 
       "main": 61.0, 
       "genoa": 40.0, 
       "displacement": 10114.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2004"
   }, 

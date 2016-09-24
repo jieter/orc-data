@@ -5,12 +5,13 @@
       1.1026, 
       1.2429
     ], 
-    "gph": 689.0, 
     "triple_inshore": [
       0.6643, 
       0.9045, 
       1.0351
-    ]
+    ], 
+    "gph": 689.0, 
+    "osn": 669.6
   }, 
   "sailnumber": "ESP3551", 
   "name": "AERIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.7, 
       "loa": 8.0, 
       "draft": 1.83, 
+      "wetted_surface": 13.8, 
       "main": 21.3, 
       "genoa": 14.6, 
       "displacement": 1486.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 355.0
     }, 
     "year": "1986"
   }, 

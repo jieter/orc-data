@@ -5,12 +5,13 @@
       1.0542, 
       1.2165
     ], 
-    "gph": 720.5, 
     "triple_inshore": [
       0.6299, 
       0.8634, 
       1.0066
-    ]
+    ], 
+    "gph": 720.5, 
+    "osn": 698.5
   }, 
   "sailnumber": "ESP311_C", 
   "name": "ALBANTI", 
@@ -25,10 +26,12 @@
       "spinnaker": 50.7, 
       "loa": 6.5, 
       "draft": 1.65, 
+      "wetted_surface": 14.4, 
       "main": 20.5, 
       "genoa": 12.6, 
       "displacement": 1386.0, 
-      "spinnaker_asym": 50.0
+      "spinnaker_asym": 50.0, 
+      "crew": 180.0
     }, 
     "year": "1995"
   }, 

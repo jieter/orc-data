@@ -5,12 +5,13 @@
       0.9536, 
       1.087
     ], 
-    "gph": 802.1, 
     "triple_inshore": [
       0.5579, 
       0.7645, 
       0.9049
-    ]
+    ], 
+    "gph": 802.1, 
+    "osn": 778.9
   }, 
   "sailnumber": "GRE49409", 
   "name": "MOUSMOULO", 
@@ -25,10 +26,12 @@
       "spinnaker": 45.6, 
       "loa": 7.89, 
       "draft": 1.37, 
+      "wetted_surface": 17.8, 
       "main": 17.2, 
       "genoa": 22.1, 
       "displacement": 3328.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 412.0
     }, 
     "year": "1982"
   }, 

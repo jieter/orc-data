@@ -5,12 +5,13 @@
       1.2332, 
       1.4124
     ], 
-    "gph": 618.7, 
     "triple_inshore": [
       0.7226, 
       0.9939, 
       1.1598
-    ]
+    ], 
+    "gph": 618.7, 
+    "osn": 601.6
   }, 
   "sailnumber": "FRA9295", 
   "name": "HELIUM", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.9, 
       "loa": 10.4, 
       "draft": 1.83, 
+      "wetted_surface": 22.4, 
       "main": 33.0, 
       "genoa": 31.2, 
       "displacement": 3180.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 420.0
     }, 
     "year": "1983"
   }, 

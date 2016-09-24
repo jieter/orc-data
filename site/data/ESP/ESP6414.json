@@ -5,12 +5,13 @@
       1.1814, 
       1.3416
     ], 
-    "gph": 646.4, 
     "triple_inshore": [
       0.6973, 
       0.9581, 
       1.118
-    ]
+    ], 
+    "gph": 646.4, 
+    "osn": 627.0
   }, 
   "sailnumber": "ESP6414", 
   "name": "ENRIAERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.2, 
       "loa": 9.68, 
       "draft": 2.03, 
+      "wetted_surface": 22.9, 
       "main": 31.1, 
       "genoa": 26.1, 
       "displacement": 3788.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 570.0
     }, 
     "year": "2002"
   }, 

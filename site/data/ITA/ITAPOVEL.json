@@ -5,12 +5,13 @@
       1.0721, 
       1.2276
     ], 
-    "gph": 716.1, 
     "triple_inshore": [
       0.6164, 
       0.858, 
       1.0209
-    ]
+    ], 
+    "gph": 716.1, 
+    "osn": 694.1
   }, 
   "sailnumber": "ITAPOVEL", 
   "name": "POVEGLIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.2, 
       "loa": 9.19, 
       "draft": 1.5, 
+      "wetted_surface": 19.6, 
       "main": 23.6, 
       "genoa": 25.2, 
       "displacement": 3813.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2000"
   }, 

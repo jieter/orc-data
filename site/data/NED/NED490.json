@@ -5,12 +5,13 @@
       1.2935, 
       1.4619
     ], 
-    "gph": 590.0, 
     "triple_inshore": [
       0.7631, 
       1.0474, 
       1.2233
-    ]
+    ], 
+    "gph": 590.0, 
+    "osn": 573.8
   }, 
   "sailnumber": "NED490", 
   "name": "Paradox", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.6, 
       "loa": 12.1, 
       "draft": 2.47, 
+      "wetted_surface": 31.1, 
       "main": 51.1, 
       "genoa": 40.5, 
       "displacement": 6628.0, 
-      "spinnaker_asym": 102.0
+      "spinnaker_asym": 102.0, 
+      "crew": 700.0
     }, 
     "year": "2000"
   }, 

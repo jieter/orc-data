@@ -5,12 +5,13 @@
       1.2104, 
       1.4101
     ], 
-    "gph": 637.4, 
     "triple_inshore": [
       0.6629, 
       0.9513, 
       1.1586
-    ]
+    ], 
+    "gph": 637.4, 
+    "osn": 621.0
   }, 
   "sailnumber": "ESP7251_C", 
   "name": "FAST SPIRIT", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.83, 
       "draft": 1.79, 
+      "wetted_surface": 34.8, 
       "main": 47.9, 
       "genoa": 63.0, 
       "displacement": 8464.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1989"
   }, 

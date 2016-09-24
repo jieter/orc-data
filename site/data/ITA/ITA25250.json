@@ -5,12 +5,13 @@
       1.1013, 
       1.2369
     ], 
-    "gph": 685.4, 
     "triple_inshore": [
       0.6827, 
       0.9062, 
       1.0271
-    ]
+    ], 
+    "gph": 685.4, 
+    "osn": 667.3
   }, 
   "sailnumber": "ITA25250", 
   "name": "UKA UKA YAMAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.1, 
       "loa": 7.512, 
       "draft": 1.59, 
+      "wetted_surface": 12.4, 
       "main": 20.3, 
       "genoa": 13.7, 
       "displacement": 1418.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1997"
   }, 

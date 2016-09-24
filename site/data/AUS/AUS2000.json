@@ -5,12 +5,13 @@
       1.4071, 
       1.5936
     ], 
-    "gph": 539.0, 
     "triple_inshore": [
       0.8459, 
       1.1383, 
       1.3134
-    ]
+    ], 
+    "gph": 539.0, 
+    "osn": 525.3
   }, 
   "sailnumber": "AUS2000", 
   "name": "Enterprise", 
@@ -25,10 +26,12 @@
       "spinnaker": 155.1, 
       "loa": 12.411, 
       "draft": 2.48, 
+      "wetted_surface": 30.7, 
       "main": 60.8, 
       "genoa": 38.7, 
       "displacement": 5375.0, 
-      "spinnaker_asym": 116.0
+      "spinnaker_asym": 116.0, 
+      "crew": 799.0
     }, 
     "year": "1996"
   }, 

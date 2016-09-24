@@ -5,12 +5,13 @@
       1.1636, 
       1.3118
     ], 
-    "gph": 655.9, 
     "triple_inshore": [
       0.6879, 
       0.942, 
       1.0978
-    ]
+    ], 
+    "gph": 655.9, 
+    "osn": 637.5
   }, 
   "sailnumber": "NOR9823", 
   "name": "Miramis", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.5, 
       "loa": 10.45, 
       "draft": 1.91, 
+      "wetted_surface": 24.0, 
       "main": 33.1, 
       "genoa": 33.6, 
       "displacement": 4928.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 614.0
     }, 
     "year": "1998"
   }, 

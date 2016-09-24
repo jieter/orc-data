@@ -5,12 +5,13 @@
       1.2746, 
       1.4548
     ], 
-    "gph": 601.3, 
     "triple_inshore": [
       0.7369, 
       1.0246, 
       1.21
-    ]
+    ], 
+    "gph": 601.3, 
+    "osn": 583.6
   }, 
   "sailnumber": "NED6100", 
   "name": "Twaalf Twintig", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.2, 
       "loa": 12.2, 
       "draft": 2.13, 
+      "wetted_surface": 31.6, 
       "main": 50.4, 
       "genoa": 38.0, 
       "displacement": 6868.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 702.0
     }, 
     "year": "2009"
   }, 

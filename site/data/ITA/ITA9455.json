@@ -5,12 +5,13 @@
       1.2187, 
       1.3684
     ], 
-    "gph": 623.9, 
     "triple_inshore": [
       0.7275, 
       0.9846, 
       1.1387
-    ]
+    ], 
+    "gph": 623.9, 
+    "osn": 609.2
   }, 
   "sailnumber": "ITA9455", 
   "name": "I VEZZI MIEI", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.6, 
       "loa": 11.295, 
       "draft": 2.11, 
+      "wetted_surface": 24.3, 
       "main": 45.0, 
       "genoa": 35.4, 
       "displacement": 4954.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 580.0
     }, 
     "year": "1981"
   }, 

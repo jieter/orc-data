@@ -5,12 +5,13 @@
       1.183, 
       1.3389
     ], 
-    "gph": 645.7, 
     "triple_inshore": [
       0.6959, 
       0.9546, 
       1.1083
-    ]
+    ], 
+    "gph": 645.7, 
+    "osn": 627.6
   }, 
   "sailnumber": "ESP5858", 
   "name": "ZIRALLA PRIMERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.5, 
       "loa": 9.968, 
       "draft": 1.9, 
+      "wetted_surface": 21.9, 
       "main": 32.6, 
       "genoa": 22.6, 
       "displacement": 3519.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2000"
   }, 

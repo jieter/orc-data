@@ -5,12 +5,13 @@
       1.2165, 
       1.3633
     ], 
-    "gph": 621.8, 
     "triple_inshore": [
       0.7382, 
       0.9926, 
       1.1357
-    ]
+    ], 
+    "gph": 621.8, 
+    "osn": 608.2
   }, 
   "sailnumber": "HUN908", 
   "name": "Nagymedve", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.3, 
       "loa": 9.99, 
       "draft": 1.82, 
+      "wetted_surface": 20.8, 
       "main": 32.9, 
       "genoa": 27.6, 
       "displacement": 3375.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 510.0
     }, 
     "year": "1985"
   }, 

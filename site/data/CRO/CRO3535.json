@@ -5,12 +5,13 @@
       1.1919, 
       1.3562
     ], 
-    "gph": 643.7, 
     "triple_inshore": [
       0.6901, 
       0.9605, 
       1.1343
-    ]
+    ], 
+    "gph": 643.7, 
+    "osn": 622.8
   }, 
   "sailnumber": "CRO3535", 
   "name": "Coco Loco", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.5, 
       "loa": 10.66, 
       "draft": 2.22, 
+      "wetted_surface": 28.1, 
       "main": 37.3, 
       "genoa": 27.9, 
       "displacement": 5943.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 657.0
     }, 
     "year": "2009"
   }, 

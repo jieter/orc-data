@@ -5,12 +5,13 @@
       1.1372, 
       1.2862
     ], 
-    "gph": 671.8, 
     "triple_inshore": [
       0.6726, 
       0.9235, 
       1.0757
-    ]
+    ], 
+    "gph": 671.8, 
+    "osn": 651.4
   }, 
   "sailnumber": "NED6881", 
   "name": "BEAU BATEAU", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.7, 
       "loa": 8.959, 
       "draft": 1.82, 
+      "wetted_surface": 21.3, 
       "main": 26.4, 
       "genoa": 23.3, 
       "displacement": 3443.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 510.0
     }, 
     "year": "1994"
   }, 

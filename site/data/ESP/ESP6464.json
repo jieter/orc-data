@@ -5,12 +5,13 @@
       1.264, 
       1.4402
     ], 
-    "gph": 604.8, 
     "triple_inshore": [
       0.7378, 
       1.02, 
       1.2063
-    ]
+    ], 
+    "gph": 604.8, 
+    "osn": 587.3
   }, 
   "sailnumber": "ESP6464", 
   "name": "NEW SISTERS", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.0, 
       "loa": 11.99, 
       "draft": 2.42, 
+      "wetted_surface": 32.1, 
       "main": 47.3, 
       "genoa": 45.0, 
       "displacement": 7675.0, 
-      "spinnaker_asym": 106.0
+      "spinnaker_asym": 106.0, 
+      "crew": 720.0
     }, 
     "year": "2000"
   }, 

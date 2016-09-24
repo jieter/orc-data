@@ -5,12 +5,13 @@
       1.14, 
       1.2788
     ], 
-    "gph": 666.3, 
     "triple_inshore": [
       0.6883, 
       0.9315, 
       1.0811
-    ]
+    ], 
+    "gph": 666.3, 
+    "osn": 649.0
   }, 
   "sailnumber": "ESP9453_C", 
   "name": "URKESKEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.6, 
       "loa": 9.19, 
       "draft": 1.89, 
+      "wetted_surface": 20.8, 
       "main": 30.4, 
       "genoa": 31.9, 
       "displacement": 4217.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 370.0
     }, 
     "year": "2002"
   }, 

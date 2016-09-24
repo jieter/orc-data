@@ -5,12 +5,13 @@
       0.9298, 
       1.0622
     ], 
-    "gph": 821.6, 
     "triple_inshore": [
       0.5377, 
       0.722, 
       0.8569
-    ]
+    ], 
+    "gph": 821.6, 
+    "osn": 803.6
   }, 
   "sailnumber": "GRE847", 
   "name": "YPERION", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.48, 
       "draft": 1.12, 
+      "wetted_surface": 17.6, 
       "main": 17.2, 
       "genoa": 26.4, 
       "displacement": 3913.0, 
-      "spinnaker_asym": 53.0
+      "spinnaker_asym": 53.0, 
+      "crew": 350.0
     }, 
     "year": "1972"
   }, 

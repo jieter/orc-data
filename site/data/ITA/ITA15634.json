@@ -5,12 +5,13 @@
       1.2497, 
       1.4145
     ], 
-    "gph": 609.3, 
     "triple_inshore": [
       0.7457, 
       1.0138, 
       1.1677
-    ]
+    ], 
+    "gph": 609.3, 
+    "osn": 592.9
   }, 
   "sailnumber": "ITA15634", 
   "name": "NEREIDE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 2.22, 
+      "wetted_surface": 23.6, 
       "main": 38.0, 
       "genoa": 27.6, 
       "displacement": 3715.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 595.0
     }, 
     "year": "2007"
   }, 

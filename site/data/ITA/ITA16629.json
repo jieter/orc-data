@@ -5,12 +5,13 @@
       1.2076, 
       1.3731
     ], 
-    "gph": 635.1, 
     "triple_inshore": [
       0.6978, 
       0.9698, 
       1.1478
-    ]
+    ], 
+    "gph": 635.1, 
+    "osn": 615.8
   }, 
   "sailnumber": "ITA16629", 
   "name": "CASTALIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.0, 
       "loa": 11.313, 
       "draft": 2.13, 
+      "wetted_surface": 29.2, 
       "main": 38.2, 
       "genoa": 37.3, 
       "displacement": 6736.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "2005"
   }, 

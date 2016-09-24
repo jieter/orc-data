@@ -5,12 +5,13 @@
       1.1283, 
       1.2914
     ], 
-    "gph": 680.1, 
     "triple_inshore": [
       0.654, 
       0.9115, 
       1.0801
-    ]
+    ], 
+    "gph": 680.1, 
+    "osn": 657.6
   }, 
   "sailnumber": "ITA1010", 
   "name": "TALLY HO", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.3, 
       "loa": 9.5, 
       "draft": 1.92, 
+      "wetted_surface": 22.2, 
       "main": 26.9, 
       "genoa": 21.7, 
       "displacement": 3871.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1998"
   }, 

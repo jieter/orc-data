@@ -5,12 +5,13 @@
       1.236, 
       1.394
     ], 
-    "gph": 616.6, 
     "triple_inshore": [
       0.7332, 
       1.0006, 
       1.1672
-    ]
+    ], 
+    "gph": 616.6, 
+    "osn": 600.1
   }, 
   "sailnumber": "NOR13572", 
   "name": "Vinna", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.9, 
       "loa": 11.1, 
       "draft": 2.07, 
+      "wetted_surface": 29.4, 
       "main": 42.2, 
       "genoa": 46.2, 
       "displacement": 6408.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 716.0
     }, 
     "year": "2003"
   }, 

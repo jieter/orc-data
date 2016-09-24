@@ -5,12 +5,13 @@
       1.3935, 
       1.5805
     ], 
-    "gph": 546.5, 
     "triple_inshore": [
       0.8261, 
       1.1278, 
       1.3089
-    ]
+    ], 
+    "gph": 546.5, 
+    "osn": 531.8
   }, 
   "sailnumber": "NED7084", 
   "name": "Skarp", 
@@ -25,10 +26,12 @@
       "spinnaker": 159.7, 
       "loa": 13.072, 
       "draft": 2.49, 
+      "wetted_surface": 35.9, 
       "main": 67.0, 
       "genoa": 44.2, 
       "displacement": 7924.0, 
-      "spinnaker_asym": 156.0
+      "spinnaker_asym": 156.0, 
+      "crew": 1055.0
     }, 
     "year": "2006"
   }, 

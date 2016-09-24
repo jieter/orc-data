@@ -5,12 +5,13 @@
       1.0969, 
       1.2432
     ], 
-    "gph": 696.8, 
     "triple_inshore": [
       0.6387, 
       0.8877, 
       1.0429
-    ]
+    ], 
+    "gph": 696.8, 
+    "osn": 677.9
   }, 
   "sailnumber": "ESP10124_C", 
   "name": "ARQUIMEDES", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.112, 
       "draft": 1.76, 
+      "wetted_surface": 22.2, 
       "main": 30.4, 
       "genoa": 33.1, 
       "displacement": 4207.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1986"
   }, 

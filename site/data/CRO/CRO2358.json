@@ -5,12 +5,13 @@
       1.1184, 
       1.3355
     ], 
-    "gph": 693.3, 
     "triple_inshore": [
       0.6042, 
       0.8842, 
       1.108
-    ]
+    ], 
+    "gph": 693.3, 
+    "osn": 669.3
   }, 
   "sailnumber": "CRO2358", 
   "name": "Ariane", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.9, 
       "draft": 2.04, 
+      "wetted_surface": 32.4, 
       "main": 35.6, 
       "genoa": 42.2, 
       "displacement": 8080.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 769.0
     }, 
     "year": "2012"
   }, 

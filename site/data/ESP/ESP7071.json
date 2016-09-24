@@ -5,12 +5,13 @@
       1.1243, 
       1.3002
     ], 
-    "gph": 683.9, 
     "triple_inshore": [
       0.6399, 
       0.8967, 
       1.082
-    ]
+    ], 
+    "gph": 683.9, 
+    "osn": 662.1
   }, 
   "sailnumber": "ESP7071", 
   "name": "RAYGRASS III", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.2, 
       "loa": 10.3, 
       "draft": 1.95, 
+      "wetted_surface": 25.4, 
       "main": 31.9, 
       "genoa": 20.1, 
       "displacement": 5308.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 443.0
     }, 
     "year": "2003"
   }, 

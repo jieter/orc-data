@@ -5,12 +5,13 @@
       1.2652, 
       1.4238
     ], 
-    "gph": 602.4, 
     "triple_inshore": [
       0.7529, 
       1.0213, 
       1.1747
-    ]
+    ], 
+    "gph": 602.4, 
+    "osn": 585.5
   }, 
   "sailnumber": "NOR14418", 
   "name": "Elanthea", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.6, 
       "draft": 2.34, 
+      "wetted_surface": 26.0, 
       "main": 39.2, 
       "genoa": 30.9, 
       "displacement": 5001.0, 
-      "spinnaker_asym": 109.0
+      "spinnaker_asym": 109.0, 
+      "crew": 670.0
     }, 
     "year": "2009"
   }, 

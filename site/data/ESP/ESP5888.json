@@ -5,12 +5,13 @@
       1.2186, 
       1.3891
     ], 
-    "gph": 626.8, 
     "triple_inshore": [
       0.7113, 
       0.9806, 
       1.1457
-    ]
+    ], 
+    "gph": 626.8, 
+    "osn": 610.1
   }, 
   "sailnumber": "ESP5888", 
   "name": "YOUKOUNKOUN", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.3, 
       "loa": 10.632, 
       "draft": 2.07, 
+      "wetted_surface": 23.9, 
       "main": 41.9, 
       "genoa": 25.1, 
       "displacement": 3980.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1991"
   }, 

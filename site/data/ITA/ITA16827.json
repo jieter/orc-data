@@ -5,12 +5,13 @@
       1.3492, 
       1.5063
     ], 
-    "gph": 562.2, 
     "triple_inshore": [
       0.8176, 
       1.0912, 
       1.2392
-    ]
+    ], 
+    "gph": 562.2, 
+    "osn": 548.2
   }, 
   "sailnumber": "ITA16827", 
   "name": "JACK SPARROW", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 2.53, 
+      "wetted_surface": 32.3, 
       "main": 55.7, 
       "genoa": 43.4, 
       "displacement": 6857.0, 
-      "spinnaker_asym": 169.0
+      "spinnaker_asym": 169.0, 
+      "crew": 850.0
     }, 
     "year": "2013"
   }, 

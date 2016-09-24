@@ -5,12 +5,13 @@
       1.1543, 
       1.3449
     ], 
-    "gph": 666.0, 
     "triple_inshore": [
       0.6532, 
       0.9128, 
       1.1081
-    ]
+    ], 
+    "gph": 666.0, 
+    "osn": 645.8
   }, 
   "sailnumber": "ESP7623_C", 
   "name": "PETRA MARY", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.7, 
       "loa": 12.02, 
       "draft": 1.7, 
+      "wetted_surface": 31.1, 
       "main": 30.8, 
       "genoa": 38.9, 
       "displacement": 7474.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "2002"
   }, 

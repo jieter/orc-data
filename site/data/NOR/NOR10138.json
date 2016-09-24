@@ -5,12 +5,13 @@
       1.1511, 
       1.2995
     ], 
-    "gph": 663.0, 
     "triple_inshore": [
       0.6807, 
       0.9281, 
       1.0818
-    ]
+    ], 
+    "gph": 663.0, 
+    "osn": 644.3
   }, 
   "sailnumber": "NOR10138", 
   "name": "DAISY", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.5, 
       "loa": 10.29, 
       "draft": 1.79, 
+      "wetted_surface": 24.7, 
       "main": 36.3, 
       "genoa": 25.8, 
       "displacement": 5255.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2001"
   }, 

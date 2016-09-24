@@ -5,12 +5,13 @@
       1.1445, 
       1.2875
     ], 
-    "gph": 666.7, 
     "triple_inshore": [
       0.6734, 
       0.9186, 
       1.0627
-    ]
+    ], 
+    "gph": 666.7, 
+    "osn": 650.0
   }, 
   "sailnumber": "BRA1770", 
   "name": "Magia Black", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.9, 
       "loa": 9.91, 
       "draft": 1.8, 
+      "wetted_surface": 22.5, 
       "main": 34.8, 
       "genoa": 29.1, 
       "displacement": 4297.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 574.0
     }, 
     "year": "1990"
   }, 

@@ -5,12 +5,13 @@
       1.2334, 
       1.4061
     ], 
-    "gph": 620.1, 
     "triple_inshore": [
       0.719, 
       0.9964, 
       1.1795
-    ]
+    ], 
+    "gph": 620.1, 
+    "osn": 601.6
   }, 
   "sailnumber": "CRO1785", 
   "name": "Red Zeppelin", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.1, 
       "loa": 11.3, 
       "draft": 2.33, 
+      "wetted_surface": 29.8, 
       "main": 43.5, 
       "genoa": 38.4, 
       "displacement": 6609.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 734.0
     }, 
     "year": "2005"
   }, 

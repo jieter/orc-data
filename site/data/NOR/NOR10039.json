@@ -5,12 +5,13 @@
       1.231, 
       1.3984
     ], 
-    "gph": 620.8, 
     "triple_inshore": [
       0.716, 
       0.9834, 
       1.1602
-    ]
+    ], 
+    "gph": 620.8, 
+    "osn": 604.8
   }, 
   "sailnumber": "NOR10039", 
   "name": "Dollard IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.8, 
       "loa": 11.71, 
       "draft": 1.97, 
+      "wetted_surface": 33.4, 
       "main": 47.4, 
       "genoa": 51.7, 
       "displacement": 8031.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 792.0
     }, 
     "year": "1999"
   }, 

@@ -5,12 +5,13 @@
       1.4143, 
       1.6017
     ], 
-    "gph": 534.7, 
     "triple_inshore": [
       0.861, 
       1.1385, 
       1.3041
-    ]
+    ], 
+    "gph": 534.7, 
+    "osn": 521.5
   }, 
   "sailnumber": "ITA252", 
   "name": "ROBY & 14", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.411, 
       "draft": 2.59, 
+      "wetted_surface": 29.8, 
       "main": 60.3, 
       "genoa": 41.3, 
       "displacement": 5009.0, 
-      "spinnaker_asym": 153.0
+      "spinnaker_asym": 153.0, 
+      "crew": 777.0
     }, 
     "year": "1997"
   }, 

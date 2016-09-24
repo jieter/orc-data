@@ -5,12 +5,13 @@
       1.2245, 
       1.396
     ], 
-    "gph": 623.4, 
     "triple_inshore": [
       0.7146, 
       0.9836, 
       1.145
-    ]
+    ], 
+    "gph": 623.4, 
+    "osn": 607.0
   }, 
   "sailnumber": "FRA15037", 
   "name": "BINGO", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.1, 
       "loa": 10.632, 
       "draft": 1.98, 
+      "wetted_surface": 24.3, 
       "main": 40.2, 
       "genoa": 27.2, 
       "displacement": 3850.0, 
-      "spinnaker_asym": 53.0
+      "spinnaker_asym": 53.0, 
+      "crew": 490.0
     }, 
     "year": "1991"
   }, 

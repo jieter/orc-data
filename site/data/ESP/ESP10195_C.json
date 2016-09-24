@@ -5,12 +5,13 @@
       1.1492, 
       1.2827
     ], 
-    "gph": 665.5, 
     "triple_inshore": [
       0.6752, 
       0.9219, 
       1.0682
-    ]
+    ], 
+    "gph": 665.5, 
+    "osn": 647.5
   }, 
   "sailnumber": "ESP10195_C", 
   "name": "BRISOTE DOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.6, 
       "loa": 10.38, 
       "draft": 1.86, 
+      "wetted_surface": 25.6, 
       "main": 29.9, 
       "genoa": 35.6, 
       "displacement": 5395.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2007"
   }, 

@@ -5,12 +5,13 @@
       0.9134, 
       1.0218
     ], 
-    "gph": 835.1, 
     "triple_inshore": [
       0.5447, 
       0.7416, 
       0.8419
-    ]
+    ], 
+    "gph": 835.1, 
+    "osn": 811.4
   }, 
   "sailnumber": "ITADAFTE", 
   "name": "DAFNE", 
@@ -25,10 +26,12 @@
       "spinnaker": 23.6, 
       "loa": 6.65, 
       "draft": 1.26, 
+      "wetted_surface": 10.9, 
       "main": 11.6, 
       "genoa": 13.8, 
       "displacement": 1048.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 250.0
     }, 
     "year": "1977"
   }, 

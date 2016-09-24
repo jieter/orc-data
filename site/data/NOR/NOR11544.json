@@ -5,12 +5,13 @@
       1.1698, 
       1.3415
     ], 
-    "gph": 657.4, 
     "triple_inshore": [
       0.6617, 
       0.9399, 
       1.1258
-    ]
+    ], 
+    "gph": 657.4, 
+    "osn": 637.7
   }, 
   "sailnumber": "NOR11544", 
   "name": "XS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.35, 
       "draft": 2.04, 
+      "wetted_surface": 29.9, 
       "main": 44.4, 
       "genoa": 33.8, 
       "displacement": 7105.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 720.0
     }, 
     "year": "2006"
   }, 

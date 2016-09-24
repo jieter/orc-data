@@ -5,12 +5,13 @@
       1.1979, 
       1.3438
     ], 
-    "gph": 634.8, 
     "triple_inshore": [
       0.717, 
       0.9715, 
       1.1165
-    ]
+    ], 
+    "gph": 634.8, 
+    "osn": 619.2
   }, 
   "sailnumber": "ESP5784_C", 
   "name": "UN MOMENT PRIMERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.0, 
       "loa": 10.06, 
       "draft": 1.8, 
+      "wetted_surface": 23.4, 
       "main": 36.2, 
       "genoa": 34.2, 
       "displacement": 4108.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 605.0
     }, 
     "year": "1994"
   }, 

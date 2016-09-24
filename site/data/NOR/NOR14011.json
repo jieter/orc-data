@@ -5,12 +5,13 @@
       1.0437, 
       1.2118
     ], 
-    "gph": 738.0, 
     "triple_inshore": [
       0.592, 
       0.8417, 
       1.0209
-    ]
+    ], 
+    "gph": 738.0, 
+    "osn": 713.2
   }, 
   "sailnumber": "NOR14011", 
   "name": "Prunus", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.55, 
       "draft": 1.84, 
+      "wetted_surface": 22.3, 
       "main": 28.8, 
       "genoa": 20.8, 
       "displacement": 4684.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 534.0
     }, 
     "year": "2008"
   }, 

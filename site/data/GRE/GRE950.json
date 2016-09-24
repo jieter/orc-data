@@ -5,12 +5,13 @@
       0.9533, 
       1.0953
     ], 
-    "gph": 804.2, 
     "triple_inshore": [
       0.5516, 
       0.7625, 
       0.9109
-    ]
+    ], 
+    "gph": 804.2, 
+    "osn": 779.8
   }, 
   "sailnumber": "GRE950", 
   "name": "AMARILLIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 46.0, 
       "loa": 7.9, 
       "draft": 1.45, 
+      "wetted_surface": 16.9, 
       "main": 16.2, 
       "genoa": 20.5, 
       "displacement": 3040.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1969"
   }, 

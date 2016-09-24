@@ -5,12 +5,13 @@
       1.083, 
       1.2144
     ], 
-    "gph": 704.8, 
     "triple_inshore": [
       0.6434, 
       0.8767, 
       1.0149
-    ]
+    ], 
+    "gph": 704.8, 
+    "osn": 684.9
   }, 
   "sailnumber": "ITA12867", 
   "name": "SICA", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.2, 
       "loa": 9.2, 
       "draft": 1.76, 
+      "wetted_surface": 19.8, 
       "main": 20.0, 
       "genoa": 34.1, 
       "displacement": 3731.0, 
-      "spinnaker_asym": 57.0
+      "spinnaker_asym": 57.0, 
+      "crew": 380.0
     }, 
     "year": "1986"
   }, 

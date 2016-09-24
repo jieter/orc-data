@@ -5,12 +5,13 @@
       1.3356, 
       1.5045
     ], 
-    "gph": 570.3, 
     "triple_inshore": [
       0.7949, 
       1.081, 
       1.25
-    ]
+    ], 
+    "gph": 570.3, 
+    "osn": 555.1
   }, 
   "sailnumber": "ITA41048", 
   "name": "SIDERACORDIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 130.1, 
       "loa": 12.35, 
       "draft": 2.49, 
+      "wetted_surface": 32.3, 
       "main": 54.4, 
       "genoa": 45.8, 
       "displacement": 6735.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 850.0
     }, 
     "year": "2006"
   }, 

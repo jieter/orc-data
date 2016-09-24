@@ -5,12 +5,13 @@
       1.248, 
       1.3932
     ], 
-    "gph": 610.6, 
     "triple_inshore": [
       0.7427, 
       1.0004, 
       1.1501
-    ]
+    ], 
+    "gph": 610.6, 
+    "osn": 595.2
   }, 
   "sailnumber": "ITA16182", 
   "name": "FAR STAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.5, 
       "draft": 2.05, 
+      "wetted_surface": 30.3, 
       "main": 44.5, 
       "genoa": 38.8, 
       "displacement": 6661.0, 
-      "spinnaker_asym": 114.0
+      "spinnaker_asym": 114.0, 
+      "crew": 600.0
     }, 
     "year": "2005"
   }, 

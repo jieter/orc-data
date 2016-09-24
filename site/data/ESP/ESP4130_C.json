@@ -5,12 +5,13 @@
       1.0254, 
       1.164
     ], 
-    "gph": 747.3, 
     "triple_inshore": [
       0.5991, 
       0.8242, 
       0.9742
-    ]
+    ], 
+    "gph": 747.3, 
+    "osn": 724.1
   }, 
   "sailnumber": "ESP4130_C", 
   "name": "ABONICO", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.8, 
       "loa": 9.5, 
       "draft": 1.85, 
+      "wetted_surface": 21.3, 
       "main": 21.9, 
       "genoa": 33.0, 
       "displacement": 4999.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1977"
   }, 

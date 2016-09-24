@@ -5,12 +5,13 @@
       1.1564, 
       1.2987
     ], 
-    "gph": 659.3, 
     "triple_inshore": [
       0.6871, 
       0.9302, 
       1.0758
-    ]
+    ], 
+    "gph": 659.3, 
+    "osn": 641.1
   }, 
   "sailnumber": "NOR14035", 
   "name": "Delan", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.252, 
       "draft": 1.92, 
+      "wetted_surface": 22.8, 
       "main": 31.1, 
       "genoa": 24.1, 
       "displacement": 4187.0, 
-      "spinnaker_asym": 85.0
+      "spinnaker_asym": 85.0, 
+      "crew": 582.0
     }, 
     "year": "2009"
   }, 

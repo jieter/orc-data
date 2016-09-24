@@ -5,12 +5,13 @@
       1.1805, 
       1.3333
     ], 
-    "gph": 646.0, 
     "triple_inshore": [
       0.6974, 
       0.9552, 
       1.1047
-    ]
+    ], 
+    "gph": 646.0, 
+    "osn": 628.9
   }, 
   "sailnumber": "NED7765", 
   "name": "Forex", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.7, 
       "loa": 10.007, 
       "draft": 1.79, 
+      "wetted_surface": 20.0, 
       "main": 33.4, 
       "genoa": 18.7, 
       "displacement": 3011.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1985"
   }, 

@@ -5,12 +5,13 @@
       1.293, 
       1.4535
     ], 
-    "gph": 592.8, 
     "triple_inshore": [
       0.7503, 
       1.0314, 
       1.2019
-    ]
+    ], 
+    "gph": 592.8, 
+    "osn": 576.5
   }, 
   "sailnumber": "ITA4307", 
   "name": "NIQUIDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.95, 
       "draft": 2.57, 
+      "wetted_surface": 37.9, 
       "main": 49.4, 
       "genoa": 56.6, 
       "displacement": 9886.0, 
-      "spinnaker_asym": 132.0
+      "spinnaker_asym": 132.0, 
+      "crew": 480.0
     }, 
     "year": "2005"
   }, 

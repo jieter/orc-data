@@ -5,12 +5,13 @@
       1.2567, 
       1.41
     ], 
-    "gph": 604.4, 
     "triple_inshore": [
       0.7555, 
       1.0173, 
       1.1713
-    ]
+    ], 
+    "gph": 604.4, 
+    "osn": 589.4
   }, 
   "sailnumber": "DEN1266", 
   "name": "LONE II", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.2, 
       "loa": 11.36, 
       "draft": 2.08, 
+      "wetted_surface": 27.0, 
       "main": 40.2, 
       "genoa": 48.0, 
       "displacement": 5081.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "1992"
   }, 

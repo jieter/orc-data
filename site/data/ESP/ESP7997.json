@@ -5,12 +5,13 @@
       1.2103, 
       1.3623
     ], 
-    "gph": 630.4, 
     "triple_inshore": [
       0.7154, 
       0.9755, 
       1.1379
-    ]
+    ], 
+    "gph": 630.4, 
+    "osn": 613.6
   }, 
   "sailnumber": "ESP7997", 
   "name": "SA MENUDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.9, 
       "loa": 10.84, 
       "draft": 2.02, 
+      "wetted_surface": 26.7, 
       "main": 40.1, 
       "genoa": 33.0, 
       "displacement": 5851.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 510.0
     }, 
     "year": "2004"
   }, 

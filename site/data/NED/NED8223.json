@@ -5,12 +5,13 @@
       0.9968, 
       1.1361
     ], 
-    "gph": 768.2, 
     "triple_inshore": [
       0.5829, 
       0.8081, 
       0.9528
-    ]
+    ], 
+    "gph": 768.2, 
+    "osn": 744.1
   }, 
   "sailnumber": "NED8223", 
   "name": "KICK", 
@@ -25,10 +26,12 @@
       "spinnaker": 39.2, 
       "loa": 7.68, 
       "draft": 1.48, 
+      "wetted_surface": 15.0, 
       "main": 17.1, 
       "genoa": 17.6, 
       "displacement": 2294.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 402.0
     }, 
     "year": "1997"
   }, 

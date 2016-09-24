@@ -5,12 +5,13 @@
       1.1884, 
       1.3659
     ], 
-    "gph": 644.7, 
     "triple_inshore": [
       0.6837, 
       0.9392, 
       1.1213
-    ]
+    ], 
+    "gph": 644.7, 
+    "osn": 626.8
   }, 
   "sailnumber": "ITAMALIE", 
   "name": "MALIE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.47, 
       "draft": 1.94, 
+      "wetted_surface": 32.7, 
       "main": 40.7, 
       "genoa": 43.7, 
       "displacement": 8297.0, 
-      "spinnaker_asym": 92.0
+      "spinnaker_asym": 92.0, 
+      "crew": 450.0
     }, 
     "year": "2002"
   }, 

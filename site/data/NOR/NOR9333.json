@@ -5,12 +5,13 @@
       1.2927, 
       1.4528
     ], 
-    "gph": 589.6, 
     "triple_inshore": [
       0.7651, 
       1.0389, 
       1.2068
-    ]
+    ], 
+    "gph": 589.6, 
+    "osn": 574.8
   }, 
   "sailnumber": "NOR9333", 
   "name": "Cavatina", 
@@ -25,10 +26,12 @@
       "spinnaker": 125.7, 
       "loa": 13.05, 
       "draft": 2.07, 
+      "wetted_surface": 31.7, 
       "main": 43.1, 
       "genoa": 56.4, 
       "displacement": 7345.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 801.0
     }, 
     "year": "1994"
   }, 

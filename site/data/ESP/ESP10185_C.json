@@ -5,12 +5,13 @@
       1.0353, 
       1.1964
     ], 
-    "gph": 741.9, 
     "triple_inshore": [
       0.5947, 
       0.834, 
       0.9998
-    ]
+    ], 
+    "gph": 741.9, 
+    "osn": 717.7
   }, 
   "sailnumber": "ESP10185_C", 
   "name": "ELMER PRIMERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 47.0, 
       "loa": 8.43, 
       "draft": 1.6, 
+      "wetted_surface": 17.4, 
       "main": 20.2, 
       "genoa": 18.4, 
       "displacement": 2821.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1986"
   }, 

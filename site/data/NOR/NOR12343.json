@@ -5,12 +5,13 @@
       1.3976, 
       1.5757
     ], 
-    "gph": 545.0, 
     "triple_inshore": [
       0.8304, 
       1.1304, 
       1.2959
-    ]
+    ], 
+    "gph": 545.0, 
+    "osn": 530.1
   }, 
   "sailnumber": "NOR12343", 
   "name": "DESTIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.071, 
       "draft": 2.75, 
+      "wetted_surface": 36.8, 
       "main": 65.1, 
       "genoa": 46.3, 
       "displacement": 8245.0, 
-      "spinnaker_asym": 199.0
+      "spinnaker_asym": 199.0, 
+      "crew": 840.0
     }, 
     "year": "2006"
   }, 

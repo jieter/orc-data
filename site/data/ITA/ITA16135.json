@@ -5,12 +5,13 @@
       1.3555, 
       1.5412
     ], 
-    "gph": 568.6, 
     "triple_inshore": [
       0.7635, 
       1.0726, 
       1.2564
-    ]
+    ], 
+    "gph": 568.6, 
+    "osn": 552.1
   }, 
   "sailnumber": "ITA16135", 
   "name": "SUPEREVA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.99, 
       "draft": 2.39, 
+      "wetted_surface": 48.4, 
       "main": 68.4, 
       "genoa": 50.0, 
       "displacement": 13844.0, 
-      "spinnaker_asym": 220.0
+      "spinnaker_asym": 220.0, 
+      "crew": 1045.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       1.1465, 
       1.2947
     ], 
-    "gph": 666.9, 
     "triple_inshore": [
       0.6723, 
       0.9237, 
       1.0833
-    ]
+    ], 
+    "gph": 666.9, 
+    "osn": 648.0
   }, 
   "sailnumber": "ESP2893", 
   "name": "PILLABAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.4, 
       "loa": 10.448, 
       "draft": 1.9, 
+      "wetted_surface": 24.9, 
       "main": 36.5, 
       "genoa": 29.7, 
       "displacement": 5646.0, 
-      "spinnaker_asym": 66.0
+      "spinnaker_asym": 66.0, 
+      "crew": 450.0
     }, 
     "year": "1988"
   }, 

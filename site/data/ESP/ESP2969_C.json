@@ -5,12 +5,13 @@
       1.0829, 
       1.2328
     ], 
-    "gph": 699.8, 
     "triple_inshore": [
       0.6554, 
       0.8858, 
       1.017
-    ]
+    ], 
+    "gph": 699.8, 
+    "osn": 681.4
   }, 
   "sailnumber": "ESP2969_C", 
   "name": "AGUAMARINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 30.2, 
       "loa": 7.756, 
       "draft": 1.39, 
+      "wetted_surface": 11.3, 
       "main": 23.5, 
       "genoa": 14.1, 
       "displacement": 1430.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1990"
   }, 

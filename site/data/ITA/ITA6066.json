@@ -5,12 +5,13 @@
       0.9514, 
       1.1043
     ], 
-    "gph": 807.4, 
     "triple_inshore": [
       0.547, 
       0.7652, 
       0.9278
-    ]
+    ], 
+    "gph": 807.4, 
+    "osn": 779.9
   }, 
   "sailnumber": "ITA6066", 
   "name": "TROLL II", 
@@ -25,10 +26,12 @@
       "spinnaker": 35.0, 
       "loa": 7.24, 
       "draft": 1.6, 
+      "wetted_surface": 15.5, 
       "main": 12.3, 
       "genoa": 14.9, 
       "displacement": 2224.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 240.0
     }, 
     "year": "1973"
   }, 

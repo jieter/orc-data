@@ -5,12 +5,13 @@
       1.2059, 
       1.3643
     ], 
-    "gph": 633.5, 
     "triple_inshore": [
       0.7094, 
       0.9776, 
       1.1438
-    ]
+    ], 
+    "gph": 633.5, 
+    "osn": 614.8
   }, 
   "sailnumber": "ITA16696", 
   "name": "ALCAM", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.1, 
       "loa": 10.64, 
       "draft": 2.22, 
+      "wetted_surface": 26.4, 
       "main": 38.9, 
       "genoa": 36.9, 
       "displacement": 5508.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.4114, 
       1.6659
     ], 
-    "gph": 546.4, 
     "triple_inshore": [
       0.7793, 
       1.1004, 
       1.3639
-    ]
+    ], 
+    "gph": 546.4, 
+    "osn": 530.7
   }, 
   "sailnumber": "NED8496", 
   "name": "Mariflex Challenge", 
@@ -25,10 +26,12 @@
       "spinnaker": 293.5, 
       "loa": 20.16, 
       "draft": 2.9, 
+      "wetted_surface": 86.4, 
       "main": 100.7, 
       "genoa": 148.7, 
       "displacement": 39269.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1520.0
     }, 
     "year": "1990"
   }, 

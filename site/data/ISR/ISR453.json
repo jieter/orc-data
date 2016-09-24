@@ -5,12 +5,13 @@
       1.2144, 
       1.41
     ], 
-    "gph": 635.2, 
     "triple_inshore": [
       0.6793, 
       0.9536, 
       1.1473
-    ]
+    ], 
+    "gph": 635.2, 
+    "osn": 615.5
   }, 
   "sailnumber": "ISR453", 
   "name": "Pegasus", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.71, 
       "draft": 2.33, 
+      "wetted_surface": 39.5, 
       "main": 44.9, 
       "genoa": 68.0, 
       "displacement": 10968.0, 
-      "spinnaker_asym": 121.0
+      "spinnaker_asym": 121.0, 
+      "crew": 850.0
     }, 
     "year": "1999"
   }, 

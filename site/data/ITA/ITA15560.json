@@ -5,12 +5,13 @@
       1.188, 
       1.3395
     ], 
-    "gph": 642.1, 
     "triple_inshore": [
       0.7034, 
       0.9565, 
       1.1079
-    ]
+    ], 
+    "gph": 642.1, 
+    "osn": 624.1
   }, 
   "sailnumber": "ITA15560", 
   "name": "BREEZY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.982, 
       "draft": 1.99, 
+      "wetted_surface": 23.3, 
       "main": 34.8, 
       "genoa": 25.3, 
       "displacement": 4442.0, 
-      "spinnaker_asym": 90.0
+      "spinnaker_asym": 90.0, 
+      "crew": 560.0
     }, 
     "year": "2005"
   }, 

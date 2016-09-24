@@ -5,12 +5,13 @@
       1.1735, 
       1.349
     ], 
-    "gph": 652.2, 
     "triple_inshore": [
       0.6801, 
       0.9287, 
       1.1101
-    ]
+    ], 
+    "gph": 652.2, 
+    "osn": 633.9
   }, 
   "sailnumber": "NOR14845", 
   "name": "Opptur", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 1.97, 
+      "wetted_surface": 32.9, 
       "main": 38.9, 
       "genoa": 41.1, 
       "displacement": 8870.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 733.0
     }, 
     "year": "2007"
   }, 

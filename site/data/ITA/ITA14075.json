@@ -5,12 +5,13 @@
       1.2094, 
       1.3619
     ], 
-    "gph": 630.9, 
     "triple_inshore": [
       0.7158, 
       0.9797, 
       1.1391
-    ]
+    ], 
+    "gph": 630.9, 
+    "osn": 613.6
   }, 
   "sailnumber": "ITA14075", 
   "name": "NAUTILUS TOO", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.0, 
       "loa": 10.64, 
       "draft": 2.19, 
+      "wetted_surface": 26.3, 
       "main": 39.3, 
       "genoa": 35.9, 
       "displacement": 5450.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2001"
   }, 

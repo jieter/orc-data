@@ -5,12 +5,13 @@
       1.2449, 
       1.3965
     ], 
-    "gph": 614.3, 
     "triple_inshore": [
       0.7317, 
       0.9977, 
       1.152
-    ]
+    ], 
+    "gph": 614.3, 
+    "osn": 597.0
   }, 
   "sailnumber": "ITA15041", 
   "name": "BRUSCOLO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.6, 
       "draft": 2.2, 
+      "wetted_surface": 29.6, 
       "main": 42.0, 
       "genoa": 32.2, 
       "displacement": 6248.0, 
-      "spinnaker_asym": 107.0
+      "spinnaker_asym": 107.0, 
+      "crew": 612.0
     }, 
     "year": "1999"
   }, 

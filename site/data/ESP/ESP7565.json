@@ -5,12 +5,13 @@
       1.1515, 
       1.3144
     ], 
-    "gph": 665.1, 
     "triple_inshore": [
       0.6683, 
       0.9253, 
       1.0974
-    ]
+    ], 
+    "gph": 665.1, 
+    "osn": 644.9
   }, 
   "sailnumber": "ESP7565", 
   "name": "FANYTAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.9, 
       "loa": 10.3, 
       "draft": 1.96, 
+      "wetted_surface": 25.6, 
       "main": 32.1, 
       "genoa": 33.5, 
       "displacement": 5437.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 580.0
     }, 
     "year": "2002"
   }, 

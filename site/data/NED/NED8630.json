@@ -5,12 +5,13 @@
       1.2669, 
       1.4669
     ], 
-    "gph": 606.0, 
     "triple_inshore": [
       0.7164, 
       0.9982, 
       1.2067
-    ]
+    ], 
+    "gph": 606.0, 
+    "osn": 589.5
   }, 
   "sailnumber": "NED8630", 
   "name": "Miss Moneypenny", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.15, 
       "draft": 1.95, 
+      "wetted_surface": 45.8, 
       "main": 56.2, 
       "genoa": 67.1, 
       "displacement": 13500.0, 
-      "spinnaker_asym": 133.0
+      "spinnaker_asym": 133.0, 
+      "crew": 450.0
     }, 
     "year": "2005"
   }, 

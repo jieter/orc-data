@@ -5,12 +5,13 @@
       1.0957, 
       1.2294
     ], 
-    "gph": 694.8, 
     "triple_inshore": [
       0.6558, 
       0.8861, 
       1.028
-    ]
+    ], 
+    "gph": 694.8, 
+    "osn": 676.8
   }, 
   "sailnumber": "NED2804", 
   "name": "KOLME", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.1, 
       "loa": 9.868, 
       "draft": 1.79, 
+      "wetted_surface": 20.7, 
       "main": 27.9, 
       "genoa": 31.7, 
       "displacement": 4297.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 543.0
     }, 
     "year": "1978"
   }, 

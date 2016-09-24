@@ -5,12 +5,13 @@
       1.1785, 
       1.3421
     ], 
-    "gph": 648.2, 
     "triple_inshore": [
       0.6898, 
       0.9464, 
       1.1207
-    ]
+    ], 
+    "gph": 648.2, 
+    "osn": 630.1
   }, 
   "sailnumber": "ITA13414", 
   "name": "TESEO 2000", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.3, 
       "loa": 11.45, 
       "draft": 2.09, 
+      "wetted_surface": 29.1, 
       "main": 38.8, 
       "genoa": 43.8, 
       "displacement": 6791.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 700.0
     }, 
     "year": "1992"
   }, 

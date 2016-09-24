@@ -5,12 +5,13 @@
       0.9593, 
       1.119
     ], 
-    "gph": 801.4, 
     "triple_inshore": [
       0.5416, 
       0.7555, 
       0.9229
-    ]
+    ], 
+    "gph": 801.4, 
+    "osn": 777.2
   }, 
   "sailnumber": "ESP4809_C", 
   "name": "SCORPIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.461, 
       "draft": 1.52, 
+      "wetted_surface": 17.3, 
       "main": 18.8, 
       "genoa": 12.1, 
       "displacement": 2881.0, 
-      "spinnaker_asym": 49.0
+      "spinnaker_asym": 49.0, 
+      "crew": 210.0
     }, 
     "year": "1995"
   }, 

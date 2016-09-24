@@ -5,12 +5,13 @@
       1.1927, 
       1.3416
     ], 
-    "gph": 639.2, 
     "triple_inshore": [
       0.7116, 
       0.9727, 
       1.1283
-    ]
+    ], 
+    "gph": 639.2, 
+    "osn": 621.0
   }, 
   "sailnumber": "ITA14044", 
   "name": "OLD FOX", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.3, 
       "loa": 10.045, 
       "draft": 2.17, 
+      "wetted_surface": 23.7, 
       "main": 34.2, 
       "genoa": 28.2, 
       "displacement": 4335.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 530.0
     }, 
     "year": "1994"
   }, 

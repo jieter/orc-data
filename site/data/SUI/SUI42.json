@@ -5,12 +5,13 @@
       1.1195, 
       1.266
     ], 
-    "gph": 673.9, 
     "triple_inshore": [
       0.6904, 
       0.9036, 
       1.0281
-    ]
+    ], 
+    "gph": 673.9, 
+    "osn": 658.2
   }, 
   "sailnumber": "SUI42", 
   "name": "HOKAI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.47, 
       "draft": 1.65, 
+      "wetted_surface": 12.2, 
       "main": 19.6, 
       "genoa": 12.8, 
       "displacement": 1132.0, 
-      "spinnaker_asym": 52.0
+      "spinnaker_asym": 52.0, 
+      "crew": 387.0
     }, 
     "year": "1995"
   }, 

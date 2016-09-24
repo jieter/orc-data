@@ -5,12 +5,13 @@
       1.169, 
       1.3285
     ], 
-    "gph": 654.3, 
     "triple_inshore": [
       0.6851, 
       0.9452, 
       1.1131
-    ]
+    ], 
+    "gph": 654.3, 
+    "osn": 634.4
   }, 
   "sailnumber": "LTU1234", 
   "name": "ORKA", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.0, 
       "loa": 9.98, 
       "draft": 2.02, 
+      "wetted_surface": 24.3, 
       "main": 34.7, 
       "genoa": 24.8, 
       "displacement": 5015.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 601.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.2029, 
       1.344
     ], 
-    "gph": 633.3, 
     "triple_inshore": [
       0.7193, 
       0.973, 
       1.1251
-    ]
+    ], 
+    "gph": 633.3, 
+    "osn": 616.7
   }, 
   "sailnumber": "GER6335", 
   "name": "RUNGHOLT", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.0, 
       "loa": 10.477, 
       "draft": 2.01, 
+      "wetted_surface": 28.0, 
       "main": 41.0, 
       "genoa": 32.8, 
       "displacement": 6157.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "2007"
   }, 

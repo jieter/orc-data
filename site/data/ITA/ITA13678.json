@@ -5,12 +5,13 @@
       1.2925, 
       1.4635
     ], 
-    "gph": 585.9, 
     "triple_inshore": [
       0.7888, 
       1.0571, 
       1.2132
-    ]
+    ], 
+    "gph": 585.9, 
+    "osn": 569.7
   }, 
   "sailnumber": "ITA13678", 
   "name": "EVOLUTION", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.0, 
       "loa": 9.99, 
       "draft": 2.35, 
+      "wetted_surface": 21.8, 
       "main": 39.1, 
       "genoa": 32.1, 
       "displacement": 3279.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1997"
   }, 

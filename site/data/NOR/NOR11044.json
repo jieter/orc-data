@@ -5,12 +5,13 @@
       1.2283, 
       1.4003
     ], 
-    "gph": 623.5, 
     "triple_inshore": [
       0.7107, 
       0.9853, 
       1.1648
-    ]
+    ], 
+    "gph": 623.5, 
+    "osn": 605.4
   }, 
   "sailnumber": "NOR11044", 
   "name": "Tussi", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.0, 
       "loa": 11.38, 
       "draft": 2.19, 
+      "wetted_surface": 30.9, 
       "main": 39.3, 
       "genoa": 44.5, 
       "displacement": 6859.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 758.0
     }, 
     "year": "2004"
   }, 

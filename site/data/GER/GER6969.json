@@ -5,12 +5,13 @@
       1.0722, 
       1.1889
     ], 
-    "gph": 705.8, 
     "triple_inshore": [
       0.6504, 
       0.8632, 
       0.9827
-    ]
+    ], 
+    "gph": 705.8, 
+    "osn": 691.8
   }, 
   "sailnumber": "GER6969", 
   "name": "VANGUARD", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.485, 
       "draft": 1.62, 
+      "wetted_surface": 16.1, 
       "main": 24.9, 
       "genoa": 13.7, 
       "displacement": 2255.0, 
-      "spinnaker_asym": 55.0
+      "spinnaker_asym": 55.0, 
+      "crew": 320.0
     }, 
     "year": "2014"
   }, 

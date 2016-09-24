@@ -5,12 +5,13 @@
       1.1256, 
       1.3136
     ], 
-    "gph": 686.0, 
     "triple_inshore": [
       0.6269, 
       0.8844, 
       1.0734
-    ]
+    ], 
+    "gph": 686.0, 
+    "osn": 664.4
   }, 
   "sailnumber": "ITAJESSI", 
   "name": "JESSI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.6, 
       "draft": 2.04, 
+      "wetted_surface": 31.8, 
       "main": 26.9, 
       "genoa": 51.7, 
       "displacement": 7462.0, 
-      "spinnaker_asym": 98.0
+      "spinnaker_asym": 98.0, 
+      "crew": 750.0
     }, 
     "year": "1991"
   }, 

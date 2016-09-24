@@ -5,12 +5,13 @@
       1.0323, 
       1.1663
     ], 
-    "gph": 736.3, 
     "triple_inshore": [
       0.6208, 
       0.8448, 
       0.9718
-    ]
+    ], 
+    "gph": 736.3, 
+    "osn": 715.4
   }, 
   "sailnumber": "ESP1691_C", 
   "name": "GRUMETE", 
@@ -25,10 +26,12 @@
       "spinnaker": 33.6, 
       "loa": 7.606, 
       "draft": 1.49, 
+      "wetted_surface": 12.6, 
       "main": 17.4, 
       "genoa": 15.8, 
       "displacement": 1435.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 250.0
     }, 
     "year": "1977"
   }, 

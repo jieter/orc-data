@@ -5,12 +5,13 @@
       1.5123, 
       1.707
     ], 
-    "gph": 503.5, 
     "triple_inshore": [
       0.9004, 
       1.2229, 
       1.4069
-    ]
+    ], 
+    "gph": 503.5, 
+    "osn": 489.7
   }, 
   "sailnumber": "NOR15811", 
   "name": "Yani", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 15.05, 
       "draft": 3.75, 
+      "wetted_surface": 43.8, 
       "main": 87.4, 
       "genoa": 60.5, 
       "displacement": 10817.0, 
-      "spinnaker_asym": 237.0
+      "spinnaker_asym": 237.0, 
+      "crew": 1106.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.1211, 
       1.2936
     ], 
-    "gph": 685.2, 
     "triple_inshore": [
       0.6456, 
       0.9047, 
       1.0831
-    ]
+    ], 
+    "gph": 685.2, 
+    "osn": 662.1
   }, 
   "sailnumber": "NED8535", 
   "name": "Linke Loetje 5", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.0, 
       "loa": 9.49, 
       "draft": 1.93, 
+      "wetted_surface": 22.2, 
       "main": 25.6, 
       "genoa": 19.5, 
       "displacement": 3772.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1998"
   }, 

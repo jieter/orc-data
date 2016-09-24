@@ -5,12 +5,13 @@
       1.0387, 
       1.2238
     ], 
-    "gph": 743.4, 
     "triple_inshore": [
       0.5773, 
       0.8272, 
       1.012
-    ]
+    ], 
+    "gph": 743.4, 
+    "osn": 717.9
   }, 
   "sailnumber": "ESP9692_C", 
   "name": "ARCO IRIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.5, 
       "loa": 8.91, 
       "draft": 1.71, 
+      "wetted_surface": 19.7, 
       "main": 15.9, 
       "genoa": 31.9, 
       "displacement": 2920.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 476.0
     }, 
     "year": "1978"
   }, 

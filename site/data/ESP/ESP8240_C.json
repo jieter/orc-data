@@ -5,12 +5,13 @@
       1.0349, 
       1.1917
     ], 
-    "gph": 734.4, 
     "triple_inshore": [
       0.6191, 
       0.8484, 
       0.991
-    ]
+    ], 
+    "gph": 734.4, 
+    "osn": 711.9
   }, 
   "sailnumber": "ESP8240_C", 
   "name": "MANDINGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 36.4, 
       "loa": 6.75, 
       "draft": 1.49, 
+      "wetted_surface": 12.7, 
       "main": 18.4, 
       "genoa": 11.7, 
       "displacement": 1435.0, 
-      "spinnaker_asym": 36.0
+      "spinnaker_asym": 36.0, 
+      "crew": 340.0
     }, 
     "year": "1996"
   }, 

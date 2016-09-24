@@ -5,12 +5,13 @@
       1.5256, 
       1.7308
     ], 
-    "gph": 501.7, 
     "triple_inshore": [
       0.8876, 
       1.2252, 
       1.4336
-    ]
+    ], 
+    "gph": 501.7, 
+    "osn": 487.6
   }, 
   "sailnumber": "GER6053", 
   "name": "AULIANA 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 16.434, 
       "draft": 3.23, 
+      "wetted_surface": 54.9, 
       "main": 93.3, 
       "genoa": 74.2, 
       "displacement": 15109.0, 
-      "spinnaker_asym": 281.0
+      "spinnaker_asym": 281.0, 
+      "crew": 750.0
     }, 
     "year": "2008"
   }, 

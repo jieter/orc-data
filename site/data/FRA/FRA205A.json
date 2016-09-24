@@ -5,12 +5,13 @@
       1.1131, 
       1.2354
     ], 
-    "gph": 682.8, 
     "triple_inshore": [
       0.6757, 
       0.9113, 
       1.0448
-    ]
+    ], 
+    "gph": 682.8, 
+    "osn": 664.5
   }, 
   "sailnumber": "FRA205A", 
   "name": "ARMSTRONG", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.7, 
       "loa": 9.904, 
       "draft": 1.75, 
+      "wetted_surface": 17.6, 
       "main": 24.9, 
       "genoa": 18.3, 
       "displacement": 3244.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 520.0
     }, 
     "year": "1979"
   }, 

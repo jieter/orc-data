@@ -5,12 +5,13 @@
       1.0756, 
       1.21
     ], 
-    "gph": 707.1, 
     "triple_inshore": [
       0.6446, 
       0.8802, 
       1.0084
-    ]
+    ], 
+    "gph": 707.1, 
+    "osn": 687.6
   }, 
   "sailnumber": "NOR3325", 
   "name": "MaxiMUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.1, 
       "loa": 7.97, 
       "draft": 1.49, 
+      "wetted_surface": 15.1, 
       "main": 21.2, 
       "genoa": 21.4, 
       "displacement": 1761.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 406.0
     }, 
     "year": "1979"
   }, 

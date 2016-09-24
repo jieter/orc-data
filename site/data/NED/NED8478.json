@@ -5,12 +5,13 @@
       1.3011, 
       1.4921
     ], 
-    "gph": 588.8, 
     "triple_inshore": [
       0.7526, 
       1.0332, 
       1.2348
-    ]
+    ], 
+    "gph": 588.8, 
+    "osn": 571.6
   }, 
   "sailnumber": "NED8478", 
   "name": "Josephine", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.8, 
       "draft": 1.02, 
+      "wetted_surface": 44.2, 
       "main": 67.6, 
       "genoa": 43.9, 
       "displacement": 16152.0, 
-      "spinnaker_asym": 180.0
+      "spinnaker_asym": 180.0, 
+      "crew": 941.0
     }, 
     "year": "1993"
   }, 

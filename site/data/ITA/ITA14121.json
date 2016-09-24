@@ -5,12 +5,13 @@
       1.1881, 
       1.3344
     ], 
-    "gph": 642.4, 
     "triple_inshore": [
       0.7025, 
       0.9607, 
       1.1177
-    ]
+    ], 
+    "gph": 642.4, 
+    "osn": 625.1
   }, 
   "sailnumber": "ITA14121", 
   "name": "DAIBLU", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.9, 
       "loa": 10.65, 
       "draft": 2.14, 
+      "wetted_surface": 25.0, 
       "main": 34.0, 
       "genoa": 42.3, 
       "displacement": 5583.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "2001"
   }, 

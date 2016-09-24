@@ -5,12 +5,13 @@
       1.1689, 
       1.3145
     ], 
-    "gph": 652.0, 
     "triple_inshore": [
       0.6952, 
       0.9487, 
       1.1001
-    ]
+    ], 
+    "gph": 652.0, 
+    "osn": 633.9
   }, 
   "sailnumber": "GER41532", 
   "name": "SUKITA", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.8, 
       "loa": 9.24, 
       "draft": 1.92, 
+      "wetted_surface": 22.6, 
       "main": 30.8, 
       "genoa": 26.2, 
       "displacement": 4111.0, 
-      "spinnaker_asym": 84.0
+      "spinnaker_asym": 84.0, 
+      "crew": 480.0
     }, 
     "year": "2009"
   }, 

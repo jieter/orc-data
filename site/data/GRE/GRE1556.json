@@ -5,12 +5,13 @@
       1.1505, 
       1.3646
     ], 
-    "gph": 671.0, 
     "triple_inshore": [
       0.6383, 
       0.9063, 
       1.1267
-    ]
+    ], 
+    "gph": 671.0, 
+    "osn": 648.1
   }, 
   "sailnumber": "GRE1556", 
   "name": "MEDOUSA III", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.5, 
       "loa": 13.0, 
       "draft": 2.06, 
+      "wetted_surface": 38.1, 
       "main": 32.5, 
       "genoa": 52.0, 
       "displacement": 11171.0, 
-      "spinnaker_asym": 94.0
+      "spinnaker_asym": 94.0, 
+      "crew": 600.0
     }, 
     "year": "1992"
   }, 

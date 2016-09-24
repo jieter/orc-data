@@ -5,12 +5,13 @@
       1.0464, 
       1.1846
     ], 
-    "gph": 728.5, 
     "triple_inshore": [
       0.6247, 
       0.8486, 
       0.9969
-    ]
+    ], 
+    "gph": 728.5, 
+    "osn": 707.1
   }, 
   "sailnumber": "NED6662", 
   "name": "ELF", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.8, 
       "loa": 9.153, 
       "draft": 1.78, 
+      "wetted_surface": 19.8, 
       "main": 17.9, 
       "genoa": 30.8, 
       "displacement": 4023.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 475.0
     }, 
     "year": "1983"
   }, 

@@ -5,12 +5,13 @@
       1.1603, 
       1.3151
     ], 
-    "gph": 659.5, 
     "triple_inshore": [
       0.6761, 
       0.9325, 
       1.0938
-    ]
+    ], 
+    "gph": 659.5, 
+    "osn": 640.2
   }, 
   "sailnumber": "NOR11398", 
   "name": "Corax", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.1, 
       "loa": 10.34, 
       "draft": 1.95, 
+      "wetted_surface": 25.2, 
       "main": 33.2, 
       "genoa": 32.7, 
       "displacement": 5189.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 615.0
     }, 
     "year": "2003"
   }, 

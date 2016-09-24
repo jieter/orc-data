@@ -5,12 +5,13 @@
       1.1735, 
       1.3276
     ], 
-    "gph": 649.8, 
     "triple_inshore": [
       0.6971, 
       0.9514, 
       1.1198
-    ]
+    ], 
+    "gph": 649.8, 
+    "osn": 631.0
   }, 
   "sailnumber": "NOR11009", 
   "name": "VannaRi", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.2, 
       "loa": 10.41, 
       "draft": 2.18, 
+      "wetted_surface": 26.6, 
       "main": 30.2, 
       "genoa": 44.4, 
       "displacement": 6213.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 668.0
     }, 
     "year": "2003"
   }, 

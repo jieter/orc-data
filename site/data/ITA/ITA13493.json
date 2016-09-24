@@ -5,12 +5,13 @@
       1.0527, 
       1.174
     ], 
-    "gph": 717.3, 
     "triple_inshore": [
       0.6495, 
       0.8568, 
       0.9612
-    ]
+    ], 
+    "gph": 717.3, 
+    "osn": 700.6
   }, 
   "sailnumber": "ITA13493", 
   "name": "MELAGODO", 
@@ -25,10 +26,12 @@
       "spinnaker": 35.1, 
       "loa": 7.425, 
       "draft": 1.51, 
+      "wetted_surface": 10.6, 
       "main": 16.7, 
       "genoa": 16.4, 
       "displacement": 1071.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 310.0
     }, 
     "year": "1994"
   }, 

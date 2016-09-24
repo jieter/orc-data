@@ -5,12 +5,13 @@
       0.9299, 
       1.079
     ], 
-    "gph": 826.3, 
     "triple_inshore": [
       0.5316, 
       0.7467, 
       0.901
-    ]
+    ], 
+    "gph": 826.3, 
+    "osn": 799.3
   }, 
   "sailnumber": "NED8610", 
   "name": "Reade Wikel", 
@@ -25,10 +26,12 @@
       "spinnaker": 30.6, 
       "loa": 7.224, 
       "draft": 1.44, 
+      "wetted_surface": 12.9, 
       "main": 11.9, 
       "genoa": 12.1, 
       "displacement": 1550.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 240.0
     }, 
     "year": "1968"
   }, 

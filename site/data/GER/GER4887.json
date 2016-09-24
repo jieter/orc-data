@@ -5,12 +5,13 @@
       1.1685, 
       1.3066
     ], 
-    "gph": 652.4, 
     "triple_inshore": [
       0.6927, 
       0.9429, 
       1.0945
-    ]
+    ], 
+    "gph": 652.4, 
+    "osn": 636.1
   }, 
   "sailnumber": "GER4887", 
   "name": "TINKERBELL", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.5, 
       "loa": 10.615, 
       "draft": 1.89, 
+      "wetted_surface": 25.8, 
       "main": 34.5, 
       "genoa": 39.0, 
       "displacement": 5724.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1994"
   }, 

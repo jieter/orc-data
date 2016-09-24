@@ -5,12 +5,13 @@
       1.1891, 
       1.3723
     ], 
-    "gph": 644.8, 
     "triple_inshore": [
       0.6847, 
       0.959, 
       1.1372
-    ]
+    ], 
+    "gph": 644.8, 
+    "osn": 623.6
   }, 
   "sailnumber": "FRA35815", 
   "name": "MOANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.3, 
       "loa": 9.79, 
       "draft": 1.95, 
+      "wetted_surface": 24.3, 
       "main": 30.2, 
       "genoa": 25.9, 
       "displacement": 4005.0, 
-      "spinnaker_asym": 85.0
+      "spinnaker_asym": 85.0, 
+      "crew": 598.0
     }, 
     "year": "2007"
   }, 

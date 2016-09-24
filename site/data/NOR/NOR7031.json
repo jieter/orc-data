@@ -5,12 +5,13 @@
       1.107, 
       1.2501
     ], 
-    "gph": 689.4, 
     "triple_inshore": [
       0.6559, 
       0.899, 
       1.0525
-    ]
+    ], 
+    "gph": 689.4, 
+    "osn": 669.5
   }, 
   "sailnumber": "NOR7031", 
   "name": "Brigten", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.8, 
       "loa": 9.85, 
       "draft": 1.75, 
+      "wetted_surface": 21.4, 
       "main": 26.8, 
       "genoa": 28.7, 
       "displacement": 4382.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "1978"
   }, 

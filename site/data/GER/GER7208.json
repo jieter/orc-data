@@ -5,12 +5,13 @@
       1.171, 
       1.3511
     ], 
-    "gph": 654.2, 
     "triple_inshore": [
       0.6736, 
       0.9449, 
       1.1116
-    ]
+    ], 
+    "gph": 654.2, 
+    "osn": 634.2
   }, 
   "sailnumber": "GER7208", 
   "name": "SLOW GO", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.5, 
       "loa": 9.496, 
       "draft": 1.79, 
+      "wetted_surface": 19.4, 
       "main": 27.1, 
       "genoa": 23.3, 
       "displacement": 2435.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 556.0
     }, 
     "year": "1989"
   }, 

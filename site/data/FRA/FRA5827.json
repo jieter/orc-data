@@ -5,12 +5,13 @@
       1.0588, 
       1.1961
     ], 
-    "gph": 721.8, 
     "triple_inshore": [
       0.6246, 
       0.8584, 
       1.0021
-    ]
+    ], 
+    "gph": 721.8, 
+    "osn": 700.8
   }, 
   "sailnumber": "FRA5827", 
   "name": "TROIS TRISTES TIGRES", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.0, 
       "loa": 8.942, 
       "draft": 1.82, 
+      "wetted_surface": 17.3, 
       "main": 15.3, 
       "genoa": 28.2, 
       "displacement": 2802.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 445.0
     }, 
     "year": "1973"
   }, 

@@ -5,12 +5,13 @@
       1.2301, 
       1.4273
     ], 
-    "gph": 625.7, 
     "triple_inshore": [
       0.6868, 
       0.9639, 
       1.1593
-    ]
+    ], 
+    "gph": 625.7, 
+    "osn": 608.5
   }, 
   "sailnumber": "GRE1226", 
   "name": "CALYPSO", 
@@ -25,10 +26,12 @@
       "spinnaker": 119.0, 
       "loa": 13.642, 
       "draft": 1.6, 
+      "wetted_surface": 37.7, 
       "main": 44.1, 
       "genoa": 56.6, 
       "displacement": 9659.0, 
-      "spinnaker_asym": 106.0
+      "spinnaker_asym": 106.0, 
+      "crew": 862.0
     }, 
     "year": "2002"
   }, 

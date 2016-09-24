@@ -5,12 +5,13 @@
       1.3067, 
       1.4889
     ], 
-    "gph": 588.1, 
     "triple_inshore": [
       0.7474, 
       1.045, 
       1.2375
-    ]
+    ], 
+    "gph": 588.1, 
+    "osn": 570.6
   }, 
   "sailnumber": "ITA10311", 
   "name": "DIECITRENTUNO", 
@@ -25,10 +26,12 @@
       "spinnaker": 120.0, 
       "loa": 13.352, 
       "draft": 2.62, 
+      "wetted_surface": 37.8, 
       "main": 61.5, 
       "genoa": 44.7, 
       "displacement": 9328.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "2003"
   }, 

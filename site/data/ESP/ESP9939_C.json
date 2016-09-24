@@ -5,12 +5,13 @@
       0.9025, 
       1.0184
     ], 
-    "gph": 842.6, 
     "triple_inshore": [
       0.542, 
       0.7444, 
       0.8503
-    ]
+    ], 
+    "gph": 842.6, 
+    "osn": 816.3
   }, 
   "sailnumber": "ESP9939_C", 
   "name": "CURRIBAMBI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 5.49, 
       "draft": 1.1, 
+      "wetted_surface": 8.8, 
       "main": 11.4, 
       "genoa": 11.5, 
       "displacement": 792.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 250.0
     }, 
     "year": "1997"
   }, 

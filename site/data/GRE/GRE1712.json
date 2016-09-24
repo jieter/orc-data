@@ -5,12 +5,13 @@
       1.0609, 
       1.2447
     ], 
-    "gph": 727.4, 
     "triple_inshore": [
       0.5894, 
       0.8437, 
       1.0351
-    ]
+    ], 
+    "gph": 727.4, 
+    "osn": 703.4
   }, 
   "sailnumber": "GRE1712", 
   "name": "CETERIS PARIBUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.298, 
       "draft": 1.86, 
+      "wetted_surface": 28.9, 
       "main": 28.6, 
       "genoa": 42.0, 
       "displacement": 6940.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1974"
   }, 

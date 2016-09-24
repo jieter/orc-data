@@ -5,12 +5,13 @@
       1.1553, 
       1.263
     ], 
-    "gph": 651.8, 
     "triple_inshore": [
       0.7161, 
       0.9371, 
       1.0622
-    ]
+    ], 
+    "gph": 651.8, 
+    "osn": 641.0
   }, 
   "sailnumber": "NOR9825", 
   "name": "Zephyr", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.3, 
       "loa": 10.5, 
       "draft": 1.67, 
+      "wetted_surface": 21.6, 
       "main": 36.5, 
       "genoa": 32.8, 
       "displacement": 4216.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 603.0
     }, 
     "year": "1984"
   }, 

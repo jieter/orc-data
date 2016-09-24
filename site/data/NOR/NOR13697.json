@@ -5,12 +5,13 @@
       1.3045, 
       1.4726
     ], 
-    "gph": 585.2, 
     "triple_inshore": [
       0.7698, 
       1.0534, 
       1.2291
-    ]
+    ], 
+    "gph": 585.2, 
+    "osn": 569.0
   }, 
   "sailnumber": "NOR13697", 
   "name": "Flash V", 
@@ -25,10 +26,12 @@
       "spinnaker": 132.9, 
       "loa": 12.24, 
       "draft": 2.49, 
+      "wetted_surface": 35.1, 
       "main": 55.8, 
       "genoa": 41.9, 
       "displacement": 8107.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 801.0
     }, 
     "year": "2009"
   }, 

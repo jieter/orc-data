@@ -5,12 +5,13 @@
       1.3416, 
       1.5116
     ], 
-    "gph": 567.3, 
     "triple_inshore": [
       0.8008, 
       1.0865, 
       1.2563
-    ]
+    ], 
+    "gph": 567.3, 
+    "osn": 552.3
   }, 
   "sailnumber": "NOR40", 
   "name": "Gottix", 
@@ -25,10 +26,12 @@
       "spinnaker": 129.3, 
       "loa": 12.35, 
       "draft": 2.49, 
+      "wetted_surface": 32.3, 
       "main": 54.9, 
       "genoa": 46.6, 
       "displacement": 6697.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 784.0
     }, 
     "year": "2008"
   }, 

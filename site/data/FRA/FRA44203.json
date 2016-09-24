@@ -5,12 +5,13 @@
       1.203, 
       1.3768
     ], 
-    "gph": 639.4, 
     "triple_inshore": [
       0.6805, 
       0.951, 
       1.1191
-    ]
+    ], 
+    "gph": 639.4, 
+    "osn": 621.3
   }, 
   "sailnumber": "FRA44203", 
   "name": "KEEP THE SPIRIT", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.0, 
       "loa": 11.03, 
       "draft": 1.91, 
+      "wetted_surface": 24.8, 
       "main": 31.8, 
       "genoa": 34.3, 
       "displacement": 3450.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 175.0
     }, 
     "year": "1988"
   }, 

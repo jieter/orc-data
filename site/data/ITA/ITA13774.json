@@ -5,12 +5,13 @@
       1.2702, 
       1.4321
     ], 
-    "gph": 600.6, 
     "triple_inshore": [
       0.7493, 
       1.0238, 
       1.1948
-    ]
+    ], 
+    "gph": 600.6, 
+    "osn": 584.7
   }, 
   "sailnumber": "ITA13774", 
   "name": "CREATURA", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.5, 
       "loa": 11.924, 
       "draft": 2.37, 
+      "wetted_surface": 31.3, 
       "main": 47.2, 
       "genoa": 50.9, 
       "displacement": 7077.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 753.0
     }, 
     "year": "1997"
   }, 

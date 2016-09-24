@@ -5,12 +5,13 @@
       1.2825, 
       1.4457
     ], 
-    "gph": 594.2, 
     "triple_inshore": [
       0.7591, 
       1.0361, 
       1.2079
-    ]
+    ], 
+    "gph": 594.2, 
+    "osn": 578.7
   }, 
   "sailnumber": "NOR9861", 
   "name": "FIRSTLADY", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.2, 
       "loa": 11.99, 
       "draft": 2.41, 
+      "wetted_surface": 31.1, 
       "main": 49.1, 
       "genoa": 53.1, 
       "displacement": 6983.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 732.0
     }, 
     "year": "1997"
   }, 

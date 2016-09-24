@@ -5,12 +5,13 @@
       1.1881, 
       1.3317
     ], 
-    "gph": 636.8, 
     "triple_inshore": [
       0.7286, 
       0.9643, 
       1.0908
-    ]
+    ], 
+    "gph": 636.8, 
+    "osn": 621.3
   }, 
   "sailnumber": "NOR11606", 
   "name": "Jacetti", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.12, 
       "draft": 1.91, 
+      "wetted_surface": 18.9, 
       "main": 31.4, 
       "genoa": 24.1, 
       "displacement": 2631.0, 
-      "spinnaker_asym": 76.0
+      "spinnaker_asym": 76.0, 
+      "crew": 507.0
     }, 
     "year": "2005"
   }, 

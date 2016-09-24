@@ -5,12 +5,13 @@
       1.1328, 
       1.2838
     ], 
-    "gph": 676.9, 
     "triple_inshore": [
       0.6521, 
       0.9011, 
       1.0554
-    ]
+    ], 
+    "gph": 676.9, 
+    "osn": 657.7
   }, 
   "sailnumber": "PER343", 
   "name": "CALMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.7, 
       "loa": 10.38, 
       "draft": 1.33, 
+      "wetted_surface": 26.3, 
       "main": 29.9, 
       "genoa": 33.1, 
       "displacement": 5458.0, 
-      "spinnaker_asym": 80.0
+      "spinnaker_asym": 80.0, 
+      "crew": 600.0
     }, 
     "year": "2004"
   }, 

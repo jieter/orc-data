@@ -5,12 +5,13 @@
       1.2792, 
       1.4466
     ], 
-    "gph": 595.1, 
     "triple_inshore": [
       0.7479, 
       1.0172, 
       1.1885
-    ]
+    ], 
+    "gph": 595.1, 
+    "osn": 582.5
   }, 
   "sailnumber": "NOR15392", 
   "name": "Grayce", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 1.96, 
+      "wetted_surface": 35.0, 
       "main": 49.8, 
       "genoa": 29.4, 
       "displacement": 8023.0, 
-      "spinnaker_asym": 125.0
+      "spinnaker_asym": 125.0, 
+      "crew": 784.0
     }, 
     "year": "2012"
   }, 

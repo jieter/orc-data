@@ -5,12 +5,13 @@
       1.3139, 
       1.5163
     ], 
-    "gph": 584.9, 
     "triple_inshore": [
       0.7466, 
       1.0484, 
       1.2621
-    ]
+    ], 
+    "gph": 584.9, 
+    "osn": 567.3
   }, 
   "sailnumber": "NED7519", 
   "name": "Stella Maris", 
@@ -25,10 +26,12 @@
       "spinnaker": 134.2, 
       "loa": 13.61, 
       "draft": 2.57, 
+      "wetted_surface": 41.8, 
       "main": 52.3, 
       "genoa": 63.8, 
       "displacement": 10870.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 814.0
     }, 
     "year": "2004"
   }, 

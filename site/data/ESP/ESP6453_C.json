@@ -5,12 +5,13 @@
       1.211, 
       1.3632
     ], 
-    "gph": 629.3, 
     "triple_inshore": [
       0.7171, 
       0.9759, 
       1.1374
-    ]
+    ], 
+    "gph": 629.3, 
+    "osn": 613.2
   }, 
   "sailnumber": "ESP6453_C", 
   "name": "CHIPI II", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.1, 
       "loa": 11.04, 
       "draft": 2.06, 
+      "wetted_surface": 27.0, 
       "main": 38.1, 
       "genoa": 37.6, 
       "displacement": 5692.0, 
-      "spinnaker_asym": 86.0
+      "spinnaker_asym": 86.0, 
+      "crew": 320.0
     }, 
     "year": "2002"
   }, 

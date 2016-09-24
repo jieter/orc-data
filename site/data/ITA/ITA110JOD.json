@@ -5,12 +5,13 @@
       1.2232, 
       1.3917
     ], 
-    "gph": 623.9, 
     "triple_inshore": [
       0.7165, 
       0.9854, 
       1.1507
-    ]
+    ], 
+    "gph": 623.9, 
+    "osn": 607.5
   }, 
   "sailnumber": "ITA110JOD", 
   "name": "SHU", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.5, 
       "loa": 10.632, 
       "draft": 2.01, 
+      "wetted_surface": 25.0, 
       "main": 42.8, 
       "genoa": 31.8, 
       "displacement": 4250.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1992"
   }, 

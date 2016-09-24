@@ -5,12 +5,13 @@
       1.2294, 
       1.3866
     ], 
-    "gph": 619.4, 
     "triple_inshore": [
       0.734, 
       1.002, 
       1.166
-    ]
+    ], 
+    "gph": 619.4, 
+    "osn": 602.3
   }, 
   "sailnumber": "NED7604", 
   "name": "FunX", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.5, 
       "loa": 10.72, 
       "draft": 2.24, 
+      "wetted_surface": 26.8, 
       "main": 39.5, 
       "genoa": 37.7, 
       "displacement": 5286.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 605.0
     }, 
     "year": "1993"
   }, 

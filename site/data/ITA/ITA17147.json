@@ -5,12 +5,13 @@
       1.2336, 
       1.3928
     ], 
-    "gph": 619.6, 
     "triple_inshore": [
       0.7248, 
       0.9909, 
       1.15
-    ]
+    ], 
+    "gph": 619.6, 
+    "osn": 601.7
   }, 
   "sailnumber": "ITA17147", 
   "name": "NO STRESS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.5, 
       "draft": 2.15, 
+      "wetted_surface": 26.8, 
       "main": 37.2, 
       "genoa": 32.2, 
       "displacement": 5350.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 500.0
     }, 
     "year": "2001"
   }, 

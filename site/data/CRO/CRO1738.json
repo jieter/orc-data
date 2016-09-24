@@ -5,12 +5,13 @@
       1.3202, 
       1.5209
     ], 
-    "gph": 582.8, 
     "triple_inshore": [
       0.7496, 
       1.053, 
       1.2605
-    ]
+    ], 
+    "gph": 582.8, 
+    "osn": 564.5
   }, 
   "sailnumber": "CRO1738", 
   "name": "Ariadne", 
@@ -25,10 +26,12 @@
       "spinnaker": 149.5, 
       "loa": 13.68, 
       "draft": 2.39, 
+      "wetted_surface": 42.2, 
       "main": 58.4, 
       "genoa": 47.9, 
       "displacement": 10800.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 894.0
     }, 
     "year": "2007"
   }, 

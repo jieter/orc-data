@@ -5,12 +5,13 @@
       1.2128, 
       1.3644
     ], 
-    "gph": 629.4, 
     "triple_inshore": [
       0.7172, 
       0.9692, 
       1.1298
-    ]
+    ], 
+    "gph": 629.4, 
+    "osn": 612.1
   }, 
   "sailnumber": "NOR8915", 
   "name": "Capriccio", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.5, 
       "draft": 2.12, 
+      "wetted_surface": 33.5, 
       "main": 42.9, 
       "genoa": 41.5, 
       "displacement": 8771.0, 
-      "spinnaker_asym": 113.0
+      "spinnaker_asym": 113.0, 
+      "crew": 727.0
     }, 
     "year": "1987"
   }, 

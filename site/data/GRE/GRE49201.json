@@ -5,12 +5,13 @@
       1.0795, 
       1.2276
     ], 
-    "gph": 708.8, 
     "triple_inshore": [
       0.6337, 
       0.8709, 
       1.0306
-    ]
+    ], 
+    "gph": 708.8, 
+    "osn": 687.0
   }, 
   "sailnumber": "GRE49201", 
   "name": "ARGONAFTIS II", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.6, 
       "loa": 9.785, 
       "draft": 1.83, 
+      "wetted_surface": 22.1, 
       "main": 22.5, 
       "genoa": 29.3, 
       "displacement": 4595.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1981"
   }, 

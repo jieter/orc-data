@@ -5,12 +5,13 @@
       1.1739, 
       1.3318
     ], 
-    "gph": 649.7, 
     "triple_inshore": [
       0.6973, 
       0.9531, 
       1.1259
-    ]
+    ], 
+    "gph": 649.7, 
+    "osn": 630.1
   }, 
   "sailnumber": "NOR11731", 
   "name": "NONAME", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.9, 
       "loa": 10.43, 
       "draft": 2.18, 
+      "wetted_surface": 26.6, 
       "main": 30.7, 
       "genoa": 38.8, 
       "displacement": 6213.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 668.0
     }, 
     "year": "2003"
   }, 

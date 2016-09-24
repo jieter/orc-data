@@ -5,12 +5,13 @@
       1.1768, 
       1.3299
     ], 
-    "gph": 649.1, 
     "triple_inshore": [
       0.6933, 
       0.9506, 
       1.1121
-    ]
+    ], 
+    "gph": 649.1, 
+    "osn": 630.6
   }, 
   "sailnumber": "ESP7431", 
   "name": "JILORIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.5, 
       "loa": 10.3, 
       "draft": 1.96, 
+      "wetted_surface": 25.6, 
       "main": 34.7, 
       "genoa": 35.5, 
       "displacement": 5417.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 580.0
     }, 
     "year": "2003"
   }, 

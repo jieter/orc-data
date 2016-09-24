@@ -5,12 +5,13 @@
       0.9093, 
       1.0398
     ], 
-    "gph": 842.7, 
     "triple_inshore": [
       0.5292, 
       0.7377, 
       0.8749
-    ]
+    ], 
+    "gph": 842.7, 
+    "osn": 815.3
   }, 
   "sailnumber": "NOR417", 
   "name": "Fryd", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.35, 
       "draft": 1.22, 
+      "wetted_surface": 12.3, 
       "main": 12.0, 
       "genoa": 15.8, 
       "displacement": 1827.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 314.0
     }, 
     "year": "1976"
   }, 

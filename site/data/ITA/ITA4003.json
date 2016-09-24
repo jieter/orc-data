@@ -5,12 +5,13 @@
       1.4293, 
       1.6327
     ], 
-    "gph": 528.8, 
     "triple_inshore": [
       0.8711, 
       1.1557, 
       1.3352
-    ]
+    ], 
+    "gph": 528.8, 
+    "osn": 515.2
   }, 
   "sailnumber": "ITA4003", 
   "name": "SEMPREAVANTI", 
@@ -25,10 +26,12 @@
       "spinnaker": 155.7, 
       "loa": 12.411, 
       "draft": 2.59, 
+      "wetted_surface": 29.5, 
       "main": 64.1, 
       "genoa": 39.7, 
       "displacement": 4864.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 810.0
     }, 
     "year": "1997"
   }, 

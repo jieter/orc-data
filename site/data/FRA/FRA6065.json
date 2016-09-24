@@ -5,12 +5,13 @@
       1.1749, 
       1.3134
     ], 
-    "gph": 645.8, 
     "triple_inshore": [
       0.7103, 
       0.9407, 
       1.0963
-    ]
+    ], 
+    "gph": 645.8, 
+    "osn": 631.1
   }, 
   "sailnumber": "FRA6065", 
   "name": "SAGITTARIUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 127.2, 
       "loa": 12.44, 
       "draft": 2.1, 
+      "wetted_surface": 32.7, 
       "main": 36.4, 
       "genoa": 72.7, 
       "displacement": 10337.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1971"
   }, 

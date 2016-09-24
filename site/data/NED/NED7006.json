@@ -5,12 +5,13 @@
       1.2304, 
       1.3775
     ], 
-    "gph": 618.8, 
     "triple_inshore": [
       0.7357, 
       0.9935, 
       1.1406
-    ]
+    ], 
+    "gph": 618.8, 
+    "osn": 602.2
   }, 
   "sailnumber": "NED7006", 
   "name": "Maatskip J", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.757, 
       "draft": 2.14, 
+      "wetted_surface": 26.4, 
       "main": 36.6, 
       "genoa": 37.5, 
       "displacement": 5198.0, 
-      "spinnaker_asym": 107.0
+      "spinnaker_asym": 107.0, 
+      "crew": 644.0
     }, 
     "year": "2001"
   }, 

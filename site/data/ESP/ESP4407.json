@@ -5,12 +5,13 @@
       1.0809, 
       1.2194
     ], 
-    "gph": 706.9, 
     "triple_inshore": [
       0.6382, 
       0.8699, 
       1.0183
-    ]
+    ], 
+    "gph": 706.9, 
+    "osn": 686.6
   }, 
   "sailnumber": "ESP4407", 
   "name": "FETCH", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.5, 
       "loa": 9.906, 
       "draft": 1.84, 
+      "wetted_surface": 22.3, 
       "main": 23.4, 
       "genoa": 31.8, 
       "displacement": 4846.0, 
-      "spinnaker_asym": 64.0
+      "spinnaker_asym": 64.0, 
+      "crew": 400.0
     }, 
     "year": "1985"
   }, 

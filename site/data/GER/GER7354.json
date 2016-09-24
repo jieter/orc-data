@@ -5,12 +5,13 @@
       1.2234, 
       1.3722
     ], 
-    "gph": 623.7, 
     "triple_inshore": [
       0.723, 
       0.9851, 
       1.1457
-    ]
+    ], 
+    "gph": 623.7, 
+    "osn": 607.4
   }, 
   "sailnumber": "GER7354", 
   "name": "CRISTINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.2, 
       "loa": 11.345, 
       "draft": 2.03, 
+      "wetted_surface": 29.6, 
       "main": 44.0, 
       "genoa": 39.2, 
       "displacement": 6880.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2004"
   }, 

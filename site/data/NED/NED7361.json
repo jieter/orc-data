@@ -5,12 +5,13 @@
       1.2929, 
       1.4662
     ], 
-    "gph": 591.5, 
     "triple_inshore": [
       0.755, 
       1.0385, 
       1.2232
-    ]
+    ], 
+    "gph": 591.5, 
+    "osn": 575.1
   }, 
   "sailnumber": "NED7361", 
   "name": "Bixmile", 
@@ -25,10 +26,12 @@
       "spinnaker": 120.3, 
       "loa": 12.903, 
       "draft": 2.2, 
+      "wetted_surface": 35.6, 
       "main": 54.6, 
       "genoa": 42.3, 
       "displacement": 8968.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2003"
   }, 

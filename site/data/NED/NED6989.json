@@ -5,12 +5,13 @@
       1.1257, 
       1.2584
     ], 
-    "gph": 676.2, 
     "triple_inshore": [
       0.6746, 
       0.9138, 
       1.0589
-    ]
+    ], 
+    "gph": 676.2, 
+    "osn": 658.9
   }, 
   "sailnumber": "NED6989", 
   "name": "ADDY", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.2, 
       "loa": 10.25, 
       "draft": 2.0, 
+      "wetted_surface": 24.5, 
       "main": 33.2, 
       "genoa": 36.8, 
       "displacement": 5306.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 506.0
     }, 
     "year": "2000"
   }, 

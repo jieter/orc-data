@@ -5,12 +5,13 @@
       1.2591, 
       1.4148
     ], 
-    "gph": 604.0, 
     "triple_inshore": [
       0.7539, 
       1.0218, 
       1.1804
-    ]
+    ], 
+    "gph": 604.0, 
+    "osn": 588.2
   }, 
   "sailnumber": "ISR1312", 
   "name": "Blue Wave", 
@@ -25,10 +26,12 @@
       "spinnaker": 114.8, 
       "loa": 11.36, 
       "draft": 2.09, 
+      "wetted_surface": 27.3, 
       "main": 39.0, 
       "genoa": 50.1, 
       "displacement": 5314.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 660.0
     }, 
     "year": "1992"
   }, 

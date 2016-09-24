@@ -5,12 +5,13 @@
       1.4693, 
       1.7041
     ], 
-    "gph": 517.1, 
     "triple_inshore": [
       0.8737, 
       1.1791, 
       1.376
-    ]
+    ], 
+    "gph": 517.1, 
+    "osn": 502.2
   }, 
   "sailnumber": "KOR4701", 
   "name": "VIKIRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.39, 
       "draft": 2.6, 
+      "wetted_surface": 30.4, 
       "main": 55.4, 
       "genoa": 40.6, 
       "displacement": 4856.0, 
-      "spinnaker_asym": 169.0
+      "spinnaker_asym": 169.0, 
+      "crew": 850.0
     }, 
     "year": "2011"
   }, 

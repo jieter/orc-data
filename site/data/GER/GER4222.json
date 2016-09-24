@@ -5,12 +5,13 @@
       1.2902, 
       1.5207
     ], 
-    "gph": 596.2, 
     "triple_inshore": [
       0.7269, 
       1.0137, 
       1.2501
-    ]
+    ], 
+    "gph": 596.2, 
+    "osn": 577.5
   }, 
   "sailnumber": "GER4222", 
   "name": "HAPPY HOUR", 
@@ -25,10 +26,12 @@
       "spinnaker": 209.2, 
       "loa": 17.486, 
       "draft": 2.3, 
+      "wetted_surface": 59.5, 
       "main": 66.9, 
       "genoa": 72.2, 
       "displacement": 25829.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1209.0
     }, 
     "year": "1997"
   }, 

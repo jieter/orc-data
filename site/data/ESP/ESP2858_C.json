@@ -5,12 +5,13 @@
       1.1013, 
       1.2388
     ], 
-    "gph": 693.1, 
     "triple_inshore": [
       0.65, 
       0.8876, 
       1.0337
-    ]
+    ], 
+    "gph": 693.1, 
+    "osn": 674.8
   }, 
   "sailnumber": "ESP2858_C", 
   "name": "BOXO III", 
@@ -25,10 +26,12 @@
       "spinnaker": 51.2, 
       "loa": 9.446, 
       "draft": 1.71, 
+      "wetted_surface": 21.1, 
       "main": 30.5, 
       "genoa": 26.2, 
       "displacement": 4306.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1987"
   }, 

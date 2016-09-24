@@ -5,12 +5,13 @@
       1.2677, 
       1.4901
     ], 
-    "gph": 597.1, 
     "triple_inshore": [
       0.7624, 
       1.0167, 
       1.1931
-    ]
+    ], 
+    "gph": 597.1, 
+    "osn": 580.3
   }, 
   "sailnumber": "ITA001", 
   "name": "UJI UJI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.618, 
       "draft": 1.95, 
+      "wetted_surface": 14.2, 
       "main": 27.8, 
       "genoa": 16.2, 
       "displacement": 1304.0, 
-      "spinnaker_asym": 62.0
+      "spinnaker_asym": 62.0, 
+      "crew": 460.0
     }, 
     "year": "1996"
   }, 

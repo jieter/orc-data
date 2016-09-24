@@ -5,12 +5,13 @@
       1.0621, 
       1.1804
     ], 
-    "gph": 715.4, 
     "triple_inshore": [
       0.6386, 
       0.8454, 
       0.9802
-    ]
+    ], 
+    "gph": 715.4, 
+    "osn": 700.4
   }, 
   "sailnumber": "ESP8775_C", 
   "name": "NUN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.99, 
       "draft": 1.53, 
+      "wetted_surface": 20.1, 
       "main": 24.8, 
       "genoa": 30.0, 
       "displacement": 4207.0, 
-      "spinnaker_asym": 57.0
+      "spinnaker_asym": 57.0, 
+      "crew": 240.0
     }, 
     "year": "2008"
   }, 

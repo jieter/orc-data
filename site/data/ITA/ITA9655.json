@@ -5,12 +5,13 @@
       1.1575, 
       1.2918
     ], 
-    "gph": 656.2, 
     "triple_inshore": [
       0.6991, 
       0.9363, 
       1.0854
-    ]
+    ], 
+    "gph": 656.2, 
+    "osn": 640.2
   }, 
   "sailnumber": "ITA9655", 
   "name": "SOLARIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.2, 
       "loa": 11.11, 
       "draft": 2.03, 
+      "wetted_surface": 28.0, 
       "main": 29.3, 
       "genoa": 57.4, 
       "displacement": 6855.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "1982"
   }, 

@@ -5,12 +5,13 @@
       0.9949, 
       1.1418
     ], 
-    "gph": 771.7, 
     "triple_inshore": [
       0.5722, 
       0.7952, 
       0.9517
-    ]
+    ], 
+    "gph": 771.7, 
+    "osn": 748.1
   }, 
   "sailnumber": "NED8665", 
   "name": "Nirvana", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.86, 
       "draft": 1.55, 
+      "wetted_surface": 15.1, 
       "main": 19.7, 
       "genoa": 10.7, 
       "displacement": 2300.0, 
-      "spinnaker_asym": 32.0
+      "spinnaker_asym": 32.0, 
+      "crew": 409.0
     }, 
     "year": "1995"
   }, 

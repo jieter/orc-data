@@ -5,12 +5,13 @@
       1.3142, 
       1.5358
     ], 
-    "gph": 588.0, 
     "triple_inshore": [
       0.7278, 
       1.0333, 
       1.251
-    ]
+    ], 
+    "gph": 588.0, 
+    "osn": 569.7
   }, 
   "sailnumber": "ITA1956", 
   "name": "ONDEROSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.915, 
       "draft": 2.32, 
+      "wetted_surface": 46.3, 
       "main": 59.4, 
       "genoa": 49.9, 
       "displacement": 12897.0, 
-      "spinnaker_asym": 163.0
+      "spinnaker_asym": 163.0, 
+      "crew": 1036.0
     }, 
     "year": "2004"
   }, 

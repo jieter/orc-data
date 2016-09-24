@@ -5,12 +5,13 @@
       1.2544, 
       1.4178
     ], 
-    "gph": 608.9, 
     "triple_inshore": [
       0.7356, 
       0.994, 
       1.1683
-    ]
+    ], 
+    "gph": 608.9, 
+    "osn": 593.2
   }, 
   "sailnumber": "JPN6716", 
   "name": "Lady Kanon V", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.5, 
       "draft": 2.1, 
+      "wetted_surface": 42.2, 
       "main": 55.1, 
       "genoa": 59.0, 
       "displacement": 13949.0, 
-      "spinnaker_asym": 148.0
+      "spinnaker_asym": 148.0, 
+      "crew": 931.0
     }, 
     "year": "2009"
   }, 

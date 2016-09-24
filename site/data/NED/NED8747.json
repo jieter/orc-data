@@ -5,12 +5,13 @@
       1.1718, 
       1.3234
     ], 
-    "gph": 648.8, 
     "triple_inshore": [
       0.7042, 
       0.9548, 
       1.1009
-    ]
+    ], 
+    "gph": 648.8, 
+    "osn": 631.0
   }, 
   "sailnumber": "NED8747", 
   "name": "Blauwe Westen", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.2, 
       "loa": 8.959, 
       "draft": 1.79, 
+      "wetted_surface": 20.5, 
       "main": 27.6, 
       "genoa": 28.8, 
       "displacement": 3050.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 568.0
     }, 
     "year": "1994"
   }, 

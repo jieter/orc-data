@@ -5,12 +5,13 @@
       1.3826, 
       1.5752
     ], 
-    "gph": 553.4, 
     "triple_inshore": [
       0.7922, 
       1.0962, 
       1.2997
-    ]
+    ], 
+    "gph": 553.4, 
+    "osn": 540.4
   }, 
   "sailnumber": "EST599", 
   "name": "PEGASUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 195.3, 
       "loa": 15.0, 
       "draft": 2.42, 
+      "wetted_surface": 49.0, 
       "main": 71.5, 
       "genoa": 74.8, 
       "displacement": 14548.0, 
-      "spinnaker_asym": 183.0
+      "spinnaker_asym": 183.0, 
+      "crew": 950.0
     }, 
     "year": "2006"
   }, 

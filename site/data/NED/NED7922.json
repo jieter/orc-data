@@ -5,12 +5,13 @@
       1.195, 
       1.3456
     ], 
-    "gph": 637.8, 
     "triple_inshore": [
       0.7091, 
       0.9612, 
       1.1184
-    ]
+    ], 
+    "gph": 637.8, 
+    "osn": 620.7
   }, 
   "sailnumber": "NED7922", 
   "name": "Vixen", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.36, 
       "draft": 1.92, 
+      "wetted_surface": 25.8, 
       "main": 39.0, 
       "genoa": 26.9, 
       "displacement": 5497.0, 
-      "spinnaker_asym": 87.0
+      "spinnaker_asym": 87.0, 
+      "crew": 633.0
     }, 
     "year": "2007"
   }, 

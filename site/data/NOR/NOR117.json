@@ -5,12 +5,13 @@
       1.279, 
       1.4837
     ], 
-    "gph": 594.5, 
     "triple_inshore": [
       0.7582, 
       1.0262, 
       1.2041
-    ]
+    ], 
+    "gph": 594.5, 
+    "osn": 577.7
   }, 
   "sailnumber": "NOR117", 
   "name": "NN", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.7, 
       "loa": 10.3, 
       "draft": 1.71, 
+      "wetted_surface": 15.8, 
       "main": 29.7, 
       "genoa": 13.2, 
       "displacement": 1669.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 498.0
     }, 
     "year": "1972"
   }, 

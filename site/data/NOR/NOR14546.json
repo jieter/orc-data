@@ -5,12 +5,13 @@
       1.1578, 
       1.3309
     ], 
-    "gph": 662.9, 
     "triple_inshore": [
       0.6659, 
       0.9194, 
       1.0962
-    ]
+    ], 
+    "gph": 662.9, 
+    "osn": 642.6
   }, 
   "sailnumber": "NOR14546", 
   "name": "Julie", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.48, 
       "draft": 1.87, 
+      "wetted_surface": 28.5, 
       "main": 32.7, 
       "genoa": 31.6, 
       "displacement": 6338.0, 
-      "spinnaker_asym": 76.0
+      "spinnaker_asym": 76.0, 
+      "crew": 673.0
     }, 
     "year": "2009"
   }, 

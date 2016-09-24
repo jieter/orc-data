@@ -5,12 +5,13 @@
       1.2072, 
       1.3788
     ], 
-    "gph": 632.0, 
     "triple_inshore": [
       0.7146, 
       0.985, 
       1.1484
-    ]
+    ], 
+    "gph": 632.0, 
+    "osn": 612.2
   }, 
   "sailnumber": "ESP9731", 
   "name": "SOMEWHERITO", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.8, 
       "loa": 9.55, 
       "draft": 1.98, 
+      "wetted_surface": 20.0, 
       "main": 29.5, 
       "genoa": 23.5, 
       "displacement": 3244.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 510.0
     }, 
     "year": "2009"
   }, 

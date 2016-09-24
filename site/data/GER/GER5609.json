@@ -5,12 +5,13 @@
       1.4431, 
       1.6389
     ], 
-    "gph": 527.2, 
     "triple_inshore": [
       0.8579, 
       1.165, 
       1.3509
-    ]
+    ], 
+    "gph": 527.2, 
+    "osn": 513.3
   }, 
   "sailnumber": "GER5609", 
   "name": "TUTIMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 182.5, 
       "loa": 14.095, 
       "draft": 2.9, 
+      "wetted_surface": 39.7, 
       "main": 76.3, 
       "genoa": 55.2, 
       "displacement": 8848.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1003.0
     }, 
     "year": "2003"
   }, 

@@ -5,12 +5,13 @@
       1.3595, 
       1.527
     ], 
-    "gph": 560.6, 
     "triple_inshore": [
       0.8057, 
       1.0918, 
       1.2626
-    ]
+    ], 
+    "gph": 560.6, 
+    "osn": 546.7
   }, 
   "sailnumber": "BRA2165", 
   "name": "MAXIMUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 146.3, 
       "loa": 13.73, 
       "draft": 2.53, 
+      "wetted_surface": 37.7, 
       "main": 67.1, 
       "genoa": 48.9, 
       "displacement": 8802.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 955.0
     }, 
     "year": "2002"
   }, 

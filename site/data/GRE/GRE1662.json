@@ -5,12 +5,13 @@
       1.0156, 
       1.1924
     ], 
-    "gph": 761.5, 
     "triple_inshore": [
       0.5621, 
       0.7989, 
       0.9771
-    ]
+    ], 
+    "gph": 761.5, 
+    "osn": 735.1
   }, 
   "sailnumber": "GRE1662", 
   "name": "ARIADNI", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.0, 
       "loa": 10.1, 
       "draft": 1.62, 
+      "wetted_surface": 26.3, 
       "main": 23.6, 
       "genoa": 34.5, 
       "displacement": 5800.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1980"
   }, 

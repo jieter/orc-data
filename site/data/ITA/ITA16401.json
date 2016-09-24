@@ -5,12 +5,13 @@
       1.3896, 
       1.5735
     ], 
-    "gph": 552.5, 
     "triple_inshore": [
       0.7975, 
       1.1057, 
       1.2897
-    ]
+    ], 
+    "gph": 552.5, 
+    "osn": 537.3
   }, 
   "sailnumber": "ITA16401", 
   "name": "SKIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.99, 
       "draft": 2.78, 
+      "wetted_surface": 46.5, 
       "main": 67.6, 
       "genoa": 71.7, 
       "displacement": 12983.0, 
-      "spinnaker_asym": 187.0
+      "spinnaker_asym": 187.0, 
+      "crew": 958.0
     }, 
     "year": "2006"
   }, 

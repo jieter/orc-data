@@ -5,12 +5,13 @@
       1.1621, 
       1.3185
     ], 
-    "gph": 657.1, 
     "triple_inshore": [
       0.687, 
       0.9409, 
       1.1051
-    ]
+    ], 
+    "gph": 657.1, 
+    "osn": 637.5
   }, 
   "sailnumber": "ITA16816", 
   "name": "QUEMAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.2, 
       "loa": 10.025, 
       "draft": 1.92, 
+      "wetted_surface": 24.2, 
       "main": 31.2, 
       "genoa": 30.6, 
       "displacement": 5077.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 630.0
     }, 
     "year": "1998"
   }, 

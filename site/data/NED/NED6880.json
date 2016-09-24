@@ -5,12 +5,13 @@
       1.3213, 
       1.5913
     ], 
-    "gph": 586.9, 
     "triple_inshore": [
       0.709, 
       1.0354, 
       1.3047
-    ]
+    ], 
+    "gph": 586.9, 
+    "osn": 566.9
   }, 
   "sailnumber": "NED6880", 
   "name": "DIXBAY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 22.3, 
       "draft": 6.0, 
+      "wetted_surface": 81.2, 
       "main": 108.1, 
       "genoa": 127.9, 
       "displacement": 37358.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1231.0
     }, 
     "year": "2002"
   }, 

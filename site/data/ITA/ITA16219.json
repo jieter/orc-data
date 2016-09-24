@@ -5,12 +5,13 @@
       1.1423, 
       1.3019
     ], 
-    "gph": 670.2, 
     "triple_inshore": [
       0.6658, 
       0.9215, 
       1.0911
-    ]
+    ], 
+    "gph": 670.2, 
+    "osn": 649.8
   }, 
   "sailnumber": "ITA16219", 
   "name": "MAGO BLU", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.8, 
       "loa": 10.025, 
       "draft": 1.91, 
+      "wetted_surface": 24.2, 
       "main": 31.7, 
       "genoa": 30.9, 
       "displacement": 5007.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1998"
   }, 

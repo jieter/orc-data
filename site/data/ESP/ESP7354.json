@@ -5,12 +5,13 @@
       1.0602, 
       1.2083
     ], 
-    "gph": 721.2, 
     "triple_inshore": [
       0.6214, 
       0.8561, 
       1.0149
-    ]
+    ], 
+    "gph": 721.2, 
+    "osn": 699.7
   }, 
   "sailnumber": "ESP7354", 
   "name": "CHISPA NEJRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.2, 
       "loa": 8.99, 
       "draft": 1.75, 
+      "wetted_surface": 20.0, 
       "main": 23.7, 
       "genoa": 22.1, 
       "displacement": 3790.0, 
-      "spinnaker_asym": 53.0
+      "spinnaker_asym": 53.0, 
+      "crew": 400.0
     }, 
     "year": "1990"
   }, 

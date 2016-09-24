@@ -5,12 +5,13 @@
       1.1942, 
       1.3474
     ], 
-    "gph": 638.9, 
     "triple_inshore": [
       0.7049, 
       0.9539, 
       1.1147
-    ]
+    ], 
+    "gph": 638.9, 
+    "osn": 621.7
   }, 
   "sailnumber": "NOR11934", 
   "name": "Elisabeth", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.25, 
       "draft": 1.95, 
+      "wetted_surface": 30.2, 
       "main": 41.1, 
       "genoa": 41.9, 
       "displacement": 7473.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 715.0
     }, 
     "year": "1999"
   }, 

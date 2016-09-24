@@ -5,12 +5,13 @@
       1.0079, 
       1.1741
     ], 
-    "gph": 765.1, 
     "triple_inshore": [
       0.5633, 
       0.7899, 
       0.9566
-    ]
+    ], 
+    "gph": 765.1, 
+    "osn": 742.1
   }, 
   "sailnumber": "GRE1610", 
   "name": "AFRODITI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.03, 
       "draft": 1.56, 
+      "wetted_surface": 19.8, 
       "main": 22.2, 
       "genoa": 18.9, 
       "displacement": 3497.0, 
-      "spinnaker_asym": 46.0
+      "spinnaker_asym": 46.0, 
+      "crew": 400.0
     }, 
     "year": "1996"
   }, 

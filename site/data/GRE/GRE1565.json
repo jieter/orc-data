@@ -5,12 +5,13 @@
       1.0192, 
       1.1976
     ], 
-    "gph": 756.9, 
     "triple_inshore": [
       0.5676, 
       0.8119, 
       0.9993
-    ]
+    ], 
+    "gph": 756.9, 
+    "osn": 731.5
   }, 
   "sailnumber": "GRE1565", 
   "name": "MARABOU", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.457, 
       "draft": 1.95, 
+      "wetted_surface": 25.0, 
       "main": 23.0, 
       "genoa": 42.4, 
       "displacement": 6011.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1982"
   }, 

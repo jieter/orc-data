@@ -5,12 +5,13 @@
       1.1487, 
       1.3002
     ], 
-    "gph": 664.2, 
     "triple_inshore": [
       0.6796, 
       0.9274, 
       1.0886
-    ]
+    ], 
+    "gph": 664.2, 
+    "osn": 645.6
   }, 
   "sailnumber": "NOR5297", 
   "name": "YOLO", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.3, 
       "loa": 10.65, 
       "draft": 1.93, 
+      "wetted_surface": 27.4, 
       "main": 30.1, 
       "genoa": 47.0, 
       "displacement": 6061.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 599.0
     }, 
     "year": "1982"
   }, 

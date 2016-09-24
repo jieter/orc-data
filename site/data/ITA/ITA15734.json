@@ -5,12 +5,13 @@
       1.3002, 
       1.4767
     ], 
-    "gph": 590.2, 
     "triple_inshore": [
       0.748, 
       1.0309, 
       1.2117
-    ]
+    ], 
+    "gph": 590.2, 
+    "osn": 573.9
   }, 
   "sailnumber": "ITA15734", 
   "name": "ALLURE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.72, 
       "draft": 2.39, 
+      "wetted_surface": 41.8, 
       "main": 57.3, 
       "genoa": 54.1, 
       "displacement": 11461.0, 
-      "spinnaker_asym": 125.0
+      "spinnaker_asym": 125.0, 
+      "crew": 900.0
     }, 
     "year": "2003"
   }, 

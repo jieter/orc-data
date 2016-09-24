@@ -5,12 +5,13 @@
       1.2947, 
       1.5008
     ], 
-    "gph": 592.6, 
     "triple_inshore": [
       0.7269, 
       1.0172, 
       1.2262
-    ]
+    ], 
+    "gph": 592.6, 
+    "osn": 577.9
   }, 
   "sailnumber": "NOR11221", 
   "name": "Patos", 
@@ -25,10 +26,12 @@
       "spinnaker": 144.5, 
       "loa": 14.05, 
       "draft": 1.82, 
+      "wetted_surface": 41.6, 
       "main": 50.6, 
       "genoa": 63.4, 
       "displacement": 10994.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 972.0
     }, 
     "year": "2004"
   }, 

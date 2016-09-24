@@ -5,12 +5,13 @@
       1.2535, 
       1.4198
     ], 
-    "gph": 610.2, 
     "triple_inshore": [
       0.7329, 
       1.0107, 
       1.1882
-    ]
+    ], 
+    "gph": 610.2, 
+    "osn": 592.5
   }, 
   "sailnumber": "GER7142", 
   "name": "CONCETTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.1, 
       "loa": 11.3, 
       "draft": 2.2, 
+      "wetted_surface": 31.4, 
       "main": 48.9, 
       "genoa": 35.7, 
       "displacement": 7216.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "2012"
   }, 

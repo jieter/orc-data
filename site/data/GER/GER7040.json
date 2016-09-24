@@ -5,12 +5,13 @@
       1.3159, 
       1.4915
     ], 
-    "gph": 579.7, 
     "triple_inshore": [
       0.7774, 
       1.0602, 
       1.2192
-    ]
+    ], 
+    "gph": 579.7, 
+    "osn": 563.3
   }, 
   "sailnumber": "GER7040", 
   "name": "RATZFATZ 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.4, 
       "draft": 2.16, 
+      "wetted_surface": 29.3, 
       "main": 42.2, 
       "genoa": 39.3, 
       "displacement": 5301.0, 
-      "spinnaker_asym": 145.0
+      "spinnaker_asym": 145.0, 
+      "crew": 340.0
     }, 
     "year": "2010"
   }, 

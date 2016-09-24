@@ -5,12 +5,13 @@
       1.1586, 
       1.3119
     ], 
-    "gph": 662.0, 
     "triple_inshore": [
       0.6669, 
       0.9306, 
       1.0877
-    ]
+    ], 
+    "gph": 662.0, 
+    "osn": 642.9
   }, 
   "sailnumber": "GER7150", 
   "name": "LARA", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.6, 
       "loa": 10.4, 
       "draft": 1.64, 
+      "wetted_surface": 21.4, 
       "main": 24.8, 
       "genoa": 27.0, 
       "displacement": 3307.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1982"
   }, 

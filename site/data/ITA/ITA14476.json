@@ -5,12 +5,13 @@
       1.1813, 
       1.325
     ], 
-    "gph": 646.0, 
     "triple_inshore": [
       0.699, 
       0.948, 
       1.1002
-    ]
+    ], 
+    "gph": 646.0, 
+    "osn": 628.6
   }, 
   "sailnumber": "ITA14476", 
   "name": "ID&A", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.65, 
       "draft": 2.16, 
+      "wetted_surface": 25.4, 
       "main": 34.7, 
       "genoa": 31.2, 
       "displacement": 5805.0, 
-      "spinnaker_asym": 106.0
+      "spinnaker_asym": 106.0, 
+      "crew": 500.0
     }, 
     "year": "2001"
   }, 

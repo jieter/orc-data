@@ -5,12 +5,13 @@
       1.113, 
       1.2663
     ], 
-    "gph": 686.5, 
     "triple_inshore": [
       0.6523, 
       0.8976, 
       1.0579
-    ]
+    ], 
+    "gph": 686.5, 
+    "osn": 667.1
   }, 
   "sailnumber": "ESP2955_C", 
   "name": "MACH", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.112, 
       "draft": 1.77, 
+      "wetted_surface": 22.0, 
       "main": 30.2, 
       "genoa": 28.3, 
       "displacement": 4306.0, 
-      "spinnaker_asym": 59.0
+      "spinnaker_asym": 59.0, 
+      "crew": 300.0
     }, 
     "year": "1990"
   }, 

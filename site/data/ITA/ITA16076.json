@@ -5,12 +5,13 @@
       1.1411, 
       1.2883
     ], 
-    "gph": 670.0, 
     "triple_inshore": [
       0.6715, 
       0.9236, 
       1.0768
-    ]
+    ], 
+    "gph": 670.0, 
+    "osn": 650.4
   }, 
   "sailnumber": "ITA16076", 
   "name": "LUKE", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.3, 
       "loa": 9.5, 
       "draft": 1.92, 
+      "wetted_surface": 22.4, 
       "main": 26.6, 
       "genoa": 30.6, 
       "displacement": 3892.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1998"
   }, 

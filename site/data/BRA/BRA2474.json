@@ -5,12 +5,13 @@
       1.4664, 
       1.6863
     ], 
-    "gph": 515.9, 
     "triple_inshore": [
       0.8808, 
       1.167, 
       1.3658
-    ]
+    ], 
+    "gph": 515.9, 
+    "osn": 504.0
   }, 
   "sailnumber": "BRA2474", 
   "name": "CRIOULA 29", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.3, 
       "draft": 2.6, 
+      "wetted_surface": 30.4, 
       "main": 64.1, 
       "genoa": 40.8, 
       "displacement": 4317.0, 
-      "spinnaker_asym": 183.0
+      "spinnaker_asym": 183.0, 
+      "crew": 780.0
     }, 
     "year": "2008"
   }, 

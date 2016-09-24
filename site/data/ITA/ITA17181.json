@@ -5,12 +5,13 @@
       1.149, 
       1.3557
     ], 
-    "gph": 658.5, 
     "triple_inshore": [
       0.6917, 
       0.9061, 
       1.0771
-    ]
+    ], 
+    "gph": 658.5, 
+    "osn": 641.0
   }, 
   "sailnumber": "ITA17181", 
   "name": "L'AMANTE FRETTOLOSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.37, 
       "draft": 1.76, 
+      "wetted_surface": 9.8, 
       "main": 16.0, 
       "genoa": 9.8, 
       "displacement": 517.0, 
-      "spinnaker_asym": 40.0
+      "spinnaker_asym": 40.0, 
+      "crew": 265.0
     }, 
     "year": "2015"
   }, 

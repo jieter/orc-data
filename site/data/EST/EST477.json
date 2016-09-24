@@ -5,12 +5,13 @@
       1.1696, 
       1.3301
     ], 
-    "gph": 654.0, 
     "triple_inshore": [
       0.685, 
       0.9456, 
       1.1141
-    ]
+    ], 
+    "gph": 654.0, 
+    "osn": 634.2
   }, 
   "sailnumber": "EST477", 
   "name": "EVELYN III", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.7, 
       "loa": 9.98, 
       "draft": 2.02, 
+      "wetted_surface": 24.1, 
       "main": 34.0, 
       "genoa": 26.4, 
       "displacement": 4935.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 630.0
     }, 
     "year": "2005"
   }, 

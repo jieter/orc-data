@@ -5,12 +5,13 @@
       1.0104, 
       1.1566
     ], 
-    "gph": 757.2, 
     "triple_inshore": [
       0.5937, 
       0.8157, 
       0.9753
-    ]
+    ], 
+    "gph": 757.2, 
+    "osn": 733.6
   }, 
   "sailnumber": "NOR701", 
   "name": "Naviculare", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.6, 
       "loa": 8.2, 
       "draft": 1.75, 
+      "wetted_surface": 19.6, 
       "main": 17.6, 
       "genoa": 27.8, 
       "displacement": 4278.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 478.0
     }, 
     "year": "1974"
   }, 

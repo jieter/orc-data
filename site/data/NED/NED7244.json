@@ -5,12 +5,13 @@
       1.3111, 
       1.4609
     ], 
-    "gph": 581.1, 
     "triple_inshore": [
       0.7817, 
       1.058, 
       1.2093
-    ]
+    ], 
+    "gph": 581.1, 
+    "osn": 565.8
   }, 
   "sailnumber": "NED7244", 
   "name": "JUNIQUE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.19, 
       "draft": 2.22, 
+      "wetted_surface": 32.2, 
       "main": 49.2, 
       "genoa": 41.6, 
       "displacement": 6928.0, 
-      "spinnaker_asym": 157.0
+      "spinnaker_asym": 157.0, 
+      "crew": 180.0
     }, 
     "year": "2006"
   }, 

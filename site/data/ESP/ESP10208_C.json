@@ -5,12 +5,13 @@
       0.9564, 
       1.1121
     ], 
-    "gph": 794.1, 
     "triple_inshore": [
       0.5692, 
       0.7768, 
       0.931
-    ]
+    ], 
+    "gph": 794.1, 
+    "osn": 771.0
   }, 
   "sailnumber": "ESP10208_C", 
   "name": "MAKARHELEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.2, 
       "draft": 1.6, 
+      "wetted_surface": 11.2, 
       "main": 14.1, 
       "genoa": 9.2, 
       "displacement": 1150.0, 
-      "spinnaker_asym": 27.0
+      "spinnaker_asym": 27.0, 
+      "crew": 301.0
     }, 
     "year": "2004"
   }, 

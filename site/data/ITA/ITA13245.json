@@ -5,12 +5,13 @@
       1.1658, 
       1.3357
     ], 
-    "gph": 647.0, 
     "triple_inshore": [
       0.7192, 
       0.9401, 
       1.0893
-    ]
+    ], 
+    "gph": 647.0, 
+    "osn": 629.4
   }, 
   "sailnumber": "ITA13245", 
   "name": "TOY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.47, 
       "draft": 1.92, 
+      "wetted_surface": 12.6, 
       "main": 22.1, 
       "genoa": 15.2, 
       "displacement": 993.0, 
-      "spinnaker_asym": 52.0
+      "spinnaker_asym": 52.0, 
+      "crew": 350.0
     }, 
     "year": "1996"
   }, 

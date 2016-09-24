@@ -5,12 +5,13 @@
       1.1399, 
       1.4127
     ], 
-    "gph": 682.1, 
     "triple_inshore": [
       0.594, 
       0.8706, 
       1.1177
-    ]
+    ], 
+    "gph": 682.1, 
+    "osn": 658.9
   }, 
   "sailnumber": "ITA15192", 
   "name": "FREYA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 18.0, 
       "draft": 2.41, 
+      "wetted_surface": 67.5, 
       "main": 31.7, 
       "genoa": 55.0, 
       "displacement": 29001.0, 
-      "spinnaker_asym": 115.0
+      "spinnaker_asym": 115.0, 
+      "crew": 800.0
     }, 
     "year": "1981"
   }, 

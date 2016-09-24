@@ -5,12 +5,13 @@
       1.1086, 
       1.2575
     ], 
-    "gph": 688.0, 
     "triple_inshore": [
       0.6562, 
       0.901, 
       1.0581
-    ]
+    ], 
+    "gph": 688.0, 
+    "osn": 668.2
   }, 
   "sailnumber": "ITA9661", 
   "name": "COLETTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.6, 
       "loa": 9.713, 
       "draft": 1.85, 
+      "wetted_surface": 20.4, 
       "main": 30.1, 
       "genoa": 27.3, 
       "displacement": 3930.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 576.0
     }, 
     "year": "1982"
   }, 

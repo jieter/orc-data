@@ -5,12 +5,13 @@
       1.206, 
       1.3762
     ], 
-    "gph": 635.3, 
     "triple_inshore": [
       0.6994, 
       0.9731, 
       1.1494
-    ]
+    ], 
+    "gph": 635.3, 
+    "osn": 615.7
   }, 
   "sailnumber": "NOR14221", 
   "name": "Sundance", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.8, 
       "loa": 10.69, 
       "draft": 2.1, 
+      "wetted_surface": 28.2, 
       "main": 31.8, 
       "genoa": 43.7, 
       "displacement": 5683.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 694.0
     }, 
     "year": "2007"
   }, 

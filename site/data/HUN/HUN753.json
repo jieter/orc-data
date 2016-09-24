@@ -5,12 +5,13 @@
       1.393, 
       1.5509
     ], 
-    "gph": 541.9, 
     "triple_inshore": [
       0.8366, 
       1.1018, 
       1.2653
-    ]
+    ], 
+    "gph": 541.9, 
+    "osn": 533.8
   }, 
   "sailnumber": "HUN753", 
   "name": "Lillafured", 
@@ -25,10 +26,12 @@
       "spinnaker": 236.1, 
       "loa": 18.55, 
       "draft": 1.86, 
+      "wetted_surface": 39.1, 
       "main": 73.0, 
       "genoa": 43.0, 
       "displacement": 9176.0, 
-      "spinnaker_asym": 259.0
+      "spinnaker_asym": 259.0, 
+      "crew": 900.0
     }, 
     "year": "1943"
   }, 

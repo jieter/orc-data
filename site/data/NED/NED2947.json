@@ -5,12 +5,13 @@
       1.0867, 
       1.2393
     ], 
-    "gph": 704.2, 
     "triple_inshore": [
       0.6343, 
       0.8699, 
       1.0339
-    ]
+    ], 
+    "gph": 704.2, 
+    "osn": 683.4
   }, 
   "sailnumber": "NED2947", 
   "name": "FIDELTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.2, 
       "loa": 10.803, 
       "draft": 1.89, 
+      "wetted_surface": 24.9, 
       "main": 21.7, 
       "genoa": 44.8, 
       "displacement": 6001.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 554.0
     }, 
     "year": "1979"
   }, 

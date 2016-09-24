@@ -5,12 +5,13 @@
       1.0, 
       1.1521
     ], 
-    "gph": 764.8, 
     "triple_inshore": [
       0.5845, 
       0.807, 
       0.956
-    ]
+    ], 
+    "gph": 764.8, 
+    "osn": 741.2
   }, 
   "sailnumber": "NED3247", 
   "name": "SECOND WAVE", 
@@ -25,10 +26,12 @@
       "spinnaker": 39.5, 
       "loa": 7.56, 
       "draft": 1.51, 
+      "wetted_surface": 13.9, 
       "main": 12.6, 
       "genoa": 18.4, 
       "displacement": 1732.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 356.0
     }, 
     "year": "1977"
   }, 

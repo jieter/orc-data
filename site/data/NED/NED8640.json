@@ -5,12 +5,13 @@
       1.2267, 
       1.3993
     ], 
-    "gph": 620.5, 
     "triple_inshore": [
       0.7086, 
       0.9637, 
       1.1424
-    ]
+    ], 
+    "gph": 620.5, 
+    "osn": 608.7
   }, 
   "sailnumber": "NED8640", 
   "name": "Smuk", 
@@ -25,10 +26,12 @@
       "spinnaker": 112.7, 
       "loa": 12.027, 
       "draft": 1.66, 
+      "wetted_surface": 35.4, 
       "main": 49.8, 
       "genoa": 30.8, 
       "displacement": 9082.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 811.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.2738, 
       1.4327
     ], 
-    "gph": 599.1, 
     "triple_inshore": [
       0.7539, 
       1.0305, 
       1.2003
-    ]
+    ], 
+    "gph": 599.1, 
+    "osn": 582.6
   }, 
   "sailnumber": "ITA14175", 
   "name": "TASMANIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 126.3, 
       "loa": 11.924, 
       "draft": 2.43, 
+      "wetted_surface": 31.6, 
       "main": 46.7, 
       "genoa": 46.2, 
       "displacement": 7409.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 566.0
     }, 
     "year": "1997"
   }, 

@@ -5,12 +5,13 @@
       1.239, 
       1.456
     ], 
-    "gph": 622.5, 
     "triple_inshore": [
       0.6902, 
       0.9735, 
       1.1867
-    ]
+    ], 
+    "gph": 622.5, 
+    "osn": 602.9
   }, 
   "sailnumber": "ESP10296_C", 
   "name": "ALBADA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.99, 
       "draft": 2.04, 
+      "wetted_surface": 38.2, 
       "main": 37.6, 
       "genoa": 40.5, 
       "displacement": 9850.0, 
-      "spinnaker_asym": 124.0
+      "spinnaker_asym": 124.0, 
+      "crew": 300.0
     }, 
     "year": "2014"
   }, 

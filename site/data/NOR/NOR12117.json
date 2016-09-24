@@ -5,12 +5,13 @@
       1.3225, 
       1.5056
     ], 
-    "gph": 576.6, 
     "triple_inshore": [
       0.762, 
       1.0492, 
       1.2509
-    ]
+    ], 
+    "gph": 576.6, 
+    "osn": 564.1
   }, 
   "sailnumber": "NOR12117", 
   "name": "Caparai III", 
@@ -25,10 +26,12 @@
       "spinnaker": 127.6, 
       "loa": 14.15, 
       "draft": 2.3, 
+      "wetted_surface": 42.1, 
       "main": 67.3, 
       "genoa": 45.6, 
       "displacement": 12808.0, 
-      "spinnaker_asym": 158.0
+      "spinnaker_asym": 158.0, 
+      "crew": 921.0
     }, 
     "year": "1999"
   }, 

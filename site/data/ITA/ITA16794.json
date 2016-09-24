@@ -5,12 +5,13 @@
       1.225, 
       1.3703
     ], 
-    "gph": 614.6, 
     "triple_inshore": [
       0.7648, 
       1.0016, 
       1.1414
-    ]
+    ], 
+    "gph": 614.6, 
+    "osn": 600.2
   }, 
   "sailnumber": "ITA16794", 
   "name": "PENELOPE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.316, 
       "draft": 2.07, 
+      "wetted_surface": 19.2, 
       "main": 36.3, 
       "genoa": 24.3, 
       "displacement": 2911.0, 
-      "spinnaker_asym": 101.0
+      "spinnaker_asym": 101.0, 
+      "crew": 490.0
     }, 
     "year": "2000"
   }, 

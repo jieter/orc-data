@@ -5,12 +5,13 @@
       1.2713, 
       1.4369
     ], 
-    "gph": 599.2, 
     "triple_inshore": [
       0.7554, 
       1.0334, 
       1.2003
-    ]
+    ], 
+    "gph": 599.2, 
+    "osn": 582.5
   }, 
   "sailnumber": "NED3888", 
   "name": "ACE", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.5, 
       "loa": 10.98, 
       "draft": 2.27, 
+      "wetted_surface": 26.7, 
       "main": 36.8, 
       "genoa": 42.3, 
       "displacement": 4964.0, 
-      "spinnaker_asym": 99.0
+      "spinnaker_asym": 99.0, 
+      "crew": 640.0
     }, 
     "year": "1995"
   }, 

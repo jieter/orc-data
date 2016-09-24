@@ -5,12 +5,13 @@
       1.2151, 
       1.3734
     ], 
-    "gph": 629.1, 
     "triple_inshore": [
       0.7123, 
       0.9671, 
       1.1356
-    ]
+    ], 
+    "gph": 629.1, 
+    "osn": 611.6
   }, 
   "sailnumber": "NOR15403", 
   "name": "XO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.57, 
       "draft": 1.98, 
+      "wetted_surface": 32.9, 
       "main": 45.3, 
       "genoa": 36.3, 
       "displacement": 8880.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 753.0
     }, 
     "year": "2010"
   }, 

@@ -5,12 +5,13 @@
       1.0194, 
       1.161
     ], 
-    "gph": 749.9, 
     "triple_inshore": [
       0.5992, 
       0.817, 
       0.9698
-    ]
+    ], 
+    "gph": 749.9, 
+    "osn": 728.0
   }, 
   "sailnumber": "NOR4270", 
   "name": "cAPRERA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.42, 
       "draft": 1.66, 
+      "wetted_surface": 25.0, 
       "main": 23.2, 
       "genoa": 33.9, 
       "displacement": 5785.0, 
-      "spinnaker_asym": 59.0
+      "spinnaker_asym": 59.0, 
+      "crew": 493.0
     }, 
     "year": "1979"
   }, 

@@ -5,12 +5,13 @@
       1.3672, 
       1.5582
     ], 
-    "gph": 559.8, 
     "triple_inshore": [
       0.7946, 
       1.1, 
       1.2973
-    ]
+    ], 
+    "gph": 559.8, 
+    "osn": 543.8
   }, 
   "sailnumber": "GER6544", 
   "name": "XENIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 138.7, 
       "loa": 13.305, 
       "draft": 2.7, 
+      "wetted_surface": 39.7, 
       "main": 64.3, 
       "genoa": 50.7, 
       "displacement": 9799.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 960.0
     }, 
     "year": "2010"
   }, 

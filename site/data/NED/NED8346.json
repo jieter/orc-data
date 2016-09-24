@@ -5,12 +5,13 @@
       1.2458, 
       1.4478
     ], 
-    "gph": 616.6, 
     "triple_inshore": [
       0.713, 
       0.9939, 
       1.2111
-    ]
+    ], 
+    "gph": 616.6, 
+    "osn": 596.7
   }, 
   "sailnumber": "NED8346", 
   "name": "Taika", 
@@ -25,10 +26,12 @@
       "spinnaker": 151.6, 
       "loa": 14.36, 
       "draft": 2.66, 
+      "wetted_surface": 40.7, 
       "main": 49.1, 
       "genoa": 47.6, 
       "displacement": 12459.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 930.0
     }, 
     "year": "1983"
   }, 

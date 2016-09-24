@@ -5,12 +5,13 @@
       1.21, 
       1.3688
     ], 
-    "gph": 632.0, 
     "triple_inshore": [
       0.7091, 
       0.9773, 
       1.1443
-    ]
+    ], 
+    "gph": 632.0, 
+    "osn": 613.4
   }, 
   "sailnumber": "GER6337", 
   "name": "JACARANDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.9, 
       "loa": 10.66, 
       "draft": 2.31, 
+      "wetted_surface": 27.7, 
       "main": 39.9, 
       "genoa": 31.4, 
       "displacement": 5801.0, 
-      "spinnaker_asym": 85.0
+      "spinnaker_asym": 85.0, 
+      "crew": 710.0
     }, 
     "year": "2009"
   }, 

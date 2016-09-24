@@ -5,12 +5,13 @@
       1.1578, 
       1.2868
     ], 
-    "gph": 655.4, 
     "triple_inshore": [
       0.7022, 
       0.9394, 
       1.0695
-    ]
+    ], 
+    "gph": 655.4, 
+    "osn": 639.3
   }, 
   "sailnumber": "NED900", 
   "name": "Nine", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.0, 
       "draft": 1.89, 
+      "wetted_surface": 20.8, 
       "main": 32.5, 
       "genoa": 21.3, 
       "displacement": 3424.0, 
-      "spinnaker_asym": 78.0
+      "spinnaker_asym": 78.0, 
+      "crew": 514.0
     }, 
     "year": "2013"
   }, 

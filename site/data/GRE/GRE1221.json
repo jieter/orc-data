@@ -5,12 +5,13 @@
       1.1341, 
       1.2862
     ], 
-    "gph": 675.6, 
     "triple_inshore": [
       0.6615, 
       0.9165, 
       1.0749
-    ]
+    ], 
+    "gph": 675.6, 
+    "osn": 654.7
   }, 
   "sailnumber": "GRE1221", 
   "name": "ADRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.1, 
       "loa": 9.49, 
       "draft": 1.93, 
+      "wetted_surface": 22.2, 
       "main": 25.9, 
       "genoa": 28.1, 
       "displacement": 3830.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1998"
   }, 

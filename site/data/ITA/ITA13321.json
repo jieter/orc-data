@@ -5,12 +5,13 @@
       1.1708, 
       1.3118
     ], 
-    "gph": 651.2, 
     "triple_inshore": [
       0.6955, 
       0.9475, 
       1.096
-    ]
+    ], 
+    "gph": 651.2, 
+    "osn": 634.4
   }, 
   "sailnumber": "ITA13321", 
   "name": "FLORENXIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.9, 
       "loa": 9.978, 
       "draft": 1.82, 
+      "wetted_surface": 24.2, 
       "main": 35.2, 
       "genoa": 31.4, 
       "displacement": 4570.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 485.0
     }, 
     "year": "1994"
   }, 

@@ -5,12 +5,13 @@
       1.2188, 
       1.4105
     ], 
-    "gph": 630.6, 
     "triple_inshore": [
       0.6891, 
       0.9606, 
       1.1579
-    ]
+    ], 
+    "gph": 630.6, 
+    "osn": 612.4
   }, 
   "sailnumber": "CRO1806", 
   "name": "Evolution", 
@@ -25,10 +26,12 @@
       "spinnaker": 119.5, 
       "loa": 12.99, 
       "draft": 1.89, 
+      "wetted_surface": 38.8, 
       "main": 46.3, 
       "genoa": 49.1, 
       "displacement": 10788.0, 
-      "spinnaker_asym": 114.0
+      "spinnaker_asym": 114.0, 
+      "crew": 850.0
     }, 
     "year": "2011"
   }, 

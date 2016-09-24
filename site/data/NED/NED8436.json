@@ -5,12 +5,13 @@
       1.2603, 
       1.4437
     ], 
-    "gph": 608.6, 
     "triple_inshore": [
       0.7283, 
       1.0183, 
       1.2
-    ]
+    ], 
+    "gph": 608.6, 
+    "osn": 588.5
   }, 
   "sailnumber": "NED8436", 
   "name": "SAFFIER 36R", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.8, 
       "loa": 11.0, 
       "draft": 2.26, 
+      "wetted_surface": 28.1, 
       "main": 40.7, 
       "genoa": 28.4, 
       "displacement": 5241.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 710.0
     }, 
     "year": "2012"
   }, 

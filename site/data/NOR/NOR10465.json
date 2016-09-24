@@ -5,12 +5,13 @@
       1.0963, 
       1.2575
     ], 
-    "gph": 698.4, 
     "triple_inshore": [
       0.6357, 
       0.877, 
       1.0453
-    ]
+    ], 
+    "gph": 698.4, 
+    "osn": 678.3
   }, 
   "sailnumber": "NOR10465", 
   "name": "Mio", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.1, 
       "loa": 9.9, 
       "draft": 1.56, 
+      "wetted_surface": 22.5, 
       "main": 26.5, 
       "genoa": 28.6, 
       "displacement": 4830.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 587.0
     }, 
     "year": "2001"
   }, 

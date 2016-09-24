@@ -5,12 +5,13 @@
       1.1275, 
       1.283
     ], 
-    "gph": 669.1, 
     "triple_inshore": [
       0.6934, 
       0.9071, 
       1.0369
-    ]
+    ], 
+    "gph": 669.1, 
+    "osn": 653.5
   }, 
   "sailnumber": "ITA24051", 
   "name": "ESTASI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.495, 
       "draft": 1.67, 
+      "wetted_surface": 12.6, 
       "main": 20.1, 
       "genoa": 14.4, 
       "displacement": 1095.0, 
-      "spinnaker_asym": 55.0
+      "spinnaker_asym": 55.0, 
+      "crew": 380.0
     }, 
     "year": "1994"
   }, 

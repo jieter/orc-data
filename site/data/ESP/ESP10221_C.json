@@ -5,12 +5,13 @@
       1.1814, 
       1.3425
     ], 
-    "gph": 648.5, 
     "triple_inshore": [
       0.6864, 
       0.9424, 
       1.1076
-    ]
+    ], 
+    "gph": 648.5, 
+    "osn": 629.3
   }, 
   "sailnumber": "ESP10221_C", 
   "name": "SENY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.04, 
       "draft": 2.06, 
+      "wetted_surface": 26.9, 
       "main": 34.5, 
       "genoa": 31.2, 
       "displacement": 5692.0, 
-      "spinnaker_asym": 69.0
+      "spinnaker_asym": 69.0, 
+      "crew": 500.0
     }, 
     "year": "2003"
   }, 

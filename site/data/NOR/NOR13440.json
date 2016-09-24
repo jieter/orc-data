@@ -5,12 +5,13 @@
       1.2836, 
       1.4598
     ], 
-    "gph": 596.0, 
     "triple_inshore": [
       0.7405, 
       1.0169, 
       1.2036
-    ]
+    ], 
+    "gph": 596.0, 
+    "osn": 581.4
   }, 
   "sailnumber": "NOR13440", 
   "name": "Utopia", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.61, 
       "draft": 2.34, 
+      "wetted_surface": 39.0, 
       "main": 51.1, 
       "genoa": 37.4, 
       "displacement": 10501.0, 
-      "spinnaker_asym": 126.0
+      "spinnaker_asym": 126.0, 
+      "crew": 926.0
     }, 
     "year": "2007"
   }, 

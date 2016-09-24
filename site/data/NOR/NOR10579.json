@@ -5,12 +5,13 @@
       1.1822, 
       1.3283
     ], 
-    "gph": 644.1, 
     "triple_inshore": [
       0.7047, 
       0.9598, 
       1.1124
-    ]
+    ], 
+    "gph": 644.1, 
+    "osn": 627.5
   }, 
   "sailnumber": "NOR10579", 
   "name": "Exita", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.8, 
       "loa": 10.06, 
       "draft": 1.83, 
+      "wetted_surface": 24.4, 
       "main": 36.7, 
       "genoa": 35.1, 
       "displacement": 4622.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 612.0
     }, 
     "year": "1994"
   }, 

@@ -5,12 +5,13 @@
       1.271, 
       1.4373
     ], 
-    "gph": 600.8, 
     "triple_inshore": [
       0.7315, 
       1.0063, 
       1.1785
-    ]
+    ], 
+    "gph": 600.8, 
+    "osn": 587.4
   }, 
   "sailnumber": "NED8211", 
   "name": "Boudica", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.24, 
       "draft": 2.0, 
+      "wetted_surface": 34.1, 
       "main": 49.8, 
       "genoa": 36.3, 
       "displacement": 8015.0, 
-      "spinnaker_asym": 112.0
+      "spinnaker_asym": 112.0, 
+      "crew": 550.0
     }, 
     "year": "2008"
   }, 

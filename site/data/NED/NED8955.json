@@ -5,12 +5,13 @@
       1.2889, 
       1.453
     ], 
-    "gph": 592.8, 
     "triple_inshore": [
       0.7567, 
       1.0338, 
       1.1989
-    ]
+    ], 
+    "gph": 592.8, 
+    "osn": 576.4
   }, 
   "sailnumber": "NED8955", 
   "name": "Just us", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.244, 
       "draft": 2.18, 
+      "wetted_surface": 33.2, 
       "main": 45.3, 
       "genoa": 47.2, 
       "displacement": 7178.0, 
-      "spinnaker_asym": 126.0
+      "spinnaker_asym": 126.0, 
+      "crew": 690.0
     }, 
     "year": "2000"
   }, 

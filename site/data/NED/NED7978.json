@@ -5,12 +5,13 @@
       1.1686, 
       1.3332
     ], 
-    "gph": 654.4, 
     "triple_inshore": [
       0.6826, 
       0.9435, 
       1.1192
-    ]
+    ], 
+    "gph": 654.4, 
+    "osn": 634.5
   }, 
   "sailnumber": "NED7978", 
   "name": "Black Pearl", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.1, 
       "loa": 10.3, 
       "draft": 1.97, 
+      "wetted_surface": 25.9, 
       "main": 32.7, 
       "genoa": 32.0, 
       "displacement": 5620.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 634.0
     }, 
     "year": "2003"
   }, 

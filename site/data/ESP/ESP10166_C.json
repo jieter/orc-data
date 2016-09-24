@@ -5,12 +5,13 @@
       1.0773, 
       1.2062
     ], 
-    "gph": 707.7, 
     "triple_inshore": [
       0.6394, 
       0.872, 
       1.0007
-    ]
+    ], 
+    "gph": 707.7, 
+    "osn": 688.9
   }, 
   "sailnumber": "ESP10166_C", 
   "name": "MARABARA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.5, 
       "draft": 1.37, 
+      "wetted_surface": 17.9, 
       "main": 22.2, 
       "genoa": 22.9, 
       "displacement": 2722.0, 
-      "spinnaker_asym": 57.0
+      "spinnaker_asym": 57.0, 
+      "crew": 330.0
     }, 
     "year": "1997"
   }, 

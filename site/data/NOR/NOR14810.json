@@ -5,12 +5,13 @@
       1.1973, 
       1.3771
     ], 
-    "gph": 642.9, 
     "triple_inshore": [
       0.6772, 
       0.9497, 
       1.1355
-    ]
+    ], 
+    "gph": 642.9, 
+    "osn": 623.0
   }, 
   "sailnumber": "NOR14810", 
   "name": "Verona", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.4, 
       "draft": 1.89, 
+      "wetted_surface": 32.8, 
       "main": 42.8, 
       "genoa": 45.4, 
       "displacement": 7859.0, 
-      "spinnaker_asym": 104.0
+      "spinnaker_asym": 104.0, 
+      "crew": 746.0
     }, 
     "year": "1994"
   }, 

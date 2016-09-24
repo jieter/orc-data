@@ -5,12 +5,13 @@
       1.1106, 
       1.2636
     ], 
-    "gph": 685.0, 
     "triple_inshore": [
       0.6638, 
       0.9047, 
       1.0409
-    ]
+    ], 
+    "gph": 685.0, 
+    "osn": 665.3
   }, 
   "sailnumber": "ITAMARCOP", 
   "name": "MARCO POLO", 
@@ -25,10 +26,12 @@
       "spinnaker": 40.1, 
       "loa": 7.73, 
       "draft": 1.6, 
+      "wetted_surface": 14.2, 
       "main": 21.6, 
       "genoa": 15.8, 
       "displacement": 1608.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2000"
   }, 

@@ -5,12 +5,13 @@
       1.2272, 
       1.3913
     ], 
-    "gph": 622.9, 
     "triple_inshore": [
       0.7177, 
       0.9861, 
       1.1663
-    ]
+    ], 
+    "gph": 622.9, 
+    "osn": 605.6
   }, 
   "sailnumber": "GER7043", 
   "name": "GINNY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.913, 
       "draft": 2.06, 
+      "wetted_surface": 32.1, 
       "main": 45.3, 
       "genoa": 42.3, 
       "displacement": 8319.0, 
-      "spinnaker_asym": 97.0
+      "spinnaker_asym": 97.0, 
+      "crew": 450.0
     }, 
     "year": "2001"
   }, 

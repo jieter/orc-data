@@ -5,12 +5,13 @@
       1.4613, 
       1.658
     ], 
-    "gph": 525.4, 
     "triple_inshore": [
       0.8379, 
       1.1612, 
       1.3677
-    ]
+    ], 
+    "gph": 525.4, 
+    "osn": 511.2
   }, 
   "sailnumber": "GER4500", 
   "name": "SCHORCH", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 19.512, 
       "draft": 3.13, 
+      "wetted_surface": 71.0, 
       "main": 105.9, 
       "genoa": 99.4, 
       "displacement": 27552.0, 
-      "spinnaker_asym": 332.0
+      "spinnaker_asym": 332.0, 
+      "crew": 950.0
     }, 
     "year": "1991"
   }, 

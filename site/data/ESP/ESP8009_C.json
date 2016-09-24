@@ -5,12 +5,13 @@
       1.2428, 
       1.4301
     ], 
-    "gph": 620.4, 
     "triple_inshore": [
       0.6992, 
       0.9814, 
       1.1676
-    ]
+    ], 
+    "gph": 620.4, 
+    "osn": 601.2
   }, 
   "sailnumber": "ESP8009_C", 
   "name": "WAIKIKI 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.59, 
       "draft": 2.13, 
+      "wetted_surface": 37.7, 
       "main": 40.4, 
       "genoa": 42.3, 
       "displacement": 8960.0, 
-      "spinnaker_asym": 123.0
+      "spinnaker_asym": 123.0, 
+      "crew": 400.0
     }, 
     "year": "2006"
   }, 

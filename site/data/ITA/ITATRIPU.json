@@ -5,12 +5,13 @@
       1.1321, 
       1.2735
     ], 
-    "gph": 674.4, 
     "triple_inshore": [
       0.6707, 
       0.9145, 
       1.0534
-    ]
+    ], 
+    "gph": 674.4, 
+    "osn": 655.3
   }, 
   "sailnumber": "ITATRIPU", 
   "name": "TRIPUDIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.3, 
       "draft": 2.15, 
+      "wetted_surface": 20.4, 
       "main": 28.7, 
       "genoa": 20.9, 
       "displacement": 2705.0, 
-      "spinnaker_asym": 64.0
+      "spinnaker_asym": 64.0, 
+      "crew": 350.0
     }, 
     "year": "2002"
   }, 

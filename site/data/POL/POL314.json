@@ -5,12 +5,13 @@
       1.0967, 
       1.2348
     ], 
-    "gph": 689.6, 
     "triple_inshore": [
       0.6691, 
       0.891, 
       1.0122
-    ]
+    ], 
+    "gph": 689.6, 
+    "osn": 672.9
   }, 
   "sailnumber": "POL314", 
   "name": "A Q U I L A", 
@@ -25,10 +26,12 @@
       "spinnaker": 37.7, 
       "loa": 7.74, 
       "draft": 1.58, 
+      "wetted_surface": 12.4, 
       "main": 24.3, 
       "genoa": 10.4, 
       "displacement": 1327.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 330.0
     }, 
     "year": "1994"
   }, 

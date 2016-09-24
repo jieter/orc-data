@@ -5,12 +5,13 @@
       1.192, 
       1.3608
     ], 
-    "gph": 643.2, 
     "triple_inshore": [
       0.686, 
       0.9512, 
       1.1325
-    ]
+    ], 
+    "gph": 643.2, 
+    "osn": 624.7
   }, 
   "sailnumber": "NOR6543", 
   "name": "Impuls", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.2, 
       "draft": 2.02, 
+      "wetted_surface": 34.0, 
       "main": 35.8, 
       "genoa": 55.0, 
       "displacement": 8650.0, 
-      "spinnaker_asym": 122.0
+      "spinnaker_asym": 122.0, 
+      "crew": 710.0
     }, 
     "year": "1984"
   }, 

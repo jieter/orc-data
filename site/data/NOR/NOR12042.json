@@ -5,12 +5,13 @@
       1.2945, 
       1.4611
     ], 
-    "gph": 589.7, 
     "triple_inshore": [
       0.7597, 
       1.0371, 
       1.2139
-    ]
+    ], 
+    "gph": 589.7, 
+    "osn": 574.8
   }, 
   "sailnumber": "NOR12042", 
   "name": "Bjornstjerne", 
@@ -25,10 +26,12 @@
       "spinnaker": 115.9, 
       "loa": 12.93, 
       "draft": 2.2, 
+      "wetted_surface": 35.6, 
       "main": 54.8, 
       "genoa": 54.3, 
       "displacement": 8986.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 855.0
     }, 
     "year": "2003"
   }, 

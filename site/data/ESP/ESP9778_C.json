@@ -5,12 +5,13 @@
       0.9575, 
       1.0986
     ], 
-    "gph": 802.1, 
     "triple_inshore": [
       0.5484, 
       0.7728, 
       0.922
-    ]
+    ], 
+    "gph": 802.1, 
+    "osn": 776.2
   }, 
   "sailnumber": "ESP9778_C", 
   "name": "PECATA MINUTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.993, 
       "draft": 1.56, 
+      "wetted_surface": 15.5, 
       "main": 16.4, 
       "genoa": 27.0, 
       "displacement": 2794.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 281.0
     }, 
     "year": "1980"
   }, 

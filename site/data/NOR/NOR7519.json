@@ -5,12 +5,13 @@
       0.9682, 
       1.1176
     ], 
-    "gph": 792.4, 
     "triple_inshore": [
       0.5583, 
       0.7823, 
       0.9423
-    ]
+    ], 
+    "gph": 792.4, 
+    "osn": 766.3
   }, 
   "sailnumber": "NOR7519", 
   "name": "Lea", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.25, 
       "draft": 1.57, 
+      "wetted_surface": 19.1, 
       "main": 15.3, 
       "genoa": 28.0, 
       "displacement": 3574.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1977"
   }, 

@@ -5,12 +5,13 @@
       1.1289, 
       1.2631
     ], 
-    "gph": 673.0, 
     "triple_inshore": [
       0.6814, 
       0.9136, 
       1.0595
-    ]
+    ], 
+    "gph": 673.0, 
+    "osn": 656.4
   }, 
   "sailnumber": "NED5899", 
   "name": "BALLADE", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.7, 
       "loa": 10.16, 
       "draft": 1.85, 
+      "wetted_surface": 25.7, 
       "main": 27.3, 
       "genoa": 51.6, 
       "displacement": 6094.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1976"
   }, 

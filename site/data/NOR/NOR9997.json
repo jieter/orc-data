@@ -5,12 +5,13 @@
       1.2277, 
       1.4002
     ], 
-    "gph": 624.3, 
     "triple_inshore": [
       0.7076, 
       0.983, 
       1.1671
-    ]
+    ], 
+    "gph": 624.3, 
+    "osn": 606.4
   }, 
   "sailnumber": "NOR9997", 
   "name": "Clipper", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.2, 
       "loa": 11.7, 
       "draft": 2.06, 
+      "wetted_surface": 32.5, 
       "main": 44.3, 
       "genoa": 40.9, 
       "displacement": 7468.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 821.0
     }, 
     "year": "2001"
   }, 

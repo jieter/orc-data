@@ -5,12 +5,13 @@
       1.0911, 
       1.2297
     ], 
-    "gph": 697.0, 
     "triple_inshore": [
       0.6552, 
       0.8906, 
       1.0393
-    ]
+    ], 
+    "gph": 697.0, 
+    "osn": 677.8
   }, 
   "sailnumber": "ESP9159_C", 
   "name": "MANDANGA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.4, 
       "loa": 8.99, 
       "draft": 1.76, 
+      "wetted_surface": 20.5, 
       "main": 27.9, 
       "genoa": 26.3, 
       "displacement": 4034.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1989"
   }, 

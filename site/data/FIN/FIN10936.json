@@ -5,12 +5,13 @@
       1.2773, 
       1.4445
     ], 
-    "gph": 597.7, 
     "triple_inshore": [
       0.7476, 
       1.0223, 
       1.1952
-    ]
+    ], 
+    "gph": 597.7, 
+    "osn": 582.5
   }, 
   "sailnumber": "FIN10936", 
   "name": "Speculator", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.4, 
       "loa": 12.495, 
       "draft": 2.0, 
+      "wetted_surface": 34.1, 
       "main": 50.8, 
       "genoa": 52.1, 
       "displacement": 7901.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 860.0
     }, 
     "year": "2001"
   }, 

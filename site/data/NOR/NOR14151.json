@@ -5,12 +5,13 @@
       1.2452, 
       1.4231
     ], 
-    "gph": 615.7, 
     "triple_inshore": [
       0.7194, 
       0.9988, 
       1.1851
-    ]
+    ], 
+    "gph": 615.7, 
+    "osn": 596.8
   }, 
   "sailnumber": "NOR14151", 
   "name": "Hera", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.6, 
       "loa": 12.06, 
       "draft": 2.07, 
+      "wetted_surface": 31.9, 
       "main": 48.2, 
       "genoa": 31.9, 
       "displacement": 7558.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 755.0
     }, 
     "year": "2001"
   }, 

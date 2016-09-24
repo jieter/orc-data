@@ -5,12 +5,13 @@
       1.1298, 
       1.2862
     ], 
-    "gph": 678.3, 
     "triple_inshore": [
       0.6586, 
       0.9149, 
       1.073
-    ]
+    ], 
+    "gph": 678.3, 
+    "osn": 656.3
   }, 
   "sailnumber": "ITA13007", 
   "name": "BALBEC", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.7, 
       "loa": 9.014, 
       "draft": 1.8, 
+      "wetted_surface": 21.1, 
       "main": 24.8, 
       "genoa": 21.4, 
       "displacement": 3305.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 580.0
     }, 
     "year": "1994"
   }, 

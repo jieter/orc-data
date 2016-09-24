@@ -5,12 +5,13 @@
       1.2212, 
       1.3685
     ], 
-    "gph": 622.6, 
     "triple_inshore": [
       0.735, 
       0.9913, 
       1.1511
-    ]
+    ], 
+    "gph": 622.6, 
+    "osn": 606.4
   }, 
   "sailnumber": "ITA8700", 
   "name": "VIOLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 122.2, 
       "loa": 12.1, 
       "draft": 2.18, 
+      "wetted_surface": 30.3, 
       "main": 35.0, 
       "genoa": 60.7, 
       "displacement": 7434.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "1977"
   }, 

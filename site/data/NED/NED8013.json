@@ -5,12 +5,13 @@
       1.2493, 
       1.4371
     ], 
-    "gph": 616.2, 
     "triple_inshore": [
       0.706, 
       0.9833, 
       1.1711
-    ]
+    ], 
+    "gph": 616.2, 
+    "osn": 597.9
   }, 
   "sailnumber": "NED8013", 
   "name": "Spirit", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.7, 
       "draft": 2.04, 
+      "wetted_surface": 39.5, 
       "main": 48.4, 
       "genoa": 44.6, 
       "displacement": 10853.0, 
-      "spinnaker_asym": 130.0
+      "spinnaker_asym": 130.0, 
+      "crew": 480.0
     }, 
     "year": "2006"
   }, 

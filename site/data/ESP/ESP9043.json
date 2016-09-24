@@ -5,12 +5,13 @@
       1.1244, 
       1.2738
     ], 
-    "gph": 679.4, 
     "triple_inshore": [
       0.6604, 
       0.9066, 
       1.0581
-    ]
+    ], 
+    "gph": 679.4, 
+    "osn": 660.1
   }, 
   "sailnumber": "ESP9043", 
   "name": "BULLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.7, 
       "loa": 9.52, 
       "draft": 1.66, 
+      "wetted_surface": 21.6, 
       "main": 29.2, 
       "genoa": 27.9, 
       "displacement": 3917.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "1999"
   }, 

@@ -5,12 +5,13 @@
       1.186, 
       1.3368
     ], 
-    "gph": 642.9, 
     "triple_inshore": [
       0.7047, 
       0.9593, 
       1.1208
-    ]
+    ], 
+    "gph": 642.9, 
+    "osn": 624.9
   }, 
   "sailnumber": "ARG3083", 
   "name": "SURENO", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.7, 
       "loa": 11.3, 
       "draft": 1.9, 
+      "wetted_surface": 27.1, 
       "main": 32.5, 
       "genoa": 42.8, 
       "displacement": 6249.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 580.0
     }, 
     "year": "1988"
   }, 

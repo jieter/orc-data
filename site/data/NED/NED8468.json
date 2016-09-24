@@ -5,12 +5,13 @@
       1.0259, 
       1.1802
     ], 
-    "gph": 747.6, 
     "triple_inshore": [
       0.5934, 
       0.8242, 
       0.987
-    ]
+    ], 
+    "gph": 747.6, 
+    "osn": 724.1
   }, 
   "sailnumber": "NED8468", 
   "name": "Lotus", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.7, 
       "loa": 8.5, 
       "draft": 1.42, 
+      "wetted_surface": 19.0, 
       "main": 20.4, 
       "genoa": 16.9, 
       "displacement": 3290.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 487.0
     }, 
     "year": "1990"
   }, 

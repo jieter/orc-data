@@ -5,12 +5,13 @@
       1.2673, 
       1.4296
     ], 
-    "gph": 597.8, 
     "triple_inshore": [
       0.767, 
       1.0227, 
       1.1758
-    ]
+    ], 
+    "gph": 597.8, 
+    "osn": 583.4
   }, 
   "sailnumber": "GER6524", 
   "name": "DESSERT D'ALCYONE", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.0, 
       "loa": 10.066, 
       "draft": 2.08, 
+      "wetted_surface": 22.5, 
       "main": 39.2, 
       "genoa": 27.7, 
       "displacement": 3042.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 240.0
     }, 
     "year": "2003"
   }, 

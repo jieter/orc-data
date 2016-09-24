@@ -5,12 +5,13 @@
       1.108, 
       1.2467
     ], 
-    "gph": 681.1, 
     "triple_inshore": [
       0.6854, 
       0.9082, 
       1.0258
-    ]
+    ], 
+    "gph": 681.1, 
+    "osn": 663.5
   }, 
   "sailnumber": "TUR25005", 
   "name": "SOS 1", 
@@ -25,10 +26,12 @@
       "spinnaker": 44.7, 
       "loa": 7.512, 
       "draft": 1.56, 
+      "wetted_surface": 12.1, 
       "main": 20.4, 
       "genoa": 12.4, 
       "displacement": 1272.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 355.0
     }, 
     "year": "1997"
   }, 

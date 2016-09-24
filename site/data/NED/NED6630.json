@@ -5,12 +5,13 @@
       1.1929, 
       1.3341
     ], 
-    "gph": 638.6, 
     "triple_inshore": [
       0.7103, 
       0.9552, 
       1.093
-    ]
+    ], 
+    "gph": 638.6, 
+    "osn": 622.1
   }, 
   "sailnumber": "NED6630", 
   "name": "Jam Session", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.57, 
       "draft": 1.64, 
+      "wetted_surface": 24.1, 
       "main": 35.6, 
       "genoa": 24.8, 
       "displacement": 4128.0, 
-      "spinnaker_asym": 88.0
+      "spinnaker_asym": 88.0, 
+      "crew": 180.0
     }, 
     "year": "1992"
   }, 

@@ -5,12 +5,13 @@
       1.301, 
       1.4973
     ], 
-    "gph": 591.3, 
     "triple_inshore": [
       0.7362, 
       1.0255, 
       1.2181
-    ]
+    ], 
+    "gph": 591.3, 
+    "osn": 574.0
   }, 
   "sailnumber": "NOR10804", 
   "name": "Norbreez II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.5, 
       "draft": 2.29, 
+      "wetted_surface": 43.9, 
       "main": 59.9, 
       "genoa": 57.7, 
       "displacement": 11971.0, 
-      "spinnaker_asym": 137.0
+      "spinnaker_asym": 137.0, 
+      "crew": 976.0
     }, 
     "year": "2000"
   }, 

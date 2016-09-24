@@ -5,12 +5,13 @@
       0.9811, 
       1.1139
     ], 
-    "gph": 778.1, 
     "triple_inshore": [
       0.578, 
       0.7888, 
       0.9273
-    ]
+    ], 
+    "gph": 778.1, 
+    "osn": 756.5
   }, 
   "sailnumber": "GRE49618", 
   "name": "HIMERA", 
@@ -25,10 +26,12 @@
       "spinnaker": 51.5, 
       "loa": 8.07, 
       "draft": 1.35, 
+      "wetted_surface": 16.3, 
       "main": 14.6, 
       "genoa": 27.1, 
       "displacement": 2971.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 446.0
     }, 
     "year": "1978"
   }, 

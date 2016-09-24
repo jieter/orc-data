@@ -5,12 +5,13 @@
       1.3722, 
       1.5637
     ], 
-    "gph": 552.2, 
     "triple_inshore": [
       0.8292, 
       1.1105, 
       1.2792
-    ]
+    ], 
+    "gph": 552.2, 
+    "osn": 537.6
   }, 
   "sailnumber": "SUI321", 
   "name": "FETTES BOOT", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.0, 
       "loa": 11.5, 
       "draft": 2.37, 
+      "wetted_surface": 28.4, 
       "main": 54.7, 
       "genoa": 40.3, 
       "displacement": 4270.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "1989"
   }, 

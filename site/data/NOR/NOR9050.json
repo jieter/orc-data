@@ -5,12 +5,13 @@
       1.3587, 
       1.5456
     ], 
-    "gph": 562.7, 
     "triple_inshore": [
       0.7892, 
       1.0804, 
       1.2783
-    ]
+    ], 
+    "gph": 562.7, 
+    "osn": 548.5
   }, 
   "sailnumber": "NOR9050", 
   "name": "Lady XL", 
@@ -25,10 +26,12 @@
       "spinnaker": 181.4, 
       "loa": 15.59, 
       "draft": 2.41, 
+      "wetted_surface": 46.2, 
       "main": 68.3, 
       "genoa": 80.8, 
       "displacement": 13797.0, 
-      "spinnaker_asym": 181.0
+      "spinnaker_asym": 181.0, 
+      "crew": 961.0
     }, 
     "year": "1990"
   }, 

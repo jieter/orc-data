@@ -5,12 +5,13 @@
       1.2268, 
       1.3863
     ], 
-    "gph": 622.3, 
     "triple_inshore": [
       0.7239, 
       0.9938, 
       1.1673
-    ]
+    ], 
+    "gph": 622.3, 
+    "osn": 604.5
   }, 
   "sailnumber": "NOR11168", 
   "name": "Silius", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.2, 
       "loa": 11.12, 
       "draft": 2.37, 
+      "wetted_surface": 29.1, 
       "main": 41.1, 
       "genoa": 42.1, 
       "displacement": 6749.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 716.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.2172, 
       1.4115
     ], 
-    "gph": 626.3, 
     "triple_inshore": [
       0.6915, 
       0.9544, 
       1.1691
-    ]
+    ], 
+    "gph": 626.3, 
+    "osn": 614.7
   }, 
   "sailnumber": "ITA16934", 
   "name": "SERENDIPITY 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.61, 
       "draft": 1.99, 
+      "wetted_surface": 35.0, 
       "main": 49.1, 
       "genoa": 42.8, 
       "displacement": 10032.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 455.0
     }, 
     "year": "2013"
   }, 

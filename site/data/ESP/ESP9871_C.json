@@ -5,12 +5,13 @@
       1.1478, 
       1.3415
     ], 
-    "gph": 670.0, 
     "triple_inshore": [
       0.6516, 
       0.9176, 
       1.1203
-    ]
+    ], 
+    "gph": 670.0, 
+    "osn": 647.9
   }, 
   "sailnumber": "ESP9871_C", 
   "name": "CANTAMANANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.0, 
       "loa": 10.944, 
       "draft": 2.06, 
+      "wetted_surface": 28.4, 
       "main": 29.3, 
       "genoa": 33.5, 
       "displacement": 5890.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 525.0
     }, 
     "year": "1999"
   }, 

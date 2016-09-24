@@ -5,12 +5,13 @@
       1.4396, 
       1.6788
     ], 
-    "gph": 533.8, 
     "triple_inshore": [
       0.8169, 
       1.1484, 
       1.362
-    ]
+    ], 
+    "gph": 533.8, 
+    "osn": 516.9
   }, 
   "sailnumber": "ITA34342", 
   "name": "BAGHERANG EVO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.99, 
       "draft": 2.6, 
+      "wetted_surface": 45.1, 
       "main": 66.5, 
       "genoa": 53.2, 
       "displacement": 10715.0, 
-      "spinnaker_asym": 184.0
+      "spinnaker_asym": 184.0, 
+      "crew": 450.0
     }, 
     "year": "2016"
   }, 

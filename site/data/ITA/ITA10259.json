@@ -5,12 +5,13 @@
       1.1989, 
       1.3488
     ], 
-    "gph": 637.6, 
     "triple_inshore": [
       0.7037, 
       0.9655, 
       1.125
-    ]
+    ], 
+    "gph": 637.6, 
+    "osn": 619.9
   }, 
   "sailnumber": "ITA10259", 
   "name": "TWIST", 
@@ -25,10 +26,12 @@
       "spinnaker": 147.7, 
       "loa": 11.74, 
       "draft": 1.88, 
+      "wetted_surface": 29.7, 
       "main": 36.0, 
       "genoa": 46.0, 
       "displacement": 7005.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1981"
   }, 

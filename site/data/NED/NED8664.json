@@ -5,12 +5,13 @@
       1.1772, 
       1.3682
     ], 
-    "gph": 655.2, 
     "triple_inshore": [
       0.6533, 
       0.9394, 
       1.1396
-    ]
+    ], 
+    "gph": 655.2, 
+    "osn": 634.7
   }, 
   "sailnumber": "NED8664", 
   "name": "Dame Blanche", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.27, 
       "draft": 1.99, 
+      "wetted_surface": 31.0, 
       "main": 45.4, 
       "genoa": 33.9, 
       "displacement": 6600.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 725.0
     }, 
     "year": "2012"
   }, 

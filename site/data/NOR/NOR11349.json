@@ -5,12 +5,13 @@
       1.1881, 
       1.3699
     ], 
-    "gph": 646.0, 
     "triple_inshore": [
       0.6765, 
       0.9401, 
       1.1235
-    ]
+    ], 
+    "gph": 646.0, 
+    "osn": 627.6
   }, 
   "sailnumber": "NOR11349", 
   "name": "MISS BEHAVE", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.0, 
       "loa": 11.83, 
       "draft": 1.71, 
+      "wetted_surface": 31.8, 
       "main": 37.3, 
       "genoa": 44.7, 
       "displacement": 7507.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 736.0
     }, 
     "year": "2002"
   }, 

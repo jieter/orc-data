@@ -5,12 +5,13 @@
       1.1362, 
       1.2929
     ], 
-    "gph": 673.7, 
     "triple_inshore": [
       0.6625, 
       0.9173, 
       1.0776
-    ]
+    ], 
+    "gph": 673.7, 
+    "osn": 653.3
   }, 
   "sailnumber": "NOR11817", 
   "name": "Minion", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.4, 
       "loa": 9.85, 
       "draft": 1.93, 
+      "wetted_surface": 22.2, 
       "main": 26.2, 
       "genoa": 31.3, 
       "displacement": 3814.0, 
-      "spinnaker_asym": 55.0
+      "spinnaker_asym": 55.0, 
+      "crew": 586.0
     }, 
     "year": "1998"
   }, 

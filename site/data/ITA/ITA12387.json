@@ -5,12 +5,13 @@
       1.2975, 
       1.4574
     ], 
-    "gph": 587.3, 
     "triple_inshore": [
       0.7689, 
       1.0439, 
       1.1985
-    ]
+    ], 
+    "gph": 587.3, 
+    "osn": 572.1
   }, 
   "sailnumber": "ITA12387", 
   "name": "PISTRICE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.98, 
       "draft": 2.4, 
+      "wetted_surface": 29.9, 
       "main": 41.6, 
       "genoa": 53.0, 
       "displacement": 5795.0, 
-      "spinnaker_asym": 125.0
+      "spinnaker_asym": 125.0, 
+      "crew": 600.0
     }, 
     "year": "1992"
   }, 

@@ -5,12 +5,13 @@
       1.1569, 
       1.3477
     ], 
-    "gph": 664.7, 
     "triple_inshore": [
       0.6502, 
       0.9174, 
       1.1113
-    ]
+    ], 
+    "gph": 664.7, 
+    "osn": 644.8
   }, 
   "sailnumber": "GRE1436", 
   "name": "ITANOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.5, 
       "loa": 11.2, 
       "draft": 1.88, 
+      "wetted_surface": 27.8, 
       "main": 31.2, 
       "genoa": 31.9, 
       "displacement": 5360.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 653.0
     }, 
     "year": "2002"
   }, 

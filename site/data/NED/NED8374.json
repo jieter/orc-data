@@ -5,12 +5,13 @@
       1.0664, 
       1.2321
     ], 
-    "gph": 719.1, 
     "triple_inshore": [
       0.6155, 
       0.8532, 
       1.0303
-    ]
+    ], 
+    "gph": 719.1, 
+    "osn": 696.8
   }, 
   "sailnumber": "NED8374", 
   "name": "Flyer", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.0, 
       "loa": 10.08, 
       "draft": 1.72, 
+      "wetted_surface": 25.9, 
       "main": 28.0, 
       "genoa": 27.3, 
       "displacement": 5693.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 430.0
     }, 
     "year": "1996"
   }, 

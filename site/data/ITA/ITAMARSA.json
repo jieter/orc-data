@@ -5,12 +5,13 @@
       1.1954, 
       1.443
     ], 
-    "gph": 654.7, 
     "triple_inshore": [
       0.6225, 
       0.9392, 
       1.1866
-    ]
+    ], 
+    "gph": 654.7, 
+    "osn": 629.4
   }, 
   "sailnumber": "ITAMARSA", 
   "name": "MARIASALVIA I^", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.8, 
       "draft": 3.15, 
+      "wetted_surface": 45.8, 
       "main": 50.3, 
       "genoa": 54.6, 
       "displacement": 10428.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2009"
   }, 

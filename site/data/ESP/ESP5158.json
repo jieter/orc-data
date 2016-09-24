@@ -5,12 +5,13 @@
       1.0656, 
       1.2026
     ], 
-    "gph": 715.9, 
     "triple_inshore": [
       0.6337, 
       0.8586, 
       1.0084
-    ]
+    ], 
+    "gph": 715.9, 
+    "osn": 695.6
   }, 
   "sailnumber": "ESP5158", 
   "name": "CREMISE", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.7, 
       "loa": 9.905, 
       "draft": 1.68, 
+      "wetted_surface": 22.1, 
       "main": 20.4, 
       "genoa": 35.9, 
       "displacement": 5346.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1977"
   }, 

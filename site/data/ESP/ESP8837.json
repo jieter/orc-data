@@ -5,12 +5,13 @@
       1.2217, 
       1.3813
     ], 
-    "gph": 625.8, 
     "triple_inshore": [
       0.7164, 
       0.9843, 
       1.1549
-    ]
+    ], 
+    "gph": 625.8, 
+    "osn": 607.9
   }, 
   "sailnumber": "ESP8837", 
   "name": "SOLVENTIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.9, 
       "loa": 11.345, 
       "draft": 2.08, 
+      "wetted_surface": 29.7, 
       "main": 43.6, 
       "genoa": 34.4, 
       "displacement": 6916.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 701.0
     }, 
     "year": "2004"
   }, 

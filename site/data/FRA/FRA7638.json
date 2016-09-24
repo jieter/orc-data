@@ -5,12 +5,13 @@
       1.3138, 
       1.4764
     ], 
-    "gph": 581.1, 
     "triple_inshore": [
       0.7756, 
       1.0573, 
       1.219
-    ]
+    ], 
+    "gph": 581.1, 
+    "osn": 565.1
   }, 
   "sailnumber": "FRA7638", 
   "name": "MILLENIUM FALCON", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.894, 
       "draft": 2.91, 
+      "wetted_surface": 31.2, 
       "main": 47.7, 
       "genoa": 42.3, 
       "displacement": 6909.0, 
-      "spinnaker_asym": 140.0
+      "spinnaker_asym": 140.0, 
+      "crew": 650.0
     }, 
     "year": "1978"
   }, 

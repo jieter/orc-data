@@ -5,12 +5,13 @@
       1.2024, 
       1.3908
     ], 
-    "gph": 639.2, 
     "triple_inshore": [
       0.6824, 
       0.9589, 
       1.1572
-    ]
+    ], 
+    "gph": 639.2, 
+    "osn": 619.5
   }, 
   "sailnumber": "NOR12785", 
   "name": "Sheherazade", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.25, 
       "draft": 2.02, 
+      "wetted_surface": 32.3, 
       "main": 42.5, 
       "genoa": 26.9, 
       "displacement": 7428.0, 
-      "spinnaker_asym": 104.0
+      "spinnaker_asym": 104.0, 
+      "crew": 755.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.1502, 
       1.2941
     ], 
-    "gph": 662.0, 
     "triple_inshore": [
       0.6878, 
       0.9341, 
       1.085
-    ]
+    ], 
+    "gph": 662.0, 
+    "osn": 644.3
   }, 
   "sailnumber": "NOR9282", 
   "name": "X Red dingo", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.0, 
       "loa": 10.2, 
       "draft": 1.87, 
+      "wetted_surface": 21.7, 
       "main": 27.1, 
       "genoa": 37.5, 
       "displacement": 4400.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 516.0
     }, 
     "year": "1989"
   }, 

@@ -5,12 +5,13 @@
       1.2083, 
       1.3561
     ], 
-    "gph": 628.2, 
     "triple_inshore": [
       0.7285, 
       0.9834, 
       1.138
-    ]
+    ], 
+    "gph": 628.2, 
+    "osn": 612.6
   }, 
   "sailnumber": "NED5025", 
   "name": "YESS", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.3, 
       "loa": 10.79, 
       "draft": 2.12, 
+      "wetted_surface": 25.3, 
       "main": 33.3, 
       "genoa": 51.7, 
       "displacement": 4713.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 606.0
     }, 
     "year": "1983"
   }, 

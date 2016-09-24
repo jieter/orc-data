@@ -5,12 +5,13 @@
       1.1272, 
       1.279
     ], 
-    "gph": 676.2, 
     "triple_inshore": [
       0.6579, 
       0.9015, 
       1.0656
-    ]
+    ], 
+    "gph": 676.2, 
+    "osn": 659.6
   }, 
   "sailnumber": "ITA11722", 
   "name": "LUSSIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.2, 
       "loa": 10.415, 
       "draft": 1.79, 
+      "wetted_surface": 23.8, 
       "main": 24.2, 
       "genoa": 34.8, 
       "displacement": 5042.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1986"
   }, 

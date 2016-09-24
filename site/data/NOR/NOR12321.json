@@ -5,12 +5,13 @@
       1.1579, 
       1.3271
     ], 
-    "gph": 653.6, 
     "triple_inshore": [
       0.6972, 
       0.9306, 
       1.0658
-    ]
+    ], 
+    "gph": 653.6, 
+    "osn": 638.9
   }, 
   "sailnumber": "NOR12321", 
   "name": "The Raft", 
@@ -25,10 +26,12 @@
       "spinnaker": 48.2, 
       "loa": 7.2, 
       "draft": 1.18, 
+      "wetted_surface": 13.1, 
       "main": 27.4, 
       "genoa": 15.6, 
       "displacement": 1332.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 357.0
     }, 
     "year": "1975"
   }, 

@@ -5,12 +5,13 @@
       1.3293, 
       1.4922
     ], 
-    "gph": 572.6, 
     "triple_inshore": [
       0.7939, 
       1.0757, 
       1.2418
-    ]
+    ], 
+    "gph": 572.6, 
+    "osn": 557.7
   }, 
   "sailnumber": "FIN45", 
   "name": "Nicole4", 
@@ -25,10 +26,12 @@
       "spinnaker": 130.5, 
       "loa": 12.35, 
       "draft": 2.5, 
+      "wetted_surface": 32.6, 
       "main": 54.6, 
       "genoa": 46.4, 
       "displacement": 6946.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 850.0
     }, 
     "year": "2006"
   }, 

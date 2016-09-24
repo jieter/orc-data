@@ -5,12 +5,13 @@
       0.9346, 
       1.0425
     ], 
-    "gph": 818.9, 
     "triple_inshore": [
       0.5498, 
       0.7555, 
       0.8624
-    ]
+    ], 
+    "gph": 818.9, 
+    "osn": 794.2
   }, 
   "sailnumber": "NED5422", 
   "name": "TRY TRY TRY", 
@@ -25,10 +26,12 @@
       "spinnaker": 35.7, 
       "loa": 6.76, 
       "draft": 1.16, 
+      "wetted_surface": 12.4, 
       "main": 13.3, 
       "genoa": 12.8, 
       "displacement": 1475.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 270.0
     }, 
     "year": "1967"
   }, 

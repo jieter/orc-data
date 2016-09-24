@@ -5,12 +5,13 @@
       1.2669, 
       1.4291
     ], 
-    "gph": 602.9, 
     "triple_inshore": [
       0.7453, 
       1.0232, 
       1.1977
-    ]
+    ], 
+    "gph": 602.9, 
+    "osn": 586.2
   }, 
   "sailnumber": "CRO1134", 
   "name": "Sultan", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.6, 
       "loa": 11.924, 
       "draft": 2.43, 
+      "wetted_surface": 31.7, 
       "main": 48.5, 
       "genoa": 46.2, 
       "displacement": 7443.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 751.0
     }, 
     "year": "1997"
   }, 

@@ -5,12 +5,13 @@
       1.1837, 
       1.3297
     ], 
-    "gph": 644.6, 
     "triple_inshore": [
       0.7037, 
       0.9612, 
       1.1164
-    ]
+    ], 
+    "gph": 644.6, 
+    "osn": 626.5
   }, 
   "sailnumber": "ESP8129", 
   "name": "CHRONO", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.4, 
       "loa": 9.982, 
       "draft": 2.02, 
+      "wetted_surface": 24.0, 
       "main": 34.3, 
       "genoa": 28.8, 
       "displacement": 4929.0, 
-      "spinnaker_asym": 77.0
+      "spinnaker_asym": 77.0, 
+      "crew": 350.0
     }, 
     "year": "2005"
   }, 

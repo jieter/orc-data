@@ -5,12 +5,13 @@
       1.2018, 
       1.3677
     ], 
-    "gph": 637.6, 
     "triple_inshore": [
       0.6955, 
       0.9623, 
       1.1396
-    ]
+    ], 
+    "gph": 637.6, 
+    "osn": 618.7
   }, 
   "sailnumber": "ITA15557", 
   "name": "KIRAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.3, 
       "loa": 11.313, 
       "draft": 1.97, 
+      "wetted_surface": 30.0, 
       "main": 41.7, 
       "genoa": 35.9, 
       "displacement": 7223.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2005"
   }, 

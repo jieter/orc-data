@@ -5,12 +5,13 @@
       1.3565, 
       1.5246
     ], 
-    "gph": 559.5, 
     "triple_inshore": [
       0.8143, 
       1.0933, 
       1.2567
-    ]
+    ], 
+    "gph": 559.5, 
+    "osn": 546.0
   }, 
   "sailnumber": "ITA15465", 
   "name": "ALISEA", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.4, 
       "loa": 12.145, 
       "draft": 2.36, 
+      "wetted_surface": 33.3, 
       "main": 57.9, 
       "genoa": 40.7, 
       "displacement": 5885.0, 
-      "spinnaker_asym": 161.0
+      "spinnaker_asym": 161.0, 
+      "crew": 640.0
     }, 
     "year": "2006"
   }, 

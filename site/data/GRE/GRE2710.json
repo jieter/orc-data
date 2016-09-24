@@ -5,12 +5,13 @@
       1.0312, 
       1.1775
     ], 
-    "gph": 741.5, 
     "triple_inshore": [
       0.6028, 
       0.8235, 
       0.9781
-    ]
+    ], 
+    "gph": 741.5, 
+    "osn": 720.5
   }, 
   "sailnumber": "GRE2710", 
   "name": "GALENA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.52, 
       "draft": 1.53, 
+      "wetted_surface": 20.4, 
       "main": 20.6, 
       "genoa": 27.7, 
       "displacement": 4491.0, 
-      "spinnaker_asym": 58.0
+      "spinnaker_asym": 58.0, 
+      "crew": 350.0
     }, 
     "year": "1981"
   }, 

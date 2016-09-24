@@ -5,12 +5,13 @@
       1.0931, 
       1.232
     ], 
-    "gph": 699.0, 
     "triple_inshore": [
       0.6438, 
       0.8825, 
       1.0294
-    ]
+    ], 
+    "gph": 699.0, 
+    "osn": 679.1
   }, 
   "sailnumber": "ITA15770", 
   "name": "FAUST X 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 52.5, 
       "loa": 9.12, 
       "draft": 1.74, 
+      "wetted_surface": 21.1, 
       "main": 27.2, 
       "genoa": 25.6, 
       "displacement": 3850.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 465.0
     }, 
     "year": "1994"
   }, 

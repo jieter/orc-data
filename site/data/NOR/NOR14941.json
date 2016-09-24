@@ -5,12 +5,13 @@
       1.2421, 
       1.4179
     ], 
-    "gph": 616.4, 
     "triple_inshore": [
       0.72, 
       0.997, 
       1.1798
-    ]
+    ], 
+    "gph": 616.4, 
+    "osn": 598.2
   }, 
   "sailnumber": "NOR14941", 
   "name": "Sheep Dip", 
@@ -25,10 +26,12 @@
       "spinnaker": 123.8, 
       "loa": 11.3, 
       "draft": 2.01, 
+      "wetted_surface": 31.9, 
       "main": 45.8, 
       "genoa": 36.1, 
       "displacement": 7519.0, 
-      "spinnaker_asym": 86.0
+      "spinnaker_asym": 86.0, 
+      "crew": 750.0
     }, 
     "year": "2013"
   }, 

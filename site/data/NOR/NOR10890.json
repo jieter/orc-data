@@ -5,12 +5,13 @@
       1.1656, 
       1.3228
     ], 
-    "gph": 656.7, 
     "triple_inshore": [
       0.679, 
       0.9386, 
       1.1029
-    ]
+    ], 
+    "gph": 656.7, 
+    "osn": 637.0
   }, 
   "sailnumber": "NOR10890", 
   "name": "Istedenfor", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.2, 
       "loa": 10.28, 
       "draft": 1.95, 
+      "wetted_surface": 25.2, 
       "main": 33.0, 
       "genoa": 32.7, 
       "displacement": 5181.0, 
-      "spinnaker_asym": 71.0
+      "spinnaker_asym": 71.0, 
+      "crew": 614.0
     }, 
     "year": "2003"
   }, 

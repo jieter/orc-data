@@ -5,12 +5,13 @@
       1.088, 
       1.2497
     ], 
-    "gph": 706.3, 
     "triple_inshore": [
       0.6167, 
       0.8507, 
       1.0161
-    ]
+    ], 
+    "gph": 706.3, 
+    "osn": 687.0
   }, 
   "sailnumber": "ITABELEL", 
   "name": "BELELLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.1, 
       "draft": 1.71, 
+      "wetted_surface": 27.3, 
       "main": 30.4, 
       "genoa": 41.2, 
       "displacement": 6481.0, 
-      "spinnaker_asym": 80.0
+      "spinnaker_asym": 80.0, 
+      "crew": 320.0
     }, 
     "year": "1988"
   }, 

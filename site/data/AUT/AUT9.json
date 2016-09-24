@@ -5,12 +5,13 @@
       1.3436, 
       1.5402
     ], 
-    "gph": 556.2, 
     "triple_inshore": [
       0.8483, 
       1.0875, 
       1.2577
-    ]
+    ], 
+    "gph": 556.2, 
+    "osn": 545.6
   }, 
   "sailnumber": "AUT9", 
   "name": "Svenja", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.0, 
       "loa": 10.06, 
       "draft": 1.61, 
+      "wetted_surface": 18.0, 
       "main": 36.9, 
       "genoa": 45.9, 
       "displacement": 2340.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1992"
   }, 

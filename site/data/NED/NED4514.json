@@ -5,12 +5,13 @@
       0.9461, 
       1.0787
     ], 
-    "gph": 812.1, 
     "triple_inshore": [
       0.5459, 
       0.7559, 
       0.8952
-    ]
+    ], 
+    "gph": 812.1, 
+    "osn": 786.7
   }, 
   "sailnumber": "NED4514", 
   "name": "DELOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 39.3, 
       "loa": 8.3, 
       "draft": 1.47, 
+      "wetted_surface": 17.8, 
       "main": 16.7, 
       "genoa": 19.3, 
       "displacement": 3346.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 392.0
     }, 
     "year": "1976"
   }, 

@@ -5,12 +5,13 @@
       1.2248, 
       1.3843
     ], 
-    "gph": 622.4, 
     "triple_inshore": [
       0.7242, 
       0.9897, 
       1.1594
-    ]
+    ], 
+    "gph": 622.4, 
+    "osn": 605.8
   }, 
   "sailnumber": "NOR10738", 
   "name": "Mimoka", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.5, 
       "loa": 11.16, 
       "draft": 2.09, 
+      "wetted_surface": 28.6, 
       "main": 40.3, 
       "genoa": 44.8, 
       "displacement": 6645.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 715.0
     }, 
     "year": "2004"
   }, 

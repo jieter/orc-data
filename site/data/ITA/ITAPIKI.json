@@ -5,12 +5,13 @@
       1.2548, 
       1.4169
     ], 
-    "gph": 606.8, 
     "triple_inshore": [
       0.7298, 
       0.9929, 
       1.1669
-    ]
+    ], 
+    "gph": 606.8, 
+    "osn": 595.4
   }, 
   "sailnumber": "ITAPIKI", 
   "name": "PIKI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 1.97, 
+      "wetted_surface": 34.9, 
       "main": 56.2, 
       "genoa": 51.1, 
       "displacement": 8414.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       1.2637, 
       1.426
     ], 
-    "gph": 604.0, 
     "triple_inshore": [
       0.7447, 
       1.0197, 
       1.196
-    ]
+    ], 
+    "gph": 604.0, 
+    "osn": 587.8
   }, 
   "sailnumber": "NED7222", 
   "name": "MOJO", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.8, 
       "loa": 11.924, 
       "draft": 2.45, 
+      "wetted_surface": 32.3, 
       "main": 48.2, 
       "genoa": 51.3, 
       "displacement": 7901.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 720.0
     }, 
     "year": "1997"
   }, 

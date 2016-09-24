@@ -5,12 +5,13 @@
       1.2482, 
       1.4235
     ], 
-    "gph": 614.6, 
     "triple_inshore": [
       0.7196, 
       1.0006, 
       1.1909
-    ]
+    ], 
+    "gph": 614.6, 
+    "osn": 596.0
   }, 
   "sailnumber": "ESP7973_C", 
   "name": "KALIMA V", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.2, 
       "loa": 12.33, 
       "draft": 2.33, 
+      "wetted_surface": 35.5, 
       "main": 48.8, 
       "genoa": 42.5, 
       "displacement": 8995.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 516.0
     }, 
     "year": "2003"
   }, 

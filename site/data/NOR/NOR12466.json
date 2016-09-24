@@ -5,12 +5,13 @@
       1.2265, 
       1.3841
     ], 
-    "gph": 621.6, 
     "triple_inshore": [
       0.7259, 
       0.9915, 
       1.1607
-    ]
+    ], 
+    "gph": 621.6, 
+    "osn": 604.9
   }, 
   "sailnumber": "NOR12466", 
   "name": "MIA MARA", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.8, 
       "loa": 11.33, 
       "draft": 2.09, 
+      "wetted_surface": 28.6, 
       "main": 41.1, 
       "genoa": 44.3, 
       "displacement": 6645.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 715.0
     }, 
     "year": "2004"
   }, 

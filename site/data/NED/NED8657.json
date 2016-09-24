@@ -5,12 +5,13 @@
       1.2903, 
       1.4486
     ], 
-    "gph": 588.0, 
     "triple_inshore": [
       0.7815, 
       1.0514, 
       1.2145
-    ]
+    ], 
+    "gph": 588.0, 
+    "osn": 573.4
   }, 
   "sailnumber": "NED8657", 
   "name": "Big Time", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.3, 
       "loa": 12.19, 
       "draft": 2.32, 
+      "wetted_surface": 27.2, 
       "main": 54.6, 
       "genoa": 30.8, 
       "displacement": 5973.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 665.0
     }, 
     "year": "1984"
   }, 

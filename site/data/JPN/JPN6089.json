@@ -5,12 +5,13 @@
       1.345, 
       1.5741
     ], 
-    "gph": 571.6, 
     "triple_inshore": [
       0.7554, 
       1.0678, 
       1.2698
-    ]
+    ], 
+    "gph": 571.6, 
+    "osn": 554.4
   }, 
   "sailnumber": "JPN6089", 
   "name": "MIROKU II", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.7, 
       "loa": 12.0, 
       "draft": 2.2, 
+      "wetted_surface": 28.4, 
       "main": 39.3, 
       "genoa": 45.1, 
       "displacement": 4079.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 791.0
     }, 
     "year": "2003"
   }, 

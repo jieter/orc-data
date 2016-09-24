@@ -5,12 +5,13 @@
       1.0657, 
       1.1963
     ], 
-    "gph": 714.0, 
     "triple_inshore": [
       0.641, 
       0.8662, 
       1.0056
-    ]
+    ], 
+    "gph": 714.0, 
+    "osn": 694.4
   }, 
   "sailnumber": "FRA6179", 
   "name": "MAEVA", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.1, 
       "loa": 9.21, 
       "draft": 1.73, 
+      "wetted_surface": 16.8, 
       "main": 23.4, 
       "genoa": 19.0, 
       "displacement": 3311.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1971"
   }, 

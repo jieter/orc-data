@@ -5,12 +5,13 @@
       0.9528, 
       1.1148
     ], 
-    "gph": 808.9, 
     "triple_inshore": [
       0.5385, 
       0.7635, 
       0.9303
-    ]
+    ], 
+    "gph": 808.9, 
+    "osn": 779.6
   }, 
   "sailnumber": "GRE877", 
   "name": "CHIMOULIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.363, 
       "draft": 1.8, 
+      "wetted_surface": 21.1, 
       "main": 16.3, 
       "genoa": 29.1, 
       "displacement": 4839.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 330.0
     }, 
     "year": "1981"
   }, 

@@ -5,12 +5,13 @@
       0.9902, 
       1.1131
     ], 
-    "gph": 770.3, 
     "triple_inshore": [
       0.5909, 
       0.8035, 
       0.9324
-    ]
+    ], 
+    "gph": 770.3, 
+    "osn": 748.3
   }, 
   "sailnumber": "POL15885", 
   "name": "SAFI", 
@@ -25,10 +26,12 @@
       "spinnaker": 47.5, 
       "loa": 8.05, 
       "draft": 1.53, 
+      "wetted_surface": 14.6, 
       "main": 13.0, 
       "genoa": 22.2, 
       "displacement": 2425.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 370.0
     }, 
     "year": "1977"
   }, 

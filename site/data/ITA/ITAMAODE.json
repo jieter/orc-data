@@ -5,12 +5,13 @@
       0.9899, 
       1.1648
     ], 
-    "gph": 780.9, 
     "triple_inshore": [
       0.5478, 
       0.7919, 
       0.9707
-    ]
+    ], 
+    "gph": 780.9, 
+    "osn": 753.0
   }, 
   "sailnumber": "ITAMAODE", 
   "name": "MAORI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.8, 
       "draft": 1.4, 
+      "wetted_surface": 19.3, 
       "main": 19.6, 
       "genoa": 19.4, 
       "displacement": 2850.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 260.0
     }, 
     "year": "1999"
   }, 

@@ -5,12 +5,13 @@
       1.1319, 
       1.2968
     ], 
-    "gph": 678.5, 
     "triple_inshore": [
       0.6516, 
       0.9136, 
       1.0848
-    ]
+    ], 
+    "gph": 678.5, 
+    "osn": 656.4
   }, 
   "sailnumber": "ESP8043_C", 
   "name": "APACHE", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.6, 
       "loa": 9.49, 
       "draft": 1.93, 
+      "wetted_surface": 21.8, 
       "main": 24.2, 
       "genoa": 26.3, 
       "displacement": 3712.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1998"
   }, 

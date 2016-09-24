@@ -5,12 +5,13 @@
       1.0671, 
       1.1802
     ], 
-    "gph": 701.1, 
     "triple_inshore": [
       0.6905, 
       0.8844, 
       0.9849
-    ]
+    ], 
+    "gph": 701.1, 
+    "osn": 684.3
   }, 
   "sailnumber": "ITA408MT", 
   "name": "ANTIGUA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.5, 
       "draft": 1.57, 
+      "wetted_surface": 12.3, 
       "main": 26.9, 
       "genoa": 17.7, 
       "displacement": 1350.0, 
-      "spinnaker_asym": 69.0
+      "spinnaker_asym": 69.0, 
+      "crew": 136.0
     }, 
     "year": "2001"
   }, 

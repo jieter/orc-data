@@ -5,12 +5,13 @@
       1.3158, 
       1.4966
     ], 
-    "gph": 580.5, 
     "triple_inshore": [
       0.771, 
       1.0625, 
       1.2467
-    ]
+    ], 
+    "gph": 580.5, 
+    "osn": 564.0
   }, 
   "sailnumber": "NOR13639", 
   "name": "Godevenner", 
@@ -25,10 +26,12 @@
       "spinnaker": 132.0, 
       "loa": 12.24, 
       "draft": 2.48, 
+      "wetted_surface": 34.7, 
       "main": 55.5, 
       "genoa": 41.3, 
       "displacement": 7856.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 795.0
     }, 
     "year": "2008"
   }, 

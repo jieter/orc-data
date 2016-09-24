@@ -5,12 +5,13 @@
       1.2757, 
       1.4423
     ], 
-    "gph": 598.8, 
     "triple_inshore": [
       0.7471, 
       1.0201, 
       1.1994
-    ]
+    ], 
+    "gph": 598.8, 
+    "osn": 583.0
   }, 
   "sailnumber": "ITA17109", 
   "name": "RELAX", 
@@ -25,10 +26,12 @@
       "spinnaker": 131.6, 
       "loa": 12.634, 
       "draft": 2.1, 
+      "wetted_surface": 38.9, 
       "main": 57.7, 
       "genoa": 58.8, 
       "displacement": 11288.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 840.0
     }, 
     "year": "2009"
   }, 

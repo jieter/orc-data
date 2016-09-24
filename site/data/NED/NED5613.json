@@ -5,12 +5,13 @@
       1.2087, 
       1.3747
     ], 
-    "gph": 632.7, 
     "triple_inshore": [
       0.7112, 
       0.9793, 
       1.1555
-    ]
+    ], 
+    "gph": 632.7, 
+    "osn": 612.6
   }, 
   "sailnumber": "NED5613", 
   "name": "Jager", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.4, 
       "loa": 10.65, 
       "draft": 2.12, 
+      "wetted_surface": 29.4, 
       "main": 37.0, 
       "genoa": 31.8, 
       "displacement": 6533.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 674.0
     }, 
     "year": "1995"
   }, 

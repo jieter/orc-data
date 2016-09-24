@@ -5,12 +5,13 @@
       1.073, 
       1.2806
     ], 
-    "gph": 721.9, 
     "triple_inshore": [
       0.5869, 
       0.856, 
       1.069
-    ]
+    ], 
+    "gph": 721.9, 
+    "osn": 694.7
   }, 
   "sailnumber": "ITA17150", 
   "name": "FAMMIVENTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.9, 
       "draft": 1.9, 
+      "wetted_surface": 29.1, 
       "main": 37.7, 
       "genoa": 26.9, 
       "displacement": 7000.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "2012"
   }, 

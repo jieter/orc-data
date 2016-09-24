@@ -5,12 +5,13 @@
       1.2574, 
       1.4651
     ], 
-    "gph": 612.9, 
     "triple_inshore": [
       0.7022, 
       0.9856, 
       1.1872
-    ]
+    ], 
+    "gph": 612.9, 
+    "osn": 594.8
   }, 
   "sailnumber": "ITA16922", 
   "name": "ARMONIA I", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.99, 
       "draft": 2.06, 
+      "wetted_surface": 42.6, 
       "main": 48.2, 
       "genoa": 59.5, 
       "displacement": 11445.0, 
-      "spinnaker_asym": 126.0
+      "spinnaker_asym": 126.0, 
+      "crew": 400.0
     }, 
     "year": "2004"
   }, 

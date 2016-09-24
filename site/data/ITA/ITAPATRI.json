@@ -5,12 +5,13 @@
       1.4375, 
       1.6452
     ], 
-    "gph": 527.0, 
     "triple_inshore": [
       0.8678, 
       1.1579, 
       1.3366
-    ]
+    ], 
+    "gph": 527.0, 
+    "osn": 512.7
   }, 
   "sailnumber": "ITAPATRI", 
   "name": "PATRICIA 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.18, 
       "draft": 3.0, 
+      "wetted_surface": 34.0, 
       "main": 73.2, 
       "genoa": 48.3, 
       "displacement": 5592.0, 
-      "spinnaker_asym": 166.0
+      "spinnaker_asym": 166.0, 
+      "crew": 530.0
     }, 
     "year": "2005"
   }, 

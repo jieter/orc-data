@@ -5,12 +5,13 @@
       1.1563, 
       1.3184
     ], 
-    "gph": 651.8, 
     "triple_inshore": [
       0.7153, 
       0.9399, 
       1.0812
-    ]
+    ], 
+    "gph": 651.8, 
+    "osn": 635.7
   }, 
   "sailnumber": "FRA29535", 
   "name": "SUPER JOSEPHINE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.48, 
       "draft": 1.67, 
+      "wetted_surface": 14.7, 
       "main": 24.4, 
       "genoa": 19.5, 
       "displacement": 1484.0, 
-      "spinnaker_asym": 76.0
+      "spinnaker_asym": 76.0, 
+      "crew": 320.0
     }, 
     "year": "2000"
   }, 

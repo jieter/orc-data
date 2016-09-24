@@ -5,12 +5,13 @@
       1.3013, 
       1.4908
     ], 
-    "gph": 591.2, 
     "triple_inshore": [
       0.7421, 
       1.0358, 
       1.2312
-    ]
+    ], 
+    "gph": 591.2, 
+    "osn": 572.7
   }, 
   "sailnumber": "ITA16820", 
   "name": "VENTISETTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.715, 
       "draft": 2.78, 
+      "wetted_surface": 40.8, 
       "main": 55.1, 
       "genoa": 46.5, 
       "displacement": 10992.0, 
-      "spinnaker_asym": 121.0
+      "spinnaker_asym": 121.0, 
+      "crew": 750.0
     }, 
     "year": "2004"
   }, 

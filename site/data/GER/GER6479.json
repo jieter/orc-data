@@ -5,12 +5,13 @@
       1.2214, 
       1.3844
     ], 
-    "gph": 625.3, 
     "triple_inshore": [
       0.7188, 
       0.9894, 
       1.1633
-    ]
+    ], 
+    "gph": 625.3, 
+    "osn": 607.1
   }, 
   "sailnumber": "GER6479", 
   "name": "GERONIMO", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.9, 
       "loa": 10.84, 
       "draft": 2.19, 
+      "wetted_surface": 27.5, 
       "main": 40.3, 
       "genoa": 35.0, 
       "displacement": 6206.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2004"
   }, 

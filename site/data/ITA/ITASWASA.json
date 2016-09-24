@@ -5,12 +5,13 @@
       1.1001, 
       1.2284
     ], 
-    "gph": 697.5, 
     "triple_inshore": [
       0.6394, 
       0.874, 
       1.0073
-    ]
+    ], 
+    "gph": 697.5, 
+    "osn": 677.9
   }, 
   "sailnumber": "ITASWASA", 
   "name": "SWASA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.72, 
       "draft": 1.81, 
+      "wetted_surface": 21.8, 
       "main": 27.0, 
       "genoa": 23.4, 
       "displacement": 4084.0, 
-      "spinnaker_asym": 63.0
+      "spinnaker_asym": 63.0, 
+      "crew": 500.0
     }, 
     "year": "2004"
   }, 

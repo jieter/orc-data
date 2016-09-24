@@ -5,12 +5,13 @@
       1.2625, 
       1.4472
     ], 
-    "gph": 608.2, 
     "triple_inshore": [
       0.7213, 
       0.9983, 
       1.1858
-    ]
+    ], 
+    "gph": 608.2, 
+    "osn": 590.9
   }, 
   "sailnumber": "NED7748", 
   "name": "De Bengel", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.15, 
       "draft": 2.21, 
+      "wetted_surface": 40.7, 
       "main": 58.4, 
       "genoa": 42.4, 
       "displacement": 11451.0, 
-      "spinnaker_asym": 105.0
+      "spinnaker_asym": 105.0, 
+      "crew": 450.0
     }, 
     "year": "2007"
   }, 

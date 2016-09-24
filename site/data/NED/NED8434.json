@@ -5,12 +5,13 @@
       1.28, 
       1.4715
     ], 
-    "gph": 600.0, 
     "triple_inshore": [
       0.7323, 
       1.0243, 
       1.2223
-    ]
+    ], 
+    "gph": 600.0, 
+    "osn": 581.4
   }, 
   "sailnumber": "NED8434", 
   "name": "Pelgrim", 
@@ -25,10 +26,12 @@
       "spinnaker": 112.2, 
       "loa": 12.5, 
       "draft": 2.25, 
+      "wetted_surface": 35.6, 
       "main": 49.7, 
       "genoa": 39.3, 
       "displacement": 8252.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 720.0
     }, 
     "year": "2010"
   }, 

@@ -5,12 +5,13 @@
       0.9852, 
       1.1104
     ], 
-    "gph": 775.8, 
     "triple_inshore": [
       0.5805, 
       0.7912, 
       0.9217
-    ]
+    ], 
+    "gph": 775.8, 
+    "osn": 753.9
   }, 
   "sailnumber": "SUI7201", 
   "name": "ITI NUI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.2, 
       "draft": 1.41, 
+      "wetted_surface": 12.6, 
       "main": 13.6, 
       "genoa": 10.6, 
       "displacement": 1655.0, 
-      "spinnaker_asym": 34.0
+      "spinnaker_asym": 34.0, 
+      "crew": 270.0
     }, 
     "year": "2002"
   }, 

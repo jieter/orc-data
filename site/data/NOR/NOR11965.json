@@ -5,12 +5,13 @@
       1.0918, 
       1.2546
     ], 
-    "gph": 700.0, 
     "triple_inshore": [
       0.6391, 
       0.8847, 
       1.0564
-    ]
+    ], 
+    "gph": 700.0, 
+    "osn": 678.7
   }, 
   "sailnumber": "NOR11965", 
   "name": "Rhapsody Blue", 
@@ -25,10 +26,12 @@
       "spinnaker": 46.9, 
       "loa": 8.75, 
       "draft": 1.82, 
+      "wetted_surface": 19.7, 
       "main": 24.9, 
       "genoa": 24.0, 
       "displacement": 3627.0, 
-      "spinnaker_asym": 48.0
+      "spinnaker_asym": 48.0, 
+      "crew": 526.0
     }, 
     "year": "1997"
   }, 

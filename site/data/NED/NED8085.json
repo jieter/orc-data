@@ -5,12 +5,13 @@
       1.2099, 
       1.3724
     ], 
-    "gph": 631.1, 
     "triple_inshore": [
       0.7134, 
       0.9778, 
       1.1533
-    ]
+    ], 
+    "gph": 631.1, 
+    "osn": 613.0
   }, 
   "sailnumber": "NED8085", 
   "name": "Midnight", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.3, 
       "loa": 10.972, 
       "draft": 2.0, 
+      "wetted_surface": 29.2, 
       "main": 42.8, 
       "genoa": 32.4, 
       "displacement": 6943.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 590.0
     }, 
     "year": "2000"
   }, 

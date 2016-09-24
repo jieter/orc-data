@@ -5,12 +5,13 @@
       1.1609, 
       1.3897
     ], 
-    "gph": 669.3, 
     "triple_inshore": [
       0.6174, 
       0.9086, 
       1.1371
-    ]
+    ], 
+    "gph": 669.3, 
+    "osn": 647.0
   }, 
   "sailnumber": "ESP10227_C", 
   "name": "KEIKO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.41, 
       "draft": 2.02, 
+      "wetted_surface": 39.5, 
       "main": 50.8, 
       "genoa": 49.9, 
       "displacement": 10246.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.3804, 
       1.5917
     ], 
-    "gph": 559.1, 
     "triple_inshore": [
       0.7704, 
       1.0872, 
       1.2986
-    ]
+    ], 
+    "gph": 559.1, 
+    "osn": 542.6
   }, 
   "sailnumber": "ITA15805", 
   "name": "AQUARIUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 16.08, 
       "draft": 2.75, 
+      "wetted_surface": 58.6, 
       "main": 79.4, 
       "genoa": 72.7, 
       "displacement": 18400.0, 
-      "spinnaker_asym": 174.0
+      "spinnaker_asym": 174.0, 
+      "crew": 640.0
     }, 
     "year": "2007"
   }, 

@@ -5,12 +5,13 @@
       1.6587, 
       1.8809
     ], 
-    "gph": 460.1, 
     "triple_inshore": [
       0.9703, 
       1.3247, 
       1.5607
-    ]
+    ], 
+    "gph": 460.1, 
+    "osn": 448.7
   }, 
   "sailnumber": "SWE14014", 
   "name": "BUGIA BIANCA", 
@@ -25,10 +26,12 @@
       "spinnaker": 387.1, 
       "loa": 21.28, 
       "draft": 3.98, 
+      "wetted_surface": 76.3, 
       "main": 145.9, 
       "genoa": 131.7, 
       "displacement": 27937.0, 
-      "spinnaker_asym": 386.0
+      "spinnaker_asym": 386.0, 
+      "crew": 1520.0
     }, 
     "year": "2001"
   }, 

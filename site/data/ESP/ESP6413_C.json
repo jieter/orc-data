@@ -5,12 +5,13 @@
       1.0546, 
       1.2043
     ], 
-    "gph": 726.4, 
     "triple_inshore": [
       0.6125, 
       0.8491, 
       0.9988
-    ]
+    ], 
+    "gph": 726.4, 
+    "osn": 704.5
   }, 
   "sailnumber": "ESP6413_C", 
   "name": "LUISON", 
@@ -25,10 +26,12 @@
       "spinnaker": 47.8, 
       "loa": 8.5, 
       "draft": 1.38, 
+      "wetted_surface": 17.7, 
       "main": 20.3, 
       "genoa": 20.2, 
       "displacement": 2722.0, 
-      "spinnaker_asym": 44.0
+      "spinnaker_asym": 44.0, 
+      "crew": 450.0
     }, 
     "year": "1999"
   }, 

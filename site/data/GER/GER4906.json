@@ -5,12 +5,13 @@
       1.0891, 
       1.228
     ], 
-    "gph": 702.1, 
     "triple_inshore": [
       0.6378, 
       0.8818, 
       1.0227
-    ]
+    ], 
+    "gph": 702.1, 
+    "osn": 682.5
   }, 
   "sailnumber": "GER4906", 
   "name": "LOTTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 48.6, 
       "loa": 9.0, 
       "draft": 1.61, 
+      "wetted_surface": 17.4, 
       "main": 22.5, 
       "genoa": 22.3, 
       "displacement": 2513.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 370.0
     }, 
     "year": "1978"
   }, 

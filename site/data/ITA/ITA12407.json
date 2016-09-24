@@ -5,12 +5,13 @@
       1.3196, 
       1.5296
     ], 
-    "gph": 584.5, 
     "triple_inshore": [
       0.7379, 
       1.0494, 
       1.2526
-    ]
+    ], 
+    "gph": 584.5, 
+    "osn": 566.1
   }, 
   "sailnumber": "ITA12407", 
   "name": "ORASI'", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.0, 
       "loa": 13.5, 
       "draft": 2.34, 
+      "wetted_surface": 31.7, 
       "main": 41.9, 
       "genoa": 43.4, 
       "displacement": 5687.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1992"
   }, 

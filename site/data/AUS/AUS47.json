@@ -5,12 +5,13 @@
       1.6369, 
       1.9152
     ], 
-    "gph": 462.4, 
     "triple_inshore": [
       0.9793, 
       1.296, 
       1.5285
-    ]
+    ], 
+    "gph": 462.4, 
+    "osn": 450.5
   }, 
   "sailnumber": "AUS47", 
   "name": "INDIAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.3, 
       "draft": 3.29, 
+      "wetted_surface": 40.1, 
       "main": 80.2, 
       "genoa": 59.8, 
       "displacement": 6320.0, 
-      "spinnaker_asym": 240.0
+      "spinnaker_asym": 240.0, 
+      "crew": 1010.0
     }, 
     "year": "2013"
   }, 

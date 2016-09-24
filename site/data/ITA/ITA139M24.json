@@ -5,12 +5,13 @@
       1.2169, 
       1.4597
     ], 
-    "gph": 623.4, 
     "triple_inshore": [
       0.7203, 
       0.9636, 
       1.1541
-    ]
+    ], 
+    "gph": 623.4, 
+    "osn": 604.9
   }, 
   "sailnumber": "ITA139M24", 
   "name": "ARKANOE'ALEALI by MONTUR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.509, 
       "draft": 1.52, 
+      "wetted_surface": 12.2, 
       "main": 22.3, 
       "genoa": 12.1, 
       "displacement": 821.0, 
-      "spinnaker_asym": 56.0
+      "spinnaker_asym": 56.0, 
+      "crew": 375.0
     }, 
     "year": "1992"
   }, 

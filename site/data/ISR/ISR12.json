@@ -5,12 +5,13 @@
       1.1012, 
       1.2733
     ], 
-    "gph": 700.5, 
     "triple_inshore": [
       0.6184, 
       0.8664, 
       1.042
-    ]
+    ], 
+    "gph": 700.5, 
+    "osn": 678.6
   }, 
   "sailnumber": "ISR12", 
   "name": "Semiramis", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.1, 
       "draft": 1.93, 
+      "wetted_surface": 27.4, 
       "main": 30.2, 
       "genoa": 36.6, 
       "displacement": 6300.0, 
-      "spinnaker_asym": 87.0
+      "spinnaker_asym": 87.0, 
+      "crew": 615.0
     }, 
     "year": "1990"
   }, 

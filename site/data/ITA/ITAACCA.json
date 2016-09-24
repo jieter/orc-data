@@ -5,12 +5,13 @@
       1.1973, 
       1.3741
     ], 
-    "gph": 640.6, 
     "triple_inshore": [
       0.6874, 
       0.9614, 
       1.1353
-    ]
+    ], 
+    "gph": 640.6, 
+    "osn": 621.4
   }, 
   "sailnumber": "ITAACCA", 
   "name": "JOD H", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.7, 
       "loa": 10.632, 
       "draft": 2.0, 
+      "wetted_surface": 24.7, 
       "main": 37.1, 
       "genoa": 27.3, 
       "displacement": 4123.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 460.0
     }, 
     "year": "1991"
   }, 

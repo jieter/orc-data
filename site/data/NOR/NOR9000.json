@@ -5,12 +5,13 @@
       1.384, 
       1.5605
     ], 
-    "gph": 545.8, 
     "triple_inshore": [
       0.8426, 
       1.1163, 
       1.2869
-    ]
+    ], 
+    "gph": 545.8, 
+    "osn": 533.9
   }, 
   "sailnumber": "NOR9000", 
   "name": "XFram", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.7, 
       "loa": 12.49, 
       "draft": 2.57, 
+      "wetted_surface": 30.1, 
       "main": 71.2, 
       "genoa": 35.7, 
       "displacement": 5562.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 765.0
     }, 
     "year": "0"
   }, 

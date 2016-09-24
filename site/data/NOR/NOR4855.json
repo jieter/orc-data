@@ -5,12 +5,13 @@
       1.1654, 
       1.3258
     ], 
-    "gph": 656.5, 
     "triple_inshore": [
       0.6793, 
       0.9371, 
       1.1078
-    ]
+    ], 
+    "gph": 656.5, 
+    "osn": 637.7
   }, 
   "sailnumber": "NOR4855", 
   "name": "Kalina III", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.7, 
       "loa": 11.1, 
       "draft": 2.04, 
+      "wetted_surface": 23.6, 
       "main": 35.0, 
       "genoa": 21.4, 
       "displacement": 5107.0, 
-      "spinnaker_asym": 66.0
+      "spinnaker_asym": 66.0, 
+      "crew": 566.0
     }, 
     "year": "1980"
   }, 

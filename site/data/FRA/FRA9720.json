@@ -5,12 +5,13 @@
       0.9705, 
       1.1095
     ], 
-    "gph": 788.5, 
     "triple_inshore": [
       0.5654, 
       0.7805, 
       0.9021
-    ]
+    ], 
+    "gph": 788.5, 
+    "osn": 764.7
   }, 
   "sailnumber": "FRA9720", 
   "name": "TOK TOKKIE", 
@@ -25,10 +26,12 @@
       "spinnaker": 32.3, 
       "loa": 7.342, 
       "draft": 1.2, 
+      "wetted_surface": 10.2, 
       "main": 7.9, 
       "genoa": 15.6, 
       "displacement": 898.0, 
-      "spinnaker_asym": 33.0
+      "spinnaker_asym": 33.0, 
+      "crew": 260.0
     }, 
     "year": "1972"
   }, 

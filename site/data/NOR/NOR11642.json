@@ -5,12 +5,13 @@
       1.2429, 
       1.422
     ], 
-    "gph": 617.1, 
     "triple_inshore": [
       0.714, 
       0.9856, 
       1.1635
-    ]
+    ], 
+    "gph": 617.1, 
+    "osn": 599.1
   }, 
   "sailnumber": "NOR11642", 
   "name": "Happiness", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.05, 
       "draft": 1.96, 
+      "wetted_surface": 35.0, 
       "main": 50.6, 
       "genoa": 36.7, 
       "displacement": 8023.0, 
-      "spinnaker_asym": 107.0
+      "spinnaker_asym": 107.0, 
+      "crew": 784.0
     }, 
     "year": "2005"
   }, 

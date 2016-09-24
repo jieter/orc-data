@@ -5,12 +5,13 @@
       1.2011, 
       1.3778
     ], 
-    "gph": 636.8, 
     "triple_inshore": [
       0.6956, 
       0.9673, 
       1.1366
-    ]
+    ], 
+    "gph": 636.8, 
+    "osn": 618.0
   }, 
   "sailnumber": "NOR5", 
   "name": "High5five", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.79, 
       "draft": 1.91, 
+      "wetted_surface": 23.0, 
       "main": 30.7, 
       "genoa": 28.5, 
       "displacement": 3752.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 587.0
     }, 
     "year": "2007"
   }, 

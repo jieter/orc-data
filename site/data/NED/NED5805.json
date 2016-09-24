@@ -5,12 +5,13 @@
       1.3011, 
       1.4661
     ], 
-    "gph": 585.2, 
     "triple_inshore": [
       0.7734, 
       1.0534, 
       1.2251
-    ]
+    ], 
+    "gph": 585.2, 
+    "osn": 569.9
   }, 
   "sailnumber": "NED5805", 
   "name": "FOXY", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.9, 
       "loa": 12.1, 
       "draft": 2.41, 
+      "wetted_surface": 31.0, 
       "main": 49.9, 
       "genoa": 52.8, 
       "displacement": 6656.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 820.0
     }, 
     "year": "2000"
   }, 

@@ -5,12 +5,13 @@
       1.2694, 
       1.4391
     ], 
-    "gph": 602.5, 
     "triple_inshore": [
       0.7414, 
       1.0216, 
       1.1998
-    ]
+    ], 
+    "gph": 602.5, 
+    "osn": 585.4
   }, 
   "sailnumber": "CRO1276", 
   "name": "Lea", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.8, 
       "loa": 12.017, 
       "draft": 2.44, 
+      "wetted_surface": 33.4, 
       "main": 47.4, 
       "genoa": 49.2, 
       "displacement": 7557.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 797.0
     }, 
     "year": "2003"
   }, 

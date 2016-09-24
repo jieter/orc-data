@@ -5,12 +5,13 @@
       0.9992, 
       1.1542
     ], 
-    "gph": 769.2, 
     "triple_inshore": [
       0.573, 
       0.7975, 
       0.9578
-    ]
+    ], 
+    "gph": 769.2, 
+    "osn": 744.6
   }, 
   "sailnumber": "ESP9331_C", 
   "name": "GUDUNGEN II", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.8, 
       "loa": 10.02, 
       "draft": 1.5, 
+      "wetted_surface": 21.5, 
       "main": 18.7, 
       "genoa": 25.8, 
       "displacement": 3910.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 453.0
     }, 
     "year": "1968"
   }, 

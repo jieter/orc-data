@@ -5,12 +5,13 @@
       1.2194, 
       1.3734
     ], 
-    "gph": 622.5, 
     "triple_inshore": [
       0.7376, 
       0.9992, 
       1.1478
-    ]
+    ], 
+    "gph": 622.5, 
+    "osn": 605.5
   }, 
   "sailnumber": "JPN150", 
   "name": "SHARK X", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.4, 
       "loa": 9.5, 
       "draft": 2.0, 
+      "wetted_surface": 20.4, 
       "main": 33.7, 
       "genoa": 28.0, 
       "displacement": 3283.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 523.0
     }, 
     "year": "2007"
   }, 

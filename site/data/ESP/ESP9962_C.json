@@ -5,12 +5,13 @@
       1.0362, 
       1.1706
     ], 
-    "gph": 732.9, 
     "triple_inshore": [
       0.6226, 
       0.8443, 
       0.9708
-    ]
+    ], 
+    "gph": 732.9, 
+    "osn": 713.1
   }, 
   "sailnumber": "ESP9962_C", 
   "name": "MANZANITA", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.7, 
       "loa": 7.606, 
       "draft": 1.5, 
+      "wetted_surface": 12.9, 
       "main": 21.2, 
       "genoa": 14.1, 
       "displacement": 1554.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 250.0
     }, 
     "year": "1977"
   }, 

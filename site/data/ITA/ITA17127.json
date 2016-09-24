@@ -5,12 +5,13 @@
       1.2777, 
       1.4646
     ], 
-    "gph": 597.6, 
     "triple_inshore": [
       0.7466, 
       1.0235, 
       1.1856
-    ]
+    ], 
+    "gph": 597.6, 
+    "osn": 580.1
   }, 
   "sailnumber": "ITA17127", 
   "name": "SOUND OF SILENCE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.88, 
       "draft": 2.05, 
+      "wetted_surface": 24.5, 
       "main": 38.6, 
       "genoa": 29.5, 
       "displacement": 4252.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 500.0
     }, 
     "year": "2015"
   }, 

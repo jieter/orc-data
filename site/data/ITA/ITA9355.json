@@ -5,12 +5,13 @@
       1.23, 
       1.3902
     ], 
-    "gph": 619.8, 
     "triple_inshore": [
       0.7286, 
       0.9759, 
       1.1471
-    ]
+    ], 
+    "gph": 619.8, 
+    "osn": 604.5
   }, 
   "sailnumber": "ITA9355", 
   "name": "MARIA VITTORIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.94, 
       "draft": 2.37, 
+      "wetted_surface": 41.8, 
       "main": 44.8, 
       "genoa": 82.0, 
       "displacement": 15051.0, 
-      "spinnaker_asym": 149.0
+      "spinnaker_asym": 149.0, 
+      "crew": 550.0
     }, 
     "year": "1970"
   }, 

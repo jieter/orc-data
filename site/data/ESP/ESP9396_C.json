@@ -5,12 +5,13 @@
       1.2468, 
       1.3991
     ], 
-    "gph": 610.8, 
     "triple_inshore": [
       0.7315, 
       0.9933, 
       1.1537
-    ]
+    ], 
+    "gph": 610.8, 
+    "osn": 597.6
   }, 
   "sailnumber": "ESP9396_C", 
   "name": "APOC APOC MORENITO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.029, 
       "draft": 2.15, 
+      "wetted_surface": 31.3, 
       "main": 39.4, 
       "genoa": 50.6, 
       "displacement": 6880.0, 
-      "spinnaker_asym": 119.0
+      "spinnaker_asym": 119.0, 
+      "crew": 280.0
     }, 
     "year": "1987"
   }, 

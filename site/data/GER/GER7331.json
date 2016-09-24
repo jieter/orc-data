@@ -5,12 +5,13 @@
       1.1591, 
       1.3086
     ], 
-    "gph": 658.7, 
     "triple_inshore": [
       0.6841, 
       0.9394, 
       1.0956
-    ]
+    ], 
+    "gph": 658.7, 
+    "osn": 639.3
   }, 
   "sailnumber": "GER7331", 
   "name": "MARELAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.24, 
       "draft": 1.92, 
+      "wetted_surface": 22.6, 
       "main": 30.6, 
       "genoa": 21.8, 
       "displacement": 4111.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 450.0
     }, 
     "year": "2009"
   }, 

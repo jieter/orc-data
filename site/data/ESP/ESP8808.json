@@ -5,12 +5,13 @@
       1.0804, 
       1.2391
     ], 
-    "gph": 709.8, 
     "triple_inshore": [
       0.6235, 
       0.8657, 
       1.0323
-    ]
+    ], 
+    "gph": 709.8, 
+    "osn": 688.3
   }, 
   "sailnumber": "ESP8808", 
   "name": "PICHURRI", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.1, 
       "loa": 10.112, 
       "draft": 1.76, 
+      "wetted_surface": 22.6, 
       "main": 26.5, 
       "genoa": 24.9, 
       "displacement": 4332.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 485.0
     }, 
     "year": "1981"
   }, 

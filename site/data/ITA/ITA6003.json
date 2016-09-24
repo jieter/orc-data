@@ -5,12 +5,13 @@
       1.013, 
       1.152
     ], 
-    "gph": 752.7, 
     "triple_inshore": [
       0.5997, 
       0.8253, 
       0.965
-    ]
+    ], 
+    "gph": 752.7, 
+    "osn": 730.8
   }, 
   "sailnumber": "ITA6003", 
   "name": "FINIMONDO", 
@@ -25,10 +26,12 @@
       "spinnaker": 33.8, 
       "loa": 7.86, 
       "draft": 1.42, 
+      "wetted_surface": 12.0, 
       "main": 15.1, 
       "genoa": 16.5, 
       "displacement": 1540.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 280.0
     }, 
     "year": "1974"
   }, 

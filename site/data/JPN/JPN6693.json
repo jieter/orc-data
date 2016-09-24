@@ -5,12 +5,13 @@
       1.3113, 
       1.4769
     ], 
-    "gph": 583.0, 
     "triple_inshore": [
       0.7679, 
       1.0548, 
       1.2196
-    ]
+    ], 
+    "gph": 583.0, 
+    "osn": 566.6
   }, 
   "sailnumber": "JPN6693", 
   "name": "MALOLO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.24, 
       "draft": 2.5, 
+      "wetted_surface": 34.4, 
       "main": 53.5, 
       "genoa": 38.6, 
       "displacement": 7943.0, 
-      "spinnaker_asym": 163.0
+      "spinnaker_asym": 163.0, 
+      "crew": 794.0
     }, 
     "year": "2008"
   }, 

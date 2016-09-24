@@ -5,12 +5,13 @@
       1.109, 
       1.2366
     ], 
-    "gph": 685.8, 
     "triple_inshore": [
       0.6674, 
       0.8964, 
       1.0328
-    ]
+    ], 
+    "gph": 685.8, 
+    "osn": 668.9
   }, 
   "sailnumber": "ITA10859", 
   "name": "BIG LILLIPUT", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.9, 
       "loa": 10.1, 
       "draft": 1.81, 
+      "wetted_surface": 23.0, 
       "main": 25.3, 
       "genoa": 43.4, 
       "displacement": 5073.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 470.0
     }, 
     "year": "1986"
   }, 

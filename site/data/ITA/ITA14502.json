@@ -5,12 +5,13 @@
       1.2794, 
       1.4713
     ], 
-    "gph": 598.6, 
     "triple_inshore": [
       0.7365, 
       1.0148, 
       1.2111
-    ]
+    ], 
+    "gph": 598.6, 
+    "osn": 582.1
   }, 
   "sailnumber": "ITA14502", 
   "name": "GIUBA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.98, 
       "draft": 2.23, 
+      "wetted_surface": 40.8, 
       "main": 48.4, 
       "genoa": 72.5, 
       "displacement": 11255.0, 
-      "spinnaker_asym": 134.0
+      "spinnaker_asym": 134.0, 
+      "crew": 550.0
     }, 
     "year": "1998"
   }, 

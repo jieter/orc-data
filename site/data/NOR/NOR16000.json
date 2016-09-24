@@ -5,12 +5,13 @@
       1.5154, 
       1.7805
     ], 
-    "gph": 501.3, 
     "triple_inshore": [
       0.8924, 
       1.1995, 
       1.4186
-    ]
+    ], 
+    "gph": 501.3, 
+    "osn": 487.9
   }, 
   "sailnumber": "NOR16000", 
   "name": "Ra Glede", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.6, 
       "draft": 2.35, 
+      "wetted_surface": 31.8, 
       "main": 66.3, 
       "genoa": 44.4, 
       "displacement": 4700.0, 
-      "spinnaker_asym": 173.0
+      "spinnaker_asym": 173.0, 
+      "crew": 836.0
     }, 
     "year": "2013"
   }, 

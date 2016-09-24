@@ -5,12 +5,13 @@
       1.2915, 
       1.4541
     ], 
-    "gph": 589.9, 
     "triple_inshore": [
       0.7666, 
       1.0431, 
       1.2109
-    ]
+    ], 
+    "gph": 589.9, 
+    "osn": 574.6
   }, 
   "sailnumber": "GER6970", 
   "name": "HALBTROCKEN XPRESS", 
@@ -25,10 +26,12 @@
       "spinnaker": 125.9, 
       "loa": 11.58, 
       "draft": 2.12, 
+      "wetted_surface": 31.4, 
       "main": 50.5, 
       "genoa": 39.5, 
       "displacement": 7114.0, 
-      "spinnaker_asym": 127.0
+      "spinnaker_asym": 127.0, 
+      "crew": 760.0
     }, 
     "year": "2011"
   }, 

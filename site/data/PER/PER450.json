@@ -5,12 +5,13 @@
       1.3149, 
       1.5154
     ], 
-    "gph": 586.4, 
     "triple_inshore": [
       0.7388, 
       1.0379, 
       1.2294
-    ]
+    ], 
+    "gph": 586.4, 
+    "osn": 568.3
   }, 
   "sailnumber": "PER450", 
   "name": "CONTRAVENTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.5, 
       "draft": 2.18, 
+      "wetted_surface": 45.2, 
       "main": 53.7, 
       "genoa": 54.3, 
       "displacement": 10319.0, 
-      "spinnaker_asym": 153.0
+      "spinnaker_asym": 153.0, 
+      "crew": 900.0
     }, 
     "year": "2013"
   }, 

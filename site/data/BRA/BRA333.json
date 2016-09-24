@@ -5,12 +5,13 @@
       1.3491, 
       1.5302
     ], 
-    "gph": 566.9, 
     "triple_inshore": [
       0.7866, 
       1.07, 
       1.2754
-    ]
+    ], 
+    "gph": 566.9, 
+    "osn": 552.0
   }, 
   "sailnumber": "BRA333", 
   "name": "SAGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 226.8, 
       "loa": 17.455, 
       "draft": 3.02, 
+      "wetted_surface": 62.0, 
       "main": 81.5, 
       "genoa": 116.1, 
       "displacement": 23729.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1094.0
     }, 
     "year": "1971"
   }, 

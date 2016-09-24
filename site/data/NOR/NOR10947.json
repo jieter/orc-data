@@ -5,12 +5,13 @@
       1.3515, 
       1.5257
     ], 
-    "gph": 564.5, 
     "triple_inshore": [
       0.795, 
       1.0842, 
       1.2722
-    ]
+    ], 
+    "gph": 564.5, 
+    "osn": 550.2
   }, 
   "sailnumber": "NOR10947", 
   "name": "Easygoing", 
@@ -25,10 +26,12 @@
       "spinnaker": 141.2, 
       "loa": 14.02, 
       "draft": 2.43, 
+      "wetted_surface": 39.9, 
       "main": 65.6, 
       "genoa": 63.4, 
       "displacement": 11056.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 955.0
     }, 
     "year": "2003"
   }, 

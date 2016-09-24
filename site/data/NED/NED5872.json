@@ -5,12 +5,13 @@
       1.206, 
       1.3646
     ], 
-    "gph": 631.7, 
     "triple_inshore": [
       0.7119, 
       0.968, 
       1.1365
-    ]
+    ], 
+    "gph": 631.7, 
+    "osn": 616.4
   }, 
   "sailnumber": "NED5872", 
   "name": "Duicibella", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.4, 
       "loa": 11.975, 
       "draft": 1.97, 
+      "wetted_surface": 32.5, 
       "main": 50.5, 
       "genoa": 52.3, 
       "displacement": 8169.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 657.0
     }, 
     "year": "1989"
   }, 

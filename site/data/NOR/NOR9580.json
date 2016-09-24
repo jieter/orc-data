@@ -5,12 +5,13 @@
       1.1518, 
       1.2985
     ], 
-    "gph": 662.9, 
     "triple_inshore": [
       0.6782, 
       0.9251, 
       1.0766
-    ]
+    ], 
+    "gph": 662.9, 
+    "osn": 644.7
   }, 
   "sailnumber": "NOR9580", 
   "name": "Effie Marconi", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.8, 
       "loa": 11.1, 
       "draft": 1.77, 
+      "wetted_surface": 25.0, 
       "main": 33.2, 
       "genoa": 32.4, 
       "displacement": 5260.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 594.0
     }, 
     "year": "1999"
   }, 

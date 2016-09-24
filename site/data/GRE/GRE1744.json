@@ -5,12 +5,13 @@
       1.4311, 
       1.6591
     ], 
-    "gph": 534.1, 
     "triple_inshore": [
       0.8149, 
       1.1343, 
       1.3269
-    ]
+    ], 
+    "gph": 534.1, 
+    "osn": 520.9
   }, 
   "sailnumber": "GRE1744", 
   "name": "HERMES 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.18, 
       "draft": 3.01, 
+      "wetted_surface": 37.1, 
       "main": 64.3, 
       "genoa": 41.9, 
       "displacement": 5508.0, 
-      "spinnaker_asym": 136.0
+      "spinnaker_asym": 136.0, 
+      "crew": 600.0
     }, 
     "year": "2011"
   }, 

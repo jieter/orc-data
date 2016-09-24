@@ -5,12 +5,13 @@
       1.2276, 
       1.4164
     ], 
-    "gph": 616.4, 
     "triple_inshore": [
       0.7453, 
       0.9903, 
       1.1474
-    ]
+    ], 
+    "gph": 616.4, 
+    "osn": 599.6
   }, 
   "sailnumber": "SUI15", 
   "name": "ESCAPADE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.99, 
       "draft": 1.96, 
+      "wetted_surface": 15.8, 
       "main": 26.3, 
       "genoa": 19.7, 
       "displacement": 1540.0, 
-      "spinnaker_asym": 69.0
+      "spinnaker_asym": 69.0, 
+      "crew": 483.0
     }, 
     "year": "2012"
   }, 

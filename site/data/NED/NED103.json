@@ -5,12 +5,13 @@
       1.1275, 
       1.2844
     ], 
-    "gph": 677.2, 
     "triple_inshore": [
       0.6677, 
       0.9084, 
       1.0788
-    ]
+    ], 
+    "gph": 677.2, 
+    "osn": 657.1
   }, 
   "sailnumber": "NED103", 
   "name": "BIZZY BEE", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.9, 
       "loa": 11.22, 
       "draft": 1.98, 
+      "wetted_surface": 26.3, 
       "main": 28.1, 
       "genoa": 34.0, 
       "displacement": 6786.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 609.0
     }, 
     "year": "1979"
   }, 

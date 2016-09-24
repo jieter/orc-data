@@ -5,12 +5,13 @@
       0.9891, 
       1.155
     ], 
-    "gph": 777.5, 
     "triple_inshore": [
       0.5621, 
       0.7938, 
       0.9684
-    ]
+    ], 
+    "gph": 777.5, 
+    "osn": 751.4
   }, 
   "sailnumber": "NOR747", 
   "name": "Dixie", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.5, 
       "draft": 1.69, 
+      "wetted_surface": 20.7, 
       "main": 18.4, 
       "genoa": 28.5, 
       "displacement": 4244.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 466.0
     }, 
     "year": "1976"
   }, 

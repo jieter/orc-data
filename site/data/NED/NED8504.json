@@ -5,12 +5,13 @@
       1.0089, 
       1.17
     ], 
-    "gph": 760.8, 
     "triple_inshore": [
       0.5764, 
       0.8063, 
       0.9741
-    ]
+    ], 
+    "gph": 760.8, 
+    "osn": 736.6
   }, 
   "sailnumber": "NED8504", 
   "name": "Zenith", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.172, 
       "draft": 1.69, 
+      "wetted_surface": 28.3, 
       "main": 30.1, 
       "genoa": 33.5, 
       "displacement": 8042.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1985"
   }, 

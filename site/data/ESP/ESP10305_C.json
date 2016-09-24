@@ -5,12 +5,13 @@
       0.9858, 
       1.1679
     ], 
-    "gph": 783.8, 
     "triple_inshore": [
       0.5411, 
       0.7684, 
       0.9491
-    ]
+    ], 
+    "gph": 783.8, 
+    "osn": 758.8
   }, 
   "sailnumber": "ESP10305_C", 
   "name": "GIN TONIC JR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.69, 
       "draft": 1.53, 
+      "wetted_surface": 19.4, 
       "main": 23.4, 
       "genoa": 15.0, 
       "displacement": 3118.0, 
-      "spinnaker_asym": 47.0
+      "spinnaker_asym": 47.0, 
+      "crew": 458.0
     }, 
     "year": "2002"
   }, 

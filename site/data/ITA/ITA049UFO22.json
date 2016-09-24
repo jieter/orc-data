@@ -5,12 +5,13 @@
       1.0933, 
       1.2511
     ], 
-    "gph": 685.5, 
     "triple_inshore": [
       0.6893, 
       0.8773, 
       1.0127
-    ]
+    ], 
+    "gph": 685.5, 
+    "osn": 670.9
   }, 
   "sailnumber": "ITA049UFO22", 
   "name": "FRISBEE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.623, 
       "draft": 1.58, 
+      "wetted_surface": 10.6, 
       "main": 19.5, 
       "genoa": 10.4, 
       "displacement": 760.0, 
-      "spinnaker_asym": 50.0
+      "spinnaker_asym": 50.0, 
+      "crew": 250.0
     }, 
     "year": "1997"
   }, 

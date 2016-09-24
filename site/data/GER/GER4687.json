@@ -5,12 +5,13 @@
       1.1744, 
       1.3185
     ], 
-    "gph": 649.0, 
     "triple_inshore": [
       0.6979, 
       0.9516, 
       1.1025
-    ]
+    ], 
+    "gph": 649.0, 
+    "osn": 632.1
   }, 
   "sailnumber": "GER4687", 
   "name": "QUATTRO", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.9, 
       "loa": 10.06, 
       "draft": 1.83, 
+      "wetted_surface": 24.4, 
       "main": 36.5, 
       "genoa": 32.1, 
       "displacement": 4707.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 590.0
     }, 
     "year": "1994"
   }, 

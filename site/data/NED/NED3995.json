@@ -5,12 +5,13 @@
       1.1498, 
       1.3218
     ], 
-    "gph": 662.6, 
     "triple_inshore": [
       0.6789, 
       0.9315, 
       1.076
-    ]
+    ], 
+    "gph": 662.6, 
+    "osn": 643.2
   }, 
   "sailnumber": "NED3995", 
   "name": "Pebbles", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.0, 
       "loa": 8.013, 
       "draft": 1.67, 
+      "wetted_surface": 15.1, 
       "main": 24.1, 
       "genoa": 14.8, 
       "displacement": 1471.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 405.0
     }, 
     "year": "1995"
   }, 

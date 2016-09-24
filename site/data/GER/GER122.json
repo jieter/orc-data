@@ -5,12 +5,13 @@
       1.1996, 
       1.352
     ], 
-    "gph": 634.4, 
     "triple_inshore": [
       0.7181, 
       0.9649, 
       1.1329
-    ]
+    ], 
+    "gph": 634.4, 
+    "osn": 618.1
   }, 
   "sailnumber": "GER122", 
   "name": "TAMAM", 
@@ -25,10 +26,12 @@
       "spinnaker": 129.7, 
       "loa": 12.78, 
       "draft": 2.15, 
+      "wetted_surface": 34.2, 
       "main": 37.1, 
       "genoa": 66.2, 
       "displacement": 10279.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "1974"
   }, 

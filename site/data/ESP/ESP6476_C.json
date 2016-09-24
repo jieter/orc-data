@@ -5,12 +5,13 @@
       1.1462, 
       1.3261
     ], 
-    "gph": 670.2, 
     "triple_inshore": [
       0.6532, 
       0.9133, 
       1.0985
-    ]
+    ], 
+    "gph": 670.2, 
+    "osn": 649.5
   }, 
   "sailnumber": "ESP6476_C", 
   "name": "ANGIE CMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.5, 
       "loa": 11.04, 
       "draft": 1.54, 
+      "wetted_surface": 25.8, 
       "main": 25.4, 
       "genoa": 36.3, 
       "displacement": 5395.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1999"
   }, 

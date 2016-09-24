@@ -5,12 +5,13 @@
       1.1359, 
       1.2793
     ], 
-    "gph": 674.8, 
     "triple_inshore": [
       0.6583, 
       0.9113, 
       1.065
-    ]
+    ], 
+    "gph": 674.8, 
+    "osn": 655.6
   }, 
   "sailnumber": "GER6457", 
   "name": "YAM", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.7, 
       "loa": 11.16, 
       "draft": 1.8, 
+      "wetted_surface": 22.5, 
       "main": 27.2, 
       "genoa": 20.3, 
       "displacement": 4227.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 300.0
     }, 
     "year": "1980"
   }, 

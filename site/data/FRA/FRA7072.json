@@ -5,12 +5,13 @@
       1.0933, 
       1.2304
     ], 
-    "gph": 696.3, 
     "triple_inshore": [
       0.6545, 
       0.8861, 
       1.0348
-    ]
+    ], 
+    "gph": 696.3, 
+    "osn": 677.8
   }, 
   "sailnumber": "FRA7072", 
   "name": "VARIATION", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.6, 
       "loa": 9.777, 
       "draft": 1.94, 
+      "wetted_surface": 21.4, 
       "main": 25.3, 
       "genoa": 41.2, 
       "displacement": 4851.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 595.0
     }, 
     "year": "1976"
   }, 

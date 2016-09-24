@@ -5,12 +5,13 @@
       1.035, 
       1.1524
     ], 
-    "gph": 735.8, 
     "triple_inshore": [
       0.6236, 
       0.8421, 
       0.9678
-    ]
+    ], 
+    "gph": 735.8, 
+    "osn": 715.5
   }, 
   "sailnumber": "NOR2908", 
   "name": "Felicity", 
@@ -25,10 +26,12 @@
       "spinnaker": 52.1, 
       "loa": 8.64, 
       "draft": 1.74, 
+      "wetted_surface": 18.6, 
       "main": 20.5, 
       "genoa": 26.9, 
       "displacement": 3628.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 435.0
     }, 
     "year": "1968"
   }, 

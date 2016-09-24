@@ -5,12 +5,13 @@
       1.2698, 
       1.4506
     ], 
-    "gph": 602.3, 
     "triple_inshore": [
       0.7416, 
       1.0271, 
       1.2024
-    ]
+    ], 
+    "gph": 602.3, 
+    "osn": 584.1
   }, 
   "sailnumber": "CRO4575", 
   "name": "Frapa", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.8, 
       "loa": 10.936, 
       "draft": 2.44, 
+      "wetted_surface": 26.7, 
       "main": 39.1, 
       "genoa": 26.2, 
       "displacement": 4288.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 505.0
     }, 
     "year": "2004"
   }, 

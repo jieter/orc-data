@@ -5,12 +5,13 @@
       1.1184, 
       1.2654
     ], 
-    "gph": 683.2, 
     "triple_inshore": [
       0.6561, 
       0.9001, 
       1.0499
-    ]
+    ], 
+    "gph": 683.2, 
+    "osn": 663.9
   }, 
   "sailnumber": "ESP5997", 
   "name": "ARROAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.2, 
       "loa": 9.52, 
       "draft": 1.66, 
+      "wetted_surface": 21.7, 
       "main": 28.7, 
       "genoa": 27.5, 
       "displacement": 3999.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 525.0
     }, 
     "year": "1997"
   }, 

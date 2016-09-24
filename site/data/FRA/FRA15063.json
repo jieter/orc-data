@@ -5,12 +5,13 @@
       1.2164, 
       1.39
     ], 
-    "gph": 628.6, 
     "triple_inshore": [
       0.7067, 
       0.9789, 
       1.1465
-    ]
+    ], 
+    "gph": 628.6, 
+    "osn": 610.9
   }, 
   "sailnumber": "FRA15063", 
   "name": "DEDALE", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.4, 
       "loa": 10.632, 
       "draft": 2.0, 
+      "wetted_surface": 24.7, 
       "main": 40.0, 
       "genoa": 27.6, 
       "displacement": 4093.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1991"
   }, 

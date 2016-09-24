@@ -5,12 +5,13 @@
       1.2405, 
       1.4154
     ], 
-    "gph": 617.9, 
     "triple_inshore": [
       0.7193, 
       0.9986, 
       1.1855
-    ]
+    ], 
+    "gph": 617.9, 
+    "osn": 598.7
   }, 
   "sailnumber": "GER7109", 
   "name": "DONNA KLARA", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.9, 
       "loa": 11.3, 
       "draft": 2.22, 
+      "wetted_surface": 31.3, 
       "main": 43.6, 
       "genoa": 35.4, 
       "displacement": 7320.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 525.0
     }, 
     "year": "2012"
   }, 

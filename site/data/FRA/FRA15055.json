@@ -5,12 +5,13 @@
       1.2331, 
       1.4038
     ], 
-    "gph": 618.5, 
     "triple_inshore": [
       0.7227, 
       0.991, 
       1.1531
-    ]
+    ], 
+    "gph": 618.5, 
+    "osn": 602.7
   }, 
   "sailnumber": "FRA15055", 
   "name": "PRINCESSE GOTIONUDE", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.0, 
       "loa": 10.632, 
       "draft": 1.99, 
+      "wetted_surface": 24.4, 
       "main": 43.0, 
       "genoa": 30.3, 
       "displacement": 3900.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1991"
   }, 

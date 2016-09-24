@@ -5,12 +5,13 @@
       1.3183, 
       1.494
     ], 
-    "gph": 578.7, 
     "triple_inshore": [
       0.779, 
       1.0687, 
       1.2511
-    ]
+    ], 
+    "gph": 578.7, 
+    "osn": 562.4
   }, 
   "sailnumber": "ITA1040", 
   "name": "CANEVEL SPUMANTI", 
@@ -25,10 +26,12 @@
       "spinnaker": 127.5, 
       "loa": 12.24, 
       "draft": 2.54, 
+      "wetted_surface": 33.7, 
       "main": 55.0, 
       "genoa": 42.9, 
       "displacement": 7868.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 780.0
     }, 
     "year": "2008"
   }, 

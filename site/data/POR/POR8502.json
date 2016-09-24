@@ -5,12 +5,13 @@
       1.1658, 
       1.379
     ], 
-    "gph": 663.0, 
     "triple_inshore": [
       0.6409, 
       0.9275, 
       1.1485
-    ]
+    ], 
+    "gph": 663.0, 
+    "osn": 641.6
   }, 
   "sailnumber": "POR8502", 
   "name": "AQUAHOLIC", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 1.98, 
+      "wetted_surface": 34.8, 
       "main": 50.0, 
       "genoa": 30.4, 
       "displacement": 8662.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 787.0
     }, 
     "year": "2006"
   }, 

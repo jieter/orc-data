@@ -5,12 +5,13 @@
       1.2619, 
       1.4262
     ], 
-    "gph": 605.8, 
     "triple_inshore": [
       0.7389, 
       1.0172, 
       1.1905
-    ]
+    ], 
+    "gph": 605.8, 
+    "osn": 588.7
   }, 
   "sailnumber": "CRO2525", 
   "name": "Svibor", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.6, 
       "loa": 11.924, 
       "draft": 2.43, 
+      "wetted_surface": 31.6, 
       "main": 48.3, 
       "genoa": 42.6, 
       "displacement": 7342.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 748.0
     }, 
     "year": "1997"
   }, 

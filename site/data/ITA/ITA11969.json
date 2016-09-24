@@ -5,12 +5,13 @@
       1.1518, 
       1.3195
     ], 
-    "gph": 665.5, 
     "triple_inshore": [
       0.6699, 
       0.9296, 
       1.1092
-    ]
+    ], 
+    "gph": 665.5, 
+    "osn": 643.7
   }, 
   "sailnumber": "ITA11969", 
   "name": "LEA", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.3, 
       "loa": 10.977, 
       "draft": 2.04, 
+      "wetted_surface": 25.7, 
       "main": 26.6, 
       "genoa": 37.1, 
       "displacement": 5623.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 490.0
     }, 
     "year": "1987"
   }, 

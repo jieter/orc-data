@@ -5,12 +5,13 @@
       1.409, 
       1.5867
     ], 
-    "gph": 538.0, 
     "triple_inshore": [
       0.8486, 
       1.1404, 
       1.324
-    ]
+    ], 
+    "gph": 538.0, 
+    "osn": 525.3
   }, 
   "sailnumber": "NOR12545", 
   "name": "Zorro", 
@@ -25,10 +26,12 @@
       "spinnaker": 147.4, 
       "loa": 13.829, 
       "draft": 2.83, 
+      "wetted_surface": 38.5, 
       "main": 80.7, 
       "genoa": 55.8, 
       "displacement": 9863.0, 
-      "spinnaker_asym": 138.0
+      "spinnaker_asym": 138.0, 
+      "crew": 938.0
     }, 
     "year": "2001"
   }, 

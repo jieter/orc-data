@@ -5,12 +5,13 @@
       1.254, 
       1.4234
     ], 
-    "gph": 609.9, 
     "triple_inshore": [
       0.7272, 
       1.0094, 
       1.1906
-    ]
+    ], 
+    "gph": 609.9, 
+    "osn": 593.6
   }, 
   "sailnumber": "ITA13005", 
   "name": "PESTIFERA", 
@@ -25,10 +26,12 @@
       "spinnaker": 114.3, 
       "loa": 11.948, 
       "draft": 2.55, 
+      "wetted_surface": 31.9, 
       "main": 41.1, 
       "genoa": 59.1, 
       "displacement": 7296.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 660.0
     }, 
     "year": "1994"
   }, 

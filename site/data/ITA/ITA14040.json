@@ -5,12 +5,13 @@
       1.298, 
       1.4665
     ], 
-    "gph": 586.6, 
     "triple_inshore": [
       0.7715, 
       1.051, 
       1.2239
-    ]
+    ], 
+    "gph": 586.6, 
+    "osn": 571.1
   }, 
   "sailnumber": "ITA14040", 
   "name": "MATRIX II", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.2, 
       "loa": 11.99, 
       "draft": 2.36, 
+      "wetted_surface": 30.1, 
       "main": 47.6, 
       "genoa": 53.1, 
       "displacement": 6416.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 765.0
     }, 
     "year": "2002"
   }, 

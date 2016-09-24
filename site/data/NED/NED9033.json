@@ -5,12 +5,13 @@
       1.1888, 
       1.3466
     ], 
-    "gph": 642.2, 
     "triple_inshore": [
       0.7016, 
       0.9635, 
       1.1222
-    ]
+    ], 
+    "gph": 642.2, 
+    "osn": 623.4
   }, 
   "sailnumber": "NED9033", 
   "name": "Zeeeend", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.808, 
       "draft": 1.47, 
+      "wetted_surface": 23.4, 
       "main": 31.9, 
       "genoa": 25.8, 
       "displacement": 4055.0, 
-      "spinnaker_asym": 74.0
+      "spinnaker_asym": 74.0, 
+      "crew": 628.0
     }, 
     "year": "2010"
   }, 

@@ -5,12 +5,13 @@
       1.4213, 
       1.6496
     ], 
-    "gph": 538.7, 
     "triple_inshore": [
       0.8024, 
       1.1243, 
       1.3196
-    ]
+    ], 
+    "gph": 538.7, 
+    "osn": 525.4
   }, 
   "sailnumber": "GRE1606", 
   "name": "HERMES", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.18, 
       "draft": 3.01, 
+      "wetted_surface": 37.1, 
       "main": 63.9, 
       "genoa": 41.9, 
       "displacement": 5508.0, 
-      "spinnaker_asym": 136.0
+      "spinnaker_asym": 136.0, 
+      "crew": 560.0
     }, 
     "year": "2011"
   }, 

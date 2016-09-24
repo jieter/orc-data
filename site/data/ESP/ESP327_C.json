@@ -5,12 +5,13 @@
       1.0899, 
       1.2637
     ], 
-    "gph": 693.2, 
     "triple_inshore": [
       0.6621, 
       0.8828, 
       1.0043
-    ]
+    ], 
+    "gph": 693.2, 
+    "osn": 675.0
   }, 
   "sailnumber": "ESP327_C", 
   "name": "DON PANSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.3, 
       "loa": 6.5, 
       "draft": 1.35, 
+      "wetted_surface": 12.4, 
       "main": 24.0, 
       "genoa": 16.6, 
       "displacement": 1089.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 331.0
     }, 
     "year": "1989"
   }, 

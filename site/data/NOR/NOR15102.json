@@ -5,12 +5,13 @@
       1.0825, 
       1.2206
     ], 
-    "gph": 705.3, 
     "triple_inshore": [
       0.6395, 
       0.8742, 
       1.0224
-    ]
+    ], 
+    "gph": 705.3, 
+    "osn": 685.5
   }, 
   "sailnumber": "NOR15102", 
   "name": "GAMBLER", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.5, 
       "loa": 9.75, 
       "draft": 1.71, 
+      "wetted_surface": 22.5, 
       "main": 30.4, 
       "genoa": 26.7, 
       "displacement": 4792.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 490.0
     }, 
     "year": "1985"
   }, 

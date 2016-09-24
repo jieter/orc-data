@@ -5,12 +5,13 @@
       1.144, 
       1.2922
     ], 
-    "gph": 668.2, 
     "triple_inshore": [
       0.6724, 
       0.9235, 
       1.0839
-    ]
+    ], 
+    "gph": 668.2, 
+    "osn": 649.0
   }, 
   "sailnumber": "ESP7022", 
   "name": "SEDDNA", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.8, 
       "loa": 10.025, 
       "draft": 1.93, 
+      "wetted_surface": 24.6, 
       "main": 32.3, 
       "genoa": 31.4, 
       "displacement": 5271.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 390.0
     }, 
     "year": "1998"
   }, 

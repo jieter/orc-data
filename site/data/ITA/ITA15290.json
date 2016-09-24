@@ -5,12 +5,13 @@
       1.2948, 
       1.4672
     ], 
-    "gph": 590.4, 
     "triple_inshore": [
       0.757, 
       1.0412, 
       1.2211
-    ]
+    ], 
+    "gph": 590.4, 
+    "osn": 574.1
   }, 
   "sailnumber": "ITA15290", 
   "name": "ZOOM", 
@@ -25,10 +26,12 @@
       "spinnaker": 116.6, 
       "loa": 12.48, 
       "draft": 2.36, 
+      "wetted_surface": 33.0, 
       "main": 51.9, 
       "genoa": 43.0, 
       "displacement": 7597.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "2005"
   }, 

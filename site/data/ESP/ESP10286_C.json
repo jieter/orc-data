@@ -5,12 +5,13 @@
       0.9526, 
       1.0996
     ], 
-    "gph": 807.3, 
     "triple_inshore": [
       0.5475, 
       0.7728, 
       0.9304
-    ]
+    ], 
+    "gph": 807.3, 
+    "osn": 778.6
   }, 
   "sailnumber": "ESP10286_C", 
   "name": "MAYUMBA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.94, 
       "draft": 1.65, 
+      "wetted_surface": 15.8, 
       "main": 12.2, 
       "genoa": 23.9, 
       "displacement": 2821.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 380.0
     }, 
     "year": "1980"
   }, 

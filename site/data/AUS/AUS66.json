@@ -5,12 +5,13 @@
       1.3383, 
       1.5297
     ], 
-    "gph": 563.4, 
     "triple_inshore": [
       0.8204, 
       1.0786, 
       1.2514
-    ]
+    ], 
+    "gph": 563.4, 
+    "osn": 549.8
   }, 
   "sailnumber": "AUS66", 
   "name": "Balmain Tiger", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.94, 
       "draft": 2.28, 
+      "wetted_surface": 19.3, 
       "main": 36.0, 
       "genoa": 25.6, 
       "displacement": 2220.0, 
-      "spinnaker_asym": 113.0
+      "spinnaker_asym": 113.0, 
+      "crew": 510.0
     }, 
     "year": "2007"
   }, 

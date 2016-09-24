@@ -5,12 +5,13 @@
       1.1619, 
       1.3052
     ], 
-    "gph": 655.3, 
     "triple_inshore": [
       0.6922, 
       0.9399, 
       1.0928
-    ]
+    ], 
+    "gph": 655.3, 
+    "osn": 638.4
   }, 
   "sailnumber": "ESP9862_C", 
   "name": "ENERI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.35, 
       "draft": 1.82, 
+      "wetted_surface": 25.3, 
       "main": 33.4, 
       "genoa": 38.0, 
       "displacement": 5692.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 500.0
     }, 
     "year": "2002"
   }, 

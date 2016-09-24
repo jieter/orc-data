@@ -5,12 +5,13 @@
       0.9864, 
       1.1131
     ], 
-    "gph": 772.3, 
     "triple_inshore": [
       0.5874, 
       0.7947, 
       0.9302
-    ]
+    ], 
+    "gph": 772.3, 
+    "osn": 751.6
   }, 
   "sailnumber": "GER6736", 
   "name": "CARPE DIEM", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.8, 
       "loa": 8.3, 
       "draft": 1.45, 
+      "wetted_surface": 17.1, 
       "main": 16.6, 
       "genoa": 25.0, 
       "displacement": 3500.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1979"
   }, 

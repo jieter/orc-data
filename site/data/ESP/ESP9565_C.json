@@ -5,12 +5,13 @@
       1.2202, 
       1.399
     ], 
-    "gph": 627.6, 
     "triple_inshore": [
       0.7079, 
       0.9855, 
       1.1539
-    ]
+    ], 
+    "gph": 627.6, 
+    "osn": 608.4
   }, 
   "sailnumber": "ESP9565_C", 
   "name": "HUBA", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.7, 
       "loa": 9.79, 
       "draft": 1.92, 
+      "wetted_surface": 22.7, 
       "main": 30.9, 
       "genoa": 27.3, 
       "displacement": 3514.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 350.0
     }, 
     "year": "2008"
   }, 

@@ -5,12 +5,13 @@
       1.3371, 
       1.527
     ], 
-    "gph": 574.1, 
     "triple_inshore": [
       0.7676, 
       1.0671, 
       1.2689
-    ]
+    ], 
+    "gph": 574.1, 
+    "osn": 557.2
   }, 
   "sailnumber": "ITA16854", 
   "name": "ORIONE", 
@@ -25,10 +26,12 @@
       "spinnaker": 149.2, 
       "loa": 14.1, 
       "draft": 2.63, 
+      "wetted_surface": 43.7, 
       "main": 66.8, 
       "genoa": 48.8, 
       "displacement": 12584.0, 
-      "spinnaker_asym": 125.0
+      "spinnaker_asym": 125.0, 
+      "crew": 820.0
     }, 
     "year": "2008"
   }, 

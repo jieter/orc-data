@@ -5,12 +5,13 @@
       1.3381, 
       1.5199
     ], 
-    "gph": 572.5, 
     "triple_inshore": [
       0.7772, 
       1.0732, 
       1.2508
-    ]
+    ], 
+    "gph": 572.5, 
+    "osn": 555.3
   }, 
   "sailnumber": "NOR15233", 
   "name": "Rainbow chaser", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.11, 
       "draft": 2.29, 
+      "wetted_surface": 37.8, 
       "main": 54.9, 
       "genoa": 46.0, 
       "displacement": 8826.0, 
-      "spinnaker_asym": 164.0
+      "spinnaker_asym": 164.0, 
+      "crew": 903.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.0769, 
       1.2381
     ], 
-    "gph": 715.5, 
     "triple_inshore": [
       0.6116, 
       0.876, 
       1.047
-    ]
+    ], 
+    "gph": 715.5, 
+    "osn": 689.9
   }, 
   "sailnumber": "ESP9206_C", 
   "name": "NONA IX", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.792, 
       "draft": 2.0, 
+      "wetted_surface": 20.5, 
       "main": 26.1, 
       "genoa": 21.2, 
       "displacement": 3217.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "2001"
   }, 

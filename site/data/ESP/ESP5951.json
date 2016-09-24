@@ -5,12 +5,13 @@
       1.2096, 
       1.3716
     ], 
-    "gph": 631.9, 
     "triple_inshore": [
       0.7075, 
       0.9746, 
       1.1448
-    ]
+    ], 
+    "gph": 631.9, 
+    "osn": 614.2
   }, 
   "sailnumber": "ESP5951", 
   "name": "PINYOL VERMELL", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.0, 
       "loa": 11.12, 
       "draft": 2.2, 
+      "wetted_surface": 27.1, 
       "main": 39.9, 
       "genoa": 33.6, 
       "displacement": 5704.0, 
-      "spinnaker_asym": 84.0
+      "spinnaker_asym": 84.0, 
+      "crew": 650.0
     }, 
     "year": "1993"
   }, 

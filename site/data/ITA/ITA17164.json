@@ -5,12 +5,13 @@
       1.0823, 
       1.2339
     ], 
-    "gph": 706.5, 
     "triple_inshore": [
       0.6359, 
       0.8708, 
       1.0326
-    ]
+    ], 
+    "gph": 706.5, 
+    "osn": 685.2
   }, 
   "sailnumber": "ITA17164", 
   "name": "BALTHAZAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.2, 
       "loa": 10.24, 
       "draft": 1.86, 
+      "wetted_surface": 23.9, 
       "main": 24.5, 
       "genoa": 40.0, 
       "displacement": 5461.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1978"
   }, 

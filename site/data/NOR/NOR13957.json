@@ -5,12 +5,13 @@
       0.9177, 
       1.1283
     ], 
-    "gph": 841.7, 
     "triple_inshore": [
       0.5064, 
       0.7345, 
       0.9388
-    ]
+    ], 
+    "gph": 841.7, 
+    "osn": 806.4
   }, 
   "sailnumber": "NOR13957", 
   "name": "Clupea", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.748, 
       "draft": 2.01, 
+      "wetted_surface": 35.1, 
       "main": 24.6, 
       "genoa": 31.8, 
       "displacement": 12435.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 596.0
     }, 
     "year": "1981"
   }, 

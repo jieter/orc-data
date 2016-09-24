@@ -5,12 +5,13 @@
       1.1155, 
       1.2916
     ], 
-    "gph": 691.9, 
     "triple_inshore": [
       0.6237, 
       0.887, 
       1.0735
-    ]
+    ], 
+    "gph": 691.9, 
+    "osn": 669.4
   }, 
   "sailnumber": "NED8540", 
   "name": "SOLSKEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.8, 
       "loa": 11.24, 
       "draft": 1.93, 
+      "wetted_surface": 28.1, 
       "main": 28.2, 
       "genoa": 41.7, 
       "displacement": 6333.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1982"
   }, 

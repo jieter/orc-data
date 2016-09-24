@@ -5,12 +5,13 @@
       1.0601, 
       1.1864
     ], 
-    "gph": 716.3, 
     "triple_inshore": [
       0.6441, 
       0.8625, 
       0.9968
-    ]
+    ], 
+    "gph": 716.3, 
+    "osn": 697.7
   }, 
   "sailnumber": "NED2220", 
   "name": "INFLEXIBLE", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.3, 
       "loa": 9.14, 
       "draft": 1.83, 
+      "wetted_surface": 19.6, 
       "main": 18.9, 
       "genoa": 36.9, 
       "displacement": 4143.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 462.0
     }, 
     "year": "1976"
   }, 

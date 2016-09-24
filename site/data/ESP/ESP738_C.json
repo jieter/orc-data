@@ -5,12 +5,13 @@
       1.0047, 
       1.1044
     ], 
-    "gph": 748.8, 
     "triple_inshore": [
       0.6399, 
       0.837, 
       0.9358
-    ]
+    ], 
+    "gph": 748.8, 
+    "osn": 730.3
   }, 
   "sailnumber": "ESP738_C", 
   "name": "WILLIAM MARTIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 44.3, 
       "loa": 7.53, 
       "draft": 1.46, 
+      "wetted_surface": 11.9, 
       "main": 13.7, 
       "genoa": 22.3, 
       "displacement": 1732.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1976"
   }, 

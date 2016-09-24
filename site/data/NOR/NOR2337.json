@@ -5,12 +5,13 @@
       0.9881, 
       1.1055
     ], 
-    "gph": 769.5, 
     "triple_inshore": [
       0.5978, 
       0.8064, 
       0.9274
-    ]
+    ], 
+    "gph": 769.5, 
+    "osn": 748.5
   }, 
   "sailnumber": "NOR2337", 
   "name": "Froya", 
@@ -25,10 +26,12 @@
       "spinnaker": 38.7, 
       "loa": 7.8, 
       "draft": 1.46, 
+      "wetted_surface": 13.8, 
       "main": 15.5, 
       "genoa": 19.2, 
       "displacement": 2215.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1978"
   }, 

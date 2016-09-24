@@ -5,12 +5,13 @@
       1.012, 
       1.1519
     ], 
-    "gph": 753.3, 
     "triple_inshore": [
       0.6002, 
       0.8166, 
       0.9531
-    ]
+    ], 
+    "gph": 753.3, 
+    "osn": 732.5
   }, 
   "sailnumber": "ITAPENELO", 
   "name": "PENELOPE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.35, 
       "draft": 1.84, 
+      "wetted_surface": 11.3, 
       "main": 15.6, 
       "genoa": 9.9, 
       "displacement": 1387.0, 
-      "spinnaker_asym": 26.0
+      "spinnaker_asym": 26.0, 
+      "crew": 320.0
     }, 
     "year": "2007"
   }, 

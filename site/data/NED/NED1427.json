@@ -5,12 +5,13 @@
       1.2224, 
       1.3902
     ], 
-    "gph": 626.5, 
     "triple_inshore": [
       0.7116, 
       0.9858, 
       1.1652
-    ]
+    ], 
+    "gph": 626.5, 
+    "osn": 607.3
   }, 
   "sailnumber": "NED1427", 
   "name": "Blues", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.2, 
       "loa": 11.3, 
       "draft": 2.34, 
+      "wetted_surface": 30.0, 
       "main": 40.4, 
       "genoa": 37.7, 
       "displacement": 6723.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 730.0
     }, 
     "year": "2005"
   }, 

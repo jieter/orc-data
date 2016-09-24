@@ -5,12 +5,13 @@
       1.1585, 
       1.2988
     ], 
-    "gph": 658.2, 
     "triple_inshore": [
       0.6872, 
       0.9339, 
       1.0883
-    ]
+    ], 
+    "gph": 658.2, 
+    "osn": 641.5
   }, 
   "sailnumber": "NED7358", 
   "name": "STAG", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.3, 
       "loa": 10.615, 
       "draft": 1.89, 
+      "wetted_surface": 26.1, 
       "main": 34.7, 
       "genoa": 38.8, 
       "displacement": 5753.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1993"
   }, 

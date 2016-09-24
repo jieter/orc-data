@@ -5,12 +5,13 @@
       1.1486, 
       1.3003
     ], 
-    "gph": 664.0, 
     "triple_inshore": [
       0.677, 
       0.931, 
       1.0764
-    ]
+    ], 
+    "gph": 664.0, 
+    "osn": 646.3
   }, 
   "sailnumber": "ITA8521", 
   "name": "KIWI", 
@@ -25,10 +26,12 @@
       "spinnaker": 44.1, 
       "loa": 9.53, 
       "draft": 1.8, 
+      "wetted_surface": 17.1, 
       "main": 29.2, 
       "genoa": 20.8, 
       "displacement": 2400.0, 
-      "spinnaker_asym": 51.0
+      "spinnaker_asym": 51.0, 
+      "crew": 400.0
     }, 
     "year": "1979"
   }, 

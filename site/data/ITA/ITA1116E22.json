@@ -5,12 +5,13 @@
       1.1183, 
       1.2813
     ], 
-    "gph": 684.6, 
     "triple_inshore": [
       0.6455, 
       0.9014, 
       1.0485
-    ]
+    ], 
+    "gph": 684.6, 
+    "osn": 664.3
   }, 
   "sailnumber": "ITA1116E22", 
   "name": "VLAG", 
@@ -25,10 +26,12 @@
       "spinnaker": 39.3, 
       "loa": 9.304, 
       "draft": 1.39, 
+      "wetted_surface": 13.0, 
       "main": 21.4, 
       "genoa": 9.8, 
       "displacement": 1521.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 383.0
     }, 
     "year": "1974"
   }, 

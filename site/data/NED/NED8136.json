@@ -5,12 +5,13 @@
       1.2647, 
       1.4334
     ], 
-    "gph": 604.7, 
     "triple_inshore": [
       0.7382, 
       1.0175, 
       1.1975
-    ]
+    ], 
+    "gph": 604.7, 
+    "osn": 587.5
   }, 
   "sailnumber": "NED8136", 
   "name": "Plexat", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.225, 
       "draft": 2.1, 
+      "wetted_surface": 32.7, 
       "main": 47.9, 
       "genoa": 35.6, 
       "displacement": 8045.0, 
-      "spinnaker_asym": 119.0
+      "spinnaker_asym": 119.0, 
+      "crew": 500.0
     }, 
     "year": "2004"
   }, 

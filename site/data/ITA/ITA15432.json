@@ -5,12 +5,13 @@
       1.1889, 
       1.3394
     ], 
-    "gph": 641.3, 
     "triple_inshore": [
       0.7052, 
       0.9571, 
       1.1062
-    ]
+    ], 
+    "gph": 641.3, 
+    "osn": 623.4
   }, 
   "sailnumber": "ITA15432", 
   "name": "MY PASSION", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.982, 
       "draft": 1.99, 
+      "wetted_surface": 23.3, 
       "main": 33.3, 
       "genoa": 26.6, 
       "displacement": 4442.0, 
-      "spinnaker_asym": 96.0
+      "spinnaker_asym": 96.0, 
+      "crew": 590.0
     }, 
     "year": "2005"
   }, 

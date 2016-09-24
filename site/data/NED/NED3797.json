@@ -5,12 +5,13 @@
       1.1912, 
       1.3517
     ], 
-    "gph": 640.5, 
     "triple_inshore": [
       0.7061, 
       0.9685, 
       1.1336
-    ]
+    ], 
+    "gph": 640.5, 
+    "osn": 621.4
   }, 
   "sailnumber": "NED3797", 
   "name": "ALDEBARAN V", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.1, 
       "loa": 10.79, 
       "draft": 2.12, 
+      "wetted_surface": 25.0, 
       "main": 32.8, 
       "genoa": 31.5, 
       "displacement": 4618.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 575.0
     }, 
     "year": "1983"
   }, 

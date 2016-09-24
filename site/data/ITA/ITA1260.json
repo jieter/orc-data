@@ -5,12 +5,13 @@
       1.5811, 
       1.8033
     ], 
-    "gph": 487.9, 
     "triple_inshore": [
       0.8889, 
       1.251, 
       1.4647
-    ]
+    ], 
+    "gph": 487.9, 
+    "osn": 474.1
   }, 
   "sailnumber": "ITA1260", 
   "name": "ALMABRADA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 18.825, 
       "draft": 3.38, 
+      "wetted_surface": 66.0, 
       "main": 116.4, 
       "genoa": 79.1, 
       "displacement": 18645.0, 
-      "spinnaker_asym": 316.0
+      "spinnaker_asym": 316.0, 
+      "crew": 850.0
     }, 
     "year": "2007"
   }, 

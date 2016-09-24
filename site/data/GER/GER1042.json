@@ -5,12 +5,13 @@
       1.1959, 
       1.3346
     ], 
-    "gph": 635.9, 
     "triple_inshore": [
       0.7191, 
       0.9703, 
       1.1098
-    ]
+    ], 
+    "gph": 635.9, 
+    "osn": 620.0
   }, 
   "sailnumber": "GER1042", 
   "name": "OPAL III", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.0, 
       "loa": 10.042, 
       "draft": 2.04, 
+      "wetted_surface": 21.9, 
       "main": 30.5, 
       "genoa": 33.0, 
       "displacement": 3657.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2000"
   }, 

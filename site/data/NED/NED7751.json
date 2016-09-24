@@ -5,12 +5,13 @@
       1.2204, 
       1.392
     ], 
-    "gph": 626.9, 
     "triple_inshore": [
       0.7107, 
       0.9764, 
       1.1591
-    ]
+    ], 
+    "gph": 626.9, 
+    "osn": 608.7
   }, 
   "sailnumber": "NED7751", 
   "name": "Marianne", 
@@ -25,10 +26,12 @@
       "spinnaker": 114.0, 
       "loa": 12.402, 
       "draft": 2.02, 
+      "wetted_surface": 33.2, 
       "main": 45.5, 
       "genoa": 39.3, 
       "displacement": 8897.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 743.0
     }, 
     "year": "2007"
   }, 

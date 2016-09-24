@@ -5,12 +5,13 @@
       1.2341, 
       1.3841
     ], 
-    "gph": 618.7, 
     "triple_inshore": [
       0.7281, 
       0.9885, 
       1.1341
-    ]
+    ], 
+    "gph": 618.7, 
+    "osn": 601.9
   }, 
   "sailnumber": "GER6592", 
   "name": "NEVER SAY NEVER", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.6, 
       "draft": 2.12, 
+      "wetted_surface": 26.8, 
       "main": 38.5, 
       "genoa": 29.6, 
       "displacement": 5043.0, 
-      "spinnaker_asym": 100.0
+      "spinnaker_asym": 100.0, 
+      "crew": 400.0
     }, 
     "year": "2010"
   }, 

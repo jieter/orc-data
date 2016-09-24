@@ -5,12 +5,13 @@
       1.233, 
       1.4135
     ], 
-    "gph": 624.6, 
     "triple_inshore": [
       0.7, 
       0.9861, 
       1.1662
-    ]
+    ], 
+    "gph": 624.6, 
+    "osn": 604.1
   }, 
   "sailnumber": "FRA9696", 
   "name": "RENARD des MERS", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.8, 
       "loa": 10.995, 
       "draft": 2.1, 
+      "wetted_surface": 28.1, 
       "main": 35.4, 
       "genoa": 26.7, 
       "displacement": 5096.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2006"
   }, 

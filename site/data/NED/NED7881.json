@@ -5,12 +5,13 @@
       1.1475, 
       1.3175
     ], 
-    "gph": 668.3, 
     "triple_inshore": [
       0.6624, 
       0.9221, 
       1.1034
-    ]
+    ], 
+    "gph": 668.3, 
+    "osn": 647.1
   }, 
   "sailnumber": "NED7881", 
   "name": "Hydra", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.4, 
       "loa": 10.3, 
       "draft": 1.97, 
+      "wetted_surface": 25.7, 
       "main": 29.6, 
       "genoa": 31.2, 
       "displacement": 5542.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "2003"
   }, 

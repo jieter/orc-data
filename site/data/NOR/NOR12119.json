@@ -5,12 +5,13 @@
       1.1671, 
       1.3122
     ], 
-    "gph": 650.5, 
     "triple_inshore": [
       0.6939, 
       0.9183, 
       1.0734
-    ]
+    ], 
+    "gph": 650.5, 
+    "osn": 637.9
   }, 
   "sailnumber": "NOR12119", 
   "name": "LUPI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.57, 
       "draft": 1.99, 
+      "wetted_surface": 38.9, 
       "main": 48.2, 
       "genoa": 39.0, 
       "displacement": 12606.0, 
-      "spinnaker_asym": 132.0
+      "spinnaker_asym": 132.0, 
+      "crew": 712.0
     }, 
     "year": "2004"
   }, 

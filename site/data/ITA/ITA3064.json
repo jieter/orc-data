@@ -5,12 +5,13 @@
       1.3009, 
       1.4952
     ], 
-    "gph": 577.0, 
     "triple_inshore": [
       0.8069, 
       1.0532, 
       1.2174
-    ]
+    ], 
+    "gph": 577.0, 
+    "osn": 564.8
   }, 
   "sailnumber": "ITA3064", 
   "name": "BIANCA", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.1, 
       "loa": 9.435, 
       "draft": 2.13, 
+      "wetted_surface": 17.5, 
       "main": 35.8, 
       "genoa": 21.4, 
       "displacement": 2178.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 530.0
     }, 
     "year": "1996"
   }, 

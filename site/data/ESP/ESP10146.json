@@ -5,12 +5,13 @@
       1.1523, 
       1.299
     ], 
-    "gph": 663.3, 
     "triple_inshore": [
       0.6782, 
       0.9312, 
       1.0882
-    ]
+    ], 
+    "gph": 663.3, 
+    "osn": 644.2
   }, 
   "sailnumber": "ESP10146", 
   "name": "BOSS", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.8, 
       "loa": 10.025, 
       "draft": 1.91, 
+      "wetted_surface": 23.9, 
       "main": 32.2, 
       "genoa": 29.8, 
       "displacement": 4911.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1998"
   }, 

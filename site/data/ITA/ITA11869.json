@@ -5,12 +5,13 @@
       1.2132, 
       1.3965
     ], 
-    "gph": 630.6, 
     "triple_inshore": [
       0.6835, 
       0.9497, 
       1.1593
-    ]
+    ], 
+    "gph": 630.6, 
+    "osn": 617.9
   }, 
   "sailnumber": "ITA11869", 
   "name": "AZIZA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.466, 
       "draft": 2.56, 
+      "wetted_surface": 40.8, 
       "main": 39.5, 
       "genoa": 58.4, 
       "displacement": 12181.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "1990"
   }, 

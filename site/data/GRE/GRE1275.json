@@ -5,12 +5,13 @@
       1.1799, 
       1.3197
     ], 
-    "gph": 645.5, 
     "triple_inshore": [
       0.7061, 
       0.9514, 
       1.0989
-    ]
+    ], 
+    "gph": 645.5, 
+    "osn": 628.0
   }, 
   "sailnumber": "GRE1275", 
   "name": "PARALOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.983, 
       "draft": 2.06, 
+      "wetted_surface": 24.9, 
       "main": 36.1, 
       "genoa": 26.3, 
       "displacement": 5172.0, 
-      "spinnaker_asym": 90.0
+      "spinnaker_asym": 90.0, 
+      "crew": 600.0
     }, 
     "year": "2006"
   }, 

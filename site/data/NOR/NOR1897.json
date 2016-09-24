@@ -5,12 +5,13 @@
       1.0315, 
       1.1829
     ], 
-    "gph": 742.4, 
     "triple_inshore": [
       0.5995, 
       0.8265, 
       0.987
-    ]
+    ], 
+    "gph": 742.4, 
+    "osn": 720.3
   }, 
   "sailnumber": "NOR1897", 
   "name": "Bucky Bullet", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.3, 
       "loa": 9.5, 
       "draft": 1.69, 
+      "wetted_surface": 20.7, 
       "main": 18.8, 
       "genoa": 31.4, 
       "displacement": 4244.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 466.0
     }, 
     "year": "1976"
   }, 

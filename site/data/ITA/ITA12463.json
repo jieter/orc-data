@@ -5,12 +5,13 @@
       1.1431, 
       1.3237
     ], 
-    "gph": 671.8, 
     "triple_inshore": [
       0.6573, 
       0.917, 
       1.1121
-    ]
+    ], 
+    "gph": 671.8, 
+    "osn": 649.6
   }, 
   "sailnumber": "ITA12463", 
   "name": "O' SFIZIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.0, 
       "loa": 11.475, 
       "draft": 2.27, 
+      "wetted_surface": 30.3, 
       "main": 27.5, 
       "genoa": 42.1, 
       "displacement": 7284.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1992"
   }, 

@@ -5,12 +5,13 @@
       1.2465, 
       1.3965
     ], 
-    "gph": 608.8, 
     "triple_inshore": [
       0.7539, 
       1.0078, 
       1.1456
-    ]
+    ], 
+    "gph": 608.8, 
+    "osn": 593.6
   }, 
   "sailnumber": "JPN6370", 
   "name": "TICTAC", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.991, 
       "draft": 1.91, 
+      "wetted_surface": 23.2, 
       "main": 35.8, 
       "genoa": 30.3, 
       "displacement": 4141.0, 
-      "spinnaker_asym": 110.0
+      "spinnaker_asym": 110.0, 
+      "crew": 591.0
     }, 
     "year": "2012"
   }, 

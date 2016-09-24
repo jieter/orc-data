@@ -5,12 +5,13 @@
       1.1389, 
       1.2887
     ], 
-    "gph": 671.8, 
     "triple_inshore": [
       0.6662, 
       0.9114, 
       1.067
-    ]
+    ], 
+    "gph": 671.8, 
+    "osn": 652.2
   }, 
   "sailnumber": "ITARONZI", 
   "name": "RONZINANTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.965, 
       "draft": 2.05, 
+      "wetted_surface": 22.6, 
       "main": 25.3, 
       "genoa": 31.4, 
       "displacement": 4380.0, 
-      "spinnaker_asym": 68.0
+      "spinnaker_asym": 68.0, 
+      "crew": 480.0
     }, 
     "year": "2003"
   }, 

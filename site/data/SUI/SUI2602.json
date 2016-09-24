@@ -5,12 +5,13 @@
       0.9772, 
       1.1041
     ], 
-    "gph": 780.3, 
     "triple_inshore": [
       0.5845, 
       0.7928, 
       0.9271
-    ]
+    ], 
+    "gph": 780.3, 
+    "osn": 757.6
   }, 
   "sailnumber": "SUI2602", 
   "name": "BLUE BAYOU", 
@@ -25,10 +26,12 @@
       "spinnaker": 45.8, 
       "loa": 8.055, 
       "draft": 1.56, 
+      "wetted_surface": 15.2, 
       "main": 12.7, 
       "genoa": 21.1, 
       "displacement": 2671.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 367.0
     }, 
     "year": "1976"
   }, 

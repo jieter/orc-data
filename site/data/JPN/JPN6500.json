@@ -5,12 +5,13 @@
       1.255, 
       1.4042
     ], 
-    "gph": 604.8, 
     "triple_inshore": [
       0.7572, 
       1.0214, 
       1.1704
-    ]
+    ], 
+    "gph": 604.8, 
+    "osn": 590.1
   }, 
   "sailnumber": "JPN6500", 
   "name": "FIVE STAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.2, 
       "loa": 10.6, 
       "draft": 2.17, 
+      "wetted_surface": 24.3, 
       "main": 42.8, 
       "genoa": 33.1, 
       "displacement": 4432.0, 
-      "spinnaker_asym": 92.0
+      "spinnaker_asym": 92.0, 
+      "crew": 680.0
     }, 
     "year": "2005"
   }, 

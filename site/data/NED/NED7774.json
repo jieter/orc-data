@@ -5,12 +5,13 @@
       1.2063, 
       1.3985
     ], 
-    "gph": 637.2, 
     "triple_inshore": [
       0.6839, 
       0.9561, 
       1.1548
-    ]
+    ], 
+    "gph": 637.2, 
+    "osn": 618.0
   }, 
   "sailnumber": "NED7774", 
   "name": "Bankroet", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.4, 
       "loa": 12.688, 
       "draft": 1.76, 
+      "wetted_surface": 37.4, 
       "main": 44.9, 
       "genoa": 46.0, 
       "displacement": 9058.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 799.0
     }, 
     "year": "1994"
   }, 

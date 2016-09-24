@@ -5,12 +5,13 @@
       1.0092, 
       1.1448
     ], 
-    "gph": 756.9, 
     "triple_inshore": [
       0.592, 
       0.8018, 
       0.9414
-    ]
+    ], 
+    "gph": 756.9, 
+    "osn": 737.0
   }, 
   "sailnumber": "GER7326", 
   "name": "ANTARES", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.8, 
       "loa": 9.35, 
       "draft": 1.26, 
+      "wetted_surface": 20.5, 
       "main": 21.6, 
       "genoa": 25.8, 
       "displacement": 4545.0, 
-      "spinnaker_asym": 59.0
+      "spinnaker_asym": 59.0, 
+      "crew": 480.0
     }, 
     "year": "1978"
   }, 

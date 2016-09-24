@@ -5,12 +5,13 @@
       1.1934, 
       1.3308
     ], 
-    "gph": 637.4, 
     "triple_inshore": [
       0.716, 
       0.9611, 
       1.0933
-    ]
+    ], 
+    "gph": 637.4, 
+    "osn": 621.4
   }, 
   "sailnumber": "ITA16603", 
   "name": "TAKE FIVE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.515, 
       "draft": 1.93, 
+      "wetted_surface": 23.5, 
       "main": 34.2, 
       "genoa": 29.9, 
       "displacement": 3929.0, 
-      "spinnaker_asym": 95.0
+      "spinnaker_asym": 95.0, 
+      "crew": 500.0
     }, 
     "year": "2010"
   }, 

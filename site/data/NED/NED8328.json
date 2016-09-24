@@ -5,12 +5,13 @@
       1.2473, 
       1.4127
     ], 
-    "gph": 612.1, 
     "triple_inshore": [
       0.7356, 
       1.0031, 
       1.1622
-    ]
+    ], 
+    "gph": 612.1, 
+    "osn": 594.0
   }, 
   "sailnumber": "NED8328", 
   "name": "Wendelin", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.5, 
       "draft": 2.12, 
+      "wetted_surface": 27.3, 
       "main": 37.4, 
       "genoa": 30.8, 
       "displacement": 5151.0, 
-      "spinnaker_asym": 104.0
+      "spinnaker_asym": 104.0, 
+      "crew": 689.0
     }, 
     "year": "2010"
   }, 

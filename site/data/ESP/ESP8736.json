@@ -5,12 +5,13 @@
       1.2365, 
       1.3872
     ], 
-    "gph": 616.0, 
     "triple_inshore": [
       0.7343, 
       0.9958, 
       1.153
-    ]
+    ], 
+    "gph": 616.0, 
+    "osn": 600.7
   }, 
   "sailnumber": "ESP8736", 
   "name": "S_AVENC", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.3, 
       "loa": 11.257, 
       "draft": 2.02, 
+      "wetted_surface": 29.1, 
       "main": 46.4, 
       "genoa": 39.2, 
       "displacement": 6376.0, 
-      "spinnaker_asym": 77.0
+      "spinnaker_asym": 77.0, 
+      "crew": 530.0
     }, 
     "year": "2005"
   }, 

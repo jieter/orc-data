@@ -5,12 +5,13 @@
       1.2228, 
       1.3855
     ], 
-    "gph": 625.6, 
     "triple_inshore": [
       0.7169, 
       0.9906, 
       1.1607
-    ]
+    ], 
+    "gph": 625.6, 
+    "osn": 606.9
   }, 
   "sailnumber": "FRA21716_C", 
   "name": "BAMAK", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.6, 
       "loa": 10.66, 
       "draft": 2.21, 
+      "wetted_surface": 27.6, 
       "main": 39.7, 
       "genoa": 29.3, 
       "displacement": 5692.0, 
-      "spinnaker_asym": 73.0
+      "spinnaker_asym": 73.0, 
+      "crew": 450.0
     }, 
     "year": "2009"
   }, 

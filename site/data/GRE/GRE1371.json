@@ -5,12 +5,13 @@
       1.1108, 
       1.2836
     ], 
-    "gph": 691.5, 
     "triple_inshore": [
       0.6318, 
       0.8723, 
       1.0488
-    ]
+    ], 
+    "gph": 691.5, 
+    "osn": 671.8
   }, 
   "sailnumber": "GRE1371", 
   "name": "CRYSTALLIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.5, 
       "draft": 1.62, 
+      "wetted_surface": 28.1, 
       "main": 30.2, 
       "genoa": 35.9, 
       "displacement": 6800.0, 
-      "spinnaker_asym": 79.0
+      "spinnaker_asym": 79.0, 
+      "crew": 420.0
     }, 
     "year": "1998"
   }, 

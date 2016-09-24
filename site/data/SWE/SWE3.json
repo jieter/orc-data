@@ -5,12 +5,13 @@
       1.2461, 
       1.4092
     ], 
-    "gph": 612.7, 
     "triple_inshore": [
       0.7308, 
       1.0027, 
       1.174
-    ]
+    ], 
+    "gph": 612.7, 
+    "osn": 596.4
   }, 
   "sailnumber": "SWE3", 
   "name": "Drak lunne", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.3, 
       "loa": 11.39, 
       "draft": 2.19, 
+      "wetted_surface": 30.9, 
       "main": 44.3, 
       "genoa": 47.2, 
       "displacement": 6852.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 758.0
     }, 
     "year": "2003"
   }, 

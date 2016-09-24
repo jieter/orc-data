@@ -5,12 +5,13 @@
       0.981, 
       1.0886
     ], 
-    "gph": 775.1, 
     "triple_inshore": [
       0.5939, 
       0.7977, 
       0.9079
-    ]
+    ], 
+    "gph": 775.1, 
+    "osn": 754.6
   }, 
   "sailnumber": "ESP3235", 
   "name": "XEIRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 46.8, 
       "loa": 7.635, 
       "draft": 1.51, 
+      "wetted_surface": 15.2, 
       "main": 16.0, 
       "genoa": 23.3, 
       "displacement": 2524.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 250.0
     }, 
     "year": "1978"
   }, 

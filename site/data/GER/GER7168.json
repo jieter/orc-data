@@ -5,12 +5,13 @@
       1.0719, 
       1.2081
     ], 
-    "gph": 712.9, 
     "triple_inshore": [
       0.6304, 
       0.8677, 
       1.0089
-    ]
+    ], 
+    "gph": 712.9, 
+    "osn": 692.4
   }, 
   "sailnumber": "GER7168", 
   "name": "NANNA", 
@@ -25,10 +26,12 @@
       "spinnaker": 45.4, 
       "loa": 8.91, 
       "draft": 1.53, 
+      "wetted_surface": 17.3, 
       "main": 23.6, 
       "genoa": 16.0, 
       "displacement": 2679.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1985"
   }, 

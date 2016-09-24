@@ -5,12 +5,13 @@
       1.1305, 
       1.2738
     ], 
-    "gph": 674.1, 
     "triple_inshore": [
       0.6726, 
       0.9156, 
       1.0616
-    ]
+    ], 
+    "gph": 674.1, 
+    "osn": 655.6
   }, 
   "sailnumber": "BRA2510", 
   "name": "HOBART", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.5, 
       "loa": 9.215, 
       "draft": 1.59, 
+      "wetted_surface": 21.2, 
       "main": 29.9, 
       "genoa": 25.4, 
       "displacement": 3798.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 520.0
     }, 
     "year": "2006"
   }, 

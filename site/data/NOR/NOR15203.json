@@ -5,12 +5,13 @@
       1.1665, 
       1.3352
     ], 
-    "gph": 656.7, 
     "triple_inshore": [
       0.6739, 
       0.926, 
       1.1037
-    ]
+    ], 
+    "gph": 656.7, 
+    "osn": 638.0
   }, 
   "sailnumber": "NOR15203", 
   "name": "Embla", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.9, 
       "draft": 1.95, 
+      "wetted_surface": 30.3, 
       "main": 39.8, 
       "genoa": 34.5, 
       "displacement": 6975.0, 
-      "spinnaker_asym": 74.0
+      "spinnaker_asym": 74.0, 
+      "crew": 689.0
     }, 
     "year": "2010"
   }, 

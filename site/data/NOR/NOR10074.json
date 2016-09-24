@@ -5,12 +5,13 @@
       1.2178, 
       1.3657
     ], 
-    "gph": 625.2, 
     "triple_inshore": [
       0.7271, 
       0.989, 
       1.1474
-    ]
+    ], 
+    "gph": 625.2, 
+    "osn": 609.1
   }, 
   "sailnumber": "NOR10074", 
   "name": "Klara", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.7, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.8, 
       "main": 40.4, 
       "genoa": 42.5, 
       "displacement": 5652.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 642.0
     }, 
     "year": "2002"
   }, 

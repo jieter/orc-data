@@ -5,12 +5,13 @@
       1.2753, 
       1.4444
     ], 
-    "gph": 598.8, 
     "triple_inshore": [
       0.7491, 
       1.0301, 
       1.2084
-    ]
+    ], 
+    "gph": 598.8, 
+    "osn": 582.2
   }, 
   "sailnumber": "ITA13263", 
   "name": "NESSUN DORMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.6, 
       "loa": 11.924, 
       "draft": 2.41, 
+      "wetted_surface": 31.0, 
       "main": 42.8, 
       "genoa": 54.5, 
       "displacement": 6937.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1997"
   }, 

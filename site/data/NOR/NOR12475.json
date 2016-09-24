@@ -5,12 +5,13 @@
       1.2282, 
       1.3971
     ], 
-    "gph": 621.9, 
     "triple_inshore": [
       0.7183, 
       0.984, 
       1.1606
-    ]
+    ], 
+    "gph": 621.9, 
+    "osn": 604.8
   }, 
   "sailnumber": "NOR12475", 
   "name": "Saramarie", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.6, 
       "loa": 12.2, 
       "draft": 1.92, 
+      "wetted_surface": 32.0, 
       "main": 41.5, 
       "genoa": 49.1, 
       "displacement": 7800.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 729.0
     }, 
     "year": "1998"
   }, 

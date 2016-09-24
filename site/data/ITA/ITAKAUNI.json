@@ -5,12 +5,13 @@
       1.0256, 
       1.1521
     ], 
-    "gph": 741.7, 
     "triple_inshore": [
       0.6131, 
       0.8264, 
       0.9581
-    ]
+    ], 
+    "gph": 741.7, 
+    "osn": 722.9
   }, 
   "sailnumber": "ITAKAUNI", 
   "name": "KAUNIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.55, 
       "draft": 1.5, 
+      "wetted_surface": 15.3, 
       "main": 20.5, 
       "genoa": 17.1, 
       "displacement": 2241.0, 
-      "spinnaker_asym": 50.0
+      "spinnaker_asym": 50.0, 
+      "crew": 430.0
     }, 
     "year": "1995"
   }, 

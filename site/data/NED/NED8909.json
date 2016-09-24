@@ -5,12 +5,13 @@
       1.2233, 
       1.3729
     ], 
-    "gph": 623.0, 
     "triple_inshore": [
       0.7289, 
       0.9877, 
       1.1395
-    ]
+    ], 
+    "gph": 623.0, 
+    "osn": 605.5
   }, 
   "sailnumber": "NED8909", 
   "name": "Vinur", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.757, 
       "draft": 2.15, 
+      "wetted_surface": 26.7, 
       "main": 39.1, 
       "genoa": 29.6, 
       "displacement": 5323.0, 
-      "spinnaker_asym": 109.0
+      "spinnaker_asym": 109.0, 
+      "crew": 645.0
     }, 
     "year": "2001"
   }, 

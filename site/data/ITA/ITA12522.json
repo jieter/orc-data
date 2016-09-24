@@ -5,12 +5,13 @@
       0.9789, 
       1.1061
     ], 
-    "gph": 775.3, 
     "triple_inshore": [
       0.5945, 
       0.8069, 
       0.9312
-    ]
+    ], 
+    "gph": 775.3, 
+    "osn": 752.4
   }, 
   "sailnumber": "ITA12522", 
   "name": "DOLASILLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 33.0, 
       "loa": 6.22, 
       "draft": 1.76, 
+      "wetted_surface": 11.4, 
       "main": 14.4, 
       "genoa": 11.1, 
       "displacement": 1252.0, 
-      "spinnaker_asym": 31.0
+      "spinnaker_asym": 31.0, 
+      "crew": 321.0
     }, 
     "year": "1993"
   }, 

@@ -5,12 +5,13 @@
       1.1147, 
       1.2822
     ], 
-    "gph": 689.2, 
     "triple_inshore": [
       0.6336, 
       0.8785, 
       1.0525
-    ]
+    ], 
+    "gph": 689.2, 
+    "osn": 669.3
   }, 
   "sailnumber": "GRE898", 
   "name": "PERIPETIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.4, 
       "loa": 11.3, 
       "draft": 1.65, 
+      "wetted_surface": 30.6, 
       "main": 30.8, 
       "genoa": 43.9, 
       "displacement": 7570.0, 
-      "spinnaker_asym": 87.0
+      "spinnaker_asym": 87.0, 
+      "crew": 380.0
     }, 
     "year": "1987"
   }, 

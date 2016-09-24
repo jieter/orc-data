@@ -5,12 +5,13 @@
       1.2039, 
       1.3582
     ], 
-    "gph": 634.7, 
     "triple_inshore": [
       0.7097, 
       0.976, 
       1.1409
-    ]
+    ], 
+    "gph": 634.7, 
+    "osn": 616.5
   }, 
   "sailnumber": "GER7085", 
   "name": "AUDACE", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.6, 
       "loa": 10.64, 
       "draft": 2.22, 
+      "wetted_surface": 26.6, 
       "main": 40.6, 
       "genoa": 30.0, 
       "displacement": 5597.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.2431, 
       1.4715
     ], 
-    "gph": 609.2, 
     "triple_inshore": [
       0.7452, 
       0.9895, 
       1.1714
-    ]
+    ], 
+    "gph": 609.2, 
+    "osn": 591.4
   }, 
   "sailnumber": "ITA109D81", 
   "name": "STENELLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.09, 
       "draft": 1.58, 
+      "wetted_surface": 13.2, 
       "main": 22.5, 
       "genoa": 16.0, 
       "displacement": 1010.0, 
-      "spinnaker_asym": 64.0
+      "spinnaker_asym": 64.0, 
+      "crew": 420.0
     }, 
     "year": "1992"
   }, 

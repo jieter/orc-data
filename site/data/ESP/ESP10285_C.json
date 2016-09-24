@@ -5,12 +5,13 @@
       1.0321, 
       1.1621
     ], 
-    "gph": 740.6, 
     "triple_inshore": [
       0.6063, 
       0.8278, 
       0.956
-    ]
+    ], 
+    "gph": 740.6, 
+    "osn": 719.5
   }, 
   "sailnumber": "ESP10285_C", 
   "name": "EL MALVADO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.461, 
       "draft": 1.46, 
+      "wetted_surface": 15.7, 
       "main": 20.1, 
       "genoa": 14.8, 
       "displacement": 2128.0, 
-      "spinnaker_asym": 50.0
+      "spinnaker_asym": 50.0, 
+      "crew": 270.0
     }, 
     "year": "2004"
   }, 

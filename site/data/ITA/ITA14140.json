@@ -5,12 +5,13 @@
       1.2801, 
       1.4369
     ], 
-    "gph": 595.3, 
     "triple_inshore": [
       0.7599, 
       1.0329, 
       1.1976
-    ]
+    ], 
+    "gph": 595.3, 
+    "osn": 580.0
   }, 
   "sailnumber": "ITA14140", 
   "name": "VAHINE' 5", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.4, 
       "loa": 11.99, 
       "draft": 2.37, 
+      "wetted_surface": 30.5, 
       "main": 47.9, 
       "genoa": 50.3, 
       "displacement": 6593.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 681.0
     }, 
     "year": "2001"
   }, 

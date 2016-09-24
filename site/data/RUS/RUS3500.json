@@ -5,12 +5,13 @@
       1.3866, 
       1.5782
     ], 
-    "gph": 546.1, 
     "triple_inshore": [
       0.8375, 
       1.1208, 
       1.2929
-    ]
+    ], 
+    "gph": 546.1, 
+    "osn": 532.3
   }, 
   "sailnumber": "RUS3500", 
   "name": "MEGAZIP", 
@@ -25,10 +26,12 @@
       "spinnaker": 131.7, 
       "loa": 11.99, 
       "draft": 2.56, 
+      "wetted_surface": 28.4, 
       "main": 53.3, 
       "genoa": 43.9, 
       "displacement": 4783.0, 
-      "spinnaker_asym": 133.0
+      "spinnaker_asym": 133.0, 
+      "crew": 710.0
     }, 
     "year": "1995"
   }, 

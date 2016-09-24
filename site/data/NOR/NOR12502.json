@@ -5,12 +5,13 @@
       1.2456, 
       1.3997
     ], 
-    "gph": 610.3, 
     "triple_inshore": [
       0.7452, 
       1.0067, 
       1.1654
-    ]
+    ], 
+    "gph": 610.3, 
+    "osn": 595.2
   }, 
   "sailnumber": "NOR12502", 
   "name": "Braveheart", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.7, 
       "loa": 11.36, 
       "draft": 2.1, 
+      "wetted_surface": 27.6, 
       "main": 40.9, 
       "genoa": 51.3, 
       "displacement": 5479.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 666.0
     }, 
     "year": "1992"
   }, 

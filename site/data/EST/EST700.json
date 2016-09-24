@@ -5,12 +5,13 @@
       1.1508, 
       1.3089
     ], 
-    "gph": 665.2, 
     "triple_inshore": [
       0.6716, 
       0.9326, 
       1.0926
-    ]
+    ], 
+    "gph": 665.2, 
+    "osn": 644.7
   }, 
   "sailnumber": "EST700", 
   "name": "HELIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.4, 
       "loa": 9.35, 
       "draft": 2.03, 
+      "wetted_surface": 21.1, 
       "main": 30.4, 
       "genoa": 20.4, 
       "displacement": 3450.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 499.0
     }, 
     "year": "2012"
   }, 

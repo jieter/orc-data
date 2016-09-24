@@ -5,12 +5,13 @@
       1.2707, 
       1.4273
     ], 
-    "gph": 597.4, 
     "triple_inshore": [
       0.7557, 
       1.0224, 
       1.1692
-    ]
+    ], 
+    "gph": 597.4, 
+    "osn": 583.9
   }, 
   "sailnumber": "NOR13911", 
   "name": "PILAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.58, 
       "draft": 2.16, 
+      "wetted_surface": 24.9, 
       "main": 38.7, 
       "genoa": 30.3, 
       "displacement": 4623.0, 
-      "spinnaker_asym": 123.0
+      "spinnaker_asym": 123.0, 
+      "crew": 623.0
     }, 
     "year": "2005"
   }, 

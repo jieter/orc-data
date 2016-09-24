@@ -5,12 +5,13 @@
       1.1701, 
       1.3077
     ], 
-    "gph": 651.0, 
     "triple_inshore": [
       0.701, 
       0.9506, 
       1.0981
-    ]
+    ], 
+    "gph": 651.0, 
+    "osn": 633.5
   }, 
   "sailnumber": "ESP2972_C", 
   "name": "ZETA", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.6, 
       "loa": 11.022, 
       "draft": 1.99, 
+      "wetted_surface": 24.6, 
       "main": 28.9, 
       "genoa": 39.9, 
       "displacement": 5098.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 160.0
     }, 
     "year": "1986"
   }, 

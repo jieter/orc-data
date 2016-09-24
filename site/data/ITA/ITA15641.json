@@ -5,12 +5,13 @@
       1.2876, 
       1.4585
     ], 
-    "gph": 594.0, 
     "triple_inshore": [
       0.7501, 
       1.0334, 
       1.2118
-    ]
+    ], 
+    "gph": 594.0, 
+    "osn": 577.7
   }, 
   "sailnumber": "ITA15641", 
   "name": "MAMAMEA", 
@@ -25,10 +26,12 @@
       "spinnaker": 114.5, 
       "loa": 12.48, 
       "draft": 2.17, 
+      "wetted_surface": 33.4, 
       "main": 50.4, 
       "genoa": 48.2, 
       "displacement": 7831.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2005"
   }, 

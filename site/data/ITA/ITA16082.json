@@ -5,12 +5,13 @@
       1.3785, 
       1.5518
     ], 
-    "gph": 553.6, 
     "triple_inshore": [
       0.8135, 
       1.1079, 
       1.2698
-    ]
+    ], 
+    "gph": 553.6, 
+    "osn": 538.6
   }, 
   "sailnumber": "ITA16082", 
   "name": "RENOVATIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.84, 
       "draft": 2.59, 
+      "wetted_surface": 37.1, 
       "main": 60.6, 
       "genoa": 46.9, 
       "displacement": 7589.0, 
-      "spinnaker_asym": 176.0
+      "spinnaker_asym": 176.0, 
+      "crew": 720.0
     }, 
     "year": "2007"
   }, 

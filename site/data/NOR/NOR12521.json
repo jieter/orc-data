@@ -5,12 +5,13 @@
       1.1228, 
       1.2628
     ], 
-    "gph": 673.4, 
     "triple_inshore": [
       0.6815, 
       0.908, 
       1.0616
-    ]
+    ], 
+    "gph": 673.4, 
+    "osn": 659.9
   }, 
   "sailnumber": "NOR12521", 
   "name": "Havhesten", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.8, 
       "loa": 10.32, 
       "draft": 1.87, 
+      "wetted_surface": 25.0, 
       "main": 36.1, 
       "genoa": 27.4, 
       "displacement": 6164.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 536.0
     }, 
     "year": "2005"
   }, 

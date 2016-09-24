@@ -5,12 +5,13 @@
       1.1593, 
       1.3423
     ], 
-    "gph": 661.8, 
     "triple_inshore": [
       0.6609, 
       0.9131, 
       1.0985
-    ]
+    ], 
+    "gph": 661.8, 
+    "osn": 642.8
   }, 
   "sailnumber": "ITAHATHI", 
   "name": "HATHI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.915, 
       "draft": 1.89, 
+      "wetted_surface": 30.7, 
       "main": 37.7, 
       "genoa": 31.5, 
       "displacement": 7073.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 650.0
     }, 
     "year": "2015"
   }, 

@@ -5,12 +5,13 @@
       1.1997, 
       1.3716
     ], 
-    "gph": 640.5, 
     "triple_inshore": [
       0.6798, 
       0.9423, 
       1.1124
-    ]
+    ], 
+    "gph": 640.5, 
+    "osn": 623.5
   }, 
   "sailnumber": "ESP10284_C", 
   "name": "HECHIZO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.32, 
       "draft": 1.75, 
+      "wetted_surface": 35.9, 
       "main": 39.3, 
       "genoa": 53.0, 
       "displacement": 8365.0, 
-      "spinnaker_asym": 116.0
+      "spinnaker_asym": 116.0, 
+      "crew": 450.0
     }, 
     "year": "1998"
   }, 

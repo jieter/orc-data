@@ -5,12 +5,13 @@
       0.9742, 
       1.1533
     ], 
-    "gph": 799.4, 
     "triple_inshore": [
       0.528, 
       0.7765, 
       0.956
-    ]
+    ], 
+    "gph": 799.4, 
+    "osn": 766.3
   }, 
   "sailnumber": "NOR15005", 
   "name": "Kismet jr.", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.4, 
       "draft": 1.57, 
+      "wetted_surface": 20.8, 
       "main": 27.6, 
       "genoa": 21.0, 
       "displacement": 3655.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 531.0
     }, 
     "year": "1983"
   }, 

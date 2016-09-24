@@ -5,12 +5,13 @@
       0.9906, 
       1.0736
     ], 
-    "gph": 767.4, 
     "triple_inshore": [
       0.6034, 
       0.7957, 
       0.8857
-    ]
+    ], 
+    "gph": 767.4, 
+    "osn": 751.0
   }, 
   "sailnumber": "NOR4703", 
   "name": "Fomle", 
@@ -25,10 +26,12 @@
       "spinnaker": 39.5, 
       "loa": 8.3, 
       "draft": 1.55, 
+      "wetted_surface": 17.0, 
       "main": 22.0, 
       "genoa": 20.4, 
       "displacement": 2971.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 412.0
     }, 
     "year": "1986"
   }, 

@@ -5,12 +5,13 @@
       1.1555, 
       1.3369
     ], 
-    "gph": 666.0, 
     "triple_inshore": [
       0.6497, 
       0.9226, 
       1.1186
-    ]
+    ], 
+    "gph": 666.0, 
+    "osn": 646.0
   }, 
   "sailnumber": "NED7772", 
   "name": "Vrijheid", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.845, 
       "draft": 1.99, 
+      "wetted_surface": 28.5, 
       "main": 34.9, 
       "genoa": 42.9, 
       "displacement": 6500.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 674.0
     }, 
     "year": "1992"
   }, 

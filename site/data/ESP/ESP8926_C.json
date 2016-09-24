@@ -5,12 +5,13 @@
       1.163, 
       1.3475
     ], 
-    "gph": 664.4, 
     "triple_inshore": [
       0.6401, 
       0.9222, 
       1.1174
-    ]
+    ], 
+    "gph": 664.4, 
+    "osn": 644.8
   }, 
   "sailnumber": "ESP8926_C", 
   "name": "EL AMPARO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.62, 
       "draft": 2.13, 
+      "wetted_surface": 32.8, 
       "main": 48.4, 
       "genoa": 52.7, 
       "displacement": 7771.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.1819, 
       1.334
     ], 
-    "gph": 646.6, 
     "triple_inshore": [
       0.6948, 
       0.9534, 
       1.114
-    ]
+    ], 
+    "gph": 646.6, 
+    "osn": 628.5
   }, 
   "sailnumber": "GER6463", 
   "name": "WINDHEXE", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.2, 
       "loa": 10.36, 
       "draft": 1.91, 
+      "wetted_surface": 25.8, 
       "main": 38.2, 
       "genoa": 28.9, 
       "displacement": 5512.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 610.0
     }, 
     "year": "2007"
   }, 

@@ -5,12 +5,13 @@
       0.9545, 
       1.1169
     ], 
-    "gph": 804.2, 
     "triple_inshore": [
       0.5291, 
       0.7405, 
       0.9138
-    ]
+    ], 
+    "gph": 804.2, 
+    "osn": 785.1
   }, 
   "sailnumber": "GRE846", 
   "name": "IASONAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.171, 
       "draft": 1.53, 
+      "wetted_surface": 24.1, 
       "main": 18.2, 
       "genoa": 17.0, 
       "displacement": 5025.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1978"
   }, 

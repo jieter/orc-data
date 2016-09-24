@@ -5,12 +5,13 @@
       1.2641, 
       1.4304
     ], 
-    "gph": 604.6, 
     "triple_inshore": [
       0.7411, 
       1.0192, 
       1.1943
-    ]
+    ], 
+    "gph": 604.6, 
+    "osn": 587.6
   }, 
   "sailnumber": "GER6658", 
   "name": "LALUMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.7, 
       "loa": 11.924, 
       "draft": 2.42, 
+      "wetted_surface": 31.2, 
       "main": 45.3, 
       "genoa": 46.7, 
       "displacement": 7085.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1997"
   }, 

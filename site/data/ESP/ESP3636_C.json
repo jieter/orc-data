@@ -5,12 +5,13 @@
       1.1342, 
       1.311
     ], 
-    "gph": 679.0, 
     "triple_inshore": [
       0.6343, 
       0.9056, 
       1.0942
-    ]
+    ], 
+    "gph": 679.0, 
+    "osn": 658.9
   }, 
   "sailnumber": "ESP3636_C", 
   "name": "HABANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.03, 
       "draft": 1.92, 
+      "wetted_surface": 26.9, 
       "main": 33.0, 
       "genoa": 41.7, 
       "displacement": 5791.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "2004"
   }, 

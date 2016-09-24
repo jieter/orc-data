@@ -5,12 +5,13 @@
       1.1566, 
       1.3054
     ], 
-    "gph": 659.3, 
     "triple_inshore": [
       0.6851, 
       0.9367, 
       1.0888
-    ]
+    ], 
+    "gph": 659.3, 
+    "osn": 641.5
   }, 
   "sailnumber": "ITA14261", 
   "name": "SENSIBILE AL VENTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 52.3, 
       "loa": 9.5, 
       "draft": 1.91, 
+      "wetted_surface": 21.9, 
       "main": 31.7, 
       "genoa": 32.8, 
       "displacement": 3706.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1996"
   }, 

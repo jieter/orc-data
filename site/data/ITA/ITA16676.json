@@ -5,12 +5,13 @@
       1.3129, 
       1.4925
     ], 
-    "gph": 582.3, 
     "triple_inshore": [
       0.7677, 
       1.0554, 
       1.2391
-    ]
+    ], 
+    "gph": 582.3, 
+    "osn": 566.0
   }, 
   "sailnumber": "ITA16676", 
   "name": "MERIDIANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 131.2, 
       "loa": 12.5, 
       "draft": 2.24, 
+      "wetted_surface": 34.9, 
       "main": 52.8, 
       "genoa": 45.0, 
       "displacement": 7898.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 750.0
     }, 
     "year": "2011"
   }, 

@@ -5,12 +5,13 @@
       0.9912, 
       1.1454
     ], 
-    "gph": 777.9, 
     "triple_inshore": [
       0.5584, 
       0.7944, 
       0.9556
-    ]
+    ], 
+    "gph": 777.9, 
+    "osn": 751.3
   }, 
   "sailnumber": "GER7118", 
   "name": "MELFINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.86, 
       "draft": 1.12, 
+      "wetted_surface": 19.1, 
       "main": 21.1, 
       "genoa": 20.0, 
       "displacement": 3201.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 270.0
     }, 
     "year": "1992"
   }, 

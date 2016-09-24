@@ -5,12 +5,13 @@
       1.1839, 
       1.3707
     ], 
-    "gph": 649.6, 
     "triple_inshore": [
       0.669, 
       0.934, 
       1.1241
-    ]
+    ], 
+    "gph": 649.6, 
+    "osn": 630.1
   }, 
   "sailnumber": "GRE1627", 
   "name": "ARMIDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.298, 
       "draft": 2.0, 
+      "wetted_surface": 33.1, 
       "main": 45.0, 
       "genoa": 25.8, 
       "displacement": 7275.0, 
-      "spinnaker_asym": 92.0
+      "spinnaker_asym": 92.0, 
+      "crew": 754.0
     }, 
     "year": "2005"
   }, 

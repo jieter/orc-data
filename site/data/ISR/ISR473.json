@@ -5,12 +5,13 @@
       1.1919, 
       1.4215
     ], 
-    "gph": 653.0, 
     "triple_inshore": [
       0.6378, 
       0.9258, 
       1.1405
-    ]
+    ], 
+    "gph": 653.0, 
+    "osn": 630.4
   }, 
   "sailnumber": "ISR473", 
   "name": "Rimon", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.11, 
       "draft": 2.12, 
+      "wetted_surface": 44.7, 
       "main": 37.7, 
       "genoa": 58.2, 
       "displacement": 11200.0, 
-      "spinnaker_asym": 110.0
+      "spinnaker_asym": 110.0, 
+      "crew": 1033.0
     }, 
     "year": "2003"
   }, 

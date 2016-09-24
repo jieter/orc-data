@@ -5,12 +5,13 @@
       1.159, 
       1.352
     ], 
-    "gph": 666.5, 
     "triple_inshore": [
       0.6429, 
       0.9099, 
       1.1022
-    ]
+    ], 
+    "gph": 666.5, 
+    "osn": 645.4
   }, 
   "sailnumber": "ESP9623_C", 
   "name": "AGUIEIRA I", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.71, 
       "draft": 1.97, 
+      "wetted_surface": 32.8, 
       "main": 37.3, 
       "genoa": 32.6, 
       "displacement": 7177.0, 
-      "spinnaker_asym": 105.0
+      "spinnaker_asym": 105.0, 
+      "crew": 500.0
     }, 
     "year": "1998"
   }, 

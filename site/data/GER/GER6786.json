@@ -5,12 +5,13 @@
       1.2274, 
       1.393
     ], 
-    "gph": 623.7, 
     "triple_inshore": [
       0.7158, 
       0.9871, 
       1.1666
-    ]
+    ], 
+    "gph": 623.7, 
+    "osn": 605.3
   }, 
   "sailnumber": "GER6786", 
   "name": "ALLEGRO", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.3, 
       "loa": 11.5, 
       "draft": 2.08, 
+      "wetted_surface": 30.8, 
       "main": 44.9, 
       "genoa": 32.1, 
       "displacement": 7560.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "2011"
   }, 

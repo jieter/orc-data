@@ -5,12 +5,13 @@
       1.267, 
       1.4827
     ], 
-    "gph": 607.2, 
     "triple_inshore": [
       0.7119, 
       0.9958, 
       1.2222
-    ]
+    ], 
+    "gph": 607.2, 
+    "osn": 589.1
   }, 
   "sailnumber": "GER3084", 
   "name": "WAPPEN VON BREMEN III", 
@@ -25,10 +26,12 @@
       "spinnaker": 178.7, 
       "loa": 16.32, 
       "draft": 2.35, 
+      "wetted_surface": 58.1, 
       "main": 55.3, 
       "genoa": 96.9, 
       "displacement": 20752.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 950.0
     }, 
     "year": "1982"
   }, 

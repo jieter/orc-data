@@ -5,12 +5,13 @@
       1.4436, 
       1.6859
     ], 
-    "gph": 530.5, 
     "triple_inshore": [
       0.8126, 
       1.1404, 
       1.3429
-    ]
+    ], 
+    "gph": 530.5, 
+    "osn": 516.8
   }, 
   "sailnumber": "NOR13040", 
   "name": "Black Pearl", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.18, 
       "draft": 3.02, 
+      "wetted_surface": 37.2, 
       "main": 70.3, 
       "genoa": 45.1, 
       "displacement": 5565.0, 
-      "spinnaker_asym": 192.0
+      "spinnaker_asym": 192.0, 
+      "crew": 975.0
     }, 
     "year": "2007"
   }, 

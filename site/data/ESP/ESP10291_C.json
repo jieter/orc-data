@@ -5,12 +5,13 @@
       1.2515, 
       1.4237
     ], 
-    "gph": 611.8, 
     "triple_inshore": [
       0.7212, 
       0.9897, 
       1.1609
-    ]
+    ], 
+    "gph": 611.8, 
+    "osn": 596.2
   }, 
   "sailnumber": "ESP10291_C", 
   "name": "CUELEBRE PRIMERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.8, 
       "draft": 1.94, 
+      "wetted_surface": 35.7, 
       "main": 47.0, 
       "genoa": 54.4, 
       "displacement": 8464.0, 
-      "spinnaker_asym": 107.0
+      "spinnaker_asym": 107.0, 
+      "crew": 300.0
     }, 
     "year": "2005"
   }, 

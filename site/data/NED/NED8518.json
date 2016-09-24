@@ -5,12 +5,13 @@
       0.9602, 
       1.0981
     ], 
-    "gph": 795.4, 
     "triple_inshore": [
       0.5683, 
       0.7779, 
       0.9204
-    ]
+    ], 
+    "gph": 795.4, 
+    "osn": 770.7
   }, 
   "sailnumber": "NED8518", 
   "name": "J & A", 
@@ -25,10 +26,12 @@
       "spinnaker": 36.8, 
       "loa": 7.565, 
       "draft": 1.41, 
+      "wetted_surface": 13.3, 
       "main": 11.8, 
       "genoa": 15.4, 
       "displacement": 2000.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 359.0
     }, 
     "year": "1977"
   }, 

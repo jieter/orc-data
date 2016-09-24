@@ -5,12 +5,13 @@
       0.9638, 
       1.0992
     ], 
-    "gph": 794.5, 
     "triple_inshore": [
       0.5633, 
       0.7759, 
       0.9187
-    ]
+    ], 
+    "gph": 794.5, 
+    "osn": 770.1
   }, 
   "sailnumber": "GRE1365", 
   "name": "JEANNE BONNE", 
@@ -25,10 +26,12 @@
       "spinnaker": 47.3, 
       "loa": 7.89, 
       "draft": 1.58, 
+      "wetted_surface": 16.6, 
       "main": 17.9, 
       "genoa": 22.3, 
       "displacement": 3159.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1993"
   }, 

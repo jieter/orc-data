@@ -5,12 +5,13 @@
       1.1399, 
       1.2937
     ], 
-    "gph": 669.5, 
     "triple_inshore": [
       0.6717, 
       0.9161, 
       1.077
-    ]
+    ], 
+    "gph": 669.5, 
+    "osn": 651.0
   }, 
   "sailnumber": "ITA6130", 
   "name": "MADIFRA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.3, 
       "loa": 11.47, 
       "draft": 1.84, 
+      "wetted_surface": 27.6, 
       "main": 27.4, 
       "genoa": 51.4, 
       "displacement": 6220.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 570.0
     }, 
     "year": "1974"
   }, 

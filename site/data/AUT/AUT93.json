@@ -5,12 +5,13 @@
       1.2294, 
       1.3933
     ], 
-    "gph": 609.4, 
     "triple_inshore": [
       0.7732, 
       0.9852, 
       1.1397
-    ]
+    ], 
+    "gph": 609.4, 
+    "osn": 598.1
   }, 
   "sailnumber": "AUT93", 
   "name": "Nixe", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.5, 
       "draft": 2.0, 
+      "wetted_surface": 14.9, 
       "main": 28.1, 
       "genoa": 17.5, 
       "displacement": 1236.0, 
-      "spinnaker_asym": 72.0
+      "spinnaker_asym": 72.0, 
+      "crew": 280.0
     }, 
     "year": "2004"
   }, 

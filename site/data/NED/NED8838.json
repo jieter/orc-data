@@ -5,12 +5,13 @@
       1.1348, 
       1.2906
     ], 
-    "gph": 667.4, 
     "triple_inshore": [
       0.6897, 
       0.9192, 
       1.053
-    ]
+    ], 
+    "gph": 667.4, 
+    "osn": 649.5
   }, 
   "sailnumber": "NED8838", 
   "name": "Led 2 lease", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.997, 
       "draft": 1.49, 
+      "wetted_surface": 13.7, 
       "main": 21.4, 
       "genoa": 14.0, 
       "displacement": 1497.0, 
-      "spinnaker_asym": 63.0
+      "spinnaker_asym": 63.0, 
+      "crew": 409.0
     }, 
     "year": "1995"
   }, 

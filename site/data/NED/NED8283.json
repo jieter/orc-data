@@ -5,12 +5,13 @@
       1.0775, 
       1.2311
     ], 
-    "gph": 705.5, 
     "triple_inshore": [
       0.6432, 
       0.8684, 
       1.0005
-    ]
+    ], 
+    "gph": 705.5, 
+    "osn": 685.9
   }, 
   "sailnumber": "NED8283", 
   "name": "One", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.95, 
       "draft": 1.56, 
+      "wetted_surface": 13.8, 
       "main": 20.6, 
       "genoa": 12.0, 
       "displacement": 1360.0, 
-      "spinnaker_asym": 55.0
+      "spinnaker_asym": 55.0, 
+      "crew": 398.0
     }, 
     "year": "2011"
   }, 

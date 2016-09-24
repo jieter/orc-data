@@ -5,12 +5,13 @@
       1.1991, 
       1.3658
     ], 
-    "gph": 639.1, 
     "triple_inshore": [
       0.6969, 
       0.9602, 
       1.1279
-    ]
+    ], 
+    "gph": 639.1, 
+    "osn": 619.2
   }, 
   "sailnumber": "NOR14886", 
   "name": "Rebell", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.67, 
       "draft": 2.1, 
+      "wetted_surface": 28.2, 
       "main": 32.1, 
       "genoa": 35.2, 
       "displacement": 5683.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 694.0
     }, 
     "year": "2010"
   }, 

@@ -5,12 +5,13 @@
       1.2633, 
       1.3977
     ], 
-    "gph": 595.3, 
     "triple_inshore": [
       0.7919, 
       1.0278, 
       1.1576
-    ]
+    ], 
+    "gph": 595.3, 
+    "osn": 583.5
   }, 
   "sailnumber": "SUI66", 
   "name": "CRESCENDO 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 125.5, 
       "loa": 10.6, 
       "draft": 1.85, 
+      "wetted_surface": 23.9, 
       "main": 48.7, 
       "genoa": 33.2, 
       "displacement": 4331.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2006"
   }, 

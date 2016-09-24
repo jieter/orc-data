@@ -5,12 +5,13 @@
       1.2445, 
       1.4099
     ], 
-    "gph": 613.3, 
     "triple_inshore": [
       0.7335, 
       1.009, 
       1.1785
-    ]
+    ], 
+    "gph": 613.3, 
+    "osn": 596.0
   }, 
   "sailnumber": "GER5523", 
   "name": "Reco", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.1, 
       "loa": 10.7, 
       "draft": 2.23, 
+      "wetted_surface": 27.3, 
       "main": 43.8, 
       "genoa": 32.4, 
       "displacement": 5493.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 710.0
     }, 
     "year": "2009"
   }, 

@@ -5,12 +5,13 @@
       1.1549, 
       1.3486
     ], 
-    "gph": 670.8, 
     "triple_inshore": [
       0.63, 
       0.9123, 
       1.1104
-    ]
+    ], 
+    "gph": 670.8, 
+    "osn": 649.2
   }, 
   "sailnumber": "ESP8125_R", 
   "name": "JOTITI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.715, 
       "draft": 1.99, 
+      "wetted_surface": 32.6, 
       "main": 40.8, 
       "genoa": 43.8, 
       "displacement": 7474.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 170.0
     }, 
     "year": "2004"
   }, 

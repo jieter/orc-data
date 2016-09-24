@@ -5,12 +5,13 @@
       1.1021, 
       1.2252
     ], 
-    "gph": 690.4, 
     "triple_inshore": [
       0.6639, 
       0.8955, 
       1.0292
-    ]
+    ], 
+    "gph": 690.4, 
+    "osn": 673.0
   }, 
   "sailnumber": "FRA39675", 
   "name": "FLEUR BLEUE 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 52.5, 
       "loa": 9.904, 
       "draft": 1.76, 
+      "wetted_surface": 18.0, 
       "main": 25.9, 
       "genoa": 19.9, 
       "displacement": 3317.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 523.0
     }, 
     "year": "1979"
   }, 

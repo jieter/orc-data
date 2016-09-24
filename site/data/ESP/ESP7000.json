@@ -5,12 +5,13 @@
       1.3171, 
       1.4856
     ], 
-    "gph": 580.4, 
     "triple_inshore": [
       0.7717, 
       1.062, 
       1.2392
-    ]
+    ], 
+    "gph": 580.4, 
+    "osn": 564.6
   }, 
   "sailnumber": "ESP7000", 
   "name": "JOT", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.3, 
       "loa": 12.43, 
       "draft": 2.79, 
+      "wetted_surface": 32.6, 
       "main": 55.1, 
       "genoa": 39.7, 
       "displacement": 7120.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 777.0
     }, 
     "year": "2003"
   }, 

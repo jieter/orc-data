@@ -5,12 +5,13 @@
       1.3157, 
       1.5245
     ], 
-    "gph": 584.4, 
     "triple_inshore": [
       0.7459, 
       1.0443, 
       1.2588
-    ]
+    ], 
+    "gph": 584.4, 
+    "osn": 566.6
   }, 
   "sailnumber": "NED8477", 
   "name": "Pi Squared", 
@@ -25,10 +26,12 @@
       "spinnaker": 149.8, 
       "loa": 14.506, 
       "draft": 2.31, 
+      "wetted_surface": 44.8, 
       "main": 65.4, 
       "genoa": 47.0, 
       "displacement": 12678.0, 
-      "spinnaker_asym": 128.0
+      "spinnaker_asym": 128.0, 
+      "crew": 989.0
     }, 
     "year": "1999"
   }, 

@@ -5,12 +5,13 @@
       1.3623, 
       1.6116
     ], 
-    "gph": 556.5, 
     "triple_inshore": [
       0.8126, 
       1.0806, 
       1.2891
-    ]
+    ], 
+    "gph": 556.5, 
+    "osn": 540.8
   }, 
   "sailnumber": "NED8497", 
   "name": "TAKE CARE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.495, 
       "draft": 2.06, 
+      "wetted_surface": 20.2, 
       "main": 41.0, 
       "genoa": 24.3, 
       "displacement": 2044.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 630.0
     }, 
     "year": "2013"
   }, 

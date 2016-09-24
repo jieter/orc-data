@@ -5,12 +5,13 @@
       1.1817, 
       1.3688
     ], 
-    "gph": 653.4, 
     "triple_inshore": [
       0.6616, 
       0.9328, 
       1.1231
-    ]
+    ], 
+    "gph": 653.4, 
+    "osn": 632.0
   }, 
   "sailnumber": "ESP8780_C", 
   "name": "ARAN II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.754, 
       "draft": 2.19, 
+      "wetted_surface": 32.9, 
       "main": 35.5, 
       "genoa": 34.8, 
       "displacement": 7375.0, 
-      "spinnaker_asym": 79.0
+      "spinnaker_asym": 79.0, 
+      "crew": 400.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       1.277, 
       1.4531
     ], 
-    "gph": 597.9, 
     "triple_inshore": [
       0.7442, 
       1.009, 
       1.2022
-    ]
+    ], 
+    "gph": 597.9, 
+    "osn": 583.2
   }, 
   "sailnumber": "ITA10940", 
   "name": "ANGELICA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 167.6, 
       "loa": 15.0, 
       "draft": 2.23, 
+      "wetted_surface": 44.0, 
       "main": 57.6, 
       "genoa": 90.3, 
       "displacement": 16379.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 720.0
     }, 
     "year": "1985"
   }, 

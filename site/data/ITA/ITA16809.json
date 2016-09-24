@@ -5,12 +5,13 @@
       1.2712, 
       1.5028
     ], 
-    "gph": 608.2, 
     "triple_inshore": [
       0.686, 
       0.9928, 
       1.2352
-    ]
+    ], 
+    "gph": 608.2, 
+    "osn": 592.0
   }, 
   "sailnumber": "ITA16809", 
   "name": "INDOMABILE PENSIERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.915, 
       "draft": 2.32, 
+      "wetted_surface": 46.3, 
       "main": 57.5, 
       "genoa": 66.5, 
       "displacement": 12897.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "2004"
   }, 

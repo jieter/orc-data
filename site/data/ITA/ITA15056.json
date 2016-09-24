@@ -5,12 +5,13 @@
       1.2012, 
       1.342
     ], 
-    "gph": 634.8, 
     "triple_inshore": [
       0.7152, 
       0.9733, 
       1.1284
-    ]
+    ], 
+    "gph": 634.8, 
+    "osn": 618.1
   }, 
   "sailnumber": "ITA15056", 
   "name": "CIRCE", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.5, 
       "loa": 10.64, 
       "draft": 2.24, 
+      "wetted_surface": 27.2, 
       "main": 40.0, 
       "genoa": 38.9, 
       "displacement": 5915.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2001"
   }, 

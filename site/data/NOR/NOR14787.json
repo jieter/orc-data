@@ -5,12 +5,13 @@
       1.137, 
       1.311
     ], 
-    "gph": 676.8, 
     "triple_inshore": [
       0.6404, 
       0.9147, 
       1.0904
-    ]
+    ], 
+    "gph": 676.8, 
+    "osn": 657.5
   }, 
   "sailnumber": "NOR14787", 
   "name": "Marie G", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 1.78, 
+      "wetted_surface": 19.9, 
       "main": 37.9, 
       "genoa": 14.0, 
       "displacement": 2921.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 537.0
     }, 
     "year": "1984"
   }, 

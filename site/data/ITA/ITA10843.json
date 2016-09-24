@@ -5,12 +5,13 @@
       1.1349, 
       1.2864
     ], 
-    "gph": 671.8, 
     "triple_inshore": [
       0.6741, 
       0.9162, 
       1.084
-    ]
+    ], 
+    "gph": 671.8, 
+    "osn": 652.6
   }, 
   "sailnumber": "ITA10843", 
   "name": "ADELMA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 103.4, 
       "loa": 11.01, 
       "draft": 2.04, 
+      "wetted_surface": 29.6, 
       "main": 27.6, 
       "genoa": 50.9, 
       "displacement": 7832.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 510.0
     }, 
     "year": "1976"
   }, 

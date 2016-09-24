@@ -5,12 +5,13 @@
       1.0456, 
       1.1729
     ], 
-    "gph": 727.2, 
     "triple_inshore": [
       0.6286, 
       0.8382, 
       0.9756
-    ]
+    ], 
+    "gph": 727.2, 
+    "osn": 709.2
   }, 
   "sailnumber": "GER7097", 
   "name": "C'EST LA VIE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.42, 
       "draft": 1.77, 
+      "wetted_surface": 20.8, 
       "main": 25.6, 
       "genoa": 23.2, 
       "displacement": 4502.0, 
-      "spinnaker_asym": 57.0
+      "spinnaker_asym": 57.0, 
+      "crew": 340.0
     }, 
     "year": "2010"
   }, 

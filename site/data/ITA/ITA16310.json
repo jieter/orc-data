@@ -5,12 +5,13 @@
       1.1504, 
       1.2965
     ], 
-    "gph": 663.5, 
     "triple_inshore": [
       0.6798, 
       0.9245, 
       1.074
-    ]
+    ], 
+    "gph": 663.5, 
+    "osn": 644.7
   }, 
   "sailnumber": "ITA16310", 
   "name": "ALPHA UMI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.24, 
       "draft": 1.91, 
+      "wetted_surface": 22.7, 
       "main": 30.3, 
       "genoa": 23.1, 
       "displacement": 4110.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 490.0
     }, 
     "year": "2009"
   }, 

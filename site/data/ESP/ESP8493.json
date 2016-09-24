@@ -5,12 +5,13 @@
       1.224, 
       1.3878
     ], 
-    "gph": 624.9, 
     "triple_inshore": [
       0.7148, 
       0.9851, 
       1.1591
-    ]
+    ], 
+    "gph": 624.9, 
+    "osn": 606.7
   }, 
   "sailnumber": "ESP8493", 
   "name": "BRUJO", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.0, 
       "loa": 11.313, 
       "draft": 2.15, 
+      "wetted_surface": 28.9, 
       "main": 44.8, 
       "genoa": 32.4, 
       "displacement": 6708.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 715.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.0443, 
       1.1747
     ], 
-    "gph": 729.0, 
     "triple_inshore": [
       0.6226, 
       0.8503, 
       0.9758
-    ]
+    ], 
+    "gph": 729.0, 
+    "osn": 708.8
   }, 
   "sailnumber": "NOR723", 
   "name": "Liffe", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.8, 
       "loa": 7.77, 
       "draft": 1.43, 
+      "wetted_surface": 14.0, 
       "main": 19.5, 
       "genoa": 14.8, 
       "displacement": 1782.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 401.0
     }, 
     "year": "1979"
   }, 

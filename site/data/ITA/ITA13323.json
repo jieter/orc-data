@@ -5,12 +5,13 @@
       1.2511, 
       1.4042
     ], 
-    "gph": 607.6, 
     "triple_inshore": [
       0.7504, 
       1.0137, 
       1.172
-    ]
+    ], 
+    "gph": 607.6, 
+    "osn": 592.1
   }, 
   "sailnumber": "ITA13323", 
   "name": "JONATHAN VII", 
@@ -25,10 +26,12 @@
       "spinnaker": 100.1, 
       "loa": 11.36, 
       "draft": 2.1, 
+      "wetted_surface": 27.4, 
       "main": 39.5, 
       "genoa": 51.3, 
       "displacement": 5343.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 620.0
     }, 
     "year": "1992"
   }, 

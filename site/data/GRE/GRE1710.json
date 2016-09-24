@@ -5,12 +5,13 @@
       1.083, 
       1.2989
     ], 
-    "gph": 718.3, 
     "triple_inshore": [
       0.5726, 
       0.8437, 
       1.0564
-    ]
+    ], 
+    "gph": 718.3, 
+    "osn": 694.4
   }, 
   "sailnumber": "GRE1710", 
   "name": "ROTOROA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.277, 
       "draft": 1.73, 
+      "wetted_surface": 34.9, 
       "main": 27.7, 
       "genoa": 50.0, 
       "displacement": 7800.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 792.0
     }, 
     "year": "1998"
   }, 

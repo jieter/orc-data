@@ -5,12 +5,13 @@
       1.2353, 
       1.4195
     ], 
-    "gph": 620.7, 
     "triple_inshore": [
       0.7103, 
       0.9876, 
       1.1816
-    ]
+    ], 
+    "gph": 620.7, 
+    "osn": 602.1
   }, 
   "sailnumber": "NED8219", 
   "name": "INDIGO", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.3, 
       "loa": 12.013, 
       "draft": 2.12, 
+      "wetted_surface": 33.4, 
       "main": 45.4, 
       "genoa": 40.7, 
       "displacement": 8327.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 782.0
     }, 
     "year": "2009"
   }, 

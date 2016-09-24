@@ -5,12 +5,13 @@
       1.1801, 
       1.3545
     ], 
-    "gph": 650.9, 
     "triple_inshore": [
       0.6694, 
       0.948, 
       1.1338
-    ]
+    ], 
+    "gph": 650.9, 
+    "osn": 631.9
   }, 
   "sailnumber": "ESP10191_C", 
   "name": "DIDU", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.675, 
       "draft": 1.92, 
+      "wetted_surface": 27.9, 
       "main": 33.5, 
       "genoa": 46.6, 
       "displacement": 5593.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 671.0
     }, 
     "year": "2007"
   }, 

@@ -5,12 +5,13 @@
       1.2266, 
       1.3896
     ], 
-    "gph": 623.0, 
     "triple_inshore": [
       0.7199, 
       0.9927, 
       1.1569
-    ]
+    ], 
+    "gph": 623.0, 
+    "osn": 604.9
   }, 
   "sailnumber": "ARG5503", 
   "name": "GENESIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.1, 
       "loa": 10.38, 
       "draft": 2.08, 
+      "wetted_surface": 26.1, 
       "main": 37.4, 
       "genoa": 34.8, 
       "displacement": 4853.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 611.0
     }, 
     "year": "2012"
   }, 

@@ -5,12 +5,13 @@
       1.1209, 
       1.3397
     ], 
-    "gph": 691.5, 
     "triple_inshore": [
       0.6042, 
       0.8777, 
       1.098
-    ]
+    ], 
+    "gph": 691.5, 
+    "osn": 668.8
   }, 
   "sailnumber": "GRE1678", 
   "name": "DECISION", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.12, 
       "draft": 1.77, 
+      "wetted_surface": 37.9, 
       "main": 34.4, 
       "genoa": 51.8, 
       "displacement": 9870.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 839.0
     }, 
     "year": "1996"
   }, 

@@ -5,12 +5,13 @@
       1.2087, 
       1.3553
     ], 
-    "gph": 630.6, 
     "triple_inshore": [
       0.7191, 
       0.9798, 
       1.1359
-    ]
+    ], 
+    "gph": 630.6, 
+    "osn": 614.0
   }, 
   "sailnumber": "ITA14576", 
   "name": "CYGNUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.9, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.8, 
       "main": 40.3, 
       "genoa": 38.5, 
       "displacement": 5703.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 650.0
     }, 
     "year": "2001"
   }, 

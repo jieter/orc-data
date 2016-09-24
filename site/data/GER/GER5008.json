@@ -5,12 +5,13 @@
       1.1126, 
       1.2719
     ], 
-    "gph": 690.9, 
     "triple_inshore": [
       0.6401, 
       0.8951, 
       1.0625
-    ]
+    ], 
+    "gph": 690.9, 
+    "osn": 668.0
   }, 
   "sailnumber": "GER5008", 
   "name": "SCHWARZE WAND", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.6, 
       "loa": 9.49, 
       "draft": 1.93, 
+      "wetted_surface": 22.3, 
       "main": 25.2, 
       "genoa": 20.4, 
       "displacement": 3856.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 369.0
     }, 
     "year": "1998"
   }, 

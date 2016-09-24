@@ -5,12 +5,13 @@
       1.1038, 
       1.2468
     ], 
-    "gph": 692.1, 
     "triple_inshore": [
       0.6502, 
       0.892, 
       1.0456
-    ]
+    ], 
+    "gph": 692.1, 
+    "osn": 672.3
   }, 
   "sailnumber": "NOR5952", 
   "name": "Exciter", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.1, 
       "loa": 10.1, 
       "draft": 1.74, 
+      "wetted_surface": 23.6, 
       "main": 28.5, 
       "genoa": 29.9, 
       "displacement": 4900.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 530.0
     }, 
     "year": "1980"
   }, 

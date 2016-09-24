@@ -5,12 +5,13 @@
       1.3196, 
       1.5157
     ], 
-    "gph": 582.5, 
     "triple_inshore": [
       0.7528, 
       1.0532, 
       1.2581
-    ]
+    ], 
+    "gph": 582.5, 
+    "osn": 564.4
   }, 
   "sailnumber": "NED7987", 
   "name": "Diva", 
@@ -25,10 +26,12 @@
       "spinnaker": 154.0, 
       "loa": 13.67, 
       "draft": 2.4, 
+      "wetted_surface": 43.1, 
       "main": 57.1, 
       "genoa": 48.8, 
       "displacement": 11357.0, 
-      "spinnaker_asym": 144.0
+      "spinnaker_asym": 144.0, 
+      "crew": 905.0
     }, 
     "year": "2008"
   }, 

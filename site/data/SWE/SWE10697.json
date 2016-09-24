@@ -5,12 +5,13 @@
       1.2395, 
       1.4121
     ], 
-    "gph": 617.2, 
     "triple_inshore": [
       0.7239, 
       0.9958, 
       1.18
-    ]
+    ], 
+    "gph": 617.2, 
+    "osn": 599.1
   }, 
   "sailnumber": "SWE10697", 
   "name": "GREAT EXPECTATIONS", 
@@ -25,10 +26,12 @@
       "spinnaker": 113.5, 
       "loa": 12.52, 
       "draft": 2.13, 
+      "wetted_surface": 32.6, 
       "main": 40.7, 
       "genoa": 51.9, 
       "displacement": 8335.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 720.0
     }, 
     "year": "1992"
   }, 

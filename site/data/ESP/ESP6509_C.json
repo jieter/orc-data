@@ -5,12 +5,13 @@
       1.3359, 
       1.5041
     ], 
-    "gph": 571.2, 
     "triple_inshore": [
       0.7874, 
       1.0735, 
       1.257
-    ]
+    ], 
+    "gph": 571.2, 
+    "osn": 556.2
   }, 
   "sailnumber": "ESP6509_C", 
   "name": "VOLAVERUNT", 
@@ -25,10 +26,12 @@
       "spinnaker": 141.1, 
       "loa": 13.626, 
       "draft": 2.45, 
+      "wetted_surface": 40.3, 
       "main": 60.5, 
       "genoa": 68.9, 
       "displacement": 11038.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "2002"
   }, 

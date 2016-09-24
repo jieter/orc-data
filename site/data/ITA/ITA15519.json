@@ -5,12 +5,13 @@
       1.1081, 
       1.2641
     ], 
-    "gph": 687.9, 
     "triple_inshore": [
       0.6549, 
       0.9023, 
       1.0446
-    ]
+    ], 
+    "gph": 687.9, 
+    "osn": 667.5
   }, 
   "sailnumber": "ITA15519", 
   "name": "ACQUACHIARA", 
@@ -25,10 +26,12 @@
       "spinnaker": 46.5, 
       "loa": 7.73, 
       "draft": 1.7, 
+      "wetted_surface": 14.4, 
       "main": 22.2, 
       "genoa": 14.1, 
       "displacement": 1647.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "2000"
   }, 

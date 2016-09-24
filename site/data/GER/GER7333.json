@@ -5,12 +5,13 @@
       1.3027, 
       1.5188
     ], 
-    "gph": 578.9, 
     "triple_inshore": [
       0.7969, 
       1.0515, 
       1.2489
-    ]
+    ], 
+    "gph": 578.9, 
+    "osn": 563.6
   }, 
   "sailnumber": "GER7333", 
   "name": "4 SALE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.69, 
       "draft": 2.1, 
+      "wetted_surface": 16.4, 
       "main": 33.5, 
       "genoa": 19.0, 
       "displacement": 1606.0, 
-      "spinnaker_asym": 99.0
+      "spinnaker_asym": 99.0, 
+      "crew": 450.0
     }, 
     "year": "2014"
   }, 

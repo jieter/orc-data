@@ -5,12 +5,13 @@
       1.2091, 
       1.3556
     ], 
-    "gph": 630.6, 
     "triple_inshore": [
       0.7195, 
       0.9816, 
       1.143
-    ]
+    ], 
+    "gph": 630.6, 
+    "osn": 613.5
   }, 
   "sailnumber": "ESP9536_C", 
   "name": "VITAMINIC DE TRIANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.6, 
       "loa": 10.64, 
       "draft": 2.26, 
+      "wetted_surface": 27.4, 
       "main": 39.9, 
       "genoa": 39.1, 
       "displacement": 6187.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "2001"
   }, 

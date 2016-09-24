@@ -5,12 +5,13 @@
       1.2371, 
       1.3934
     ], 
-    "gph": 617.3, 
     "triple_inshore": [
       0.7274, 
       0.9961, 
       1.1589
-    ]
+    ], 
+    "gph": 617.3, 
+    "osn": 600.7
   }, 
   "sailnumber": "ITA15037", 
   "name": "SAGOLA BIOTRADING", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.3, 
       "loa": 11.292, 
       "draft": 2.06, 
+      "wetted_surface": 28.6, 
       "main": 44.1, 
       "genoa": 33.7, 
       "displacement": 6201.0, 
-      "spinnaker_asym": 105.0
+      "spinnaker_asym": 105.0, 
+      "crew": 645.0
     }, 
     "year": "2005"
   }, 

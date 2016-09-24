@@ -5,12 +5,13 @@
       1.3944, 
       1.5742
     ], 
-    "gph": 543.3, 
     "triple_inshore": [
       0.8301, 
       1.1179, 
       1.301
-    ]
+    ], 
+    "gph": 543.3, 
+    "osn": 532.6
   }, 
   "sailnumber": "NOR15144", 
   "name": "Born to Run", 
@@ -25,10 +26,12 @@
       "spinnaker": 174.8, 
       "loa": 13.3, 
       "draft": 2.69, 
+      "wetted_surface": 39.3, 
       "main": 63.4, 
       "genoa": 47.5, 
       "displacement": 9471.0, 
-      "spinnaker_asym": 164.0
+      "spinnaker_asym": 164.0, 
+      "crew": 905.0
     }, 
     "year": "2011"
   }, 

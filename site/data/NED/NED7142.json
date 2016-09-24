@@ -5,12 +5,13 @@
       1.2964, 
       1.4889
     ], 
-    "gph": 592.1, 
     "triple_inshore": [
       0.7413, 
       1.0322, 
       1.2358
-    ]
+    ], 
+    "gph": 592.1, 
+    "osn": 574.8
   }, 
   "sailnumber": "NED7142", 
   "name": "Borras", 
@@ -25,10 +26,12 @@
       "spinnaker": 128.0, 
       "loa": 13.55, 
       "draft": 2.35, 
+      "wetted_surface": 41.2, 
       "main": 53.6, 
       "genoa": 59.6, 
       "displacement": 11635.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 840.0
     }, 
     "year": "2003"
   }, 

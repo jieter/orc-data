@@ -5,12 +5,13 @@
       1.2141, 
       1.3607
     ], 
-    "gph": 627.1, 
     "triple_inshore": [
       0.7244, 
       0.9842, 
       1.14
-    ]
+    ], 
+    "gph": 627.1, 
+    "osn": 611.3
   }, 
   "sailnumber": "NOR10272", 
   "name": "Regina II", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.9, 
       "loa": 10.64, 
       "draft": 2.23, 
+      "wetted_surface": 26.8, 
       "main": 40.6, 
       "genoa": 42.3, 
       "displacement": 5652.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 642.0
     }, 
     "year": "2001"
   }, 

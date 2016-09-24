@@ -5,12 +5,13 @@
       1.1166, 
       1.2747
     ], 
-    "gph": 686.8, 
     "triple_inshore": [
       0.6422, 
       0.8929, 
       1.0593
-    ]
+    ], 
+    "gph": 686.8, 
+    "osn": 666.8
   }, 
   "sailnumber": "NOR7471", 
   "name": "Norte", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.0, 
       "loa": 10.53, 
       "draft": 1.73, 
+      "wetted_surface": 25.1, 
       "main": 33.4, 
       "genoa": 34.7, 
       "displacement": 5358.0, 
-      "spinnaker_asym": 82.0
+      "spinnaker_asym": 82.0, 
+      "crew": 599.0
     }, 
     "year": "1987"
   }, 

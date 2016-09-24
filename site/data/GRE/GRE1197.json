@@ -5,12 +5,13 @@
       1.0061, 
       1.1459
     ], 
-    "gph": 759.5, 
     "triple_inshore": [
       0.5914, 
       0.8164, 
       0.9626
-    ]
+    ], 
+    "gph": 759.5, 
+    "osn": 736.5
   }, 
   "sailnumber": "GRE1197", 
   "name": "ARTEMIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 35.4, 
       "loa": 8.0, 
       "draft": 1.56, 
+      "wetted_surface": 15.4, 
       "main": 21.0, 
       "genoa": 17.3, 
       "displacement": 2552.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1986"
   }, 

@@ -5,12 +5,13 @@
       1.1921, 
       1.3527
     ], 
-    "gph": 639.7, 
     "triple_inshore": [
       0.704, 
       0.9549, 
       1.129
-    ]
+    ], 
+    "gph": 639.7, 
+    "osn": 622.7
   }, 
   "sailnumber": "GER6153", 
   "name": "BRADA", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.7, 
       "loa": 12.05, 
       "draft": 2.06, 
+      "wetted_surface": 31.8, 
       "main": 36.6, 
       "genoa": 55.2, 
       "displacement": 9078.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1989"
   }, 

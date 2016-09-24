@@ -5,12 +5,13 @@
       1.2783, 
       1.4522
     ], 
-    "gph": 598.3, 
     "triple_inshore": [
       0.7438, 
       1.0231, 
       1.2005
-    ]
+    ], 
+    "gph": 598.3, 
+    "osn": 581.9
   }, 
   "sailnumber": "ESP9046", 
   "name": "AL KEVIR", 
@@ -25,10 +26,12 @@
       "spinnaker": 117.4, 
       "loa": 12.24, 
       "draft": 1.99, 
+      "wetted_surface": 34.0, 
       "main": 53.7, 
       "genoa": 40.3, 
       "displacement": 7933.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 869.0
     }, 
     "year": "2008"
   }, 

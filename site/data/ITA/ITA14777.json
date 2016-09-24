@@ -5,12 +5,13 @@
       1.2024, 
       1.3474
     ], 
-    "gph": 633.2, 
     "triple_inshore": [
       0.7194, 
       0.9776, 
       1.124
-    ]
+    ], 
+    "gph": 633.2, 
+    "osn": 616.5
   }, 
   "sailnumber": "ITA14777", 
   "name": "ASELL", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.7, 
       "loa": 9.98, 
       "draft": 2.19, 
+      "wetted_surface": 23.3, 
       "main": 36.3, 
       "genoa": 29.2, 
       "displacement": 4105.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2003"
   }, 

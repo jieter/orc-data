@@ -5,12 +5,13 @@
       1.2077, 
       1.3623
     ], 
-    "gph": 631.5, 
     "triple_inshore": [
       0.7133, 
       0.9733, 
       1.137
-    ]
+    ], 
+    "gph": 631.5, 
+    "osn": 614.6
   }, 
   "sailnumber": "NOR10044", 
   "name": "Wendigo 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.5, 
       "loa": 10.97, 
       "draft": 1.99, 
+      "wetted_surface": 28.7, 
       "main": 40.8, 
       "genoa": 40.5, 
       "displacement": 6575.0, 
-      "spinnaker_asym": 86.0
+      "spinnaker_asym": 86.0, 
+      "crew": 685.0
     }, 
     "year": "2000"
   }, 

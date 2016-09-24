@@ -5,12 +5,13 @@
       1.2261, 
       1.3989
     ], 
-    "gph": 624.8, 
     "triple_inshore": [
       0.7081, 
       0.9756, 
       1.1474
-    ]
+    ], 
+    "gph": 624.8, 
+    "osn": 606.8
   }, 
   "sailnumber": "ITA15357", 
   "name": "CHARAS 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.28, 
       "draft": 2.0, 
+      "wetted_surface": 31.0, 
       "main": 41.9, 
       "genoa": 42.7, 
       "displacement": 6750.0, 
-      "spinnaker_asym": 99.0
+      "spinnaker_asym": 99.0, 
+      "crew": 750.0
     }, 
     "year": "2005"
   }, 

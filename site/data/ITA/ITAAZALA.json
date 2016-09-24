@@ -5,12 +5,13 @@
       1.1571, 
       1.3585
     ], 
-    "gph": 670.2, 
     "triple_inshore": [
       0.6309, 
       0.9188, 
       1.1268
-    ]
+    ], 
+    "gph": 670.2, 
+    "osn": 647.8
   }, 
   "sailnumber": "ITAAZALA", 
   "name": "AZALAI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 1.97, 
+      "wetted_surface": 34.9, 
       "main": 50.5, 
       "genoa": 34.0, 
       "displacement": 8414.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 510.0
     }, 
     "year": "2006"
   }, 

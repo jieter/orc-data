@@ -5,12 +5,13 @@
       1.3624, 
       1.5314
     ], 
-    "gph": 558.1, 
     "triple_inshore": [
       0.8002, 
       1.0793, 
       1.2434
-    ]
+    ], 
+    "gph": 558.1, 
+    "osn": 547.1
   }, 
   "sailnumber": "GER6694", 
   "name": "IRRWITZER", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.305, 
       "draft": 2.34, 
+      "wetted_surface": 38.5, 
       "main": 63.3, 
       "genoa": 47.8, 
       "displacement": 9341.0, 
-      "spinnaker_asym": 152.0
+      "spinnaker_asym": 152.0, 
+      "crew": 908.0
     }, 
     "year": "2010"
   }, 

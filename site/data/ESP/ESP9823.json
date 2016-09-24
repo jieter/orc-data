@@ -5,12 +5,13 @@
       1.1811, 
       1.3587
     ], 
-    "gph": 651.1, 
     "triple_inshore": [
       0.6742, 
       0.9475, 
       1.1335
-    ]
+    ], 
+    "gph": 651.1, 
+    "osn": 629.7
   }, 
   "sailnumber": "ESP9823", 
   "name": "ISURUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.2, 
       "loa": 10.675, 
       "draft": 2.12, 
+      "wetted_surface": 29.8, 
       "main": 31.0, 
       "genoa": 36.8, 
       "displacement": 5921.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 694.0
     }, 
     "year": "2008"
   }, 

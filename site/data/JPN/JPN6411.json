@@ -5,12 +5,13 @@
       1.1951, 
       1.3339
     ], 
-    "gph": 631.6, 
     "triple_inshore": [
       0.7415, 
       0.9745, 
       1.1003
-    ]
+    ], 
+    "gph": 631.6, 
+    "osn": 616.3
   }, 
   "sailnumber": "JPN6411", 
   "name": "BAMBINO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.14, 
       "draft": 1.82, 
+      "wetted_surface": 18.3, 
       "main": 30.5, 
       "genoa": 22.7, 
       "displacement": 2697.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 495.0
     }, 
     "year": "1992"
   }, 

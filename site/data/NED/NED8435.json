@@ -5,12 +5,13 @@
       1.0338, 
       1.1659
     ], 
-    "gph": 735.9, 
     "triple_inshore": [
       0.6085, 
       0.8259, 
       0.9697
-    ]
+    ], 
+    "gph": 735.9, 
+    "osn": 720.5
   }, 
   "sailnumber": "NED8435", 
   "name": "Polaris III", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.9, 
       "loa": 8.675, 
       "draft": 1.64, 
+      "wetted_surface": 18.9, 
       "main": 18.3, 
       "genoa": 17.5, 
       "displacement": 3464.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 200.0
     }, 
     "year": "1983"
   }, 

@@ -5,12 +5,13 @@
       0.903, 
       1.0303
     ], 
-    "gph": 845.2, 
     "triple_inshore": [
       0.5316, 
       0.7245, 
       0.8492
-    ]
+    ], 
+    "gph": 845.2, 
+    "osn": 821.6
   }, 
   "sailnumber": "NED8647", 
   "name": "Kelt", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.12, 
       "draft": 1.21, 
+      "wetted_surface": 10.9, 
       "main": 10.1, 
       "genoa": 10.8, 
       "displacement": 950.0, 
-      "spinnaker_asym": 24.0
+      "spinnaker_asym": 24.0, 
+      "crew": 272.0
     }, 
     "year": "1973"
   }, 

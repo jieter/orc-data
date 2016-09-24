@@ -5,12 +5,13 @@
       1.2266, 
       1.3883
     ], 
-    "gph": 623.4, 
     "triple_inshore": [
       0.7168, 
       0.9863, 
       1.1552
-    ]
+    ], 
+    "gph": 623.4, 
+    "osn": 605.8
   }, 
   "sailnumber": "ESP7989", 
   "name": "KURUFURU", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.7, 
       "loa": 11.313, 
       "draft": 1.93, 
+      "wetted_surface": 29.0, 
       "main": 45.7, 
       "genoa": 33.0, 
       "displacement": 6517.0, 
-      "spinnaker_asym": 77.0
+      "spinnaker_asym": 77.0, 
+      "crew": 720.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.1469, 
       1.361
     ], 
-    "gph": 659.5, 
     "triple_inshore": [
       0.6915, 
       0.9206, 
       1.0883
-    ]
+    ], 
+    "gph": 659.5, 
+    "osn": 638.8
   }, 
   "sailnumber": "TUR1513", 
   "name": "Vitra Yelken-Vira Yatcil", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.32, 
       "draft": 1.57, 
+      "wetted_surface": 12.0, 
       "main": 21.8, 
       "genoa": 10.4, 
       "displacement": 875.0, 
-      "spinnaker_asym": 49.0
+      "spinnaker_asym": 49.0, 
+      "crew": 460.0
     }, 
     "year": "2002"
   }, 

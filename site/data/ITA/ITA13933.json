@@ -5,12 +5,13 @@
       1.2504, 
       1.4122
     ], 
-    "gph": 613.0, 
     "triple_inshore": [
       0.7254, 
       0.9989, 
       1.1622
-    ]
+    ], 
+    "gph": 613.0, 
+    "osn": 595.0
   }, 
   "sailnumber": "ITA13933", 
   "name": "VEGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.016, 
       "draft": 2.41, 
+      "wetted_surface": 31.7, 
       "main": 44.7, 
       "genoa": 37.7, 
       "displacement": 6984.0, 
-      "spinnaker_asym": 96.0
+      "spinnaker_asym": 96.0, 
+      "crew": 550.0
     }, 
     "year": "2000"
   }, 

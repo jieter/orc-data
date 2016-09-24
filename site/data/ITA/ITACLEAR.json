@@ -5,12 +5,13 @@
       1.1557, 
       1.2969
     ], 
-    "gph": 661.1, 
     "triple_inshore": [
       0.6812, 
       0.9275, 
       1.0737
-    ]
+    ], 
+    "gph": 661.1, 
+    "osn": 642.5
   }, 
   "sailnumber": "ITACLEAR", 
   "name": "CLEAR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.965, 
       "draft": 2.05, 
+      "wetted_surface": 22.6, 
       "main": 26.6, 
       "genoa": 31.4, 
       "displacement": 4380.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 470.0
     }, 
     "year": "2003"
   }, 

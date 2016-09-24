@@ -5,12 +5,13 @@
       1.7336, 
       1.9843
     ], 
-    "gph": 443.6, 
     "triple_inshore": [
       0.9812, 
       1.3701, 
       1.6194
-    ]
+    ], 
+    "gph": 443.6, 
+    "osn": 431.6
   }, 
   "sailnumber": "ESP9933", 
   "name": "PLIS-PLAY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 24.4, 
       "draft": 4.05, 
+      "wetted_surface": 96.4, 
       "main": 186.3, 
       "genoa": 155.5, 
       "displacement": 39479.0, 
-      "spinnaker_asym": 545.0
+      "spinnaker_asym": 545.0, 
+      "crew": 1570.0
     }, 
     "year": "1999"
   }, 

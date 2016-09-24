@@ -5,12 +5,13 @@
       1.2837, 
       1.4473
     ], 
-    "gph": 593.5, 
     "triple_inshore": [
       0.7608, 
       1.0373, 
       1.2084
-    ]
+    ], 
+    "gph": 593.5, 
+    "osn": 578.2
   }, 
   "sailnumber": "NOR9770", 
   "name": "Quadriga", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.2, 
       "loa": 11.99, 
       "draft": 2.41, 
+      "wetted_surface": 31.1, 
       "main": 49.2, 
       "genoa": 52.9, 
       "displacement": 6983.0, 
-      "spinnaker_asym": 87.0
+      "spinnaker_asym": 87.0, 
+      "crew": 732.0
     }, 
     "year": "1997"
   }, 

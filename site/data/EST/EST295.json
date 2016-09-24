@@ -5,12 +5,13 @@
       1.1551, 
       1.3132
     ], 
-    "gph": 661.9, 
     "triple_inshore": [
       0.6795, 
       0.9424, 
       1.1072
-    ]
+    ], 
+    "gph": 661.9, 
+    "osn": 641.1
   }, 
   "sailnumber": "EST295", 
   "name": "BRIGITTA", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.1, 
       "loa": 9.295, 
       "draft": 1.98, 
+      "wetted_surface": 20.2, 
       "main": 31.0, 
       "genoa": 19.6, 
       "displacement": 3494.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 510.0
     }, 
     "year": "1999"
   }, 

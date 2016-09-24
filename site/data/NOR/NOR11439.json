@@ -5,12 +5,13 @@
       1.2151, 
       1.3615
     ], 
-    "gph": 626.5, 
     "triple_inshore": [
       0.7253, 
       0.9851, 
       1.1407
-    ]
+    ], 
+    "gph": 626.5, 
+    "osn": 610.7
   }, 
   "sailnumber": "NOR11439", 
   "name": "Enigma", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.4, 
       "loa": 10.66, 
       "draft": 2.23, 
+      "wetted_surface": 26.8, 
       "main": 40.1, 
       "genoa": 42.8, 
       "displacement": 5652.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 642.0
     }, 
     "year": "2001"
   }, 

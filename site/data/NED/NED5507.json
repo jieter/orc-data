@@ -5,12 +5,13 @@
       1.1711, 
       1.3331
     ], 
-    "gph": 653.1, 
     "triple_inshore": [
       0.6777, 
       0.9455, 
       1.1231
-    ]
+    ], 
+    "gph": 653.1, 
+    "osn": 635.6
   }, 
   "sailnumber": "NED5507", 
   "name": "Catxalot", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.69, 
       "draft": 1.94, 
+      "wetted_surface": 27.9, 
       "main": 40.9, 
       "genoa": 40.0, 
       "displacement": 6165.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 677.0
     }, 
     "year": "1993"
   }, 

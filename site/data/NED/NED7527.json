@@ -5,12 +5,13 @@
       1.1213, 
       1.274
     ], 
-    "gph": 682.5, 
     "triple_inshore": [
       0.65, 
       0.9044, 
       1.0712
-    ]
+    ], 
+    "gph": 682.5, 
+    "osn": 663.5
   }, 
   "sailnumber": "NED7527", 
   "name": "MISS SOFY", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.742, 
       "draft": 1.83, 
+      "wetted_surface": 25.8, 
       "main": 39.9, 
       "genoa": 35.5, 
       "displacement": 6126.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 588.0
     }, 
     "year": "1991"
   }, 

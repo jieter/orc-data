@@ -5,12 +5,13 @@
       1.0893, 
       1.2361
     ], 
-    "gph": 703.0, 
     "triple_inshore": [
       0.6322, 
       0.8738, 
       1.0293
-    ]
+    ], 
+    "gph": 703.0, 
+    "osn": 682.9
   }, 
   "sailnumber": "NOR11326", 
   "name": "Harmoni", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 1.74, 
+      "wetted_surface": 23.3, 
       "main": 28.0, 
       "genoa": 29.7, 
       "displacement": 4490.0, 
-      "spinnaker_asym": 59.0
+      "spinnaker_asym": 59.0, 
+      "crew": 527.0
     }, 
     "year": "1985"
   }, 

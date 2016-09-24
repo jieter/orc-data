@@ -5,12 +5,13 @@
       1.3341, 
       1.5141
     ], 
-    "gph": 568.6, 
     "triple_inshore": [
       0.7994, 
       1.0734, 
       1.2345
-    ]
+    ], 
+    "gph": 568.6, 
+    "osn": 555.0
   }, 
   "sailnumber": "SWE9267", 
   "name": "Pila", 
@@ -25,10 +26,12 @@
       "spinnaker": 106.8, 
       "loa": 11.6, 
       "draft": 2.43, 
+      "wetted_surface": 26.0, 
       "main": 51.1, 
       "genoa": 32.2, 
       "displacement": 4062.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 650.0
     }, 
     "year": "1996"
   }, 

@@ -5,12 +5,13 @@
       1.3652, 
       1.5513
     ], 
-    "gph": 560.5, 
     "triple_inshore": [
       0.7964, 
       1.0962, 
       1.2934
-    ]
+    ], 
+    "gph": 560.5, 
+    "osn": 544.7
   }, 
   "sailnumber": "ITA16170", 
   "name": "LUDUAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 190.1, 
       "loa": 14.1, 
       "draft": 2.63, 
+      "wetted_surface": 43.6, 
       "main": 65.1, 
       "genoa": 57.8, 
       "displacement": 12526.0, 
-      "spinnaker_asym": 146.0
+      "spinnaker_asym": 146.0, 
+      "crew": 987.0
     }, 
     "year": "2008"
   }, 

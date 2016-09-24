@@ -5,12 +5,13 @@
       1.1808, 
       1.3459
     ], 
-    "gph": 647.7, 
     "triple_inshore": [
       0.6891, 
       0.9511, 
       1.1275
-    ]
+    ], 
+    "gph": 647.7, 
+    "osn": 628.6
   }, 
   "sailnumber": "NED6778", 
   "name": "SCANDAGLIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.4, 
       "loa": 10.944, 
       "draft": 2.09, 
+      "wetted_surface": 29.4, 
       "main": 38.3, 
       "genoa": 39.6, 
       "displacement": 6549.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "1995"
   }, 

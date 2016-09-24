@@ -5,12 +5,13 @@
       1.2068, 
       1.3674
     ], 
-    "gph": 634.4, 
     "triple_inshore": [
       0.7013, 
       0.9679, 
       1.1404
-    ]
+    ], 
+    "gph": 634.4, 
+    "osn": 616.3
   }, 
   "sailnumber": "GER5019", 
   "name": "SUSEWIND", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.2, 
       "loa": 11.98, 
       "draft": 1.92, 
+      "wetted_surface": 28.9, 
       "main": 36.6, 
       "genoa": 42.8, 
       "displacement": 6867.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.12, 
       1.2661
     ], 
-    "gph": 680.6, 
     "triple_inshore": [
       0.6544, 
       0.8937, 
       1.0477
-    ]
+    ], 
+    "gph": 680.6, 
+    "osn": 664.8
   }, 
   "sailnumber": "HUN990", 
   "name": "First Aquarius", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.1, 
       "loa": 9.49, 
       "draft": 1.51, 
+      "wetted_surface": 22.3, 
       "main": 25.2, 
       "genoa": 27.5, 
       "displacement": 4151.0, 
-      "spinnaker_asym": 62.0
+      "spinnaker_asym": 62.0, 
+      "crew": 400.0
     }, 
     "year": "1998"
   }, 

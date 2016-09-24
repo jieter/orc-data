@@ -5,12 +5,13 @@
       1.1021, 
       1.2512
     ], 
-    "gph": 695.7, 
     "triple_inshore": [
       0.6406, 
       0.8888, 
       1.045
-    ]
+    ], 
+    "gph": 695.7, 
+    "osn": 673.9
   }, 
   "sailnumber": "ESP1177", 
   "name": "ENXUTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.1, 
       "loa": 9.147, 
       "draft": 1.86, 
+      "wetted_surface": 22.2, 
       "main": 26.3, 
       "genoa": 27.6, 
       "displacement": 3812.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 457.0
     }, 
     "year": "1991"
   }, 

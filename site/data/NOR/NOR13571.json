@@ -5,12 +5,13 @@
       1.2607, 
       1.4305
     ], 
-    "gph": 606.6, 
     "triple_inshore": [
       0.7329, 
       1.0027, 
       1.1699
-    ]
+    ], 
+    "gph": 606.6, 
+    "osn": 590.4
   }, 
   "sailnumber": "NOR13571", 
   "name": "Maija", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.01, 
       "draft": 1.96, 
+      "wetted_surface": 35.0, 
       "main": 50.6, 
       "genoa": 49.2, 
       "displacement": 8023.0, 
-      "spinnaker_asym": 101.0
+      "spinnaker_asym": 101.0, 
+      "crew": 784.0
     }, 
     "year": "2008"
   }, 

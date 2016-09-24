@@ -5,12 +5,13 @@
       1.2392, 
       1.4095
     ], 
-    "gph": 617.1, 
     "triple_inshore": [
       0.726, 
       1.0049, 
       1.1764
-    ]
+    ], 
+    "gph": 617.1, 
+    "osn": 598.4
   }, 
   "sailnumber": "ESP7932", 
   "name": "PESTANEO", 
@@ -25,10 +26,12 @@
       "spinnaker": 88.8, 
       "loa": 10.617, 
       "draft": 2.17, 
+      "wetted_surface": 25.1, 
       "main": 36.9, 
       "genoa": 29.5, 
       "displacement": 4734.0, 
-      "spinnaker_asym": 74.0
+      "spinnaker_asym": 74.0, 
+      "crew": 525.0
     }, 
     "year": "2005"
   }, 

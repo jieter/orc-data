@@ -5,12 +5,13 @@
       1.1922, 
       1.3369
     ], 
-    "gph": 638.5, 
     "triple_inshore": [
       0.7136, 
       0.9632, 
       1.1178
-    ]
+    ], 
+    "gph": 638.5, 
+    "osn": 622.1
   }, 
   "sailnumber": "ITAACTIN", 
   "name": "ACTINIAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 118.2, 
       "loa": 11.652, 
       "draft": 1.98, 
+      "wetted_surface": 27.5, 
       "main": 36.4, 
       "genoa": 43.4, 
       "displacement": 6811.0, 
-      "spinnaker_asym": 96.0
+      "spinnaker_asym": 96.0, 
+      "crew": 560.0
     }, 
     "year": "1979"
   }, 

@@ -5,12 +5,13 @@
       1.3448, 
       1.6041
     ], 
-    "gph": 562.0, 
     "triple_inshore": [
       0.7968, 
       1.0624, 
       1.2957
-    ]
+    ], 
+    "gph": 562.0, 
+    "osn": 550.9
   }, 
   "sailnumber": "ITASTARFI", 
   "name": "STAR FIGHTER", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.15, 
       "draft": 1.67, 
+      "wetted_surface": 10.6, 
       "main": 23.7, 
       "genoa": 14.2, 
       "displacement": 464.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 420.0
     }, 
     "year": "2001"
   }, 

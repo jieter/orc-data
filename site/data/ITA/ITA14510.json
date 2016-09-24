@@ -5,12 +5,13 @@
       1.2124, 
       1.3615
     ], 
-    "gph": 629.1, 
     "triple_inshore": [
       0.7197, 
       0.9837, 
       1.1423
-    ]
+    ], 
+    "gph": 629.1, 
+    "osn": 612.1
   }, 
   "sailnumber": "ITA14510", 
   "name": "FARR FUI", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.7, 
       "loa": 10.64, 
       "draft": 2.22, 
+      "wetted_surface": 26.4, 
       "main": 39.9, 
       "genoa": 38.1, 
       "displacement": 5508.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 490.0
     }, 
     "year": "2001"
   }, 

@@ -5,12 +5,13 @@
       1.0926, 
       1.2325
     ], 
-    "gph": 697.2, 
     "triple_inshore": [
       0.6487, 
       0.8886, 
       1.0304
-    ]
+    ], 
+    "gph": 697.2, 
+    "osn": 678.2
   }, 
   "sailnumber": "DEN73", 
   "name": "Avanti", 
@@ -25,10 +26,12 @@
       "spinnaker": 49.5, 
       "loa": 8.88, 
       "draft": 1.54, 
+      "wetted_surface": 17.4, 
       "main": 24.0, 
       "genoa": 23.2, 
       "displacement": 2723.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 473.0
     }, 
     "year": "1985"
   }, 

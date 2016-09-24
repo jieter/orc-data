@@ -5,12 +5,13 @@
       0.9599, 
       1.0847
     ], 
-    "gph": 795.0, 
     "triple_inshore": [
       0.5706, 
       0.7851, 
       0.9148
-    ]
+    ], 
+    "gph": 795.0, 
+    "osn": 770.3
   }, 
   "sailnumber": "NOR8186", 
   "name": "Aurora", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.8, 
       "draft": 1.48, 
+      "wetted_surface": 14.2, 
       "main": 15.7, 
       "genoa": 20.1, 
       "displacement": 2383.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 354.0
     }, 
     "year": "1978"
   }, 

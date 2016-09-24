@@ -5,12 +5,13 @@
       1.1135, 
       1.2613
     ], 
-    "gph": 686.1, 
     "triple_inshore": [
       0.6518, 
       0.8946, 
       1.0503
-    ]
+    ], 
+    "gph": 686.1, 
+    "osn": 667.5
   }, 
   "sailnumber": "NED6058", 
   "name": "CYGNUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.9, 
       "loa": 9.87, 
       "draft": 1.45, 
+      "wetted_surface": 22.8, 
       "main": 30.0, 
       "genoa": 30.5, 
       "displacement": 4630.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 546.0
     }, 
     "year": "1994"
   }, 

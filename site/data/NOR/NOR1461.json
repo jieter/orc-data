@@ -5,12 +5,13 @@
       1.0428, 
       1.1874
     ], 
-    "gph": 732.8, 
     "triple_inshore": [
       0.6124, 
       0.8367, 
       0.9886
-    ]
+    ], 
+    "gph": 732.8, 
+    "osn": 711.9
   }, 
   "sailnumber": "NOR1461", 
   "name": "Josefine III", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.1, 
       "loa": 9.5, 
       "draft": 1.53, 
+      "wetted_surface": 22.0, 
       "main": 22.6, 
       "genoa": 29.1, 
       "displacement": 4347.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 498.0
     }, 
     "year": "1973"
   }, 

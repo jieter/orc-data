@@ -5,12 +5,13 @@
       1.3708, 
       1.5507
     ], 
-    "gph": 558.6, 
     "triple_inshore": [
       0.7943, 
       1.0903, 
       1.2668
-    ]
+    ], 
+    "gph": 558.6, 
+    "osn": 543.8
   }, 
   "sailnumber": "ITA16754", 
   "name": "MISTER X 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.98, 
       "draft": 2.58, 
+      "wetted_surface": 41.3, 
       "main": 66.9, 
       "genoa": 54.1, 
       "displacement": 10304.0, 
-      "spinnaker_asym": 148.0
+      "spinnaker_asym": 148.0, 
+      "crew": 979.0
     }, 
     "year": "2011"
   }, 

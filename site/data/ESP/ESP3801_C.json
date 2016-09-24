@@ -5,12 +5,13 @@
       1.2552, 
       1.4233
     ], 
-    "gph": 607.8, 
     "triple_inshore": [
       0.7433, 
       1.0211, 
       1.1913
-    ]
+    ], 
+    "gph": 607.8, 
+    "osn": 589.7
   }, 
   "sailnumber": "ESP3801_C", 
   "name": "ESMAR V", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.5, 
       "loa": 11.36, 
       "draft": 2.43, 
+      "wetted_surface": 27.7, 
       "main": 37.8, 
       "genoa": 44.9, 
       "displacement": 5325.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 635.0
     }, 
     "year": "1992"
   }, 

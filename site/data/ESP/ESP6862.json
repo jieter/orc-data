@@ -5,12 +5,13 @@
       1.1028, 
       1.2523
     ], 
-    "gph": 697.1, 
     "triple_inshore": [
       0.6358, 
       0.8894, 
       1.039
-    ]
+    ], 
+    "gph": 697.1, 
+    "osn": 674.3
   }, 
   "sailnumber": "ESP6862", 
   "name": "GRIFO", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.5, 
       "loa": 8.3, 
       "draft": 2.14, 
+      "wetted_surface": 20.3, 
       "main": 26.8, 
       "genoa": 20.1, 
       "displacement": 2701.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2002"
   }, 

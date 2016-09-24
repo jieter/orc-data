@@ -5,12 +5,13 @@
       1.3186, 
       1.4874
     ], 
-    "gph": 579.8, 
     "triple_inshore": [
       0.7712, 
       1.058, 
       1.221
-    ]
+    ], 
+    "gph": 579.8, 
+    "osn": 563.7
   }, 
   "sailnumber": "ITA17096", 
   "name": "ARI BADA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.95, 
       "draft": 2.38, 
+      "wetted_surface": 33.9, 
       "main": 55.7, 
       "genoa": 37.5, 
       "displacement": 7523.0, 
-      "spinnaker_asym": 155.0
+      "spinnaker_asym": 155.0, 
+      "crew": 700.0
     }, 
     "year": "2012"
   }, 

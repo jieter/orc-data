@@ -5,12 +5,13 @@
       1.2615, 
       1.4179
     ], 
-    "gph": 604.9, 
     "triple_inshore": [
       0.7455, 
       1.0168, 
       1.1838
-    ]
+    ], 
+    "gph": 604.9, 
+    "osn": 588.6
   }, 
   "sailnumber": "ITA14490", 
   "name": "VITAMINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.7, 
       "loa": 11.785, 
       "draft": 2.38, 
+      "wetted_surface": 32.2, 
       "main": 45.8, 
       "genoa": 48.9, 
       "displacement": 7298.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 685.0
     }, 
     "year": "1999"
   }, 

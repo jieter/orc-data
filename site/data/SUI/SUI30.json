@@ -5,12 +5,13 @@
       1.3003, 
       1.4475
     ], 
-    "gph": 581.1, 
     "triple_inshore": [
       0.7847, 
       1.039, 
       1.1868
-    ]
+    ], 
+    "gph": 581.1, 
+    "osn": 571.1
   }, 
   "sailnumber": "SUI30", 
   "name": "TARTARUGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.58, 
       "draft": 2.13, 
+      "wetted_surface": 31.6, 
       "main": 51.4, 
       "genoa": 36.7, 
       "displacement": 7257.0, 
-      "spinnaker_asym": 148.0
+      "spinnaker_asym": 148.0, 
+      "crew": 650.0
     }, 
     "year": "2011"
   }, 

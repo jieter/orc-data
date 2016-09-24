@@ -5,12 +5,13 @@
       1.19, 
       1.3341
     ], 
-    "gph": 641.4, 
     "triple_inshore": [
       0.7051, 
       0.9562, 
       1.1017
-    ]
+    ], 
+    "gph": 641.4, 
+    "osn": 623.4
   }, 
   "sailnumber": "NED8257", 
   "name": "Windshear", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.57, 
       "draft": 2.03, 
+      "wetted_surface": 25.6, 
       "main": 34.4, 
       "genoa": 24.6, 
       "displacement": 4341.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 180.0
     }, 
     "year": "1992"
   }, 

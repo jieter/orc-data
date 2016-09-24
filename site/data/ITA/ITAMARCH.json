@@ -5,12 +5,13 @@
       1.3578, 
       1.5163
     ], 
-    "gph": 546.9, 
     "triple_inshore": [
       0.8814, 
       1.1007, 
       1.2596
-    ]
+    ], 
+    "gph": 546.9, 
+    "osn": 540.5
   }, 
   "sailnumber": "ITAMARCH", 
   "name": "MARCHINGENIO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.19, 
       "draft": 2.4, 
+      "wetted_surface": 24.4, 
       "main": 73.0, 
       "genoa": 34.3, 
       "displacement": 3897.0, 
-      "spinnaker_asym": 166.0
+      "spinnaker_asym": 166.0, 
+      "crew": 800.0
     }, 
     "year": "1996"
   }, 

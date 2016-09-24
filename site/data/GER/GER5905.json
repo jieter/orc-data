@@ -5,12 +5,13 @@
       1.2218, 
       1.3962
     ], 
-    "gph": 627.5, 
     "triple_inshore": [
       0.7032, 
       0.9753, 
       1.1607
-    ]
+    ], 
+    "gph": 627.5, 
+    "osn": 609.6
   }, 
   "sailnumber": "GER5905", 
   "name": "SPINDRIFT", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.8, 
       "loa": 12.06, 
       "draft": 2.08, 
+      "wetted_surface": 32.6, 
       "main": 45.1, 
       "genoa": 43.8, 
       "displacement": 8181.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "2003"
   }, 

@@ -5,12 +5,13 @@
       1.1741, 
       1.3218
     ], 
-    "gph": 649.6, 
     "triple_inshore": [
       0.6956, 
       0.9512, 
       1.1047
-    ]
+    ], 
+    "gph": 649.6, 
+    "osn": 632.2
   }, 
   "sailnumber": "GER4732", 
   "name": "CHINOOK", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.7, 
       "loa": 10.06, 
       "draft": 1.83, 
+      "wetted_surface": 24.4, 
       "main": 35.6, 
       "genoa": 31.8, 
       "displacement": 4647.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1994"
   }, 

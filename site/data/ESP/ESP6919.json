@@ -5,12 +5,13 @@
       1.1593, 
       1.3107
     ], 
-    "gph": 659.1, 
     "triple_inshore": [
       0.6831, 
       0.938, 
       1.0967
-    ]
+    ], 
+    "gph": 659.1, 
+    "osn": 639.8
   }, 
   "sailnumber": "ESP6919", 
   "name": "SPRINGBOK III", 
@@ -25,10 +26,12 @@
       "spinnaker": 69.3, 
       "loa": 9.965, 
       "draft": 2.05, 
+      "wetted_surface": 22.8, 
       "main": 28.9, 
       "genoa": 31.8, 
       "displacement": 4451.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "2003"
   }, 

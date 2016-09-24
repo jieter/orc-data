@@ -5,12 +5,13 @@
       2.3483, 
       3.0236
     ], 
-    "gph": 329.9, 
     "triple_inshore": [
       1.2109, 
       1.7495, 
       2.2693
-    ]
+    ], 
+    "gph": 329.9, 
+    "osn": 321.7
   }, 
   "sailnumber": "ITA70", 
   "name": "MASERATI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 21.501, 
       "draft": 5.05, 
+      "wetted_surface": 73.1, 
       "main": 171.1, 
       "genoa": 157.9, 
       "displacement": 8068.0, 
-      "spinnaker_asym": 494.0
+      "spinnaker_asym": 494.0, 
+      "crew": 1892.0
     }, 
     "year": "2007"
   }, 

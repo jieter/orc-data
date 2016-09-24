@@ -5,12 +5,13 @@
       1.2681, 
       1.4287
     ], 
-    "gph": 601.8, 
     "triple_inshore": [
       0.7482, 
       1.023, 
       1.1936
-    ]
+    ], 
+    "gph": 601.8, 
+    "osn": 585.6
   }, 
   "sailnumber": "ITA13862", 
   "name": "HORCA MYTICA", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.5, 
       "loa": 11.924, 
       "draft": 2.42, 
+      "wetted_surface": 31.4, 
       "main": 48.3, 
       "genoa": 46.3, 
       "displacement": 7231.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "1997"
   }, 

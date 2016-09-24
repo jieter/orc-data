@@ -5,12 +5,13 @@
       1.2975, 
       1.4799
     ], 
-    "gph": 589.1, 
     "triple_inshore": [
       0.7416, 
       1.0265, 
       1.2096
-    ]
+    ], 
+    "gph": 589.1, 
+    "osn": 575.0
   }, 
   "sailnumber": "NED8484", 
   "name": "Blond", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.5, 
       "draft": 2.25, 
+      "wetted_surface": 35.2, 
       "main": 48.6, 
       "genoa": 37.2, 
       "displacement": 7990.0, 
-      "spinnaker_asym": 125.0
+      "spinnaker_asym": 125.0, 
+      "crew": 870.0
     }, 
     "year": "2010"
   }, 

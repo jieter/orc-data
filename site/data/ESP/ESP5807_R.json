@@ -5,12 +5,13 @@
       1.2691, 
       1.4296
     ], 
-    "gph": 602.3, 
     "triple_inshore": [
       0.7451, 
       1.0219, 
       1.1904
-    ]
+    ], 
+    "gph": 602.3, 
+    "osn": 585.7
   }, 
   "sailnumber": "ESP5807_R", 
   "name": "TANIT III", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.3, 
       "loa": 12.1, 
       "draft": 2.4, 
+      "wetted_surface": 30.4, 
       "main": 45.9, 
       "genoa": 38.5, 
       "displacement": 6286.0, 
-      "spinnaker_asym": 98.0
+      "spinnaker_asym": 98.0, 
+      "crew": 170.0
     }, 
     "year": "2000"
   }, 

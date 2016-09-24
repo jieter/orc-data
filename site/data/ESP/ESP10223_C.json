@@ -5,12 +5,13 @@
       1.0363, 
       1.1928
     ], 
-    "gph": 738.8, 
     "triple_inshore": [
       0.6042, 
       0.8361, 
       1.0052
-    ]
+    ], 
+    "gph": 738.8, 
+    "osn": 715.5
   }, 
   "sailnumber": "ESP10223_C", 
   "name": "O FILISPIN", 
@@ -25,10 +26,12 @@
       "spinnaker": 44.2, 
       "loa": 8.845, 
       "draft": 1.75, 
+      "wetted_surface": 20.1, 
       "main": 21.0, 
       "genoa": 23.9, 
       "displacement": 4108.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1989"
   }, 

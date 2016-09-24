@@ -5,12 +5,13 @@
       1.2752, 
       1.4449
     ], 
-    "gph": 600.6, 
     "triple_inshore": [
       0.7401, 
       1.0275, 
       1.2029
-    ]
+    ], 
+    "gph": 600.6, 
+    "osn": 582.7
   }, 
   "sailnumber": "ITA17064", 
   "name": "SLY 38", 
@@ -25,10 +26,12 @@
       "spinnaker": 105.4, 
       "loa": 11.5, 
       "draft": 2.1, 
+      "wetted_surface": 31.6, 
       "main": 45.5, 
       "genoa": 33.4, 
       "displacement": 6806.0, 
-      "spinnaker_asym": 132.0
+      "spinnaker_asym": 132.0, 
+      "crew": 700.0
     }, 
     "year": "2013"
   }, 

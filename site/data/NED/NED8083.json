@@ -5,12 +5,13 @@
       1.3647, 
       1.5614
     ], 
-    "gph": 555.4, 
     "triple_inshore": [
       0.8032, 
       1.076, 
       1.2525
-    ]
+    ], 
+    "gph": 555.4, 
+    "osn": 544.8
   }, 
   "sailnumber": "NED8083", 
   "name": "Hemels van der Hart", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.59, 
       "draft": 2.56, 
+      "wetted_surface": 32.8, 
       "main": 62.1, 
       "genoa": 44.6, 
       "displacement": 4582.0, 
-      "spinnaker_asym": 151.0
+      "spinnaker_asym": 151.0, 
+      "crew": 600.0
     }, 
     "year": "2009"
   }, 

@@ -5,12 +5,13 @@
       1.2849, 
       1.4691
     ], 
-    "gph": 597.0, 
     "triple_inshore": [
       0.7383, 
       1.0263, 
       1.214
-    ]
+    ], 
+    "gph": 597.0, 
+    "osn": 579.3
   }, 
   "sailnumber": "NED8380", 
   "name": "Endorphin", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.4, 
       "draft": 2.14, 
+      "wetted_surface": 38.8, 
       "main": 54.1, 
       "genoa": 39.9, 
       "displacement": 8726.0, 
-      "spinnaker_asym": 140.0
+      "spinnaker_asym": 140.0, 
+      "crew": 425.0
     }, 
     "year": "2010"
   }, 

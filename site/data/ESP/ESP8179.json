@@ -5,12 +5,13 @@
       1.2001, 
       1.3351
     ], 
-    "gph": 633.4, 
     "triple_inshore": [
       0.7228, 
       0.9695, 
       1.1067
-    ]
+    ], 
+    "gph": 633.4, 
+    "osn": 617.7
   }, 
   "sailnumber": "ESP8179", 
   "name": "BLUE LIZARD", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.982, 
       "draft": 2.01, 
+      "wetted_surface": 23.7, 
       "main": 34.8, 
       "genoa": 33.6, 
       "displacement": 4702.0, 
-      "spinnaker_asym": 104.0
+      "spinnaker_asym": 104.0, 
+      "crew": 591.0
     }, 
     "year": "2005"
   }, 

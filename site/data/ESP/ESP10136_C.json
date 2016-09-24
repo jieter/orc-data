@@ -5,12 +5,13 @@
       1.0966, 
       1.2171
     ], 
-    "gph": 691.7, 
     "triple_inshore": [
       0.6654, 
       0.8796, 
       1.0102
-    ]
+    ], 
+    "gph": 691.7, 
+    "osn": 677.0
   }, 
   "sailnumber": "ESP10136_C", 
   "name": "BOLERO III", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.28, 
       "draft": 1.82, 
+      "wetted_surface": 23.8, 
       "main": 31.5, 
       "genoa": 35.0, 
       "displacement": 5395.0, 
-      "spinnaker_asym": 73.0
+      "spinnaker_asym": 73.0, 
+      "crew": 135.0
     }, 
     "year": "1990"
   }, 

@@ -5,12 +5,13 @@
       1.1093, 
       1.2509
     ], 
-    "gph": 687.2, 
     "triple_inshore": [
       0.66, 
       0.8997, 
       1.0531
-    ]
+    ], 
+    "gph": 687.2, 
+    "osn": 667.9
   }, 
   "sailnumber": "FIN9858", 
   "name": "Merinna", 
@@ -25,10 +26,12 @@
       "spinnaker": 56.2, 
       "loa": 9.19, 
       "draft": 1.9, 
+      "wetted_surface": 21.4, 
       "main": 29.2, 
       "genoa": 27.1, 
       "displacement": 4380.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "2002"
   }, 

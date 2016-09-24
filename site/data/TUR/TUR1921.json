@@ -5,12 +5,13 @@
       1.1438, 
       1.3481
     ], 
-    "gph": 661.1, 
     "triple_inshore": [
       0.6918, 
       0.9193, 
       1.0828
-    ]
+    ], 
+    "gph": 661.1, 
+    "osn": 640.9
   }, 
   "sailnumber": "TUR1921", 
   "name": "Bilgi Yelken-Vira Yatcil", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.32, 
       "draft": 1.57, 
+      "wetted_surface": 12.0, 
       "main": 21.8, 
       "genoa": 10.4, 
       "displacement": 875.0, 
-      "spinnaker_asym": 49.0
+      "spinnaker_asym": 49.0, 
+      "crew": 400.0
     }, 
     "year": "2002"
   }, 

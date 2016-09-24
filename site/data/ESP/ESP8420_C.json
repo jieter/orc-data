@@ -5,12 +5,13 @@
       1.0179, 
       1.1782
     ], 
-    "gph": 753.5, 
     "triple_inshore": [
       0.5857, 
       0.8168, 
       0.9881
-    ]
+    ], 
+    "gph": 753.5, 
+    "osn": 729.9
   }, 
   "sailnumber": "ESP8420_C", 
   "name": "CLAIRE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.9, 
       "draft": 1.77, 
+      "wetted_surface": 21.7, 
       "main": 20.4, 
       "genoa": 34.0, 
       "displacement": 4405.0, 
-      "spinnaker_asym": 69.0
+      "spinnaker_asym": 69.0, 
+      "crew": 380.0
     }, 
     "year": "1979"
   }, 

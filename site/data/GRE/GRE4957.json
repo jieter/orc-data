@@ -5,12 +5,13 @@
       0.9209, 
       1.0404
     ], 
-    "gph": 826.2, 
     "triple_inshore": [
       0.5534, 
       0.7487, 
       0.8699
-    ]
+    ], 
+    "gph": 826.2, 
+    "osn": 802.9
   }, 
   "sailnumber": "GRE4957", 
   "name": "KAHLUA", 
@@ -25,10 +26,12 @@
       "spinnaker": 32.9, 
       "loa": 6.71, 
       "draft": 1.19, 
+      "wetted_surface": 11.0, 
       "main": 9.5, 
       "genoa": 14.6, 
       "displacement": 1504.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 299.0
     }, 
     "year": "1975"
   }, 

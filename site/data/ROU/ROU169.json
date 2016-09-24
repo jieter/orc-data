@@ -5,12 +5,13 @@
       0.9672, 
       1.1295
     ], 
-    "gph": 794.0, 
     "triple_inshore": [
       0.5529, 
       0.7729, 
       0.9442
-    ]
+    ], 
+    "gph": 794.0, 
+    "osn": 768.0
   }, 
   "sailnumber": "ROU169", 
   "name": "Ancutza", 
@@ -25,10 +26,12 @@
       "spinnaker": 48.9, 
       "loa": 8.32, 
       "draft": 1.59, 
+      "wetted_surface": 16.5, 
       "main": 14.3, 
       "genoa": 20.2, 
       "displacement": 3000.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 435.0
     }, 
     "year": "1976"
   }, 

@@ -5,12 +5,13 @@
       1.2237, 
       1.3907
     ], 
-    "gph": 624.6, 
     "triple_inshore": [
       0.7168, 
       0.987, 
       1.1571
-    ]
+    ], 
+    "gph": 624.6, 
+    "osn": 606.3
   }, 
   "sailnumber": "NOR10078", 
   "name": "Sweet Jane", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.7, 
       "loa": 11.37, 
       "draft": 2.1, 
+      "wetted_surface": 27.6, 
       "main": 37.7, 
       "genoa": 33.9, 
       "displacement": 5472.0, 
-      "spinnaker_asym": 101.0
+      "spinnaker_asym": 101.0, 
+      "crew": 666.0
     }, 
     "year": "1992"
   }, 

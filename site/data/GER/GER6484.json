@@ -5,12 +5,13 @@
       1.2756, 
       1.4378
     ], 
-    "gph": 596.9, 
     "triple_inshore": [
       0.76, 
       1.0356, 
       1.1956
-    ]
+    ], 
+    "gph": 596.9, 
+    "osn": 581.1
   }, 
   "sailnumber": "GER6484", 
   "name": "AKKA", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.0, 
       "loa": 10.975, 
       "draft": 2.22, 
+      "wetted_surface": 26.6, 
       "main": 45.7, 
       "genoa": 34.5, 
       "displacement": 5011.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 670.0
     }, 
     "year": "2008"
   }, 

@@ -5,12 +5,13 @@
       1.1522, 
       1.3092
     ], 
-    "gph": 663.5, 
     "triple_inshore": [
       0.6763, 
       0.9304, 
       1.1002
-    ]
+    ], 
+    "gph": 663.5, 
+    "osn": 643.5
   }, 
   "sailnumber": "NED7912", 
   "name": "SVEA", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.7, 
       "loa": 10.615, 
       "draft": 1.89, 
+      "wetted_surface": 26.0, 
       "main": 33.3, 
       "genoa": 31.1, 
       "displacement": 5831.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 632.0
     }, 
     "year": "1993"
   }, 

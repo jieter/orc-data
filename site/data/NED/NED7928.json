@@ -5,12 +5,13 @@
       1.3152, 
       1.516
     ], 
-    "gph": 583.9, 
     "triple_inshore": [
       0.7525, 
       1.0487, 
       1.2641
-    ]
+    ], 
+    "gph": 583.9, 
+    "osn": 565.9
   }, 
   "sailnumber": "NED7928", 
   "name": "Passion", 
@@ -25,10 +26,12 @@
       "spinnaker": 134.5, 
       "loa": 14.265, 
       "draft": 2.46, 
+      "wetted_surface": 45.8, 
       "main": 65.4, 
       "genoa": 45.5, 
       "displacement": 14000.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1005.0
     }, 
     "year": "2004"
   }, 

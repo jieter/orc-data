@@ -5,12 +5,13 @@
       1.2308, 
       1.3793
     ], 
-    "gph": 617.7, 
     "triple_inshore": [
       0.7362, 
       0.9949, 
       1.1527
-    ]
+    ], 
+    "gph": 617.7, 
+    "osn": 602.6
   }, 
   "sailnumber": "NOR11219", 
   "name": "Bada Bing", 
@@ -25,10 +26,12 @@
       "spinnaker": 86.8, 
       "loa": 10.79, 
       "draft": 2.02, 
+      "wetted_surface": 26.8, 
       "main": 42.6, 
       "genoa": 42.3, 
       "displacement": 5888.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 710.0
     }, 
     "year": "2004"
   }, 

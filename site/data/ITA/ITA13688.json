@@ -5,12 +5,13 @@
       1.2927, 
       1.4676
     ], 
-    "gph": 591.0, 
     "triple_inshore": [
       0.7594, 
       1.0451, 
       1.2211
-    ]
+    ], 
+    "gph": 591.0, 
+    "osn": 574.0
   }, 
   "sailnumber": "ITA13688", 
   "name": "PIXEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 114.7, 
       "loa": 12.1, 
       "draft": 2.43, 
+      "wetted_surface": 31.1, 
       "main": 50.0, 
       "genoa": 37.7, 
       "displacement": 6331.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 775.0
     }, 
     "year": "2000"
   }, 

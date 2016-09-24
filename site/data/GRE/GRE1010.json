@@ -5,12 +5,13 @@
       1.132, 
       1.3068
     ], 
-    "gph": 680.1, 
     "triple_inshore": [
       0.6404, 
       0.8985, 
       1.0798
-    ]
+    ], 
+    "gph": 680.1, 
+    "osn": 658.5
   }, 
   "sailnumber": "GRE1010", 
   "name": "IASON", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.9, 
       "loa": 11.23, 
       "draft": 1.87, 
+      "wetted_surface": 30.3, 
       "main": 31.5, 
       "genoa": 38.6, 
       "displacement": 6452.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1994"
   }, 

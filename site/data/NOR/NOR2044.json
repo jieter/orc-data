@@ -5,12 +5,13 @@
       1.1068, 
       1.2321
     ], 
-    "gph": 688.6, 
     "triple_inshore": [
       0.6625, 
       0.9015, 
       1.0377
-    ]
+    ], 
+    "gph": 688.6, 
+    "osn": 670.1
   }, 
   "sailnumber": "NOR2044", 
   "name": "Mathilda", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.8, 
       "loa": 9.95, 
       "draft": 1.74, 
+      "wetted_surface": 17.5, 
       "main": 26.4, 
       "genoa": 21.4, 
       "displacement": 3153.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 518.0
     }, 
     "year": "1976"
   }, 

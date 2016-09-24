@@ -5,12 +5,13 @@
       1.1886, 
       1.3494
     ], 
-    "gph": 643.1, 
     "triple_inshore": [
       0.6978, 
       0.9595, 
       1.1284
-    ]
+    ], 
+    "gph": 643.1, 
+    "osn": 624.1
   }, 
   "sailnumber": "NED6822", 
   "name": "Papauw", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.8, 
       "loa": 10.64, 
       "draft": 1.82, 
+      "wetted_surface": 26.6, 
       "main": 38.6, 
       "genoa": 27.9, 
       "displacement": 5735.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2001"
   }, 

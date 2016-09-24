@@ -5,12 +5,13 @@
       1.6511, 
       2.0592
     ], 
-    "gph": 466.8, 
     "triple_inshore": [
       0.9011, 
       1.2756, 
       1.5958
-    ]
+    ], 
+    "gph": 466.8, 
+    "osn": 450.9
   }, 
   "sailnumber": "SUI4200", 
   "name": "KUKA LIGHT", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.92, 
       "draft": 3.51, 
+      "wetted_surface": 34.5, 
       "main": 71.6, 
       "genoa": 47.6, 
       "displacement": 3399.0, 
-      "spinnaker_asym": 162.0
+      "spinnaker_asym": 162.0, 
+      "crew": 530.0
     }, 
     "year": "2012"
   }, 

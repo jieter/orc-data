@@ -5,12 +5,13 @@
       1.0708, 
       1.1817
     ], 
-    "gph": 709.2, 
     "triple_inshore": [
       0.6497, 
       0.8588, 
       0.9827
-    ]
+    ], 
+    "gph": 709.2, 
+    "osn": 693.9
   }, 
   "sailnumber": "ITA17121", 
   "name": "SQUILLA MANTIS", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.0, 
       "loa": 10.96, 
       "draft": 1.78, 
+      "wetted_surface": 24.6, 
       "main": 28.5, 
       "genoa": 42.2, 
       "displacement": 5500.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1968"
   }, 

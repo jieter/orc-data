@@ -5,12 +5,13 @@
       1.0357, 
       1.1809
     ], 
-    "gph": 738.2, 
     "triple_inshore": [
       0.6054, 
       0.8375, 
       0.9827
-    ]
+    ], 
+    "gph": 738.2, 
+    "osn": 716.0
   }, 
   "sailnumber": "GER7005", 
   "name": "REVOLTOSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 49.9, 
       "loa": 7.6, 
       "draft": 1.46, 
+      "wetted_surface": 14.5, 
       "main": 17.9, 
       "genoa": 12.9, 
       "displacement": 2035.0, 
-      "spinnaker_asym": 37.0
+      "spinnaker_asym": 37.0, 
+      "crew": 350.0
     }, 
     "year": "2013"
   }, 

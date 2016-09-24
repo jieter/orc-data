@@ -5,12 +5,13 @@
       1.2714, 
       1.435
     ], 
-    "gph": 600.1, 
     "triple_inshore": [
       0.7508, 
       1.0274, 
       1.202
-    ]
+    ], 
+    "gph": 600.1, 
+    "osn": 583.7
   }, 
   "sailnumber": "ESP6619", 
   "name": "MAJOCHE", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.9, 
       "loa": 11.924, 
       "draft": 2.44, 
+      "wetted_surface": 32.1, 
       "main": 48.9, 
       "genoa": 49.2, 
       "displacement": 7711.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 823.0
     }, 
     "year": "1997"
   }, 

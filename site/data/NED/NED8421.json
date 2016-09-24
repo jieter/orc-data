@@ -5,12 +5,13 @@
       1.0021, 
       1.1649
     ], 
-    "gph": 768.4, 
     "triple_inshore": [
       0.5676, 
       0.8032, 
       0.9739
-    ]
+    ], 
+    "gph": 768.4, 
+    "osn": 742.1
   }, 
   "sailnumber": "NED8421", 
   "name": "Joe Cool", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.089, 
       "draft": 1.87, 
+      "wetted_surface": 23.1, 
       "main": 26.8, 
       "genoa": 33.0, 
       "displacement": 5627.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1968"
   }, 

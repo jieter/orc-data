@@ -5,12 +5,13 @@
       1.2602, 
       1.425
     ], 
-    "gph": 600.3, 
     "triple_inshore": [
       0.7664, 
       1.0257, 
       1.175
-    ]
+    ], 
+    "gph": 600.3, 
+    "osn": 585.8
   }, 
   "sailnumber": "JPN5375", 
   "name": "MAGELLAN MAJOR VIII", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.5, 
       "loa": 9.972, 
       "draft": 2.01, 
+      "wetted_surface": 20.8, 
       "main": 37.8, 
       "genoa": 33.3, 
       "displacement": 3239.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 548.0
     }, 
     "year": "1996"
   }, 

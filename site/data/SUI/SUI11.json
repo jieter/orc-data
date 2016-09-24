@@ -5,12 +5,13 @@
       1.188, 
       1.3474
     ], 
-    "gph": 636.8, 
     "triple_inshore": [
       0.723, 
       0.9539, 
       1.0897
-    ]
+    ], 
+    "gph": 636.8, 
+    "osn": 621.4
   }, 
   "sailnumber": "SUI11", 
   "name": "TOBEGA  2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.0, 
       "draft": 1.73, 
+      "wetted_surface": 14.6, 
       "main": 28.0, 
       "genoa": 13.2, 
       "displacement": 1398.0, 
-      "spinnaker_asym": 57.0
+      "spinnaker_asym": 57.0, 
+      "crew": 356.0
     }, 
     "year": "2012"
   }, 

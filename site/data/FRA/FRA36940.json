@@ -5,12 +5,13 @@
       1.3327, 
       1.5193
     ], 
-    "gph": 572.3, 
     "triple_inshore": [
       0.7873, 
       1.0829, 
       1.2659
-    ]
+    ], 
+    "gph": 572.3, 
+    "osn": 555.7
   }, 
   "sailnumber": "FRA36940", 
   "name": "FANDANGO 300", 
@@ -25,10 +26,12 @@
       "spinnaker": 132.6, 
       "loa": 12.0, 
       "draft": 2.44, 
+      "wetted_surface": 30.9, 
       "main": 51.6, 
       "genoa": 39.3, 
       "displacement": 6762.0, 
-      "spinnaker_asym": 102.0
+      "spinnaker_asym": 102.0, 
+      "crew": 750.0
     }, 
     "year": "2006"
   }, 

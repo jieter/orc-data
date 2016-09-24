@@ -5,12 +5,13 @@
       1.1205, 
       1.3348
     ], 
-    "gph": 677.3, 
     "triple_inshore": [
       0.6624, 
       0.8931, 
       1.0594
-    ]
+    ], 
+    "gph": 677.3, 
+    "osn": 657.2
   }, 
   "sailnumber": "SWE791", 
   "name": "Anna", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.91, 
       "draft": 1.38, 
+      "wetted_surface": 10.9, 
       "main": 16.0, 
       "genoa": 10.0, 
       "displacement": 811.0, 
-      "spinnaker_asym": 45.0
+      "spinnaker_asym": 45.0, 
+      "crew": 340.0
     }, 
     "year": "2012"
   }, 

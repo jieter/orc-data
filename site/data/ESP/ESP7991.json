@@ -5,12 +5,13 @@
       1.2264, 
       1.4023
     ], 
-    "gph": 625.4, 
     "triple_inshore": [
       0.7045, 
       0.979, 
       1.1665
-    ]
+    ], 
+    "gph": 625.4, 
+    "osn": 607.2
   }, 
   "sailnumber": "ESP7991", 
   "name": "INTREPIDO", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.0, 
       "loa": 12.06, 
       "draft": 2.09, 
+      "wetted_surface": 32.9, 
       "main": 45.6, 
       "genoa": 41.6, 
       "displacement": 8358.0, 
-      "spinnaker_asym": 98.0
+      "spinnaker_asym": 98.0, 
+      "crew": 695.0
     }, 
     "year": "2003"
   }, 

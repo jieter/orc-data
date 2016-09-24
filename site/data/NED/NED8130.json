@@ -5,12 +5,13 @@
       1.1174, 
       1.2653
     ], 
-    "gph": 679.2, 
     "triple_inshore": [
       0.6622, 
       0.8895, 
       1.0528
-    ]
+    ], 
+    "gph": 679.2, 
+    "osn": 665.9
   }, 
   "sailnumber": "NED8130", 
   "name": "Gesina", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.6, 
       "loa": 10.835, 
       "draft": 1.76, 
+      "wetted_surface": 25.1, 
       "main": 26.8, 
       "genoa": 32.4, 
       "displacement": 6283.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1978"
   }, 

@@ -5,12 +5,13 @@
       1.2585, 
       1.4181
     ], 
-    "gph": 605.7, 
     "triple_inshore": [
       0.7454, 
       1.0137, 
       1.1845
-    ]
+    ], 
+    "gph": 605.7, 
+    "osn": 590.0
   }, 
   "sailnumber": "NOR8311", 
   "name": "Baloo", 
@@ -25,10 +26,12 @@
       "spinnaker": 119.0, 
       "loa": 12.51, 
       "draft": 2.12, 
+      "wetted_surface": 31.8, 
       "main": 41.9, 
       "genoa": 62.3, 
       "displacement": 7773.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 716.0
     }, 
     "year": "1990"
   }, 

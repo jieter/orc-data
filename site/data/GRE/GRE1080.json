@@ -5,12 +5,13 @@
       1.2862, 
       1.4692
     ], 
-    "gph": 589.4, 
     "triple_inshore": [
       0.7689, 
       1.0349, 
       1.1961
-    ]
+    ], 
+    "gph": 589.4, 
+    "osn": 575.0
   }, 
   "sailnumber": "GRE1080", 
   "name": "TAZMANIAN DEVIL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.996, 
       "draft": 2.25, 
+      "wetted_surface": 22.5, 
       "main": 36.9, 
       "genoa": 22.5, 
       "displacement": 2741.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 550.0
     }, 
     "year": "2004"
   }, 

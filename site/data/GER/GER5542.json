@@ -5,12 +5,13 @@
       1.2919, 
       1.4623
     ], 
-    "gph": 592.0, 
     "triple_inshore": [
       0.7564, 
       1.0411, 
       1.2232
-    ]
+    ], 
+    "gph": 592.0, 
+    "osn": 575.2
   }, 
   "sailnumber": "GER5542", 
   "name": "RESOLUTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 115.7, 
       "loa": 12.555, 
       "draft": 2.47, 
+      "wetted_surface": 33.9, 
       "main": 53.2, 
       "genoa": 41.0, 
       "displacement": 8204.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 710.0
     }, 
     "year": "2004"
   }, 

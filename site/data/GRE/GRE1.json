@@ -5,12 +5,13 @@
       1.2392, 
       1.3945
     ], 
-    "gph": 612.7, 
     "triple_inshore": [
       0.7355, 
       0.9911, 
       1.1492
-    ]
+    ], 
+    "gph": 612.7, 
+    "osn": 599.4
   }, 
   "sailnumber": "GRE1", 
   "name": "MANGO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.36, 
       "draft": 2.1, 
+      "wetted_surface": 27.7, 
       "main": 38.8, 
       "genoa": 33.4, 
       "displacement": 5536.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 690.0
     }, 
     "year": "1993"
   }, 

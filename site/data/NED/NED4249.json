@@ -5,12 +5,13 @@
       0.9262, 
       1.0638
     ], 
-    "gph": 825.2, 
     "triple_inshore": [
       0.5423, 
       0.7456, 
       0.8905
-    ]
+    ], 
+    "gph": 825.2, 
+    "osn": 799.9
   }, 
   "sailnumber": "NED4249", 
   "name": "Bluebell", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.8, 
       "loa": 7.27, 
       "draft": 1.37, 
+      "wetted_surface": 14.3, 
       "main": 12.6, 
       "genoa": 12.9, 
       "displacement": 2260.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 377.0
     }, 
     "year": "1976"
   }, 

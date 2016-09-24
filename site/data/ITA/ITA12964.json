@@ -5,12 +5,13 @@
       1.1641, 
       1.3099
     ], 
-    "gph": 653.6, 
     "triple_inshore": [
       0.6972, 
       0.9473, 
       1.0969
-    ]
+    ], 
+    "gph": 653.6, 
+    "osn": 635.9
   }, 
   "sailnumber": "ITA12964", 
   "name": "LICANTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.2, 
       "loa": 9.34, 
       "draft": 1.84, 
+      "wetted_surface": 19.3, 
       "main": 24.7, 
       "genoa": 32.2, 
       "displacement": 3171.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1997"
   }, 

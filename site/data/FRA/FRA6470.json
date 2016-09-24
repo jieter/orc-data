@@ -5,12 +5,13 @@
       1.146, 
       1.3111
     ], 
-    "gph": 669.1, 
     "triple_inshore": [
       0.6614, 
       0.9232, 
       1.0968
-    ]
+    ], 
+    "gph": 669.1, 
+    "osn": 648.2
   }, 
   "sailnumber": "FRA6470", 
   "name": "UNTOUCHABLE", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.3, 
       "loa": 10.38, 
       "draft": 1.82, 
+      "wetted_surface": 23.8, 
       "main": 33.3, 
       "genoa": 22.7, 
       "displacement": 4480.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1980"
   }, 

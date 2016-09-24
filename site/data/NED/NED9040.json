@@ -5,12 +5,13 @@
       1.2737, 
       1.4463
     ], 
-    "gph": 599.3, 
     "triple_inshore": [
       0.7465, 
       1.0239, 
       1.2047
-    ]
+    ], 
+    "gph": 599.3, 
+    "osn": 583.7
   }, 
   "sailnumber": "NED9040", 
   "name": "Lynx", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.225, 
       "draft": 2.09, 
+      "wetted_surface": 32.4, 
       "main": 48.4, 
       "genoa": 49.0, 
       "displacement": 7818.0, 
-      "spinnaker_asym": 103.0
+      "spinnaker_asym": 103.0, 
+      "crew": 789.0
     }, 
     "year": "2004"
   }, 

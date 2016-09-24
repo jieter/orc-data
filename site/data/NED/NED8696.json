@@ -5,12 +5,13 @@
       1.1258, 
       1.3376
     ], 
-    "gph": 685.9, 
     "triple_inshore": [
       0.6197, 
       0.8918, 
       1.1105
-    ]
+    ], 
+    "gph": 685.9, 
+    "osn": 663.4
   }, 
   "sailnumber": "NED8696", 
   "name": "Aquaholics", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.82, 
       "draft": 1.82, 
+      "wetted_surface": 32.2, 
       "main": 35.2, 
       "genoa": 36.8, 
       "displacement": 8260.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 767.0
     }, 
     "year": "2005"
   }, 

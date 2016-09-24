@@ -5,12 +5,13 @@
       1.1471, 
       1.3041
     ], 
-    "gph": 662.6, 
     "triple_inshore": [
       0.6786, 
       0.9164, 
       1.0556
-    ]
+    ], 
+    "gph": 662.6, 
+    "osn": 646.8
   }, 
   "sailnumber": "NOR13724", 
   "name": "Vindtora", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.52, 
       "draft": 1.77, 
+      "wetted_surface": 20.3, 
       "main": 26.9, 
       "genoa": 26.3, 
       "displacement": 2863.0, 
-      "spinnaker_asym": 75.0
+      "spinnaker_asym": 75.0, 
+      "crew": 546.0
     }, 
     "year": "1999"
   }, 

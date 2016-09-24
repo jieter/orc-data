@@ -5,12 +5,13 @@
       1.1692, 
       1.3268
     ], 
-    "gph": 656.0, 
     "triple_inshore": [
       0.6744, 
       0.9284, 
       1.0894
-    ]
+    ], 
+    "gph": 656.0, 
+    "osn": 637.0
   }, 
   "sailnumber": "ITA17078", 
   "name": "MAREDO'", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.5, 
       "draft": 1.84, 
+      "wetted_surface": 27.6, 
       "main": 36.1, 
       "genoa": 28.8, 
       "displacement": 5763.0, 
-      "spinnaker_asym": 86.0
+      "spinnaker_asym": 86.0, 
+      "crew": 320.0
     }, 
     "year": "2007"
   }, 

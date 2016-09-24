@@ -5,12 +5,13 @@
       1.0239, 
       1.1589
     ], 
-    "gph": 746.2, 
     "triple_inshore": [
       0.6057, 
       0.8246, 
       0.9699
-    ]
+    ], 
+    "gph": 746.2, 
+    "osn": 724.3
   }, 
   "sailnumber": "ESP5496", 
   "name": "JANUARY SAILS", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.2, 
       "loa": 9.425, 
       "draft": 1.67, 
+      "wetted_surface": 18.2, 
       "main": 20.4, 
       "genoa": 22.2, 
       "displacement": 3730.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1963"
   }, 

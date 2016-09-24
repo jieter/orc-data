@@ -5,12 +5,13 @@
       1.2161, 
       1.3777
     ], 
-    "gph": 627.4, 
     "triple_inshore": [
       0.7203, 
       0.9882, 
       1.1573
-    ]
+    ], 
+    "gph": 627.4, 
+    "osn": 609.2
   }, 
   "sailnumber": "ESP5099", 
   "name": "BRUIX", 
@@ -25,10 +26,12 @@
       "spinnaker": 90.2, 
       "loa": 10.72, 
       "draft": 2.27, 
+      "wetted_surface": 27.2, 
       "main": 39.4, 
       "genoa": 35.2, 
       "displacement": 5458.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 661.0
     }, 
     "year": "1993"
   }, 

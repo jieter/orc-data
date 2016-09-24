@@ -5,12 +5,13 @@
       1.3013, 
       1.4753
     ], 
-    "gph": 587.8, 
     "triple_inshore": [
       0.7587, 
       1.0369, 
       1.1989
-    ]
+    ], 
+    "gph": 587.8, 
+    "osn": 571.3
   }, 
   "sailnumber": "GRE1701", 
   "name": "MELTEMI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.998, 
       "draft": 2.2, 
+      "wetted_surface": 35.8, 
       "main": 48.6, 
       "genoa": 48.7, 
       "displacement": 7633.0, 
-      "spinnaker_asym": 151.0
+      "spinnaker_asym": 151.0, 
+      "crew": 850.0
     }, 
     "year": "2012"
   }, 

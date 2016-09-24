@@ -5,12 +5,13 @@
       1.2526, 
       1.4509
     ], 
-    "gph": 612.5, 
     "triple_inshore": [
       0.7205, 
       0.9995, 
       1.2149
-    ]
+    ], 
+    "gph": 612.5, 
+    "osn": 593.3
   }, 
   "sailnumber": "ESP6584", 
   "name": "MOFLETE", 
@@ -25,10 +26,12 @@
       "spinnaker": 170.7, 
       "loa": 14.525, 
       "draft": 2.64, 
+      "wetted_surface": 46.2, 
       "main": 43.9, 
       "genoa": 72.3, 
       "displacement": 15752.0, 
-      "spinnaker_asym": 135.0
+      "spinnaker_asym": 135.0, 
+      "crew": 800.0
     }, 
     "year": "1983"
   }, 

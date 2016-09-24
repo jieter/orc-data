@@ -5,12 +5,13 @@
       1.2322, 
       1.4118
     ], 
-    "gph": 622.2, 
     "triple_inshore": [
       0.7034, 
       0.9668, 
       1.1427
-    ]
+    ], 
+    "gph": 622.2, 
+    "osn": 606.0
   }, 
   "sailnumber": "GRE1281", 
   "name": "MANOULI TOO", 
@@ -25,10 +26,12 @@
       "spinnaker": 134.2, 
       "loa": 13.8, 
       "draft": 1.53, 
+      "wetted_surface": 39.2, 
       "main": 48.1, 
       "genoa": 60.8, 
       "displacement": 10002.0, 
-      "spinnaker_asym": 122.0
+      "spinnaker_asym": 122.0, 
+      "crew": 800.0
     }, 
     "year": "1994"
   }, 

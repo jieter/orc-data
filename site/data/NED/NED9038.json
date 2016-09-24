@@ -5,12 +5,13 @@
       1.24, 
       1.4022
     ], 
-    "gph": 616.4, 
     "triple_inshore": [
       0.725, 
       0.9889, 
       1.1552
-    ]
+    ], 
+    "gph": 616.4, 
+    "osn": 599.6
   }, 
   "sailnumber": "NED9038", 
   "name": "Plevier", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.293, 
       "draft": 2.03, 
+      "wetted_surface": 31.5, 
       "main": 47.5, 
       "genoa": 36.1, 
       "displacement": 7295.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 747.0
     }, 
     "year": "2012"
   }, 

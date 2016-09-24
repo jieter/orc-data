@@ -5,12 +5,13 @@
       1.3515, 
       1.5336
     ], 
-    "gph": 566.3, 
     "triple_inshore": [
       0.7825, 
       1.0739, 
       1.2598
-    ]
+    ], 
+    "gph": 566.3, 
+    "osn": 551.8
   }, 
   "sailnumber": "GER4947", 
   "name": "EXCITEMENT", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.506, 
       "draft": 2.81, 
+      "wetted_surface": 44.1, 
       "main": 67.5, 
       "genoa": 74.6, 
       "displacement": 12297.0, 
-      "spinnaker_asym": 148.0
+      "spinnaker_asym": 148.0, 
+      "crew": 1000.0
     }, 
     "year": "1999"
   }, 

@@ -5,12 +5,13 @@
       1.2529, 
       1.4265
     ], 
-    "gph": 610.0, 
     "triple_inshore": [
       0.7336, 
       1.015, 
       1.1893
-    ]
+    ], 
+    "gph": 610.0, 
+    "osn": 592.2
   }, 
   "sailnumber": "ESP9068", 
   "name": "INMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.8, 
       "loa": 10.973, 
       "draft": 2.27, 
+      "wetted_surface": 26.6, 
       "main": 41.3, 
       "genoa": 31.6, 
       "displacement": 4987.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 650.0
     }, 
     "year": "1995"
   }, 

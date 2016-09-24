@@ -5,12 +5,13 @@
       1.152, 
       1.356
     ], 
-    "gph": 670.8, 
     "triple_inshore": [
       0.6281, 
       0.9053, 
       1.1192
-    ]
+    ], 
+    "gph": 670.8, 
+    "osn": 651.4
   }, 
   "sailnumber": "ITALACICA", 
   "name": "LA CICALA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.1, 
       "draft": 2.12, 
+      "wetted_surface": 37.9, 
       "main": 38.5, 
       "genoa": 61.1, 
       "displacement": 10404.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1987"
   }, 

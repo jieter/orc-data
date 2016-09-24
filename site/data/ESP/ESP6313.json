@@ -5,12 +5,13 @@
       1.2667, 
       1.4308
     ], 
-    "gph": 602.6, 
     "triple_inshore": [
       0.7459, 
       1.0222, 
       1.1978
-    ]
+    ], 
+    "gph": 602.6, 
+    "osn": 586.3
   }, 
   "sailnumber": "ESP6313", 
   "name": "ALDAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.2, 
       "loa": 11.924, 
       "draft": 2.43, 
+      "wetted_surface": 31.8, 
       "main": 46.7, 
       "genoa": 51.2, 
       "displacement": 7514.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1997"
   }, 

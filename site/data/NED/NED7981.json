@@ -5,12 +5,13 @@
       1.0123, 
       1.1514
     ], 
-    "gph": 756.4, 
     "triple_inshore": [
       0.5824, 
       0.8047, 
       0.947
-    ]
+    ], 
+    "gph": 756.4, 
+    "osn": 736.3
   }, 
   "sailnumber": "NED7981", 
   "name": "Beppe (s) noed", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.41, 
       "draft": 1.09, 
+      "wetted_surface": 20.5, 
       "main": 24.9, 
       "genoa": 28.7, 
       "displacement": 4017.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 494.0
     }, 
     "year": "1983"
   }, 

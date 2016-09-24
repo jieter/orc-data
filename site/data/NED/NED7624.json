@@ -5,12 +5,13 @@
       1.1667, 
       1.3289
     ], 
-    "gph": 653.0, 
     "triple_inshore": [
       0.6925, 
       0.946, 
       1.0939
-    ]
+    ], 
+    "gph": 653.0, 
+    "osn": 634.4
   }, 
   "sailnumber": "NED7624", 
   "name": "Jaffa", 
@@ -25,10 +26,12 @@
       "spinnaker": 53.4, 
       "loa": 9.12, 
       "draft": 1.72, 
+      "wetted_surface": 19.2, 
       "main": 26.9, 
       "genoa": 25.1, 
       "displacement": 2600.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 526.0
     }, 
     "year": "1989"
   }, 

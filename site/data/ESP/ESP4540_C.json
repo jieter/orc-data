@@ -5,12 +5,13 @@
       0.9828, 
       1.0963
     ], 
-    "gph": 773.0, 
     "triple_inshore": [
       0.5911, 
       0.7909, 
       0.9082
-    ]
+    ], 
+    "gph": 773.0, 
+    "osn": 755.8
   }, 
   "sailnumber": "ESP4540_C", 
   "name": "CALAMOTE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.635, 
       "draft": 1.51, 
+      "wetted_surface": 15.0, 
       "main": 17.9, 
       "genoa": 25.8, 
       "displacement": 2475.0, 
-      "spinnaker_asym": 46.0
+      "spinnaker_asym": 46.0, 
+      "crew": 200.0
     }, 
     "year": "1982"
   }, 

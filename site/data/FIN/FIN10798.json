@@ -5,12 +5,13 @@
       1.1867, 
       1.332
     ], 
-    "gph": 642.5, 
     "triple_inshore": [
       0.7038, 
       0.9565, 
       1.1088
-    ]
+    ], 
+    "gph": 642.5, 
+    "osn": 626.1
   }, 
   "sailnumber": "FIN10798", 
   "name": "Sonja 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.5, 
       "loa": 10.36, 
       "draft": 1.92, 
+      "wetted_surface": 26.0, 
       "main": 40.5, 
       "genoa": 29.2, 
       "displacement": 5638.0, 
-      "spinnaker_asym": 70.0
+      "spinnaker_asym": 70.0, 
+      "crew": 525.0
     }, 
     "year": "2007"
   }, 

@@ -5,12 +5,13 @@
       1.3686, 
       1.5805
     ], 
-    "gph": 561.5, 
     "triple_inshore": [
       0.7765, 
       1.0797, 
       1.3061
-    ]
+    ], 
+    "gph": 561.5, 
+    "osn": 545.5
   }, 
   "sailnumber": "NED9532", 
   "name": "GAIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 16.462, 
       "draft": 2.48, 
+      "wetted_surface": 58.9, 
       "main": 80.8, 
       "genoa": 70.5, 
       "displacement": 22111.0, 
-      "spinnaker_asym": 208.0
+      "spinnaker_asym": 208.0, 
+      "crew": 630.0
     }, 
     "year": "2004"
   }, 

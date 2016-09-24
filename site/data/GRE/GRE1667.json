@@ -5,12 +5,13 @@
       0.9779, 
       1.1046
     ], 
-    "gph": 781.5, 
     "triple_inshore": [
       0.5739, 
       0.7848, 
       0.9067
-    ]
+    ], 
+    "gph": 781.5, 
+    "osn": 759.9
   }, 
   "sailnumber": "GRE1667", 
   "name": "AEOLOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 37.6, 
       "loa": 8.0, 
       "draft": 1.22, 
+      "wetted_surface": 12.0, 
       "main": 11.2, 
       "genoa": 17.5, 
       "displacement": 1500.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 324.0
     }, 
     "year": "1975"
   }, 

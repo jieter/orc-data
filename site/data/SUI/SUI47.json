@@ -5,12 +5,13 @@
       1.0119, 
       1.1406
     ], 
-    "gph": 753.7, 
     "triple_inshore": [
       0.5984, 
       0.8217, 
       0.9411
-    ]
+    ], 
+    "gph": 753.7, 
+    "osn": 732.1
   }, 
   "sailnumber": "SUI47", 
   "name": "BINAUDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 31.4, 
       "loa": 7.85, 
       "draft": 1.28, 
+      "wetted_surface": 11.0, 
       "main": 16.2, 
       "genoa": 10.0, 
       "displacement": 1187.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 330.0
     }, 
     "year": "1985"
   }, 

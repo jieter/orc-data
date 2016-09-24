@@ -5,12 +5,13 @@
       1.2078, 
       1.383
     ], 
-    "gph": 628.8, 
     "triple_inshore": [
       0.7208, 
       0.9774, 
       1.1233
-    ]
+    ], 
+    "gph": 628.8, 
+    "osn": 611.9
   }, 
   "sailnumber": "ARG013", 
   "name": "TOLERANCIA CERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.8, 
       "loa": 9.12, 
       "draft": 1.72, 
+      "wetted_surface": 16.5, 
       "main": 32.5, 
       "genoa": 16.9, 
       "displacement": 2068.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 505.0
     }, 
     "year": "1993"
   }, 

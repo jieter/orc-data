@@ -5,12 +5,13 @@
       1.3405, 
       1.5279
     ], 
-    "gph": 572.0, 
     "triple_inshore": [
       0.7711, 
       1.0739, 
       1.2677
-    ]
+    ], 
+    "gph": 572.0, 
+    "osn": 555.9
   }, 
   "sailnumber": "ITA16800", 
   "name": "REVE DE VIE", 
@@ -25,10 +26,12 @@
       "spinnaker": 138.0, 
       "loa": 12.89, 
       "draft": 2.39, 
+      "wetted_surface": 38.6, 
       "main": 58.5, 
       "genoa": 50.4, 
       "displacement": 8721.0, 
-      "spinnaker_asym": 136.0
+      "spinnaker_asym": 136.0, 
+      "crew": 855.0
     }, 
     "year": "2012"
   }, 

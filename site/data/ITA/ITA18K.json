@@ -5,12 +5,13 @@
       1.0539, 
       1.1767
     ], 
-    "gph": 719.5, 
     "triple_inshore": [
       0.6411, 
       0.8639, 
       0.9825
-    ]
+    ], 
+    "gph": 719.5, 
+    "osn": 700.4
   }, 
   "sailnumber": "ITA18K", 
   "name": "18 K", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.5, 
       "loa": 7.858, 
       "draft": 1.58, 
+      "wetted_surface": 13.3, 
       "main": 22.0, 
       "genoa": 16.8, 
       "displacement": 1714.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 300.0
     }, 
     "year": "1982"
   }, 

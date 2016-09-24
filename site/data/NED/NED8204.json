@@ -5,12 +5,13 @@
       1.2193, 
       1.3926
     ], 
-    "gph": 630.7, 
     "triple_inshore": [
       0.6934, 
       0.9619, 
       1.1371
-    ]
+    ], 
+    "gph": 630.7, 
+    "osn": 612.1
   }, 
   "sailnumber": "NED8204", 
   "name": "Lari Permarini", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.027, 
       "draft": 1.99, 
+      "wetted_surface": 36.1, 
       "main": 49.8, 
       "genoa": 46.8, 
       "displacement": 9216.0, 
-      "spinnaker_asym": 120.0
+      "spinnaker_asym": 120.0, 
+      "crew": 660.0
     }, 
     "year": "2005"
   }, 

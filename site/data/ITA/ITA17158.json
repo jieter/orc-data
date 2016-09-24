@@ -5,12 +5,13 @@
       1.3356, 
       1.5208
     ], 
-    "gph": 574.2, 
     "triple_inshore": [
       0.7717, 
       1.0647, 
       1.2501
-    ]
+    ], 
+    "gph": 574.2, 
+    "osn": 556.9
   }, 
   "sailnumber": "ITA17158", 
   "name": "NARANJA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.6, 
       "draft": 2.25, 
+      "wetted_surface": 40.4, 
       "main": 58.4, 
       "genoa": 44.3, 
       "displacement": 11300.0, 
-      "spinnaker_asym": 164.0
+      "spinnaker_asym": 164.0, 
+      "crew": 850.0
     }, 
     "year": "2007"
   }, 

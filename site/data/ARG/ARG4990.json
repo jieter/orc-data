@@ -5,12 +5,13 @@
       0.8781, 
       0.9973
     ], 
-    "gph": 874.7, 
     "triple_inshore": [
       0.5034, 
       0.7022, 
       0.8231
-    ]
+    ], 
+    "gph": 874.7, 
+    "osn": 848.1
   }, 
   "sailnumber": "ARG4990", 
   "name": "OPUS UNO", 
@@ -25,10 +26,12 @@
       "spinnaker": 26.9, 
       "loa": 6.66, 
       "draft": 1.03, 
+      "wetted_surface": 10.6, 
       "main": 9.9, 
       "genoa": 8.7, 
       "displacement": 1063.0, 
-      "spinnaker_asym": 24.0
+      "spinnaker_asym": 24.0, 
+      "crew": 160.0
     }, 
     "year": "1979"
   }, 

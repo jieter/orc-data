@@ -5,12 +5,13 @@
       1.4577, 
       1.6556
     ], 
-    "gph": 524.9, 
     "triple_inshore": [
       0.847, 
       1.1634, 
       1.3846
-    ]
+    ], 
+    "gph": 524.9, 
+    "osn": 511.1
   }, 
   "sailnumber": "NOR6500", 
   "name": "Lady jane", 
@@ -25,10 +26,12 @@
       "spinnaker": 228.3, 
       "loa": 17.942, 
       "draft": 3.29, 
+      "wetted_surface": 65.0, 
       "main": 97.9, 
       "genoa": 107.4, 
       "displacement": 23146.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 1269.0
     }, 
     "year": "1991"
   }, 

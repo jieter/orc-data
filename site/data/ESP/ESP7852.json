@@ -5,12 +5,13 @@
       1.1896, 
       1.3359
     ], 
-    "gph": 640.6, 
     "triple_inshore": [
       0.7089, 
       0.966, 
       1.1194
-    ]
+    ], 
+    "gph": 640.6, 
+    "osn": 623.3
   }, 
   "sailnumber": "ESP7852", 
   "name": "VIKINGO", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.0, 
       "loa": 9.982, 
       "draft": 2.0, 
+      "wetted_surface": 23.7, 
       "main": 34.3, 
       "genoa": 34.0, 
       "displacement": 4675.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2005"
   }, 

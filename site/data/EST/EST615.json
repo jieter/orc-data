@@ -5,12 +5,13 @@
       1.335, 
       1.5063
     ], 
-    "gph": 569.5, 
     "triple_inshore": [
       0.7867, 
       1.0755, 
       1.2495
-    ]
+    ], 
+    "gph": 569.5, 
+    "osn": 557.0
   }, 
   "sailnumber": "EST615", 
   "name": "TECHNONICOL", 
@@ -25,10 +26,12 @@
       "spinnaker": 130.4, 
       "loa": 12.35, 
       "draft": 2.51, 
+      "wetted_surface": 32.8, 
       "main": 53.2, 
       "genoa": 45.2, 
       "displacement": 7076.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 850.0
     }, 
     "year": "2006"
   }, 

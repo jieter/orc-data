@@ -5,12 +5,13 @@
       1.2405, 
       1.4347
     ], 
-    "gph": 621.7, 
     "triple_inshore": [
       0.6979, 
       0.9809, 
       1.1742
-    ]
+    ], 
+    "gph": 621.7, 
+    "osn": 601.8
   }, 
   "sailnumber": "ESP10306_C", 
   "name": "GALATHEA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.59, 
       "draft": 2.13, 
+      "wetted_surface": 37.7, 
       "main": 39.1, 
       "genoa": 41.9, 
       "displacement": 8960.0, 
-      "spinnaker_asym": 121.0
+      "spinnaker_asym": 121.0, 
+      "crew": 480.0
     }, 
     "year": "2006"
   }, 

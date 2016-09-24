@@ -5,12 +5,13 @@
       1.1625, 
       1.3038
     ], 
-    "gph": 656.9, 
     "triple_inshore": [
       0.6886, 
       0.9388, 
       1.092
-    ]
+    ], 
+    "gph": 656.9, 
+    "osn": 638.6
   }, 
   "sailnumber": "ITA15764", 
   "name": "ASTRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.8, 
       "loa": 9.983, 
       "draft": 2.06, 
+      "wetted_surface": 25.2, 
       "main": 34.6, 
       "genoa": 28.7, 
       "displacement": 5316.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2006"
   }, 

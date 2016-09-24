@@ -5,12 +5,13 @@
       1.3058, 
       1.4829
     ], 
-    "gph": 585.9, 
     "triple_inshore": [
       0.7643, 
       1.0559, 
       1.2409
-    ]
+    ], 
+    "gph": 585.9, 
+    "osn": 568.2
   }, 
   "sailnumber": "RUS3481", 
   "name": "NO APPLAUSE", 
@@ -25,10 +26,12 @@
       "spinnaker": 132.3, 
       "loa": 12.24, 
       "draft": 2.5, 
+      "wetted_surface": 34.6, 
       "main": 53.7, 
       "genoa": 39.8, 
       "displacement": 7960.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 795.0
     }, 
     "year": "2008"
   }, 

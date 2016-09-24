@@ -5,12 +5,13 @@
       1.1844, 
       1.3627
     ], 
-    "gph": 649.4, 
     "triple_inshore": [
       0.672, 
       0.9367, 
       1.1197
-    ]
+    ], 
+    "gph": 649.4, 
+    "osn": 629.5
   }, 
   "sailnumber": "GER7072", 
   "name": "BARCENTRAL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.28, 
       "draft": 2.0, 
+      "wetted_surface": 32.2, 
       "main": 41.4, 
       "genoa": 25.7, 
       "displacement": 7193.0, 
-      "spinnaker_asym": 96.0
+      "spinnaker_asym": 96.0, 
+      "crew": 480.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.2113, 
       1.37
     ], 
-    "gph": 630.6, 
     "triple_inshore": [
       0.7133, 
       0.9776, 
       1.1476
-    ]
+    ], 
+    "gph": 630.6, 
+    "osn": 612.9
   }, 
   "sailnumber": "NED560", 
   "name": "Zwerver", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.5, 
       "loa": 10.972, 
       "draft": 1.99, 
+      "wetted_surface": 28.6, 
       "main": 42.6, 
       "genoa": 33.1, 
       "displacement": 6540.0, 
-      "spinnaker_asym": 80.0
+      "spinnaker_asym": 80.0, 
+      "crew": 500.0
     }, 
     "year": "2000"
   }, 

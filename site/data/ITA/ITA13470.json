@@ -5,12 +5,13 @@
       1.2539, 
       1.4247
     ], 
-    "gph": 610.3, 
     "triple_inshore": [
       0.7322, 
       1.0109, 
       1.1926
-    ]
+    ], 
+    "gph": 610.3, 
+    "osn": 592.2
   }, 
   "sailnumber": "ITA13470", 
   "name": "SPLENDIDA STELLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 104.7, 
       "loa": 11.924, 
       "draft": 2.43, 
+      "wetted_surface": 31.8, 
       "main": 46.7, 
       "genoa": 37.8, 
       "displacement": 7475.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 730.0
     }, 
     "year": "1997"
   }, 

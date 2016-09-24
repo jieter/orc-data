@@ -5,12 +5,13 @@
       1.293, 
       1.4757
     ], 
-    "gph": 591.8, 
     "triple_inshore": [
       0.752, 
       1.0409, 
       1.2309
-    ]
+    ], 
+    "gph": 591.8, 
+    "osn": 574.6
   }, 
   "sailnumber": "ITA16907", 
   "name": "O'GUERRIERO", 
@@ -25,10 +26,12 @@
       "spinnaker": 114.0, 
       "loa": 12.48, 
       "draft": 2.38, 
+      "wetted_surface": 33.5, 
       "main": 51.7, 
       "genoa": 43.4, 
       "displacement": 8000.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 804.0
     }, 
     "year": "2005"
   }, 

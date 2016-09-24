@@ -5,12 +5,13 @@
       1.1494, 
       1.2849
     ], 
-    "gph": 657.3, 
     "triple_inshore": [
       0.7072, 
       0.9436, 
       1.075
-    ]
+    ], 
+    "gph": 657.3, 
+    "osn": 641.3
   }, 
   "sailnumber": "ITA11034", 
   "name": "STERN", 
@@ -25,10 +26,12 @@
       "spinnaker": 52.5, 
       "loa": 9.015, 
       "draft": 1.85, 
+      "wetted_surface": 15.7, 
       "main": 29.8, 
       "genoa": 22.8, 
       "displacement": 2351.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1985"
   }, 

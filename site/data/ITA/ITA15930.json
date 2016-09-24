@@ -5,12 +5,13 @@
       1.3074, 
       1.5403
     ], 
-    "gph": 589.7, 
     "triple_inshore": [
       0.7259, 
       1.0318, 
       1.271
-    ]
+    ], 
+    "gph": 589.7, 
+    "osn": 571.5
   }, 
   "sailnumber": "ITA15930", 
   "name": "BEBBOAT 21", 
@@ -25,10 +26,12 @@
       "spinnaker": 144.3, 
       "loa": 14.75, 
       "draft": 2.1, 
+      "wetted_surface": 45.0, 
       "main": 52.8, 
       "genoa": 64.3, 
       "displacement": 12992.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 870.0
     }, 
     "year": "2005"
   }, 

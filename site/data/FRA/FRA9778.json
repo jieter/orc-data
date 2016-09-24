@@ -5,12 +5,13 @@
       1.2045, 
       1.3774
     ], 
-    "gph": 635.9, 
     "triple_inshore": [
       0.6971, 
       0.9635, 
       1.1186
-    ]
+    ], 
+    "gph": 635.9, 
+    "osn": 616.5
   }, 
   "sailnumber": "FRA9778", 
   "name": "FLUKE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.78, 
       "draft": 1.9, 
+      "wetted_surface": 23.1, 
       "main": 30.4, 
       "genoa": 26.8, 
       "displacement": 3526.0, 
-      "spinnaker_asym": 88.0
+      "spinnaker_asym": 88.0, 
+      "crew": 480.0
     }, 
     "year": "2010"
   }, 

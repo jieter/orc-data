@@ -5,12 +5,13 @@
       1.0783, 
       1.2181
     ], 
-    "gph": 706.9, 
     "triple_inshore": [
       0.6404, 
       0.8715, 
       1.0186
-    ]
+    ], 
+    "gph": 706.9, 
+    "osn": 687.5
   }, 
   "sailnumber": "NED3136", 
   "name": "BAGATELLE", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.5, 
       "loa": 9.25, 
       "draft": 1.71, 
+      "wetted_surface": 20.9, 
       "main": 21.6, 
       "genoa": 35.4, 
       "displacement": 4068.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 483.0
     }, 
     "year": "1982"
   }, 

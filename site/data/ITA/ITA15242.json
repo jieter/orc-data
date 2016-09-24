@@ -5,12 +5,13 @@
       1.412, 
       1.6091
     ], 
-    "gph": 542.2, 
     "triple_inshore": [
       0.817, 
       1.1303, 
       1.3281
-    ]
+    ], 
+    "gph": 542.2, 
+    "osn": 527.5
   }, 
   "sailnumber": "ITA15242", 
   "name": "STELLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 137.1, 
       "loa": 14.28, 
       "draft": 3.02, 
+      "wetted_surface": 39.9, 
       "main": 70.9, 
       "genoa": 49.4, 
       "displacement": 8736.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 930.0
     }, 
     "year": "1997"
   }, 

@@ -5,12 +5,13 @@
       1.4067, 
       1.5851
     ], 
-    "gph": 539.6, 
     "triple_inshore": [
       0.8448, 
       1.1395, 
       1.3239
-    ]
+    ], 
+    "gph": 539.6, 
+    "osn": 526.4
   }, 
   "sailnumber": "GER45036", 
   "name": "APHRODITE", 
@@ -25,10 +26,12 @@
       "spinnaker": 153.0, 
       "loa": 13.829, 
       "draft": 2.84, 
+      "wetted_surface": 38.7, 
       "main": 78.9, 
       "genoa": 55.0, 
       "displacement": 9955.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 980.0
     }, 
     "year": "2002"
   }, 

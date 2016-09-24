@@ -5,12 +5,13 @@
       1.2205, 
       1.3742
     ], 
-    "gph": 624.2, 
     "triple_inshore": [
       0.7272, 
       0.9916, 
       1.1476
-    ]
+    ], 
+    "gph": 624.2, 
+    "osn": 607.3
   }, 
   "sailnumber": "NOR14109", 
   "name": "Little Wing", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.9, 
       "loa": 9.99, 
       "draft": 2.25, 
+      "wetted_surface": 24.6, 
       "main": 39.1, 
       "genoa": 28.6, 
       "displacement": 4465.0, 
-      "spinnaker_asym": 80.0
+      "spinnaker_asym": 80.0, 
+      "crew": 628.0
     }, 
     "year": "2009"
   }, 

@@ -5,12 +5,13 @@
       1.1866, 
       1.336
     ], 
-    "gph": 641.9, 
     "triple_inshore": [
       0.7014, 
       0.9551, 
       1.1119
-    ]
+    ], 
+    "gph": 641.9, 
+    "osn": 626.5
   }, 
   "sailnumber": "NED5921", 
   "name": "OPPORTUNIST", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.6, 
       "loa": 10.992, 
       "draft": 1.69, 
+      "wetted_surface": 26.3, 
       "main": 39.2, 
       "genoa": 44.6, 
       "displacement": 5275.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 633.0
     }, 
     "year": "1987"
   }, 

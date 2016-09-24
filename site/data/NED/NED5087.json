@@ -5,12 +5,13 @@
       1.1458, 
       1.3138
     ], 
-    "gph": 669.6, 
     "triple_inshore": [
       0.6576, 
       0.9226, 
       1.0821
-    ]
+    ], 
+    "gph": 669.6, 
+    "osn": 649.2
   }, 
   "sailnumber": "NED5087", 
   "name": "FIFTY-FIFTY", 
@@ -25,10 +26,12 @@
       "spinnaker": 49.0, 
       "loa": 9.495, 
       "draft": 1.77, 
+      "wetted_surface": 19.6, 
       "main": 25.1, 
       "genoa": 24.9, 
       "displacement": 2505.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 425.0
     }, 
     "year": "1988"
   }, 

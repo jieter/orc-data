@@ -5,12 +5,13 @@
       1.2243, 
       1.406
     ], 
-    "gph": 626.4, 
     "triple_inshore": [
       0.7008, 
       0.9819, 
       1.1598
-    ]
+    ], 
+    "gph": 626.4, 
+    "osn": 608.3
   }, 
   "sailnumber": "NED833", 
   "name": "FAMILY AFFAIR", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.3, 
       "loa": 11.01, 
       "draft": 2.0, 
+      "wetted_surface": 25.9, 
       "main": 35.8, 
       "genoa": 35.6, 
       "displacement": 4174.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1990"
   }, 

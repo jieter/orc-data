@@ -5,12 +5,13 @@
       1.209, 
       1.3924
     ], 
-    "gph": 635.6, 
     "triple_inshore": [
       0.6869, 
       0.9576, 
       1.1455
-    ]
+    ], 
+    "gph": 635.6, 
+    "osn": 616.9
   }, 
   "sailnumber": "GRE6238", 
   "name": "ESTELLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.7, 
       "loa": 12.688, 
       "draft": 1.79, 
+      "wetted_surface": 35.4, 
       "main": 45.2, 
       "genoa": 47.2, 
       "displacement": 8671.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 783.0
     }, 
     "year": "1993"
   }, 

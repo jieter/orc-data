@@ -5,12 +5,13 @@
       0.9793, 
       1.1026
     ], 
-    "gph": 777.4, 
     "triple_inshore": [
       0.5889, 
       0.7982, 
       0.9271
-    ]
+    ], 
+    "gph": 777.4, 
+    "osn": 755.3
   }, 
   "sailnumber": "NOR2890", 
   "name": "Julia", 
@@ -25,10 +26,12 @@
       "spinnaker": 38.8, 
       "loa": 7.8, 
       "draft": 1.48, 
+      "wetted_surface": 14.2, 
       "main": 14.5, 
       "genoa": 19.8, 
       "displacement": 2383.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 354.0
     }, 
     "year": "1978"
   }, 

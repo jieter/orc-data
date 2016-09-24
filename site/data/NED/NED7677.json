@@ -5,12 +5,13 @@
       1.2077, 
       1.3653
     ], 
-    "gph": 632.6, 
     "triple_inshore": [
       0.7087, 
       0.9665, 
       1.1281
-    ]
+    ], 
+    "gph": 632.6, 
+    "osn": 615.1
   }, 
   "sailnumber": "NED7677", 
   "name": "IJsvogel", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.972, 
       "draft": 1.96, 
+      "wetted_surface": 27.7, 
       "main": 40.2, 
       "genoa": 33.6, 
       "displacement": 5926.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 674.0
     }, 
     "year": "2000"
   }, 

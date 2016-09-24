@@ -5,12 +5,13 @@
       1.2643, 
       1.4369
     ], 
-    "gph": 605.2, 
     "triple_inshore": [
       0.7376, 
       1.02, 
       1.1996
-    ]
+    ], 
+    "gph": 605.2, 
+    "osn": 587.4
   }, 
   "sailnumber": "NOR15028", 
   "name": "Rocket Dog", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.5, 
       "loa": 12.17, 
       "draft": 2.41, 
+      "wetted_surface": 31.0, 
       "main": 50.1, 
       "genoa": 34.6, 
       "displacement": 6969.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 732.0
     }, 
     "year": "1997"
   }, 

@@ -5,12 +5,13 @@
       1.2157, 
       1.3835
     ], 
-    "gph": 629.1, 
     "triple_inshore": [
       0.7104, 
       0.9748, 
       1.1283
-    ]
+    ], 
+    "gph": 629.1, 
+    "osn": 610.0
   }, 
   "sailnumber": "GER6560", 
   "name": "JALAPENO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.57, 
       "draft": 2.0, 
+      "wetted_surface": 24.6, 
       "main": 34.5, 
       "genoa": 24.8, 
       "displacement": 3841.0, 
-      "spinnaker_asym": 88.0
+      "spinnaker_asym": 88.0, 
+      "crew": 510.0
     }, 
     "year": "1994"
   }, 

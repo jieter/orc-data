@@ -5,12 +5,13 @@
       1.3031, 
       1.4613
     ], 
-    "gph": 585.8, 
     "triple_inshore": [
       0.7706, 
       1.0494, 
       1.2081
-    ]
+    ], 
+    "gph": 585.8, 
+    "osn": 569.6
   }, 
   "sailnumber": "NED9122", 
   "name": "Maas", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.19, 
       "draft": 2.23, 
+      "wetted_surface": 32.8, 
       "main": 49.8, 
       "genoa": 38.3, 
       "displacement": 7275.0, 
-      "spinnaker_asym": 142.0
+      "spinnaker_asym": 142.0, 
+      "crew": 600.0
     }, 
     "year": "2006"
   }, 

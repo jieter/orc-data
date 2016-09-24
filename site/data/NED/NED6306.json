@@ -5,12 +5,13 @@
       1.1851, 
       1.3797
     ], 
-    "gph": 649.2, 
     "triple_inshore": [
       0.6725, 
       0.9439, 
       1.148
-    ]
+    ], 
+    "gph": 649.2, 
+    "osn": 628.1
   }, 
   "sailnumber": "NED6306", 
   "name": "LAFEY", 
@@ -25,10 +26,12 @@
       "spinnaker": 97.2, 
       "loa": 12.28, 
       "draft": 2.03, 
+      "wetted_surface": 33.7, 
       "main": 39.1, 
       "genoa": 32.4, 
       "displacement": 8257.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 768.0
     }, 
     "year": "1992"
   }, 

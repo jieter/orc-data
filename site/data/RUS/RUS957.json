@@ -5,12 +5,13 @@
       1.2466, 
       1.4114
     ], 
-    "gph": 612.5, 
     "triple_inshore": [
       0.7349, 
       1.0046, 
       1.1854
-    ]
+    ], 
+    "gph": 612.5, 
+    "osn": 595.3
   }, 
   "sailnumber": "RUS957", 
   "name": "Ariel", 
@@ -25,10 +26,12 @@
       "spinnaker": 144.7, 
       "loa": 13.29, 
       "draft": 2.34, 
+      "wetted_surface": 37.3, 
       "main": 41.5, 
       "genoa": 67.0, 
       "displacement": 10444.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 787.0
     }, 
     "year": "1981"
   }, 

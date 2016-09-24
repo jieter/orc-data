@@ -5,12 +5,13 @@
       1.2044, 
       1.3741
     ], 
-    "gph": 634.3, 
     "triple_inshore": [
       0.7036, 
       0.9666, 
       1.1478
-    ]
+    ], 
+    "gph": 634.3, 
+    "osn": 616.5
   }, 
   "sailnumber": "NOR8823", 
   "name": "Piano", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.9, 
       "loa": 11.5, 
       "draft": 1.94, 
+      "wetted_surface": 31.5, 
       "main": 40.7, 
       "genoa": 44.3, 
       "displacement": 7829.0, 
-      "spinnaker_asym": 92.0
+      "spinnaker_asym": 92.0, 
+      "crew": 734.0
     }, 
     "year": "1995"
   }, 

@@ -5,12 +5,13 @@
       1.2716, 
       1.4378
     ], 
-    "gph": 600.9, 
     "triple_inshore": [
       0.7471, 
       1.0281, 
       1.2042
-    ]
+    ], 
+    "gph": 600.9, 
+    "osn": 583.9
   }, 
   "sailnumber": "TUR2206", 
   "name": "KIM", 
@@ -25,10 +26,12 @@
       "spinnaker": 114.7, 
       "loa": 11.924, 
       "draft": 2.43, 
+      "wetted_surface": 31.6, 
       "main": 47.2, 
       "genoa": 43.6, 
       "displacement": 7368.0, 
-      "spinnaker_asym": 100.0
+      "spinnaker_asym": 100.0, 
+      "crew": 600.0
     }, 
     "year": "1997"
   }, 

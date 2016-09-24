@@ -5,12 +5,13 @@
       1.0948, 
       1.2302
     ], 
-    "gph": 695.1, 
     "triple_inshore": [
       0.6565, 
       0.886, 
       1.0305
-    ]
+    ], 
+    "gph": 695.1, 
+    "osn": 677.1
   }, 
   "sailnumber": "NED5864", 
   "name": "BIG DEAL", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.8, 
       "loa": 9.88, 
       "draft": 1.79, 
+      "wetted_surface": 20.7, 
       "main": 27.8, 
       "genoa": 27.0, 
       "displacement": 4307.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 509.0
     }, 
     "year": "1978"
   }, 

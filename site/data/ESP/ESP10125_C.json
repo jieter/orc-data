@@ -5,12 +5,13 @@
       1.3283, 
       1.5281
     ], 
-    "gph": 572.5, 
     "triple_inshore": [
       0.7758, 
       1.0381, 
       1.246
-    ]
+    ], 
+    "gph": 572.5, 
+    "osn": 561.4
   }, 
   "sailnumber": "ESP10125_C", 
   "name": "WAYRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 18.9, 
       "draft": 2.78, 
+      "wetted_surface": 64.7, 
       "main": 109.3, 
       "genoa": 74.0, 
       "displacement": 31631.0, 
-      "spinnaker_asym": 236.0
+      "spinnaker_asym": 236.0, 
+      "crew": 640.0
     }, 
     "year": "2007"
   }, 

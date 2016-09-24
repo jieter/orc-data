@@ -5,12 +5,13 @@
       1.0465, 
       1.2286
     ], 
-    "gph": 734.7, 
     "triple_inshore": [
       0.5942, 
       0.8332, 
       1.0264
-    ]
+    ], 
+    "gph": 734.7, 
+    "osn": 710.2
   }, 
   "sailnumber": "GRE1198", 
   "name": "ILIADA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.97, 
       "draft": 1.92, 
+      "wetted_surface": 23.6, 
       "main": 17.0, 
       "genoa": 30.8, 
       "displacement": 5115.0, 
-      "spinnaker_asym": 59.0
+      "spinnaker_asym": 59.0, 
+      "crew": 500.0
     }, 
     "year": "1993"
   }, 

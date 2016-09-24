@@ -5,12 +5,13 @@
       1.1275, 
       1.2617
     ], 
-    "gph": 671.4, 
     "triple_inshore": [
       0.6874, 
       0.9168, 
       1.0339
-    ]
+    ], 
+    "gph": 671.4, 
+    "osn": 655.2
   }, 
   "sailnumber": "GER4505", 
   "name": "LINIE 1", 
@@ -25,10 +26,12 @@
       "spinnaker": 46.7, 
       "loa": 8.394, 
       "draft": 1.42, 
+      "wetted_surface": 14.8, 
       "main": 26.3, 
       "genoa": 18.1, 
       "displacement": 1599.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1985"
   }, 

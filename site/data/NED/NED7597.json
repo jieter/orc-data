@@ -5,12 +5,13 @@
       1.2581, 
       1.4198
     ], 
-    "gph": 607.5, 
     "triple_inshore": [
       0.7371, 
       1.0092, 
       1.181
-    ]
+    ], 
+    "gph": 607.5, 
+    "osn": 591.2
   }, 
   "sailnumber": "NED7597", 
   "name": "EALA", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.0, 
       "loa": 12.225, 
       "draft": 2.1, 
+      "wetted_surface": 32.6, 
       "main": 50.4, 
       "genoa": 38.5, 
       "displacement": 7958.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.0067, 
       1.1748
     ], 
-    "gph": 771.5, 
     "triple_inshore": [
       0.5494, 
       0.7943, 
       0.967
-    ]
+    ], 
+    "gph": 771.5, 
+    "osn": 743.6
   }, 
   "sailnumber": "GER7268", 
   "name": "HOPPETOSSE", 
@@ -25,10 +26,12 @@
       "spinnaker": 55.3, 
       "loa": 9.4, 
       "draft": 1.58, 
+      "wetted_surface": 21.0, 
       "main": 27.0, 
       "genoa": 17.2, 
       "displacement": 3820.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1983"
   }, 

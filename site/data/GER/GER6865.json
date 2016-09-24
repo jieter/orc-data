@@ -5,12 +5,13 @@
       1.1789, 
       1.3197
     ], 
-    "gph": 646.1, 
     "triple_inshore": [
       0.7029, 
       0.9554, 
       1.1017
-    ]
+    ], 
+    "gph": 646.1, 
+    "osn": 629.6
   }, 
   "sailnumber": "GER6865", 
   "name": "KEEP SMILING", 
@@ -25,10 +26,12 @@
       "spinnaker": 71.3, 
       "loa": 10.06, 
       "draft": 1.82, 
+      "wetted_surface": 24.1, 
       "main": 36.3, 
       "genoa": 31.7, 
       "displacement": 4481.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1994"
   }, 

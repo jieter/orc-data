@@ -5,12 +5,13 @@
       1.2068, 
       1.3689
     ], 
-    "gph": 633.3, 
     "triple_inshore": [
       0.7088, 
       0.9783, 
       1.1476
-    ]
+    ], 
+    "gph": 633.3, 
+    "osn": 614.4
   }, 
   "sailnumber": "NED8431", 
   "name": "Sergent Garcia", 
@@ -25,10 +26,12 @@
       "spinnaker": 77.8, 
       "loa": 10.64, 
       "draft": 2.22, 
+      "wetted_surface": 26.3, 
       "main": 39.1, 
       "genoa": 31.6, 
       "displacement": 5452.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 630.0
     }, 
     "year": "2001"
   }, 

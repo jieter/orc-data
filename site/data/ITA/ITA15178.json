@@ -5,12 +5,13 @@
       1.1147, 
       1.2705
     ], 
-    "gph": 686.1, 
     "triple_inshore": [
       0.6544, 
       0.8969, 
       1.0636
-    ]
+    ], 
+    "gph": 686.1, 
+    "osn": 665.4
   }, 
   "sailnumber": "ITA15178", 
   "name": "BLUE MOON", 
@@ -25,10 +26,12 @@
       "spinnaker": 75.0, 
       "loa": 10.415, 
       "draft": 1.81, 
+      "wetted_surface": 24.4, 
       "main": 24.3, 
       "genoa": 35.1, 
       "displacement": 5357.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1986"
   }, 

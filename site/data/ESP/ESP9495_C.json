@@ -5,12 +5,13 @@
       1.5711, 
       1.8142
     ], 
-    "gph": 491.3, 
     "triple_inshore": [
       0.8702, 
       1.2216, 
       1.4639
-    ]
+    ], 
+    "gph": 491.3, 
+    "osn": 478.2
   }, 
   "sailnumber": "ESP9495_C", 
   "name": "ALZIRA MORAIRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 23.276, 
       "draft": 2.92, 
+      "wetted_surface": 92.4, 
       "main": 145.5, 
       "genoa": 126.4, 
       "displacement": 40615.0, 
-      "spinnaker_asym": 392.0
+      "spinnaker_asym": 392.0, 
+      "crew": 1839.0
     }, 
     "year": "2005"
   }, 

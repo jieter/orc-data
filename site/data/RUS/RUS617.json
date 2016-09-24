@@ -5,12 +5,13 @@
       1.2506, 
       1.4221
     ], 
-    "gph": 610.8, 
     "triple_inshore": [
       0.7312, 
       1.0032, 
       1.1848
-    ]
+    ], 
+    "gph": 610.8, 
+    "osn": 594.4
   }, 
   "sailnumber": "RUS617", 
   "name": "FORTUNE", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.8, 
       "loa": 12.32, 
       "draft": 2.08, 
+      "wetted_surface": 32.3, 
       "main": 47.2, 
       "genoa": 48.2, 
       "displacement": 8060.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 655.0
     }, 
     "year": "2006"
   }, 

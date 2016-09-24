@@ -5,12 +5,13 @@
       1.1274, 
       1.3618
     ], 
-    "gph": 687.3, 
     "triple_inshore": [
       0.6089, 
       0.8927, 
       1.1335
-    ]
+    ], 
+    "gph": 687.3, 
+    "osn": 662.7
   }, 
   "sailnumber": "NOR14100", 
   "name": "Facile", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.57, 
       "draft": 2.1, 
+      "wetted_surface": 35.1, 
       "main": 35.3, 
       "genoa": 39.6, 
       "displacement": 8798.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 814.0
     }, 
     "year": "2007"
   }, 

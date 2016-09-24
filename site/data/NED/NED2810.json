@@ -5,12 +5,13 @@
       1.0296, 
       1.1555
     ], 
-    "gph": 738.3, 
     "triple_inshore": [
       0.6219, 
       0.8416, 
       0.957
-    ]
+    ], 
+    "gph": 738.3, 
+    "osn": 717.6
   }, 
   "sailnumber": "NED2810", 
   "name": "Coolkid", 
@@ -25,10 +26,12 @@
       "spinnaker": 35.5, 
       "loa": 7.24, 
       "draft": 1.5, 
+      "wetted_surface": 12.9, 
       "main": 16.9, 
       "genoa": 15.3, 
       "displacement": 1360.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 240.0
     }, 
     "year": "1980"
   }, 

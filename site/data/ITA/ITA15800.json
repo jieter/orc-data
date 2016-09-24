@@ -5,12 +5,13 @@
       1.1805, 
       1.3492
     ], 
-    "gph": 647.6, 
     "triple_inshore": [
       0.6895, 
       0.9553, 
       1.132
-    ]
+    ], 
+    "gph": 647.6, 
+    "osn": 628.2
   }, 
   "sailnumber": "ITA15800", 
   "name": "PURA VIDA", 
@@ -25,10 +26,12 @@
       "spinnaker": 83.1, 
       "loa": 9.982, 
       "draft": 2.02, 
+      "wetted_surface": 24.0, 
       "main": 33.2, 
       "genoa": 23.0, 
       "displacement": 4880.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 700.0
     }, 
     "year": "2005"
   }, 

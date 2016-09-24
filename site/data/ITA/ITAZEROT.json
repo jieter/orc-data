@@ -5,12 +5,13 @@
       1.163, 
       1.3535
     ], 
-    "gph": 665.0, 
     "triple_inshore": [
       0.6423, 
       0.9142, 
       1.1035
-    ]
+    ], 
+    "gph": 665.0, 
+    "osn": 643.4
   }, 
   "sailnumber": "ITAZEROT", 
   "name": "ZEROTTANTUNO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.28, 
       "draft": 1.97, 
+      "wetted_surface": 31.2, 
       "main": 36.0, 
       "genoa": 25.9, 
       "displacement": 6470.0, 
-      "spinnaker_asym": 99.0
+      "spinnaker_asym": 99.0, 
+      "crew": 300.0
     }, 
     "year": "2005"
   }, 

@@ -5,12 +5,13 @@
       1.1709, 
       1.3154
     ], 
-    "gph": 651.6, 
     "triple_inshore": [
       0.6932, 
       0.9431, 
       1.0995
-    ]
+    ], 
+    "gph": 651.6, 
+    "osn": 634.2
   }, 
   "sailnumber": "ITA17103", 
   "name": "MY FRIEND", 
@@ -25,10 +26,12 @@
       "spinnaker": 139.5, 
       "loa": 11.84, 
       "draft": 2.11, 
+      "wetted_surface": 32.1, 
       "main": 38.1, 
       "genoa": 52.2, 
       "displacement": 8367.0, 
-      "spinnaker_asym": 137.0
+      "spinnaker_asym": 137.0, 
+      "crew": 680.0
     }, 
     "year": "1981"
   }, 

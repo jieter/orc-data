@@ -5,12 +5,13 @@
       1.0093, 
       1.0698
     ], 
-    "gph": 729.1, 
     "triple_inshore": [
       0.6881, 
       0.8243, 
       0.9025
-    ]
+    ], 
+    "gph": 729.1, 
+    "osn": 727.9
   }, 
   "sailnumber": "FIN10009", 
   "name": "Alhena", 
@@ -25,10 +26,12 @@
       "spinnaker": 93.8, 
       "loa": 8.373, 
       "draft": 1.37, 
+      "wetted_surface": 19.6, 
       "main": 34.2, 
       "genoa": 27.9, 
       "displacement": 3627.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 399.0
     }, 
     "year": "1953"
   }, 

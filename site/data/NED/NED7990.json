@@ -5,12 +5,13 @@
       1.2378, 
       1.3827
     ], 
-    "gph": 614.3, 
     "triple_inshore": [
       0.744, 
       1.0007, 
       1.1457
-    ]
+    ], 
+    "gph": 614.3, 
+    "osn": 598.5
   }, 
   "sailnumber": "NED7990", 
   "name": "Yeti", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.757, 
       "draft": 2.14, 
+      "wetted_surface": 26.4, 
       "main": 38.0, 
       "genoa": 40.4, 
       "displacement": 5156.0, 
-      "spinnaker_asym": 109.0
+      "spinnaker_asym": 109.0, 
+      "crew": 642.0
     }, 
     "year": "2001"
   }, 

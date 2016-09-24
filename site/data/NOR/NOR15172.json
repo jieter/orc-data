@@ -5,12 +5,13 @@
       1.1811, 
       1.3991
     ], 
-    "gph": 654.3, 
     "triple_inshore": [
       0.6503, 
       0.9209, 
       1.1308
-    ]
+    ], 
+    "gph": 654.3, 
+    "osn": 633.6
   }, 
   "sailnumber": "NOR15172", 
   "name": "Mango", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.75, 
       "draft": 2.03, 
+      "wetted_surface": 39.7, 
       "main": 37.6, 
       "genoa": 55.6, 
       "displacement": 10570.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 856.0
     }, 
     "year": "2004"
   }, 

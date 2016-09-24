@@ -5,12 +5,13 @@
       1.0988, 
       1.252
     ], 
-    "gph": 692.2, 
     "triple_inshore": [
       0.6555, 
       0.8974, 
       1.0327
-    ]
+    ], 
+    "gph": 692.2, 
+    "osn": 671.5
   }, 
   "sailnumber": "ROU112", 
   "name": "Mac One", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.5, 
       "loa": 7.86, 
       "draft": 1.83, 
+      "wetted_surface": 13.9, 
       "main": 20.6, 
       "genoa": 16.6, 
       "displacement": 1498.0, 
-      "spinnaker_asym": 39.0
+      "spinnaker_asym": 39.0, 
+      "crew": 390.0
     }, 
     "year": "1986"
   }, 

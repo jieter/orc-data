@@ -5,12 +5,13 @@
       1.2198, 
       1.3772
     ], 
-    "gph": 626.2, 
     "triple_inshore": [
       0.7201, 
       0.9881, 
       1.1583
-    ]
+    ], 
+    "gph": 626.2, 
+    "osn": 608.1
   }, 
   "sailnumber": "ESP7330_C", 
   "name": "ODEAMINOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.8, 
       "loa": 10.84, 
       "draft": 2.22, 
+      "wetted_surface": 27.1, 
       "main": 38.6, 
       "genoa": 31.8, 
       "displacement": 5989.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2004"
   }, 

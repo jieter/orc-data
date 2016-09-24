@@ -5,12 +5,13 @@
       1.0954, 
       1.2494
     ], 
-    "gph": 698.6, 
     "triple_inshore": [
       0.6391, 
       0.871, 
       1.0298
-    ]
+    ], 
+    "gph": 698.6, 
+    "osn": 678.7
   }, 
   "sailnumber": "NOR13872", 
   "name": "Marissa", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.3, 
       "draft": 1.52, 
+      "wetted_surface": 22.6, 
       "main": 24.7, 
       "genoa": 23.7, 
       "displacement": 4570.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 592.0
     }, 
     "year": "1999"
   }, 

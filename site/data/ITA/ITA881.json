@@ -5,12 +5,13 @@
       0.9771, 
       1.0875
     ], 
-    "gph": 775.4, 
     "triple_inshore": [
       0.5945, 
       0.7849, 
       0.8905
-    ]
+    ], 
+    "gph": 775.4, 
+    "osn": 758.4
   }, 
   "sailnumber": "ITA881", 
   "name": "GERONIMO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.578, 
       "draft": 1.17, 
+      "wetted_surface": 12.7, 
       "main": 16.0, 
       "genoa": 16.5, 
       "displacement": 1532.0, 
-      "spinnaker_asym": 38.0
+      "spinnaker_asym": 38.0, 
+      "crew": 240.0
     }, 
     "year": "1986"
   }, 

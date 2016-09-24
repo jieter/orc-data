@@ -5,12 +5,13 @@
       1.2298, 
       1.3983
     ], 
-    "gph": 621.5, 
     "triple_inshore": [
       0.7197, 
       0.9888, 
       1.1701
-    ]
+    ], 
+    "gph": 621.5, 
+    "osn": 603.7
   }, 
   "sailnumber": "NED7218", 
   "name": "Overstag", 
@@ -25,10 +26,12 @@
       "spinnaker": 101.5, 
       "loa": 11.9, 
       "draft": 2.1, 
+      "wetted_surface": 33.3, 
       "main": 46.9, 
       "genoa": 44.7, 
       "displacement": 8564.0, 
-      "spinnaker_asym": 85.0
+      "spinnaker_asym": 85.0, 
+      "crew": 758.0
     }, 
     "year": "2003"
   }, 

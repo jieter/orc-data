@@ -5,12 +5,13 @@
       1.103, 
       1.2422
     ], 
-    "gph": 691.2, 
     "triple_inshore": [
       0.6552, 
       0.8865, 
       1.0379
-    ]
+    ], 
+    "gph": 691.2, 
+    "osn": 673.1
   }, 
   "sailnumber": "NED2425", 
   "name": "VLIETER", 
@@ -25,10 +26,12 @@
       "spinnaker": 89.3, 
       "loa": 10.595, 
       "draft": 1.84, 
+      "wetted_surface": 25.2, 
       "main": 28.3, 
       "genoa": 48.9, 
       "displacement": 6445.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 565.0
     }, 
     "year": "1977"
   }, 

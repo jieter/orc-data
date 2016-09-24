@@ -5,12 +5,13 @@
       1.3099, 
       1.465
     ], 
-    "gph": 582.6, 
     "triple_inshore": [
       0.7749, 
       1.0538, 
       1.2072
-    ]
+    ], 
+    "gph": 582.6, 
+    "osn": 567.0
   }, 
   "sailnumber": "FRA37001_C", 
   "name": "TRIS TRAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.19, 
       "draft": 2.21, 
+      "wetted_surface": 31.5, 
       "main": 48.8, 
       "genoa": 40.9, 
       "displacement": 6682.0, 
-      "spinnaker_asym": 145.0
+      "spinnaker_asym": 145.0, 
+      "crew": 420.0
     }, 
     "year": "2006"
   }, 

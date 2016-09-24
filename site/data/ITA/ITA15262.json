@@ -5,12 +5,13 @@
       1.3086, 
       1.5016
     ], 
-    "gph": 587.4, 
     "triple_inshore": [
       0.7469, 
       1.0449, 
       1.234
-    ]
+    ], 
+    "gph": 587.4, 
+    "osn": 568.5
   }, 
   "sailnumber": "ITA15262", 
   "name": "ATTENTI A QUEI DUE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.8, 
       "draft": 2.32, 
+      "wetted_surface": 32.9, 
       "main": 52.8, 
       "genoa": 28.1, 
       "displacement": 7371.0, 
-      "spinnaker_asym": 107.0
+      "spinnaker_asym": 107.0, 
+      "crew": 700.0
     }, 
     "year": "2004"
   }, 

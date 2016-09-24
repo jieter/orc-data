@@ -5,12 +5,13 @@
       1.2853, 
       1.4713
     ], 
-    "gph": 584.7, 
     "triple_inshore": [
       0.8016, 
       1.0459, 
       1.2077
-    ]
+    ], 
+    "gph": 584.7, 
+    "osn": 570.6
   }, 
   "sailnumber": "ITA3036", 
   "name": "BAGUA", 
@@ -25,10 +26,12 @@
       "spinnaker": 87.1, 
       "loa": 9.435, 
       "draft": 2.12, 
+      "wetted_surface": 17.3, 
       "main": 36.4, 
       "genoa": 24.3, 
       "displacement": 2111.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 525.0
     }, 
     "year": "1996"
   }, 

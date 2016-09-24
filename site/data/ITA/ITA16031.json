@@ -5,12 +5,13 @@
       1.2379, 
       1.4143
     ], 
-    "gph": 620.3, 
     "triple_inshore": [
       0.7102, 
       0.9825, 
       1.1619
-    ]
+    ], 
+    "gph": 620.3, 
+    "osn": 602.0
   }, 
   "sailnumber": "ITA16031", 
   "name": "CONTEMAX IV^", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.59, 
       "draft": 2.13, 
+      "wetted_surface": 34.4, 
       "main": 38.9, 
       "genoa": 46.5, 
       "displacement": 8668.0, 
-      "spinnaker_asym": 124.0
+      "spinnaker_asym": 124.0, 
+      "crew": 500.0
     }, 
     "year": "2006"
   }, 

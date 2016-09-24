@@ -5,12 +5,13 @@
       1.043, 
       1.1841
     ], 
-    "gph": 734.2, 
     "triple_inshore": [
       0.6068, 
       0.8399, 
       0.982
-    ]
+    ], 
+    "gph": 734.2, 
+    "osn": 712.4
   }, 
   "sailnumber": "ITA13568", 
   "name": "SPUGNA", 
@@ -25,10 +26,12 @@
       "spinnaker": 40.5, 
       "loa": 8.487, 
       "draft": 1.49, 
+      "wetted_surface": 16.5, 
       "main": 21.8, 
       "genoa": 18.5, 
       "displacement": 2572.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1994"
   }, 

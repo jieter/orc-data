@@ -5,12 +5,13 @@
       1.2811, 
       1.444
     ], 
-    "gph": 595.1, 
     "triple_inshore": [
       0.752, 
       1.0317, 
       1.2042
-    ]
+    ], 
+    "gph": 595.1, 
+    "osn": 580.4
   }, 
   "sailnumber": "SWE607", 
   "name": "Yro", 
@@ -25,10 +26,12 @@
       "spinnaker": 120.0, 
       "loa": 11.924, 
       "draft": 2.42, 
+      "wetted_surface": 31.5, 
       "main": 46.9, 
       "genoa": 49.1, 
       "displacement": 7294.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 845.0
     }, 
     "year": "1997"
   }, 

@@ -5,12 +5,13 @@
       1.1517, 
       1.3158
     ], 
-    "gph": 664.8, 
     "triple_inshore": [
       0.6694, 
       0.9257, 
       1.1004
-    ]
+    ], 
+    "gph": 664.8, 
+    "osn": 644.5
   }, 
   "sailnumber": "ESP8476", 
   "name": "LA BURLA NEGRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.5, 
       "loa": 10.3, 
       "draft": 1.97, 
+      "wetted_surface": 26.0, 
       "main": 31.9, 
       "genoa": 33.8, 
       "displacement": 5682.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "2003"
   }, 

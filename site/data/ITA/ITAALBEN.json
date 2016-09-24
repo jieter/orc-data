@@ -5,12 +5,13 @@
       1.1087, 
       1.2634
     ], 
-    "gph": 689.5, 
     "triple_inshore": [
       0.6508, 
       0.8997, 
       1.065
-    ]
+    ], 
+    "gph": 689.5, 
+    "osn": 668.5
   }, 
   "sailnumber": "ITAALBEN", 
   "name": "ALBEN II", 
@@ -25,10 +26,12 @@
       "spinnaker": 46.7, 
       "loa": 9.19, 
       "draft": 1.86, 
+      "wetted_surface": 20.4, 
       "main": 25.9, 
       "genoa": 25.6, 
       "displacement": 3850.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2000"
   }, 

@@ -5,12 +5,13 @@
       1.1747, 
       1.3322
     ], 
-    "gph": 651.5, 
     "triple_inshore": [
       0.6825, 
       0.94, 
       1.1068
-    ]
+    ], 
+    "gph": 651.5, 
+    "osn": 633.4
   }, 
   "sailnumber": "FRA9786", 
   "name": "MUNDAKA", 
@@ -25,10 +26,12 @@
       "spinnaker": 74.7, 
       "loa": 11.121, 
       "draft": 1.95, 
+      "wetted_surface": 28.2, 
       "main": 37.9, 
       "genoa": 39.8, 
       "displacement": 6450.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1992"
   }, 

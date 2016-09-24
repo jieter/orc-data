@@ -5,12 +5,13 @@
       1.1638, 
       1.3157
     ], 
-    "gph": 655.4, 
     "triple_inshore": [
       0.6898, 
       0.9434, 
       1.0953
-    ]
+    ], 
+    "gph": 655.4, 
+    "osn": 636.8
   }, 
   "sailnumber": "ARG5556", 
   "name": "DANDY", 
@@ -25,10 +26,12 @@
       "spinnaker": 73.4, 
       "loa": 9.338, 
       "draft": 1.82, 
+      "wetted_surface": 22.5, 
       "main": 31.9, 
       "genoa": 26.8, 
       "displacement": 3807.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 604.0
     }, 
     "year": "1996"
   }, 

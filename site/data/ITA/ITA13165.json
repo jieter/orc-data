@@ -5,12 +5,13 @@
       1.2385, 
       1.3974
     ], 
-    "gph": 616.2, 
     "triple_inshore": [
       0.7312, 
       0.9969, 
       1.1688
-    ]
+    ], 
+    "gph": 616.2, 
+    "osn": 599.7
   }, 
   "sailnumber": "ITA13165", 
   "name": "MARGHERITA II", 
@@ -25,10 +26,12 @@
       "spinnaker": 121.6, 
       "loa": 12.613, 
       "draft": 2.34, 
+      "wetted_surface": 33.7, 
       "main": 41.5, 
       "genoa": 63.3, 
       "displacement": 9150.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 680.0
     }, 
     "year": "1984"
   }, 

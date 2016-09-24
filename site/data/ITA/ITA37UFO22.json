@@ -5,12 +5,13 @@
       1.0873, 
       1.2424
     ], 
-    "gph": 689.6, 
     "triple_inshore": [
       0.6838, 
       0.8721, 
       1.0076
-    ]
+    ], 
+    "gph": 689.6, 
+    "osn": 675.0
   }, 
   "sailnumber": "ITA37UFO22", 
   "name": "DUSANO SAILING TEAM", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.623, 
       "draft": 1.58, 
+      "wetted_surface": 10.6, 
       "main": 19.5, 
       "genoa": 10.7, 
       "displacement": 760.0, 
-      "spinnaker_asym": 50.0
+      "spinnaker_asym": 50.0, 
+      "crew": 250.0
     }, 
     "year": "1997"
   }, 

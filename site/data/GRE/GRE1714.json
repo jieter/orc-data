@@ -5,12 +5,13 @@
       1.0477, 
       1.2142
     ], 
-    "gph": 738.4, 
     "triple_inshore": [
       0.5825, 
       0.8393, 
       1.0066
-    ]
+    ], 
+    "gph": 738.4, 
+    "osn": 711.8
   }, 
   "sailnumber": "GRE1714", 
   "name": "EVZAN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.54, 
       "draft": 1.46, 
+      "wetted_surface": 20.9, 
       "main": 24.6, 
       "genoa": 21.2, 
       "displacement": 3650.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1999"
   }, 

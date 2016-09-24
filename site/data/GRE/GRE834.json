@@ -5,12 +5,13 @@
       1.0848, 
       1.2229
     ], 
-    "gph": 701.0, 
     "triple_inshore": [
       0.6531, 
       0.875, 
       1.023
-    ]
+    ], 
+    "gph": 701.0, 
+    "osn": 682.4
   }, 
   "sailnumber": "GRE834", 
   "name": "KORMORANOS II", 
@@ -25,10 +26,12 @@
       "spinnaker": 76.4, 
       "loa": 10.155, 
       "draft": 1.8, 
+      "wetted_surface": 23.4, 
       "main": 24.6, 
       "genoa": 39.8, 
       "displacement": 5934.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1975"
   }, 

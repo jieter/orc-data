@@ -5,12 +5,13 @@
       1.0668, 
       1.2453
     ], 
-    "gph": 722.8, 
     "triple_inshore": [
       0.599, 
       0.8619, 
       1.0263
-    ]
+    ], 
+    "gph": 722.8, 
+    "osn": 696.2
   }, 
   "sailnumber": "ESP10159_C", 
   "name": "NEO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.26, 
       "draft": 1.9, 
+      "wetted_surface": 12.5, 
       "main": 15.5, 
       "genoa": 10.9, 
       "displacement": 1188.0, 
-      "spinnaker_asym": 42.0
+      "spinnaker_asym": 42.0, 
+      "crew": 240.0
     }, 
     "year": "2012"
   }, 

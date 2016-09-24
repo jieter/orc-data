@@ -5,12 +5,13 @@
       1.0102, 
       1.1669
     ], 
-    "gph": 762.9, 
     "triple_inshore": [
       0.5712, 
       0.8082, 
       0.9749
-    ]
+    ], 
+    "gph": 762.9, 
+    "osn": 737.6
   }, 
   "sailnumber": "ITATURNA", 
   "name": "TURNASI'", 
@@ -25,10 +26,12 @@
       "spinnaker": 45.7, 
       "loa": 8.538, 
       "draft": 1.65, 
+      "wetted_surface": 18.8, 
       "main": 24.4, 
       "genoa": 18.1, 
       "displacement": 3565.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1991"
   }, 

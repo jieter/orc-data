@@ -5,12 +5,13 @@
       1.285, 
       1.467
     ], 
-    "gph": 595.8, 
     "triple_inshore": [
       0.7471, 
       1.0332, 
       1.2174
-    ]
+    ], 
+    "gph": 595.8, 
+    "osn": 578.1
   }, 
   "sailnumber": "GER4664", 
   "name": "ADAMAS", 
@@ -25,10 +26,12 @@
       "spinnaker": 109.0, 
       "loa": 13.065, 
       "draft": 2.15, 
+      "wetted_surface": 30.1, 
       "main": 45.3, 
       "genoa": 36.3, 
       "displacement": 6686.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 751.0
     }, 
     "year": "1994"
   }, 

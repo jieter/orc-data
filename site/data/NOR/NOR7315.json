@@ -5,12 +5,13 @@
       1.1, 
       1.2634
     ], 
-    "gph": 698.3, 
     "triple_inshore": [
       0.6295, 
       0.8782, 
       1.0496
-    ]
+    ], 
+    "gph": 698.3, 
+    "osn": 677.1
   }, 
   "sailnumber": "NOR7315", 
   "name": "Marta", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.3, 
       "loa": 10.5, 
       "draft": 1.73, 
+      "wetted_surface": 25.1, 
       "main": 33.5, 
       "genoa": 34.3, 
       "displacement": 5365.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "1991"
   }, 

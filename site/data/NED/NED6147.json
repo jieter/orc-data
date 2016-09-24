@@ -5,12 +5,13 @@
       1.2091, 
       1.3719
     ], 
-    "gph": 631.1, 
     "triple_inshore": [
       0.7122, 
       0.9747, 
       1.1316
-    ]
+    ], 
+    "gph": 631.1, 
+    "osn": 613.5
   }, 
   "sailnumber": "NED6147", 
   "name": "Whirlaway", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 1.99, 
+      "wetted_surface": 21.9, 
       "main": 35.6, 
       "genoa": 20.5, 
       "displacement": 3520.0, 
-      "spinnaker_asym": 60.0
+      "spinnaker_asym": 60.0, 
+      "crew": 609.0
     }, 
     "year": "1995"
   }, 

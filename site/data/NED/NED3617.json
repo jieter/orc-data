@@ -5,12 +5,13 @@
       1.0154, 
       1.1362
     ], 
-    "gph": 749.2, 
     "triple_inshore": [
       0.6116, 
       0.8216, 
       0.9495
-    ]
+    ], 
+    "gph": 749.2, 
+    "osn": 729.6
   }, 
   "sailnumber": "NED3617", 
   "name": "L'ESPIRIT", 
@@ -25,10 +26,12 @@
       "spinnaker": 43.5, 
       "loa": 8.47, 
       "draft": 1.46, 
+      "wetted_surface": 16.8, 
       "main": 15.7, 
       "genoa": 28.1, 
       "displacement": 3165.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 360.0
     }, 
     "year": "1971"
   }, 

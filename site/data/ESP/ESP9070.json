@@ -5,12 +5,13 @@
       1.1977, 
       1.339
     ], 
-    "gph": 634.1, 
     "triple_inshore": [
       0.7142, 
       0.9632, 
       1.1149
-    ]
+    ], 
+    "gph": 634.1, 
+    "osn": 620.7
   }, 
   "sailnumber": "ESP9070", 
   "name": "X-SAM", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.9, 
       "loa": 10.36, 
       "draft": 1.92, 
+      "wetted_surface": 26.1, 
       "main": 39.6, 
       "genoa": 29.3, 
       "displacement": 5658.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 540.0
     }, 
     "year": "2007"
   }, 

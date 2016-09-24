@@ -5,12 +5,13 @@
       1.0769, 
       1.2319
     ], 
-    "gph": 712.5, 
     "triple_inshore": [
       0.6208, 
       0.866, 
       1.0281
-    ]
+    ], 
+    "gph": 712.5, 
+    "osn": 690.2
   }, 
   "sailnumber": "NED7457", 
   "name": "Stormvogel", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.5, 
       "loa": 9.55, 
       "draft": 1.68, 
+      "wetted_surface": 20.3, 
       "main": 28.1, 
       "genoa": 20.0, 
       "displacement": 3660.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 483.0
     }, 
     "year": "1989"
   }, 

@@ -5,12 +5,13 @@
       1.196, 
       1.3364
     ], 
-    "gph": 636.7, 
     "triple_inshore": [
       0.7148, 
       0.9618, 
       1.1113
-    ]
+    ], 
+    "gph": 636.7, 
+    "osn": 620.1
   }, 
   "sailnumber": "NED8448", 
   "name": "Dehlicious", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.5, 
       "draft": 2.0, 
+      "wetted_surface": 27.7, 
       "main": 40.8, 
       "genoa": 28.7, 
       "displacement": 5995.0, 
-      "spinnaker_asym": 86.0
+      "spinnaker_asym": 86.0, 
+      "crew": 200.0
     }, 
     "year": "2007"
   }, 

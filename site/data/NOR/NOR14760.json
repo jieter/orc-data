@@ -5,12 +5,13 @@
       1.2971, 
       1.4791
     ], 
-    "gph": 588.8, 
     "triple_inshore": [
       0.7484, 
       1.0329, 
       1.2311
-    ]
+    ], 
+    "gph": 588.8, 
+    "osn": 575.0
   }, 
   "sailnumber": "NOR14760", 
   "name": "Illuminati", 
@@ -25,10 +26,12 @@
       "spinnaker": 124.5, 
       "loa": 12.95, 
       "draft": 2.33, 
+      "wetted_surface": 37.8, 
       "main": 50.5, 
       "genoa": 45.1, 
       "displacement": 10234.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 901.0
     }, 
     "year": "2005"
   }, 

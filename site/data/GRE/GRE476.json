@@ -5,12 +5,13 @@
       1.1954, 
       1.3917
     ], 
-    "gph": 643.6, 
     "triple_inshore": [
       0.6745, 
       0.9457, 
       1.1521
-    ]
+    ], 
+    "gph": 643.6, 
+    "osn": 623.9
   }, 
   "sailnumber": "GRE476", 
   "name": "VOLTAIRE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.09, 
       "draft": 2.12, 
+      "wetted_surface": 38.2, 
       "main": 39.7, 
       "genoa": 52.1, 
       "displacement": 10551.0, 
-      "spinnaker_asym": 110.0
+      "spinnaker_asym": 110.0, 
+      "crew": 480.0
     }, 
     "year": "1987"
   }, 

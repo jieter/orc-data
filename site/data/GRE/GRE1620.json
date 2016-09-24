@@ -5,12 +5,13 @@
       1.0689, 
       1.2339
     ], 
-    "gph": 721.3, 
     "triple_inshore": [
       0.6013, 
       0.8573, 
       1.0257
-    ]
+    ], 
+    "gph": 721.3, 
+    "osn": 697.2
   }, 
   "sailnumber": "GRE1620", 
   "name": "MELENI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.54, 
       "draft": 1.46, 
+      "wetted_surface": 20.8, 
       "main": 25.3, 
       "genoa": 21.1, 
       "displacement": 3650.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 450.0
     }, 
     "year": "1998"
   }, 

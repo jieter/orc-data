@@ -5,12 +5,13 @@
       1.184, 
       1.3462
     ], 
-    "gph": 647.6, 
     "triple_inshore": [
       0.6837, 
       0.944, 
       1.1057
-    ]
+    ], 
+    "gph": 647.6, 
+    "osn": 628.1
   }, 
   "sailnumber": "NED9108", 
   "name": "Joint", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.757, 
       "draft": 2.21, 
+      "wetted_surface": 25.2, 
       "main": 33.7, 
       "genoa": 26.8, 
       "displacement": 4984.0, 
-      "spinnaker_asym": 96.0
+      "spinnaker_asym": 96.0, 
+      "crew": 633.0
     }, 
     "year": "2001"
   }, 

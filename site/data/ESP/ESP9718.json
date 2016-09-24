@@ -5,12 +5,13 @@
       1.3835, 
       1.569
     ], 
-    "gph": 551.9, 
     "triple_inshore": [
       0.8118, 
       1.1155, 
       1.3038
-    ]
+    ], 
+    "gph": 551.9, 
+    "osn": 537.2
   }, 
   "sailnumber": "ESP9718", 
   "name": "LIMBO II", 
@@ -25,10 +26,12 @@
       "spinnaker": 161.2, 
       "loa": 13.305, 
       "draft": 2.68, 
+      "wetted_surface": 39.0, 
       "main": 65.0, 
       "genoa": 52.6, 
       "displacement": 9252.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 820.0
     }, 
     "year": "2011"
   }, 

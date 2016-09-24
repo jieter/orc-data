@@ -5,12 +5,13 @@
       1.1579, 
       1.3421
     ], 
-    "gph": 664.1, 
     "triple_inshore": [
       0.6546, 
       0.9111, 
       1.0993
-    ]
+    ], 
+    "gph": 664.1, 
+    "osn": 644.2
   }, 
   "sailnumber": "GER6932", 
   "name": "INSA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.941, 
       "draft": 2.01, 
+      "wetted_surface": 33.2, 
       "main": 39.9, 
       "genoa": 26.6, 
       "displacement": 7677.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 600.0
     }, 
     "year": "2011"
   }, 

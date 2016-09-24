@@ -5,12 +5,13 @@
       1.0359, 
       1.1953
     ], 
-    "gph": 741.3, 
     "triple_inshore": [
       0.5946, 
       0.8298, 
       0.9999
-    ]
+    ], 
+    "gph": 741.3, 
+    "osn": 717.5
   }, 
   "sailnumber": "NOR6816", 
   "name": "God Tid", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.3, 
       "draft": 1.76, 
+      "wetted_surface": 20.0, 
       "main": 18.9, 
       "genoa": 22.2, 
       "displacement": 3975.0, 
-      "spinnaker_asym": 61.0
+      "spinnaker_asym": 61.0, 
+      "crew": 492.0
     }, 
     "year": "1986"
   }, 

@@ -5,12 +5,13 @@
       1.2233, 
       1.3864
     ], 
-    "gph": 613.5, 
     "triple_inshore": [
       0.7658, 
       0.9829, 
       1.1341
-    ]
+    ], 
+    "gph": 613.5, 
+    "osn": 600.5
   }, 
   "sailnumber": "SUI027", 
   "name": "PINTGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.5, 
       "draft": 2.01, 
+      "wetted_surface": 15.2, 
       "main": 28.1, 
       "genoa": 17.5, 
       "displacement": 1334.0, 
-      "spinnaker_asym": 72.0
+      "spinnaker_asym": 72.0, 
+      "crew": 280.0
     }, 
     "year": "2004"
   }, 

@@ -5,12 +5,13 @@
       1.2287, 
       1.4444
     ], 
-    "gph": 626.7, 
     "triple_inshore": [
       0.6878, 
       0.9644, 
       1.1848
-    ]
+    ], 
+    "gph": 626.7, 
+    "osn": 606.9
   }, 
   "sailnumber": "ESP8154", 
   "name": "SEBRALA 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 165.8, 
       "loa": 14.63, 
       "draft": 2.02, 
+      "wetted_surface": 47.4, 
       "main": 47.6, 
       "genoa": 55.9, 
       "displacement": 14982.0, 
-      "spinnaker_asym": 157.0
+      "spinnaker_asym": 157.0, 
+      "crew": 1400.0
     }, 
     "year": "1999"
   }, 

@@ -5,12 +5,13 @@
       1.4053, 
       1.6508
     ], 
-    "gph": 533.5, 
     "triple_inshore": [
       0.874, 
       1.1211, 
       1.3379
-    ]
+    ], 
+    "gph": 533.5, 
+    "osn": 521.2
   }, 
   "sailnumber": "ITA186M32", 
   "name": "CAIPIRINHA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.68, 
       "draft": 2.16, 
+      "wetted_surface": 18.1, 
       "main": 42.6, 
       "genoa": 23.6, 
       "displacement": 1721.0, 
-      "spinnaker_asym": 121.0
+      "spinnaker_asym": 121.0, 
+      "crew": 629.0
     }, 
     "year": "2005"
   }, 

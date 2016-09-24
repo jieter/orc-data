@@ -5,12 +5,13 @@
       1.1949, 
       1.3685
     ], 
-    "gph": 640.8, 
     "triple_inshore": [
       0.6884, 
       0.945, 
       1.1203
-    ]
+    ], 
+    "gph": 640.8, 
+    "osn": 623.5
   }, 
   "sailnumber": "ESP9911_C", 
   "name": "ANDROMEDA JMM", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 1.92, 
+      "wetted_surface": 31.3, 
       "main": 43.8, 
       "genoa": 53.7, 
       "displacement": 7582.0, 
-      "spinnaker_asym": 101.0
+      "spinnaker_asym": 101.0, 
+      "crew": 640.0
     }, 
     "year": "2000"
   }, 

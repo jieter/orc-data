@@ -5,12 +5,13 @@
       1.1893, 
       1.4059
     ], 
-    "gph": 623.8, 
     "triple_inshore": [
       0.7641, 
       0.9449, 
       1.1291
-    ]
+    ], 
+    "gph": 623.8, 
+    "osn": 612.5
   }, 
   "sailnumber": "NOR326", 
   "name": "Gretchen", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 6.5, 
       "draft": 1.59, 
+      "wetted_surface": 11.5, 
       "main": 31.3, 
       "genoa": 11.0, 
       "displacement": 829.0, 
-      "spinnaker_asym": 61.0
+      "spinnaker_asym": 61.0, 
+      "crew": 320.0
     }, 
     "year": "2000"
   }, 

@@ -5,12 +5,13 @@
       1.127, 
       1.2875
     ], 
-    "gph": 680.6, 
     "triple_inshore": [
       0.6521, 
       0.9088, 
       1.0738
-    ]
+    ], 
+    "gph": 680.6, 
+    "osn": 659.0
   }, 
   "sailnumber": "ITA14123", 
   "name": "RE ARTU' II", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.3, 
       "loa": 9.5, 
       "draft": 1.92, 
+      "wetted_surface": 22.0, 
       "main": 24.1, 
       "genoa": 29.8, 
       "displacement": 3786.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 420.0
     }, 
     "year": "1998"
   }, 

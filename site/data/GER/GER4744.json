@@ -5,12 +5,13 @@
       1.3233, 
       1.5182
     ], 
-    "gph": 577.5, 
     "triple_inshore": [
       0.7704, 
       1.0631, 
       1.2469
-    ]
+    ], 
+    "gph": 577.5, 
+    "osn": 561.3
   }, 
   "sailnumber": "GER4744", 
   "name": "KICK", 
@@ -25,10 +26,12 @@
       "spinnaker": 96.7, 
       "loa": 12.205, 
       "draft": 2.36, 
+      "wetted_surface": 28.6, 
       "main": 50.4, 
       "genoa": 31.4, 
       "displacement": 5327.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 680.0
     }, 
     "year": "1992"
   }, 

@@ -5,12 +5,13 @@
       1.0553, 
       1.2388
     ], 
-    "gph": 729.4, 
     "triple_inshore": [
       0.5925, 
       0.8244, 
       1.0106
-    ]
+    ], 
+    "gph": 729.4, 
+    "osn": 707.2
   }, 
   "sailnumber": "GRE1404", 
   "name": "METHI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.8, 
       "draft": 1.58, 
+      "wetted_surface": 28.5, 
       "main": 24.8, 
       "genoa": 31.6, 
       "displacement": 6855.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 420.0
     }, 
     "year": "1989"
   }, 

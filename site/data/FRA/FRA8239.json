@@ -5,12 +5,13 @@
       1.0874, 
       1.2036
     ], 
-    "gph": 696.0, 
     "triple_inshore": [
       0.6653, 
       0.8838, 
       1.0018
-    ]
+    ], 
+    "gph": 696.0, 
+    "osn": 681.2
   }, 
   "sailnumber": "FRA8239", 
   "name": "DALTONER", 
@@ -25,10 +26,12 @@
       "spinnaker": 48.3, 
       "loa": 9.01, 
       "draft": 1.74, 
+      "wetted_surface": 15.7, 
       "main": 26.1, 
       "genoa": 23.3, 
       "displacement": 2443.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1981"
   }, 

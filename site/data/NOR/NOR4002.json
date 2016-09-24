@@ -5,12 +5,13 @@
       1.113, 
       1.2642
     ], 
-    "gph": 686.7, 
     "triple_inshore": [
       0.6522, 
       0.8989, 
       1.0626
-    ]
+    ], 
+    "gph": 686.7, 
+    "osn": 666.8
   }, 
   "sailnumber": "NOR4002", 
   "name": "Brisen", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.6, 
       "loa": 10.55, 
       "draft": 1.91, 
+      "wetted_surface": 24.6, 
       "main": 33.7, 
       "genoa": 31.6, 
       "displacement": 5316.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 571.0
     }, 
     "year": "1981"
   }, 

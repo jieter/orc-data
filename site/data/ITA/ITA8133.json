@@ -5,12 +5,13 @@
       1.254, 
       1.4183
     ], 
-    "gph": 607.1, 
     "triple_inshore": [
       0.7449, 
       1.0128, 
       1.1735
-    ]
+    ], 
+    "gph": 607.1, 
+    "osn": 591.5
   }, 
   "sailnumber": "ITA8133", 
   "name": "THE RED LION", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.2, 
       "loa": 11.394, 
       "draft": 2.08, 
+      "wetted_surface": 23.0, 
       "main": 42.4, 
       "genoa": 36.2, 
       "displacement": 4005.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "1977"
   }, 

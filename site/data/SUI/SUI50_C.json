@@ -5,12 +5,13 @@
       1.3391, 
       1.5103
     ], 
-    "gph": 568.7, 
     "triple_inshore": [
       0.7905, 
       1.0691, 
       1.2579
-    ]
+    ], 
+    "gph": 568.7, 
+    "osn": 555.7
   }, 
   "sailnumber": "SUI50_C", 
   "name": "NATI", 
@@ -25,10 +26,12 @@
       "spinnaker": 147.0, 
       "loa": 13.86, 
       "draft": 2.2, 
+      "wetted_surface": 42.7, 
       "main": 68.1, 
       "genoa": 75.8, 
       "displacement": 13018.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 958.0
     }, 
     "year": "2008"
   }, 

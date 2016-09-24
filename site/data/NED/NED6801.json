@@ -5,12 +5,13 @@
       1.0295, 
       1.1579
     ], 
-    "gph": 740.3, 
     "triple_inshore": [
       0.6161, 
       0.8346, 
       0.9741
-    ]
+    ], 
+    "gph": 740.3, 
+    "osn": 719.2
   }, 
   "sailnumber": "NED6801", 
   "name": "Paradiso", 
@@ -25,10 +26,12 @@
       "spinnaker": 62.4, 
       "loa": 8.19, 
       "draft": 1.74, 
+      "wetted_surface": 19.3, 
       "main": 18.6, 
       "genoa": 33.2, 
       "displacement": 4110.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 475.0
     }, 
     "year": "1978"
   }, 

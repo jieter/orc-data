@@ -5,12 +5,13 @@
       1.1402, 
       1.2994
     ], 
-    "gph": 671.1, 
     "triple_inshore": [
       0.6671, 
       0.9236, 
       1.088
-    ]
+    ], 
+    "gph": 671.1, 
+    "osn": 650.1
   }, 
   "sailnumber": "NED7891", 
   "name": "Quintessens", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.6, 
       "loa": 9.49, 
       "draft": 1.94, 
+      "wetted_surface": 22.4, 
       "main": 26.0, 
       "genoa": 29.0, 
       "displacement": 3896.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1998"
   }, 

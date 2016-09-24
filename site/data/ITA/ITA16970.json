@@ -5,12 +5,13 @@
       1.2518, 
       1.4171
     ], 
-    "gph": 611.0, 
     "triple_inshore": [
       0.7265, 
       1.0011, 
       1.1694
-    ]
+    ], 
+    "gph": 611.0, 
+    "osn": 594.9
   }, 
   "sailnumber": "ITA16970", 
   "name": "ALAKALUF", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.3, 
       "loa": 11.91, 
       "draft": 1.91, 
+      "wetted_surface": 31.4, 
       "main": 47.3, 
       "genoa": 43.1, 
       "displacement": 7187.0, 
-      "spinnaker_asym": 121.0
+      "spinnaker_asym": 121.0, 
+      "crew": 700.0
     }, 
     "year": "1998"
   }, 

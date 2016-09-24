@@ -5,12 +5,13 @@
       1.1179, 
       1.2997
     ], 
-    "gph": 686.7, 
     "triple_inshore": [
       0.6262, 
       0.8792, 
       1.0738
-    ]
+    ], 
+    "gph": 686.7, 
+    "osn": 669.8
   }, 
   "sailnumber": "NOR14029", 
   "name": "EMMA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.45, 
       "draft": 1.9, 
+      "wetted_surface": 27.0, 
       "main": 30.0, 
       "genoa": 30.5, 
       "displacement": 5783.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 632.0
     }, 
     "year": "2008"
   }, 

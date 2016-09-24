@@ -5,12 +5,13 @@
       1.0836, 
       1.2568
     ], 
-    "gph": 713.2, 
     "triple_inshore": [
       0.6037, 
       0.8673, 
       1.0504
-    ]
+    ], 
+    "gph": 713.2, 
+    "osn": 688.4
   }, 
   "sailnumber": "NOR14752", 
   "name": "Blavinge II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.38, 
       "draft": 1.86, 
+      "wetted_surface": 25.5, 
       "main": 26.5, 
       "genoa": 31.9, 
       "displacement": 5440.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 637.0
     }, 
     "year": "2004"
   }, 

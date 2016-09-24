@@ -5,12 +5,13 @@
       1.2362, 
       1.4189
     ], 
-    "gph": 618.0, 
     "triple_inshore": [
       0.719, 
       0.9946, 
       1.1657
-    ]
+    ], 
+    "gph": 618.0, 
+    "osn": 601.2
   }, 
   "sailnumber": "FRA15028_C", 
   "name": "MARARA 4", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.9, 
       "loa": 10.632, 
       "draft": 1.98, 
+      "wetted_surface": 23.9, 
       "main": 42.7, 
       "genoa": 28.8, 
       "displacement": 3811.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1992"
   }, 

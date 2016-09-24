@@ -5,12 +5,13 @@
       1.2892, 
       1.4467
     ], 
-    "gph": 589.4, 
     "triple_inshore": [
       0.7649, 
       1.0399, 
       1.2062
-    ]
+    ], 
+    "gph": 589.4, 
+    "osn": 576.2
   }, 
   "sailnumber": "ITA14870", 
   "name": "GARBIN II", 
@@ -25,10 +26,12 @@
       "spinnaker": 125.6, 
       "loa": 11.924, 
       "draft": 2.42, 
+      "wetted_surface": 31.2, 
       "main": 47.8, 
       "genoa": 49.8, 
       "displacement": 7089.0, 
-      "spinnaker_asym": 116.0
+      "spinnaker_asym": 116.0, 
+      "crew": 650.0
     }, 
     "year": "1997"
   }, 

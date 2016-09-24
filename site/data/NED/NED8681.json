@@ -5,12 +5,13 @@
       1.1581, 
       1.295
     ], 
-    "gph": 657.7, 
     "triple_inshore": [
       0.6901, 
       0.9283, 
       1.0699
-    ]
+    ], 
+    "gph": 657.7, 
+    "osn": 641.4
   }, 
   "sailnumber": "NED8681", 
   "name": "Avel", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.296, 
       "draft": 1.8, 
+      "wetted_surface": 24.5, 
       "main": 36.4, 
       "genoa": 33.7, 
       "displacement": 5250.0, 
-      "spinnaker_asym": 83.0
+      "spinnaker_asym": 83.0, 
+      "crew": 591.0
     }, 
     "year": "2001"
   }, 

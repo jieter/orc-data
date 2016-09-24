@@ -5,12 +5,13 @@
       1.2455, 
       1.404
     ], 
-    "gph": 611.4, 
     "triple_inshore": [
       0.7411, 
       1.0078, 
       1.1673
-    ]
+    ], 
+    "gph": 611.4, 
+    "osn": 595.1
   }, 
   "sailnumber": "NED7386", 
   "name": "MOSHULU", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.3, 
       "loa": 11.36, 
       "draft": 2.09, 
+      "wetted_surface": 27.3, 
       "main": 37.7, 
       "genoa": 48.3, 
       "displacement": 5280.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 750.0
     }, 
     "year": "1992"
   }, 

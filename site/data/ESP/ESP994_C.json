@@ -5,12 +5,13 @@
       1.1397, 
       1.2924
     ], 
-    "gph": 663.2, 
     "triple_inshore": [
       0.6963, 
       0.9196, 
       1.0502
-    ]
+    ], 
+    "gph": 663.2, 
+    "osn": 647.3
   }, 
   "sailnumber": "ESP994_C", 
   "name": "J", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 8.032, 
       "draft": 1.5, 
+      "wetted_surface": 13.2, 
       "main": 21.9, 
       "genoa": 14.0, 
       "displacement": 1425.0, 
-      "spinnaker_asym": 65.0
+      "spinnaker_asym": 65.0, 
+      "crew": 338.0
     }, 
     "year": "2008"
   }, 

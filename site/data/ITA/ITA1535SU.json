@@ -5,12 +5,13 @@
       1.0948, 
       1.257
     ], 
-    "gph": 694.6, 
     "triple_inshore": [
       0.6528, 
       0.8965, 
       1.0382
-    ]
+    ], 
+    "gph": 694.6, 
+    "osn": 673.4
   }, 
   "sailnumber": "ITA1535SU", 
   "name": "NELLARIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 40.0, 
       "loa": 7.64, 
       "draft": 1.78, 
+      "wetted_surface": 13.4, 
       "main": 19.1, 
       "genoa": 18.0, 
       "displacement": 1335.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1977"
   }, 

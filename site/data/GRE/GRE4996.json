@@ -5,12 +5,13 @@
       0.9151, 
       1.0548
     ], 
-    "gph": 838.2, 
     "triple_inshore": [
       0.5284, 
       0.7336, 
       0.8767
-    ]
+    ], 
+    "gph": 838.2, 
+    "osn": 811.6
   }, 
   "sailnumber": "GRE4996", 
   "name": "KIRKI II", 
@@ -25,10 +26,12 @@
       "spinnaker": 36.5, 
       "loa": 7.18, 
       "draft": 1.33, 
+      "wetted_surface": 13.8, 
       "main": 11.5, 
       "genoa": 18.9, 
       "displacement": 2053.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1975"
   }, 

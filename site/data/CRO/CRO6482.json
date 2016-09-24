@@ -5,12 +5,13 @@
       1.3269, 
       1.5136
     ], 
-    "gph": 576.5, 
     "triple_inshore": [
       0.772, 
       1.0653, 
       1.2441
-    ]
+    ], 
+    "gph": 576.5, 
+    "osn": 560.3
   }, 
   "sailnumber": "CRO6482", 
   "name": "Gringo 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 111.2, 
       "loa": 11.99, 
       "draft": 2.42, 
+      "wetted_surface": 31.8, 
       "main": 49.1, 
       "genoa": 39.3, 
       "displacement": 5850.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 846.0
     }, 
     "year": "2003"
   }, 

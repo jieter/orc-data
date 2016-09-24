@@ -5,12 +5,13 @@
       0.9124, 
       1.1156
     ], 
-    "gph": 852.5, 
     "triple_inshore": [
       0.4898, 
       0.7227, 
       0.9202
-    ]
+    ], 
+    "gph": 852.5, 
+    "osn": 817.1
   }, 
   "sailnumber": "JPN6678", 
   "name": "ROOT", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.12, 
       "draft": 1.54, 
+      "wetted_surface": 19.5, 
       "main": 20.5, 
       "genoa": 15.0, 
       "displacement": 3193.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 460.0
     }, 
     "year": "2004"
   }, 

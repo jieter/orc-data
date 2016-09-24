@@ -5,12 +5,13 @@
       1.2594, 
       1.4039
     ], 
-    "gph": 601.4, 
     "triple_inshore": [
       0.7693, 
       1.021, 
       1.1542
-    ]
+    ], 
+    "gph": 601.4, 
+    "osn": 586.4
   }, 
   "sailnumber": "ITA15719", 
   "name": "SCACCO MATTO", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.99, 
       "draft": 2.21, 
+      "wetted_surface": 23.3, 
       "main": 37.8, 
       "genoa": 29.4, 
       "displacement": 3601.0, 
-      "spinnaker_asym": 115.0
+      "spinnaker_asym": 115.0, 
+      "crew": 500.0
     }, 
     "year": "2007"
   }, 

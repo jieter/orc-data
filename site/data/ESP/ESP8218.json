@@ -5,12 +5,13 @@
       1.1676, 
       1.3345
     ], 
-    "gph": 659.2, 
     "triple_inshore": [
       0.6622, 
       0.9257, 
       1.1011
-    ]
+    ], 
+    "gph": 659.2, 
+    "osn": 639.1
   }, 
   "sailnumber": "ESP8218", 
   "name": "BANFF", 
@@ -25,10 +26,12 @@
       "spinnaker": 98.1, 
       "loa": 11.624, 
       "draft": 1.88, 
+      "wetted_surface": 32.2, 
       "main": 34.1, 
       "genoa": 43.6, 
       "displacement": 7738.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "2001"
   }, 

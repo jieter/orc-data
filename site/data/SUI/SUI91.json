@@ -5,12 +5,13 @@
       1.0645, 
       1.1667
     ], 
-    "gph": 707.7, 
     "triple_inshore": [
       0.6679, 
       0.8807, 
       0.9896
-    ]
+    ], 
+    "gph": 707.7, 
+    "osn": 691.6
   }, 
   "sailnumber": "SUI91", 
   "name": "SUNBEAM", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.4, 
       "loa": 8.645, 
       "draft": 1.71, 
+      "wetted_surface": 15.0, 
       "main": 24.1, 
       "genoa": 16.6, 
       "displacement": 2443.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 393.0
     }, 
     "year": "1977"
   }, 

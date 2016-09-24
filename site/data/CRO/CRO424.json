@@ -5,12 +5,13 @@
       1.2816, 
       1.4695
     ], 
-    "gph": 601.3, 
     "triple_inshore": [
       0.7213, 
       1.0092, 
       1.1951
-    ]
+    ], 
+    "gph": 601.3, 
+    "osn": 583.4
   }, 
   "sailnumber": "CRO424", 
   "name": "Srna V", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.734, 
       "draft": 2.1, 
+      "wetted_surface": 46.6, 
       "main": 55.8, 
       "genoa": 48.8, 
       "displacement": 12600.0, 
-      "spinnaker_asym": 173.0
+      "spinnaker_asym": 173.0, 
+      "crew": 570.0
     }, 
     "year": "2010"
   }, 

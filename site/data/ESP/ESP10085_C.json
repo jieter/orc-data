@@ -5,12 +5,13 @@
       1.1116, 
       1.292
     ], 
-    "gph": 692.7, 
     "triple_inshore": [
       0.631, 
       0.8886, 
       1.0765
-    ]
+    ], 
+    "gph": 692.7, 
+    "osn": 669.1
   }, 
   "sailnumber": "ESP10085_C", 
   "name": "SEMPRE VOLVE", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.5, 
       "loa": 10.832, 
       "draft": 1.98, 
+      "wetted_surface": 26.1, 
       "main": 27.7, 
       "genoa": 35.4, 
       "displacement": 5593.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 570.0
     }, 
     "year": "1981"
   }, 

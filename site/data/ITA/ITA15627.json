@@ -5,12 +5,13 @@
       1.027, 
       1.1667
     ], 
-    "gph": 744.3, 
     "triple_inshore": [
       0.6032, 
       0.8255, 
       0.9736
-    ]
+    ], 
+    "gph": 744.3, 
+    "osn": 722.9
   }, 
   "sailnumber": "ITA15627", 
   "name": "FERDINANDO", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.9, 
       "loa": 9.363, 
       "draft": 1.74, 
+      "wetted_surface": 19.5, 
       "main": 18.2, 
       "genoa": 31.1, 
       "displacement": 3985.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 370.0
     }, 
     "year": "1975"
   }, 

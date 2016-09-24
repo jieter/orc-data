@@ -5,12 +5,13 @@
       1.0769, 
       1.2132
     ], 
-    "gph": 705.7, 
     "triple_inshore": [
       0.6464, 
       0.8648, 
       1.011
-    ]
+    ], 
+    "gph": 705.7, 
+    "osn": 689.5
   }, 
   "sailnumber": "NED7176", 
   "name": "", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.12, 
       "draft": 1.83, 
+      "wetted_surface": 22.1, 
       "main": 21.6, 
       "genoa": 40.8, 
       "displacement": 4883.0, 
-      "spinnaker_asym": 77.0
+      "spinnaker_asym": 77.0, 
+      "crew": 471.0
     }, 
     "year": "1968"
   }, 

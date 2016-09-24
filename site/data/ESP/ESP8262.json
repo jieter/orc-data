@@ -5,12 +5,13 @@
       1.0589, 
       1.2302
     ], 
-    "gph": 724.3, 
     "triple_inshore": [
       0.6076, 
       0.8434, 
       1.0236
-    ]
+    ], 
+    "gph": 724.3, 
+    "osn": 702.1
   }, 
   "sailnumber": "ESP8262", 
   "name": "MIRAVER", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.3, 
       "loa": 9.62, 
       "draft": 1.75, 
+      "wetted_surface": 23.8, 
       "main": 22.0, 
       "genoa": 29.6, 
       "displacement": 5052.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1998"
   }, 

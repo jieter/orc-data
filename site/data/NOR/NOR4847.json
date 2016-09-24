@@ -5,12 +5,13 @@
       1.1508, 
       1.2975
     ], 
-    "gph": 662.5, 
     "triple_inshore": [
       0.6821, 
       0.9283, 
       1.0855
-    ]
+    ], 
+    "gph": 662.5, 
+    "osn": 644.7
   }, 
   "sailnumber": "NOR4847", 
   "name": "Freja", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.9, 
       "loa": 11.0, 
       "draft": 1.87, 
+      "wetted_surface": 25.0, 
       "main": 33.3, 
       "genoa": 34.9, 
       "displacement": 5506.0, 
-      "spinnaker_asym": 81.0
+      "spinnaker_asym": 81.0, 
+      "crew": 609.0
     }, 
     "year": "1983"
   }, 

@@ -5,12 +5,13 @@
       1.1616, 
       1.3313
     ], 
-    "gph": 660.1, 
     "triple_inshore": [
       0.6733, 
       0.9347, 
       1.1137
-    ]
+    ], 
+    "gph": 660.1, 
+    "osn": 638.8
   }, 
   "sailnumber": "NED7442", 
   "name": "Xaenah", 
@@ -25,10 +26,12 @@
       "spinnaker": 81.5, 
       "loa": 10.725, 
       "draft": 1.92, 
+      "wetted_surface": 27.3, 
       "main": 29.4, 
       "genoa": 35.6, 
       "displacement": 5731.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 666.0
     }, 
     "year": "1996"
   }, 

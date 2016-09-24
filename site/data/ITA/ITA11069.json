@@ -5,12 +5,13 @@
       1.2729, 
       1.4302
     ], 
-    "gph": 597.2, 
     "triple_inshore": [
       0.7628, 
       1.0263, 
       1.1921
-    ]
+    ], 
+    "gph": 597.2, 
+    "osn": 582.0
   }, 
   "sailnumber": "ITA11069", 
   "name": "STARRING", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.535, 
       "draft": 2.52, 
+      "wetted_surface": 32.5, 
       "main": 43.2, 
       "genoa": 58.6, 
       "displacement": 8363.0, 
-      "spinnaker_asym": 124.0
+      "spinnaker_asym": 124.0, 
+      "crew": 625.0
     }, 
     "year": "1987"
   }, 

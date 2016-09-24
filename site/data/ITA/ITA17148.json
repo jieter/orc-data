@@ -5,12 +5,13 @@
       1.1879, 
       1.3687
     ], 
-    "gph": 648.8, 
     "triple_inshore": [
       0.6671, 
       0.9331, 
       1.1165
-    ]
+    ], 
+    "gph": 648.8, 
+    "osn": 629.0
   }, 
   "sailnumber": "ITA17148", 
   "name": "DONNA BEATRICE II", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.99, 
       "draft": 2.09, 
+      "wetted_surface": 34.7, 
       "main": 49.4, 
       "genoa": 35.9, 
       "displacement": 9009.0, 
-      "spinnaker_asym": 115.0
+      "spinnaker_asym": 115.0, 
+      "crew": 250.0
     }, 
     "year": "2014"
   }, 

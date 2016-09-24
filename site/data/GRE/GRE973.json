@@ -5,12 +5,13 @@
       1.2158, 
       1.3666
     ], 
-    "gph": 628.3, 
     "triple_inshore": [
       0.7167, 
       0.9807, 
       1.1353
-    ]
+    ], 
+    "gph": 628.3, 
+    "osn": 610.7
   }, 
   "sailnumber": "GRE973", 
   "name": "CHRYSSAOR", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.4, 
       "loa": 10.815, 
       "draft": 2.22, 
+      "wetted_surface": 27.3, 
       "main": 37.1, 
       "genoa": 33.0, 
       "displacement": 4971.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2000"
   }, 

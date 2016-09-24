@@ -5,12 +5,13 @@
       1.2228, 
       1.4241
     ], 
-    "gph": 630.9, 
     "triple_inshore": [
       0.6781, 
       0.9589, 
       1.1586
-    ]
+    ], 
+    "gph": 630.9, 
+    "osn": 612.1
   }, 
   "sailnumber": "ESP10308_C", 
   "name": "GOLDEN ACORN", 
@@ -25,10 +26,12 @@
       "spinnaker": 133.8, 
       "loa": 13.72, 
       "draft": 1.88, 
+      "wetted_surface": 39.0, 
       "main": 49.1, 
       "genoa": 62.3, 
       "displacement": 9652.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1998"
   }, 

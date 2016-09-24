@@ -5,12 +5,13 @@
       1.0298, 
       1.2093
     ], 
-    "gph": 754.8, 
     "triple_inshore": [
       0.5612, 
       0.8169, 
       0.9957
-    ]
+    ], 
+    "gph": 754.8, 
+    "osn": 725.7
   }, 
   "sailnumber": "ESP9832_C", 
   "name": "MARRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.38, 
       "draft": 1.9, 
+      "wetted_surface": 26.5, 
       "main": 25.8, 
       "genoa": 30.4, 
       "displacement": 5989.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "2005"
   }, 

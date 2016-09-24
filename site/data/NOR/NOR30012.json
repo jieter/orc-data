@@ -5,12 +5,13 @@
       1.3346, 
       1.5489
     ], 
-    "gph": 564.6, 
     "triple_inshore": [
       0.8198, 
       1.0692, 
       1.2618
-    ]
+    ], 
+    "gph": 564.6, 
+    "osn": 551.1
   }, 
   "sailnumber": "NOR30012", 
   "name": "No 28 Pizza Pub", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.15, 
       "draft": 2.26, 
+      "wetted_surface": 19.1, 
       "main": 37.6, 
       "genoa": 23.0, 
       "displacement": 1922.0, 
-      "spinnaker_asym": 120.0
+      "spinnaker_asym": 120.0, 
+      "crew": 586.0
     }, 
     "year": "2013"
   }, 

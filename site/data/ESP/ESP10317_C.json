@@ -5,12 +5,13 @@
       1.1778, 
       1.3377
     ], 
-    "gph": 650.1, 
     "triple_inshore": [
       0.6768, 
       0.9474, 
       1.1214
-    ]
+    ], 
+    "gph": 650.1, 
+    "osn": 633.7
   }, 
   "sailnumber": "ESP10317_C", 
   "name": "LARA Y MIGUEL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.04, 
       "draft": 2.06, 
+      "wetted_surface": 27.0, 
       "main": 38.1, 
       "genoa": 41.5, 
       "displacement": 5692.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "2002"
   }, 

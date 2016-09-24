@@ -5,12 +5,13 @@
       1.192, 
       1.3433
     ], 
-    "gph": 641.1, 
     "triple_inshore": [
       0.7013, 
       0.9641, 
       1.1263
-    ]
+    ], 
+    "gph": 641.1, 
+    "osn": 622.6
   }, 
   "sailnumber": "ITA14874", 
   "name": "OUTSIDER", 
@@ -25,10 +26,12 @@
       "spinnaker": 82.2, 
       "loa": 10.64, 
       "draft": 2.24, 
+      "wetted_surface": 27.0, 
       "main": 38.4, 
       "genoa": 35.0, 
       "displacement": 5864.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 560.0
     }, 
     "year": "2001"
   }, 

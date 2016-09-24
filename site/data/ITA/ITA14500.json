@@ -5,12 +5,13 @@
       1.2997, 
       1.4685
     ], 
-    "gph": 588.4, 
     "triple_inshore": [
       0.7618, 
       1.0478, 
       1.2213
-    ]
+    ], 
+    "gph": 588.4, 
+    "osn": 571.8
   }, 
   "sailnumber": "ITA14500", 
   "name": "TSUNAMI", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.8, 
       "loa": 12.425, 
       "draft": 2.6, 
+      "wetted_surface": 31.6, 
       "main": 50.3, 
       "genoa": 41.4, 
       "displacement": 6800.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 840.0
     }, 
     "year": "2003"
   }, 

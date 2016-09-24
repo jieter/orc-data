@@ -5,12 +5,13 @@
       1.2329, 
       1.3973
     ], 
-    "gph": 620.4, 
     "triple_inshore": [
       0.7177, 
       0.9836, 
       1.1577
-    ]
+    ], 
+    "gph": 620.4, 
+    "osn": 604.0
   }, 
   "sailnumber": "ESP6426_C", 
   "name": "MARTINI", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.0, 
       "loa": 12.432, 
       "draft": 2.0, 
+      "wetted_surface": 34.2, 
       "main": 52.2, 
       "genoa": 41.5, 
       "displacement": 8464.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 375.0
     }, 
     "year": "1997"
   }, 

@@ -5,12 +5,13 @@
       1.0884, 
       1.2223
     ], 
-    "gph": 696.4, 
     "triple_inshore": [
       0.6631, 
       0.8928, 
       1.0193
-    ]
+    ], 
+    "gph": 696.4, 
+    "osn": 677.5
   }, 
   "sailnumber": "NED6943", 
   "name": "BLUE BOX", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.0, 
       "loa": 7.927, 
       "draft": 1.4, 
+      "wetted_surface": 14.8, 
       "main": 21.6, 
       "genoa": 19.6, 
       "displacement": 1912.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 381.0
     }, 
     "year": "1979"
   }, 

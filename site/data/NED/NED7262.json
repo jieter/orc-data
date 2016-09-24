@@ -5,12 +5,13 @@
       1.2992, 
       1.4779
     ], 
-    "gph": 588.5, 
     "triple_inshore": [
       0.7582, 
       1.0443, 
       1.2316
-    ]
+    ], 
+    "gph": 588.5, 
+    "osn": 572.0
   }, 
   "sailnumber": "NED7262", 
   "name": "Xventure", 
@@ -25,10 +26,12 @@
       "spinnaker": 122.9, 
       "loa": 12.903, 
       "draft": 2.2, 
+      "wetted_surface": 35.6, 
       "main": 52.4, 
       "genoa": 49.3, 
       "displacement": 8935.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 730.0
     }, 
     "year": "2003"
   }, 

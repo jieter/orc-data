@@ -5,12 +5,13 @@
       0.9992, 
       1.1564
     ], 
-    "gph": 769.5, 
     "triple_inshore": [
       0.569, 
       0.8008, 
       0.9655
-    ]
+    ], 
+    "gph": 769.5, 
+    "osn": 744.6
   }, 
   "sailnumber": "NOR2713", 
   "name": "HelmaX", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.45, 
       "draft": 1.53, 
+      "wetted_surface": 22.0, 
       "main": 20.7, 
       "genoa": 28.9, 
       "displacement": 4347.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 498.0
     }, 
     "year": "1973"
   }, 

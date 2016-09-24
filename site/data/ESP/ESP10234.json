@@ -5,12 +5,13 @@
       1.3296, 
       1.5157
     ], 
-    "gph": 576.3, 
     "triple_inshore": [
       0.7648, 
       1.059, 
       1.2513
-    ]
+    ], 
+    "gph": 576.3, 
+    "osn": 560.7
   }, 
   "sailnumber": "ESP10234", 
   "name": "NAO", 
@@ -25,10 +26,12 @@
       "spinnaker": 148.4, 
       "loa": 13.6, 
       "draft": 2.28, 
+      "wetted_surface": 41.8, 
       "main": 63.4, 
       "genoa": 57.5, 
       "displacement": 10469.0, 
-      "spinnaker_asym": 147.0
+      "spinnaker_asym": 147.0, 
+      "crew": 850.0
     }, 
     "year": "2008"
   }, 

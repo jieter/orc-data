@@ -5,12 +5,13 @@
       1.2382, 
       1.383
     ], 
-    "gph": 610.6, 
     "triple_inshore": [
       0.7555, 
       0.9964, 
       1.1303
-    ]
+    ], 
+    "gph": 610.6, 
+    "osn": 597.3
   }, 
   "sailnumber": "GER4387", 
   "name": "SHODDY", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.9, 
       "loa": 10.39, 
       "draft": 2.1, 
+      "wetted_surface": 20.0, 
       "main": 37.2, 
       "genoa": 27.7, 
       "displacement": 2616.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 480.0
     }, 
     "year": "1990"
   }, 

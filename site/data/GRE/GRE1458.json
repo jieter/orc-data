@@ -5,12 +5,13 @@
       1.0691, 
       1.2353
     ], 
-    "gph": 720.6, 
     "triple_inshore": [
       0.6055, 
       0.852, 
       1.0233
-    ]
+    ], 
+    "gph": 720.6, 
+    "osn": 696.5
   }, 
   "sailnumber": "GRE1458", 
   "name": "TILEMACHOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 59.8, 
       "loa": 10.083, 
       "draft": 1.71, 
+      "wetted_surface": 24.5, 
       "main": 26.2, 
       "genoa": 29.9, 
       "displacement": 4760.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1988"
   }, 

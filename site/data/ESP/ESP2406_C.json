@@ -5,12 +5,13 @@
       1.1951, 
       1.3685
     ], 
-    "gph": 642.5, 
     "triple_inshore": [
       0.6853, 
       0.9601, 
       1.1309
-    ]
+    ], 
+    "gph": 642.5, 
+    "osn": 622.3
   }, 
   "sailnumber": "ESP2406_C", 
   "name": "DUENDE", 
@@ -25,10 +26,12 @@
       "spinnaker": 72.5, 
       "loa": 10.882, 
       "draft": 1.87, 
+      "wetted_surface": 23.4, 
       "main": 32.7, 
       "genoa": 27.3, 
       "displacement": 3910.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 570.0
     }, 
     "year": "1983"
   }, 

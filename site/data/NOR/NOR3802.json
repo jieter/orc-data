@@ -5,12 +5,13 @@
       1.123, 
       1.2704
     ], 
-    "gph": 679.4, 
     "triple_inshore": [
       0.662, 
       0.908, 
       1.0665
-    ]
+    ], 
+    "gph": 679.4, 
+    "osn": 661.0
   }, 
   "sailnumber": "NOR3802", 
   "name": "Marild", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.4, 
       "loa": 10.55, 
       "draft": 1.91, 
+      "wetted_surface": 24.6, 
       "main": 35.9, 
       "genoa": 33.2, 
       "displacement": 5316.0, 
-      "spinnaker_asym": 64.0
+      "spinnaker_asym": 64.0, 
+      "crew": 571.0
     }, 
     "year": "1981"
   }, 

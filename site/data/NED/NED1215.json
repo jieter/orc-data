@@ -5,12 +5,13 @@
       1.1279, 
       1.2636
     ], 
-    "gph": 674.7, 
     "triple_inshore": [
       0.6773, 
       0.9148, 
       1.064
-    ]
+    ], 
+    "gph": 674.7, 
+    "osn": 656.7
   }, 
   "sailnumber": "NED1215", 
   "name": "KANALOA", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.6, 
       "loa": 10.16, 
       "draft": 1.91, 
+      "wetted_surface": 27.5, 
       "main": 27.5, 
       "genoa": 52.5, 
       "displacement": 6875.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 738.0
     }, 
     "year": "1977"
   }, 

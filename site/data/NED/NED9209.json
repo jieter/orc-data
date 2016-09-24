@@ -5,12 +5,13 @@
       1.4108, 
       1.6653
     ], 
-    "gph": 532.6, 
     "triple_inshore": [
       0.8704, 
       1.1313, 
       1.3613
-    ]
+    ], 
+    "gph": 532.6, 
+    "osn": 518.9
   }, 
   "sailnumber": "NED9209", 
   "name": "Roark", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.68, 
       "draft": 2.13, 
+      "wetted_surface": 18.0, 
       "main": 42.6, 
       "genoa": 21.9, 
       "displacement": 1658.0, 
-      "spinnaker_asym": 126.0
+      "spinnaker_asym": 126.0, 
+      "crew": 640.0
     }, 
     "year": "2005"
   }, 

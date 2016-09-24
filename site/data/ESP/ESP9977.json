@@ -5,12 +5,13 @@
       1.4201, 
       1.6102
     ], 
-    "gph": 538.3, 
     "triple_inshore": [
       0.8322, 
       1.1417, 
       1.3527
-    ]
+    ], 
+    "gph": 538.3, 
+    "osn": 523.4
   }, 
   "sailnumber": "ESP9977", 
   "name": "SOLETE", 
@@ -25,10 +26,12 @@
       "spinnaker": 236.3, 
       "loa": 15.15, 
       "draft": 3.0, 
+      "wetted_surface": 53.9, 
       "main": 80.0, 
       "genoa": 74.1, 
       "displacement": 17767.0, 
-      "spinnaker_asym": 236.0
+      "spinnaker_asym": 236.0, 
+      "crew": 1100.0
     }, 
     "year": "2011"
   }, 

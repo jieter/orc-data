@@ -5,12 +5,13 @@
       1.21, 
       1.3791
     ], 
-    "gph": 623.4, 
     "triple_inshore": [
       0.7446, 
       0.9764, 
       1.1272
-    ]
+    ], 
+    "gph": 623.4, 
+    "osn": 608.0
   }, 
   "sailnumber": "GER6964", 
   "name": "JULIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.99, 
       "draft": 1.97, 
+      "wetted_surface": 16.1, 
       "main": 29.0, 
       "genoa": 18.3, 
       "displacement": 1620.0, 
-      "spinnaker_asym": 78.0
+      "spinnaker_asym": 78.0, 
+      "crew": 350.0
     }, 
     "year": "2012"
   }, 

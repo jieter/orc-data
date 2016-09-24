@@ -5,12 +5,13 @@
       1.1348, 
       1.2855
     ], 
-    "gph": 675.2, 
     "triple_inshore": [
       0.6609, 
       0.9154, 
       1.0712
-    ]
+    ], 
+    "gph": 675.2, 
+    "osn": 655.0
   }, 
   "sailnumber": "ESP5285", 
   "name": "BLAUMARINA I", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.3, 
       "loa": 9.49, 
       "draft": 1.92, 
+      "wetted_surface": 22.0, 
       "main": 25.1, 
       "genoa": 29.3, 
       "displacement": 3644.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 370.0
     }, 
     "year": "1998"
   }, 

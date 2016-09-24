@@ -5,12 +5,13 @@
       0.926, 
       1.083
     ], 
-    "gph": 834.1, 
     "triple_inshore": [
       0.517, 
       0.731, 
       0.8897
-    ]
+    ], 
+    "gph": 834.1, 
+    "osn": 805.8
   }, 
   "sailnumber": "NOR2579", 
   "name": "Raga", 
@@ -25,10 +26,12 @@
       "spinnaker": 33.7, 
       "loa": 8.25, 
       "draft": 1.22, 
+      "wetted_surface": 18.5, 
       "main": 15.2, 
       "genoa": 17.0, 
       "displacement": 2737.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 434.0
     }, 
     "year": "1965"
   }, 

@@ -5,12 +5,13 @@
       1.209, 
       1.3662
     ], 
-    "gph": 631.7, 
     "triple_inshore": [
       0.7105, 
       0.968, 
       1.1292
-    ]
+    ], 
+    "gph": 631.7, 
+    "osn": 614.4
   }, 
   "sailnumber": "NED7676", 
   "name": "Halvar", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.972, 
       "draft": 1.96, 
+      "wetted_surface": 27.7, 
       "main": 40.2, 
       "genoa": 33.6, 
       "displacement": 5926.0, 
-      "spinnaker_asym": 91.0
+      "spinnaker_asym": 91.0, 
+      "crew": 674.0
     }, 
     "year": "2000"
   }, 

@@ -5,12 +5,13 @@
       1.0256, 
       1.1619
     ], 
-    "gph": 745.8, 
     "triple_inshore": [
       0.6033, 
       0.8285, 
       0.9748
-    ]
+    ], 
+    "gph": 745.8, 
+    "osn": 723.6
   }, 
   "sailnumber": "ESP1873_C", 
   "name": "KANIVAL", 
@@ -25,10 +26,12 @@
       "spinnaker": 53.1, 
       "loa": 8.758, 
       "draft": 1.7, 
+      "wetted_surface": 17.8, 
       "main": 16.7, 
       "genoa": 23.6, 
       "displacement": 3420.0, 
-      "spinnaker_asym": 62.0
+      "spinnaker_asym": 62.0, 
+      "crew": 400.0
     }, 
     "year": "1973"
   }, 

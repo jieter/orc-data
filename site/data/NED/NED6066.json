@@ -5,12 +5,13 @@
       1.1002, 
       1.2793
     ], 
-    "gph": 697.1, 
     "triple_inshore": [
       0.628, 
       0.8764, 
       1.0652
-    ]
+    ], 
+    "gph": 697.1, 
+    "osn": 676.3
   }, 
   "sailnumber": "NED6066", 
   "name": "SEA-BERYL", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.203, 
       "draft": 2.12, 
+      "wetted_surface": 34.4, 
       "main": 41.2, 
       "genoa": 47.1, 
       "displacement": 10933.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 697.0
     }, 
     "year": "1976"
   }, 

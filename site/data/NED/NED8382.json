@@ -5,12 +5,13 @@
       1.0189, 
       1.1601
     ], 
-    "gph": 751.1, 
     "triple_inshore": [
       0.5968, 
       0.8212, 
       0.9743
-    ]
+    ], 
+    "gph": 751.1, 
+    "osn": 728.5
   }, 
   "sailnumber": "NED8382", 
   "name": "Zahir", 
@@ -25,10 +26,12 @@
       "spinnaker": 57.4, 
       "loa": 9.084, 
       "draft": 1.75, 
+      "wetted_surface": 19.1, 
       "main": 20.1, 
       "genoa": 22.9, 
       "displacement": 3906.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 455.0
     }, 
     "year": "1973"
   }, 

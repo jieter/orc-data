@@ -5,12 +5,13 @@
       1.191, 
       1.3287
     ], 
-    "gph": 639.5, 
     "triple_inshore": [
       0.7101, 
       0.9572, 
       1.1031
-    ]
+    ], 
+    "gph": 639.5, 
+    "osn": 623.6
   }, 
   "sailnumber": "ITA16956", 
   "name": "STELLA DEI VENTI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 10.36, 
       "draft": 1.91, 
+      "wetted_surface": 25.8, 
       "main": 39.6, 
       "genoa": 27.9, 
       "displacement": 5503.0, 
-      "spinnaker_asym": 92.0
+      "spinnaker_asym": 92.0, 
+      "crew": 480.0
     }, 
     "year": "2007"
   }, 

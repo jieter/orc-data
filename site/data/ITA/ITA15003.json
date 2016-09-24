@@ -5,12 +5,13 @@
       1.2158, 
       1.3758
     ], 
-    "gph": 629.2, 
     "triple_inshore": [
       0.7088, 
       0.976, 
       1.1434
-    ]
+    ], 
+    "gph": 629.2, 
+    "osn": 611.6
   }, 
   "sailnumber": "ITA15003", 
   "name": "VAG", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.9, 
       "loa": 11.292, 
       "draft": 2.07, 
+      "wetted_surface": 28.7, 
       "main": 44.1, 
       "genoa": 33.2, 
       "displacement": 6342.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 670.0
     }, 
     "year": "2005"
   }, 

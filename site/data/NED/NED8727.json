@@ -5,12 +5,13 @@
       1.1136, 
       1.281
     ], 
-    "gph": 688.7, 
     "triple_inshore": [
       0.6408, 
       0.8838, 
       1.0561
-    ]
+    ], 
+    "gph": 688.7, 
+    "osn": 668.4
   }, 
   "sailnumber": "NED8727", 
   "name": "Primo Volente", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.3, 
       "loa": 11.3, 
       "draft": 1.59, 
+      "wetted_surface": 29.1, 
       "main": 33.6, 
       "genoa": 28.3, 
       "displacement": 6800.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 651.0
     }, 
     "year": "1985"
   }, 

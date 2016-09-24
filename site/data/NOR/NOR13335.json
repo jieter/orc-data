@@ -5,12 +5,13 @@
       1.3133, 
       1.4707
     ], 
-    "gph": 579.1, 
     "triple_inshore": [
       0.7729, 
       1.0396, 
       1.2052
-    ]
+    ], 
+    "gph": 579.1, 
+    "osn": 567.8
   }, 
   "sailnumber": "NOR13335", 
   "name": "Hyggen X", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.15, 
       "draft": 2.21, 
+      "wetted_surface": 41.0, 
       "main": 64.7, 
       "genoa": 45.7, 
       "displacement": 11599.0, 
-      "spinnaker_asym": 171.0
+      "spinnaker_asym": 171.0, 
+      "crew": 880.0
     }, 
     "year": "2007"
   }, 

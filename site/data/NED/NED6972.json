@@ -5,12 +5,13 @@
       1.0827, 
       1.2064
     ], 
-    "gph": 698.6, 
     "triple_inshore": [
       0.665, 
       0.8915, 
       1.0161
-    ]
+    ], 
+    "gph": 698.6, 
+    "osn": 681.3
   }, 
   "sailnumber": "NED6972", 
   "name": "SCREWBALL", 
@@ -25,10 +26,12 @@
       "spinnaker": 47.1, 
       "loa": 8.292, 
       "draft": 1.7, 
+      "wetted_surface": 15.4, 
       "main": 23.9, 
       "genoa": 21.2, 
       "displacement": 2219.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 394.0
     }, 
     "year": "1983"
   }, 

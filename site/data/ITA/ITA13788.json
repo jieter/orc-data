@@ -5,12 +5,13 @@
       1.0153, 
       1.1567
     ], 
-    "gph": 754.3, 
     "triple_inshore": [
       0.5914, 
       0.8183, 
       0.9703
-    ]
+    ], 
+    "gph": 754.3, 
+    "osn": 731.6
   }, 
   "sailnumber": "ITA13788", 
   "name": "BELLE", 
@@ -25,10 +26,12 @@
       "spinnaker": 46.1, 
       "loa": 8.58, 
       "draft": 1.7, 
+      "wetted_surface": 15.2, 
       "main": 14.4, 
       "genoa": 23.8, 
       "displacement": 2677.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 210.0
     }, 
     "year": "1985"
   }, 

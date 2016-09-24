@@ -5,12 +5,13 @@
       1.084, 
       1.3016
     ], 
-    "gph": 712.7, 
     "triple_inshore": [
       0.5869, 
       0.8489, 
       1.0688
-    ]
+    ], 
+    "gph": 712.7, 
+    "osn": 690.8
   }, 
   "sailnumber": "GRE1770", 
   "name": "TINA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.84, 
       "draft": 1.7, 
+      "wetted_surface": 35.5, 
       "main": 31.3, 
       "genoa": 51.9, 
       "displacement": 10300.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2002"
   }, 

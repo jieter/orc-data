@@ -5,12 +5,13 @@
       1.0005, 
       1.1445
     ], 
-    "gph": 767.3, 
     "triple_inshore": [
       0.5765, 
       0.7988, 
       0.9498
-    ]
+    ], 
+    "gph": 767.3, 
+    "osn": 743.5
   }, 
   "sailnumber": "ITA15217", 
   "name": "BORKUM RIFF", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.5, 
       "loa": 8.94, 
       "draft": 1.63, 
+      "wetted_surface": 18.5, 
       "main": 17.6, 
       "genoa": 28.4, 
       "displacement": 3524.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 320.0
     }, 
     "year": "1975"
   }, 

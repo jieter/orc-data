@@ -5,12 +5,13 @@
       1.2398, 
       1.4094
     ], 
-    "gph": 616.8, 
     "triple_inshore": [
       0.7225, 
       0.9937, 
       1.1715
-    ]
+    ], 
+    "gph": 616.8, 
+    "osn": 599.8
   }, 
   "sailnumber": "NED6858", 
   "name": "WIND", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.1, 
       "loa": 11.785, 
       "draft": 1.97, 
+      "wetted_surface": 33.2, 
       "main": 46.0, 
       "genoa": 48.0, 
       "displacement": 7931.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 788.0
     }, 
     "year": "2000"
   }, 

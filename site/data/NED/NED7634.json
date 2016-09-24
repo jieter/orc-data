@@ -5,12 +5,13 @@
       1.0803, 
       1.2236
     ], 
-    "gph": 709.1, 
     "triple_inshore": [
       0.6318, 
       0.8728, 
       1.0279
-    ]
+    ], 
+    "gph": 709.1, 
+    "osn": 686.9
   }, 
   "sailnumber": "NED7634", 
   "name": "Frihet", 
@@ -25,10 +26,12 @@
       "spinnaker": 51.9, 
       "loa": 9.73, 
       "draft": 1.65, 
+      "wetted_surface": 19.5, 
       "main": 23.4, 
       "genoa": 19.5, 
       "displacement": 3739.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 539.0
     }, 
     "year": "1980"
   }, 

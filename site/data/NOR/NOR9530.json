@@ -5,12 +5,13 @@
       1.1913, 
       1.3563
     ], 
-    "gph": 641.9, 
     "triple_inshore": [
       0.6985, 
       0.9598, 
       1.1378
-    ]
+    ], 
+    "gph": 641.9, 
+    "osn": 622.4
   }, 
   "sailnumber": "NOR9530", 
   "name": "Sofie", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.4, 
       "loa": 11.25, 
       "draft": 1.94, 
+      "wetted_surface": 30.1, 
       "main": 36.6, 
       "genoa": 35.1, 
       "displacement": 7363.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 712.0
     }, 
     "year": "1999"
   }, 

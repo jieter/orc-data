@@ -5,12 +5,13 @@
       1.0113, 
       1.1262
     ], 
-    "gph": 754.6, 
     "triple_inshore": [
       0.6018, 
       0.8178, 
       0.9404
-    ]
+    ], 
+    "gph": 754.6, 
+    "osn": 734.0
   }, 
   "sailnumber": "NOR5018", 
   "name": "Oter`n", 
@@ -25,10 +26,12 @@
       "spinnaker": 40.5, 
       "loa": 8.3, 
       "draft": 1.55, 
+      "wetted_surface": 17.0, 
       "main": 22.1, 
       "genoa": 20.3, 
       "displacement": 2963.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 411.0
     }, 
     "year": "1981"
   }, 

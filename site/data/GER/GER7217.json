@@ -5,12 +5,13 @@
       1.253, 
       1.4799
     ], 
-    "gph": 600.1, 
     "triple_inshore": [
       0.7776, 
       1.0121, 
       1.2077
-    ]
+    ], 
+    "gph": 600.1, 
+    "osn": 582.7
   }, 
   "sailnumber": "GER7217", 
   "name": "WILDFIRE", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.9, 
       "draft": 2.29, 
+      "wetted_surface": 13.6, 
       "main": 30.8, 
       "genoa": 15.2, 
       "displacement": 1171.0, 
-      "spinnaker_asym": 84.0
+      "spinnaker_asym": 84.0, 
+      "crew": 540.0
     }, 
     "year": "2003"
   }, 

@@ -5,12 +5,13 @@
       1.1993, 
       1.3599
     ], 
-    "gph": 636.7, 
     "triple_inshore": [
       0.7077, 
       0.9697, 
       1.142
-    ]
+    ], 
+    "gph": 636.7, 
+    "osn": 618.1
   }, 
   "sailnumber": "NED5591", 
   "name": "Siri", 
@@ -25,10 +26,12 @@
       "spinnaker": 95.2, 
       "loa": 10.985, 
       "draft": 2.16, 
+      "wetted_surface": 30.7, 
       "main": 35.0, 
       "genoa": 48.9, 
       "displacement": 7352.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 692.0
     }, 
     "year": "1996"
   }, 

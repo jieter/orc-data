@@ -5,12 +5,13 @@
       1.3828, 
       1.5756
     ], 
-    "gph": 549.9, 
     "triple_inshore": [
       0.8209, 
       1.1139, 
       1.2931
-    ]
+    ], 
+    "gph": 549.9, 
+    "osn": 535.6
   }, 
   "sailnumber": "GER5370", 
   "name": "INSCHALLAH VI", 
@@ -25,10 +26,12 @@
       "spinnaker": 113.0, 
       "loa": 12.513, 
       "draft": 2.61, 
+      "wetted_surface": 30.8, 
       "main": 63.9, 
       "genoa": 34.7, 
       "displacement": 5749.0, 
-      "spinnaker_asym": 105.0
+      "spinnaker_asym": 105.0, 
+      "crew": 600.0
     }, 
     "year": "1996"
   }, 

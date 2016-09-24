@@ -5,12 +5,13 @@
       1.0565, 
       1.1876
     ], 
-    "gph": 720.2, 
     "triple_inshore": [
       0.6342, 
       0.8584, 
       0.9946
-    ]
+    ], 
+    "gph": 720.2, 
+    "osn": 700.9
   }, 
   "sailnumber": "ITA4811", 
   "name": "CICCI VII", 
@@ -25,10 +26,12 @@
       "spinnaker": 65.8, 
       "loa": 9.1, 
       "draft": 1.69, 
+      "wetted_surface": 17.8, 
       "main": 18.8, 
       "genoa": 34.0, 
       "displacement": 3246.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 542.0
     }, 
     "year": "1972"
   }, 

@@ -5,12 +5,13 @@
       1.2188, 
       1.3949
     ], 
-    "gph": 629.9, 
     "triple_inshore": [
       0.7031, 
       0.9804, 
       1.169
-    ]
+    ], 
+    "gph": 629.9, 
+    "osn": 609.5
   }, 
   "sailnumber": "ITA13816", 
   "name": "BERENICE", 
@@ -25,10 +26,12 @@
       "spinnaker": 99.9, 
       "loa": 11.71, 
       "draft": 2.43, 
+      "wetted_surface": 33.2, 
       "main": 43.8, 
       "genoa": 33.6, 
       "displacement": 7600.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1998"
   }, 

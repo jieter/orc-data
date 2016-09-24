@@ -5,12 +5,13 @@
       1.1378, 
       1.3172
     ], 
-    "gph": 674.3, 
     "triple_inshore": [
       0.6501, 
       0.9064, 
       1.0973
-    ]
+    ], 
+    "gph": 674.3, 
+    "osn": 654.4
   }, 
   "sailnumber": "GER6703", 
   "name": "UTSIRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.255, 
       "draft": 1.93, 
+      "wetted_surface": 28.8, 
       "main": 39.4, 
       "genoa": 26.3, 
       "displacement": 6604.0, 
-      "spinnaker_asym": 73.0
+      "spinnaker_asym": 73.0, 
+      "crew": 500.0
     }, 
     "year": "1993"
   }, 

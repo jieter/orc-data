@@ -5,12 +5,13 @@
       1.2104, 
       1.3674
     ], 
-    "gph": 629.5, 
     "triple_inshore": [
       0.7192, 
       0.9832, 
       1.1507
-    ]
+    ], 
+    "gph": 629.5, 
+    "osn": 612.2
   }, 
   "sailnumber": "NED7088", 
   "name": "Blixkaters", 
@@ -25,10 +26,12 @@
       "spinnaker": 84.3, 
       "loa": 10.72, 
       "draft": 2.05, 
+      "wetted_surface": 27.1, 
       "main": 38.1, 
       "genoa": 40.3, 
       "displacement": 5732.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 540.0
     }, 
     "year": "1993"
   }, 

@@ -5,12 +5,13 @@
       1.2423, 
       1.4542
     ], 
-    "gph": 619.3, 
     "triple_inshore": [
       0.6989, 
       0.98, 
       1.2025
-    ]
+    ], 
+    "gph": 619.3, 
+    "osn": 600.3
   }, 
   "sailnumber": "NOR4737", 
   "name": "Blue Spirit", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 14.11, 
       "draft": 2.19, 
+      "wetted_surface": 44.9, 
       "main": 47.1, 
       "genoa": 63.5, 
       "displacement": 14085.0, 
-      "spinnaker_asym": 108.0
+      "spinnaker_asym": 108.0, 
+      "crew": 1000.0
     }, 
     "year": "2001"
   }, 

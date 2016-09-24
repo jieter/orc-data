@@ -5,12 +5,13 @@
       1.1996, 
       1.3464
     ], 
-    "gph": 635.9, 
     "triple_inshore": [
       0.7087, 
       0.9686, 
       1.1252
-    ]
+    ], 
+    "gph": 635.9, 
+    "osn": 619.7
   }, 
   "sailnumber": "NED7636SH", 
   "name": "Bolocan", 
@@ -25,10 +26,12 @@
       "spinnaker": 79.9, 
       "loa": 11.01, 
       "draft": 1.98, 
+      "wetted_surface": 27.3, 
       "main": 45.6, 
       "genoa": 23.4, 
       "displacement": 5311.0, 
-      "spinnaker_asym": 78.0
+      "spinnaker_asym": 78.0, 
+      "crew": 170.0
     }, 
     "year": "1989"
   }, 

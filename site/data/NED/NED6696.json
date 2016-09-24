@@ -5,12 +5,13 @@
       1.1876, 
       1.3412
     ], 
-    "gph": 642.2, 
     "triple_inshore": [
       0.7053, 
       0.9682, 
       1.1291
-    ]
+    ], 
+    "gph": 642.2, 
+    "osn": 623.7
   }, 
   "sailnumber": "NED6696", 
   "name": "NEXT BEST", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.1, 
       "loa": 10.045, 
       "draft": 2.17, 
+      "wetted_surface": 23.6, 
       "main": 36.2, 
       "genoa": 25.2, 
       "displacement": 4374.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 605.0
     }, 
     "year": "1995"
   }, 

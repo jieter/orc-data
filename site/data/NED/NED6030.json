@@ -5,12 +5,13 @@
       1.0566, 
       1.2048
     ], 
-    "gph": 723.5, 
     "triple_inshore": [
       0.6155, 
       0.8305, 
       0.9804
-    ]
+    ], 
+    "gph": 723.5, 
+    "osn": 704.2
   }, 
   "sailnumber": "NED6030", 
   "name": "STENTOR", 
@@ -25,10 +26,12 @@
       "spinnaker": 122.0, 
       "loa": 11.62, 
       "draft": 1.5, 
+      "wetted_surface": 34.2, 
       "main": 37.1, 
       "genoa": 46.2, 
       "displacement": 11955.0, 
-      "spinnaker_asym": 107.0
+      "spinnaker_asym": 107.0, 
+      "crew": 685.0
     }, 
     "year": "1984"
   }, 

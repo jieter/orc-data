@@ -5,12 +5,13 @@
       1.2557, 
       1.4219
     ], 
-    "gph": 609.5, 
     "triple_inshore": [
       0.7314, 
       1.0119, 
       1.181
-    ]
+    ], 
+    "gph": 609.5, 
+    "osn": 592.2
   }, 
   "sailnumber": "ITA16960", 
   "name": "SIBILLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.7, 
       "loa": 11.245, 
       "draft": 2.27, 
+      "wetted_surface": 26.9, 
       "main": 41.0, 
       "genoa": 32.8, 
       "displacement": 5226.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 600.0
     }, 
     "year": "2011"
   }, 

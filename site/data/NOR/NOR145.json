@@ -5,12 +5,13 @@
       0.9631, 
       1.1148
     ], 
-    "gph": 800.2, 
     "triple_inshore": [
       0.5467, 
       0.7727, 
       0.9272
-    ]
+    ], 
+    "gph": 800.2, 
+    "osn": 773.1
   }, 
   "sailnumber": "NOR145", 
   "name": "Kismet", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.28, 
       "draft": 1.33, 
+      "wetted_surface": 13.5, 
       "main": 19.3, 
       "genoa": 8.2, 
       "displacement": 2302.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 309.0
     }, 
     "year": "1943"
   }, 

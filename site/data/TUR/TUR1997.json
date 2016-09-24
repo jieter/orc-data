@@ -5,12 +5,13 @@
       1.1793, 
       1.3891
     ], 
-    "gph": 646.3, 
     "triple_inshore": [
       0.6927, 
       0.9454, 
       1.1148
-    ]
+    ], 
+    "gph": 646.3, 
+    "osn": 625.3
   }, 
   "sailnumber": "TUR1997", 
   "name": "MODAFEN", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 7.5, 
       "draft": 1.95, 
+      "wetted_surface": 14.2, 
       "main": 21.3, 
       "genoa": 15.1, 
       "displacement": 1111.0, 
-      "spinnaker_asym": 52.0
+      "spinnaker_asym": 52.0, 
+      "crew": 415.0
     }, 
     "year": "2003"
   }, 

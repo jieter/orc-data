@@ -5,12 +5,13 @@
       1.1407, 
       1.291
     ], 
-    "gph": 669.4, 
     "triple_inshore": [
       0.6728, 
       0.9242, 
       1.085
-    ]
+    ], 
+    "gph": 669.4, 
+    "osn": 650.1
   }, 
   "sailnumber": "NED8342", 
   "name": "Xanthe", 
@@ -25,10 +26,12 @@
       "spinnaker": 70.2, 
       "loa": 10.173, 
       "draft": 1.9, 
+      "wetted_surface": 22.6, 
       "main": 35.8, 
       "genoa": 22.1, 
       "displacement": 4704.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1988"
   }, 

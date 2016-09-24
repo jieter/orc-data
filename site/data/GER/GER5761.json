@@ -5,12 +5,13 @@
       1.2537, 
       1.4224
     ], 
-    "gph": 608.5, 
     "triple_inshore": [
       0.7379, 
       1.0089, 
       1.1877
-    ]
+    ], 
+    "gph": 608.5, 
+    "osn": 592.3
   }, 
   "sailnumber": "GER5761", 
   "name": "CLAXPAX", 
@@ -25,10 +26,12 @@
       "spinnaker": 119.2, 
       "loa": 12.495, 
       "draft": 2.14, 
+      "wetted_surface": 32.1, 
       "main": 40.9, 
       "genoa": 56.0, 
       "displacement": 8111.0, 
-      "spinnaker_asym": 119.0
+      "spinnaker_asym": 119.0, 
+      "crew": 765.0
     }, 
     "year": "1991"
   }, 

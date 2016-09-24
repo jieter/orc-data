@@ -5,12 +5,13 @@
       1.2059, 
       1.4284
     ], 
-    "gph": 642.9, 
     "triple_inshore": [
       0.6556, 
       0.9379, 
       1.1505
-    ]
+    ], 
+    "gph": 642.9, 
+    "osn": 621.5
   }, 
   "sailnumber": "CRO2208", 
   "name": "Marina Hramina 54", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.734, 
       "draft": 2.11, 
+      "wetted_surface": 46.4, 
       "main": 44.3, 
       "genoa": 47.5, 
       "displacement": 12600.0, 
-      "spinnaker_asym": 143.0
+      "spinnaker_asym": 143.0, 
+      "crew": 945.0
     }, 
     "year": "2014"
   }, 

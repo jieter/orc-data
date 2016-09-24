@@ -5,12 +5,13 @@
       1.2057, 
       1.38
     ], 
-    "gph": 636.7, 
     "triple_inshore": [
       0.6927, 
       0.958, 
       1.1394
-    ]
+    ], 
+    "gph": 636.7, 
+    "osn": 617.3
   }, 
   "sailnumber": "GRE1581", 
   "name": "VENCEREMOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.913, 
       "draft": 2.06, 
+      "wetted_surface": 32.5, 
       "main": 45.3, 
       "genoa": 33.2, 
       "displacement": 7900.0, 
-      "spinnaker_asym": 103.0
+      "spinnaker_asym": 103.0, 
+      "crew": 730.0
     }, 
     "year": "2002"
   }, 

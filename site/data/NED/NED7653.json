@@ -5,12 +5,13 @@
       1.2166, 
       1.3704
     ], 
-    "gph": 626.4, 
     "triple_inshore": [
       0.7217, 
       0.9832, 
       1.149
-    ]
+    ], 
+    "gph": 626.4, 
+    "osn": 609.8
   }, 
   "sailnumber": "NED7653", 
   "name": "grote Gemene Deler", 
@@ -25,10 +26,12 @@
       "spinnaker": 91.4, 
       "loa": 10.972, 
       "draft": 2.0, 
+      "wetted_surface": 28.8, 
       "main": 40.5, 
       "genoa": 46.1, 
       "displacement": 6710.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 693.0
     }, 
     "year": "2000"
   }, 

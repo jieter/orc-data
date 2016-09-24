@@ -5,12 +5,13 @@
       1.1653, 
       1.3072
     ], 
-    "gph": 653.5, 
     "triple_inshore": [
       0.6937, 
       0.9367, 
       1.0752
-    ]
+    ], 
+    "gph": 653.5, 
+    "osn": 636.3
   }, 
   "sailnumber": "SUI17", 
   "name": "GILBERTE J", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 9.61, 
       "draft": 1.62, 
+      "wetted_surface": 20.8, 
       "main": 29.8, 
       "genoa": 24.8, 
       "displacement": 3730.0, 
-      "spinnaker_asym": 93.0
+      "spinnaker_asym": 93.0, 
+      "crew": 525.0
     }, 
     "year": "2009"
   }, 

@@ -5,12 +5,13 @@
       1.1374, 
       1.2975
     ], 
-    "gph": 673.2, 
     "triple_inshore": [
       0.6625, 
       0.9197, 
       1.0825
-    ]
+    ], 
+    "gph": 673.2, 
+    "osn": 651.9
   }, 
   "sailnumber": "NED6431", 
   "name": "CHASSEUR", 
@@ -25,10 +26,12 @@
       "spinnaker": 60.5, 
       "loa": 9.49, 
       "draft": 1.92, 
+      "wetted_surface": 22.0, 
       "main": 25.0, 
       "genoa": 29.9, 
       "displacement": 3679.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 550.0
     }, 
     "year": "1998"
   }, 

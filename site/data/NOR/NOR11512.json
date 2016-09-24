@@ -5,12 +5,13 @@
       1.2214, 
       1.3705
     ], 
-    "gph": 622.8, 
     "triple_inshore": [
       0.7281, 
       0.9853, 
       1.1451
-    ]
+    ], 
+    "gph": 622.8, 
+    "osn": 608.0
   }, 
   "sailnumber": "NOR11512", 
   "name": "Tolama", 
@@ -25,10 +26,12 @@
       "spinnaker": 92.3, 
       "loa": 10.95, 
       "draft": 1.99, 
+      "wetted_surface": 28.7, 
       "main": 43.3, 
       "genoa": 47.4, 
       "displacement": 6575.0, 
-      "spinnaker_asym": 89.0
+      "spinnaker_asym": 89.0, 
+      "crew": 685.0
     }, 
     "year": "2000"
   }, 

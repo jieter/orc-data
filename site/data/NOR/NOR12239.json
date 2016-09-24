@@ -5,12 +5,13 @@
       1.2268, 
       1.3955
     ], 
-    "gph": 624.9, 
     "triple_inshore": [
       0.7088, 
       0.9766, 
       1.1439
-    ]
+    ], 
+    "gph": 624.9, 
+    "osn": 606.2
   }, 
   "sailnumber": "NOR12239", 
   "name": "Anima", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 11.35, 
       "draft": 1.98, 
+      "wetted_surface": 31.0, 
       "main": 44.4, 
       "genoa": 32.3, 
       "displacement": 6526.0, 
-      "spinnaker_asym": 103.0
+      "spinnaker_asym": 103.0, 
+      "crew": 738.0
     }, 
     "year": "2005"
   }, 

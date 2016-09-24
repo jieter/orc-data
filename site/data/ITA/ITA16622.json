@@ -5,12 +5,13 @@
       1.2385, 
       1.419
     ], 
-    "gph": 612.0, 
     "triple_inshore": [
       0.7336, 
       0.9963, 
       1.1716
-    ]
+    ], 
+    "gph": 612.0, 
+    "osn": 598.8
   }, 
   "sailnumber": "ITA16622", 
   "name": "MORGANA", 
@@ -25,10 +26,12 @@
       "spinnaker": 110.4, 
       "loa": 9.99, 
       "draft": 2.08, 
+      "wetted_surface": 28.3, 
       "main": 42.5, 
       "genoa": 27.2, 
       "displacement": 5600.0, 
-      "spinnaker_asym": 118.0
+      "spinnaker_asym": 118.0, 
+      "crew": 500.0
     }, 
     "year": "2010"
   }, 

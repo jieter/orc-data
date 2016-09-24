@@ -5,12 +5,13 @@
       1.2986, 
       1.466
     ], 
-    "gph": 587.0, 
     "triple_inshore": [
       0.7688, 
       1.0509, 
       1.2233
-    ]
+    ], 
+    "gph": 587.0, 
+    "osn": 571.2
   }, 
   "sailnumber": "ESP5711", 
   "name": "SIRADELLA", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.2, 
       "loa": 12.1, 
       "draft": 2.41, 
+      "wetted_surface": 30.7, 
       "main": 49.5, 
       "genoa": 48.0, 
       "displacement": 6475.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 735.0
     }, 
     "year": "2000"
   }, 

@@ -5,12 +5,13 @@
       1.2029, 
       1.3626
     ], 
-    "gph": 635.9, 
     "triple_inshore": [
       0.7038, 
       0.9733, 
       1.1422
-    ]
+    ], 
+    "gph": 635.9, 
+    "osn": 617.4
   }, 
   "sailnumber": "NOR9999", 
   "name": "The Target", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.9, 
       "loa": 11.0, 
       "draft": 2.25, 
+      "wetted_surface": 27.1, 
       "main": 40.5, 
       "genoa": 40.4, 
       "displacement": 5459.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 661.0
     }, 
     "year": "1998"
   }, 

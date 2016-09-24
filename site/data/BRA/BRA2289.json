@@ -5,12 +5,13 @@
       1.2653, 
       1.4245
     ], 
-    "gph": 602.8, 
     "triple_inshore": [
       0.7476, 
       1.0202, 
       1.1923
-    ]
+    ], 
+    "gph": 602.8, 
+    "osn": 587.0
   }, 
   "sailnumber": "BRA2289", 
   "name": "DOURADO", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.7, 
       "loa": 11.924, 
       "draft": 2.44, 
+      "wetted_surface": 32.0, 
       "main": 48.5, 
       "genoa": 52.2, 
       "displacement": 7639.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 700.0
     }, 
     "year": "1997"
   }, 

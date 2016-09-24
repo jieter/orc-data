@@ -5,12 +5,13 @@
       1.2136, 
       1.3677
     ], 
-    "gph": 628.3, 
     "triple_inshore": [
       0.7199, 
       0.9846, 
       1.1466
-    ]
+    ], 
+    "gph": 628.3, 
+    "osn": 611.3
   }, 
   "sailnumber": "GRE970", 
   "name": "PEGA", 
@@ -25,10 +26,12 @@
       "spinnaker": 78.5, 
       "loa": 10.72, 
       "draft": 2.24, 
+      "wetted_surface": 26.9, 
       "main": 39.5, 
       "genoa": 39.2, 
       "displacement": 5374.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 640.0
     }, 
     "year": "1993"
   }, 

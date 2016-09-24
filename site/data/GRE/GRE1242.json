@@ -5,12 +5,13 @@
       1.0819, 
       1.2298
     ], 
-    "gph": 710.7, 
     "triple_inshore": [
       0.6198, 
       0.8687, 
       1.0208
-    ]
+    ], 
+    "gph": 710.7, 
+    "osn": 688.3
   }, 
   "sailnumber": "GRE1242", 
   "name": "ODALISKI", 
@@ -25,10 +26,12 @@
       "spinnaker": 61.5, 
       "loa": 9.45, 
       "draft": 1.71, 
+      "wetted_surface": 20.3, 
       "main": 28.8, 
       "genoa": 25.8, 
       "displacement": 3900.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 518.0
     }, 
     "year": "1999"
   }, 

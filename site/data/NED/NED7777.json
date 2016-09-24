@@ -5,12 +5,13 @@
       1.3668, 
       1.559
     ], 
-    "gph": 559.9, 
     "triple_inshore": [
       0.7934, 
       1.0979, 
       1.2943
-    ]
+    ], 
+    "gph": 559.9, 
+    "osn": 543.9
   }, 
   "sailnumber": "NED7777", 
   "name": "Moving Intelligence", 
@@ -25,10 +26,12 @@
       "spinnaker": 154.9, 
       "loa": 13.698, 
       "draft": 2.55, 
+      "wetted_surface": 39.5, 
       "main": 65.5, 
       "genoa": 46.6, 
       "displacement": 9891.0, 
-      "spinnaker_asym": 153.0
+      "spinnaker_asym": 153.0, 
+      "crew": 850.0
     }, 
     "year": "2006"
   }, 

@@ -5,12 +5,13 @@
       1.3764, 
       1.547
     ], 
-    "gph": 552.5, 
     "triple_inshore": [
       0.8213, 
       1.109, 
       1.2832
-    ]
+    ], 
+    "gph": 552.5, 
+    "osn": 539.0
   }, 
   "sailnumber": "NOR13853", 
   "name": "Matchless 2", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.73, 
       "draft": 2.71, 
+      "wetted_surface": 36.9, 
       "main": 70.7, 
       "genoa": 43.8, 
       "displacement": 8635.0, 
-      "spinnaker_asym": 144.0
+      "spinnaker_asym": 144.0, 
+      "crew": 897.0
     }, 
     "year": "2002"
   }, 

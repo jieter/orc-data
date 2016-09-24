@@ -5,12 +5,13 @@
       1.2217, 
       1.3899
     ], 
-    "gph": 625.4, 
     "triple_inshore": [
       0.718, 
       0.9942, 
       1.1641
-    ]
+    ], 
+    "gph": 625.4, 
+    "osn": 606.5
   }, 
   "sailnumber": "ITA16712", 
   "name": "ANGRY RED", 
@@ -25,10 +26,12 @@
       "spinnaker": 85.7, 
       "loa": 9.979, 
       "draft": 2.26, 
+      "wetted_surface": 23.9, 
       "main": 35.2, 
       "genoa": 29.1, 
       "displacement": 4227.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 580.0
     }, 
     "year": "2010"
   }, 

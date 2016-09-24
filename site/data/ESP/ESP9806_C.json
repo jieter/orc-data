@@ -5,12 +5,13 @@
       1.4107, 
       1.6502
     ], 
-    "gph": 544.2, 
     "triple_inshore": [
       0.804, 
       1.1272, 
       1.3358
-    ]
+    ], 
+    "gph": 544.2, 
+    "osn": 526.5
   }, 
   "sailnumber": "ESP9806_C", 
   "name": "ATZAVARA 4", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.18, 
       "draft": 3.01, 
+      "wetted_surface": 36.8, 
       "main": 63.2, 
       "genoa": 35.3, 
       "displacement": 5395.0, 
-      "spinnaker_asym": 147.0
+      "spinnaker_asym": 147.0, 
+      "crew": 160.0
     }, 
     "year": "2010"
   }, 

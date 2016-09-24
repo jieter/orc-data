@@ -5,12 +5,13 @@
       1.1441, 
       1.292
     ], 
-    "gph": 668.3, 
     "triple_inshore": [
       0.6702, 
       0.9243, 
       1.0813
-    ]
+    ], 
+    "gph": 668.3, 
+    "osn": 649.4
   }, 
   "sailnumber": "ITA17135", 
   "name": "KARTIKA", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.7, 
       "loa": 10.43, 
       "draft": 1.85, 
+      "wetted_surface": 24.8, 
       "main": 27.8, 
       "genoa": 42.3, 
       "displacement": 5200.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 470.0
     }, 
     "year": "2002"
   }, 

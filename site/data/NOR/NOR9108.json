@@ -5,12 +5,13 @@
       1.1088, 
       1.2464
     ], 
-    "gph": 687.1, 
     "triple_inshore": [
       0.6593, 
       0.8985, 
       1.04
-    ]
+    ], 
+    "gph": 687.1, 
+    "osn": 668.9
   }, 
   "sailnumber": "NOR9108", 
   "name": "Hap", 
@@ -25,10 +26,12 @@
       "spinnaker": 54.4, 
       "loa": 8.75, 
       "draft": 1.6, 
+      "wetted_surface": 19.4, 
       "main": 28.1, 
       "genoa": 25.9, 
       "displacement": 3416.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 516.0
     }, 
     "year": "1997"
   }, 

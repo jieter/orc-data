@@ -5,12 +5,13 @@
       1.1007, 
       1.2587
     ], 
-    "gph": 697.6, 
     "triple_inshore": [
       0.6359, 
       0.886, 
       1.0552
-    ]
+    ], 
+    "gph": 697.6, 
+    "osn": 674.5
   }, 
   "sailnumber": "GER5368", 
   "name": "CAELESTIA", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.0, 
       "loa": 9.44, 
       "draft": 2.0, 
+      "wetted_surface": 22.7, 
       "main": 25.2, 
       "genoa": 23.1, 
       "displacement": 4476.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2001"
   }, 

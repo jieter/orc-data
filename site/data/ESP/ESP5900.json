@@ -5,12 +5,13 @@
       1.352, 
       1.5301
     ], 
-    "gph": 563.2, 
     "triple_inshore": [
       0.8062, 
       1.096, 
       1.2722
-    ]
+    ], 
+    "gph": 563.2, 
+    "osn": 547.9
   }, 
   "sailnumber": "ESP5900", 
   "name": "ROCINANTE IV", 
@@ -25,10 +26,12 @@
       "spinnaker": 158.8, 
       "loa": 12.773, 
       "draft": 2.51, 
+      "wetted_surface": 33.4, 
       "main": 55.5, 
       "genoa": 46.3, 
       "displacement": 7547.0, 
-      "spinnaker_asym": 124.0
+      "spinnaker_asym": 124.0, 
+      "crew": 700.0
     }, 
     "year": "2001"
   }, 

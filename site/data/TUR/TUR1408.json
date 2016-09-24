@@ -5,12 +5,13 @@
       1.0679, 
       1.2445
     ], 
-    "gph": 715.2, 
     "triple_inshore": [
       0.6239, 
       0.8707, 
       1.0322
-    ]
+    ], 
+    "gph": 715.2, 
+    "osn": 691.5
   }, 
   "sailnumber": "TUR1408", 
   "name": "PERSEUS", 
@@ -25,10 +26,12 @@
       "spinnaker": 42.6, 
       "loa": 7.64, 
       "draft": 1.79, 
+      "wetted_surface": 13.5, 
       "main": 18.2, 
       "genoa": 11.1, 
       "displacement": 1400.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 425.0
     }, 
     "year": "1997"
   }, 

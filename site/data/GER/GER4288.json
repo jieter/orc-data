@@ -5,12 +5,13 @@
       1.2431, 
       1.4132
     ], 
-    "gph": 612.7, 
     "triple_inshore": [
       0.733, 
       1.0015, 
       1.1643
-    ]
+    ], 
+    "gph": 612.7, 
+    "osn": 597.3
   }, 
   "sailnumber": "GER4288", 
   "name": "WILD AT HEART", 
@@ -25,10 +26,12 @@
       "spinnaker": 68.0, 
       "loa": 10.632, 
       "draft": 1.99, 
+      "wetted_surface": 24.3, 
       "main": 43.2, 
       "genoa": 28.7, 
       "displacement": 3879.0, 
-      "spinnaker_asym": 69.0
+      "spinnaker_asym": 69.0, 
+      "crew": 570.0
     }, 
     "year": "1991"
   }, 

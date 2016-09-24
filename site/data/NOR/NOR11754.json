@@ -5,12 +5,13 @@
       1.2838, 
       1.4471
     ], 
-    "gph": 593.5, 
     "triple_inshore": [
       0.7605, 
       1.0379, 
       1.2087
-    ]
+    ], 
+    "gph": 593.5, 
+    "osn": 578.2
   }, 
   "sailnumber": "NOR11754", 
   "name": "Flyfisk II", 
@@ -25,10 +26,12 @@
       "spinnaker": 102.1, 
       "loa": 11.99, 
       "draft": 2.41, 
+      "wetted_surface": 31.1, 
       "main": 50.8, 
       "genoa": 49.2, 
       "displacement": 6983.0, 
-      "spinnaker_asym": 94.0
+      "spinnaker_asym": 94.0, 
+      "crew": 732.0
     }, 
     "year": "1997"
   }, 

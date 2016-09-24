@@ -5,12 +5,13 @@
       0.9973, 
       1.1089
     ], 
-    "gph": 758.3, 
     "triple_inshore": [
       0.6162, 
       0.8238, 
       0.9321
-    ]
+    ], 
+    "gph": 758.3, 
+    "osn": 738.7
   }, 
   "sailnumber": "GER3628", 
   "name": "TROPHYFEE", 
@@ -25,10 +26,12 @@
       "spinnaker": 29.2, 
       "loa": 6.955, 
       "draft": 1.43, 
+      "wetted_surface": 10.5, 
       "main": 15.6, 
       "genoa": 15.2, 
       "displacement": 1254.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 340.0
     }, 
     "year": "1977"
   }, 

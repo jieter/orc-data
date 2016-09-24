@@ -5,12 +5,13 @@
       1.0851, 
       1.2332
     ], 
-    "gph": 706.2, 
     "triple_inshore": [
       0.627, 
       0.8684, 
       1.0249
-    ]
+    ], 
+    "gph": 706.2, 
+    "osn": 686.2
   }, 
   "sailnumber": "NED4726", 
   "name": "LOTTE-ELISABETH", 
@@ -25,10 +26,12 @@
       "spinnaker": 64.0, 
       "loa": 9.9, 
       "draft": 1.46, 
+      "wetted_surface": 23.6, 
       "main": 30.3, 
       "genoa": 32.7, 
       "displacement": 4721.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 547.0
     }, 
     "year": "1991"
   }, 

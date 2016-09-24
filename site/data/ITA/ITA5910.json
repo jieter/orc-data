@@ -5,12 +5,13 @@
       1.0386, 
       1.1824
     ], 
-    "gph": 736.0, 
     "triple_inshore": [
       0.611, 
       0.8385, 
       0.9894
-    ]
+    ], 
+    "gph": 736.0, 
+    "osn": 713.9
   }, 
   "sailnumber": "ITA5910", 
   "name": "PIERROT LUNAIRE", 
@@ -25,10 +26,12 @@
       "spinnaker": 58.3, 
       "loa": 9.16, 
       "draft": 1.74, 
+      "wetted_surface": 18.3, 
       "main": 16.1, 
       "genoa": 31.4, 
       "displacement": 3250.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 400.0
     }, 
     "year": "1973"
   }, 

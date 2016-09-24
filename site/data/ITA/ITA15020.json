@@ -5,12 +5,13 @@
       1.2181, 
       1.379
     ], 
-    "gph": 628.0, 
     "triple_inshore": [
       0.712, 
       0.9803, 
       1.1531
-    ]
+    ], 
+    "gph": 628.0, 
+    "osn": 609.9
   }, 
   "sailnumber": "ITA15020", 
   "name": "KRYOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 94.7, 
       "loa": 11.292, 
       "draft": 2.19, 
+      "wetted_surface": 30.8, 
       "main": 46.0, 
       "genoa": 33.6, 
       "displacement": 7088.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 660.0
     }, 
     "year": "2005"
   }, 

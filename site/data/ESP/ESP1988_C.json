@@ -5,12 +5,13 @@
       1.2236, 
       1.3706
     ], 
-    "gph": 622.7, 
     "triple_inshore": [
       0.7314, 
       0.9944, 
       1.1486
-    ]
+    ], 
+    "gph": 622.7, 
+    "osn": 605.7
   }, 
   "sailnumber": "ESP1988_C", 
   "name": "MAGIE II", 
@@ -25,10 +26,12 @@
       "spinnaker": 116.0, 
       "loa": 12.07, 
       "draft": 2.21, 
+      "wetted_surface": 29.5, 
       "main": 36.2, 
       "genoa": 49.0, 
       "displacement": 6088.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 675.0
     }, 
     "year": "1977"
   }, 

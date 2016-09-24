@@ -5,12 +5,13 @@
       1.2807, 
       1.4661
     ], 
-    "gph": 598.8, 
     "triple_inshore": [
       0.7252, 
       1.0133, 
       1.2027
-    ]
+    ], 
+    "gph": 598.8, 
+    "osn": 584.1
   }, 
   "sailnumber": "ESP9307", 
   "name": "EL BANDIDO DOS", 
@@ -25,10 +26,12 @@
       "spinnaker": 128.3, 
       "loa": 12.59, 
       "draft": 2.09, 
+      "wetted_surface": 37.1, 
       "main": 41.6, 
       "genoa": 46.5, 
       "displacement": 8308.0, 
-      "spinnaker_asym": 132.0
+      "spinnaker_asym": 132.0, 
+      "crew": 800.0
     }, 
     "year": "2006"
   }, 

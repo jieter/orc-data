@@ -5,12 +5,13 @@
       0.9984, 
       1.1227
     ], 
-    "gph": 760.7, 
     "triple_inshore": [
       0.6024, 
       0.8158, 
       0.9314
-    ]
+    ], 
+    "gph": 760.7, 
+    "osn": 740.3
   }, 
   "sailnumber": "ESP7479_C", 
   "name": "SQUID", 
@@ -25,10 +26,12 @@
       "spinnaker": 32.5, 
       "loa": 6.578, 
       "draft": 1.16, 
+      "wetted_surface": 12.0, 
       "main": 15.8, 
       "genoa": 15.7, 
       "displacement": 1435.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 350.0
     }, 
     "year": "1986"
   }, 

@@ -5,12 +5,13 @@
       1.0381, 
       1.2075
     ], 
-    "gph": 741.1, 
     "triple_inshore": [
       0.591, 
       0.8273, 
       1.0066
-    ]
+    ], 
+    "gph": 741.1, 
+    "osn": 716.5
   }, 
   "sailnumber": "GRE007", 
   "name": "CALYPSO", 
@@ -25,10 +26,12 @@
       "spinnaker": 66.2, 
       "loa": 9.785, 
       "draft": 1.87, 
+      "wetted_surface": 23.3, 
       "main": 21.8, 
       "genoa": 33.5, 
       "displacement": 5261.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "1981"
   }, 

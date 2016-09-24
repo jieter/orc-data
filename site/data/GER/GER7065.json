@@ -5,12 +5,13 @@
       1.2335, 
       1.3989
     ], 
-    "gph": 620.3, 
     "triple_inshore": [
       0.7153, 
       0.9781, 
       1.1496
-    ]
+    ], 
+    "gph": 620.3, 
+    "osn": 604.2
   }, 
   "sailnumber": "GER7065", 
   "name": "AMELI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.8, 
       "draft": 2.07, 
+      "wetted_surface": 35.3, 
       "main": 45.9, 
       "genoa": 52.1, 
       "displacement": 9041.0, 
-      "spinnaker_asym": 111.0
+      "spinnaker_asym": 111.0, 
+      "crew": 350.0
     }, 
     "year": "1998"
   }, 

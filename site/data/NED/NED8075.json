@@ -5,12 +5,13 @@
       1.3259, 
       1.4907
     ], 
-    "gph": 576.8, 
     "triple_inshore": [
       0.7745, 
       1.0565, 
       1.2283
-    ]
+    ], 
+    "gph": 576.8, 
+    "osn": 561.7
   }, 
   "sailnumber": "NED8075", 
   "name": "Zeehond", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.634, 
       "draft": 2.21, 
+      "wetted_surface": 44.3, 
       "main": 61.8, 
       "genoa": 62.2, 
       "displacement": 13673.0, 
-      "spinnaker_asym": 201.0
+      "spinnaker_asym": 201.0, 
+      "crew": 944.0
     }, 
     "year": "2009"
   }, 

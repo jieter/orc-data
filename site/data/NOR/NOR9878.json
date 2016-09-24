@@ -5,12 +5,13 @@
       1.153, 
       1.3025
     ], 
-    "gph": 662.1, 
     "triple_inshore": [
       0.6813, 
       0.9343, 
       1.0876
-    ]
+    ], 
+    "gph": 662.1, 
+    "osn": 643.3
   }, 
   "sailnumber": "NOR9878", 
   "name": "Jolly Yacht", 
@@ -25,10 +26,12 @@
       "spinnaker": 63.3, 
       "loa": 9.85, 
       "draft": 1.93, 
+      "wetted_surface": 22.2, 
       "main": 27.6, 
       "genoa": 32.6, 
       "displacement": 3821.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 586.0
     }, 
     "year": "1998"
   }, 

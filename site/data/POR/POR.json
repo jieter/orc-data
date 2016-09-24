@@ -5,12 +5,13 @@
       1.2331, 
       1.4204
     ], 
-    "gph": 623.8, 
     "triple_inshore": [
       0.6955, 
       0.9665, 
       1.1506
-    ]
+    ], 
+    "gph": 623.8, 
+    "osn": 606.3
   }, 
   "sailnumber": "POR", 
   "name": "CLEOPATRA", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 13.41, 
       "draft": 2.02, 
+      "wetted_surface": 39.6, 
       "main": 47.3, 
       "genoa": 55.8, 
       "displacement": 10345.0, 
-      "spinnaker_asym": 110.0
+      "spinnaker_asym": 110.0, 
+      "crew": 560.0
     }, 
     "year": "2002"
   }, 

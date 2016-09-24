@@ -5,12 +5,13 @@
       1.1354, 
       1.2972
     ], 
-    "gph": 676.2, 
     "triple_inshore": [
       0.6536, 
       0.9125, 
       1.0832
-    ]
+    ], 
+    "gph": 676.2, 
+    "osn": 654.9
   }, 
   "sailnumber": "CRO878", 
   "name": "Sol", 
@@ -25,10 +26,12 @@
       "spinnaker": 67.7, 
       "loa": 10.025, 
       "draft": 1.91, 
+      "wetted_surface": 24.0, 
       "main": 31.9, 
       "genoa": 32.3, 
       "displacement": 4924.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 500.0
     }, 
     "year": "2003"
   }, 

@@ -5,12 +5,13 @@
       1.2952, 
       1.4453
     ], 
-    "gph": 583.6, 
     "triple_inshore": [
       0.7789, 
       1.0415, 
       1.1994
-    ]
+    ], 
+    "gph": 583.6, 
+    "osn": 573.6
   }, 
   "sailnumber": "GER6097", 
   "name": "KONNICHIWA", 
@@ -25,10 +26,12 @@
       "spinnaker": 138.8, 
       "loa": 12.12, 
       "draft": 1.86, 
+      "wetted_surface": 30.3, 
       "main": 49.6, 
       "genoa": 40.5, 
       "displacement": 6798.0, 
-      "spinnaker_asym": 133.0
+      "spinnaker_asym": 133.0, 
+      "crew": 600.0
     }, 
     "year": "2004"
   }, 

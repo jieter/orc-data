@@ -5,12 +5,13 @@
       1.2312, 
       1.4084
     ], 
-    "gph": 621.9, 
     "triple_inshore": [
       0.7152, 
       0.9907, 
       1.1782
-    ]
+    ], 
+    "gph": 621.9, 
+    "osn": 602.9
   }, 
   "sailnumber": "FRA28384", 
   "name": "SOLEIL RAPIDE", 
@@ -25,10 +26,12 @@
       "spinnaker": 107.1, 
       "loa": 11.75, 
       "draft": 2.44, 
+      "wetted_surface": 33.6, 
       "main": 45.9, 
       "genoa": 41.5, 
       "displacement": 7856.0, 
-      "spinnaker_asym": 85.0
+      "spinnaker_asym": 85.0, 
+      "crew": 750.0
     }, 
     "year": "1998"
   }, 

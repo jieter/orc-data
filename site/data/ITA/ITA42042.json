@@ -5,12 +5,13 @@
       1.3794, 
       1.5583
     ], 
-    "gph": 553.9, 
     "triple_inshore": [
       0.808, 
       1.1042, 
       1.2675
-    ]
+    ], 
+    "gph": 553.9, 
+    "osn": 539.0
   }, 
   "sailnumber": "ITA42042", 
   "name": "HAPPY HOUR", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.84, 
       "draft": 2.57, 
+      "wetted_surface": 35.6, 
       "main": 58.6, 
       "genoa": 44.4, 
       "displacement": 6900.0, 
-      "spinnaker_asym": 149.0
+      "spinnaker_asym": 149.0, 
+      "crew": 710.0
     }, 
     "year": "2007"
   }, 

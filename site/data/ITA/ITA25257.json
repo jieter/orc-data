@@ -5,12 +5,13 @@
       1.1095, 
       1.2503
     ], 
-    "gph": 680.2, 
     "triple_inshore": [
       0.6868, 
       0.911, 
       1.0309
-    ]
+    ], 
+    "gph": 680.2, 
+    "osn": 662.3
   }, 
   "sailnumber": "ITA25257", 
   "name": "FIVE FOR FIGHTING 3", 
@@ -25,10 +26,12 @@
       "spinnaker": 39.9, 
       "loa": 7.512, 
       "draft": 1.57, 
+      "wetted_surface": 12.2, 
       "main": 21.0, 
       "genoa": 13.2, 
       "displacement": 1310.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 393.0
     }, 
     "year": "1997"
   }, 

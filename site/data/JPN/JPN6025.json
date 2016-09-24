@@ -5,12 +5,13 @@
       1.3091, 
       1.4809
     ], 
-    "gph": 578.9, 
     "triple_inshore": [
       0.7898, 
       1.0598, 
       1.2213
-    ]
+    ], 
+    "gph": 578.9, 
+    "osn": 564.7
   }, 
   "sailnumber": "JPN6025", 
   "name": "SAKURA", 
@@ -25,10 +26,12 @@
       "spinnaker": 80.7, 
       "loa": 11.03, 
       "draft": 2.3, 
+      "wetted_surface": 26.0, 
       "main": 45.2, 
       "genoa": 41.7, 
       "displacement": 4053.0, 
-      "spinnaker_asym": 0.0
+      "spinnaker_asym": 0.0, 
+      "crew": 693.0
     }, 
     "year": "1993"
   }, 

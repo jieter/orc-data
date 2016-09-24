@@ -5,12 +5,13 @@
       1.2259, 
       1.4304
     ], 
-    "gph": 626.4, 
     "triple_inshore": [
       0.6948, 
       0.9707, 
       1.1839
-    ]
+    ], 
+    "gph": 626.4, 
+    "osn": 608.0
   }, 
   "sailnumber": "NOR11147", 
   "name": "Anker VI", 
@@ -25,10 +26,12 @@
       "spinnaker": 0.0, 
       "loa": 12.83, 
       "draft": 1.86, 
+      "wetted_surface": 36.9, 
       "main": 45.8, 
       "genoa": 46.6, 
       "displacement": 10184.0, 
-      "spinnaker_asym": 103.0
+      "spinnaker_asym": 103.0, 
+      "crew": 883.0
     }, 
     "year": "2004"
   }, 
