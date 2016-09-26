@@ -45,7 +45,8 @@ d3.json('index.json', function (response) {
         .enter()
             .append('li').attr('id', function (d) { return 'boat-' + d[0]; })
             .append('a')
-            .attr({href: function (d) { return '#' + d[0]; }, class: 'boat'})
+            .attr('href', function (d) { return '#' + d[0]; })
+            .attr('class', 'boat')
             .on('click', function (d) {
                 display_boat(d[0]);
                 d3.select('.row-offcanvas').classed('active', false);

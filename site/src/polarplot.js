@@ -1,5 +1,5 @@
 var d3 = require('d3');
-require('d3-legend')(d3);
+// require('d3-legend')(d3);
 
 var util = require('./util.js');
 
@@ -17,12 +17,13 @@ module.exports = function polarplot (container) {
     var radius = function () { return Math.min(height() / 2.2 - 20, width()) - 40; };
 
     var svg = d3.select(container).append('svg')
-        .attr({width: width(), height: height()})
-        .append('g')
-        .attr('transform', 'translate(' + 10 + ',' + (height() / 2) + ')');
+        .attr('width', width())
+        .attr('height', height())
+            .append('g')
+                .attr('transform', 'translate(' + 10 + ',' + (height() / 2) + ')');
 
     // radial scale
-    var r = d3.scale.linear().domain([0, 10]).range([0, radius()]);
+    var r = d3.scaleLinear().domain([0, 10]).range([0, radius()]);
 
     // speed rings
     var gr = svg.append('g')
@@ -33,10 +34,10 @@ module.exports = function polarplot (container) {
 
     gr.append('circle').attr('r', r);
 
-    gr.append('text').attr({
-        y: function (d) { return -r(d) - 4; },
-        transform: 'rotate(15)'
-    }).style('text-anchor', 'middle')
+    gr.append('text')
+        .attr('y', function (d) { return -r(d) - 4; })
+        .attr('transform', 'rotate(15)')
+        .style('text-anchor', 'middle')
         .text(function (d) { return d % 2 === 0 ? d + 'kts' : ''; });
 
     // wind direction
@@ -61,29 +62,27 @@ module.exports = function polarplot (container) {
         .attr('class', 'xlabel').call(xaxis);
 
 
-    var line = d3.svg.line.radial()
+    var line = d3.radialLine()
         .radius(function (d) { return r(d[1]); })
         .angle(function (d) { return d[0]; })
-        .interpolate('cardinal');
+        .curve(d3.curveCardinal);
 
     // Plot VMG diamonds
     var scatter = function (shape, size) {
         return function (s) {
-            s.attr({
-                transform: function (d) {
-                    return 'translate(' + (r(d[1]) * Math.sin(d[0])) + ', ' + (r(d[1]) * -Math.cos(d[0])) + ')';
-                },
-                d: d3.svg.symbol().type(shape || 'diamond').size(size || 32)
+            s.attr('transform', function (d) {
+                return 'translate(' + (r(d[1]) * Math.sin(d[0])) + ', ' + (r(d[1]) * -Math.cos(d[0])) + ')';
             });
+            s.attr('d', d3.symbol().type(shape || d3.symbolDiamond).size(size || 32));
         };
     };
-
-    var legend = svg.append('g').attr('class', 'legend');
-
-    var updateLegend = function (sel) {
-        sel.call(d3.legend)
-            .attr('transform', 'translate(' + (width() - 70) + ', ' + (-height() / 2 + 20) + ')');
-    };
+    //
+    // var legend = svg.append('g').attr('class', 'legend');
+    //
+    // var updateLegend = function (sel) {
+    //     sel.call(d3.legend)
+    //         .attr('transform', 'translate(' + (width() - 70) + ', ' + (-height() / 2 + 20) + ')');
+    // };
 
     var plot = function () {};
 
@@ -108,7 +107,6 @@ module.exports = function polarplot (container) {
             // filter points with zero SOG
             series = series.filter(function (a) { return a[1] > 0; });
 
-
             var vmg2sog = function (degrees, vmg) {
                 return [degrees * util.deg2rad, util.vmg2sog(degrees, vmg)];
             }
@@ -125,26 +123,24 @@ module.exports = function polarplot (container) {
         });
 
         var run_points = svg.selectAll('.vmg-run').data(run_data);
-        run_points.enter().append('path').call(tws_series('vmg-run'));
         run_points.exit().remove();
-        run_points.transition().duration(200).call(scatter());
+        run_points
+            .enter().append('path')
+                .call(tws_series('vmg-run'))
+            .merge(run_points)
+                .transition().duration(200).call(scatter());
 
         var lines = svg.selectAll('.line').data(vpp_data);
-        lines.enter().append('path')
-            .call(tws_series('line'))
-            .attr({
-                'data-legend': function (d, i) {
-                    return '' + vpp.speeds[i] + 'kts';
-                },
-                'data-legend-pos': function (d, i) {
-                    return i;
-                }
-            });
-
         lines.exit().remove();
-        lines.transition().duration(200).attr('d', line);
+        lines
+            .enter().append('path')
+                .call(tws_series('line'))
+                .attr('data-legend', function (d, i) { return vpp.speeds[i] + 'kts'; })
+                .attr('data-legend-pos', function (d, i) { return i; })
+            .merge(lines)
+                .transition().duration(200).attr('d', line);
 
-        legend.call(updateLegend);
+        // legend.call(updateLegend);
     };
 
     var highlight;
@@ -165,11 +161,12 @@ module.exports = function polarplot (container) {
         } else {
             highlight = svg.selectAll('.highlight').data([]);
         }
-        highlight.enter().append('path').attr('class', 'highlight ' + (tws ? 'tws-' + tws : ''));
-
         highlight.exit().remove();
-
-        highlight.transition().duration(50).call(scatter('circle', 80));
+        highlight
+            .enter().append('path')
+                .attr('class', 'highlight ' + (tws ? 'tws-' + tws : ''))
+            .merge(highlight)
+                .transition().duration(50).call(scatter(d3.symbolCircle, 80));
     });
 
 

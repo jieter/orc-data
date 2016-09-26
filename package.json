@@ -6,12 +6,13 @@
     "lint": "eslint site/src/ site/index.js"
   },
   "devDependencies": {
-    "browserify": "^10.2.6",
-    "eslint": "^2.7.0",
+    "browserify": "^13.1.0",
+    "eslint": "^3.6.0",
     "eslint-plugin-html": "^1.4.0",
     "exorcist": "^0.4.0"
   },
   "dependencies": {
-    "d3": "^3.5.5"
-  }
+    "d3": "^4.2.6"
+  },
+  "license": "MIT"
 }
