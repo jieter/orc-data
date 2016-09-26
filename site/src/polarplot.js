@@ -67,13 +67,15 @@ module.exports = function polarplot (container) {
         .interpolate('cardinal');
 
     // Plot VMG diamonds
-    var scatter = function (s) {
-        s.attr({
-            transform: function (d) {
-                return 'translate(' + (r(d[1]) * Math.sin(d[0])) + ', ' + (r(d[1]) * -Math.cos(d[0])) + ')';
-            },
-            d: d3.svg.symbol().type('diamond').size(32)
-        });
+    var scatter = function (shape, size) {
+        return function (s) {
+            s.attr({
+                transform: function (d) {
+                    return 'translate(' + (r(d[1]) * Math.sin(d[0])) + ', ' + (r(d[1]) * -Math.cos(d[0])) + ')';
+                },
+                d: d3.svg.symbol().type(shape || 'diamond').size(size || 32)
+            });
+        };
     };
 
     var legend = svg.append('g').attr('class', 'legend');
@@ -125,7 +127,7 @@ module.exports = function polarplot (container) {
         var run_points = svg.selectAll('.vmg-run').data(run_data);
         run_points.enter().append('path').call(tws_series('vmg-run'));
         run_points.exit().remove();
-        run_points.transition().duration(200).call(scatter);
+        run_points.transition().duration(200).call(scatter());
 
         var lines = svg.selectAll('.line').data(vpp_data);
         lines.enter().append('path')
@@ -159,13 +161,15 @@ module.exports = function polarplot (container) {
 
             var speed = vpp[twa][vpp.speeds.indexOf(tws)];
             highlight = svg.selectAll('.highlight').data([[twa * util.deg2rad, speed]]);
+
         } else {
             highlight = svg.selectAll('.highlight').data([]);
         }
-        highlight.enter().append('path').attr('class', 'highlight');
+        highlight.enter().append('path').attr('class', 'highlight ' + (tws ? 'tws-' + tws : ''));
+
         highlight.exit().remove();
 
-        highlight.transition().duration(50).call(scatter);
+        highlight.transition().duration(50).call(scatter('circle', 80));
     });
 
 
