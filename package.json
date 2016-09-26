@@ -12,5 +12,9 @@
   "dependencies": {
     "d3": "^4.2.6"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jieter/orc-data.git"
+  }
 }
