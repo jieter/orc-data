@@ -53,7 +53,7 @@ svg .axis text {
 .meta table {
 	display: inline-block;
 }
-.meta table td {
+.meta table.meta-table td {
 	padding-right: 10px;
 	min-width: 100px;
 }

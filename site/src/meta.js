@@ -19,7 +19,7 @@ function table (data) {
         header += '<td class="meta-label">' + data[0][i] + '</td>';
         contents += '<td>' + data[1][i] + '</td>'
     }
-    return '<table><tr>' + header + '</tr><tr>' + contents + '</tr></table>';
+    return '<table class="meta-table"><tr>' + header + '</tr><tr>' + contents + '</tr></table>';
 }
 
 module.exports = function render_metadata (boat, extended) {

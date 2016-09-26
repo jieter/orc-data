@@ -5,9 +5,6 @@ Van http://orc.org/index.asp?id=44 zijn lijsten te downloaden met daarin gegeven
 Omdat de VPP ook wel zinnig is voor anderen, heb ik dit tooltje gemaakt.
 
 
-
-
-
 ## Columns in `.rms` file:
 
 for `<tws>`:  [6, 8, 10, 12, 14, 16, 20]
@@ -97,3 +94,8 @@ for `<twa>`:  [52, 60, 75, 90, 110, 120, 135, 150]
 - Download de nieuwe RMS-files met `make rms`
 - Converteer naar de juiste site-jsons met `make site`
 - Update jaartal en site, update bundle (`npm run bundle`) en commit.
+
+## TODO
+
+ - allow switching between polar and cartesian axis
+ - allow comparing two boats side by side

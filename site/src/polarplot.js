@@ -24,6 +24,7 @@ module.exports = function polarplot (container) {
 
     // radial scale
     var r = d3.scaleLinear().domain([0, 10]).range([0, radius()]);
+    var x = d3.scaleLinear().domain([0, 180]).range([0, width()]);
 
     // speed rings
     var gr = svg.append('g')
@@ -48,7 +49,9 @@ module.exports = function polarplot (container) {
                 .enter().append('g')
                     .attr('transform', function (d) { return 'rotate(' + d + ')'; });
 
-    graph.append('line').attr({x1: r(1), x2: radius()});
+    graph.append('line')
+        .attr('x1', r(1))
+        .attr('x2', radius());
 
     var xaxis = function (sel) {
         sel.attr('x', radius() + 6)
@@ -164,8 +167,8 @@ module.exports = function polarplot (container) {
         highlight.exit().remove();
         highlight
             .enter().append('path')
-                .attr('class', 'highlight ' + (tws ? 'tws-' + tws : ''))
             .merge(highlight)
+                .attr('class', 'highlight ' + (tws ? 'tws-' + tws : ''))
                 .transition().duration(50).call(scatter(d3.symbolCircle, 80));
     });
 
@@ -175,10 +178,9 @@ module.exports = function polarplot (container) {
         if (width() === originalSize) {
             return;
         }
-        d3.select('svg').attr({
-            width: width(),
-            height: height()
-        });
+        d3.select('svg')
+            .attr('width', width())
+            .attr('height', height());
 
         svg.attr('transform', 'translate(' + 10 + ',' + (height() / 2) + ')');
         r.range([0, radius()]);
@@ -189,10 +191,10 @@ module.exports = function polarplot (container) {
         graph.selectAll('line').attr('x2', radius());
         svg.selectAll('.xlabel').call(xaxis);
 
-        legend.call(updateLegend);
+        // legend.call(updateLegend);
 
         svg.selectAll('.line').transition().duration(200).attr('d', line);
-        svg.selectAll('.vmg-run').transition().duration(200).call(scatter);
+        svg.selectAll('.vmg-run').transition().duration(200).call(scatter());
 
         originalSize = width();
     };
