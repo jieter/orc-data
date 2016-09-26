@@ -1,4 +1,5 @@
 var path = require('path');
+var webpack = require('webpack');
 
 module.exports = {
     entry: 'index.js',
@@ -9,5 +10,8 @@ module.exports = {
         path: path.join(__dirname, 'site'),
         filename: 'bundle.js',
         sourceMapFile: 'bundle.js.map'
-    }
+    },
+    plugins: [
+        new webpack.optimize.UglifyJsPlugin()
+    ]
 };
