@@ -1,17 +1,17 @@
 {
   "rating": {
     "triple_offshore": [
-      0.9273, 
-      1.211, 
-      1.3716
+      0.9274, 
+      1.2111, 
+      1.3717
     ], 
     "triple_inshore": [
       0.7113, 
-      0.973, 
-      1.1307
+      0.9731, 
+      1.1308
     ], 
     "gph": 630.5, 
-    "osn": 613.7
+    "osn": 613.6
   }, 
   "sailnumber": "ITA99807", 
   "name": "UNPOPERGIOCO", 

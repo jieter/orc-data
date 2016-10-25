@@ -18,8 +18,8 @@
   "country": "ESP", 
   "owner": "JOSE MANUEL FERNANDEZ FERNANDEZ", 
   "boat": {
-    "builder": "", 
-    "designer": "PROTOTIPO", 
+    "builder": "X YACHTS", 
+    "designer": "NIEL JEPPESEN", 
     "type": "X - 3/4 TON", 
     "sizes": {
       "beam": 3.34, 
