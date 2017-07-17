@@ -23,9 +23,6 @@ def clean_string(str):
 
 def format_data(data):
     sailnumber = data['SailNo'].replace(u' ', u'').replace(u'-', u'').replace(u'/', u'')
-    if sailnumber[0:3] not in COUNTRIES:
-        print('appending country to sailnumber: %s' % sailnumber, file=sys.stderr)
-        sailnumber = data['country'] + sailnumber
     sailnumber = u"%s/%s" % (data["country"], sailnumber)
 
 
