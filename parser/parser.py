@@ -8,14 +8,10 @@ import pprint
 from .util import log
 
 
-class RMSParseException(Exception):
-    pass
-
-
 def parse_json(filename):
     '''returns a list of dicts containing the data from filename'''
 
-    country = filename.split('/')[1][0:3]
+    country = filename.split('/')[2][0:3]
 
     with open(filename) as rms:
         data = json.load(rms)["rms"]
@@ -29,11 +25,7 @@ def parse_json_glob(pattern):
 
     ret = []
     for filename in glob.glob(pattern):
-        try:
-            data = parse_json(filename)
-        except RMSParseException as e:
-            log('Error parsing %s: %s' % (filename, str(e)))
-            continue
+        data = parse_json(filename)
 
         ret.extend(data)
         log('Loaded %d boats from %s' % (len(data), filename))

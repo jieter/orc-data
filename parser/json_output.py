@@ -22,18 +22,12 @@ def clean_string(str):
 
 
 def format_data(data):
-
     sailnumber = data['SailNo'].replace(u' ', u'').replace(u'-', u'').replace(u'/', u'')
-
     if sailnumber[0:3] not in COUNTRIES:
         print('appending country to sailnumber: %s' % sailnumber, file=sys.stderr)
         sailnumber = data['country'] + sailnumber
-    elif data['country'].upper() not in COUNTRIES:
-        print('Fetched country from sailnumber: %s' % sailnumber, file=sys.stderr)
-        data['country'] = sailnumber[0:3]
-    else:
-        print(data, file=sys.stderr)
-        raise
+    sailnumber = u"%s/%s" % (data["country"], sailnumber)
+
 
     ret = {
         'sailnumber': sailnumber,
@@ -120,7 +114,7 @@ def jsonwriter_site(rmsdata):
 
     # write data to json
     for boat in data:
-        filename = 'site/data/{country}/{sailnumber}.json'.format(**boat)
+        filename = 'site/data/{sailnumber}.json'.format(**boat)
 
         with open(filename, 'w+') as outfile:
             json.dump(boat, outfile, indent=2)
