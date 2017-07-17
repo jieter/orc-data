@@ -23,7 +23,7 @@ def clean_string(str):
 
 def format_data(data):
 
-    sailnumber = clean_string(data['SAILNUMB']).replace(' ', '').replace('-', '').replace('/', '')
+    sailnumber = data['SailNo'].replace(u' ', u'').replace(u'-', u'').replace(u'/', u'')
 
     if sailnumber[0:3] not in COUNTRIES:
         print('appending country to sailnumber: %s' % sailnumber, file=sys.stderr)
@@ -38,29 +38,29 @@ def format_data(data):
     ret = {
         'sailnumber': sailnumber,
         'country': data['country'],
-        'name': clean_string(data['NAME']),
-        'owner': clean_string(data['OWNER']),
+        'name': data['YachtName'],
+        'owner': "-",
         'rating': {
             'gph': float(data['GPH']),
             'osn': float(data['OSN']),
-            'triple_offshore': map(float, [data['OTNLOW'], data['OTNMED'], data['OTNHIG']]),
-            'triple_inshore': map(float, [data['ITNLOW'], data['ITNMED'], data['ITNHIG']]),
+            'triple_offshore': map(float, [data['TN_Offshore_Low'], data['TN_Offshore_Medium'], data['TN_Offshore_High']]),
+            'triple_inshore': map(float, [data['TN_Inshore_Low'], data['TN_Inshore_Medium'], data['TN_Inshore_High']]),
         },
         'boat': {
-            'builder': clean_string(data['BUILDER']),
-            'type': data['TYPE'],
-            'designer': clean_string(data['DESIGNER']),
-            'year': data['YEAR'],
+            'builder': data['Builder'],
+            'type': data['Class'],
+            'designer': data['Designer'],
+            'year': data['Age_Year'],
             'sizes': {
                 'loa': float(data['LOA']),
-                'beam': round(float(data['BMAX']), 2),
-                'draft': round(float(data['DRAFT']), 2),
-                'displacement': float(data['DSPL']),
-                'genoa': float(data['GENOA']),
-                'main': float(data['MAIN']),
-                'spinnaker': float(data['SYM']),
-                'spinnaker_asym': float(data['ASYM']),
-                'crew': float(data['CREW']),
+                'beam': round(float(data['MB']), 2),
+                'draft': round(float(data['Draft']), 2),
+                'displacement': float(data['Dspl_Measurement']),
+                'genoa': float(data['Area_Jib']),
+                'main': float(data['Area_Main']),
+                'spinnaker': float(data['Area_Sym']),
+                'spinnaker_asym': float(data['Area_ASym']),
+                'crew': float(data['CrewWT']),
                 'wetted_surface': float(data['WSS']),
             },
         },
@@ -71,14 +71,14 @@ def format_data(data):
         'angles': WIND_ANGLES,
         'speeds': WIND_SPEEDS,
     }
-    for twa in WIND_ANGLES:
-        ret['vpp'][twa] = [time_allowance2speed(data['R%d%d' % (twa, tws)]) for tws in WIND_SPEEDS]
+    for i, twa in enumerate(WIND_ANGLES):
+        ret['vpp'][twa] = [time_allowance2speed(data["Allowances"]['R%d' % twa][a]) for a, tws in enumerate(WIND_SPEEDS)]
 
-    ret['vpp']['beat_angle'] = [float(data['UA%d' % tws]) for tws in WIND_SPEEDS]
-    ret['vpp']['beat_vmg'] = [time_allowance2speed(data['UP%d' % tws]) for tws in WIND_SPEEDS]
+    ret['vpp']['beat_angle'] = data["Allowances"]["BeatAngle"]
+    ret['vpp']['beat_vmg'] = [time_allowance2speed(v) for v in data["Allowances"]["Beat"]]
 
-    ret['vpp']['run_angle'] = [float(data['DA%d' % tws]) for tws in WIND_SPEEDS]
-    ret['vpp']['run_vmg'] = [time_allowance2speed(data['D%d' % tws]) for tws in WIND_SPEEDS]
+    ret['vpp']['run_angle'] = data["Allowances"]["GybeAngle"]
+    ret['vpp']['run_vmg'] = [time_allowance2speed(v) for v in data["Allowances"]["Run"]]
 
     return ret
 
