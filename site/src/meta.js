@@ -23,7 +23,7 @@ function table (data) {
 }
 
 module.exports = function render_metadata (boat, extended) {
-    d3.select('#name').html(boat.name || '<span class="text-muted">Name unkown</span>');
+    d3.select('#name').html(boat.name || '<span class="text-muted">Name unknown</span>');
 
     var sizes = boat.boat.sizes;
 

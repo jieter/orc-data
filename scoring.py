@@ -4,42 +4,36 @@ from __future__ import print_function
 
 import sys
 
-from rms.parser import parse_rms_glob
+from parser.parser import parse_json_glob
 from rms.util import log
 
-YEAR = 2016
+YEAR = 2017
 
 if __name__ == '__main__':
     # display help:
     if len(sys.argv) <= 1:
         log('Usage: scoring.py json                 print json data for all boats to orc-data.json')
         log('       scoring.py json <sailnumber>    print json data for a single boat to stdout')
-        log('       scoring.py csv                  print csv data for all boats to stdout')
         log('       scoring.py site                 Export data for gh-pages site to site/index.json and site/data/*.json')
         sys.exit(1)
 
-    pattern = 'data/{year}/*{year}.rms'.format(year=YEAR)
-    rms = parse_rms_glob(pattern)
+    pattern = 'data/{year}/*{year}.json'.format(year=YEAR)
+    rms = parse_json_glob(pattern)
     log('Loaded a total of %d boats with pattern %s.' % (len(rms), pattern))
 
-    if sys.argv[1] == 'csv':
-        from rms.csv_output import csvwriter
-
-        csvwriter(rms)
-
-    elif sys.argv[1] == 'json':
+    if sys.argv[1] == 'json':
 
         if len(sys.argv) == 3:
-            from rms.json_output import jsonwriter_single
+            from parser.json_output import jsonwriter_single
             jsonwriter_single(rms, sailnumber=sys.argv[2])
         else:
-            from rms.json_output import jsonwriter_list
+            from parser.json_output import jsonwriter_list
             jsonwriter_list(rms)
 
         log('Exported to json')
 
     elif sys.argv[1] == 'site':
-        from rms.json_output import jsonwriter_site
+        from parser.json_output import jsonwriter_site
 
         jsonwriter_site(rms)
 
