@@ -13,27 +13,27 @@
     "gph": 691.1, 
     "osn": 669.8
   }, 
-  "sailnumber": "SUI695", 
+  "sailnumber": "SUI/SUI695", 
   "name": "HYPNAUTIC", 
   "country": "SUI", 
-  "owner": "Kuster, Ivo", 
+  "owner": "-", 
   "boat": {
     "builder": "Archambault", 
     "designer": "Joubert/Nivelt", 
     "type": "Surprise", 
     "sizes": {
       "beam": 2.38, 
-      "spinnaker": 41.1, 
+      "spinnaker": 41.15, 
       "loa": 7.65, 
       "draft": 1.57, 
-      "wetted_surface": 13.0, 
-      "main": 18.9, 
-      "genoa": 16.4, 
+      "wetted_surface": 13.01, 
+      "main": 18.94, 
+      "genoa": 16.45, 
       "displacement": 1234.0, 
       "spinnaker_asym": 0.0, 
       "crew": 400.0
     }, 
-    "year": "1977"
+    "year": 1977
   }, 
   "vpp": {
     "beat_vmg": [
@@ -77,9 +77,9 @@
       150.8, 
       152.7, 
       168.1, 
-      180.0, 
-      180.0, 
-      180.0
+      180, 
+      180, 
+      180
     ], 
     "110": [
       5.18, 
@@ -106,7 +106,7 @@
       37.7, 
       36.4, 
       35.8, 
-      36.0
+      36
     ], 
     "angles": [
       52, 
