@@ -24,7 +24,6 @@ module.exports = function polarplot (container) {
 
     // radial scale
     var r = d3.scaleLinear().domain([0, 10]).range([0, radius()]);
-    var x = d3.scaleLinear().domain([0, 180]).range([0, width()]);
 
     // speed rings
     var gr = svg.append('g')
@@ -79,13 +78,6 @@ module.exports = function polarplot (container) {
             s.attr('d', d3.symbol().type(shape || d3.symbolDiamond).size(size || 32));
         };
     };
-    //
-    // var legend = svg.append('g').attr('class', 'legend');
-    //
-    // var updateLegend = function (sel) {
-    //     sel.call(d3.legend)
-    //         .attr('transform', 'translate(' + (width() - 70) + ', ' + (-height() / 2 + 20) + ')');
-    // };
 
     var plot = function () {};
 
@@ -142,8 +134,6 @@ module.exports = function polarplot (container) {
                 .attr('data-legend-pos', function (d, i) { return i; })
             .merge(lines)
                 .transition().duration(200).attr('d', line);
-
-        // legend.call(updateLegend);
     };
 
     var highlight;
@@ -190,8 +180,6 @@ module.exports = function polarplot (container) {
 
         graph.selectAll('line').attr('x2', radius());
         svg.selectAll('.xlabel').call(xaxis);
-
-        // legend.call(updateLegend);
 
         svg.selectAll('.line').transition().duration(200).attr('d', line);
         svg.selectAll('.vmg-run').transition().duration(200).call(scatter());

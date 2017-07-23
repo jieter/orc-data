@@ -11,7 +11,7 @@
     "webpack": "^1.13.2"
   },
   "dependencies": {
-    "d3": "^4.2.6"
+    "d3": "^4.10.0"
   },
   "license": "MIT",
   "repository": {
