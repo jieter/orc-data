@@ -1,5 +1,4 @@
 var d3 = require('d3');
-// require('d3-legend')(d3);
 
 var util = require('./util.js');
 

@@ -17,7 +17,9 @@
     "strict": 0,
     "key-spacing": 0,
     "no-shadow": 0,
-    "indent": "error"
+    "indent": ["error", 4, {
+        "MemberExpression": "off"
+    }]
   },
   "globals": {
     "d3": true,
