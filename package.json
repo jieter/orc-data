@@ -1,8 +1,9 @@
 {
   "scripts": {
     "test": "npm run lint",
-    "bundle": "webpack",
-    "watchify": "webpack --watch",
+    "bundle": "PRODUCTION=1 webpack --config webpack.config.js",
+    "analyze": "ANALYZE=1 PRODUCTION=1 webpack --config webpack.config.js",
+    "watchify": "webpack --watch  --config webpack.config.js",
     "lint": "eslint site/src/ site/index.js"
   },
   "devDependencies": {

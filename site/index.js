@@ -10,6 +10,9 @@ function match_boats (data, needle) {
     needle = needle.toLowerCase();
 
     for (var i in data) {
+        if (!data[i]) {
+            return false;
+        }
         var value = data[i];
         if (value.toLowerCase().indexOf(needle) !== -1) {
             return true;
