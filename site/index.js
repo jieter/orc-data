@@ -11,7 +11,7 @@ function match_boats (data, needle) {
 
     for (var i in data) {
         if (!data[i]) {
-            return false;
+            continue;
         }
         var value = data[i];
         if (value.toLowerCase().indexOf(needle) !== -1) {
