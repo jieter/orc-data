@@ -1,6 +1,6 @@
 var d3 = require('d3');
 
-var vmg2sog = require('./util.js').vmg2sog;
+var util = require('./util.js')
 
 var CSV_PREAMBLE = 'twa/tws';
 var CSV_SEPARATOR = ';';
@@ -53,7 +53,7 @@ function polarexport (data, extended) {
     if (extended) {
         vpp.beat_angle.forEach(function (beat_angle, i) {
             var beat = [beat_angle].concat(zeros(vpp.speeds.length));
-            beat[i + 1] = d3.round(vmg2sog(beat_angle, vpp.beat_vmg[i]), 2);
+            beat[i + 1] = util.round(util.vmg2sog(beat_angle, vpp.beat_vmg[i]), 2);
             ret.push(beat);
         });
     }
@@ -65,7 +65,7 @@ function polarexport (data, extended) {
     if (extended) {
         vpp.run_angle.forEach(function (run_angle, i) {
             var run = [run_angle].concat(zeros(vpp.speeds.length));
-            run[i + 1] = d3.round(vmg2sog(run_angle, -vpp.run_vmg[i]), 2);
+            run[i + 1] = util.round(util.vmg2sog(run_angle, -vpp.run_vmg[i]), 2);
             ret.push(run);
         });
     }
