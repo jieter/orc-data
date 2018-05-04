@@ -98,7 +98,7 @@ def jsonwriter_site(rmsdata):
     # sort by name
     data = sorted(data, key=lambda x: x['name'])
     # filter out boats without country
-    data = filter(lambda x: x['country'] in COUNTRIES, data)
+    data = list(filter(lambda x: x['country'] in COUNTRIES, data))
 
     # write the index
     with open('site/index.json', 'w+') as outfile:
