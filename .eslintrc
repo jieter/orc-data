@@ -35,5 +35,9 @@
   "env": {
     "browser": true,
     "amd": true
-  }
+  },
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module"
+  },
 }
