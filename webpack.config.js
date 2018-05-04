@@ -19,5 +19,18 @@ module.exports = {
         path: path.join(__dirname, 'site'),
         filename: 'bundle.js',
     },
+
+    module: {
+        rules: [
+            {
+                test: /\.js$/,
+                loader: 'babel-loader',
+                exclude: '/node_modules/',
+                query: {
+                    presets: ['es2015'],
+                }
+            }
+        ],
+    },
     plugins: plugins
 };

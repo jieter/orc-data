@@ -1,6 +1,4 @@
-var d3 = require('d3');
-
-var util = require('./util.js')
+import {round, vmg2sog} from './util.js';
 
 var CSV_PREAMBLE = 'twa/tws';
 var CSV_SEPARATOR = ';';
@@ -8,14 +6,16 @@ var CSV_SEPARATOR = ';';
 function zeros (n) {
     return Array.apply(null, new Array(n)).map(function () { return 0.0; });
 }
+
 function int (n) {
     return parseInt(n);
 }
+
 function float (n) {
     return +n;
 }
 
-function polarimport (str) {
+export function polarimport (str) {
     str = str.trim();
 
     if (str.indexOf(CSV_PREAMBLE) !== 0) {
@@ -41,8 +41,8 @@ function polarimport (str) {
     return polar;
 }
 
-
-function polarexport (data, extended) {
+var vpp;
+export function polarexport (data, extended) {
     vpp = ('vpp' in data) ? data.vpp : data;
 
     var ret = [
@@ -53,7 +53,7 @@ function polarexport (data, extended) {
     if (extended) {
         vpp.beat_angle.forEach(function (beat_angle, i) {
             var beat = [beat_angle].concat(zeros(vpp.speeds.length));
-            beat[i + 1] = util.round(util.vmg2sog(beat_angle, vpp.beat_vmg[i]), 2);
+            beat[i + 1] = round(vmg2sog(beat_angle, vpp.beat_vmg[i]), 2);
             ret.push(beat);
         });
     }
@@ -65,15 +65,10 @@ function polarexport (data, extended) {
     if (extended) {
         vpp.run_angle.forEach(function (run_angle, i) {
             var run = [run_angle].concat(zeros(vpp.speeds.length));
-            run[i + 1] = util.round(util.vmg2sog(run_angle, -vpp.run_vmg[i]), 2);
+            run[i + 1] = round(vmg2sog(run_angle, -vpp.run_vmg[i]), 2);
             ret.push(run);
         });
     }
 
     return ret.map(function (row) { return row.join(CSV_SEPARATOR); }).join('\n');
-}
-
-module.exports = {
-    export: polarexport,
-    import: polarimport
 }

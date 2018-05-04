@@ -3,7 +3,7 @@ function add_degrees_symbol (d) {
     return d + '°';
 }
 
-module.exports = function polartable (container, boat) {
+export function polartable (container, boat) {
     var vpp = boat.vpp;
 
     // prepare data:

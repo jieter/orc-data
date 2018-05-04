@@ -1,8 +1,11 @@
-var d3 = require('d3');
+import {select} from 'd3-selection';
+import {scaleLinear} from 'd3-scale';
+import {curveCardinal, radialLine, symbol, symbolCircle, symbolDiamond} from 'd3-shape';
+import 'd3-transition';
 
-var util = require('./util.js');
+import {round, deg2rad, vmg2sog} from './util.js';
 
-module.exports = function polarplot (container) {
+export function polarplot (container) {
 
     var containerElement = document.getElementById(container.substring(1));
     var width = function () { return containerElement.offsetWidth - 20; };
@@ -15,14 +18,14 @@ module.exports = function polarplot (container) {
     };
     var radius = function () { return Math.min(height() / 2.2 - 20, width()) - 40; };
 
-    var svg = d3.select(container).append('svg')
+    var svg = select(container).append('svg')
         .attr('width', width())
         .attr('height', height())
             .append('g')
                 .attr('transform', 'translate(' + 10 + ',' + (height() / 2) + ')');
 
     // radial scale
-    var r = d3.scaleLinear().domain([0, 10]).range([0, radius()]);
+    var r = scaleLinear().domain([0, 10]).range([0, radius()]);
 
     // speed rings
     var gr = svg.append('g')
@@ -63,18 +66,21 @@ module.exports = function polarplot (container) {
         .attr('class', 'xlabel').call(xaxis);
 
 
-    var line = d3.radialLine()
+    var line = radialLine()
         .radius(function (d) { return r(d[1]); })
         .angle(function (d) { return d[0]; })
-        .curve(d3.curveCardinal);
+        .curve(curveCardinal);
 
     // Plot VMG diamonds
     var scatter = function (shape, size) {
+        var shape = shape || symbolDiamond;
+        var size = size || 32;
+
         return function (s) {
             s.attr('transform', function (d) {
                 return 'translate(' + (r(d[1]) * Math.sin(d[0])) + ', ' + (r(d[1]) * -Math.cos(d[0])) + ')';
             });
-            s.attr('d', d3.symbol().type(shape || d3.symbolDiamond).size(size || 32));
+            s.attr('d', symbol().type(shape).size(size));
         };
     };
 
@@ -84,7 +90,7 @@ module.exports = function polarplot (container) {
     plot.render = function (data) {
         vpp = ('vpp' in data) ? data.vpp : data;
 
-        var vpp_angles = vpp.angles.map(function (d) { return d * util.deg2rad; });
+        var vpp_angles = vpp.angles.map(function (d) { return d * deg2rad; });
         var run_data = [];
 
         var tws_series = function (cssClass) {
@@ -101,14 +107,14 @@ module.exports = function polarplot (container) {
             // filter points with zero SOG
             series = series.filter(function (a) { return a[1] > 0; });
 
-            var vmg2sog = function (degrees, vmg) {
-                return [degrees * util.deg2rad, util.vmg2sog(degrees, vmg)];
+            var transform = function (degrees, vmg) {
+                return [degrees * deg2rad, vmg2sog(degrees, vmg)];
             }
             if (vpp.beat_angle) {
-                series.unshift(vmg2sog(vpp.beat_angle[i], vpp.beat_vmg[i]));
+                series.unshift(transform(vpp.beat_angle[i], vpp.beat_vmg[i]));
             }
             if (vpp.run_angle) {
-                var run = vmg2sog(vpp.run_angle[i], -vpp.run_vmg[i]);
+                var run = transform(vpp.run_angle[i], -vpp.run_vmg[i]);
                 series.push(run);
                 run_data.push(run);
             }
@@ -148,7 +154,7 @@ module.exports = function polarplot (container) {
             var twa = +parentClass.substring(4);
 
             var speed = vpp[twa][vpp.speeds.indexOf(tws)];
-            highlight = svg.selectAll('.highlight').data([[twa * util.deg2rad, speed]]);
+            highlight = svg.selectAll('.highlight').data([[twa * deg2rad, speed]]);
 
         } else {
             highlight = svg.selectAll('.highlight').data([]);
@@ -158,16 +164,15 @@ module.exports = function polarplot (container) {
             .enter().append('path')
             .merge(highlight)
                 .attr('class', 'highlight ' + (tws ? 'tws-' + tws : ''))
-                .transition().duration(50).call(scatter(d3.symbolCircle, 80));
+                .transition().duration(50).call(scatter(symbolCircle, 80));
     });
-
 
     var originalSize = width();
     plot.resize = function () {
         if (width() === originalSize) {
             return;
         }
-        d3.select('svg')
+        select('svg')
             .attr('width', width())
             .attr('height', height());
 
