@@ -1,9 +1,8 @@
 from __future__ import print_function
 
+import codecs
 import glob
-import re
 import json
-import pprint
 
 from .util import log
 
@@ -13,10 +12,18 @@ def parse_json(filename):
 
     country = filename.split('/')[2][0:3]
 
-    with open(filename) as rms:
-        data = json.load(rms)["rms"]
-        map(lambda k: k.update({"country": country}), data)
-        return data
+    try:
+        rms = json.load(codecs.open(filename, 'r', 'utf-8-sig'))
+    except json.decoder.JSONDecodeError as e:
+        print('error parsing file: {}, error: {}'.format(filename, str(e)))
+        return []
+
+    data = rms['rms']
+
+    for item in data:
+        item['country'] = country
+
+    return data
 
 
 def parse_json_glob(pattern):

@@ -88,12 +88,12 @@ for `<twa>`:  [52, 60, 75, 90, 110, 120, 135, 150]
  - Collapse sidebar (http://www.bootply.com/mL7j0aOINa)
  - Bootstrap toggle switch (interpolation on/off) http://www.bootstraptoggle.com/
 
-## update site voor een nieuw jaar
+## Update data
 
-- (Pas het jaar aan in `Makefile`)
-- Download de nieuwe RMS-files met `make rms`
-- Converteer naar de juiste site-jsons met `make site`
-- Update jaartal en site, update bundle (`npm run bundle`) en commit.
+- (change `YEAR` variable in `Makefile`)
+- Download new data: `make json`
+- Tranfrom json's to site format: `make site`
+- Update year in site, update bundle (`npm run bundle`) en commit.
 
 ## TODO
 

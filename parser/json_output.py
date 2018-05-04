@@ -2,11 +2,13 @@ from __future__ import print_function
 
 import json
 import os
-import sys
-
-from util import time_allowance2speed
+from itertools import count
 
 from . import COUNTRIES, WIND_ANGLES, WIND_SPEEDS
+from .util import time_allowance2speed
+
+# for boats without a sailnumber, give them a unique number
+counter = count()
 
 
 def select(boats, key, value):
@@ -17,25 +19,24 @@ def select(boats, key, value):
     return None
 
 
-def clean_string(str):
-    return unicode(str, errors='replace')
-
-
 def format_data(data):
-    sailnumber = data['SailNo'].replace(u' ', u'').replace(u'-', u'').replace(u'/', u'')
-    sailnumber = u"%s/%s" % (data["country"], sailnumber)
+    if data.get('SailNo', None):
+        sailnumber = data['SailNo'].replace(' ', '').replace('-', '').replace('/', '')
+    else:
+        sailnumber = '_{}'.format(next(counter))
 
+    sailnumber = '{}/{}'.format(data['country'], sailnumber)
 
     ret = {
         'sailnumber': sailnumber,
         'country': data['country'],
-        'name': data['YachtName'],
-        'owner': "-",
+        'name': data.get('YachtName', '') or '',
+        'owner': '-',
         'rating': {
             'gph': float(data['GPH']),
             'osn': float(data['OSN']),
-            'triple_offshore': map(float, [data['TN_Offshore_Low'], data['TN_Offshore_Medium'], data['TN_Offshore_High']]),
-            'triple_inshore': map(float, [data['TN_Inshore_Low'], data['TN_Inshore_Medium'], data['TN_Inshore_High']]),
+            'triple_offshore': list(map(float, [data['TN_Offshore_Low'], data['TN_Offshore_Medium'], data['TN_Offshore_High']])),
+            'triple_inshore': list(map(float, [data['TN_Inshore_Low'], data['TN_Inshore_Medium'], data['TN_Inshore_High']])),
         },
         'boat': {
             'builder': data['Builder'],
@@ -63,13 +64,13 @@ def format_data(data):
         'speeds': WIND_SPEEDS,
     }
     for i, twa in enumerate(WIND_ANGLES):
-        ret['vpp'][twa] = [time_allowance2speed(data["Allowances"]['R%d' % twa][a]) for a, tws in enumerate(WIND_SPEEDS)]
+        ret['vpp'][twa] = list([time_allowance2speed(data["Allowances"]['R%d' % twa][a]) for a, tws in enumerate(WIND_SPEEDS)])
 
     ret['vpp']['beat_angle'] = data["Allowances"]["BeatAngle"]
-    ret['vpp']['beat_vmg'] = [time_allowance2speed(v) for v in data["Allowances"]["Beat"]]
+    ret['vpp']['beat_vmg'] = list([time_allowance2speed(v) for v in data["Allowances"]["Beat"]])
 
     ret['vpp']['run_angle'] = data["Allowances"]["GybeAngle"]
-    ret['vpp']['run_vmg'] = [time_allowance2speed(v) for v in data["Allowances"]["Run"]]
+    ret['vpp']['run_vmg'] = list([time_allowance2speed(v) for v in data["Allowances"]["Run"]])
 
     return ret
 
@@ -83,8 +84,10 @@ def jsonwriter_single(rmsdata, sailnumber):
 
 
 def jsonwriter_list(rmsdata):
-    data = map(format_data, rmsdata)
+    data = list(map(format_data, rmsdata))
     data = sorted(data, key=lambda x: x['name'])
+
+    print(data)
 
     with open('orc-data.json', 'w') as outfile:
         json.dump(data, outfile, separators=(',', ':', ))

@@ -5,9 +5,9 @@ from __future__ import print_function
 import sys
 
 from parser.parser import parse_json_glob
-from rms.util import log
+from parser.util import log
 
-YEAR = 2017
+YEAR = 2018
 
 if __name__ == '__main__':
     # display help:
