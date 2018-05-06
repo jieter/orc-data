@@ -37,4 +37,4 @@ if __name__ == '__main__':
 
         jsonwriter_site(rms)
 
-        log('Exported for website: site/index.json + site/data/*.json')
+        log('Exported for website: site/index.tsv + site/data/*.json')

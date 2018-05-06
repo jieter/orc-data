@@ -87,8 +87,6 @@ def jsonwriter_list(rmsdata):
     data = list(map(format_data, rmsdata))
     data = sorted(data, key=lambda x: x['name'])
 
-    print(data)
-
     with open('orc-data.json', 'w') as outfile:
         json.dump(data, outfile, separators=(',', ':', ))
 
@@ -101,10 +99,13 @@ def jsonwriter_site(rmsdata):
     data = list(filter(lambda x: x['country'] in COUNTRIES, data))
 
     # write the index
-    with open('site/index.json', 'w+') as outfile:
-        json.dump([
-            [boat['sailnumber'], boat['name'], boat['boat']['type']] for boat in data
-        ], outfile)
+    with open('site/index.tsv', 'w+') as outfile:
+        outfile.write('sailnumber\tname\ttype\n')
+
+        outfile.writelines([
+            '{}\t{}\t{}\n'.format(boat['sailnumber'], boat['name'] or '', boat['boat']['type'] or '')
+            for boat in data
+        ])
 
     # create subdirectories for countries
     for country in COUNTRIES:
