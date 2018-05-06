@@ -103,7 +103,12 @@ def jsonwriter_site(rmsdata):
         outfile.write('sailnumber\tname\ttype\n')
 
         outfile.writelines([
-            '{}\t{}\t{}\n'.format(boat['sailnumber'], boat['name'] or '', boat['boat']['type'] or '')
+            '{}\t{}\t{}\n'.format(
+                boat['sailnumber'].replace('\t', ''),
+                (boat['name'] or '').replace('\t', ''),
+                (boat['boat']['type'] or '').replace('\t', '')
+            ).replace('"', '')
+
             for boat in data
         ])
 
