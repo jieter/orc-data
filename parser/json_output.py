@@ -1,5 +1,6 @@
 from __future__ import print_function
 
+import html
 import json
 import os
 from itertools import count
@@ -97,16 +98,21 @@ def jsonwriter_site(rmsdata):
     # filter out boats without country
     data = list(filter(lambda x: x['country'] in COUNTRIES, data))
 
+    def transform(val):
+        return html.unescape(
+            (val or '').replace('\t', '').replace('"', '')
+        )
+
     # write the index
     with open('site/index.tsv', 'w+') as outfile:
         outfile.write('sailnumber\tname\ttype\n')
 
         outfile.writelines([
             '{}\t{}\t{}\n'.format(
-                boat['sailnumber'].replace('\t', ''),
-                (boat['name'] or '').replace('\t', ''),
-                (boat['boat']['type'] or '').replace('\t', '')
-            ).replace('"', '')
+                transform(boat['sailnumber']),
+                transform(boat['name']),
+                transform(boat['boat']['type'])
+            )
 
             for boat in data
         ])
