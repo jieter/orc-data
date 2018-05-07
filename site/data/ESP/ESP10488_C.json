@@ -1,8 +1,7 @@
 {
   "sailnumber": "ESP/ESP10488_C",
   "country": "ESP",
-  "name": "NAUTICUM ",
-  "owner": "-",
+  "name": "NAUTICUM",
   "rating": {
     "gph": 609.4,
     "osn": 591.9,

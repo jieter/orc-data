@@ -2,7 +2,6 @@
   "sailnumber": "CRO/CRO1742",
   "country": "CRO",
   "name": "Alegria 2",
-  "owner": "-",
   "rating": {
     "gph": 653.5,
     "osn": 632.1,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Jeanneau",
     "type": "Sun Odyssey 44i",
-    "designer": null,
+    "designer": "",
     "year": 2010,
     "sizes": {
       "loa": 13.74,

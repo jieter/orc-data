@@ -2,7 +2,6 @@
   "sailnumber": "NED/NED8544",
   "country": "NED",
   "name": "Bellini",
-  "owner": "-",
   "rating": {
     "gph": 738.8,
     "osn": 720.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Saffier ",
+    "builder": "Saffier",
     "type": "Saffier 26",
     "designer": "Hennevanger",
     "year": 2008,

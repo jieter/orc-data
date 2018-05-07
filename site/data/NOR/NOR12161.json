@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR12161",
   "country": "NOR",
   "name": "Malik",
-  "owner": "-",
   "rating": {
     "gph": 603.6,
     "osn": 588.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Alize Yachts",
     "type": "RM 1200",
-    "designer": null,
+    "designer": "",
     "year": 2006,
     "sizes": {
       "loa": 11.99,

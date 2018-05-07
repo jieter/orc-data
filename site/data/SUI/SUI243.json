@@ -2,7 +2,6 @@
   "sailnumber": "SUI/SUI243",
   "country": "SUI",
   "name": "PAUA",
-  "owner": "-",
   "rating": {
     "gph": 641.4,
     "osn": 622.9,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Dehler Yachtbau",
     "type": "Dehler 35SQ",
-    "designer": "Simonis/Voogd ",
+    "designer": "Simonis/Voogd",
     "year": 2007,
     "sizes": {
       "loa": 10.5,

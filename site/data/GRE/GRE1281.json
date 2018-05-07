@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1281",
   "country": "GRE",
   "name": "MANOULI TOO",
-  "owner": "-",
   "rating": {
     "gph": 617.4,
     "osn": 600.4,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": "JEANNEAU ",
+    "builder": "JEANNEAU",
     "type": "SUN ODYSSEY 45.1",
-    "designer": null,
+    "designer": "",
     "year": 1994,
     "sizes": {
       "loa": 13.8,

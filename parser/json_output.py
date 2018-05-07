@@ -28,10 +28,9 @@ def format_data(data):
     sailnumber = '{}/{}'.format(data['country'], sailnumber)
 
     ret = {
-        'sailnumber': sailnumber,
+        'sailnumber': sailnumber.strip(),
         'country': data['country'],
-        'name': data.get('YachtName', '') or '',
-        'owner': '-',
+        'name': (data.get('YachtName', '') or '').strip(),
         'rating': {
             'gph': float(data['GPH']),
             'osn': float(data['OSN']),
@@ -39,9 +38,9 @@ def format_data(data):
             'triple_inshore': list(map(float, [data['TN_Inshore_Low'], data['TN_Inshore_Medium'], data['TN_Inshore_High']])),
         },
         'boat': {
-            'builder': data['Builder'],
+            'builder': (data['Builder'] or '').strip(),
             'type': data['Class'],
-            'designer': data['Designer'],
+            'designer': (data['Designer'] or '').strip(),
             'year': data['Age_Year'],
             'sizes': {
                 'loa': float(data['LOA']),

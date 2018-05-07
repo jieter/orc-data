@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR13957",
   "country": "NOR",
   "name": "Clupea",
-  "owner": "-",
   "rating": {
     "gph": 836.9,
     "osn": 799.8,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "K-38",
     "designer": "Classic",
     "year": 1981,

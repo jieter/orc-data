@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR10861",
   "country": "NOR",
   "name": "Octarine",
-  "owner": "-",
   "rating": {
     "gph": 705.7,
     "osn": 686.6,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Finngulf Yachting ",
+    "builder": "Finngulf Yachting",
     "type": "Finngulf 28",
     "designer": "K-J STRAHLMAN",
     "year": 1998,

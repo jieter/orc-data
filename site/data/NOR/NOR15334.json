@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR15334",
   "country": "NOR",
   "name": "Infinity",
-  "owner": "-",
   "rating": {
     "gph": 687.1,
     "osn": 664.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Hanse Yachts",
     "type": "Hanse 345",
-    "designer": "JUDEL FRIEDRICH / ",
+    "designer": "JUDEL FRIEDRICH /",
     "year": 2013,
     "sizes": {
       "loa": 9.99,

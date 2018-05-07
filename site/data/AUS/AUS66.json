@@ -1,8 +1,7 @@
 {
   "sailnumber": "AUS/AUS66",
   "country": "AUS",
-  "name": "Balmain Tiger ",
-  "owner": "-",
+  "name": "Balmain Tiger",
   "rating": {
     "gph": 563.6,
     "osn": 549.8,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Hansheng Yachts ",
+    "builder": "Hansheng Yachts",
     "type": "Flying Tiger 10 ",
     "designer": "Bob Perry",
     "year": 2007,

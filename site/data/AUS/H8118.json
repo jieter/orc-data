@@ -2,7 +2,6 @@
   "sailnumber": "AUS/H8118",
   "country": "AUS",
   "name": "Merlion",
-  "owner": "-",
   "rating": {
     "gph": 597.6,
     "osn": 581.0,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Ben First 40.7",
-    "designer": null,
+    "designer": "",
     "year": 1997,
     "sizes": {
       "loa": 11.92,

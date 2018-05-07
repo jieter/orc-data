@@ -2,7 +2,6 @@
   "sailnumber": "CRO/CRO1745",
   "country": "CRO",
   "name": "Toto Travel",
-  "owner": "-",
   "rating": {
     "gph": 528.7,
     "osn": 514.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Carroll",
     "type": "Farr 40",
-    "designer": "Farr ",
+    "designer": "Farr",
     "year": 1997,
     "sizes": {
       "loa": 12.415,

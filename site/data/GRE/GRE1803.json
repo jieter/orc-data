@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1803",
   "country": "GRE",
   "name": "AGAPI",
-  "owner": "-",
   "rating": {
     "gph": 822.3,
     "osn": 793.1,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "SASANKA YACHTS",
     "type": "VIVA 700",
-    "designer": null,
+    "designer": "",
     "year": 2006,
     "sizes": {
       "loa": 7.0,

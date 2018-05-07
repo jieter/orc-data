@@ -2,7 +2,6 @@
   "sailnumber": "NED/NED8669",
   "country": "NED",
   "name": "Swing",
-  "owner": "-",
   "rating": {
     "gph": 763.4,
     "osn": 741.0,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Zeeton ",
     "designer": "E G vd Stadt",
     "year": 1980,

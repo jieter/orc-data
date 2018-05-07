@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10515_C",
   "country": "ESP",
   "name": "AVENTURA CUARTO",
-  "owner": "-",
   "rating": {
     "gph": 784.6,
     "osn": 763.3,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "PROTOTIPO",
-    "designer": null,
+    "designer": "",
     "year": 2009,
     "sizes": {
       "loa": 5.5,

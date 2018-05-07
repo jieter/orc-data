@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP7582_C",
   "country": "ESP",
   "name": "ORION UNO",
-  "owner": "-",
   "rating": {
     "gph": 727.4,
     "osn": 706.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Astilleros GMM SL",
     "type": "SERVIOLA 26",
-    "designer": null,
+    "designer": "",
     "year": 2004,
     "sizes": {
       "loa": 7.49,

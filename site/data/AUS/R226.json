@@ -2,7 +2,6 @@
   "sailnumber": "AUS/R226",
   "country": "AUS",
   "name": "North Encounter",
-  "owner": "-",
   "rating": {
     "gph": 697.6,
     "osn": 677.1,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Northshore 33",
     "designer": "Kaufmann",
     "year": 1995,

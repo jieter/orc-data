@@ -2,7 +2,6 @@
   "sailnumber": "AUS/7108",
   "country": "AUS",
   "name": "Scoot",
-  "owner": "-",
   "rating": {
     "gph": 668.8,
     "osn": 649.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Northshore Yachts ",
+    "builder": "Northshore Yachts",
     "type": "NS 340  ",
     "designer": "Hank Kaufman",
     "year": 2003,

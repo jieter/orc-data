@@ -2,7 +2,6 @@
   "sailnumber": "RSA/RSA1011",
   "country": "RSA",
   "name": "Carousel",
-  "owner": "-",
   "rating": {
     "gph": 716.8,
     "osn": 694.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Beneteau ",
+    "builder": "Beneteau",
     "type": "Oceanis 390",
     "designer": "Philip Brand",
     "year": 1988,

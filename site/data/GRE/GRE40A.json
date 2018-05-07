@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE40A",
   "country": "GRE",
   "name": "iSAIL",
-  "owner": "-",
   "rating": {
     "gph": 565.5,
     "osn": 548.5,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "ARCHAMBAULT ",
+    "builder": "ARCHAMBAULT",
     "type": "ARCHAMBAULT A40 RC",
     "designer": "JOUBERT/NIVELT",
     "year": 2007,

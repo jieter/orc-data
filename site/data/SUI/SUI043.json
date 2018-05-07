@@ -2,7 +2,6 @@
   "sailnumber": "SUI/SUI043",
   "country": "SUI",
   "name": "",
-  "owner": "-",
   "rating": {
     "gph": 615.7,
     "osn": 595.7,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "mOcean 26",
     "designer": "S.Schmidt",
     "year": 2009,

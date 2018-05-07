@@ -2,7 +2,6 @@
   "sailnumber": "ESP/FRA19789_C",
   "country": "ESP",
   "name": "LO CHIVAU",
-  "owner": "-",
   "rating": {
     "gph": 664.6,
     "osn": 647.1,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "AMATEUR",
     "type": "BEPOX 700",
-    "designer": "REARD ",
+    "designer": "REARD",
     "year": 1999,
     "sizes": {
       "loa": 7.0,

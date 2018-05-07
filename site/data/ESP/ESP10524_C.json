@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10524_C",
   "country": "ESP",
   "name": "SURE\u00d1O",
-  "owner": "-",
   "rating": {
     "gph": 625.4,
     "osn": 604.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "BAVARIA",
     "type": "BAVARIA 46 CRUISER",
-    "designer": null,
+    "designer": "",
     "year": 2005,
     "sizes": {
       "loa": 13.99,

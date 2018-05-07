@@ -2,7 +2,6 @@
   "sailnumber": "ESP/AUT070",
   "country": "ESP",
   "name": "AQUILA",
-  "owner": "-",
   "rating": {
     "gph": 512.0,
     "osn": 500.3,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "JV 49",
     "designer": "JUDEL/VROLIJK",
     "year": 2001,

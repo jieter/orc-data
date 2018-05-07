@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR9555",
   "country": "NOR",
   "name": "Snehvit",
-  "owner": "-",
   "rating": {
     "gph": 594.1,
     "osn": 579.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "N-YACHTS 41",
     "designer": "Peter Norlin",
     "year": 1998,

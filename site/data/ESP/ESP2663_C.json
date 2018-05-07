@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP2663_C",
   "country": "ESP",
   "name": "BRAV PIRAT",
-  "owner": "-",
   "rating": {
     "gph": 739.2,
     "osn": 720.2,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "MOTYVEL",
     "type": "FLASH 700",
-    "designer": null,
+    "designer": "",
     "year": 1977,
     "sizes": {
       "loa": 7.7,

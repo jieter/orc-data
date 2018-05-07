@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1787",
   "country": "GRE",
   "name": "LARNE",
-  "owner": "-",
   "rating": {
     "gph": 660.3,
     "osn": 639.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "MOODY",
     "type": "ONE-OFF",
-    "designer": null,
+    "designer": "",
     "year": 1965,
     "sizes": {
       "loa": 14.93,

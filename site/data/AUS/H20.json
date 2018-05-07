@@ -2,7 +2,6 @@
   "sailnumber": "AUS/H20",
   "country": "AUS",
   "name": "Minna",
-  "owner": "-",
   "rating": {
     "gph": 672.9,
     "osn": 651.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "East Coast Yachts ",
+    "builder": "East Coast Yachts",
     "type": "Cole 43",
     "designer": "Peter Cole",
     "year": 1970,

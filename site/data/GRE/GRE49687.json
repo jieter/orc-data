@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE49687",
   "country": "GRE",
   "name": "ANNA KATERINA",
-  "owner": "-",
   "rating": {
     "gph": 684.4,
     "osn": 660.5,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "JEANNEAU",
     "type": "SUN ODYSSEY 37.1",
-    "designer": null,
+    "designer": "",
     "year": 1994,
     "sizes": {
       "loa": 11.23,

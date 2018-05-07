@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR3092",
   "country": "NOR",
   "name": "Josin",
-  "owner": "-",
   "rating": {
     "gph": 759.1,
     "osn": 735.8,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "BALLAD",
     "designer": "Rolf Magnusson",
     "year": 1971,

@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR11441",
   "country": "NOR",
   "name": "Just do it (tidligere Ti",
-  "owner": "-",
   "rating": {
     "gph": 631.4,
     "osn": 611.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Bavaria Yachtbau",
     "type": "Bavaria 38 Cruiser",
-    "designer": " JAKOPIN & JAKOPIN",
+    "designer": "JAKOPIN & JAKOPIN",
     "year": 2002,
     "sizes": {
       "loa": 11.83,

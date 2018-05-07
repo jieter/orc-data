@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA1037E22",
   "country": "ITA",
   "name": "PAOLA",
-  "owner": "-",
   "rating": {
     "gph": 687.8,
     "osn": 668.8,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "ETCHELLS 22",
     "designer": "E.W. ETCHELLS",
     "year": 1974,

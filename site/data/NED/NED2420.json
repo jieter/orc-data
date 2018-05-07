@@ -2,7 +2,6 @@
   "sailnumber": "NED/NED2420",
   "country": "NED",
   "name": "LARISA",
-  "owner": "-",
   "rating": {
     "gph": 785.8,
     "osn": 761.3,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Zeeton * 1.55",
     "designer": "E G vd Stadt",
     "year": 1980,

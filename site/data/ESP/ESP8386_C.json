@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP8386_C",
   "country": "ESP",
   "name": "INFINITO",
-  "owner": "-",
   "rating": {
     "gph": 709.3,
     "osn": 686.9,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "BAVARIA",
     "type": "BAVARIA 33 CRUISER",
-    "designer": "JAKOPIN & JAKOPIN\t",
+    "designer": "JAKOPIN & JAKOPIN",
     "year": 2005,
     "sizes": {
       "loa": 10.18,

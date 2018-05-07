@@ -2,7 +2,6 @@
   "sailnumber": "USA/60848",
   "country": "USA",
   "name": "RELOAD",
-  "owner": "-",
   "rating": {
     "gph": 609.6,
     "osn": 591.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "G-Force Yachts",
     "type": "Unknown",
-    "designer": null,
+    "designer": "",
     "year": 0,
     "sizes": {
       "loa": 7.825,

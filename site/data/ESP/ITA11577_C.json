@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ITA11577_C",
   "country": "ESP",
   "name": "QUARTER GINTONIC",
-  "owner": "-",
   "rating": {
     "gph": 694.1,
     "osn": 673.7,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": "INCONNU ONBEKEND ",
+    "builder": "INCONNU ONBEKEND",
     "type": "QUARTER TONER",
-    "designer": null,
+    "designer": "",
     "year": 1989,
     "sizes": {
       "loa": 7.85,

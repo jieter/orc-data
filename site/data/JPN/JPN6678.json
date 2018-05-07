@@ -2,7 +2,6 @@
   "sailnumber": "JPN/JPN6678",
   "country": "JPN",
   "name": "ROOT",
-  "owner": "-",
   "rating": {
     "gph": 857.7,
     "osn": 818.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "HUNTERMARINE",
     "type": "HUNTER 306",
-    "designer": null,
+    "designer": "",
     "year": 2004,
     "sizes": {
       "loa": 9.12,

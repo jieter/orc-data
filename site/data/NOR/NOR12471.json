@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR12471",
   "country": "NOR",
   "name": "flora",
-  "owner": "-",
   "rating": {
     "gph": 617.6,
     "osn": 597.9,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Nicanders b\u00e5tvarv ",
+    "builder": "Nicanders b\u00e5tvarv",
     "type": "CB 365",
     "designer": "Carl Beyer",
     "year": 2000,

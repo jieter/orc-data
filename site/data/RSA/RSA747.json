@@ -2,7 +2,6 @@
   "sailnumber": "RSA/RSA747",
   "country": "RSA",
   "name": "Matador",
-  "owner": "-",
   "rating": {
     "gph": 748.2,
     "osn": 725.0,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Miura",
     "designer": "Oswald Berkemayer",
     "year": 1970,

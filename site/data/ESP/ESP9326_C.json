@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP9326_C",
   "country": "ESP",
   "name": "BRISA",
-  "owner": "-",
   "rating": {
     "gph": 701.0,
     "osn": 681.0,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "TORO 25",
     "designer": "I.TOLEDO",
     "year": 1996,

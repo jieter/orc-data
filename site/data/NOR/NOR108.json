@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR108",
   "country": "NOR",
   "name": "Bacchus",
-  "owner": "-",
   "rating": {
     "gph": 751.8,
     "osn": 727.6,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "H-boot",
     "designer": "Hans Groop",
     "year": 1967,

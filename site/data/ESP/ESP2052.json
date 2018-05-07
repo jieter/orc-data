@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP2052",
   "country": "ESP",
   "name": "ARGOS",
-  "owner": "-",
   "rating": {
     "gph": 734.1,
     "osn": 708.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "SETSOM",
     "type": "FALCON 9",
-    "designer": null,
+    "designer": "",
     "year": 1981,
     "sizes": {
       "loa": 9.317,

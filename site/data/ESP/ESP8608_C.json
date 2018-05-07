@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP8608_C",
   "country": "ESP",
   "name": "VICTORIA 07",
-  "owner": "-",
   "rating": {
     "gph": 792.6,
     "osn": 768.9,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "ASTILLEROS ARAEZ",
     "type": "ARAEZ 20",
-    "designer": null,
+    "designer": "",
     "year": 1999,
     "sizes": {
       "loa": 5.99,

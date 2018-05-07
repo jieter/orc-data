@@ -2,7 +2,6 @@
   "sailnumber": "ARG/FRA004",
   "country": "ARG",
   "name": "XE",
-  "owner": "-",
   "rating": {
     "gph": 541.7,
     "osn": 527.7,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "S 33",
     "designer": "JAVIER SOTO ACEBAL",
     "year": 2011,

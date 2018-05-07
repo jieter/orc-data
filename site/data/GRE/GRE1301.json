@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1301",
   "country": "GRE",
   "name": "ANEMOS",
-  "owner": "-",
   "rating": {
     "gph": 666.6,
     "osn": 647.2,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "DUFOUR",
     "type": "DUFOUR 36 Classic",
-    "designer": null,
+    "designer": "",
     "year": 1999,
     "sizes": {
       "loa": 10.865,

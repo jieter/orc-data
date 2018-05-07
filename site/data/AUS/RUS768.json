@@ -2,7 +2,6 @@
   "sailnumber": "AUS/RUS768",
   "country": "AUS",
   "name": "BORDERLINE",
-  "owner": "-",
   "rating": {
     "gph": 508.3,
     "osn": 497.9,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Premier Composite ",
+    "builder": "Premier Composite",
     "type": "Farr400",
     "designer": "Farr",
     "year": 2010,

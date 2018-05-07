@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10469_C",
   "country": "ESP",
   "name": "YA ANDARA",
-  "owner": "-",
   "rating": {
     "gph": 738.6,
     "osn": 718.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "SEVIPOL",
     "type": "TRIANA 26",
-    "designer": null,
+    "designer": "",
     "year": 2001,
     "sizes": {
       "loa": 7.5,

@@ -2,7 +2,6 @@
   "sailnumber": "POR/POR888",
   "country": "POR",
   "name": "ALTITUDES II",
-  "owner": "-",
   "rating": {
     "gph": 617.6,
     "osn": 598.5,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "DUFOUR",
     "type": "DUFOUR 40e",
-    "designer": " FELCI",
+    "designer": "FELCI",
     "year": 2009,
     "sizes": {
       "loa": 11.99,

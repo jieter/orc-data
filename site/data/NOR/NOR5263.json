@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR5263",
   "country": "NOR",
   "name": "Nefertiti",
-  "owner": "-",
   "rating": {
     "gph": 720.0,
     "osn": 696.8,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "OMEGA 34",
     "designer": "Ron Holland",
     "year": 1980,

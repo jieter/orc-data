@@ -2,7 +2,6 @@
   "sailnumber": "BRA/BRA2192",
   "country": "BRA",
   "name": "SAMURAI RIO",
-  "owner": "-",
   "rating": {
     "gph": 509.2,
     "osn": 496.0,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "IMS 50",
     "designer": "J/V",
     "year": 2000,

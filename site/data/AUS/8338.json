@@ -2,7 +2,6 @@
   "sailnumber": "AUS/8338",
   "country": "AUS",
   "name": "SHOWTIME",
-  "owner": "-",
   "rating": {
     "gph": 508.3,
     "osn": 494.4,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "McConaughy Yachts ",
+    "builder": "McConaughy Yachts",
     "type": "KER 40",
     "designer": "Jason Ker",
     "year": 2011,

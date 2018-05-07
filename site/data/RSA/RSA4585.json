@@ -2,7 +2,6 @@
   "sailnumber": "RSA/RSA4585",
   "country": "RSA",
   "name": "Regardless 2",
-  "owner": "-",
   "rating": {
     "gph": 529.7,
     "osn": 515.4,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Carroll",
     "type": "Farr 40",
-    "designer": "Farr ",
+    "designer": "Farr",
     "year": 1996,
     "sizes": {
       "loa": 12.415,

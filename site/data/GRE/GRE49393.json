@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE49393",
   "country": "GRE",
   "name": "NATALIA A",
-  "owner": "-",
   "rating": {
     "gph": 813.4,
     "osn": 784.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "SIGMA YACHTS",
     "type": "SIGMA 30",
-    "designer": null,
+    "designer": "",
     "year": 1979,
     "sizes": {
       "loa": 8.85,

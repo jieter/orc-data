@@ -2,7 +2,6 @@
   "sailnumber": "SUI/SUI40",
   "country": "SUI",
   "name": "NYX",
-  "owner": "-",
   "rating": {
     "gph": 613.4,
     "osn": 598.1,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "X-Yachts ",
+    "builder": "X-Yachts",
     "type": "Xp 33",
     "designer": "X-Yachts UK",
     "year": 2011,

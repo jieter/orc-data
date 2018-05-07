@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA14999",
   "country": "ITA",
   "name": "GEEX",
-  "owner": "-",
   "rating": {
     "gph": 616.3,
     "osn": 599.9,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "VROLJK 37",
     "designer": "JUDEL-VROLIK",
     "year": 2003,

@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA17029",
   "country": "ITA",
   "name": "KOKOPELLI",
-  "owner": "-",
   "rating": {
     "gph": 628.0,
     "osn": 605.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "RINALDI",
     "type": "SINTESI 36",
-    "designer": null,
+    "designer": "",
     "year": 2009,
     "sizes": {
       "loa": 11.0,

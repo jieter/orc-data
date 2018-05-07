@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP8432_C",
   "country": "ESP",
   "name": "INDUS QUINTO",
-  "owner": "-",
   "rating": {
     "gph": 680.2,
     "osn": 659.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "TUCANA",
     "type": "TUCANA 28",
-    "designer": null,
+    "designer": "",
     "year": 2007,
     "sizes": {
       "loa": 8.15,

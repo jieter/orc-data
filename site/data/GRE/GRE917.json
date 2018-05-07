@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE917",
   "country": "GRE",
   "name": "KERKYRA",
-  "owner": "-",
   "rating": {
     "gph": 727.8,
     "osn": 705.1,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "GIBERT MARINE",
     "type": "GIBSEA 35 SK",
-    "designer": null,
+    "designer": "",
     "year": 1989,
     "sizes": {
       "loa": 10.083,

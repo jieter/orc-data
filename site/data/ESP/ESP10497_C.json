@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10497_C",
   "country": "ESP",
   "name": "ISFAGEL",
-  "owner": "-",
   "rating": {
     "gph": 850.7,
     "osn": 826.3,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": " Marine Cons.",
+    "builder": "Marine Cons.",
     "type": "CUTLASS 27",
     "designer": "Eric White & A.Hil",
     "year": 1968,

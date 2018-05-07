@@ -2,7 +2,6 @@
   "sailnumber": "RSA/RSA1209",
   "country": "RSA",
   "name": "Derbigum",
-  "owner": "-",
   "rating": {
     "gph": 678.2,
     "osn": 657.8,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Montevedeo 43",
     "designer": "Fred Scholtz",
     "year": 1993,

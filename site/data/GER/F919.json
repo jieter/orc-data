@@ -2,7 +2,6 @@
   "sailnumber": "GER/F919",
   "country": "GER",
   "name": "TAKE FIVE",
-  "owner": "-",
   "rating": {
     "gph": 830.2,
     "osn": 811.2,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "DITTRICH",
     "type": "FOLKEBOOT",
-    "designer": null,
+    "designer": "",
     "year": 1941,
     "sizes": {
       "loa": 7.68,

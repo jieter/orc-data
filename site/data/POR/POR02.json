@@ -2,7 +2,6 @@
   "sailnumber": "POR/POR02",
   "country": "POR",
   "name": "PARALELO 32",
-  "owner": "-",
   "rating": {
     "gph": 777.0,
     "osn": 748.1,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "OCEANIS 323",
-    "designer": null,
+    "designer": "",
     "year": 2004,
     "sizes": {
       "loa": 9.187,

@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR7607",
   "country": "NOR",
   "name": "Lucille",
-  "owner": "-",
   "rating": {
     "gph": 680.4,
     "osn": 661.0,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "CONTRAST 33",
     "designer": "Rolf Magnusson",
     "year": 1978,

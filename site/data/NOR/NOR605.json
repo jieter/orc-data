@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR605",
   "country": "NOR",
   "name": "Team Ellida II",
-  "owner": "-",
   "rating": {
     "gph": 725.7,
     "osn": 704.8,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "EXPRESS",
     "designer": "Peter Norlin",
     "year": 1978,

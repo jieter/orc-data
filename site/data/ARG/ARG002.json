@@ -2,7 +2,6 @@
   "sailnumber": "ARG/ARG002",
   "country": "ARG",
   "name": "GAUCHO",
-  "owner": "-",
   "rating": {
     "gph": 542.9,
     "osn": 528.5,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "S 33",
     "designer": "JAVIER SOTO ACEBAL",
     "year": 2011,

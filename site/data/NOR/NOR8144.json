@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR8144",
   "country": "NOR",
   "name": "Roxanne",
-  "owner": "-",
   "rating": {
     "gph": 602.2,
     "osn": 585.6,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": " X-Yachts",
+    "builder": "X-Yachts",
     "type": "X-412",
     "designer": "Niels Jeppesen",
     "year": 1990,

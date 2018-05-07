@@ -2,7 +2,6 @@
   "sailnumber": "AUS/8289",
   "country": "AUS",
   "name": "ZEPHYR",
-  "owner": "-",
   "rating": {
     "gph": 653.9,
     "osn": 635.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "SEA NYMPH BOATS ",
+    "builder": "SEA NYMPH BOATS",
     "type": "FARR 1020",
     "designer": "FARR",
     "year": 1981,

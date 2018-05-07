@@ -2,7 +2,6 @@
   "sailnumber": "AUS/RQ1066",
   "country": "AUS",
   "name": "Mad Jack",
-  "owner": "-",
   "rating": {
     "gph": 570.3,
     "osn": 556.9,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Modern Concept ",
+    "builder": "Modern Concept",
     "type": "Ross 35",
     "designer": "Murray Ross",
     "year": 1994,
