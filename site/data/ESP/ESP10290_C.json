@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10290_C",
   "country": "ESP",
   "name": "ARELI",
-  "owner": "-",
   "rating": {
     "gph": 822.9,
     "osn": 790.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "LG ASTILLEROS",
     "type": "NADIR 22",
-    "designer": null,
+    "designer": "",
     "year": 2010,
     "sizes": {
       "loa": 6.5,

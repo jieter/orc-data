@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP083_C",
   "country": "ESP",
   "name": "AZUER IV",
-  "owner": "-",
   "rating": {
     "gph": 661.2,
     "osn": 642.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "BAVARIA",
     "type": "BAVARIA 36 HOLIDAY",
-    "designer": "JAKOPIN & JAKOPIN\t",
+    "designer": "JAKOPIN & JAKOPIN",
     "year": 1998,
     "sizes": {
       "loa": 11.18,

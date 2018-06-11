@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1555",
   "country": "GRE",
   "name": "MYTHOS",
-  "owner": "-",
   "rating": {
     "gph": 676.5,
     "osn": 657.6,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "JEANNEAU  ",
+    "builder": "JEANNEAU",
     "type": "SUN ODYSSEY 35",
     "designer": "Marc Lombard",
     "year": 2003,

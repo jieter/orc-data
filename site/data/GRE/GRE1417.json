@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1417",
   "country": "GRE",
   "name": "SOPHIA",
-  "owner": "-",
   "rating": {
     "gph": 786.8,
     "osn": 765.9,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "CONTESSA 25",
     "designer": "JEREMY ROGERS",
     "year": 1978,

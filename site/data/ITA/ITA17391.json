@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA17391",
   "country": "ITA",
   "name": "LO ZAMBESE VOLANTE",
-  "owner": "-",
   "rating": {
     "gph": 628.6,
     "osn": 616.7,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": "SIRENA MARINE ",
+    "builder": "SIRENA MARINE",
     "type": "AZUREE 33 FC",
-    "designer": "CECCARELLI YD ",
+    "designer": "CECCARELLI YD",
     "year": 2009,
     "sizes": {
       "loa": 9.99,

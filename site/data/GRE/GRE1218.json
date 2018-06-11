@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1218",
   "country": "GRE",
   "name": "ANTIOPE",
-  "owner": "-",
   "rating": {
     "gph": 656.0,
     "osn": 635.5,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "BAVARIA",
     "type": "BAVARIA 36",
-    "designer": null,
+    "designer": "",
     "year": 1998,
     "sizes": {
       "loa": 11.03,

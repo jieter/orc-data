@@ -2,7 +2,6 @@
   "sailnumber": "ISR/ISR403",
   "country": "ISR",
   "name": "Fury",
-  "owner": "-",
   "rating": {
     "gph": 726.5,
     "osn": 697.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Benetteau",
     "type": "Oceanis 40",
-    "designer": null,
+    "designer": "",
     "year": 2007,
     "sizes": {
       "loa": 11.82,

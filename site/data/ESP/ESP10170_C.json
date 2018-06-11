@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10170_C",
   "country": "ESP",
   "name": "MAYA PRIMERO",
-  "owner": "-",
   "rating": {
     "gph": 756.8,
     "osn": 731.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "BOLING",
     "designer": "PROTOTIPO",
     "year": 1966,

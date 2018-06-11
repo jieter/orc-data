@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR14064",
   "country": "NOR",
   "name": "Black Magic",
-  "owner": "-",
   "rating": {
     "gph": 628.1,
     "osn": 610.2,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Beneteau",
     "type": "First 35",
-    "designer": " Bruce Farr",
+    "designer": "Bruce Farr",
     "year": 2009,
     "sizes": {
       "loa": 10.66,

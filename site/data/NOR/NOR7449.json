@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR7449",
   "country": "NOR",
   "name": "Luzern",
-  "owner": "-",
   "rating": {
     "gph": 669.4,
     "osn": 656.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Banner B\u00e5de",
     "type": "BANNER 1/2 TON",
-    "designer": "JUDEL FRIEDRICH / ",
+    "designer": "JUDEL FRIEDRICH /",
     "year": 1985,
     "sizes": {
       "loa": 9.19,

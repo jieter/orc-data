@@ -2,7 +2,6 @@
   "sailnumber": "ISR/ISR727",
   "country": "ISR",
   "name": "Shachaf 1",
-  "owner": "-",
   "rating": {
     "gph": 616.7,
     "osn": 597.5,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Bavaria ",
+    "builder": "Bavaria",
     "type": "Bavaria 44 1.65",
     "designer": "Jakopin",
     "year": 2001,

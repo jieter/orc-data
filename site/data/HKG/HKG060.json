@@ -2,7 +2,6 @@
   "sailnumber": "HKG/HKG060",
   "country": "HKG",
   "name": "Hotwired",
-  "owner": "-",
   "rating": {
     "gph": 613.4,
     "osn": 594.1,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Bashford ",
+    "builder": "Bashford",
     "type": "Magic 25",
     "designer": "Ian Murray",
     "year": 1995,

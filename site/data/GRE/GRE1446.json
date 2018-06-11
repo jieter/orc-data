@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1446",
   "country": "GRE",
   "name": "ELISAVET",
-  "owner": "-",
   "rating": {
     "gph": 866.6,
     "osn": 828.3,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": null,
-    "designer": null,
+    "designer": "",
     "year": 0,
     "sizes": {
       "loa": 8.45,

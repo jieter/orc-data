@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1418",
   "country": "GRE",
   "name": "AEGLI",
-  "owner": "-",
   "rating": {
     "gph": 663.4,
     "osn": 643.5,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Bavaria Yachts",
     "type": "Bavaria 36 Cruiser",
-    "designer": null,
+    "designer": "",
     "year": 1998,
     "sizes": {
       "loa": 11.001,

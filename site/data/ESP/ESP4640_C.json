@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP4640_C",
   "country": "ESP",
   "name": "ALOPEX III",
-  "owner": "-",
   "rating": {
     "gph": 699.7,
     "osn": 677.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "UDONDO",
     "type": "ALTAMAR 41",
-    "designer": null,
+    "designer": "",
     "year": 1970,
     "sizes": {
       "loa": 12.3,

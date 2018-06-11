@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA561FUN",
   "country": "ITA",
   "name": "FUNTANTOSESSO",
-  "owner": "-",
   "rating": {
     "gph": 716.6,
     "osn": 694.4,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "FUN OD",
     "designer": "JOUBERT-NIVELT",
     "year": 1983,

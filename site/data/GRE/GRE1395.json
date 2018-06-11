@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1395",
   "country": "GRE",
   "name": "THARRINOS",
-  "owner": "-",
   "rating": {
     "gph": 737.7,
     "osn": 713.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "JEANNEAU",
     "type": "SUN ODYSSEY 37.1",
-    "designer": null,
+    "designer": "",
     "year": 1994,
     "sizes": {
       "loa": 11.23,

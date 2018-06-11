@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP8304",
   "country": "ESP",
   "name": "BELUSO",
-  "owner": "-",
   "rating": {
     "gph": 743.3,
     "osn": 719.6,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "YATLANT ",
+    "builder": "YATLANT",
     "type": "YATLANT 26",
     "designer": "J. GONZALEZ-CELA",
     "year": 2006,

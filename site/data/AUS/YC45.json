@@ -2,7 +2,6 @@
   "sailnumber": "AUS/YC45",
   "country": "AUS",
   "name": "CONCUBINE",
-  "owner": "-",
   "rating": {
     "gph": 476.4,
     "osn": 462.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Premier Composite ",
+    "builder": "Premier Composite",
     "type": "Mills 45 Custom",
     "designer": "Mills Design",
     "year": 2015,

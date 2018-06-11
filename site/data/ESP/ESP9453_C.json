@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP9453_C",
   "country": "ESP",
   "name": "URKESKEN",
-  "owner": "-",
   "rating": {
     "gph": 684.8,
     "osn": 663.3,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "ELAN ",
+    "builder": "ELAN",
     "type": "ELAN 31",
     "designer": "HUMPHREYS",
     "year": 2002,

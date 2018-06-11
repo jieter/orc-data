@@ -2,7 +2,6 @@
   "sailnumber": "NED/NED10111",
   "country": "NED",
   "name": "Zeilblij",
-  "owner": "-",
   "rating": {
     "gph": 562.9,
     "osn": 551.1,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "J-Boats ",
+    "builder": "J-Boats",
     "type": "J-111",
     "designer": "Johnson",
     "year": 2011,

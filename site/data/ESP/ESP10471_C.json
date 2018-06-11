@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10471_C",
   "country": "ESP",
   "name": "HATHOR",
-  "owner": "-",
   "rating": {
     "gph": 754.7,
     "osn": 732.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "ASTILLEROS MU\u00d1OZ M",
     "type": "SERVIOLA 23 ",
-    "designer": null,
+    "designer": "",
     "year": 1979,
     "sizes": {
       "loa": 7.0,

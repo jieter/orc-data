@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR16934",
   "country": "NOR",
   "name": "Tai",
-  "owner": "-",
   "rating": {
     "gph": 701.4,
     "osn": 677.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Bavaria Yachtburea",
     "type": "Bavaria 34 Cruiser",
-    "designer": null,
+    "designer": "",
     "year": 2009,
     "sizes": {
       "loa": 10.45,

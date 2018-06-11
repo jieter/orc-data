@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR657",
   "country": "NOR",
   "name": "Si-Si",
-  "owner": "-",
   "rating": {
     "gph": 730.1,
     "osn": 707.4,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Maxi ",
+    "builder": "Maxi",
     "type": "Maxi 95",
     "designer": "Pelle Petterson",
     "year": 1973,

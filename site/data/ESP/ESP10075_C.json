@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10075_C",
   "country": "ESP",
   "name": "TAMARAN UNO",
-  "owner": "-",
   "rating": {
     "gph": 754.9,
     "osn": 725.9,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "ATLAS 1000",
-    "designer": null,
+    "designer": "",
     "year": 1982,
     "sizes": {
       "loa": 9.6,

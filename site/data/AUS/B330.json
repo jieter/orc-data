@@ -2,7 +2,6 @@
   "sailnumber": "AUS/B330",
   "country": "AUS",
   "name": "HARTBREAKER",
-  "owner": "-",
   "rating": {
     "gph": 490.0,
     "osn": 476.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Hart Marine",
     "type": "Reichel Pugh 46",
-    "designer": "Reichel/Pugh ",
+    "designer": "Reichel/Pugh",
     "year": 2003,
     "sizes": {
       "loa": 14.21,

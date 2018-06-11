@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE284",
   "country": "GRE",
   "name": "BLUE",
-  "owner": "-",
   "rating": {
     "gph": 735.8,
     "osn": 714.2,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "CARTER 33",
-    "designer": null,
+    "designer": "",
     "year": 1975,
     "sizes": {
       "loa": 9.961,

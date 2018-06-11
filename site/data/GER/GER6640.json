@@ -2,7 +2,6 @@
   "sailnumber": "GER/GER6640",
   "country": "GER",
   "name": "LENA LY",
-  "owner": "-",
   "rating": {
     "gph": 625.0,
     "osn": 606.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "NAUTOR",
     "type": "SWAN 40.2",
-    "designer": null,
+    "designer": "",
     "year": 1979,
     "sizes": {
       "loa": 12.248,

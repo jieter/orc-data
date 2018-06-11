@@ -2,7 +2,6 @@
   "sailnumber": "NED/NED9002",
   "country": "NED",
   "name": "Fuut",
-  "owner": "-",
   "rating": {
     "gph": 707.4,
     "osn": 685.0,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Dehler ",
+    "builder": "Dehler",
     "type": "Dehler 29",
     "designer": "Judel & Vrolijk",
     "year": 1997,

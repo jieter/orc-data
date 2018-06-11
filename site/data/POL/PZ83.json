@@ -2,7 +2,6 @@
   "sailnumber": "POL/PZ83",
   "country": "POL",
   "name": "ORION",
-  "owner": "-",
   "rating": {
     "gph": 697.9,
     "osn": 673.1,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Abekin-Rasmussen",
     "type": "Rasmussen",
-    "designer": null,
+    "designer": "",
     "year": 1920,
     "sizes": {
       "loa": 13.269,

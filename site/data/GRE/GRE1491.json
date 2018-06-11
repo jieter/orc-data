@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1491",
   "country": "GRE",
   "name": "IVILATO",
-  "owner": "-",
   "rating": {
     "gph": 821.3,
     "osn": 795.5,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Moody 28",
     "designer": "Bill Dixon",
     "year": 1985,

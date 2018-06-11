@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP9261_C",
   "country": "ESP",
   "name": "TJULA",
-  "owner": "-",
   "rating": {
     "gph": 567.0,
     "osn": 553.9,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "BARRACUDA YACHTS ",
+    "builder": "BARRACUDA YACHTS",
     "type": "BARRACUDA 50",
     "designer": "I\u00d1IGO TOLEDO",
     "year": 2008,

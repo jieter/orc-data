@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR8915",
   "country": "NOR",
   "name": "Capriccio",
-  "owner": "-",
   "rating": {
     "gph": 625.1,
     "osn": 607.4,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "VICTORY 42",
     "designer": "S\u00f8dergren",
     "year": 1987,

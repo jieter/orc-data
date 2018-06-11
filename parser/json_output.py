@@ -1,5 +1,6 @@
 from __future__ import print_function
 
+import html
 import json
 import os
 from itertools import count
@@ -28,10 +29,9 @@ def format_data(data):
     sailnumber = '{}/{}'.format(data['country'], sailnumber)
 
     ret = {
-        'sailnumber': sailnumber,
+        'sailnumber': sailnumber.strip(),
         'country': data['country'],
-        'name': data.get('YachtName', '') or '',
-        'owner': '-',
+        'name': (data.get('YachtName', '') or '').strip(),
         'rating': {
             'gph': float(data['GPH']),
             'osn': float(data['OSN']),
@@ -39,9 +39,9 @@ def format_data(data):
             'triple_inshore': list(map(float, [data['TN_Inshore_Low'], data['TN_Inshore_Medium'], data['TN_Inshore_High']])),
         },
         'boat': {
-            'builder': data['Builder'],
+            'builder': (data['Builder'] or '').strip(),
             'type': data['Class'],
-            'designer': data['Designer'],
+            'designer': (data['Designer'] or '').strip(),
             'year': data['Age_Year'],
             'sizes': {
                 'loa': float(data['LOA']),
@@ -64,7 +64,7 @@ def format_data(data):
         'speeds': WIND_SPEEDS,
     }
     for i, twa in enumerate(WIND_ANGLES):
-        ret['vpp'][twa] = list([time_allowance2speed(data["Allowances"]['R%d' % twa][a]) for a, tws in enumerate(WIND_SPEEDS)])
+        ret['vpp'][twa] = list([time_allowance2speed(data['Allowances']['R%d' % twa][a]) for a, tws in enumerate(WIND_SPEEDS)])
 
     ret['vpp']['beat_angle'] = data["Allowances"]["BeatAngle"]
     ret['vpp']['beat_vmg'] = list([time_allowance2speed(v) for v in data["Allowances"]["Beat"]])
@@ -74,6 +74,32 @@ def format_data(data):
 
     return ret
 
+
+def jsonwriter_extremes(rmsdata):
+    data = list(map(format_data, rmsdata))
+
+    vppmax = lambda boat: max(max(boat['vpp'][s]) for s in boat['vpp']['angles'])
+    fast_boats = sorted(data, key=vppmax, reverse=True)
+
+    long_boats = sorted(data, key=lambda boat: boat['boat']['sizes']['loa'], reverse=True)
+    heavy_boats = sorted(data, key=lambda boat: boat['boat']['sizes']['displacement'], reverse=True)
+
+    sailno_vppmax = lambda boats: list([(boat['sailnumber'], vppmax(boat)) for boat in boats])
+
+    def sailno_sizekey(key, limit=10):
+        boats = sorted(data, key=lambda boat: boat['boat']['sizes'][key], reverse=True)[:limit]
+        return list([(boat['sailnumber'], boat['boat']['sizes'][key]) for boat in boats])
+
+    extremes = {}
+    extremes['max_speed'] = sailno_vppmax(fast_boats[:10])
+    extremes['min_speed'] = sailno_vppmax(fast_boats[-10:])
+
+    extremes['max_length'] = sailno_sizekey('loa')
+    extremes['max_displacement'] = sailno_sizekey('displacement')
+    extremes['max_draft'] = sailno_sizekey('draft')
+
+    with open('site/extremes.json', 'w+') as outfile:
+        json.dump(extremes, outfile, indent=2)
 
 def jsonwriter_single(rmsdata, sailnumber):
     data = map(format_data, rmsdata)
@@ -87,8 +113,6 @@ def jsonwriter_list(rmsdata):
     data = list(map(format_data, rmsdata))
     data = sorted(data, key=lambda x: x['name'])
 
-    print(data)
-
     with open('orc-data.json', 'w') as outfile:
         json.dump(data, outfile, separators=(',', ':', ))
 
@@ -100,11 +124,24 @@ def jsonwriter_site(rmsdata):
     # filter out boats without country
     data = list(filter(lambda x: x['country'] in COUNTRIES, data))
 
+    def transform(val):
+        return html.unescape(
+            (val or '').replace('\t', '').replace('"', '')
+        )
+
     # write the index
-    with open('site/index.json', 'w+') as outfile:
-        json.dump([
-            [boat['sailnumber'], boat['name'], boat['boat']['type']] for boat in data
-        ], outfile)
+    with open('site/index.tsv', 'w+') as outfile:
+        outfile.write('sailnumber\tname\ttype\n')
+
+        outfile.writelines([
+            '{}\t{}\t{}\n'.format(
+                transform(boat['sailnumber']),
+                transform(boat['name']),
+                transform(boat['boat']['type'])
+            )
+
+            for boat in data
+        ])
 
     # create subdirectories for countries
     for country in COUNTRIES:

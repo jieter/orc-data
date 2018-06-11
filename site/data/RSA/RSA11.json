@@ -2,7 +2,6 @@
   "sailnumber": "RSA/RSA11",
   "country": "RSA",
   "name": "Phoenix",
-  "owner": "-",
   "rating": {
     "gph": 439.0,
     "osn": 428.1,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "TP 52",
     "designer": "Botin",
     "year": 2014,

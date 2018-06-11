@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE4902",
   "country": "GRE",
   "name": "THYELLA",
-  "owner": "-",
   "rating": {
     "gph": 773.8,
     "osn": 748.4,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "PIONIER 9",
     "designer": "Van de Stadt",
     "year": 1961,

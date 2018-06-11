@@ -2,7 +2,6 @@
   "sailnumber": "CRO/CRO2186",
   "country": "CRO",
   "name": "Green Pepper",
-  "owner": "-",
   "rating": {
     "gph": 643.6,
     "osn": 623.9,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "AD Boats",
     "type": "Salona 34",
-    "designer": "Jakopin ",
+    "designer": "Jakopin",
     "year": 2008,
     "sizes": {
       "loa": 9.934,

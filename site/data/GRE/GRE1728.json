@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1728",
   "country": "GRE",
   "name": "MEDITERRANEO",
-  "owner": "-",
   "rating": {
     "gph": 756.7,
     "osn": 730.1,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": "CANTIERE ZUANELLI ",
+    "builder": "CANTIERE ZUANELLI",
     "type": "ZUANELLI 34",
-    "designer": "SPARKMAN STEPHENS ",
+    "designer": "SPARKMAN STEPHENS",
     "year": 1984,
     "sizes": {
       "loa": 10.06,

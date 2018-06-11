@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITAWOORI",
   "country": "ITA",
   "name": "WOORI",
-  "owner": "-",
   "rating": {
     "gph": 926.1,
     "osn": 888.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "JOUET-GOLIF",
     "type": "JOUET-GOLIF 22",
-    "designer": null,
+    "designer": "",
     "year": 1981,
     "sizes": {
       "loa": 6.465,

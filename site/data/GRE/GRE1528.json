@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1528",
   "country": "GRE",
   "name": "STAVENTO",
-  "owner": "-",
   "rating": {
     "gph": 719.4,
     "osn": 698.7,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": "MAXI ",
+    "builder": "MAXI",
     "type": "MAXI 95",
-    "designer": "PELLE PETERSON ",
+    "designer": "PELLE PETERSON",
     "year": 1976,
     "sizes": {
       "loa": 9.34,

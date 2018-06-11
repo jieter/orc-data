@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE776",
   "country": "GRE",
   "name": "NIKOLAOS",
-  "owner": "-",
   "rating": {
     "gph": 814.3,
     "osn": 795.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "THAMES MARINE",
     "type": "MIRAGE 28",
-    "designer": null,
+    "designer": "",
     "year": 1977,
     "sizes": {
       "loa": 8.54,

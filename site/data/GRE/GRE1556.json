@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1556",
   "country": "GRE",
   "name": "MEDOUSA III",
-  "owner": "-",
   "rating": {
     "gph": 665.4,
     "osn": 641.4,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "DROMOR YACHTS",
     "type": "ATHENA 44",
-    "designer": null,
+    "designer": "",
     "year": 1992,
     "sizes": {
       "loa": 13.0,

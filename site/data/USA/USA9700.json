@@ -2,7 +2,6 @@
   "sailnumber": "USA/USA9700",
   "country": "USA",
   "name": "DARK STAR",
-  "owner": "-",
   "rating": {
     "gph": 495.7,
     "osn": 482.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "RIPTIDE 44",
     "designer": "Bieker",
     "year": 2002,

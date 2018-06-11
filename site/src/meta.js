@@ -1,9 +1,9 @@
-var d3 = require('d3');
+import {select} from 'd3-selection';
 
-var polarcsv = require('./polar-csv.js').export;
-var polartable = require('./polartable.js');
+import {polarexport} from './polar-csv.js';
+import {polartable} from './polartable.js';
 
-var meta = d3.select('#meta').attr('class', 'meta');
+var meta = select('#meta').attr('class', 'meta');
 
 function metaItem (label, className, contents, title) {
     var className = 'meta-label' + (className ? ' ' + className : '');
@@ -22,8 +22,8 @@ function table (data) {
     return '<table class="meta-table"><tr>' + header + '</tr><tr>' + contents + '</tr></table>';
 }
 
-module.exports = function render_metadata (boat, extended) {
-    d3.select('#name').html(boat.name || '<span class="text-muted">Name unknown</span>');
+export function render_metadata (boat, extended) {
+    select('#name').html(boat.name || '<span class="text-muted">Name unknown</span>');
 
     var sizes = boat.boat.sizes;
 
@@ -56,7 +56,7 @@ module.exports = function render_metadata (boat, extended) {
             metaItem(
                 'polar (csv)',
                 'polar',
-                '<textarea class="' + (extended ? 'csv-extended' : '') + '">' + polarcsv(boat, extended) + '</textarea>'
+                '<textarea class="' + (extended ? 'csv-extended' : '') + '">' + polarexport(boat, extended) + '</textarea>'
             )
         ]).enter().append('div').attr('class', 'meta-item');
 

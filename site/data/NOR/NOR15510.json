@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR15510",
   "country": "NOR",
   "name": "Lille Du",
-  "owner": "-",
   "rating": {
     "gph": 642.5,
     "osn": 621.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "nn",
     "type": "Dufour 405",
-    "designer": null,
+    "designer": "",
     "year": 2009,
     "sizes": {
       "loa": 12.17,

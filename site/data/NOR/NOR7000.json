@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR7000",
   "country": "NOR",
   "name": "Farr out",
-  "owner": "-",
   "rating": {
     "gph": 613.4,
     "osn": 600.6,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "ONE TON",
     "designer": "Farr",
     "year": 1987,

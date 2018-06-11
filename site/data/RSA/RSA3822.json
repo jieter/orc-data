@@ -2,7 +2,6 @@
   "sailnumber": "RSA/RSA3822",
   "country": "RSA",
   "name": "Stoked",
-  "owner": "-",
   "rating": {
     "gph": 677.7,
     "osn": 659.3,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Dynamite 680",
-    "designer": null,
+    "designer": "",
     "year": 2005,
     "sizes": {
       "loa": 6.769,

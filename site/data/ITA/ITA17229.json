@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA17229",
   "country": "ITA",
   "name": "MAXIMILIAN I",
-  "owner": "-",
   "rating": {
     "gph": 683.0,
     "osn": 661.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "DELPHIA YACHTS",
     "type": "DELPHIA 33",
-    "designer": null,
+    "designer": "",
     "year": 2006,
     "sizes": {
       "loa": 9.95,

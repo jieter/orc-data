@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR10890",
   "country": "NOR",
   "name": "Istedenfor",
-  "owner": "-",
   "rating": {
     "gph": 651.3,
     "osn": 631.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Dufour Yachts",
     "type": "Dufour 34",
-    "designer": "Umberto Felici ",
+    "designer": "Umberto Felici",
     "year": 2003,
     "sizes": {
       "loa": 10.28,

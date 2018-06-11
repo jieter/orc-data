@@ -2,7 +2,6 @@
   "sailnumber": "CAN/6314",
   "country": "CAN",
   "name": "DILLIGAF",
-  "owner": "-",
   "rating": {
     "gph": 627.7,
     "osn": 611.3,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "930",
     "designer": "Murray Ross",
     "year": 1983,

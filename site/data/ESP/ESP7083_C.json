@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP7083_C",
   "country": "ESP",
   "name": "KOROMBO",
-  "owner": "-",
   "rating": {
     "gph": 633.9,
     "osn": 616.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "BAVARIA",
     "type": "BAVARIA 36 CR",
-    "designer": "JAKOPIN & JAKOPIN\t",
+    "designer": "JAKOPIN & JAKOPIN",
     "year": 2002,
     "sizes": {
       "loa": 10.96,

@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR308",
   "country": "NOR",
   "name": "Snail Racing",
-  "owner": "-",
   "rating": {
     "gph": 623.9,
     "osn": 605.3,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "MELGES 24 OD",
     "designer": "REICHEL/PUGH",
     "year": 1992,

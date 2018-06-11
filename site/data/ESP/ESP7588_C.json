@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP7588_C",
   "country": "ESP",
   "name": "ESTRELLA",
-  "owner": "-",
   "rating": {
     "gph": 678.2,
     "osn": 658.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "TUCANA",
     "type": "TUCANA 28 SD",
-    "designer": null,
+    "designer": "",
     "year": 1994,
     "sizes": {
       "loa": 8.15,

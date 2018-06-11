@@ -2,7 +2,6 @@
   "sailnumber": "GER/7KR309",
   "country": "GER",
   "name": "GRETA",
-  "owner": "-",
   "rating": {
     "gph": 678.8,
     "osn": 660.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "A&R",
     "type": "7 KR",
-    "designer": null,
+    "designer": "",
     "year": 1964,
     "sizes": {
       "loa": 11.895,

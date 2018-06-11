@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP8157_C",
   "country": "ESP",
   "name": "LOANT",
-  "owner": "-",
   "rating": {
     "gph": 671.8,
     "osn": 655.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "BAVARIA",
     "type": "BAVARIA 33 CRUISER",
-    "designer": "JAKOPIN & JAKOPIN\t",
+    "designer": "JAKOPIN & JAKOPIN",
     "year": 2005,
     "sizes": {
       "loa": 10.18,

@@ -2,7 +2,6 @@
   "sailnumber": "USA/USA53561",
   "country": "USA",
   "name": "SADIE MAE",
-  "owner": "-",
   "rating": {
     "gph": 601.2,
     "osn": 583.0,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "DEL PARDO ",
+    "builder": "DEL PARDO",
     "type": "GRAND SOLEIL 40C",
     "designer": "BOTIN CARKEEK",
     "year": 2006,

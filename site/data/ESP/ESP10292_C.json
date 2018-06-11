@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10292_C",
   "country": "ESP",
   "name": "LULA",
-  "owner": "-",
   "rating": {
     "gph": 646.7,
     "osn": 624.9,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Jeanneau",
     "type": "SUN ODYSSEY 39 DS",
-    "designer": "Marc Lombard ",
+    "designer": "Marc Lombard",
     "year": 2007,
     "sizes": {
       "loa": 11.62,

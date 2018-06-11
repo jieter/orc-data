@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR11357",
   "country": "NOR",
   "name": "Krabbelure",
-  "owner": "-",
   "rating": {
     "gph": 587.2,
     "osn": 569.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Beneteau",
     "type": "FIRST 45 F5",
-    "designer": null,
+    "designer": "",
     "year": 1990,
     "sizes": {
       "loa": 13.72,

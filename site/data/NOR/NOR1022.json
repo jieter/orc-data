@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR1022",
   "country": "NOR",
   "name": "eXodus",
-  "owner": "-",
   "rating": {
     "gph": 725.7,
     "osn": 704.8,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": " Albin Marin",
+    "builder": "Albin Marin",
     "type": "EXPRESS",
     "designer": "Peter Norlin",
     "year": 1978,

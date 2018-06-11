@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE20",
   "country": "GRE",
   "name": "SAXON",
-  "owner": "-",
   "rating": {
     "gph": 822.1,
     "osn": 796.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "THAMES MARINE",
     "type": "MIRAGE 26",
-    "designer": null,
+    "designer": "",
     "year": 1978,
     "sizes": {
       "loa": 7.9,

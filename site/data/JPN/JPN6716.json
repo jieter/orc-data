@@ -2,7 +2,6 @@
   "sailnumber": "JPN/JPN6716",
   "country": "JPN",
   "name": "Lady Kanon V",
-  "owner": "-",
   "rating": {
     "gph": 604.9,
     "osn": 588.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Najad",
     "type": "Najad440ac",
-    "designer": null,
+    "designer": "",
     "year": 2009,
     "sizes": {
       "loa": 13.5,

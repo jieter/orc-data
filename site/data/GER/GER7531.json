@@ -2,7 +2,6 @@
   "sailnumber": "GER/GER7531",
   "country": "GER",
   "name": "NIKAJU",
-  "owner": "-",
   "rating": {
     "gph": 635.7,
     "osn": 616.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "DEHLER YACHTBAU",
     "type": "DEHLER 35SQ Std",
-    "designer": "VOOGD Simonis  ",
+    "designer": "VOOGD Simonis",
     "year": 2007,
     "sizes": {
       "loa": 10.5,

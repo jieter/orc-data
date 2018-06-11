@@ -2,7 +2,6 @@
   "sailnumber": "KOR/KOR2637",
   "country": "KOR",
   "name": "TEAM chuyong",
-  "owner": "-",
   "rating": {
     "gph": 539.9,
     "osn": 524.5,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "MIKE MUIR",
     "designer": "MIKE MUIR",
     "year": 1991,

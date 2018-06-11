@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA4539",
   "country": "ITA",
   "name": "PENELOPE",
-  "owner": "-",
   "rating": {
     "gph": 663.2,
     "osn": 644.9,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "PROTO",
     "designer": "SPARKMAN&STEPHENS",
     "year": 1972,

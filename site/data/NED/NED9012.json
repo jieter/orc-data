@@ -2,7 +2,6 @@
   "sailnumber": "NED/NED9012",
   "country": "NED",
   "name": "Caro Mio",
-  "owner": "-",
   "rating": {
     "gph": 604.4,
     "osn": 596.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Tofinou",
     "type": "Tofinou 12",
-    "designer": " Joubert / Nivelt",
+    "designer": "Joubert / Nivelt",
     "year": 2015,
     "sizes": {
       "loa": 11.99,

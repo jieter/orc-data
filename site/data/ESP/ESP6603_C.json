@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP6603_C",
   "country": "ESP",
   "name": "PIONENE",
-  "owner": "-",
   "rating": {
     "gph": 655.3,
     "osn": 632.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "BAVARIA",
     "type": "BAVARIA 38 CR",
-    "designer": null,
+    "designer": "",
     "year": 2002,
     "sizes": {
       "loa": 11.562,

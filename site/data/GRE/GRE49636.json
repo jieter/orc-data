@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE49636",
   "country": "GRE",
   "name": "INNAMORATA",
-  "owner": "-",
   "rating": {
     "gph": 749.6,
     "osn": 718.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "OLYMPIC MARINE",
     "type": "OLYMPIC 40",
-    "designer": null,
+    "designer": "",
     "year": 1974,
     "sizes": {
       "loa": 12.126,

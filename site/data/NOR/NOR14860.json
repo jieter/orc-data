@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR14860",
   "country": "NOR",
   "name": "Anna",
-  "owner": "-",
   "rating": {
     "gph": 603.7,
     "osn": 584.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Jeanneau",
     "type": "Sun OD 439",
-    "designer": "Philippe Briand ",
+    "designer": "Philippe Briand",
     "year": 2011,
     "sizes": {
       "loa": 12.99,

@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR519",
   "country": "NOR",
   "name": "Bluesette",
-  "owner": "-",
   "rating": {
     "gph": 882.6,
     "osn": 845.0,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "NORDISK FOLKB\u00c5T",
     "designer": "Sunden",
     "year": 1942,

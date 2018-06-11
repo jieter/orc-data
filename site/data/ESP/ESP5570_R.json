@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP5570_R",
   "country": "ESP",
   "name": "PETROUCHKA III",
-  "owner": "-",
   "rating": {
     "gph": 568.9,
     "osn": 559.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "PROTOTIPO",
     "type": "PROTO 40",
-    "designer": null,
+    "designer": "",
     "year": 2000,
     "sizes": {
       "loa": 12.177,

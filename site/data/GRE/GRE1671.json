@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1671",
   "country": "GRE",
   "name": "AMFITRITI",
-  "owner": "-",
   "rating": {
     "gph": 734.9,
     "osn": 706.8,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": "JEANNEAU ",
+    "builder": "JEANNEAU",
     "type": "SUN ODYSSEY 35",
-    "designer": null,
+    "designer": "",
     "year": 2002,
     "sizes": {
       "loa": 10.4,

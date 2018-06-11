@@ -2,7 +2,6 @@
   "sailnumber": "AUS/MH37",
   "country": "AUS",
   "name": "Madge",
-  "owner": "-",
   "rating": {
     "gph": 626.9,
     "osn": 608.6,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Adams 10",
     "designer": "Joe Adams",
     "year": 1993,

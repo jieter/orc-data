@@ -2,7 +2,6 @@
   "sailnumber": "TUR/TUR4440",
   "country": "TUR",
   "name": "Adios",
-  "owner": "-",
   "rating": {
     "gph": 622.5,
     "osn": 606.4,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "OD Yachting",
     "type": "Farr 25 OD",
-    "designer": "Farr ",
+    "designer": "Farr",
     "year": 2008,
     "sizes": {
       "loa": 7.619,

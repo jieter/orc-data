@@ -2,7 +2,6 @@
   "sailnumber": "GRE/C28",
   "country": "GRE",
   "name": "TEENIE TANOU",
-  "owner": "-",
   "rating": {
     "gph": 729.4,
     "osn": 706.4,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "PECAL",
     "type": "CARDEL 28",
-    "designer": null,
+    "designer": "",
     "year": 1982,
     "sizes": {
       "loa": 8.12,

@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA17421",
   "country": "ITA",
   "name": "MAGIC US",
-  "owner": "-",
   "rating": {
     "gph": 521.6,
     "osn": 505.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "SOLARIS TACHT ",
+    "builder": "SOLARIS TACHT",
     "type": "SOLARIS ONE 50",
     "designer": "JAVIER SOTO ACEBAL",
     "year": 2015,

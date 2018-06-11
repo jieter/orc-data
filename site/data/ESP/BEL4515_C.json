@@ -2,7 +2,6 @@
   "sailnumber": "ESP/BEL4515_C",
   "country": "ESP",
   "name": "WAWLAU",
-  "owner": "-",
   "rating": {
     "gph": 569.7,
     "osn": 553.8,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": " WAUQUIEZ HENRI",
+    "builder": "WAUQUIEZ HENRI",
     "type": "CENTURION 45 S",
     "designer": "RACOUPEAU/BERRET",
     "year": 2002,

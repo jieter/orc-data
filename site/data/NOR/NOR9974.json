@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR9974",
   "country": "NOR",
   "name": "Sarpsborg EL Installasjo",
-  "owner": "-",
   "rating": {
     "gph": 671.9,
     "osn": 655.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Melander",
     "type": "1/2 TON ONE OFF",
-    "designer": null,
+    "designer": "",
     "year": 1981,
     "sizes": {
       "loa": 9.51,

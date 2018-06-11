@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR14522",
   "country": "NOR",
   "name": "Mizar",
-  "owner": "-",
   "rating": {
     "gph": 678.3,
     "osn": 658.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Hanse Yachts",
     "type": "Hanse 325",
-    "designer": "judel / vrolijk & ",
+    "designer": "judel / vrolijk &",
     "year": 2010,
     "sizes": {
       "loa": 9.55,

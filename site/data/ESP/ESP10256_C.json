@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10256_C",
   "country": "ESP",
   "name": "SR SMEE",
-  "owner": "-",
   "rating": {
     "gph": 753.1,
     "osn": 732.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "ASTILLEROS MU\u00d1OZ M",
     "type": "SERVIOLA 23 ",
-    "designer": null,
+    "designer": "",
     "year": 1979,
     "sizes": {
       "loa": 7.0,

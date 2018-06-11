@@ -2,7 +2,6 @@
   "sailnumber": "RSA/RSA2231",
   "country": "RSA",
   "name": "Anastasia",
-  "owner": "-",
   "rating": {
     "gph": 726.4,
     "osn": 702.0,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Lavranos 39",
     "designer": "Lavranos",
     "year": 1993,

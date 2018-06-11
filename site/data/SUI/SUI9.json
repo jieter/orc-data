@@ -2,7 +2,6 @@
   "sailnumber": "SUI/SUI9",
   "country": "SUI",
   "name": "FR\u00d6YA",
-  "owner": "-",
   "rating": {
     "gph": 615.3,
     "osn": 603.3,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "8mIR",
     "designer": "BJARNE AAS",
     "year": 1939,

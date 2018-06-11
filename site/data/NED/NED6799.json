@@ -2,7 +2,6 @@
   "sailnumber": "NED/NED6799",
   "country": "NED",
   "name": "Goeyedag",
-  "owner": "-",
   "rating": {
     "gph": 646.7,
     "osn": 630.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "J-Boat",
     "type": "J-92",
-    "designer": "Rod Johnstone ",
+    "designer": "Rod Johnstone",
     "year": 1992,
     "sizes": {
       "loa": 9.14,

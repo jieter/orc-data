@@ -2,7 +2,6 @@
   "sailnumber": "USA/USA2608",
   "country": "USA",
   "name": "Sprint 6",
-  "owner": "-",
   "rating": {
     "gph": 610.5,
     "osn": 592.0,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "GP 26",
     "designer": "DONOVAN",
     "year": 2013,
