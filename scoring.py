@@ -13,19 +13,15 @@ if __name__ == "__main__":
     # display help:
     if len(sys.argv) <= 1:
         log(
-            "Usage: scoring.py json                 print json data for all boats to orc-data.json"
-        )
-        log(
-            "       scoring.py json <sailnumber>    print json data for a single boat to stdout"
-        )
-        log(
+            "Usage: scoring.py json                 print json data for all boats to orc-data.json\n"
+            "       scoring.py json <sailnumber>    print json data for a single boat to stdout\n"
             "       scoring.py site                 Export data for gh-pages site to site/index.json and site/data/*.json"
         )
         sys.exit(1)
 
-    pattern = "data/{year}/*{year}.json".format(year=YEAR)
+    pattern = f"data/{YEAR}/*{YEAR}.json"
     rms = parse_json_glob(pattern)
-    log("Loaded a total of %d boats with pattern %s." % (len(rms), pattern))
+    log(f"Loaded a total of {len(rms)} boats with pattern {pattern}.")
 
     if sys.argv[1] == "json":
 

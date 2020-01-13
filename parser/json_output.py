@@ -20,16 +20,17 @@ def select(boats, key, value):
 
 
 def format_data(data):
+    country = data["country"]
     if data.get("SailNo", None):
         sailnumber = data["SailNo"].replace(" ", "").replace("-", "").replace("/", "")
     else:
-        sailnumber = "_{}".format(next(counter))
+        sailnumber = f"_{next(counter)}"
 
-    sailnumber = "{}/{}".format(data["country"], sailnumber)
+    sailnumber = f"{country}/{sailnumber}"
 
     ret = {
         "sailnumber": sailnumber,
-        "country": data["country"],
+        "country": country,
         "name": data.get("YachtName", "") or "",
         "owner": "-",
         "rating": {
@@ -125,24 +126,23 @@ def jsonwriter_site(rmsdata):
     # sort by name
     data = sorted(data, key=lambda x: x["name"])
     # filter out boats without country
-    data = list(filter(lambda x: x["country"] in COUNTRIES, data))
+    data = list(filter(lambda x: x["country"].upper() in COUNTRIES, data))
 
-    # write the index
+    # Write the index
     with open("site/index.json", "w+") as outfile:
         json.dump(
             [[boat["sailnumber"], boat["name"], boat["boat"]["type"]] for boat in data],
             outfile,
         )
 
-    # create subdirectories for countries
+    # Create subdirectories for all countries
     for country in COUNTRIES:
-        country_directory = "site/data/{}/".format(country)
+        country_directory = f"site/data/{country}/"
         if not os.path.exists(country_directory):
             os.makedirs(country_directory)
 
-    # write data to json
+    # Write data for each boat to json
     for boat in data:
-        filename = "site/data/{sailnumber}.json".format(**boat)
-
-        with open(filename, "w+") as outfile:
+        sailnumber = boat["sailnumber"]
+        with open(f"site/data/{sailnumber}.json", "w+") as outfile:
             json.dump(boat, outfile, indent=2)

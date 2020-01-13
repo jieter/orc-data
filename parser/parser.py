@@ -8,14 +8,14 @@ from .util import log
 
 
 def parse_json(filename):
-    """returns a list of dicts containing the data from filename"""
+    """Parse data from filename and return a list of boats."""
 
     country = filename.split("/")[2][0:3]
 
     try:
         rms = json.load(codecs.open(filename, "r", "utf-8-sig"))
     except json.decoder.JSONDecodeError as e:
-        print("error parsing file: {}, error: {}".format(filename, str(e)))
+        print(f"Error parsing file: {filename}, error: {e}")
         return []
 
     data = rms["rms"]
@@ -35,6 +35,6 @@ def parse_json_glob(pattern):
         data = parse_json(filename)
 
         ret.extend(data)
-        log("Loaded %d boats from %s" % (len(data), filename))
+        log(f"Loaded {len(data)} boats from {filename}")
 
     return ret
