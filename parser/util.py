@@ -8,6 +8,6 @@ def time_allowance2speed(arg):
 
 
 def log(*args, **kwargs):
-    '''Print to stderr'''
-    kwargs['file'] = sys.stderr
+    """Print to stderr"""
+    kwargs["file"] = sys.stderr
     print(*args, **kwargs)
