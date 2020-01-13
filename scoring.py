@@ -7,7 +7,7 @@ import sys
 from parser.parser import parse_json_glob
 from parser.util import log
 
-YEAR = 2019
+YEAR = 2020
 
 if __name__ == '__main__':
     # display help:
