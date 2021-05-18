@@ -13,7 +13,7 @@ def parse_json(filename):
     country = filename.split("/")[2][0:3]
 
     try:
-        rms = json.load(codecs.open(filename, "r", "utf-8-sig"))
+        rms = json.load(codecs.open(filename, "r", "utf-8-sig"), strict=False)
     except json.decoder.JSONDecodeError as e:
         print(f"Error parsing file: {filename}, error: {e}")
         return []
