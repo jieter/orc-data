@@ -36,6 +36,11 @@ if __name__ == "__main__":
 
         log("Exported to json")
 
+    if sys.argv[1] == "extremes":
+        from parser.json_output import jsonwriter_extremes
+
+        jsonwriter_extremes(rms)
+
     elif sys.argv[1] == "site":
         from parser.json_output import jsonwriter_site
 
