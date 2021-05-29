@@ -70,12 +70,11 @@ def format_data(data):
                 "genoa": float(data["Area_Jib"]),
                 "main": float(data["Area_Main"]),
                 "spinnaker": float(data["Area_Sym"]),
-                "spinnaker_asym": float(data["Area_ASym"]),
+                "spinnaker_asym": float(data.get("Area_Asym", data.get("Area_ASym"))),
                 "crew": float(data["CrewWT"]),
                 "wetted_surface": float(data["WSS"]),
             },
         },
-        # 'raw': data,
     }
     # velocity prediction
     ret["vpp"] = {
