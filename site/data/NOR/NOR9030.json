@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR9030",
   "country": "NOR",
   "name": "Anne-lise",
-  "owner": "-",
   "rating": {
     "gph": 654.2,
     "osn": 637.1,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "BIANCA 107",
     "designer": "Kj\u00e6rulf",
     "year": 1988,

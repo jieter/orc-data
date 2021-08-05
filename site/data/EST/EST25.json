@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST25",
   "country": "EST",
   "name": "BELLA",
-  "owner": "-",
   "rating": {
     "gph": 801.1,
     "osn": 779.1,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Rootsi",
     "type": "BELLONA 23",
-    "designer": null,
+    "designer": "",
     "year": 1976,
     "sizes": {
       "loa": 7.05,

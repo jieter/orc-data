@@ -2,7 +2,6 @@
   "sailnumber": "CRO/CRO3732",
   "country": "CRO",
   "name": "Ba Re V",
-  "owner": "-",
   "rating": {
     "gph": 491.4,
     "osn": 483.5,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Murtic",
     "type": "Murtic 52",
-    "designer": null,
+    "designer": "",
     "year": 2008,
     "sizes": {
       "loa": 15.997,

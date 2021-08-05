@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST944",
   "country": "EST",
   "name": "Azzurra",
-  "owner": "-",
   "rating": {
     "gph": 694.1,
     "osn": 675.7,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Inferno 29",
-    "designer": null,
+    "designer": "",
     "year": 1979,
     "sizes": {
       "loa": 8.8,

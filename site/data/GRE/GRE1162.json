@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1162",
   "country": "GRE",
   "name": "COSMAR",
-  "owner": "-",
   "rating": {
     "gph": 680.3,
     "osn": 657.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "BAVARIA",
     "type": "BAVARIA 36 HOLIDAY",
-    "designer": null,
+    "designer": "",
     "year": 1998,
     "sizes": {
       "loa": 11.18,

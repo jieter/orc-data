@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10671_C",
   "country": "ESP",
   "name": "KAIROS 4",
-  "owner": "-",
   "rating": {
     "gph": 639.4,
     "osn": 625.9,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "BEPOX 800",
     "designer": "David Reard",
     "year": 2007,

@@ -2,7 +2,6 @@
   "sailnumber": "NED/NED8946",
   "country": "NED",
   "name": "Wolk",
-  "owner": "-",
   "rating": {
     "gph": 774.5,
     "osn": 751.7,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Mallard Start 7",
-    "designer": null,
+    "designer": "",
     "year": 1977,
     "sizes": {
       "loa": 7.2,

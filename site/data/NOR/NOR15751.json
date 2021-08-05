@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR15751",
   "country": "NOR",
   "name": "Escapade",
-  "owner": "-",
   "rating": {
     "gph": 605.5,
     "osn": 591.7,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Seascape ",
+    "builder": "Seascape",
     "type": "Seascape 27",
     "designer": "Manuard",
     "year": 2012,

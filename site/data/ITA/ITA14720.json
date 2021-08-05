@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA14720",
   "country": "ITA",
   "name": "TUATHA",
-  "owner": "-",
   "rating": {
     "gph": 565.8,
     "osn": 548.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Cantieri del Pardo",
     "type": "Grand Soleil  45",
-    "designer": "J&J ",
+    "designer": "J&J",
     "year": 2003,
     "sizes": {
       "loa": 13.578,

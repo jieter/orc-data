@@ -2,7 +2,6 @@
   "sailnumber": "USA/7000",
   "country": "USA",
   "name": "VICTORINE",
-  "owner": "-",
   "rating": {
     "gph": 559.8,
     "osn": 546.8,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "COLUMBIA ",
+    "builder": "COLUMBIA",
     "type": "COLUMBIA 32",
     "designer": "KERNAN",
     "year": 2005,

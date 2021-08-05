@@ -2,7 +2,6 @@
   "sailnumber": "FIN/FIN11945",
   "country": "FIN",
   "name": "No Fly",
-  "owner": "-",
   "rating": {
     "gph": 761.8,
     "osn": 740.9,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "One off",
-    "designer": null,
+    "designer": "",
     "year": 0,
     "sizes": {
       "loa": 8.07,

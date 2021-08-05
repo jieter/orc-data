@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST983",
   "country": "EST",
   "name": "Astrid",
-  "owner": "-",
   "rating": {
     "gph": 770.1,
     "osn": 746.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "MAXI",
     "type": "FENIX",
-    "designer": null,
+    "designer": "",
     "year": 1981,
     "sizes": {
       "loa": 8.3,

@@ -2,7 +2,6 @@
   "sailnumber": "TUR/TUR28001",
   "country": "TUR",
   "name": "CODE-ZERO",
-  "owner": "-",
   "rating": {
     "gph": 578.1,
     "osn": 563.3,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "PREMIER COMPOSITE ",
+    "builder": "PREMIER COMPOSITE",
     "type": "FARR 280 OD",
     "designer": "FARR YACHT DESIGN",
     "year": 2014,

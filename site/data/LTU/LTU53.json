@@ -2,7 +2,6 @@
   "sailnumber": "LTU/LTU53",
   "country": "LTU",
   "name": "VASARA",
-  "owner": "-",
   "rating": {
     "gph": 722.9,
     "osn": 704.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Poland",
     "type": "Conrad 25R",
-    "designer": null,
+    "designer": "",
     "year": 1978,
     "sizes": {
       "loa": 7.63,

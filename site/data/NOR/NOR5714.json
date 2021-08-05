@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR5714",
   "country": "NOR",
   "name": "Ellidi",
-  "owner": "-",
   "rating": {
     "gph": 739.8,
     "osn": 720.5,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "POLO 86",
     "designer": "T Skj\u00f6nsberg",
     "year": 1979,

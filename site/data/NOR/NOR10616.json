@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR10616",
   "country": "NOR",
   "name": "Blue Note",
-  "owner": "-",
   "rating": {
     "gph": 607.2,
     "osn": 592.5,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "One Ton",
     "designer": "Elvstr\u00f8m/Kj\u00e6rulf",
     "year": 1981,

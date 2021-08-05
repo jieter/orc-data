@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST520",
   "country": "EST",
   "name": "SINILIND",
-  "owner": "-",
   "rating": {
     "gph": 668.7,
     "osn": 648.5,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Bavaria Yachtbau",
     "type": "Bavaria 33 CR",
-    "designer": null,
+    "designer": "",
     "year": 1993,
     "sizes": {
       "loa": 10.25,

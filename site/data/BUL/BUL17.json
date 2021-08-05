@@ -2,7 +2,6 @@
   "sailnumber": "BUL/BUL17",
   "country": "BUL",
   "name": "PAREA",
-  "owner": "-",
   "rating": {
     "gph": 600.0,
     "osn": 581.5,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "AD Boats ltd",
     "type": "Salona 40",
-    "designer": "J&J Design ",
+    "designer": "J&J Design",
     "year": 2003,
     "sizes": {
       "loa": 12.02,

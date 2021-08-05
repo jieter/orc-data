@@ -2,7 +2,6 @@
   "sailnumber": "FIN/8464",
   "country": "FIN",
   "name": "Raffi",
-  "owner": "-",
   "rating": {
     "gph": 662.3,
     "osn": 646.9,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Avance 365 deluxe",
     "designer": "Peter Norlin",
     "year": 1978,

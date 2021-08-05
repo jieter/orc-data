@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST248",
   "country": "EST",
   "name": "Sly",
-  "owner": "-",
   "rating": {
     "gph": 659.6,
     "osn": 640.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Fram Boat",
     "type": "Mach 3",
-    "designer": null,
+    "designer": "",
     "year": 1981,
     "sizes": {
       "loa": 9.764,

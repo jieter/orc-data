@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST874",
   "country": "EST",
   "name": "Kira",
-  "owner": "-",
   "rating": {
     "gph": 757.8,
     "osn": 734.4,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Rootsi",
     "type": "FENIX",
-    "designer": null,
+    "designer": "",
     "year": 1981,
     "sizes": {
       "loa": 8.3,

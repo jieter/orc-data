@@ -2,7 +2,6 @@
   "sailnumber": "AUS/AUS1213",
   "country": "AUS",
   "name": "2107 Racing",
-  "owner": "-",
   "rating": {
     "gph": 683.1,
     "osn": 664.5,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Etchells",
     "designer": "ETCHELLS",
     "year": 1967,

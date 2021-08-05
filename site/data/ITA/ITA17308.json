@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA17308",
   "country": "ITA",
   "name": "MIRAN",
-  "owner": "-",
   "rating": {
     "gph": 661.3,
     "osn": 640.4,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Bavaria Yachts",
     "type": "Bavaria 39 Cruiser",
-    "designer": "J & J ",
+    "designer": "J & J",
     "year": 2005,
     "sizes": {
       "loa": 11.97,

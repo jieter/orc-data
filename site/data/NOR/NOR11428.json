@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR11428",
   "country": "NOR",
   "name": "Enigheten",
-  "owner": "-",
   "rating": {
     "gph": 719.4,
     "osn": 701.4,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Beneteau",
     "type": "First 25.7",
-    "designer": null,
+    "designer": "",
     "year": 2004,
     "sizes": {
       "loa": 7.5,

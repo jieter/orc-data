@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1073",
   "country": "GRE",
   "name": "ASSANTE",
-  "owner": "-",
   "rating": {
     "gph": 655.7,
     "osn": 635.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "BAVARIA",
     "type": "BAVARIA 36",
-    "designer": null,
+    "designer": "",
     "year": 1998,
     "sizes": {
       "loa": 11.03,

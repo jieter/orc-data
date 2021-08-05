@@ -2,7 +2,6 @@
   "sailnumber": "LTU/LTU1250",
   "country": "LTU",
   "name": "TANGO",
-  "owner": "-",
   "rating": {
     "gph": 733.4,
     "osn": 711.4,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Benetau",
     "type": "First 28",
-    "designer": null,
+    "designer": "",
     "year": 1980,
     "sizes": {
       "loa": 8.45,

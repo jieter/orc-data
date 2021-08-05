@@ -2,7 +2,6 @@
   "sailnumber": "RUS/RUS5123",
   "country": "RUS",
   "name": "Slavia",
-  "owner": "-",
   "rating": {
     "gph": 632.0,
     "osn": 611.5,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "custom",
     "type": "one tonner",
-    "designer": null,
+    "designer": "",
     "year": 2012,
     "sizes": {
       "loa": 11.826,

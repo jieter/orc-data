@@ -2,7 +2,6 @@
   "sailnumber": "BRA/BRA2411",
   "country": "BRA",
   "name": "DUMA",
-  "owner": "-",
   "rating": {
     "gph": 513.9,
     "osn": 502.3,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "FARR 11S",
     "designer": "FARR",
     "year": 2006,

@@ -2,7 +2,6 @@
   "sailnumber": "UKR/UKR495",
   "country": "UKR",
   "name": "Scorpio",
-  "owner": "-",
   "rating": {
     "gph": 675.2,
     "osn": 661.6,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Toppetto ",
+    "builder": "Toppetto",
     "type": "one-off",
     "designer": "Vismara Alessandro",
     "year": 1991,

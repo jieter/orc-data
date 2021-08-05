@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1524",
   "country": "GRE",
   "name": "KATE MARY V",
-  "owner": "-",
   "rating": {
     "gph": 746.1,
     "osn": 723.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "JEANNEAU",
     "type": "SUN ODYSSEY 32",
-    "designer": null,
+    "designer": "",
     "year": 1993,
     "sizes": {
       "loa": 9.344,

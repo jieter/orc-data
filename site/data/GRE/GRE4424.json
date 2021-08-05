@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE4424",
   "country": "GRE",
   "name": "ELISSO",
-  "owner": "-",
   "rating": {
     "gph": 843.1,
     "osn": 818.9,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "DROMOR",
     "type": "CORINTHIAN 28",
-    "designer": null,
+    "designer": "",
     "year": 1978,
     "sizes": {
       "loa": 8.48,

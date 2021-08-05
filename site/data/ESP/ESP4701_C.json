@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP4701_C",
   "country": "ESP",
   "name": "MACARELLA",
-  "owner": "-",
   "rating": {
     "gph": 732.2,
     "osn": 713.6,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "PROTOTIPO",
     "designer": "V.DE STADT",
     "year": 1965,

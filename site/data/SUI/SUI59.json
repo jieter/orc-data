@@ -2,7 +2,6 @@
   "sailnumber": "SUI/SUI59",
   "country": "SUI",
   "name": "CoCoRoxy",
-  "owner": "-",
   "rating": {
     "gph": 610.2,
     "osn": 597.6,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "X-Yachts ",
+    "builder": "X-Yachts",
     "type": "Xp-33",
     "designer": "X-Yachts UK",
     "year": 2011,

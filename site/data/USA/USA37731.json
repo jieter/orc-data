@@ -2,7 +2,6 @@
   "sailnumber": "USA/USA37731",
   "country": "USA",
   "name": "JOINT VENTURE",
-  "owner": "-",
   "rating": {
     "gph": 653.5,
     "osn": 637.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "HUNTER YACHTS",
     "type": "HUNTER 37 LEGEND W",
-    "designer": null,
+    "designer": "",
     "year": 1989,
     "sizes": {
       "loa": 11.406,

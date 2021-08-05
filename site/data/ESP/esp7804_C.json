@@ -2,7 +2,6 @@
   "sailnumber": "ESP/esp7804_C",
   "country": "ESP",
   "name": "TOSSUT DOS",
-  "owner": "-",
   "rating": {
     "gph": 654.8,
     "osn": 634.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "BAVARIA",
     "type": "BAVARIA 36",
-    "designer": null,
+    "designer": "",
     "year": 1999,
     "sizes": {
       "loa": 11.04,

@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST817",
   "country": "EST",
   "name": "PLANEER",
-  "owner": "-",
   "rating": {
     "gph": 669.7,
     "osn": 648.1,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Beneteau",
     "type": "FIRST 31.7LR",
-    "designer": null,
+    "designer": "",
     "year": 1998,
     "sizes": {
       "loa": 9.5,

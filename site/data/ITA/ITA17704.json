@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA17704",
   "country": "ITA",
   "name": "BOLOLOMBO",
-  "owner": "-",
   "rating": {
     "gph": 616.3,
     "osn": 598.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Cantiere del Pardo",
     "type": "Grand Soleil 43",
-    "designer": "J & J ",
+    "designer": "J & J",
     "year": 1998,
     "sizes": {
       "loa": 12.895,

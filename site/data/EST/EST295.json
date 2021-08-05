@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST295",
   "country": "EST",
   "name": "BRIGITTA",
-  "owner": "-",
   "rating": {
     "gph": 654.1,
     "osn": 634.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "AS RIDAS JAHT",
     "type": "CROSS 31",
-    "designer": null,
+    "designer": "",
     "year": 1999,
     "sizes": {
       "loa": 9.295,

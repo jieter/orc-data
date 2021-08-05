@@ -2,7 +2,6 @@
   "sailnumber": "TUR/TUR1773",
   "country": "TUR",
   "name": "HIBIKI",
-  "owner": "-",
   "rating": {
     "gph": 698.3,
     "osn": 677.9,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "SKIPPER YACHT",
     "type": "SKIPPI 750",
-    "designer": null,
+    "designer": "",
     "year": 2009,
     "sizes": {
       "loa": 7.49,

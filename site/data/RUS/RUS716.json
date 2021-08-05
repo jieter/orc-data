@@ -2,7 +2,6 @@
   "sailnumber": "RUS/RUS716",
   "country": "RUS",
   "name": "Grif",
-  "owner": "-",
   "rating": {
     "gph": 687.0,
     "osn": 663.9,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": " Szczecin Poland",
+    "builder": "Szczecin Poland",
     "type": "Taurus",
     "designer": "Gogolkewich",
     "year": 1972,

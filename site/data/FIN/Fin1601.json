@@ -2,7 +2,6 @@
   "sailnumber": "FIN/Fin1601",
   "country": "FIN",
   "name": "Yagal",
-  "owner": "-",
   "rating": {
     "gph": 736.9,
     "osn": 715.9,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Finnflyer 27 r",
     "designer": "Eiving still",
     "year": 1979,

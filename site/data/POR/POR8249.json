@@ -2,7 +2,6 @@
   "sailnumber": "POR/POR8249",
   "country": "POR",
   "name": "AIR MAIL",
-  "owner": "-",
   "rating": {
     "gph": 625.4,
     "osn": 611.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "CARTER 42",
     "designer": "DICK CARTER",
     "year": 1972,

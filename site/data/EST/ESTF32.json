@@ -2,7 +2,6 @@
   "sailnumber": "EST/ESTF32",
   "country": "EST",
   "name": "W-Lind",
-  "owner": "-",
   "rating": {
     "gph": 836.0,
     "osn": 812.4,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "SET",
     "type": "FOLKBOAT",
-    "designer": null,
+    "designer": "",
     "year": 1941,
     "sizes": {
       "loa": 7.68,

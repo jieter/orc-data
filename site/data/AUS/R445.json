@@ -2,7 +2,6 @@
   "sailnumber": "AUS/R445",
   "country": "AUS",
   "name": "SERIFA 2",
-  "owner": "-",
   "rating": {
     "gph": 649.1,
     "osn": 634.0,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "ROSS 930",
     "designer": "ROS",
     "year": 1983,

@@ -2,7 +2,6 @@
   "sailnumber": "AUT/AUT720",
   "country": "AUT",
   "name": "den Skoene",
-  "owner": "-",
   "rating": {
     "gph": 651.0,
     "osn": 634.9,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "BOERRESEN",
     "type": "BB 10",
-    "designer": null,
+    "designer": "",
     "year": 1979,
     "sizes": {
       "loa": 10.03,

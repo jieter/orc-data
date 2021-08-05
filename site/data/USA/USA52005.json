@@ -2,7 +2,6 @@
   "sailnumber": "USA/USA52005",
   "country": "USA",
   "name": "SMOKE",
-  "owner": "-",
   "rating": {
     "gph": 449.1,
     "osn": 440.7,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "TRANSPAC 52",
     "designer": "BOTIN-CARKEEK",
     "year": 2005,

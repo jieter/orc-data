@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST574",
   "country": "EST",
   "name": "BLACK BIRD",
-  "owner": "-",
   "rating": {
     "gph": 787.4,
     "osn": 764.8,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "BIRDIE 24",
     "designer": "Harry Becker",
     "year": 1976,

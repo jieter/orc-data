@@ -2,7 +2,6 @@
   "sailnumber": "SUI/SUI85O",
   "country": "SUI",
   "name": "SWIMMINGTOOL-O",
-  "owner": "-",
   "rating": {
     "gph": 580.2,
     "osn": 571.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "X-Yachts ",
+    "builder": "X-Yachts",
     "type": "Xp 38",
     "designer": "X-Yachts UK",
     "year": 2011,

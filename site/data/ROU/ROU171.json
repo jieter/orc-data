@@ -2,7 +2,6 @@
   "sailnumber": "ROU/ROU171",
   "country": "ROU",
   "name": "Galiola",
-  "owner": "-",
   "rating": {
     "gph": 695.9,
     "osn": 672.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Bavaria Yachts",
     "type": "Bavaria 36 ",
-    "designer": null,
+    "designer": "",
     "year": 2003,
     "sizes": {
       "loa": 11.04,

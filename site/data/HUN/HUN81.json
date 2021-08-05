@@ -2,7 +2,6 @@
   "sailnumber": "HUN/HUN81",
   "country": "HUN",
   "name": "Ellinore",
-  "owner": "-",
   "rating": {
     "gph": 585.4,
     "osn": 575.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Sweden",
     "type": "40 Skerry Cruiser",
-    "designer": null,
+    "designer": "",
     "year": 1922,
     "sizes": {
       "loa": 13.92,

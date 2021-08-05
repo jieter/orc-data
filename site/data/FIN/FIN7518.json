@@ -2,7 +2,6 @@
   "sailnumber": "FIN/FIN7518",
   "country": "FIN",
   "name": "Anni",
-  "owner": "-",
   "rating": {
     "gph": 724.1,
     "osn": 702.4,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "MAXI FENIX 8.5",
     "designer": "Pelle Pettersson",
     "year": 1986,

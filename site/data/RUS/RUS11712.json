@@ -2,7 +2,6 @@
   "sailnumber": "RUS/RUS11712",
   "country": "RUS",
   "name": "Lady A",
-  "owner": "-",
   "rating": {
     "gph": 569.1,
     "osn": 553.6,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Archambault A40 RC",
-    "designer": null,
+    "designer": "",
     "year": 2006,
     "sizes": {
       "loa": 11.98,

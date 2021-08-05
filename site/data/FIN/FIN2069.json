@@ -2,7 +2,6 @@
   "sailnumber": "FIN/FIN2069",
   "country": "FIN",
   "name": "Siiri",
-  "owner": "-",
   "rating": {
     "gph": 677.6,
     "osn": 660.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "H 323",
     "designer": "Hans Groop",
     "year": 1988,

@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP46",
   "country": "ESP",
   "name": "SOLVENTIS",
-  "owner": "-",
   "rating": {
     "gph": 546.3,
     "osn": 532.3,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Grand Soleil ",
+    "builder": "Grand Soleil",
     "type": "GS46 S (B&C) 2.99",
     "designer": "DEL PARDO",
     "year": 2006,

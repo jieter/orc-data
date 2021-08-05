@@ -2,7 +2,6 @@
   "sailnumber": "AUS/b5584",
   "country": "AUS",
   "name": "ONE OUT OF THE BOX",
-  "owner": "-",
   "rating": {
     "gph": 632.8,
     "osn": 615.1,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "ADAMS 10",
     "designer": "Joe ADAMS",
     "year": 1993,

@@ -2,7 +2,6 @@
   "sailnumber": "SUI/SUI56",
   "country": "SUI",
   "name": "MIRACULIX",
-  "owner": "-",
   "rating": {
     "gph": 613.9,
     "osn": 598.8,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "X-Yachts ",
+    "builder": "X-Yachts",
     "type": "Xp-33",
     "designer": "X-Yachts UK",
     "year": 2011,

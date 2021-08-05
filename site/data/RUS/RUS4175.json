@@ -2,7 +2,6 @@
   "sailnumber": "RUS/RUS4175",
   "country": "RUS",
   "name": "MOANA",
-  "owner": "-",
   "rating": {
     "gph": 676.8,
     "osn": 654.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "BAVARIA YACHTS",
     "type": "BAVARIA 340 LAGOON",
-    "designer": null,
+    "designer": "",
     "year": 1989,
     "sizes": {
       "loa": 10.51,

@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST734",
   "country": "EST",
   "name": "LIZA 1",
-  "owner": "-",
   "rating": {
     "gph": 741.6,
     "osn": 720.1,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Extra Paulette",
     "designer": "Joubert/Nivelt",
     "year": 1978,

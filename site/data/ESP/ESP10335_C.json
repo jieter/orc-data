@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10335_C",
   "country": "ESP",
   "name": "CELINE",
-  "owner": "-",
   "rating": {
     "gph": 693.4,
     "osn": 669.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "BAVARIA YACHTBAU",
     "type": "BAVARIA 37 ",
-    "designer": "JAKOPIN J&J ",
+    "designer": "JAKOPIN J&J",
     "year": 1996,
     "sizes": {
       "loa": 11.2,

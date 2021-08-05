@@ -2,7 +2,6 @@
   "sailnumber": "ECU/ECU4208",
   "country": "ECU",
   "name": "BANDIT",
-  "owner": "-",
   "rating": {
     "gph": 541.8,
     "osn": 527.5,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "NAUTOR",
     "type": "SWAN 42 CLUB",
-    "designer": " FRERS",
+    "designer": "FRERS",
     "year": 2006,
     "sizes": {
       "loa": 12.96,

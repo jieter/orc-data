@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST355",
   "country": "EST",
   "name": "Oya",
-  "owner": "-",
   "rating": {
     "gph": 801.2,
     "osn": 775.4,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Petterson",
     "type": "MAXI77",
-    "designer": null,
+    "designer": "",
     "year": 1971,
     "sizes": {
       "loa": 7.62,

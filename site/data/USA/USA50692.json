@@ -2,7 +2,6 @@
   "sailnumber": "USA/USA50692",
   "country": "USA",
   "name": "MORGAN OF MARIETTA",
-  "owner": "-",
   "rating": {
     "gph": 609.8,
     "osn": 592.8,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "CENTURION 42",
     "designer": "WAUQUIEZ",
     "year": 1984,

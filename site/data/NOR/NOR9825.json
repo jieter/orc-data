@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR9825",
   "country": "NOR",
   "name": "Zephyr",
-  "owner": "-",
   "rating": {
     "gph": 649.8,
     "osn": 639.3,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "ELVSTR\u00d8M 10,5",
     "designer": "Elvstr\u00f8m/Kj\u00e6rulf",
     "year": 1981,

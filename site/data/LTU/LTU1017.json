@@ -2,7 +2,6 @@
   "sailnumber": "LTU/LTU1017",
   "country": "LTU",
   "name": "JUMPIRA",
-  "owner": "-",
   "rating": {
     "gph": 657.0,
     "osn": 634.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Benetau, France",
     "type": "First Class 7,5",
-    "designer": null,
+    "designer": "",
     "year": 2005,
     "sizes": {
       "loa": 7.49,

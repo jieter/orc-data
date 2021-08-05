@@ -2,7 +2,6 @@
   "sailnumber": "FIN/FIN6723",
   "country": "FIN",
   "name": "Calypso",
-  "owner": "-",
   "rating": {
     "gph": 659.2,
     "osn": 642.0,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Contrast 362",
     "designer": "Rolf Magnusson",
     "year": 1987,

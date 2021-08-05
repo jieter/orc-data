@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR1464",
   "country": "NOR",
   "name": "NN",
-  "owner": "-",
   "rating": {
     "gph": 672.0,
     "osn": 651.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "J-70 ONE DESIGN",
     "designer": "JOHNSTONE",
     "year": 2012,

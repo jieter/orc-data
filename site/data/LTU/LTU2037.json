@@ -2,7 +2,6 @@
   "sailnumber": "LTU/LTU2037",
   "country": "LTU",
   "name": "PRUS PRIMO",
-  "owner": "-",
   "rating": {
     "gph": 642.1,
     "osn": 623.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "JEANNEAU",
     "type": "SUN FAST 3200",
-    "designer": null,
+    "designer": "",
     "year": 2007,
     "sizes": {
       "loa": 9.79,

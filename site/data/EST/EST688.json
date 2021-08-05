@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST688",
   "country": "EST",
   "name": "MARY LOU",
-  "owner": "-",
   "rating": {
     "gph": 764.8,
     "osn": 745.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Jakobssen",
     "type": "RJ 85",
-    "designer": null,
+    "designer": "",
     "year": 1969,
     "sizes": {
       "loa": 8.55,

@@ -2,7 +2,6 @@
   "sailnumber": "PER/PER2567",
   "country": "PER",
   "name": "AMARETTO",
-  "owner": "-",
   "rating": {
     "gph": 803.8,
     "osn": 779.2,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "ENDEAVOUR 32",
-    "designer": "TED ERWIN ",
+    "designer": "TED ERWIN",
     "year": 1976,
     "sizes": {
       "loa": 9.816,

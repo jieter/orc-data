@@ -2,7 +2,6 @@
   "sailnumber": "SWE/SWE50001",
   "country": "SWE",
   "name": "Lady Killer",
-  "owner": "-",
   "rating": {
     "gph": 478.0,
     "osn": 465.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Linjettb\u00e5tar",
     "type": "Shogun 50",
-    "designer": "H&O S\u00f6dergren ",
+    "designer": "H&O S\u00f6dergren",
     "year": 2019,
     "sizes": {
       "loa": 15.244,

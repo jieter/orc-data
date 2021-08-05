@@ -2,7 +2,6 @@
   "sailnumber": "USA/USA93586",
   "country": "USA",
   "name": "ESCAPE VELOCITY 2",
-  "owner": "-",
   "rating": {
     "gph": 556.8,
     "osn": 542.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Edgewater Yachts",
     "type": "KING 40",
-    "designer": "Mark Mills ",
+    "designer": "Mark Mills",
     "year": 2008,
     "sizes": {
       "loa": 12.071,

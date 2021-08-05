@@ -2,7 +2,6 @@
   "sailnumber": "FIN/_0",
   "country": "FIN",
   "name": "Isabelo",
-  "owner": "-",
   "rating": {
     "gph": 753.1,
     "osn": 734.3,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Finn Express 83",
     "designer": "Eivind Still",
     "year": 1981,

@@ -2,7 +2,6 @@
   "sailnumber": "FIN/Fin12043",
   "country": "FIN",
   "name": "Blue dream",
-  "owner": "-",
   "rating": {
     "gph": 620.5,
     "osn": 600.8,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Scandi Yachts ",
+    "builder": "Scandi Yachts",
     "type": "Scandi 42",
     "designer": "Ulf rogeberg",
     "year": 2020,

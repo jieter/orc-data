@@ -2,7 +2,6 @@
   "sailnumber": "ISR/ISR301",
   "country": "ISR",
   "name": "Mina",
-  "owner": "-",
   "rating": {
     "gph": 762.3,
     "osn": 737.4,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Dufour Arpege 30",
-    "designer": null,
+    "designer": "",
     "year": 1968,
     "sizes": {
       "loa": 9.215,

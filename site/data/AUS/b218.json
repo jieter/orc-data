@@ -2,7 +2,6 @@
   "sailnumber": "AUS/b218",
   "country": "AUS",
   "name": "TEN PAST TOO",
-  "owner": "-",
   "rating": {
     "gph": 634.2,
     "osn": 616.8,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "ADAMS 10",
     "designer": "Joe ADAMS",
     "year": 1971,

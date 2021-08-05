@@ -2,7 +2,6 @@
   "sailnumber": "FIN/FIN284",
   "country": "FIN",
   "name": "Oili",
-  "owner": "-",
   "rating": {
     "gph": 835.4,
     "osn": 810.6,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Kansanvene (Nordis",
     "designer": "Tord Sund\u00e9n",
     "year": 1960,

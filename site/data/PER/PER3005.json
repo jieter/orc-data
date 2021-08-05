@@ -2,7 +2,6 @@
   "sailnumber": "PER/PER3005",
   "country": "PER",
   "name": "YAYI",
-  "owner": "-",
   "rating": {
     "gph": 580.6,
     "osn": 564.8,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": "Dufour ",
+    "builder": "Dufour",
     "type": "Dufour 44",
-    "designer": "Umberto Felci ",
+    "designer": "Umberto Felci",
     "year": 2002,
     "sizes": {
       "loa": 13.35,

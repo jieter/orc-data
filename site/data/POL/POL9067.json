@@ -2,7 +2,6 @@
   "sailnumber": "POL/POL9067",
   "country": "POL",
   "name": "Sea Bee",
-  "owner": "-",
   "rating": {
     "gph": 727.5,
     "osn": 705.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Polmer Marine",
     "type": "Target 30",
-    "designer": null,
+    "designer": "",
     "year": 1981,
     "sizes": {
       "loa": 9.3,

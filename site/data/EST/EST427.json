@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST427",
   "country": "EST",
   "name": "Dolly",
-  "owner": "-",
   "rating": {
     "gph": 751.1,
     "osn": 728.1,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Artecno AB",
     "type": "OHLSON 29",
-    "designer": null,
+    "designer": "",
     "year": 1970,
     "sizes": {
       "loa": 9.09,

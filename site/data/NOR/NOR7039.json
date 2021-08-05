@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR7039",
   "country": "NOR",
   "name": "Fr\u00f8ken Fryd",
-  "owner": "-",
   "rating": {
     "gph": 638.2,
     "osn": 622.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "SW YACHTS 36 CR",
     "designer": "Peter Norlin",
     "year": 1984,

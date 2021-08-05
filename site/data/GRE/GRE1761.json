@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1761",
   "country": "GRE",
   "name": "ARIEL",
-  "owner": "-",
   "rating": {
     "gph": 691.4,
     "osn": 666.0,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "OLYMPIC SKY 39",
-    "designer": null,
+    "designer": "",
     "year": 1990,
     "sizes": {
       "loa": 11.5,

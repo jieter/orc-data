@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR8707",
   "country": "NOR",
   "name": "Perle",
-  "owner": "-",
   "rating": {
     "gph": 638.3,
     "osn": 622.1,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Boo Marin AB",
     "type": "ARCONA 355 S",
-    "designer": null,
+    "designer": "",
     "year": 1988,
     "sizes": {
       "loa": 10.8,

@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE508",
   "country": "GRE",
   "name": "PHAEDRA",
-  "owner": "-",
   "rating": {
     "gph": 579.2,
     "osn": 563.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Hanse Yachts ",
+    "builder": "Hanse Yachts",
     "type": "HANSE 508",
     "designer": "Judel/Vroelijk",
     "year": 2018,

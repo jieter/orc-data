@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR15737",
   "country": "NOR",
   "name": "Fritur",
-  "owner": "-",
   "rating": {
     "gph": 636.0,
     "osn": 623.1,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Dehler",
     "type": "Dehler 34",
-    "designer": "JUDEL FRIEDRICH / ",
+    "designer": "JUDEL FRIEDRICH /",
     "year": 2018,
     "sizes": {
       "loa": 10.254,

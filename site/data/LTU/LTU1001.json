@@ -2,7 +2,6 @@
   "sailnumber": "LTU/LTU1001",
   "country": "LTU",
   "name": "JAZZ",
-  "owner": "-",
   "rating": {
     "gph": 668.3,
     "osn": 652.5,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Dominant 95",
-    "designer": null,
+    "designer": "",
     "year": 1978,
     "sizes": {
       "loa": 9.5,

@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR306",
   "country": "NOR",
   "name": "Team 24/7",
-  "owner": "-",
   "rating": {
     "gph": 619.0,
     "osn": 601.5,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "MELGES 24 OD",
     "designer": "REICHEL/PUGH",
     "year": 1992,

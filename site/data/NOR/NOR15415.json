@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR15415",
   "country": "NOR",
   "name": "C'est nous!",
-  "owner": "-",
   "rating": {
     "gph": 586.6,
     "osn": 570.1,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Beneteau",
     "type": "First 40",
-    "designer": "Farr ",
+    "designer": "Farr",
     "year": 2008,
     "sizes": {
       "loa": 12.24,

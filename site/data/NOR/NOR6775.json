@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR6775",
   "country": "NOR",
   "name": "Martine",
-  "owner": "-",
   "rating": {
     "gph": 627.0,
     "osn": 610.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "COMFORTINA 38 CR",
     "designer": "Thomas Bern",
     "year": 1986,

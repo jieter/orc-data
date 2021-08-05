@@ -2,7 +2,6 @@
   "sailnumber": "USA/USA76",
   "country": "USA",
   "name": "MISE EN PLACE",
-  "owner": "-",
   "rating": {
     "gph": 645.6,
     "osn": 628.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "BENETEAU",
     "type": "Unknown",
-    "designer": null,
+    "designer": "",
     "year": 1998,
     "sizes": {
       "loa": 11.751,

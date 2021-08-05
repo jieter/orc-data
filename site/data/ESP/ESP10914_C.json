@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10914_C",
   "country": "ESP",
   "name": "MIRAVENT",
-  "owner": "-",
   "rating": {
     "gph": 691.9,
     "osn": 671.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "BAVARIA YACHTS",
     "type": "BAVARIA 32 SK",
-    "designer": "J&J design ",
+    "designer": "J&J design",
     "year": 2001,
     "sizes": {
       "loa": 9.75,

@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST661",
   "country": "EST",
   "name": "SARAH-MEE 2",
-  "owner": "-",
   "rating": {
     "gph": 705.1,
     "osn": 686.9,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Jeanneau",
     "type": "SUN ODYSSEY 32",
-    "designer": null,
+    "designer": "",
     "year": 2002,
     "sizes": {
       "loa": 9.6,

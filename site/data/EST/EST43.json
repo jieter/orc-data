@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST43",
   "country": "EST",
   "name": "MARIA",
-  "owner": "-",
   "rating": {
     "gph": 738.7,
     "osn": 717.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Teliga",
     "type": "CARTER 30",
-    "designer": null,
+    "designer": "",
     "year": 1972,
     "sizes": {
       "loa": 9.13,

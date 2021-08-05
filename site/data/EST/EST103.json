@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST103",
   "country": "EST",
   "name": "RIIN",
-  "owner": "-",
   "rating": {
     "gph": 756.2,
     "osn": 733.3,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "APHRODITE 30",
-    "designer": null,
+    "designer": "",
     "year": 1976,
     "sizes": {
       "loa": 8.95,

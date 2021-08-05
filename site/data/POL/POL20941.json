@@ -2,7 +2,6 @@
   "sailnumber": "POL/POL20941",
   "country": "POL",
   "name": "FORSATIO",
-  "owner": "-",
   "rating": {
     "gph": 561.2,
     "osn": 543.1,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "YD-41",
     "designer": "Micha\u0142 Orych",
     "year": 2018,

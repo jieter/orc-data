@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP6509",
   "country": "ESP",
   "name": "VOLAVERUNT",
-  "owner": "-",
   "rating": {
     "gph": 569.5,
     "osn": 555.5,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": " WAUQUIEZ HENRI",
+    "builder": "WAUQUIEZ HENRI",
     "type": "CENTURION 45 S",
     "designer": "RACOUPEAU/BERRET",
     "year": 2002,

@@ -2,7 +2,6 @@
   "sailnumber": "HUN/HUN3301",
   "country": "HUN",
   "name": "L\u00e1bad-X",
-  "owner": "-",
   "rating": {
     "gph": 606.9,
     "osn": 595.7,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "X-Yachts ",
+    "builder": "X-Yachts",
     "type": "XP 33",
     "designer": "Jepessen",
     "year": 2011,

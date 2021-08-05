@@ -2,7 +2,6 @@
   "sailnumber": "NED/NED459",
   "country": "NED",
   "name": "Sara-Mia",
-  "owner": "-",
   "rating": {
     "gph": 699.0,
     "osn": 679.4,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Jachtwerf van Dam ",
+    "builder": "Jachtwerf van Dam",
     "type": "One off",
     "designer": "A. Buchanan",
     "year": 1952,

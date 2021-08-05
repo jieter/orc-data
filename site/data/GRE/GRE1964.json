@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1964",
   "country": "GRE",
   "name": "AIKALIA",
-  "owner": "-",
   "rating": {
     "gph": 675.9,
     "osn": 653.9,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "OWNER",
     "type": "ONE OFF",
-    "designer": null,
+    "designer": "",
     "year": 1992,
     "sizes": {
       "loa": 11.98,

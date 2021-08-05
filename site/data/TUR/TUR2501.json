@@ -2,7 +2,6 @@
   "sailnumber": "TUR/TUR2501",
   "country": "TUR",
   "name": "OneDesign",
-  "owner": "-",
   "rating": {
     "gph": 616.9,
     "osn": 602.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "OD Yachting",
     "type": "Farr 25 OD",
-    "designer": "Farr ",
+    "designer": "Farr",
     "year": 2008,
     "sizes": {
       "loa": 7.595,

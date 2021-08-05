@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR14742",
   "country": "NOR",
   "name": "Joppe",
-  "owner": "-",
   "rating": {
     "gph": 638.9,
     "osn": 623.4,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Humphreys 30",
     "designer": "Humphreys",
     "year": 1999,

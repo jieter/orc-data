@@ -2,7 +2,6 @@
   "sailnumber": "AUS/AUS185",
   "country": "AUS",
   "name": "THE MENACE",
-  "owner": "-",
   "rating": {
     "gph": 599.7,
     "osn": 583.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Shanghai Far East ",
+    "builder": "Shanghai Far East",
     "type": "FarEAST 28R",
     "designer": "Simonis & Voogd",
     "year": 2015,

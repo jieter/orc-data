@@ -2,7 +2,6 @@
   "sailnumber": "NED/NED9155",
   "country": "NED",
   "name": "solist",
-  "owner": "-",
   "rating": {
     "gph": 649.1,
     "osn": 642.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "solitairyachts ",
+    "builder": "solitairyachts",
     "type": "solitair28",
     "designer": "Sattelite yacht de",
     "year": 2020,

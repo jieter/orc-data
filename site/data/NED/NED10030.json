@@ -2,7 +2,6 @@
   "sailnumber": "NED/NED10030",
   "country": "NED",
   "name": "insails",
-  "owner": "-",
   "rating": {
     "gph": 600.9,
     "osn": 589.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Dehler",
     "type": "Dehler 30 OD",
-    "designer": "Judel/vrolijk ",
+    "designer": "Judel/vrolijk",
     "year": 2019,
     "sizes": {
       "loa": 9.12,

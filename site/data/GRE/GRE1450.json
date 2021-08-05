@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1450",
   "country": "GRE",
   "name": "PANDORA",
-  "owner": "-",
   "rating": {
     "gph": 731.1,
     "osn": 707.9,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "JEANNEAU",
     "type": "SUN ODYSSEY 34.2",
-    "designer": null,
+    "designer": "",
     "year": 1999,
     "sizes": {
       "loa": 9.975,

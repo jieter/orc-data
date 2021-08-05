@@ -2,7 +2,6 @@
   "sailnumber": "TUR/TUR1125",
   "country": "TUR",
   "name": "ORIENT XS",
-  "owner": "-",
   "rating": {
     "gph": 620.9,
     "osn": 605.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "OD Yachting",
     "type": "Farr 25 OD",
-    "designer": "Farr ",
+    "designer": "Farr",
     "year": 2008,
     "sizes": {
       "loa": 7.595,

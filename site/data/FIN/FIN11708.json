@@ -2,7 +2,6 @@
   "sailnumber": "FIN/FIN11708",
   "country": "FIN",
   "name": "Anastacia II",
-  "owner": "-",
   "rating": {
     "gph": 595.7,
     "osn": 582.3,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Finn Flyer Marina ",
+    "builder": "Finn Flyer Marina",
     "type": "Finnflyer 36 GT",
     "designer": "Kamu Str\u00e5lhmann",
     "year": 2008,

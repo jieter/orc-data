@@ -2,7 +2,6 @@
   "sailnumber": "FIN/FIN4006",
   "country": "FIN",
   "name": "Humbug",
-  "owner": "-",
   "rating": {
     "gph": 675.5,
     "osn": 658.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "one off / half ton",
     "designer": "Pelle Pettersson",
     "year": 1983,

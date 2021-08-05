@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR8716",
   "country": "NOR",
   "name": "Albatross",
-  "owner": "-",
   "rating": {
     "gph": 761.2,
     "osn": 737.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "MAXI 84",
     "designer": "Pelle Petterson",
     "year": 1977,

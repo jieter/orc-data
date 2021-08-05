@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR15735",
   "country": "NOR",
   "name": "Merlin II",
-  "owner": "-",
   "rating": {
     "gph": 649.7,
     "osn": 631.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Dehler",
     "type": "Dehler 34",
-    "designer": "JUDEL FRIEDRICH / ",
+    "designer": "JUDEL FRIEDRICH /",
     "year": 2017,
     "sizes": {
       "loa": 10.254,

@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST95",
   "country": "EST",
   "name": "VIRU - I",
-  "owner": "-",
   "rating": {
     "gph": 738.0,
     "osn": 716.5,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Conrad 25R",
     "designer": "Petterson",
     "year": 1978,

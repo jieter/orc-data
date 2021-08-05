@@ -2,7 +2,6 @@
   "sailnumber": "FIN/FIN1301",
   "country": "FIN",
   "name": "Carapace",
-  "owner": "-",
   "rating": {
     "gph": 674.9,
     "osn": 659.6,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "ANTILLA 36",
     "designer": "Sparkman&Stephens",
     "year": 1976,

@@ -2,7 +2,6 @@
   "sailnumber": "FIN/swe49",
   "country": "FIN",
   "name": "Krusmynta",
-  "owner": "-",
   "rating": {
     "gph": 678.8,
     "osn": 661.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "mamba34",
     "designer": "Rolf Magnusson",
     "year": 1982,

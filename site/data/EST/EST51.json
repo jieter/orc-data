@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST51",
   "country": "EST",
   "name": "NELE",
-  "owner": "-",
   "rating": {
     "gph": 687.8,
     "osn": 667.5,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "VCSPS",
     "type": "L6",
-    "designer": null,
+    "designer": "",
     "year": 1963,
     "sizes": {
       "loa": 12.56,

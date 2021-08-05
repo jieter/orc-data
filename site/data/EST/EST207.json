@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST207",
   "country": "EST",
   "name": "ERNA",
-  "owner": "-",
   "rating": {
     "gph": 679.7,
     "osn": 658.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "VSPS",
     "type": "L6",
-    "designer": null,
+    "designer": "",
     "year": 1963,
     "sizes": {
       "loa": 12.56,

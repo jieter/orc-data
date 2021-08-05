@@ -2,7 +2,6 @@
   "sailnumber": "AUS/7832",
   "country": "AUS",
   "name": "Carpe Vitae",
-  "owner": "-",
   "rating": {
     "gph": 744.3,
     "osn": 723.6,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "FAREAST 19",
-    "designer": null,
+    "designer": "",
     "year": 2017,
     "sizes": {
       "loa": 5.91,

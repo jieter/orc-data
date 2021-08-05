@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST877",
   "country": "EST",
   "name": "KESSU",
-  "owner": "-",
   "rating": {
     "gph": 789.9,
     "osn": 765.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "BK Marin",
     "type": "BECKER 27",
-    "designer": null,
+    "designer": "",
     "year": 1974,
     "sizes": {
       "loa": 8.12,

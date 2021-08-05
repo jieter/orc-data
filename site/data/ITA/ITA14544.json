@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA14544",
   "country": "ITA",
   "name": "FANTASIA",
-  "owner": "-",
   "rating": {
     "gph": 598.0,
     "osn": 582.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Cantieri del Pardo",
     "type": "Grand Soleil 43",
-    "designer": "J & J ",
+    "designer": "J & J",
     "year": 1998,
     "sizes": {
       "loa": 12.895,

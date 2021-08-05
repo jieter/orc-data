@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR15871",
   "country": "NOR",
   "name": "Sn\u00f8l\u00f8s",
-  "owner": "-",
   "rating": {
     "gph": 640.0,
     "osn": 621.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Hanse Yachts",
     "type": "Hanse 370",
-    "designer": "JUDEL FRIEDRICH / ",
+    "designer": "JUDEL FRIEDRICH /",
     "year": 2005,
     "sizes": {
       "loa": 11.28,

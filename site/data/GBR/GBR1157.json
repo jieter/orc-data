@@ -2,7 +2,6 @@
   "sailnumber": "GBR/GBR1157",
   "country": "GBR",
   "name": "Mikaku",
-  "owner": "-",
   "rating": {
     "gph": 659.4,
     "osn": 643.4,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "J-80 OD",
     "designer": "JOHNSTONE",
     "year": 1995,

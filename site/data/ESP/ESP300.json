@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP300",
   "country": "ESP",
   "name": "CAYUGA",
-  "owner": "-",
   "rating": {
     "gph": 632.9,
     "osn": 615.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "DEHLER YACHTS",
     "type": "Delher 41 DS",
-    "designer": "JUDEL FRIEDRICH / ",
+    "designer": "JUDEL FRIEDRICH /",
     "year": 1994,
     "sizes": {
       "loa": 12.43,

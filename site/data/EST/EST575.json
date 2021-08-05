@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST575",
   "country": "EST",
   "name": "AURORA",
-  "owner": "-",
   "rating": {
     "gph": 730.0,
     "osn": 711.2,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Karlstad",
     "type": "COMPIS 28",
-    "designer": null,
+    "designer": "",
     "year": 1968,
     "sizes": {
       "loa": 8.56,

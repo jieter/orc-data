@@ -2,7 +2,6 @@
   "sailnumber": "USA/USA5422",
   "country": "USA",
   "name": "ALBACORE",
-  "owner": "-",
   "rating": {
     "gph": 700.4,
     "osn": 684.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "PILOT 33",
     "designer": "S&S",
     "year": 1971,

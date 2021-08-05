@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP1122_C",
   "country": "ESP",
   "name": "EUREKA II",
-  "owner": "-",
   "rating": {
     "gph": 675.9,
     "osn": 658.7,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": " Frank V. Butler",
+    "builder": "Frank V. Butler",
     "type": "CATALINA 36 ",
     "designer": "CATALINA YACHTS",
     "year": 1980,

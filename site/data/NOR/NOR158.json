@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR158",
   "country": "NOR",
   "name": "Spin",
-  "owner": "-",
   "rating": {
     "gph": 604.4,
     "osn": 590.5,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "11 Metre",
     "designer": "Holland",
     "year": 1991,

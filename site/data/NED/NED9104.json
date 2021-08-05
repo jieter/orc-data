@@ -2,7 +2,6 @@
   "sailnumber": "NED/NED9104",
   "country": "NED",
   "name": "Blackfish",
-  "owner": "-",
   "rating": {
     "gph": 840.9,
     "osn": 812.4,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Contessa 26",
     "designer": "J Rogers",
     "year": 1977,

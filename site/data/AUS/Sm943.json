@@ -2,7 +2,6 @@
   "sailnumber": "AUS/Sm943",
   "country": "AUS",
   "name": "FORCE 30",
-  "owner": "-",
   "rating": {
     "gph": 583.0,
     "osn": 570.0,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "FARR 30",
     "designer": "FARR",
     "year": 1996,

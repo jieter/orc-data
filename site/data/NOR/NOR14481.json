@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR14481",
   "country": "NOR",
   "name": "R\u00e5n",
-  "owner": "-",
   "rating": {
     "gph": 682.4,
     "osn": 664.1,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Hanse Yachtbau",
     "type": "Hanse 315",
-    "designer": "JUDEL FRIEDRICH / ",
+    "designer": "JUDEL FRIEDRICH /",
     "year": 2005,
     "sizes": {
       "loa": 9.45,

@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1935",
   "country": "GRE",
   "name": "MARABU",
-  "owner": "-",
   "rating": {
     "gph": 774.1,
     "osn": 753.1,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": "Marine Projects ",
+    "builder": "Marine Projects",
     "type": "MOODY 33 MKI",
-    "designer": "Angus Primrose ",
+    "designer": "Angus Primrose",
     "year": 1978,
     "sizes": {
       "loa": 10.02,

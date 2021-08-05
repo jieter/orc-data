@@ -2,7 +2,6 @@
   "sailnumber": "USA/US52637",
   "country": "USA",
   "name": "9 Lives IV",
-  "owner": "-",
   "rating": {
     "gph": 648.8,
     "osn": 634.5,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "HUNTER YACHTS",
     "type": "HUNTER 37 LEGEND",
-    "designer": null,
+    "designer": "",
     "year": 1992,
     "sizes": {
       "loa": 11.406,

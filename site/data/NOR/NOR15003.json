@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR15003",
   "country": "NOR",
   "name": "First Lady",
-  "owner": "-",
   "rating": {
     "gph": 627.8,
     "osn": 611.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Beneteau",
     "type": "FIrst 35 10-",
-    "designer": null,
+    "designer": "",
     "year": 2009,
     "sizes": {
       "loa": 10.66,

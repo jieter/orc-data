@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP8207_C",
   "country": "ESP",
   "name": "ALANDRIS RACE",
-  "owner": "-",
   "rating": {
     "gph": 642.7,
     "osn": 625.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "JANTAR",
     "type": "JANTAR 26 RACE MOD",
-    "designer": "SKZAT\t",
+    "designer": "SKZAT",
     "year": 1997,
     "sizes": {
       "loa": 7.795,

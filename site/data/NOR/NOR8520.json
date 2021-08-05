@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR8520",
   "country": "NOR",
   "name": "Farracuda",
-  "owner": "-",
   "rating": {
     "gph": 616.1,
     "osn": 599.3,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "FARR 31",
     "designer": "Bruce Farr",
     "year": 1994,

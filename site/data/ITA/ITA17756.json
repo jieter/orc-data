@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA17756",
   "country": "ITA",
   "name": "NIU NIU",
-  "owner": "-",
   "rating": {
     "gph": 627.0,
     "osn": 607.9,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Bavaria Yachts",
     "type": "Bavaria 42 Cruiser",
-    "designer": "J&J ",
+    "designer": "J&J",
     "year": 2004,
     "sizes": {
       "loa": 12.83,

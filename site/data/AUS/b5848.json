@@ -2,7 +2,6 @@
   "sailnumber": "AUS/b5848",
   "country": "AUS",
   "name": "NAVAHO",
-  "owner": "-",
   "rating": {
     "gph": 647.9,
     "osn": 630.0,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "FARR 1020",
     "designer": "FARR",
     "year": 1985,

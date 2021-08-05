@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1746",
   "country": "GRE",
   "name": "KOKORO",
-  "owner": "-",
   "rating": {
     "gph": 735.4,
     "osn": 719.2,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": "ISLAND PACKET ",
+    "builder": "ISLAND PACKET",
     "type": "ISLAND PACKET 360",
-    "designer": "BOB JOHNSON ",
+    "designer": "BOB JOHNSON",
     "year": 2010,
     "sizes": {
       "loa": 11.1,

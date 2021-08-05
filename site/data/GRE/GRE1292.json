@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1292",
   "country": "GRE",
   "name": "AMFITRITI",
-  "owner": "-",
   "rating": {
     "gph": 820.6,
     "osn": 802.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "THAMES MARINE",
     "type": "MIRAGE 28",
-    "designer": null,
+    "designer": "",
     "year": 1978,
     "sizes": {
       "loa": 8.54,

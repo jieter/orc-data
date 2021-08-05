@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST267",
   "country": "EST",
   "name": "CHANTAL",
-  "owner": "-",
   "rating": {
     "gph": 643.4,
     "osn": 624.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Rajakallio",
     "type": "MANNERBERG 31",
-    "designer": null,
+    "designer": "",
     "year": 2000,
     "sizes": {
       "loa": 9.49,

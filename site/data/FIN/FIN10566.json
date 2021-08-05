@@ -1,8 +1,7 @@
 {
   "sailnumber": "FIN/FIN10566",
   "country": "FIN",
-  "name": "Sokeri ",
-  "owner": "-",
+  "name": "Sokeri",
   "rating": {
     "gph": 578.6,
     "osn": 563.4,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "X Yachts",
     "type": "X-43",
-    "designer": null,
+    "designer": "",
     "year": 2007,
     "sizes": {
       "loa": 12.903,

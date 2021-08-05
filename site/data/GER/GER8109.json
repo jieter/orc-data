@@ -2,7 +2,6 @@
   "sailnumber": "GER/GER8109",
   "country": "GER",
   "name": "NO 3",
-  "owner": "-",
   "rating": {
     "gph": 749.1,
     "osn": 723.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "GRANADA Y.DENMARK",
     "type": "GRANADA 910",
-    "designer": null,
+    "designer": "",
     "year": 1986,
     "sizes": {
       "loa": 9.17,

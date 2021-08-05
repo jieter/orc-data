@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR4596",
   "country": "NOR",
   "name": "Alfa",
-  "owner": "-",
   "rating": {
     "gph": 705.8,
     "osn": 684.8,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "OMEGA 30",
     "designer": "Ron Holland",
     "year": 1983,

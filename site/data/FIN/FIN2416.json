@@ -2,7 +2,6 @@
   "sailnumber": "FIN/FIN2416",
   "country": "FIN",
   "name": "Mira",
-  "owner": "-",
   "rating": {
     "gph": 671.5,
     "osn": 654.1,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Marin Form",
     "type": "Finn 35",
-    "designer": null,
+    "designer": "",
     "year": 1982,
     "sizes": {
       "loa": 10.72,

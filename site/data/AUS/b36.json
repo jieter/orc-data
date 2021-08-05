@@ -2,7 +2,6 @@
   "sailnumber": "AUS/b36",
   "country": "AUS",
   "name": "BO DEREK",
-  "owner": "-",
   "rating": {
     "gph": 636.7,
     "osn": 618.6,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Adams 10",
     "designer": "Joe Adams",
     "year": 1971,

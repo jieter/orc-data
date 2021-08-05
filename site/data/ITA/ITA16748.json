@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA16748",
   "country": "ITA",
   "name": "FENICIA",
-  "owner": "-",
   "rating": {
     "gph": 593.5,
     "osn": 576.0,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "AD Boats ",
+    "builder": "AD Boats",
     "type": "Salona 42",
     "designer": "J&J",
     "year": 2006,

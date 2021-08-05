@@ -2,7 +2,6 @@
   "sailnumber": "USA/USA35005",
   "country": "USA",
   "name": "EAGLE ONE",
-  "owner": "-",
   "rating": {
     "gph": 521.9,
     "osn": 506.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Andrews 65",
     "designer": "ANDREWS",
     "year": 1994,

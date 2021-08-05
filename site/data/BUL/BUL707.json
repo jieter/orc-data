@@ -2,7 +2,6 @@
   "sailnumber": "BUL/BUL707",
   "country": "BUL",
   "name": "Nunki",
-  "owner": "-",
   "rating": {
     "gph": 720.0,
     "osn": 700.4,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Conrad Gdansk ",
+    "builder": "Conrad Gdansk",
     "type": "Conrad 25R",
     "designer": "Doug Peterson",
     "year": 1978,

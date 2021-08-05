@@ -2,7 +2,6 @@
   "sailnumber": "RUS/RUS41",
   "country": "RUS",
   "name": "Ropak",
-  "owner": "-",
   "rating": {
     "gph": 731.1,
     "osn": 715.2,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "y/c Sever",
     "type": "1/2 T IOR",
-    "designer": null,
+    "designer": "",
     "year": 1986,
     "sizes": {
       "loa": 9.19,

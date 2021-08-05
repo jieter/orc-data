@@ -2,7 +2,6 @@
   "sailnumber": "FRA/FRA9777",
   "country": "FRA",
   "name": "EYE CANDY",
-  "owner": "-",
   "rating": {
     "gph": 567.6,
     "osn": 552.7,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": " SYDNEY YACHTS",
+    "builder": "SYDNEY YACHTS",
     "type": "SYDNEY 38 OD",
     "designer": "MURRAY BURNS&DOVEL",
     "year": 1999,

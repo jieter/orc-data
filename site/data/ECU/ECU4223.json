@@ -2,7 +2,6 @@
   "sailnumber": "ECU/ECU4223",
   "country": "ECU",
   "name": "TIBURON",
-  "owner": "-",
   "rating": {
     "gph": 543.7,
     "osn": 529.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "NAUTOR",
     "type": "SWAN 42 CLUB",
-    "designer": " FRERS",
+    "designer": "FRERS",
     "year": 2006,
     "sizes": {
       "loa": 12.96,

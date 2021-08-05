@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR9390",
   "country": "NOR",
   "name": "Too Much",
-  "owner": "-",
   "rating": {
     "gph": 624.8,
     "osn": 606.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Dehler Segelyachte",
     "type": "DEHLER 41 Cr",
-    "designer": "judel / vrolijk & ",
+    "designer": "judel / vrolijk &",
     "year": 1997,
     "sizes": {
       "loa": 12.45,

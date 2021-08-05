@@ -2,7 +2,6 @@
   "sailnumber": "ROU/ROU412",
   "country": "ROU",
   "name": "Quebramar",
-  "owner": "-",
   "rating": {
     "gph": 559.2,
     "osn": 545.6,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "JV 42",
     "designer": "Judel/Vrolijk",
     "year": 2005,

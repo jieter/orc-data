@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA17659",
   "country": "ITA",
   "name": "VERA",
-  "owner": "-",
   "rating": {
     "gph": 627.8,
     "osn": 608.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Jeanneau",
     "type": "Sun Odyssey 42 I",
-    "designer": "Lombard ",
+    "designer": "Lombard",
     "year": 2006,
     "sizes": {
       "loa": 12.59,

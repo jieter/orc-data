@@ -2,7 +2,6 @@
   "sailnumber": "PER/PER5050",
   "country": "PER",
   "name": "HURACAN",
-  "owner": "-",
   "rating": {
     "gph": 532.2,
     "osn": 518.8,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Macchi 50",
     "designer": "Macchi",
     "year": 1991,

@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA978",
   "country": "ITA",
   "name": "SHAULA",
-  "owner": "-",
   "rating": {
     "gph": 599.9,
     "osn": 582.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Cantieri del Pardo",
     "type": "Grand Soleil 40 m",
-    "designer": "Paperini ",
+    "designer": "Paperini",
     "year": 2003,
     "sizes": {
       "loa": 11.99,

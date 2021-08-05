@@ -2,7 +2,6 @@
   "sailnumber": "UKR/UKR1198",
   "country": "UKR",
   "name": "MG-30",
-  "owner": "-",
   "rating": {
     "gph": 620.7,
     "osn": 603.7,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Mount Gay 30",
     "designer": "Dudey Dix",
     "year": 2011,

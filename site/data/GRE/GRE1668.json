@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1668",
   "country": "GRE",
   "name": "STONE AGE",
-  "owner": "-",
   "rating": {
     "gph": 636.9,
     "osn": 619.8,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "MELGES 24",
     "designer": "REICHEL/PUGH",
     "year": 1992,

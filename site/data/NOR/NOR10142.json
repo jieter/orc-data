@@ -1,8 +1,7 @@
 {
   "sailnumber": "NOR/NOR10142",
   "country": "NOR",
-  "name": "Muligheten ",
-  "owner": "-",
+  "name": "Muligheten",
   "rating": {
     "gph": 658.1,
     "osn": 637.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Bavaria Yachtbau",
     "type": "Bavaria 40 AC 98-0",
-    "designer": null,
+    "designer": "",
     "year": 1998,
     "sizes": {
       "loa": 11.99,

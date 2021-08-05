@@ -2,7 +2,6 @@
   "sailnumber": "RUS/AK0420RUS23",
   "country": "RUS",
   "name": "YULA",
-  "owner": "-",
   "rating": {
     "gph": 720.3,
     "osn": 696.4,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Bavaria Yachtbaw",
     "type": "Bavaria Cruiser 33",
-    "designer": " Farr Yacht Design",
+    "designer": "Farr Yacht Design",
     "year": 2013,
     "sizes": {
       "loa": 9.75,

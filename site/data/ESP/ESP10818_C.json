@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10818_C",
   "country": "ESP",
   "name": "AUROMAR TERCERO",
-  "owner": "-",
   "rating": {
     "gph": 740.3,
     "osn": 724.5,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "ASTRAEA",
     "type": "ASTRAEA 260",
-    "designer": null,
+    "designer": "",
     "year": 2002,
     "sizes": {
       "loa": 7.49,

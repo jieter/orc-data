@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST950",
   "country": "EST",
   "name": "BLUEBIRD",
-  "owner": "-",
   "rating": {
     "gph": 738.2,
     "osn": 716.4,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "BIRDIE 32",
     "designer": "Jan Becker",
     "year": 1978,

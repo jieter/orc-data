@@ -2,7 +2,6 @@
   "sailnumber": "FIN/FIN7983",
   "country": "FIN",
   "name": "Wesiiri",
-  "owner": "-",
   "rating": {
     "gph": 668.6,
     "osn": 650.5,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Sunwind 30",
     "designer": "Ulf Rogeberg",
     "year": 1989,

@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST284",
   "country": "EST",
   "name": "LUST",
-  "owner": "-",
   "rating": {
     "gph": 760.3,
     "osn": 742.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Jakobssen",
     "type": "RJ 85",
-    "designer": null,
+    "designer": "",
     "year": 1969,
     "sizes": {
       "loa": 8.55,

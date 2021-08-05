@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST479",
   "country": "EST",
   "name": "WindWalker",
-  "owner": "-",
   "rating": {
     "gph": 680.2,
     "osn": 658.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "BAVARIA YACHTBAU",
     "type": "BAVARIA 37 CR",
-    "designer": null,
+    "designer": "",
     "year": 2002,
     "sizes": {
       "loa": 11.2,

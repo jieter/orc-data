@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1814",
   "country": "GRE",
   "name": "AURA",
-  "owner": "-",
   "rating": {
     "gph": 717.0,
     "osn": 695.5,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Dufour ",
+    "builder": "Dufour",
     "type": "DUFOUR 325 GL",
     "designer": "Felci",
     "year": 2005,

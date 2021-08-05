@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10432",
   "country": "ESP",
   "name": "JUGUESCA",
-  "owner": "-",
   "rating": {
     "gph": 588.1,
     "osn": 573.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "DEL PARDO",
     "type": "GRAND SOLEIL 45",
-    "designer": "JUDEL FRIEDRICH ",
+    "designer": "JUDEL FRIEDRICH",
     "year": 2003,
     "sizes": {
       "loa": 13.578,

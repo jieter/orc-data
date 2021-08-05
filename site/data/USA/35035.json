@@ -2,7 +2,6 @@
   "sailnumber": "USA/35035",
   "country": "USA",
   "name": "Dire Wolf",
-  "owner": "-",
   "rating": {
     "gph": 563.4,
     "osn": 552.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Carroll Marine",
     "type": "1D35",
-    "designer": "nelson marek ",
+    "designer": "nelson marek",
     "year": 1998,
     "sizes": {
       "loa": 10.63,

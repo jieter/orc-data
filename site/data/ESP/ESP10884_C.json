@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10884_C",
   "country": "ESP",
   "name": "CARAJILLO",
-  "owner": "-",
   "rating": {
     "gph": 724.8,
     "osn": 701.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "LM Glasfiber A/S",
     "type": "LM 32",
-    "designer": " Bent Juul Anderse",
+    "designer": "Bent Juul Anderse",
     "year": 1977,
     "sizes": {
       "loa": 9.75,

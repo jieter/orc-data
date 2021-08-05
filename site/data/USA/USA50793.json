@@ -2,7 +2,6 @@
   "sailnumber": "USA/USA50793",
   "country": "USA",
   "name": "PROOF",
-  "owner": "-",
   "rating": {
     "gph": 572.1,
     "osn": 556.0,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "J-120",
     "designer": "JOHNSTONE",
     "year": 1997,

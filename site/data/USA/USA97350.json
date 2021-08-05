@@ -2,7 +2,6 @@
   "sailnumber": "USA/USA97350",
   "country": "USA",
   "name": "FREE AGENT",
-  "owner": "-",
   "rating": {
     "gph": 597.5,
     "osn": 582.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "SHC35",
     "designer": "SCHOCK",
     "year": 1985,

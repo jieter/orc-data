@@ -2,7 +2,6 @@
   "sailnumber": "FIN/FIN11854",
   "country": "FIN",
   "name": "Earl Grey",
-  "owner": "-",
   "rating": {
     "gph": 602.4,
     "osn": 589.4,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Erixon Technoyacht",
     "type": "HP1030",
-    "designer": "CDE Danish Marine ",
+    "designer": "CDE Danish Marine",
     "year": 2010,
     "sizes": {
       "loa": 10.3,

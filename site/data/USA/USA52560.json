@@ -2,7 +2,6 @@
   "sailnumber": "USA/USA52560",
   "country": "USA",
   "name": "THUNDERSTRUCK",
-  "owner": "-",
   "rating": {
     "gph": 453.4,
     "osn": 443.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Carroll Marine",
     "type": "FARR 60",
-    "designer": " FARR",
+    "designer": "FARR",
     "year": 1998,
     "sizes": {
       "loa": 18.334,

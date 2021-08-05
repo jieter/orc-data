@@ -2,7 +2,6 @@
   "sailnumber": "FIN/FIN573",
   "country": "FIN",
   "name": "H\u00e4xyacht",
-  "owner": "-",
   "rating": {
     "gph": 719.1,
     "osn": 699.4,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Albin Express",
     "designer": "Peter Norlin",
     "year": 1979,

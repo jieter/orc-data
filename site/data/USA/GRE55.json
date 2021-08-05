@@ -2,7 +2,6 @@
   "sailnumber": "USA/GRE55",
   "country": "USA",
   "name": "IRIE 2",
-  "owner": "-",
   "rating": {
     "gph": 468.4,
     "osn": 456.1,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "KER55",
     "designer": "KER",
     "year": 2002,

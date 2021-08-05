@@ -2,7 +2,6 @@
   "sailnumber": "CRO/CRO6483",
   "country": "CRO",
   "name": "Gringo 3",
-  "owner": "-",
   "rating": {
     "gph": 524.8,
     "osn": 516.2,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "DK Marin",
     "type": "Farr 40",
-    "designer": "Farr ",
+    "designer": "Farr",
     "year": 1997,
     "sizes": {
       "loa": 12.415,

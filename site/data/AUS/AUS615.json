@@ -2,7 +2,6 @@
   "sailnumber": "AUS/AUS615",
   "country": "AUS",
   "name": "MERCURY",
-  "owner": "-",
   "rating": {
     "gph": 537.8,
     "osn": 524.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "FARR 40 OD - MOD",
     "designer": "FARR",
     "year": 1996,

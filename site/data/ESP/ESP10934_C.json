@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10934_C",
   "country": "ESP",
   "name": "MACOLO",
-  "owner": "-",
   "rating": {
     "gph": 707.9,
     "osn": 698.6,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "BLASCO CRUISER 26",
-    "designer": null,
+    "designer": "",
     "year": 1982,
     "sizes": {
       "loa": 8.4,

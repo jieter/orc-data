@@ -2,7 +2,6 @@
   "sailnumber": "AUS/Sm4000",
   "country": "AUS",
   "name": "Niche",
-  "owner": "-",
   "rating": {
     "gph": 575.9,
     "osn": 561.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Beneteau ",
+    "builder": "Beneteau",
     "type": "First 40",
     "designer": "Bruce Farr",
     "year": 2009,

@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP9654_C",
   "country": "ESP",
   "name": "COLIBRI I",
-  "owner": "-",
   "rating": {
     "gph": 840.6,
     "osn": 821.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "ASTRAEA",
     "type": "ALBATRO ",
-    "designer": null,
+    "designer": "",
     "year": 1997,
     "sizes": {
       "loa": 5.49,

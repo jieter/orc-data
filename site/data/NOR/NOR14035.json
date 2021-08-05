@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR14035",
   "country": "NOR",
   "name": "Selan",
-  "owner": "-",
   "rating": {
     "gph": 655.1,
     "osn": 636.9,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Elan Marine",
     "type": "Elan 310",
-    "designer": "Humphreys  ",
+    "designer": "Humphreys",
     "year": 2009,
     "sizes": {
       "loa": 9.25,

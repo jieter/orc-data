@@ -2,7 +2,6 @@
   "sailnumber": "POL/POL19419",
   "country": "POL",
   "name": "BARAKAM",
-  "owner": "-",
   "rating": {
     "gph": 640.8,
     "osn": 620.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "MBK B. Kami\u0144ski",
     "type": "MBK 98",
-    "designer": null,
+    "designer": "",
     "year": 2007,
     "sizes": {
       "loa": 9.778,

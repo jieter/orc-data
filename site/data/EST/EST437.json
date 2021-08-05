@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST437",
   "country": "EST",
   "name": "JULECHKA",
-  "owner": "-",
   "rating": {
     "gph": 764.7,
     "osn": 748.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Jakobssen",
     "type": "RJ 85",
-    "designer": null,
+    "designer": "",
     "year": 1969,
     "sizes": {
       "loa": 8.55,

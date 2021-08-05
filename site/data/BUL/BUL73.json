@@ -2,7 +2,6 @@
   "sailnumber": "BUL/BUL73",
   "country": "BUL",
   "name": "Smoke",
-  "owner": "-",
   "rating": {
     "gph": 718.4,
     "osn": 699.0,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Conrad Gdansk ",
+    "builder": "Conrad Gdansk",
     "type": "Conrad 25R",
     "designer": "Doug Peterson",
     "year": 1978,

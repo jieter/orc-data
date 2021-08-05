@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10839_C",
   "country": "ESP",
   "name": "MARA",
-  "owner": "-",
   "rating": {
     "gph": 702.8,
     "osn": 682.2,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Jeanneau ",
+    "builder": "Jeanneau",
     "type": "Sun Odyssey 349 TR",
     "designer": "Marc Lombard",
     "year": 2013,

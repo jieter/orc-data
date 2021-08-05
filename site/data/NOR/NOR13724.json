@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR13724",
   "country": "NOR",
   "name": "Vindtora",
-  "owner": "-",
   "rating": {
     "gph": 660.7,
     "osn": 644.5,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Pogo 850",
     "designer": "Pierre Roland",
     "year": 1999,

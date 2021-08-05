@@ -2,7 +2,6 @@
   "sailnumber": "FIN/FIN11827",
   "country": "FIN",
   "name": "Miss Behave",
-  "owner": "-",
   "rating": {
     "gph": 617.0,
     "osn": 600.8,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Beneteau ",
+    "builder": "Beneteau",
     "type": "First 36.7",
     "designer": "Bruce Farr",
     "year": 2001,

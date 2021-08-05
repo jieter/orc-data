@@ -2,7 +2,6 @@
   "sailnumber": "USA/USA118",
   "country": "USA",
   "name": "Patriot IV",
-  "owner": "-",
   "rating": {
     "gph": 627.6,
     "osn": 609.9,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Melges Boatworks ",
+    "builder": "Melges Boatworks",
     "type": "Melges 24",
     "designer": "Reichel/Pugh",
     "year": 1992,

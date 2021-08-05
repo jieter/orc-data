@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1849",
   "country": "GRE",
   "name": "ENASTROS",
-  "owner": "-",
   "rating": {
     "gph": 754.1,
     "osn": 730.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "DUFOUR",
     "type": "DUFOUR 31",
-    "designer": " Michel Dufour",
+    "designer": "Michel Dufour",
     "year": 1973,
     "sizes": {
       "loa": 9.363,

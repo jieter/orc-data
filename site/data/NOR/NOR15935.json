@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR15935",
   "country": "NOR",
   "name": "Vela Calma",
-  "owner": "-",
   "rating": {
     "gph": 624.1,
     "osn": 608.9,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Hanse",
     "type": "Hanse 415",
-    "designer": "JUDEL FRIEDRICH / ",
+    "designer": "JUDEL FRIEDRICH /",
     "year": 2012,
     "sizes": {
       "loa": 11.99,

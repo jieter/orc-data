@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE2020",
   "country": "GRE",
   "name": "ONEIRO",
-  "owner": "-",
   "rating": {
     "gph": 473.7,
     "osn": 463.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "CPT Racing",
     "type": "ONE-OFF",
-    "designer": null,
+    "designer": "",
     "year": 2012,
     "sizes": {
       "loa": 13.78,

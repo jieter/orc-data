@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST739",
   "country": "EST",
   "name": "Celia",
-  "owner": "-",
   "rating": {
     "gph": 689.9,
     "osn": 673.0,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Inferno 29 mod",
     "designer": "H.S\u00f6dergren",
     "year": 1979,

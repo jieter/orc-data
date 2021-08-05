@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR6372",
   "country": "NOR",
   "name": "Fri Vind",
-  "owner": "-",
   "rating": {
     "gph": 666.9,
     "osn": 652.9,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Tabasco Marine",
     "type": "FINNGULF 28",
-    "designer": null,
+    "designer": "",
     "year": 1986,
     "sizes": {
       "loa": 8.45,

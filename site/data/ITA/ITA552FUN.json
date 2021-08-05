@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA552FUN",
   "country": "ITA",
   "name": "THERSANDRE IV",
-  "owner": "-",
   "rating": {
     "gph": 696.2,
     "osn": 675.6,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "FUN OD",
     "designer": "JOUBERT-NIVELT",
     "year": 1983,

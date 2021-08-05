@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST136",
   "country": "EST",
   "name": "LILY",
-  "owner": "-",
   "rating": {
     "gph": 687.1,
     "osn": 665.0,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "BAVARIA34 AC",
-    "designer": null,
+    "designer": "",
     "year": 1999,
     "sizes": {
       "loa": 10.35,

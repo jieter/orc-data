@@ -2,7 +2,6 @@
   "sailnumber": "USA/USA1781",
   "country": "USA",
   "name": "TOWHEE",
-  "owner": "-",
   "rating": {
     "gph": 654.7,
     "osn": 634.9,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "CAL",
     "type": "CAL 40",
-    "designer": "LAPWORTH ",
+    "designer": "LAPWORTH",
     "year": 1963,
     "sizes": {
       "loa": 11.912,

@@ -2,7 +2,6 @@
   "sailnumber": "NED/NED9057",
   "country": "NED",
   "name": "Monnickendam delight",
-  "owner": "-",
   "rating": {
     "gph": 727.4,
     "osn": 703.4,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Well 33",
     "designer": "van well design",
     "year": 1999,

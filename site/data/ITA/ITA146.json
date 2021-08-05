@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA146",
   "country": "ITA",
   "name": "GOLFO MISTICO",
-  "owner": "-",
   "rating": {
     "gph": 627.5,
     "osn": 612.5,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Cantiere De Cesari",
     "type": "CYD 33",
-    "designer": "Ceccarelli ",
+    "designer": "Ceccarelli",
     "year": 2020,
     "sizes": {
       "loa": 10.0,

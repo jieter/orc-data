@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10395_C",
   "country": "ESP",
   "name": "FLITA",
-  "owner": "-",
   "rating": {
     "gph": 641.0,
     "osn": 623.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "JEANNEAU",
     "type": "SUN ODYSSEY 36.i P",
-    "designer": null,
+    "designer": "",
     "year": 2008,
     "sizes": {
       "loa": 10.675,

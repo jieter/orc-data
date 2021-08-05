@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR15672",
   "country": "NOR",
   "name": "Chill",
-  "owner": "-",
   "rating": {
     "gph": 715.5,
     "osn": 691.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "ISSA d.o.o",
     "type": "Seascape 18",
-    "designer": null,
+    "designer": "",
     "year": 2007,
     "sizes": {
       "loa": 5.55,

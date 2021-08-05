@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10N29",
   "country": "ESP",
   "name": "MEERBLICK Classic",
-  "owner": "-",
   "rating": {
     "gph": 601.7,
     "osn": 590.6,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "9,5 mts. Inter",
-    "designer": null,
+    "designer": "",
     "year": 1935,
     "sizes": {
       "loa": 15.494,

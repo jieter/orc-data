@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST733",
   "country": "EST",
   "name": "BORA",
-  "owner": "-",
   "rating": {
     "gph": 731.1,
     "osn": 710.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "SET",
     "type": "POLARIS",
-    "designer": null,
+    "designer": "",
     "year": 1984,
     "sizes": {
       "loa": 7.62,

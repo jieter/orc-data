@@ -2,7 +2,6 @@
   "sailnumber": "AUS/52542",
   "country": "AUS",
   "name": "BLACK DIAMOND",
-  "owner": "-",
   "rating": {
     "gph": 497.7,
     "osn": 486.9,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Stallion 42",
     "designer": "Reichel Pugh",
     "year": 2010,

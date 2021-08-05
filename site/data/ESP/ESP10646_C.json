@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10646_C",
   "country": "ESP",
   "name": "SULAICA",
-  "owner": "-",
   "rating": {
     "gph": 777.3,
     "osn": 754.2,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "NAO GLASS",
     "type": "PUMA 23-J",
-    "designer": null,
+    "designer": "",
     "year": 1971,
     "sizes": {
       "loa": 7.65,

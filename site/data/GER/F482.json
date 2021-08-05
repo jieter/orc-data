@@ -2,7 +2,6 @@
   "sailnumber": "GER/F482",
   "country": "GER",
   "name": "RELAXED RABBIT",
-  "owner": "-",
   "rating": {
     "gph": 806.9,
     "osn": 790.1,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "DITTRICH",
     "type": "FOLKEBOOT",
-    "designer": null,
+    "designer": "",
     "year": 1941,
     "sizes": {
       "loa": 7.68,

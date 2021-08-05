@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR11271",
   "country": "NOR",
   "name": "Tjuvstart",
-  "owner": "-",
   "rating": {
     "gph": 710.6,
     "osn": 691.4,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Hanse",
     "type": "Hanse 312",
-    "designer": "JUDEL FRIEDRICH / ",
+    "designer": "JUDEL FRIEDRICH /",
     "year": 2005,
     "sizes": {
       "loa": 9.45,

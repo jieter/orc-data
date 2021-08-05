@@ -2,7 +2,6 @@
   "sailnumber": "HUN/R9",
   "country": "HUN",
   "name": "LOSTA",
-  "owner": "-",
   "rating": {
     "gph": 573.4,
     "osn": 558.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Pabst Werft",
     "type": "40 sqm skerrycruis",
-    "designer": null,
+    "designer": "",
     "year": 2000,
     "sizes": {
       "loa": 14.02,

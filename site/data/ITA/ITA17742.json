@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA17742",
   "country": "ITA",
   "name": "LAMADONNADELLECONCHIGLIE",
-  "owner": "-",
   "rating": {
     "gph": 685.3,
     "osn": 662.9,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Bavaria Yachts",
     "type": "Bavaria 39 Cruiser",
-    "designer": "J & J ",
+    "designer": "J & J",
     "year": 2002,
     "sizes": {
       "loa": 11.97,

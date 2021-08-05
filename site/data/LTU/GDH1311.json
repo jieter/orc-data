@@ -2,7 +2,6 @@
   "sailnumber": "LTU/GDH1311",
   "country": "LTU",
   "name": "EVI",
-  "owner": "-",
   "rating": {
     "gph": 692.9,
     "osn": 675.5,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "MK cafe 24",
-    "designer": null,
+    "designer": "",
     "year": 2003,
     "sizes": {
       "loa": 7.26,

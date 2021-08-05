@@ -2,7 +2,6 @@
   "sailnumber": "USA/50996",
   "country": "USA",
   "name": "CHALLENGER",
-  "owner": "-",
   "rating": {
     "gph": 521.6,
     "osn": 510.9,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Custom",
     "designer": "FRERS",
     "year": 1991,

@@ -2,7 +2,6 @@
   "sailnumber": "SUI/SUI8",
   "country": "SUI",
   "name": "Xperience",
-  "owner": "-",
   "rating": {
     "gph": 601.0,
     "osn": 588.4,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "X-Yachts ",
+    "builder": "X-Yachts",
     "type": "Xp 33",
     "designer": "X-Yachts UK",
     "year": 2011,

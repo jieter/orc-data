@@ -2,7 +2,6 @@
   "sailnumber": "FIN/Fin7508",
   "country": "FIN",
   "name": "Suvihuvi",
-  "owner": "-",
   "rating": {
     "gph": 628.5,
     "osn": 613.3,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Sirena 38",
     "designer": "H\u00e5kan S\u00f6dergren",
     "year": 1988,

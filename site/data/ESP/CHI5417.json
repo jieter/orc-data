@@ -2,7 +2,6 @@
   "sailnumber": "ESP/CHI5417",
   "country": "ESP",
   "name": "POSEIDON 2",
-  "owner": "-",
   "rating": {
     "gph": 517.7,
     "osn": 502.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "SOLARIS",
     "type": "SOLARIS 58",
-    "designer": "SOTO ACEBAL\t",
+    "designer": "SOTO ACEBAL",
     "year": 2014,
     "sizes": {
       "loa": 17.4,

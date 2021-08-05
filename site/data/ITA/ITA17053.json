@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA17053",
   "country": "ITA",
   "name": "ROTEVISTA' 2.0",
-  "owner": "-",
   "rating": {
     "gph": 600.2,
     "osn": 584.2,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Cantiere del Pardo",
     "type": "Grand Soleil 39",
-    "designer": "Maletto ",
+    "designer": "Maletto",
     "year": 2011,
     "sizes": {
       "loa": 11.82,

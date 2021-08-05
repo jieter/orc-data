@@ -2,7 +2,6 @@
   "sailnumber": "TUR/TUR1205",
   "country": "TUR",
   "name": "GIZLI KUPON",
-  "owner": "-",
   "rating": {
     "gph": 722.5,
     "osn": 701.5,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "GORBON 7",
-    "designer": null,
+    "designer": "",
     "year": 2005,
     "sizes": {
       "loa": 6.91,

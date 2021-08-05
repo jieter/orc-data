@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST241",
   "country": "EST",
   "name": "ANETE",
-  "owner": "-",
   "rating": {
     "gph": 776.3,
     "osn": 753.9,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "ALBIN 78",
     "designer": "Peter Norlin",
     "year": 1978,

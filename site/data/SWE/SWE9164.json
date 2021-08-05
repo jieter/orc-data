@@ -2,7 +2,6 @@
   "sailnumber": "SWE/SWE9164",
   "country": "SWE",
   "name": "Joint Venture",
-  "owner": "-",
   "rating": {
     "gph": 578.5,
     "osn": 564.6,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Farr 40 IOR",
     "designer": "B. Farr",
     "year": 1989,

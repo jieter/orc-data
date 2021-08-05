@@ -2,7 +2,6 @@
   "sailnumber": "SUI/SUI380",
   "country": "SUI",
   "name": "Beugen II",
-  "owner": "-",
   "rating": {
     "gph": 663.4,
     "osn": 646.0,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": "White Formula ",
+    "builder": "White Formula",
     "type": "SB4  Carbon ",
-    "designer": "Tony Castro ",
+    "designer": "Tony Castro",
     "year": 2001,
     "sizes": {
       "loa": 6.141,

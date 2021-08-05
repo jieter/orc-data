@@ -2,7 +2,6 @@
   "sailnumber": "RSA/RSA2676",
   "country": "RSA",
   "name": "Let's Go",
-  "owner": "-",
   "rating": {
     "gph": 791.9,
     "osn": 766.8,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Buccaneer",
     "designer": "Van de Stadt",
     "year": 1970,

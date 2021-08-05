@@ -1,8 +1,7 @@
 {
   "sailnumber": "ESP/ESP7548_C",
   "country": "ESP",
-  "name": "SAMAR II ",
-  "owner": "-",
+  "name": "SAMAR II",
   "rating": {
     "gph": 687.7,
     "osn": 667.9,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "MAYORLA S.A.",
     "type": "AQUADRAC 35 ",
-    "designer": null,
+    "designer": "",
     "year": 1978,
     "sizes": {
       "loa": 10.3,

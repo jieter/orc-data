@@ -2,7 +2,6 @@
   "sailnumber": "ROU/Rou406",
   "country": "ROU",
   "name": "Joy",
-  "owner": "-",
   "rating": {
     "gph": 641.6,
     "osn": 619.5,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Sun Odyssey 49 i",
-    "designer": null,
+    "designer": "",
     "year": 2001,
     "sizes": {
       "loa": 14.73,

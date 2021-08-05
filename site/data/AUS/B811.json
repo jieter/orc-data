@@ -2,7 +2,6 @@
   "sailnumber": "AUS/B811",
   "country": "AUS",
   "name": "Trivial Pursuit",
-  "owner": "-",
   "rating": {
     "gph": 766.0,
     "osn": 741.4,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "MARTIN MARINE NZ",
     "type": "NOELEX 25F",
-    "designer": null,
+    "designer": "",
     "year": 1968,
     "sizes": {
       "loa": 7.62,

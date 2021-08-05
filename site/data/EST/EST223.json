@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST223",
   "country": "EST",
   "name": "Marie",
-  "owner": "-",
   "rating": {
     "gph": 745.3,
     "osn": 722.4,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Polaris CR",
-    "designer": null,
+    "designer": "",
     "year": 1984,
     "sizes": {
       "loa": 8.08,

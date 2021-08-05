@@ -2,7 +2,6 @@
   "sailnumber": "USA/USA006",
   "country": "USA",
   "name": "BIG BOY PANTS",
-  "owner": "-",
   "rating": {
     "gph": 575.6,
     "osn": 560.9,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "PREMIER COMPOSITE ",
+    "builder": "PREMIER COMPOSITE",
     "type": "Farr 280",
     "designer": "FARR YACHT DESIGN",
     "year": 2014,

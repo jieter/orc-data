@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP9603",
   "country": "ESP",
   "name": "GAVILAN V",
-  "owner": "-",
   "rating": {
     "gph": 653.9,
     "osn": 634.8,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": " FURIA YACHTS  ",
+    "builder": "FURIA YACHTS",
     "type": "FURIA 37 J",
-    "designer": " JOUBERT/NIVELT",
+    "designer": "JOUBERT/NIVELT",
     "year": 1984,
     "sizes": {
       "loa": 11.786,

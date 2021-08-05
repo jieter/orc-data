@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE1811",
   "country": "GRE",
   "name": "THALASSA X LOUKAS",
-  "owner": "-",
   "rating": {
     "gph": 709.5,
     "osn": 683.4,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "BAVARIA",
     "type": "BAVARIA 31 ",
-    "designer": "J & J ",
+    "designer": "J & J",
     "year": 1999,
     "sizes": {
       "loa": 9.581,

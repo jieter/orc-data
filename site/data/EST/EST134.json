@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST134",
   "country": "EST",
   "name": "VIGURPILT",
-  "owner": "-",
   "rating": {
     "gph": 715.9,
     "osn": 695.0,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "POLARIS",
-    "designer": null,
+    "designer": "",
     "year": 1984,
     "sizes": {
       "loa": 7.62,

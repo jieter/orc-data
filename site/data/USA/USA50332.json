@@ -2,7 +2,6 @@
   "sailnumber": "USA/USA50332",
   "country": "USA",
   "name": "ENDLESS SUMMER",
-  "owner": "-",
   "rating": {
     "gph": 642.3,
     "osn": 624.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "HUNTER",
     "type": "HUNTER 40.5 LEGEND",
-    "designer": null,
+    "designer": "",
     "year": 1992,
     "sizes": {
       "loa": 12.27,

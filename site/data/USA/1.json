@@ -2,7 +2,6 @@
   "sailnumber": "USA/1",
   "country": "USA",
   "name": "Incognito",
-  "owner": "-",
   "rating": {
     "gph": 550.4,
     "osn": 536.4,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "J Composites",
     "type": "J121",
-    "designer": "J Boats ",
+    "designer": "J Boats",
     "year": 2017,
     "sizes": {
       "loa": 12.19,

@@ -2,7 +2,6 @@
   "sailnumber": "LTU/LTU446",
   "country": "LTU",
   "name": "RAGANA",
-  "owner": "-",
   "rating": {
     "gph": 696.9,
     "osn": 680.8,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "R5.5 modified",
-    "designer": null,
+    "designer": "",
     "year": 2000,
     "sizes": {
       "loa": 10.4,

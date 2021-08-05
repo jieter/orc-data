@@ -2,7 +2,6 @@
   "sailnumber": "AUS/B44",
   "country": "AUS",
   "name": "CRESCENDO",
-  "owner": "-",
   "rating": {
     "gph": 608.0,
     "osn": 590.1,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "BAVARIA 44 VISION",
     "designer": "BAVARIA YACHTS",
     "year": 2005,

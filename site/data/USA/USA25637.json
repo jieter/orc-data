@@ -2,7 +2,6 @@
   "sailnumber": "USA/USA25637",
   "country": "USA",
   "name": "CAROL J",
-  "owner": "-",
   "rating": {
     "gph": 602.6,
     "osn": 585.0,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "HUNTER 49",
-    "designer": null,
+    "designer": "",
     "year": 2009,
     "sizes": {
       "loa": 15.1,

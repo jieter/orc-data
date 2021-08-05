@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10825_C",
   "country": "ESP",
   "name": "YIYI",
-  "owner": "-",
   "rating": {
     "gph": 777.2,
     "osn": 753.1,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "LG ASTILLEROS",
     "type": "NADIR 22",
-    "designer": null,
+    "designer": "",
     "year": 2010,
     "sizes": {
       "loa": 6.43,

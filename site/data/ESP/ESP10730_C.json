@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10730_C",
   "country": "ESP",
   "name": "ESPERANZA PRIMERO",
-  "owner": "-",
   "rating": {
     "gph": 782.8,
     "osn": 761.8,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "SASANKA YACHTS",
     "type": "VIVA 700",
-    "designer": " Andrzej Skrzat",
+    "designer": "Andrzej Skrzat",
     "year": 2006,
     "sizes": {
       "loa": 7.0,

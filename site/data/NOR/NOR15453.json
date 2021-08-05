@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR15453",
   "country": "NOR",
   "name": "4ALL",
-  "owner": "-",
   "rating": {
     "gph": 825.6,
     "osn": 798.9,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "C-55",
     "designer": "Pelle Petterson",
     "year": 2001,

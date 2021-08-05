@@ -2,7 +2,6 @@
   "sailnumber": "GER/ORC6238",
   "country": "GER",
   "name": "HAVOC",
-  "owner": "-",
   "rating": {
     "gph": 633.9,
     "osn": 616.4,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "HOD 35X2.20",
     "designer": "HUMPHREYS",
     "year": 1996,

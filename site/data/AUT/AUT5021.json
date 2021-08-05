@@ -2,7 +2,6 @@
   "sailnumber": "AUT/AUT5021",
   "country": "AUT",
   "name": "Stella Maris",
-  "owner": "-",
   "rating": {
     "gph": 468.3,
     "osn": 460.1,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Club Swan 50",
-    "designer": null,
+    "designer": "",
     "year": 2016,
     "sizes": {
       "loa": 15.235,

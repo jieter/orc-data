@@ -2,7 +2,6 @@
   "sailnumber": "FRA/FRA6900",
   "country": "FRA",
   "name": "POULPITO",
-  "owner": "-",
   "rating": {
     "gph": 568.2,
     "osn": 553.3,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": " SYDNEY YACHTS",
+    "builder": "SYDNEY YACHTS",
     "type": "SYDNEY 38 ",
     "designer": "MURRAY BURNS&DOVEL",
     "year": 1999,

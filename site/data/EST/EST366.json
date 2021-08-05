@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST366",
   "country": "EST",
   "name": "Felicita",
-  "owner": "-",
   "rating": {
     "gph": 792.0,
     "osn": 769.1,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "BIRDIE 24",
     "designer": "Harry Becker",
     "year": 1976,

@@ -2,7 +2,6 @@
   "sailnumber": "AUS/SM1113",
   "country": "AUS",
   "name": "PLAYLIST",
-  "owner": "-",
   "rating": {
     "gph": 566.8,
     "osn": 551.5,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "J 111 2.20 EU",
-    "designer": null,
+    "designer": "",
     "year": 2010,
     "sizes": {
       "loa": 11.15,

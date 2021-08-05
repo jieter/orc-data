@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST723",
   "country": "EST",
   "name": "Ninne",
-  "owner": "-",
   "rating": {
     "gph": 750.2,
     "osn": 727.9,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Rootsi",
     "type": "FENIX",
-    "designer": null,
+    "designer": "",
     "year": 1981,
     "sizes": {
       "loa": 8.3,

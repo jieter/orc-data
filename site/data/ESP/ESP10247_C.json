@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10247_C",
   "country": "ESP",
   "name": "MENGANO",
-  "owner": "-",
   "rating": {
     "gph": 668.7,
     "osn": 648.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "TUCANA",
     "type": "TUCANA 28",
-    "designer": null,
+    "designer": "",
     "year": 2008,
     "sizes": {
       "loa": 8.15,

@@ -2,7 +2,6 @@
   "sailnumber": "LAT/EST919",
   "country": "LAT",
   "name": "RTS Baltic",
-  "owner": "-",
   "rating": {
     "gph": 603.4,
     "osn": 589.0,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Fareast 28R",
-    "designer": null,
+    "designer": "",
     "year": 2018,
     "sizes": {
       "loa": 8.52,

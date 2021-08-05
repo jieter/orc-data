@@ -2,7 +2,6 @@
   "sailnumber": "SUI/SUI22",
   "country": "SUI",
   "name": "SVENTO",
-  "owner": "-",
   "rating": {
     "gph": 611.9,
     "osn": 593.3,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": " mOcean 26",
     "designer": "S.Schmidt",
     "year": 2009,

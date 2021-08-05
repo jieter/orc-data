@@ -2,7 +2,6 @@
   "sailnumber": "USA/USA61048",
   "country": "USA",
   "name": "NORTHSTAR",
-  "owner": "-",
   "rating": {
     "gph": 607.5,
     "osn": 591.3,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": "TARTAN YACHTS ",
+    "builder": "TARTAN YACHTS",
     "type": "TARTAN 4000",
-    "designer": "TIM JACKET ",
+    "designer": "TIM JACKET",
     "year": 2011,
     "sizes": {
       "loa": 12.406,

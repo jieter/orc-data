@@ -2,7 +2,6 @@
   "sailnumber": "USA/43",
   "country": "USA",
   "name": "AMADEUS V",
-  "owner": "-",
   "rating": {
     "gph": 583.3,
     "osn": 568.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "X YACHTS",
     "type": "Xp 38",
-    "designer": "JEPPESEN ",
+    "designer": "JEPPESEN",
     "year": 2011,
     "sizes": {
       "loa": 11.58,

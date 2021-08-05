@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR8376",
   "country": "NOR",
   "name": "L\u00e6rke",
-  "owner": "-",
   "rating": {
     "gph": 757.7,
     "osn": 737.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Kais B\u00e5tbyggeri",
     "type": "ONE OFF/SPISSGATTE",
-    "designer": null,
+    "designer": "",
     "year": 1991,
     "sizes": {
       "loa": 8.98,

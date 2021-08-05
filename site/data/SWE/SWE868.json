@@ -2,7 +2,6 @@
   "sailnumber": "SWE/SWE868",
   "country": "SWE",
   "name": "Ray",
-  "owner": "-",
   "rating": {
     "gph": 540.7,
     "osn": 528.4,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Nautor",
     "type": "Club Swan 42",
-    "designer": "Frers ",
+    "designer": "Frers",
     "year": 2006,
     "sizes": {
       "loa": 12.96,

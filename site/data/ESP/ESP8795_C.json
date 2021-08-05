@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP8795_C",
   "country": "ESP",
   "name": "FANDANGUITO",
-  "owner": "-",
   "rating": {
     "gph": 687.9,
     "osn": 674.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "IGNACIO FRASQUET",
     "type": "PROTOTIPO",
-    "designer": "IGNACIO FRASQUET ",
+    "designer": "IGNACIO FRASQUET",
     "year": 2013,
     "sizes": {
       "loa": 6.5,

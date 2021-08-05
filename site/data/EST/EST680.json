@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST680",
   "country": "EST",
   "name": "Christlyn",
-  "owner": "-",
   "rating": {
     "gph": 689.9,
     "osn": 668.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Hanse Yachts",
     "type": "Hanse 325",
-    "designer": null,
+    "designer": "",
     "year": 2009,
     "sizes": {
       "loa": 9.55,

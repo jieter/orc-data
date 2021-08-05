@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP3219_C",
   "country": "ESP",
   "name": "TIO TONI",
-  "owner": "-",
   "rating": {
     "gph": 756.3,
     "osn": 736.5,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "HUNTER",
     "type": "HUNTER MARATON",
-    "designer": null,
+    "designer": "",
     "year": 1980,
     "sizes": {
       "loa": 7.0,

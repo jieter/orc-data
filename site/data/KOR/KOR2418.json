@@ -2,7 +2,6 @@
   "sailnumber": "KOR/KOR2418",
   "country": "KOR",
   "name": "Blue Picasso",
-  "owner": "-",
   "rating": {
     "gph": 627.1,
     "osn": 611.9,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "B\u00e9n\u00e9teau ",
+    "builder": "B\u00e9n\u00e9teau",
     "type": "FIRST 34.7",
     "designer": "FARR",
     "year": 2005,

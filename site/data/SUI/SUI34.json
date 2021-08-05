@@ -2,7 +2,6 @@
   "sailnumber": "SUI/SUI34",
   "country": "SUI",
   "name": "HAPPINESS II",
-  "owner": "-",
   "rating": {
     "gph": 798.1,
     "osn": 779.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Tirena Yachts",
     "type": "Tirena 27",
-    "designer": null,
+    "designer": "",
     "year": 1969,
     "sizes": {
       "loa": 7.9,

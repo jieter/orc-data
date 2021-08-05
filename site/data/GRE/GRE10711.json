@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE10711",
   "country": "GRE",
   "name": "MYRIA",
-  "owner": "-",
   "rating": {
     "gph": 678.0,
     "osn": 657.5,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "BAVARIA",
     "type": "BAVARIA 34",
-    "designer": null,
+    "designer": "",
     "year": 1995,
     "sizes": {
       "loa": 10.347,

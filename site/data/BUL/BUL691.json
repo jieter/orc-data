@@ -2,7 +2,6 @@
   "sailnumber": "BUL/BUL691",
   "country": "BUL",
   "name": "Yasido.com",
-  "owner": "-",
   "rating": {
     "gph": 704.0,
     "osn": 686.8,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "SB20 ONE DESIGN",
     "designer": "TONY CASTRO",
     "year": 2003,

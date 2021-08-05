@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR7027",
   "country": "NOR",
   "name": "Argo",
-  "owner": "-",
   "rating": {
     "gph": 656.4,
     "osn": 639.1,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "CONTRAST 36",
     "designer": "Rolf Magnusson",
     "year": 1983,

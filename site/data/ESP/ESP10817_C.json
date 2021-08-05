@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10817_C",
   "country": "ESP",
   "name": "BETI GUIRO",
-  "owner": "-",
   "rating": {
     "gph": 563.3,
     "osn": 553.8,
@@ -18,9 +17,9 @@
     ]
   },
   "boat": {
-    "builder": "Latitude 46 ",
+    "builder": "Latitude 46",
     "type": "TOFINOU 12",
-    "designer": " Joubert / Nivelt",
+    "designer": "Joubert / Nivelt",
     "year": 2012,
     "sizes": {
       "loa": 11.99,

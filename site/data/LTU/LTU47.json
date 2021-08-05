@@ -2,7 +2,6 @@
   "sailnumber": "LTU/LTU47",
   "country": "LTU",
   "name": "VILMA",
-  "owner": "-",
   "rating": {
     "gph": 773.8,
     "osn": 750.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Poland",
     "type": "Conrad 24",
-    "designer": null,
+    "designer": "",
     "year": 1977,
     "sizes": {
       "loa": 7.27,

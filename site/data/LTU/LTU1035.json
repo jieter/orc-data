@@ -2,7 +2,6 @@
   "sailnumber": "LTU/LTU1035",
   "country": "LTU",
   "name": "JOGA",
-  "owner": "-",
   "rating": {
     "gph": 697.1,
     "osn": 676.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Beneteau",
     "type": "First 27,7",
-    "designer": "Groupe Finot ",
+    "designer": "Groupe Finot",
     "year": 2002,
     "sizes": {
       "loa": 8.3,

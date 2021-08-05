@@ -2,7 +2,6 @@
   "sailnumber": "AUS/b2669",
   "country": "AUS",
   "name": "SEAFLITE",
-  "owner": "-",
   "rating": {
     "gph": 651.6,
     "osn": 632.1,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Farr 1020",
     "designer": "Farr",
     "year": 1985,

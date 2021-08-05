@@ -2,7 +2,6 @@
   "sailnumber": "RSA/RSA1278",
   "country": "RSA",
   "name": "Wallbanger",
-  "owner": "-",
   "rating": {
     "gph": 605.9,
     "osn": 587.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Fred Scholtz",
     "type": "Simonis 35 mod",
-    "designer": "Simonis ",
+    "designer": "Simonis",
     "year": 1990,
     "sizes": {
       "loa": 11.17,

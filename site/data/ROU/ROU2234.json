@@ -2,7 +2,6 @@
   "sailnumber": "ROU/ROU2234",
   "country": "ROU",
   "name": "2nd life of Dylon",
-  "owner": "-",
   "rating": {
     "gph": 805.6,
     "osn": 777.5,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Van der Rest Nauti",
     "type": "KIEVIT 820",
-    "designer": null,
+    "designer": "",
     "year": 1971,
     "sizes": {
       "loa": 8.16,

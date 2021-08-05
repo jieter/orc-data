@@ -2,7 +2,6 @@
   "sailnumber": "USA/USA5252",
   "country": "USA",
   "name": "NATALIE J. (Offshore)",
-  "owner": "-",
   "rating": {
     "gph": 431.2,
     "osn": 421.9,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Pac 52",
     "designer": "BOTIN PARTNERS",
     "year": 2015,

@@ -2,7 +2,6 @@
   "sailnumber": "NOR/NOR647",
   "country": "NOR",
   "name": "Ol\u00b4Trigger",
-  "owner": "-",
   "rating": {
     "gph": 757.7,
     "osn": 735.1,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Hallberg Rassy ",
+    "builder": "Hallberg Rassy",
     "type": "HR 35 - Rasmus",
     "designer": "Olle Enderlein",
     "year": 1974,

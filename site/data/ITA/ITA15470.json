@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA15470",
   "country": "ITA",
   "name": "PATRICIA",
-  "owner": "-",
   "rating": {
     "gph": 637.6,
     "osn": 619.3,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Beneteau",
     "type": "First 34.7 mod.",
-    "designer": "Farr ",
+    "designer": "Farr",
     "year": 2005,
     "sizes": {
       "loa": 9.982,

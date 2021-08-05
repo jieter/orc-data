@@ -2,7 +2,6 @@
   "sailnumber": "EST/EST894",
   "country": "EST",
   "name": "EDDA",
-  "owner": "-",
   "rating": {
     "gph": 766.0,
     "osn": 742.0,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "MAXI",
     "type": "FENIX",
-    "designer": null,
+    "designer": "",
     "year": 1981,
     "sizes": {
       "loa": 8.3,

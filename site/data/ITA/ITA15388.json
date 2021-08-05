@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA15388",
   "country": "ITA",
   "name": "OBELIX",
-  "owner": "-",
   "rating": {
     "gph": 609.2,
     "osn": 589.9,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Bavaria Yachts",
     "type": "Bavaria 46",
-    "designer": "J&J ",
+    "designer": "J&J",
     "year": 2004,
     "sizes": {
       "loa": 13.99,

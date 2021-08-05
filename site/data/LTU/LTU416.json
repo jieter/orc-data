@@ -2,7 +2,6 @@
   "sailnumber": "LTU/LTU416",
   "country": "LTU",
   "name": "NERIJA",
-  "owner": "-",
   "rating": {
     "gph": 657.5,
     "osn": 637.6,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Bavaria Yachtbau",
     "type": "Bavaria 370",
-    "designer": null,
+    "designer": "",
     "year": 1991,
     "sizes": {
       "loa": 11.51,

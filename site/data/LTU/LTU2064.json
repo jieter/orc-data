@@ -2,7 +2,6 @@
   "sailnumber": "LTU/LTU2064",
   "country": "LTU",
   "name": "\u0160IAURIN\u0116",
-  "owner": "-",
   "rating": {
     "gph": 713.4,
     "osn": 694.4,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "Tallin",
     "type": "ST 25",
-    "designer": null,
+    "designer": "",
     "year": 1985,
     "sizes": {
       "loa": 7.62,

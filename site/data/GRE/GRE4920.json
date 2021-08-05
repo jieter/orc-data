@@ -2,7 +2,6 @@
   "sailnumber": "GRE/GRE4920",
   "country": "GRE",
   "name": "GALINI",
-  "owner": "-",
   "rating": {
     "gph": 787.9,
     "osn": 764.1,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "CONSTR.NAUTIQUES",
     "type": "AIKIDO 31",
-    "designer": null,
+    "designer": "",
     "year": 1973,
     "sizes": {
       "loa": 9.2,

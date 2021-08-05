@@ -2,7 +2,6 @@
   "sailnumber": "ESP/ESP10737_C",
   "country": "ESP",
   "name": "MARIA ANGELES",
-  "owner": "-",
   "rating": {
     "gph": 716.1,
     "osn": 699.1,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": " Argonautica S.A.",
+    "builder": "Argonautica S.A.",
     "type": "CRUZ DEL SUR 32",
     "designer": "BILL DIXON",
     "year": 1985,

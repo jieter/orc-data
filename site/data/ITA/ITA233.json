@@ -2,7 +2,6 @@
   "sailnumber": "ITA/ITA233",
   "country": "ITA",
   "name": "BLACK ARROW",
-  "owner": "-",
   "rating": {
     "gph": 521.3,
     "osn": 509.7,
@@ -20,7 +19,7 @@
   "boat": {
     "builder": "ICE Yachts",
     "type": "ICE 33",
-    "designer": "Felci ",
+    "designer": "Felci",
     "year": 2014,
     "sizes": {
       "loa": 9.99,

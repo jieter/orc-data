@@ -2,7 +2,6 @@
   "sailnumber": "FIN/FIN9324",
   "country": "FIN",
   "name": "Naya",
-  "owner": "-",
   "rating": {
     "gph": 663.1,
     "osn": 646.1,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "NORLIN 37",
     "designer": "PETER NORLIN",
     "year": 1976,

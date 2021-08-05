@@ -2,7 +2,6 @@
   "sailnumber": "FIN/FIN1257",
   "country": "FIN",
   "name": "KEO",
-  "owner": "-",
   "rating": {
     "gph": 681.1,
     "osn": 662.1,
@@ -18,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": null,
+    "builder": "",
     "type": "Guy 33",
     "designer": "Guy-Christer L\u00f6nng",
     "year": 1978,
