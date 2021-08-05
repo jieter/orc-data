@@ -43,8 +43,8 @@ module.exports = function render_metadata(boat, extended) {
     meta.selectAll('.meta-item')
         .data([
             table([
-                ['Sail number', 'Type', 'Designer', 'Owner'],
-                [boat.sailnumber, boat.boat.type, boat.boat.designer, boat.owner]
+                ['Sail number', 'Type', 'Designer'],
+                [boat.sailnumber, boat.boat.type, boat.boat.designer]
             ]),
             table([
                 ['Length', 'Beam', 'Draft', 'Displacement'],
