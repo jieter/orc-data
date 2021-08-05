@@ -2,7 +2,7 @@
   "rules": {
     "camelcase": 0,
     "quotes": [2, "single", "avoid-escape"],
-    "space-before-function-paren": 1,
+    "space-before-function-paren": 0,
     "space-in-parens": 2,
     "object-curly-spacing": 2,
     "array-bracket-spacing": 2,

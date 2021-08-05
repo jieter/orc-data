@@ -4,3 +4,4 @@ site/bundle.js.map
 meetbrieven/
 *.pyc
 __pycache__
+.python-version

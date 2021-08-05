@@ -26,10 +26,9 @@ def format_data(data):
 
     sailnumber = f"{country}/{sailnumber}"
     ret = {
-        "sailnumber": sailnumber,
+        "sailnumber": sailnumber.strip(),
         "country": country,
-        "name": data.get("YachtName", "") or "",
-        "owner": "-",
+        "name": (data.get("YachtName", "") or "").strip(),
         "rating": {
             "gph": float(data["GPH"]),
             "osn": float(data["OSN"]),
@@ -55,9 +54,9 @@ def format_data(data):
             ),
         },
         "boat": {
-            "builder": data["Builder"],
+            "builder": (data["Builder"] or "").strip(),
             "type": data["Class"],
-            "designer": data["Designer"],
+            "designer": (data["Designer"] or "").strip(),
             "year": data["Age_Year"],
             "sizes": {
                 "loa": float(data["LOA"]),
