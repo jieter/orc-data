@@ -33,7 +33,8 @@
       "spinnaker_asym": 26.83,
       "crew": 230.0,
       "wetted_surface": 8.72
-    }
+    },
+    "stability_index": 170.8
   },
   "vpp": {
     "angles": [

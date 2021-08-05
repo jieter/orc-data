@@ -25,7 +25,6 @@ def format_data(data):
         sailnumber = f"_{next(counter)}"
 
     sailnumber = f"{country}/{sailnumber}"
-
     ret = {
         "sailnumber": sailnumber,
         "country": country,
@@ -72,6 +71,7 @@ def format_data(data):
                 "crew": float(data["CrewWT"]),
                 "wetted_surface": float(data["WSS"]),
             },
+            "stability_index": float(data["Stability_Index"])
         },
     }
     # velocity prediction
