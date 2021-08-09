@@ -1,29 +1,28 @@
-var d3 = require('d3');
+import { select } from 'd3-selection';
+import { polartable } from './polartable.js';
+import { polarExport } from './polar-csv.js';
 
-var polarcsv = require('./polar-csv.js').export;
-var polartable = require('./polartable.js');
-
-var meta = d3.select('#meta').attr('class', 'meta');
+var meta = select('#meta').attr('class', 'meta');
 
 function metaItem(label, className, contents, title) {
-    var className = 'meta-label' + (className ? ' ' + className : '');
-    var title = title ? 'title="' + title + '"' : '';
+    className = 'meta-label' + (className ? ' ' + className : '');
+    title = title ? 'title="' + title + '"' : '';
 
-    return '<span class="' + className + '" ' + title + '>' + label + '</span> ' + contents;
+    return `<span class="${className}" ${title}>${label}</span> ${contents}`;
 }
 
 function table(data) {
     var header = '';
     var contents = '';
     for (var i = 0; i < data[0].length; i++) {
-        header += '<td class="meta-label">' + data[0][i] + '</td>';
-        contents += '<td>' + data[1][i] + '</td>'
+        header += `<td class="meta-label">${data[0][i]}</td>`;
+        contents += `<td>${data[1][i]}</td>`
     }
-    return '<table class="meta-table"><tr>' + header + '</tr><tr>' + contents + '</tr></table>';
+    return `<table class="meta-table"><tr>${header}</tr><tr>${contents}</tr></table>`;
 }
 
-module.exports = function render_metadata(boat, extended) {
-    d3.select('#name').html(boat.name || '<span class="text-muted">Name unknown</span>');
+export function renderMetadata(boat, extended) {
+    select('#name').html(boat.name || '<span class="text-muted">Name unknown</span>');
 
     var sizes = boat.boat.sizes;
 
@@ -60,7 +59,7 @@ module.exports = function render_metadata(boat, extended) {
             metaItem(
                 'Polar (csv)',
                 'polar',
-                '<textarea class="' + (extended ? 'csv-extended' : '') + '">' + polarcsv(boat, extended) + '</textarea>'
+                '<textarea class="' + (extended ? 'csv-extended' : '') + '">' + polarExport(boat, extended) + '</textarea>'
             )
         ]).enter().append('div').attr('class', 'meta-item');
 
@@ -69,4 +68,4 @@ module.exports = function render_metadata(boat, extended) {
     });
 
     polartable(meta.select('.table-container'), boat);
-};
+}

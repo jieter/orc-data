@@ -17,27 +17,24 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand">Polar plot van CSV</a>
+			<a class="navbar-brand">Polar plot from CSV</a>
 		</div>
 		<div class="collapse navbar-collapse" id="main-navigation">
 			<ul class="nav navbar-nav">
 				<li><a href="index.html">ORC sailboat data</a></li>
 			</ul>
 			<p class="navbar-text navbar-left">
-				Site: <a href="http://twitter.com/jietermanis">@Jietermanis</a>,
+                <a href="https://twitter.com/jietermanis">Twitter</a>,
+                <a href="https://github.com/jieter/orc-data/">GitHub</a>,
+                <a href="https://orc.org/index.asp?id=44">Data &copy; ORC.org</a>
 			</p>
 		</div>
 	</div>
 	<div id="main">
 		<div class="col-md-12">
 			<div class="row">
-				<div class="visible-xs col-xs-2 sidebar-toggle">
-					<button type="button" class="btn btn-primary btn-sm" data-toggle="offcanvas">
-						<i class="glyphicon glyphicon-menu-hamburger"></i>
-					</button>
-				</div>
 				<h1 class="col-lg-offset-5 col-sm-offset-6 col-sm-6 col-xs-10" id="name">
-					Eigen CSV plotten
+					Plot Custom CSV
 				</h1>
 			</div>
 			<div class="row">
@@ -47,12 +44,13 @@
 twa/tws;6;8;10;12;14;16;20
 0;0;0;0;0;0;0;0
 
-# Dit is de polar van https://jieter.github.io/orc-data/site/#ITA14800
-# nullen komen niet terug in de plot, dus de optimale kruishoeken kunnen ook
-# geplot worden door alleen voor die windsnelheid een snelheid in te voeren.
-# Je moet dan nog wel de vmg omrekenen naar sog: sog = vmg / cos(beat_angle)
+# This is the polar of https://jieter.github.io/orc-data/site/#ITA14800
 
-# Aan de wind
+# Zeros are not plotted, you can use this to add optimal beat/run angles for a
+# specific wind speed. In this case, VMG must be converted to SOG:
+#   SOG = VMG / cos(beat_angle)
+
+# Beat angles
 44.2;5.02;0;0;0;0;0;0
 42.9;0;5.99;0;0;0;0;0
 42.5;0;0;6.81;0;0;0;0
@@ -70,7 +68,7 @@ twa/tws;6;8;10;12;14;16;20
 135;5.48;6.78;7.75;8.26;8.69;9.2;10.45
 150;4.54;5.7;6.76;7.58;8.12;8.52;9.46
 
-# ruime wind
+# Run angles
 142.1;4.98;0;0;0;0;0;0
 144.7;0;6.04;0;0;0;0;0
 144.9;0;0;7.15;0;0;0;0
