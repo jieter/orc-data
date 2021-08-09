@@ -12,7 +12,7 @@ export function polarImport(str) {
     }
 
     // split by lines, filter empty lines and comments (starting with #)
-    var rows = str.split(/\r?\n/).filter(function(s) { return s.length > 0 && s[0] != '#'; });
+    var rows = str.split(/\r?\n/).filter(s => s.length > 0 && s[0] != '#');
 
     var polar = {
         speeds: rows[0].split(CSV_SEPARATOR).slice(1).map(int),
@@ -59,5 +59,5 @@ export function polarExport(data, extended) {
         });
     }
 
-    return ret.map(function(row) { return row.join(CSV_SEPARATOR); }).join('\n');
+    return ret.map(row => row.join(CSV_SEPARATOR)).join('\n');
 }

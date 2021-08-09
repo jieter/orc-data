@@ -4,8 +4,6 @@ function degrees(d) {
 
 export function polartable(container, boat) {
     var vpp = boat.vpp;
-
-    // prepare data:
     var header = ['Wind velocity', ...vpp.speeds.map(d => `${d}kts`)];
     var data = [
         ['Beat angles', ...vpp.beat_angle.map(degrees)],
@@ -29,7 +27,7 @@ export function polartable(container, boat) {
         .enter().append('tr')
         .attr('class', (d, i) => (i >= 2 && i <= 9) ? `twa-${vpp.angles[i - 2]}` : '');
 
-    var cells = rows.selectAll('td').data(d => d)
+    rows.selectAll('td').data(d => d)
         .enter().append('td').attr('class', function(d, i) {
             return (i > 0) ? `tws-${vpp.speeds[i - 1]}` : '';
         }).text(d => d);

@@ -37,9 +37,7 @@ function displayBoat(sailnumber) {
         plot.render(boat);
         renderMetadata(boat, extended);
 
-        selectAll('#list li').classed('active', function(d) {
-            return d[0] === boat.sailnumber;
-        });
+        selectAll('#list li').classed('active', d => d[0] === boat.sailnumber);
     });
 }
 
@@ -52,9 +50,9 @@ json('index.json').then(function(response) {
     list.selectAll('li')
         .data(response)
         .enter()
-        .append('li').attr('id', function(d) { return 'boat-' + d[0]; })
+        .append('li').attr('id', d => `boat-${d[0]}`)
         .append('a')
-        .attr('href', function(d) { return '#' + d[0]; })
+        .attr('href', d => `#${d[0]}`)
         .attr('class', 'boat')
         .on('click', function(event, d) {
             displayBoat(d[0]);
@@ -66,9 +64,9 @@ json('index.json').then(function(response) {
             return `<span class="sailnumber">${number}</span> ${name}<br /><span class="type">${type}</span>`;
         });
 
-    var polar_textarea = select('textarea');
-    if (!polar_textarea.empty()) {
-        const renderFromTextArea = () => plot.render(polarImport(polar_textarea.property('value')));
+    var textarea = select('textarea');
+    if (!textarea.empty()) {
+        const renderFromTextArea = () => plot.render(polarImport(textarea.property('value')));
 
         select('textarea').on('keyup', renderFromTextArea);
         renderFromTextArea();
@@ -94,19 +92,12 @@ function search() {
     if (val === '') {
         list.selectAll('a').attr('class', 'boat');
     }
-    list.selectAll('a')
-        .attr('class', function(d) {
-            return 'boat' + (!matchBoats(d, val) ? ' hidden' : '');
-        });
+    list.selectAll('a').attr('class', d => `boat${!matchBoats(d, val) ? ' hidden' : ''}`);
     if (list.selectAll('a:not(.hidden)')[0].length === 1) {
         plot.render(list.selectAll('a:not(.hidden)').data()[0]);
     }
 }
 select('input').on('keyup', search);
 select('button').on('click', search);
-select('#extended-csv').on('click', function() {
-    reloadBoat();
-});
-select(window).on('resize', function() {
-    plot.resize();
-});
+select('#extended-csv').on('click', reloadBoat);
+select(window).on('resize', () => plot.resize());

@@ -169,8 +169,8 @@ export function polarplot(container) {
         svg.attr('transform', 'translate(' + 10 + ',' + (height() / 2) + ')');
         r.range([0, radius()]);
 
-        gr.selectAll('.axis.r circle').attr('r', r);
-        gr.selectAll('.axis.r text').attr('y', d => -r(d) - 4);
+        speedScale.selectAll('.axis.r circle').attr('r', r);
+        speedScale.selectAll('.axis.r text').attr('y', d => -r(d) - 4);
 
         graph.selectAll('line').attr('x2', radius());
         svg.selectAll('.xlabel').call(xaxis);

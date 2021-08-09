@@ -11,7 +11,7 @@ export function getRandomElement(arr) {
 }
 
 export function zeros(n) {
-    return Array.apply(null, new Array(n)).map(function() { return 0.0; });
+    return Array.apply(null, new Array(n)).map(() => 0.0);
 }
 
 export function int(n) {
