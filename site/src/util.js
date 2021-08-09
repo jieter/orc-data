@@ -1,12 +1,23 @@
-var deg2rad = Math.PI / 180;
+export const deg2rad = Math.PI / 180;
 
-module.exports = {
-    deg2rad: deg2rad,
+export function vmg2sog(beat_angle, vmg) {
+    return vmg / Math.cos(beat_angle * deg2rad);
+}
+export function round(x, n) {
+    return n == null ? Math.round(x) : Math.round(x * (n = Math.pow(10, n))) / n;
+}
+export function getRandomElement(arr) {
+    return arr[Math.floor(Math.random() * arr.length)];
+}
 
-    vmg2sog: function(beat_angle, vmg) {
-        return vmg / Math.cos(beat_angle * deg2rad);
-    },
-    round: function round(x, n) {
-        return n == null ? Math.round(x) : Math.round(x * (n = Math.pow(10, n))) / n;
-    }
-};
+export function zeros(n) {
+    return Array.apply(null, new Array(n)).map(function() { return 0.0; });
+}
+
+export function int(n) {
+    return parseInt(n, 10);
+}
+
+export function float(n) {
+    return +n;
+}
