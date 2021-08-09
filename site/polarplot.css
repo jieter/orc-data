@@ -1,201 +1,259 @@
 svg .axis text {
-	font: 10px sans-serif;
+    font: 10px sans-serif;
 }
 
-.axis line,	.axis circle {
-	fill: none;
-	stroke: #777;
-	stroke-dasharray: 1,4;
+.axis line,
+.axis circle {
+    fill: none;
+    stroke: #777;
+    stroke-dasharray: 1, 4;
 }
 
-.axis :last-of-type circle {
-	stroke: #333;
-	stroke-dasharray: none;
+.axis.sog-10 circle {
+    stroke: #333 !important;
+    stroke-dasharray: none !important;
+}
+
+.axis.sog-12 circle,
+.axis.sog-14 circle,
+.axis.sog-16 circle {
+    stroke: #aaa;
 }
 
 .line {
-	fill: none;
-	stroke: red;
-	stroke-width: 1.5px;
+    fill: none;
+    stroke: red;
+    stroke-width: 1.5px;
 }
-.legend rect {
-	fill: #fff;
-	stroke: #000;
-	opacity: 0.8;
-}
-.highlight { stroke: #000; fill: #fff; }
 
-.tws-6 { stroke: #1f77b4; }
-.tws-8 { stroke: #ff7f0e; }
-.tws-10 { stroke: #2ca02c; }
-.tws-12 { stroke: #d62728; }
-.tws-14 { stroke: #9467bd; }
-.tws-16 { stroke: #17becf; }
-.tws-20 { stroke: #e377c2; }
+.legend rect {
+    fill: #fff;
+    stroke: #000;
+    opacity: 0.8;
+}
+
+.highlight {
+    stroke: #000;
+    fill: #fff;
+}
+
+.tws-6 {
+    stroke: #1f77b4;
+}
+
+.tws-8 {
+    stroke: #ff7f0e;
+}
+
+.tws-10 {
+    stroke: #2ca02c;
+}
+
+.tws-12 {
+    stroke: #d62728;
+}
+
+.tws-14 {
+    stroke: #9467bd;
+}
+
+.tws-16 {
+    stroke: #17becf;
+}
+
+.tws-20 {
+    stroke: #e377c2;
+}
 
 .polar-table td:hover {
-	background-color: #eee;
+    background-color: #eee;
 }
 
-.vmg-run, .vmg-beat {
-	fill: #fff;
+.vmg-run,
+.vmg-beat {
+    fill: #fff;
 }
 
 .meta span.meta-label {
-	font-weight: 200;
-	font-size: 14px;
-	color: #aaa;
-	padding: 0;
-	display: inline-block;
-	min-width: 100px;
+    font-weight: 200;
+    font-size: 14px;
+    color: #aaa;
+    padding: 0;
+    display: inline-block;
+    min-width: 100px;
 }
 
 .meta table {
-	display: inline-block;
-}
-.meta table.meta-table td {
-	padding-right: 10px;
-	min-width: 100px;
-}
-.meta table .meta-label {
-	color: #888;
+    display: inline-block;
 }
 
-input { margin-bottom: 2px; }
-.meta-item h2 { margin-top: 2px; }
+.meta table.meta-table td {
+    padding-right: 10px;
+    min-width: 100px;
+}
+
+.meta table .meta-label {
+    color: #888;
+}
+
+input {
+    margin-bottom: 2px;
+}
+
+.meta-item h2 {
+    margin-top: 2px;
+}
 
 .meta-label.polar {
-	display: block !important;
+    display: block !important;
 }
+
 .meta-item textarea {
-	width: 100%;
-	height: 150px;
-	max-width: 500px;
-	font-family: monospace;
-	font-size: 10px;
+    width: 100%;
+    height: 150px;
+    max-width: 500px;
+    font-family: monospace;
+    font-size: 10px;
 }
 
 #meta textarea {
-	width: 100%;
-	height: 160px;
-	font-family: monospace;
-	font-size: 10px;
+    width: 100%;
+    height: 160px;
+    font-family: monospace;
+    font-size: 10px;
 }
+
 #meta textarea.plot-only {
-	height: 600px;
+    height: 600px;
 }
+
 #meta textarea.csv-extended {
-	height: 380px;
+    height: 380px;
 }
 
 .polar-table {
-	font-size: 12px;
-	max-width: 500px;
-}
-.polar-table tr th {
-	white-space: nowrap;
-}
-.polar-table tr td:first-child {
-	text-align: right;
+    font-size: 12px;
+    max-width: 500px;
 }
 
+.polar-table tr th {
+    white-space: nowrap;
+}
+
+.polar-table tr td:first-child {
+    text-align: right;
+}
 
 .sailnumber {
-	color: #555;
+    color: #555;
 }
 
-#list li.active .sailnumber, #list li.active .type {
-	color: #eee;
+#list li.active .sailnumber,
+#list li.active .type {
+    color: #eee;
 }
 
+h2 .sailnumber {
+    font-size: 13px;
+}
 
-h2 .sailnumber { font-size: 13px; }
 .type {
-	color: #aaa;
-	size: 10px;
+    color: #aaa;
+    size: 10px;
 }
 
 #main-nav {
-	margin-bottom: 5px;
+    margin-bottom: 5px;
 }
+
 .sidebar-toggle {
-	margin-top: 25px;
+    margin-top: 25px;
 }
+
 textarea {
-	max-width: 500px;
+    max-width: 500px;
 }
-body, html, .row-offcanvas {
-	height: 100%;
+
+body,
+html,
+.row-offcanvas {
+    height: 100%;
 }
-body { padding-top: 50px; }
+
+body {
+    padding-top: 50px;
+}
 
 #sidebar {
-	width: inherit;
-	min-width: 250px;
-	max-width: 250px;
-	float: left;
-	height: 100%;
-	position: relative;
-	overflow-y: auto;
-	overflow-x: hidden;
+    width: inherit;
+    min-width: 250px;
+    max-width: 250px;
+    float: left;
+    height: 100%;
+    position: relative;
+    overflow-y: auto;
+    overflow-x: hidden;
 }
+
 #main {
-	overflow-y: auto;
-	height: 100%;
-	padding-top: 5px;
+    overflow-y: auto;
+    height: 100%;
+    padding-top: 5px;
 }
 
 label {
-	font-weight: normal;
+    font-weight: normal;
 }
+
+
 /*
  * off Canvas sidebar
  * --------------------------------------------------
  */
+
 @media screen and (max-width: 768px) {
-	.row-offcanvas {
-		position: relative;
-		-webkit-transition: all 0.25s ease-out;
-		-moz-transition: all 0.25s ease-out;
-		transition: all 0.25s ease-out;
-		width: calc(100% + 250px);
-	}
-
-	.row-offcanvas-left	{
-		left: -250px;
-	}
-
-	.row-offcanvas-left.active {
-		left: 0;
-	}
-
-	.sidebar-offcanvas {
-		position: absolute;
-		top: 0;
-	}
+    .row-offcanvas {
+        position: relative;
+        -webkit-transition: all 0.25s ease-out;
+        -moz-transition: all 0.25s ease-out;
+        transition: all 0.25s ease-out;
+        width: calc(100% + 250px);
+    }
+    .row-offcanvas-left {
+        left: -250px;
+    }
+    .row-offcanvas-left.active {
+        left: 0;
+    }
+    .sidebar-offcanvas {
+        position: absolute;
+        top: 0;
+    }
 }
 
 .glyphicon-spin {
-	-webkit-animation: spin 1000ms infinite linear;
-	animation: spin 1000ms infinite linear;
+    -webkit-animation: spin 1000ms infinite linear;
+    animation: spin 1000ms infinite linear;
 }
+
 @-webkit-keyframes spin {
-	0% {
-		-webkit-transform: rotate(0deg);
-		transform: rotate(0deg);
-	}
-	100% {
-		-webkit-transform: rotate(359deg);
-		transform: rotate(359deg);
-	}
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
 }
+
 @keyframes spin {
-	0% {
-		-webkit-transform: rotate(0deg);
-		transform: rotate(0deg);
-	}
-	100% {
-		-webkit-transform: rotate(359deg);
-		transform: rotate(359deg);
-	}
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg);
+    }
 }

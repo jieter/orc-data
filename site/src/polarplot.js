@@ -17,67 +17,61 @@ export function polarplot(container) {
             return Math.min(window.innerHeight - 60, width() * 2);
         }
     };
+
     var radius = function() { return Math.min(height() / 2.2 - 20, width()) - 40; };
 
     var svg = select(container).append('svg')
         .attr('width', width())
         .attr('height', height())
         .append('g')
-        .attr('transform', 'translate(' + 10 + ',' + (height() / 2) + ')');
+        .attr('transform', `translate(10, ${height() / 2})`);
 
-    // radial scale
+    // Radial speed scale (kts)
     var r = scaleLinear().domain([0, 10]).range([0, radius()]);
 
     // speed rings
-    var gr = svg.append('g')
-        .attr('class', 'r axis')
+    var speedScale = svg.append('g')
         .selectAll('g')
-        .data(r.ticks(5).slice(1))
-        .enter().append('g');
+        .data([2, 4, 6, 8, 10, 12, 14, 16])
+        .enter().append('g').attr('class', d => `r axis sog-${d}`);
 
-    gr.append('circle').attr('r', r);
-
-    gr.append('text')
-        .attr('y', function(d) { return -r(d) - 4; })
-        .attr('transform', 'rotate(15)')
+    speedScale.append('circle').attr('r', r);
+    speedScale.append('text')
+        .attr('y', speed => -r(speed) - 4)
+        .attr('transform', 'rotate(20)')
         .style('text-anchor', 'middle')
-        .text(function(d) { return d % 2 === 0 ? d + 'kts' : ''; });
+        .text(speed => speed <= 10 ? `${speed}kts` : '');
 
-    // wind direction
+    // True wind directions
     var graph = svg.append('g')
         .attr('class', 'a axis')
         .selectAll('g')
-        .data([0, 45, 52, 60, 75, 90, 110, 120, 135, 150, 165].map(function(d) { return d - 90; }))
+        .data([0, 45, 52, 60, 75, 90, 110, 120, 135, 150, 165])
         .enter().append('g')
-        .attr('transform', function(d) { return 'rotate(' + d + ')'; });
+        .attr('transform', bearing => `rotate(${bearing - 90})`);
 
     graph.append('line')
         .attr('x1', r(1))
         .attr('x2', radius());
 
-    var xaxis = function(sel) {
-        sel.attr('x', radius() + 6)
+    var xaxis = function(selection) {
+        selection.attr('x', radius() + 6)
             .attr('dy', '.35em')
-            .style('text-anchor', function(d) { return d < 270 && d > 90 ? 'end' : null; })
-            .attr('transform', function(d) { return d < 270 && d > 90 ? 'rotate(180 ' + (radius() + 6) + ', 0)' : null; })
-            .text(function(d) { return (d + 90) + '°'; });
+            .attr('transform', d => d > 90 ? `rotate(0 ${radius() + 6}, 0)` : null)
+            .text(bearing => `${bearing}°`);
     };
 
-    graph.append('text')
-        .attr('class', 'xlabel').call(xaxis);
-
+    graph.append('text').attr('class', 'xlabel').call(xaxis);
 
     var line = lineRadial()
-        .radius(function(d) { return r(d[1]); })
-        .angle(function(d) { return d[0]; })
+        .radius(d => r(d[1]))
+        .angle(d => d[0])
         .curve(curveCardinal);
 
     // Plot VMG diamonds
     var scatter = function(shape, size) {
         return function(s) {
-            s.attr('transform', function(d) {
-                return 'translate(' + (r(d[1]) * Math.sin(d[0])) + ', ' + (r(d[1]) * -Math.cos(d[0])) + ')';
-            });
+            s.attr('transform', d => `translate(${r(d[1]) * Math.sin(d[0])}, ${r(d[1]) * -Math.cos(d[0])})`)
             s.attr('d', symbol().type(shape || symbolDiamond).size(size || 32));
         };
     };
@@ -88,20 +82,16 @@ export function polarplot(container) {
     plot.render = function(data) {
         vpp = ('vpp' in data) ? data.vpp : data;
 
-        var vpp_angles = vpp.angles.map(function(d) { return d * deg2rad; });
+        var vpp_angles = vpp.angles.map(d => d * deg2rad);
         var run_data = [];
 
         var tws_series = function(cssClass) {
-            return function(sel) {
-                sel.attr('class', function(d, i) {
-                    return cssClass + ' tws-' + vpp.speeds[i];
-                });
+            return function(selection) {
+                selection.attr('class', (d, i) => cssClass + ' tws-' + vpp.speeds[i]);
             };
         };
         var vpp_data = vpp.speeds.map(function(windspeed, i) {
-            var series = zip(vpp_angles, vpp.angles.map(function(angle) {
-                return vpp[angle][i];
-            }));
+            var series = zip(vpp_angles, vpp.angles.map(angle => vpp[angle][i]));
             // filter points with zero SOG
             series = series.filter(function(a) { return a[1] > 0; });
 
@@ -132,8 +122,8 @@ export function polarplot(container) {
         lines
             .enter().append('path')
             .call(tws_series('line'))
-            .attr('data-legend', function(d, i) { return vpp.speeds[i] + 'kts'; })
-            .attr('data-legend-pos', function(d, i) { return i; })
+            .attr('data-legend', (d, i) => `${vpp.speeds[i]}kts`)
+            .attr('data-legend-pos', (d, i) => i)
             .merge(lines)
             .transition().duration(200).attr('d', line);
     };
@@ -180,7 +170,7 @@ export function polarplot(container) {
         r.range([0, radius()]);
 
         gr.selectAll('.axis.r circle').attr('r', r);
-        gr.selectAll('.axis.r text').attr('y', function(d) { return -r(d) - 4; });
+        gr.selectAll('.axis.r text').attr('y', d => -r(d) - 4);
 
         graph.selectAll('line').attr('x2', radius());
         svg.selectAll('.xlabel').call(xaxis);

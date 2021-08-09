@@ -1,4 +1,4 @@
-function add_degrees_symbol(d) {
+function degrees(d) {
     return d + '°';
 }
 
@@ -6,14 +6,13 @@ export function polartable(container, boat) {
     var vpp = boat.vpp;
 
     // prepare data:
-    var header = ['Wind velocity'].concat(vpp.speeds.map(function(d) { return d + 'kts'; }));
+    var header = ['Wind velocity', ...vpp.speeds.map(d => `${d}kts`)];
     var data = [
-        ['Beat angles'].concat(vpp.beat_angle.map(add_degrees_symbol)), ['Beat VMG'].concat(vpp.beat_vmg)
-    ].concat(vpp.angles.map(function(angle) {
-        return [add_degrees_symbol(angle)].concat(vpp['' + angle]);
-    })).concat([
-        ['Run VMG'].concat(vpp.run_vmg), ['Gybe angles'].concat(vpp.run_angle.map(add_degrees_symbol))
-    ]);
+        ['Beat angles', ...vpp.beat_angle.map(degrees)],
+        ['Beat VMG', ...vpp.beat_vmg],
+        ...vpp.angles.map(angle => [degrees(angle), ...vpp['' + angle]]), ['Run VMG', ...vpp.run_vmg],
+        ['Gybe angles', ...vpp.run_angle.map(degrees)]
+    ];
 
     var table = container.selectAll('table').data([0]).enter()
         .append('table')
@@ -24,22 +23,14 @@ export function polartable(container, boat) {
 
     thead.selectAll('tr').data([0]).enter().append('tr')
         .selectAll('th').data(header).enter().append('th')
-        .text(function(d) { return d; });
+        .text(d => d);
 
     var rows = tbody.selectAll('tr').data(data)
         .enter().append('tr')
-        .attr('class', function(d, i) {
-            if (i >= 2 && i <= 9) {
-                return 'twa-' + vpp.angles[i - 2];
-            } else {
-                return '';
-            }
-        });
+        .attr('class', (d, i) => (i >= 2 && i <= 9) ? `twa-${vpp.angles[i - 2]}` : '');
 
-    var cells = rows.selectAll('td').data(function(d) { return d; })
+    var cells = rows.selectAll('td').data(d => d)
         .enter().append('td').attr('class', function(d, i) {
             return (i > 0) ? `tws-${vpp.speeds[i - 1]}` : '';
-        });
-
-    cells.text(function(d) { return d; });
+        }).text(d => d);
 }
