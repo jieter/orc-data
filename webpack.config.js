@@ -25,6 +25,7 @@ module.exports = {
                 '/node_modules/',
             ],
             options: {
+                sourceType: 'unambiguous',
                 babelrc: false,
                 presets: [
                     ['@babel/preset-env', {
