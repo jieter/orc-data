@@ -3,87 +3,40 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
     <title>ORC sailboat data</title>
 
     <link rel="stylesheet" href="polarplot.css">
+    <link rel="stylesheet" href="build/index.css">
+
 </head>
 <body>
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation" id="main-nav">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navigation">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="">ORC sailboat data (2021)</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
             </button>
-            <a class="navbar-brand">ORC sailboat data (2021)</a>
-        </div>
-        <div class="collapse navbar-collapse" id="main-navigation">
-            <form class="navbar-form navbar-left" role="search">
-                <div class="input-group">
-                    <input type="text" class="form-control" placeholder="Name, type, sail number..." />
-                    <span class="input-group-btn">
-                        <button class="btn btn-default"><i class="glyphicon glyphicon-search"></i></button>
-                    </span>
-                </div>
-            </form>
-            <ul class="nav navbar-nav">
-                <li><a href="csvplot.html">Plot custom CSV</a></li>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item"><a href="csvplot.html" class="nav-link">Plot custom CSV</a></li>
             </ul>
-            <p class="navbar-text navbar-left">
+            <div class="d-flex navbar-text">
                 <a href="https://twitter.com/jietermanis">Twitter</a>,
                 <a href="https://github.com/jieter/orc-data/">GitHub</a>,
                 <a href="https://orc.org/index.asp?id=44">Data &copy; ORC.org</a>
-            </p>
-        </div>
-    </div>
-    <div class="row-offcanvas row-offcanvas-left">
-        <div id="sidebar" class="sidebar-offcanvas">
-            <div class="col-md-12">
-                <ul class="nav nav-pills nav-stacked" id="list">
-
-                </ul>
+            </div>
+            <form class="d-flex">
+                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success" type="submit">🔍</button>
+            </form>
             </div>
         </div>
-        <div id="main">
-            <div class="col-md-12">
-                <div class="row">
-                    <div class="visible-xs col-xs-2 sidebar-toggle">
-                        <button type="button" class="btn btn-primary btn-sm" data-toggle="offcanvas">
-                            <i class="glyphicon glyphicon-menu-hamburger"></i>
-                        </button>
-                    </div>
-                    <h1 class="col-lg-offset-5 col-sm-offset-6 col-sm-6 col-xs-10" id="name">
-                        <i class="glyphicon glyphicon-spin glyphicon glyphicon-refresh"></i> Loading...
-                    </h1>
-                </div>
-                <div class="row">
-                    <div class="col-lg-5 col-sm-6" id="chart"></div>
-                    <div class="col-lg-7 col-sm-6" id="meta"></div>
-                </div>
-                <div class="row">
-                    <div class="col-lg-offset-5 col-sm-offset-6 col-sm-6">
-                        <label>
-                            <input type="checkbox" id="extended-csv" />
-                            Generate extended CSV (including beat and run angles)
-                        </label>
-                    </div>
-            </div>
-        </div>
+    </nav>
+    <div id="container">
+
     </div>
-
-
-    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.js"></script>
-    <script src="bundle.js"></script>
-    <script>
-        $(document).ready(function() {
-            $('[data-toggle=offcanvas]').click(function() {
-                $('.row-offcanvas').toggleClass('active');
-            });
-        });
-    </script>
+    <script deer src="build/index.js"></script>
     <script type="text/javascript">
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-19828019-5']);

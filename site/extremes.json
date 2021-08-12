@@ -1,212 +1,312 @@
 {
   "max_speed": [
     [
-      "AUS/525100",
-      21.08
+      "POL/POL20180",
+      "I LOVE POLAND",
+      "VOLVO OPEN 70",
+      24.52
     ],
     [
-      "AUS/ITA70",
-      20.79
+      "USA/CAY007",
+      "Vesper",
+      "Maxi 72",
+      19.67
     ],
     [
-      "AUS/GBR4945R",
-      18.15
+      "GER/GER7111",
+      "VARUNA",
+      "KER 56",
+      19.44
     ],
     [
-      "AUS/AUS52566",
-      18.06
+      "GER/BOD49",
+      "WILD LADY",
+      "WILKE 49",
+      19.09
     ],
     [
-      "AUS/AUS13",
-      18.04
+      "USA/USA45",
+      "BELLA MENTE",
+      "Maxi 72",
+      18.46
     ],
     [
       "ITA/ITA18215",
+      "ANYWAVE",
+      "Frers 64",
       17.96
     ],
     [
-      "AUS/AUS1",
-      17.87
+      "GER/GER7323",
+      "MILAN",
+      "STP65",
+      17.92
     ],
     [
-      "AUS/AUS1",
-      17.79
+      "USA/USA28686",
+      "OC-86",
+      "MAXZ86",
+      17.8
     ],
     [
       "USA/USA50009",
+      "PRIVATEER",
+      "COOKSON 50",
       17.75
     ],
     [
-      "AUS/98888",
-      17.68
+      "USA/USA60669",
+      "PROSPECTOR",
+      "Unknown",
+      17.51
     ]
   ],
   "min_speed": [
     [
-      "NED/NED9011",
-      7.11
-    ],
-    [
-      "NED/NED9139",
-      7.11
-    ],
-    [
-      "NED/NED1417",
-      7.11
-    ],
-    [
-      "RSA/RSA2253",
-      7.07
+      "FIN/FIN284",
+      "Oili",
+      "Kansanvene (Nordis",
+      7.1
     ],
     [
       "NED/NED8864",
+      "Chiquitina",
+      "Elvstrom 1/4 ton",
       7.05
     ],
     [
       "EST/ESTF32",
+      "W-Lind",
+      "FOLKBOAT",
       7.04
     ],
     [
       "NED/NED9104",
+      "Blackfish",
+      "Contessa 26",
       7.04
     ],
     [
+      "FIN/L920",
+      "Sabrina",
+      "Avance 24",
+      7.03
+    ],
+    [
+      "FIN/FIN1907",
+      "Toutain",
+      "HUNTER SONATA 7",
+      7.03
+    ],
+    [
       "GRE/GRE4957",
+      "KAHLUA",
+      "CATCH 22",
       7.02
     ],
     [
+      "RUS/AC1334RUS64",
+      "KENGA",
+      "Magnum 700",
+      7.01
+    ],
+    [
       "NED/NED9737",
+      "Alexa",
+      "Friendship 22",
       6.92
     ],
     [
       "NED/NED9159",
+      "DRAAIJER",
+      "Draijer",
       6.88
     ]
   ],
   "max_length": [
     [
-      "AUS/525100",
-      30.46
-    ],
-    [
       "ESP/1008",
+      "L'ONDINE",
+      "SW100",
       30.24
     ],
     [
       "USA/USA22261",
+      "WHITEHAWK",
+      "KING 101",
       28.91
     ],
     [
       "ITA/ITA12821",
+      "ORSA MAGGIORE",
+      "Ketch",
       28.27
     ],
     [
+      "USA/USA28686",
+      "OC-86",
+      "MAXZ86",
+      26.149
+    ],
+    [
+      "GER/GER5000",
+      "UCA",
+      "J/V 86",
+      26.03
+    ],
+    [
       "GER/SUI212",
+      "SAPMA",
+      "SWAN 80",
       25.1
     ],
     [
+      "ITA/ITA14654",
+      "IDRUSA",
+      "Maxi One Design",
+      24.505
+    ],
+    [
       "ESP/ESP9933",
+      "PLIS-PLAY",
+      "SWAN 80 (99)",
       24.41
     ],
     [
       "USA/USA13751",
+      "KIALOA III",
+      "IOR MAXI",
       24.031
     ],
     [
-      "AUS/CAY6536",
-      24.02
-    ],
-    [
-      "ITA/ITA41100",
-      23.4
-    ],
-    [
-      "ESP/ESP9495",
-      23.276
+      "ITA/ITA14656",
+      "ANEMOS II",
+      "Maxi One 80 ",
+      23.99
     ]
   ],
   "max_displacement": [
     [
       "USA/USA22261",
-      73395.0
+      "WHITEHAWK",
+      "KING 101",
+      71852.0
     ],
     [
       "ESP/1008",
+      "L'ONDINE",
+      "SW100",
       67100.0
     ],
     [
       "ITA/ITA12821",
+      "ORSA MAGGIORE",
+      "Ketch",
       66518.0
     ],
     [
-      "AUS/CAY6536",
-      54770.0
-    ],
-    [
       "NED/NED760",
+      "Lion's Pride",
+      "SWAN 76",
       54085.0
     ],
     [
       "ITA/ITA4519",
+      "STELLA POLARE",
+      "yawl bermudiano",
       51001.0
     ],
     [
       "ITA/ITA12712",
+      "CAPRICIA",
+      "One Off 1963",
       50902.0
     ],
     [
       "NED/NED8385",
+      "PH III",
+      "CONTEST 72CS (MOD)",
       48256.0
     ],
     [
       "ESP/ESP9495",
+      "ALZIRA MORAIRA",
+      "SWAN 75",
       47298.0
     ],
     [
       "AUS/AUS7742",
+      "KIALOA 2",
+      "S & S 73 Classic",
       44821.0
+    ],
+    [
+      "ITA/ITA1643",
+      "CORSARO II",
+      "proto",
+      43164.0
     ]
   ],
   "max_draft": [
     [
+      "USA/USA45",
+      "BELLA MENTE",
+      "Maxi 72",
+      5.66
+    ],
+    [
       "NED/NED3405",
+      "HannaH",
+      "Bestevaer 56",
       5.57
     ],
     [
-      "AUS/525100",
-      5.46
+      "USA/CAY007",
+      "Vesper",
+      "Maxi 72",
+      5.4
     ],
     [
-      "AUS/AUS1",
-      4.83
-    ],
-    [
-      "AUS/AUS1",
+      "GER/GER7323",
+      "MILAN",
+      "STP65",
       4.83
     ],
     [
       "USA/USA60669",
+      "PROSPECTOR",
+      "Unknown",
       4.71
     ],
     [
-      "AUS/98888",
-      4.63
-    ],
-    [
       "USA/USA22261",
-      4.62
-    ],
-    [
-      "AUS/AUS13",
-      4.62
+      "WHITEHAWK",
+      "KING 101",
+      4.59
     ],
     [
       "ITA/ITA17565",
+      "HAGAR V",
+      "Scuderia 65",
       4.52
     ],
     [
-      "AUS/7001",
-      4.49
+      "POL/POL20180",
+      "I LOVE POLAND",
+      "VOLVO OPEN 70",
+      4.5
+    ],
+    [
+      "GER/GER5000",
+      "UCA",
+      "J/V 86",
+      4.46
+    ],
+    [
+      "USA/USA51104",
+      "Windwalker",
+      "Unknown",
+      4.45
     ]
   ]
 }
