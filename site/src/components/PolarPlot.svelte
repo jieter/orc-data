@@ -1,11 +1,11 @@
 <script>
 import { onMount, afterUpdate } from 'svelte';
-import { polarplot} from '../polarplot.js';
+import { polarplot } from '../polarplot.js';
 
 export let boat;
 
 let container;
-let plot
+let plot;
 
 afterUpdate(() => {
     if (!plot) {
@@ -15,5 +15,5 @@ afterUpdate(() => {
 });
 </script>
 
-<div bind:this={container}></div>
+<div bind:this={container} />
 <svelte:window on:resize={() => plot && plot.resize()} />

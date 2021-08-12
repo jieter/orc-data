@@ -3,7 +3,7 @@ export let number;
 
 let display;
 
-function formatNumber (sailnumber) {
+function formatNumber(sailnumber) {
     if (!sailnumber) {
         return;
     }
@@ -13,7 +13,6 @@ function formatNumber (sailnumber) {
         return sailnumber;
     }
 }
-
 </script>
 
 <span class="sailnumber">{formatNumber(number)}</span>

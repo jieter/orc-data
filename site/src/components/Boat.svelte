@@ -1,10 +1,7 @@
 <script>
-
-import { afterUpdate } from 'svelte';
-import { polartable } from '../polartable.js';
 import { polarExport } from '../polar-csv.js';
-import { select } from 'd3-selection';
 import PolarPlot from './PolarPlot.svelte';
+import PolarTable from './PolarTable.svelte';
 
 export let boat;
 let extended = false;
@@ -23,7 +20,7 @@ function getSails() {
     const sizes = boat.boat.sizes;
     const sails = [
         ['Main', sizes.main + 'm²'],
-        ['Genoa', sizes.genoa + 'm²']
+        ['Genoa', sizes.genoa + 'm²'],
     ];
     if (sizes.spinnaker > 0) {
         sails.push(['Spinnaker', sizes.spinnaker + 'm²']);
@@ -33,18 +30,11 @@ function getSails() {
     }
     return sails;
 }
-
-
-afterUpdate(() => {
-    polartable(select('.table-container'), boat);
-});
 </script>
-
-
 
 <div class="row">
     <div class="col-sm">
-        <PolarPlot boat={boat} />
+        <PolarPlot {boat} />
     </div>
     <div class="col-sm">
         <h1>
@@ -59,7 +49,12 @@ afterUpdate(() => {
             <tr><th>Sail number</th><th>Type</th><th>Desinger</th></tr>
             <tr><td>{boat.sailnumber}</td><td>{boat.boat.type}</td><td>{boat.boat.designer}</td></tr>
             <tr><th>Length</th><th>Beam</th><th>Draft</th><th>Displacement</th></tr>
-            <tr><td>{sizes.loa} m</td><td>{sizes.beam} m</td><td>{sizes.draft} m</td><td>{sizes.displacement} kg</td></tr>
+            <tr>
+                <td>{sizes.loa} m</td>
+                <td>{sizes.beam} m</td>
+                <td>{sizes.draft} m</td>
+                <td>{sizes.displacement} kg</td>
+            </tr>
             <tr>
                 {#each sails as [name, sail]}
                     <th>{name}</th>
@@ -74,13 +69,13 @@ afterUpdate(() => {
             <tr><th>GPH</th><th>OSH</th><th>Stability index</th></tr>
             <tr><td>{rating.gph}</td><td>{rating.osn}</td><td>{boat.boat.stability_index || '?'}</td></tr>
             <tr>
-                <th>Inshore TH</th><td colspan=3>{rating.triple_inshore.join(' ')}</td>
+                <th>Inshore TH</th><td colspan="3">{rating.triple_inshore.join(' ')}</td>
             </tr>
             <tr>
-                <th>Offshore TH</th><td colspan=3>{rating.triple_offshore.join(' ')}</td>
+                <th>Offshore TH</th><td colspan="3">{rating.triple_offshore.join(' ')}</td>
             </tr>
         </table>
-        <div class="table-container"></div>
+        <PolarTable vpp={boat.vpp} />
         <h5>
             Polar (CSV)
             <small>
@@ -90,18 +85,13 @@ afterUpdate(() => {
                 </label>
             </small>
         </h5>
-        <textarea class:extended>{polarExport(boat, extended)}
-        </textarea>
-
-
-
+        <textarea class:extended>{polarExport(boat, extended)} </textarea>
+    </div>
 </div>
-</div>
-
 
 <style>
-    th {
-        color: #777;
-        font-weight: 400;
-    }
+th {
+    color: #777;
+    font-weight: 400;
+}
 </style>

@@ -5,14 +5,13 @@
         "start": "sirv site --no-clear",
         "dev": "rollup -c -w",
         "eslint": "eslint -c package.json site/src/",
-        "format": "prettier --write --plugin-search-dir=. site/*.js site/**/*.svelte site/**/*.js"
+        "format": "prettier --write --plugin-search-dir=. site/src/*.js site/src/components/*.svelte"
 
     },
     "devDependencies": {
         "@rollup/plugin-commonjs": "^20.0.0",
         "@rollup/plugin-node-resolve": "^13.0.4",
         "eslint": "^7.32.0",
-        "eslint-plugin-html": "^6.1.2",
         "prettier": "^2.3.2",
         "prettier-plugin-svelte": "^2.3.1",
         "rollup-plugin-analyzer": "^4.0.0",
