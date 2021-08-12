@@ -5,17 +5,23 @@
         "start": "sirv site --no-clear",
         "dev": "rollup -c -w",
         "eslint": "eslint -c package.json site/src/",
-        "format": "prettier --write --plugin-search-dir=. site/src/*.js site/src/components/*.svelte"
-
+        "format": "prettier --write --plugin-search-dir=. rollup.config.js site/src/* site/src/components/*.svelte"
     },
     "devDependencies": {
         "@rollup/plugin-commonjs": "^20.0.0",
         "@rollup/plugin-node-resolve": "^13.0.4",
         "eslint": "^7.32.0",
+        "eslint-plugin-svelte3": "^3.2.0",
         "prettier": "^2.3.2",
         "prettier-plugin-svelte": "^2.3.1",
         "rollup-plugin-analyzer": "^4.0.0",
-        "terser-webpack-plugin": "^5.1.4"
+        "terser-webpack-plugin": "^5.1.4",
+        "sirv-cli": "^1.0.12",
+        "rollup": "^2.56.2",
+        "rollup-plugin-css-only": "^3.1.0",
+        "rollup-plugin-livereload": "^2.0.5",
+        "rollup-plugin-svelte": "^7.1.0",
+        "rollup-plugin-terser": "^7.0.2"
     },
     "dependencies": {
         "d3-array": "^3.0.1",
@@ -24,12 +30,6 @@
         "d3-selection": "^3.0.0",
         "d3-shape": "^3.0.1",
         "d3-transition": "^3.0.1",
-        "rollup": "^2.56.2",
-        "rollup-plugin-css-only": "^3.1.0",
-        "rollup-plugin-livereload": "^2.0.5",
-        "rollup-plugin-svelte": "^7.1.0",
-        "rollup-plugin-terser": "^7.0.2",
-        "sirv-cli": "^1.0.12",
         "svelecte": "^1.3.5",
         "svelte": "^3.42.1"
     },
@@ -44,9 +44,22 @@
             "ecmaVersion": 2019,
             "sourceType": "module"
         },
+        "plugins": [
+            "svelte3"
+        ],
         "env": {
             "es6": true,
             "browser": true
+        },
+        "rules": {
+            "no-unused-vars": [
+                "error",
+                { "args": "none" }
+            ],
+            "semi": [
+                "error",
+                "always"
+            ]
         }
     },
     "browserslist": [

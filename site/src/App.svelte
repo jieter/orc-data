@@ -3,21 +3,27 @@ import Boat from './components/Boat.svelte';
 import { getRandomBoat } from './search.js';
 import PolarPlot from './components/PolarPlot.svelte';
 import Sailnumber from './components/Sailnumber.svelte';
+import { onMount } from 'svelte';
 
 export let sailnumber;
 let boat;
 let hoverBoat;
 
-async function loadBoat(sailnumber) {
+function loadBoat(sailnumber) {
     return fetch(`data/${sailnumber}.json`).then((response) => response.json());
 }
 
-async function getExtremes() {
+function getExtremes() {
     return fetch('extremes.json').then((response) => response.json());
 }
 
 async function randomBoat() {
     sailnumber = await getRandomBoat();
+}
+
+function onhashchange() {
+    const hash = window.location.hash;
+    sailnumber = hash.length > 1 ? hash.substring(1) : undefined;
 }
 
 const labels = {
@@ -27,6 +33,11 @@ const labels = {
     max_displacement: 'Greatest displacement (kg)',
     max_draft: 'Greatest draft (m)',
 };
+
+onMount(() => {
+    window.addEventListener('hashchange', onhashchange, false);
+    return () => window.removeEventListener('hashchange', onhashchange, false);
+});
 
 $: {
     if (sailnumber) {

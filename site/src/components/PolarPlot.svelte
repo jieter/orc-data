@@ -1,5 +1,5 @@
 <script>
-import { onMount, afterUpdate } from 'svelte';
+import { afterUpdate } from 'svelte';
 import { polarplot } from '../polarplot.js';
 
 export let boat;

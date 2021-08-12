@@ -23,12 +23,12 @@ function serve() {
             if (server) return;
             server = require('child_process').spawn('npm', ['run', 'start', '--', '--dev'], {
                 stdio: ['ignore', 'inherit', 'inherit'],
-                shell: true
+                shell: true,
             });
 
             process.on('SIGTERM', toExit);
             process.on('exit', toExit);
-        }
+        },
     };
 }
 
@@ -46,7 +46,7 @@ export default APP_NAMES.map((name, index) => ({
             // enable run-time checks when not in production
             compilerOptions: {
                 dev: !production,
-            }
+            },
         }),
         // we'll extract any component CSS out into
         // a separate file - better for performance
