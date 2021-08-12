@@ -6,9 +6,11 @@ import 'd3-transition';
 import { deg2rad, vmg2sog } from './util.js';
 
 export function polarplot(container) {
-    var containerElement = document.getElementById(container.substring(1));
+    if (container.substring) {
+        container = document.getElementById(container.substring(1));
+    }
     var width = function () {
-        return containerElement.offsetWidth - 20;
+        return container.offsetWidth - 20;
     };
     var height = function () {
         if (window.innerWidth < 768) {

@@ -4,7 +4,7 @@
         "build": "rollup -c",
         "start": "sirv site --no-clear",
         "dev": "rollup -c -w",
-        "eslint": "eslint -c package.json site/src/ site/index.js",
+        "eslint": "eslint -c package.json site/src/",
         "format": "prettier --write --plugin-search-dir=. site/*.js site/**/*.svelte site/**/*.js"
 
     },

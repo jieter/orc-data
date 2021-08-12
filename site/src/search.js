@@ -19,7 +19,7 @@ function matchBoat(boat, needle) {
 let _index;
 async function indexLoader() {
     if (!_index) {
-        _index = await fetch('index.json').then(response => response.json());
+        _index = await fetch('index.json').then((response) => response.json());
     }
     return _index;
 }

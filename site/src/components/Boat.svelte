@@ -1,10 +1,10 @@
 <script>
 
 import { afterUpdate } from 'svelte';
-import { polarplot} from '../polarplot.js';
 import { polartable } from '../polartable.js';
 import { polarExport } from '../polar-csv.js';
 import { select } from 'd3-selection';
+import PolarPlot from './PolarPlot.svelte';
 
 export let boat;
 let extended = false;
@@ -35,19 +35,8 @@ function getSails() {
 }
 
 
-
-let plot
-
-
-
 afterUpdate(() => {
-    if (!plot) {
-        plot = polarplot('#chart');
-    }
-    plot.render(boat);
     polartable(select('.table-container'), boat);
-    plot.render(boat);
-    select(window).on('resize', () => plot.resize());
 });
 </script>
 
@@ -55,7 +44,7 @@ afterUpdate(() => {
 
 <div class="row">
     <div class="col-sm">
-        <div id="chart"></div>
+        <PolarPlot boat={boat} />
     </div>
     <div class="col-sm">
         <h1>
