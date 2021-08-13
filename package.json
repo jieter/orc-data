@@ -44,22 +44,14 @@
             "ecmaVersion": 2019,
             "sourceType": "module"
         },
-        "plugins": [
-            "svelte3"
-        ],
+        "plugins": ["svelte3"],
         "env": {
             "es6": true,
             "browser": true
         },
         "rules": {
-            "no-unused-vars": [
-                "error",
-                { "args": "none" }
-            ],
-            "semi": [
-                "error",
-                "always"
-            ]
+            "no-unused-vars": ["error", { "args": "none" }],
+            "semi": ["error", "always"]
         }
     },
     "browserslist": [

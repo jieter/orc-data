@@ -32,7 +32,7 @@ function getSails() {
 }
 </script>
 
-<div class="row">
+<div class="row p-2">
     <div class="col-sm">
         <PolarPlot {boat} />
     </div>
