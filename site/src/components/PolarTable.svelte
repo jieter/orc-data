@@ -18,11 +18,17 @@ export let vpp;
                 <td>{angle}°</td>
             {/each}
         </tr>
+        <tr>
+            <td>Beat VMG</td>
+            {#each vpp.beat_vmg as speed}
+                <td>{speed}</td>
+            {/each}
+        </tr>
         {#each vpp.angles as angle}
             <tr class="twa-{angle}">
                 <td>{angle}°</td>
                 {#each vpp['' + angle] as speed, i}
-                    <td class="tws-{vpp.speeds[i - 1]}">{speed}</td>
+                    <td class="tws-{vpp.speeds[i]}">{speed}</td>
                 {/each}
             </tr>
         {/each}

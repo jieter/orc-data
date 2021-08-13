@@ -160,14 +160,19 @@ export function polarplot(container) {
     select(window).on('mouseover', function (event) {
         var target = select(event.target);
         var targetClass = target.attr('class');
+        if (!targetClass || targetClass.substring(0, 4) !== 'tws-') {
+            svg.selectAll('.highlight').data([]).exit().remove();
+            return;
+        }
+
         var parent = select(event.target.parentNode);
-        var parentClass = parent.attr('class');
+        var parentClass = parent ? parent.attr('class') : '';
 
         if (targetClass && targetClass.substring(0, 4) === 'tws-' && parent && parentClass.substring(0, 4) === 'twa-') {
             var tws = +targetClass.substring(4);
             var twa = +parentClass.substring(4);
 
-            var speed = vpp[twa][vpp.speeds.indexOf(tws)];
+            const speed = vpp[twa][vpp.speeds.indexOf(tws)];
             highlight = svg.selectAll('.highlight').data([[twa * deg2rad, speed]]);
         } else {
             highlight = svg.selectAll('.highlight').data([]);

@@ -89,3 +89,9 @@ $: {
         <Boat boat={value} />
     {/await}
 {/if}
+
+<style>
+:global(.svelecte-control) {
+    min-width: 250px;
+}
+</style>
