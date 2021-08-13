@@ -1,9 +1,9 @@
 # ORC club certificate scoring
 
-Van http://orc.org/index.asp?id=44 zijn lijsten te downloaden met daarin gegevens over de zeilboten met een geldig ORC-certificaat.
+http://orc.org/index.asp?id=44 contains various attributes of sailing yachts with ORC certificate.
+Especially the velocity prediction programme (VPP) data is interesting to estimate boat speed.
 
-Omdat de VPP ook wel zinnig is voor anderen, heb ik dit tooltje gemaakt.
-
+This tool presents the data in a table and a 'polar diagram'
 
 ## Columns in `.rms` file:
 

@@ -146,11 +146,11 @@ def jsonwriter_extremes(rmsdata):
     long_boats = sorted(data, key=lambda boat: boat["boat"]["sizes"]["loa"], reverse=True)
     heavy_boats = sorted(data, key=lambda boat: boat["boat"]["sizes"]["displacement"], reverse=True)
 
-    sailno_vppmax = lambda boats: list([(boat["sailnumber"], vppmax(boat)) for boat in boats])
+    sailno_vppmax = lambda boats: list([(boat["sailnumber"], boat["name"], boat["boat"]["type"], vppmax(boat)) for boat in boats])
 
     def sailno_sizekey(key, limit=10):
         boats = sorted(data, key=lambda boat: boat["boat"]["sizes"][key], reverse=True)[:limit]
-        return list([(boat["sailnumber"], boat["boat"]["sizes"][key]) for boat in boats])
+        return list([(boat["sailnumber"], boat["name"], boat["boat"]["type"], boat["boat"]["sizes"][key]) for boat in boats])
 
     extremes = {}
     extremes["max_speed"] = sailno_vppmax(fast_boats[:10])

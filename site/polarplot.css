@@ -116,18 +116,18 @@ input {
     font-size: 10px;
 }
 
-#meta textarea {
+textarea {
     width: 100%;
     height: 160px;
     font-family: monospace;
     font-size: 10px;
 }
 
-#meta textarea.plot-only {
+textarea.plot-only {
     height: 600px;
 }
 
-#meta textarea.csv-extended {
+textarea.extended {
     height: 380px;
 }
 
@@ -145,16 +145,17 @@ input {
 }
 
 .sailnumber {
-    color: #555;
+    color: #888;
 }
 
-#list li.active .sailnumber,
-#list li.active .type {
-    color: #eee;
+.dropdown {
+    background-color: white;
 }
 
-h2 .sailnumber {
-    font-size: 13px;
+.dropdown a {
+    display: block;
+    padding: 2px 4px;
+    background-color: white;
 }
 
 .type {
@@ -174,27 +175,6 @@ textarea {
     max-width: 500px;
 }
 
-body,
-html,
-.row-offcanvas {
-    height: 100%;
-}
-
-body {
-    padding-top: 50px;
-}
-
-#sidebar {
-    width: inherit;
-    min-width: 250px;
-    max-width: 250px;
-    float: left;
-    height: 100%;
-    position: relative;
-    overflow-y: auto;
-    overflow-x: hidden;
-}
-
 #main {
     overflow-y: auto;
     height: 100%;
@@ -203,57 +183,4 @@ body {
 
 label {
     font-weight: normal;
-}
-
-
-/*
- * off Canvas sidebar
- * --------------------------------------------------
- */
-
-@media screen and (max-width: 768px) {
-    .row-offcanvas {
-        position: relative;
-        -webkit-transition: all 0.25s ease-out;
-        -moz-transition: all 0.25s ease-out;
-        transition: all 0.25s ease-out;
-        width: calc(100% + 250px);
-    }
-    .row-offcanvas-left {
-        left: -250px;
-    }
-    .row-offcanvas-left.active {
-        left: 0;
-    }
-    .sidebar-offcanvas {
-        position: absolute;
-        top: 0;
-    }
-}
-
-.glyphicon-spin {
-    -webkit-animation: spin 1000ms infinite linear;
-    animation: spin 1000ms infinite linear;
-}
-
-@-webkit-keyframes spin {
-    0% {
-        -webkit-transform: rotate(0deg);
-        transform: rotate(0deg);
-    }
-    100% {
-        -webkit-transform: rotate(359deg);
-        transform: rotate(359deg);
-    }
-}
-
-@keyframes spin {
-    0% {
-        -webkit-transform: rotate(0deg);
-        transform: rotate(0deg);
-    }
-    100% {
-        -webkit-transform: rotate(359deg);
-        transform: rotate(359deg);
-    }
 }
