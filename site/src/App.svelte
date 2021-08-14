@@ -1,10 +1,13 @@
 <script>
-import Boat from './components/Boat.svelte';
-import Extremes from './components/Extremes.svelte';
-import Svelecte from 'svelecte';
 import { onMount } from 'svelte';
+import Svelecte from 'svelecte';
 import { getBoat, indexLoader } from './api.js';
+
+import Boat from './components/Boat.svelte';
+import BoatSelect from './components/BoatSelect.svelte';
+import Compare from './components/Compare.svelte';
 import CustomPlot from './components/CustomPlot.svelte';
+import Extremes from './components/Extremes.svelte';
 
 export let sailnumber;
 let boat;
@@ -14,18 +17,13 @@ function onhashchange() {
     sailnumber = hash.length > 1 ? hash.substring(1) : undefined;
 }
 
-function renderer(item) {
-    const [number, name, type] = item;
-    return `<span class="sailnumber">${number}</span> ${name}`;
-}
-
 onMount(() => {
     window.addEventListener('hashchange', onhashchange, false);
     return () => window.removeEventListener('hashchange', onhashchange, false);
 });
 
 $: {
-    if (sailnumber && sailnumber != 'extremes' && sailnumber != 'customplot') {
+    if (sailnumber && !['extremes', 'customplot', 'compare'].some((val) => sailnumber.startsWith(val))) {
         boat = getBoat(sailnumber);
         window.location.hash = sailnumber;
     } else {
@@ -52,21 +50,11 @@ $: {
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item"><a href="#customplot" class="nav-link">Plot custom CSV</a></li>
-                <li class="nav-item d-block-md">
-                    {#await indexLoader() then index}
-                        <Svelecte
-                            options={index}
-                            placeholder="Sailnumber, name or type"
-                            virtualList={true}
-                            {renderer}
-                            on:change={(event) => {
-                                if (event.detail) {
-                                    sailnumber = event.detail[0];
-                                }
-                            }}
-                        />
-                    {/await}
-                </li>
+                {#if sailnumber && !sailnumber.startsWith('compare')}
+                    <li class="nav-item d-block-md">
+                        <BoatSelect bind:sailnumber />
+                    </li>
+                {/if}
             </ul>
 
             <div class="d-flex navbar-text">
@@ -82,16 +70,8 @@ $: {
     <Extremes bind:sailnumber />
 {:else if sailnumber == 'customplot'}
     <CustomPlot />
+{:else if sailnumber.startsWith('compare')}
+    <Compare />
 {:else}
-    {#await boat}
-        Loading {sailnumber}
-    {:then value}
-        <Boat boat={value} />
-    {/await}
+    <Boat {sailnumber} />
 {/if}
-
-<style>
-:global(.svelecte-control) {
-    min-width: 250px;
-}
-</style>
