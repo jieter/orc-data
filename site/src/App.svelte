@@ -49,12 +49,13 @@ $: {
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                <li class="nav-item"><a href="#customplot" class="nav-link">Plot custom CSV</a></li>
-                {#if sailnumber && !sailnumber.startsWith('compare')}
+                {#if !sailnumber || (sailnumber && !sailnumber.startsWith('compare'))}
                     <li class="nav-item d-block-md">
                         <BoatSelect bind:sailnumber />
                     </li>
                 {/if}
+                <li class="nav-item"><a href="#compare" class="nav-link">Compare boats</a></li>
+                <li class="nav-item"><a href="#customplot" class="nav-link">Plot custom CSV</a></li>
             </ul>
 
             <div class="d-flex navbar-text">

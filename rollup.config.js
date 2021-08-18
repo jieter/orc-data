@@ -41,6 +41,12 @@ export default APP_NAMES.map((name, index) => ({
         dir: 'site/build/',
         indent: false,
     },
+    onwarn: function (warning, warn) {
+        if (warning.code === 'CIRCULAR_DEPENDENCY') {
+            return;
+        }
+        warn(warning);
+    },
     plugins: [
         svelte({
             // enable run-time checks when not in production

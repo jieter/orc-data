@@ -1,0 +1,2 @@
+# Do not attempt to merge generated files, do not include them in GitHub line count
+site/build/* -diff linguist-vendored

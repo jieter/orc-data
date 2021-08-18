@@ -1,16 +1,13 @@
 <script>
 import { onMount } from 'svelte';
 
-import PolarPlot from './PolarPlot.svelte';
-import Sailnumber from './Sailnumber.svelte';
 import BoatSelect from './BoatSelect.svelte';
+import CompareBoat from './CompareBoat.svelte';
 
-import { getBoat } from '../api.js';
+let sailnumberA = undefined;
+let sailnumberB = undefined;
 
-export let sailnumberA = undefined;
-export let sailnumberB = undefined;
-
-let boats = [];
+let sailnumbers = [];
 
 const PREFIX = 'compare-';
 const SEPARATOR = '|';
@@ -21,20 +18,14 @@ onMount(() => {
         [sailnumberA, sailnumberB] = hash.substring(PREFIX.length).split(SEPARATOR);
     }
 });
-function loadBoats(sailnumbers) {
-    boats = sailnumbers.map((sailnumber) => {
-        if (sailnumber) {
-            return getBoat(sailnumber);
-        } else {
-            return undefined;
-        }
-    });
+
+async function loadBoats(sailnumbers) {
     if (sailnumbers.every((x) => x)) {
         window.location.hash = `${PREFIX}${sailnumbers.join(SEPARATOR)}`;
     }
 }
 
-$: loadBoats([sailnumberA, sailnumberB]);
+$: sailnumbers = [sailnumberA, sailnumberB];
 </script>
 
 <div class="row p-2">
@@ -46,15 +37,9 @@ $: loadBoats([sailnumberA, sailnumberB]);
     </div>
 </div>
 <div class="row p-2">
-    {#each boats as boatPromise}
+    {#each sailnumbers as sailnumber}
         <div class="col">
-            {#await boatPromise then boat}
-                {#if boat}
-                    <Sailnumber number={boat.sailnumber} />
-                    {boat.name}
-                    <PolarPlot {boat} />
-                {/if}
-            {/await}
+            <CompareBoat {sailnumber} />
         </div>
     {/each}
 </div>

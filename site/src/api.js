@@ -5,7 +5,7 @@ export async function indexLoader() {
     if (!_index) {
         _index = await fetch('index.json').then((response) => response.json());
     }
-    return _index;
+    return new Promise((resolve, reject) => resolve(_index));
 }
 
 export async function getRandomBoat() {
