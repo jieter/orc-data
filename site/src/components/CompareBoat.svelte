@@ -2,12 +2,12 @@
 import PolarPlot from './PolarPlot.svelte';
 import Sailnumber from './Sailnumber.svelte';
 import { getBoat } from '../api.js';
+
 export let sailnumber;
 
 let boat;
 
 async function loadBoat(sailnumber) {
-    console.log(sailnumber);
     boat = await getBoat(sailnumber);
 }
 

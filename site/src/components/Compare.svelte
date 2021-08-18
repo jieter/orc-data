@@ -19,27 +19,30 @@ onMount(() => {
     }
 });
 
-async function loadBoats(sailnumbers) {
-    if (sailnumbers.every((x) => x)) {
+function loadBoats(sailnumbers) {
+    if (sailnumbers.some((x) => x)) {
         window.location.hash = `${PREFIX}${sailnumbers.join(SEPARATOR)}`;
     }
+    return sailnumbers;
 }
 
-$: sailnumbers = [sailnumberA, sailnumberB];
+$: sailnumbers = loadBoats([sailnumberA, sailnumberB]);
 </script>
 
-<div class="row p-2">
-    <div class="col">
-        <BoatSelect bind:sailnumber={sailnumberA} />
-    </div>
-    <div class="col">
-        <BoatSelect bind:sailnumber={sailnumberB} />
-    </div>
-</div>
-<div class="row p-2">
-    {#each sailnumbers as sailnumber}
+<div class="container-fluid">
+    <div class="row p-2 row-cols-2">
         <div class="col">
-            <CompareBoat {sailnumber} />
+            <BoatSelect bind:sailnumber={sailnumberA} />
         </div>
-    {/each}
+        <div class="col">
+            <BoatSelect bind:sailnumber={sailnumberB} />
+        </div>
+    </div>
+    <div class="row p-2 row-cols-2">
+        {#each sailnumbers as sailnumber}
+            <div class="col">
+                <CompareBoat {sailnumber} />
+            </div>
+        {/each}
+    </div>
 </div>

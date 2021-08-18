@@ -1,7 +1,5 @@
 <script>
 import { onMount } from 'svelte';
-import Svelecte from 'svelecte';
-import { getBoat, indexLoader } from './api.js';
 
 import Boat from './components/Boat.svelte';
 import BoatSelect from './components/BoatSelect.svelte';
@@ -10,7 +8,6 @@ import CustomPlot from './components/CustomPlot.svelte';
 import Extremes from './components/Extremes.svelte';
 
 export let sailnumber;
-let boat;
 
 function onhashchange() {
     const hash = window.location.hash;
@@ -24,10 +21,7 @@ onMount(() => {
 
 $: {
     if (sailnumber && !['extremes', 'customplot', 'compare'].some((val) => sailnumber.startsWith(val))) {
-        boat = getBoat(sailnumber);
         window.location.hash = sailnumber;
-    } else {
-        boat = undefined;
     }
 }
 </script>

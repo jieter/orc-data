@@ -3,7 +3,6 @@ import { onMount } from 'svelte';
 
 import Sailnumber from './Sailnumber.svelte';
 import PolarPlot from './PolarPlot.svelte';
-
 import { getBoat, getExtremes, getRandomBoat } from '../api.js';
 
 export let sailnumber;
@@ -36,9 +35,9 @@ const labels = {
 };
 </script>
 
-<div class="container px-4">
+<div class="container-fluid">
     <div class="row gx-5">
-        <div class="col col-md-8 p-4">
+        <div class="col col-sm-8 p-4">
             <p>
                 Polar diagrams for sailyachts with ORC certificates. Select one of the boats below, search by
                 sailnumber, name or type or select a
@@ -51,13 +50,13 @@ const labels = {
                 <a href="https://orc.org/index.asp?id=44">ORC.org</a>.
             </p>
         </div>
-        <div class="col-md-4 p-4">
+        <div class="col-sm-4 p-4">
             <button class="btn btn-primary" on:click={loadRandomBoat}>Random boat</button>
         </div>
     </div>
 
     <div class="row gx-5">
-        <div class="col col-md-8 p-4">
+        <div class="col col-sm-8 p-4">
             {#await getExtremes() then extremes}
                 <div class="row">
                     {#each Object.entries(extremes) as [extreme, boats]}
@@ -82,7 +81,7 @@ const labels = {
                 </div>
             {/await}
         </div>
-        <div class="col-md-4 p-4">
+        <div class="col-sm-4 p-4">
             {#if boat}
                 <h6><Sailnumber number={boat.sailnumber} /> {boat.name} ({boat.boat.type})</h6>
 
@@ -104,5 +103,9 @@ const labels = {
 }
 .boat:hover {
     background-color: #eee;
+}
+
+h6 {
+    white-space: nowrap;
 }
 </style>

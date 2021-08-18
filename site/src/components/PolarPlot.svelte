@@ -1,5 +1,6 @@
 <script>
 import { afterUpdate } from 'svelte';
+
 import { polarplot } from '../polarplot.js';
 
 export let boat;

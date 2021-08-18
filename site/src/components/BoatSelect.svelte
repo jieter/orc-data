@@ -1,6 +1,4 @@
 <script>
-import { onMount } from 'svelte';
-
 import Svelecte from 'svelecte';
 import { indexLoader } from '../api.js';
 
@@ -10,7 +8,7 @@ let selection = null;
 
 async function loadSelection(sailnumber) {
     const index = await indexLoader();
-    if (sailnumber && sailnumber != 'extremes') {
+    if (sailnumber && !['extremes', 'customplot'].includes(sailnumber)) {
         selection = [index.find((element) => element[0] == sailnumber)];
     } else {
         selection = null;
