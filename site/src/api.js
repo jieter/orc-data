@@ -13,8 +13,17 @@ export async function getRandomBoat() {
     return getRandomElement(index)[0];
 }
 
+let _boats = {};
+
 export function getBoat(sailnumber) {
-    return fetch(`data/${sailnumber}.json`).then((response) => response.json());
+    if (sailnumber in _boats) {
+        return new Promise((resolve) => resolve(_boats[sailnumber]));
+    } else {
+        return fetch(`data/${sailnumber}.json`).then((response) => {
+            _boats[sailnumber] = response.json();
+            return _boats[sailnumber];
+        });
+    }
 }
 
 export function getExtremes() {

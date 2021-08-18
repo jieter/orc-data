@@ -10,18 +10,15 @@ export function polarplot(container) {
         container = document.getElementById(container.substring(1));
     }
     var width = function () {
-        return container.offsetWidth - 20;
+        return container.offsetWidth;
     };
     var height = function () {
-        if (window.innerWidth < 768) {
-            return window.innerHeight;
-        } else {
-            return Math.min(window.innerHeight - 60, width() * 2);
-        }
+        const windowHeight = window.innerHeight;
+        return Math.min(width() * 1.8, windowHeight - 60);
     };
     // Radius of the visualization
     const radius = function () {
-        return Math.min(height() / 1.8 - 20, width()) - 40;
+        return Math.min(height() / 1.8 - 20, width()) - 15;
     };
     // Radial speed scale (kts)
     const r = scaleLinear().domain([0, 10]).range([0, radius()]);
