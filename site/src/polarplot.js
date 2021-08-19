@@ -3,7 +3,35 @@ import { scaleLinear } from 'd3-scale';
 import { select } from 'd3-selection';
 import { curveCardinal, lineRadial, symbol, symbolCircle, symbolDiamond } from 'd3-shape';
 import 'd3-transition';
-import { deg2rad, vmg2sog } from './util.js';
+import { DEG2RAD, vmg2sog } from './util.js';
+
+const deg2rad = (degrees, vmg) => [degrees * DEG2RAD, vmg2sog(degrees, vmg)];
+
+function seriesFromVpp(vpp) {
+    const vpp_angles = vpp.angles.map((d) => d * DEG2RAD);
+    let run_data = [];
+
+    const vpp_data = vpp.speeds.map(function (windspeed, i) {
+        var series = zip(
+            vpp_angles,
+            vpp.angles.map((angle) => vpp[angle][i])
+        );
+        // filter points with zero SOG
+        series = series.filter((a) => a[1] > 0);
+
+        if (vpp.beat_angle) {
+            series.unshift(deg2rad(vpp.beat_angle[i], vpp.beat_vmg[i]));
+        }
+        if (vpp.run_angle) {
+            var run = deg2rad(vpp.run_angle[i], -vpp.run_vmg[i]);
+            series.push(run);
+            run_data.push(run);
+        }
+
+        return series.sort((a, b) => a[0] - b[0]);
+    });
+    return { vpp_data, run_data };
+}
 
 export function polarplot(container) {
     if (container.substring) {
@@ -78,12 +106,7 @@ export function polarplot(container) {
     var scatter = function (shape, size) {
         return function (s) {
             s.attr('transform', (d) => `translate(${r(d[1]) * Math.sin(d[0])}, ${r(d[1]) * -Math.cos(d[0])})`);
-            s.attr(
-                'd',
-                symbol()
-                    .type(shape || symbolDiamond)
-                    .size(size || 32)
-            );
+            s.attr('d', symbol(shape || symbolDiamond, size || 32));
         };
     };
 
@@ -93,39 +116,11 @@ export function polarplot(container) {
     plot.render = function (data) {
         vpp = 'vpp' in data ? data.vpp : data;
 
-        var vpp_angles = vpp.angles.map((d) => d * deg2rad);
-        var run_data = [];
+        const { vpp_data, run_data } = seriesFromVpp(vpp);
 
         var tws_series = function (cssClass) {
-            return function (selection) {
-                selection.attr('class', (d, i) => cssClass + ' tws-' + vpp.speeds[i]);
-            };
+            return (selection) => selection.attr('class', (d, i) => `${cssClass} tws-${vpp.speeds[i]}`);
         };
-        var vpp_data = vpp.speeds.map(function (windspeed, i) {
-            var series = zip(
-                vpp_angles,
-                vpp.angles.map((angle) => vpp[angle][i])
-            );
-            // filter points with zero SOG
-            series = series.filter(function (a) {
-                return a[1] > 0;
-            });
-
-            const transform = (degrees, vmg) => [degrees * deg2rad, vmg2sog(degrees, vmg)];
-
-            if (vpp.beat_angle) {
-                series.unshift(transform(vpp.beat_angle[i], vpp.beat_vmg[i]));
-            }
-            if (vpp.run_angle) {
-                var run = transform(vpp.run_angle[i], -vpp.run_vmg[i]);
-                series.push(run);
-                run_data.push(run);
-            }
-
-            return series.sort(function (a, b) {
-                return a[0] - b[0];
-            });
-        });
 
         var run_points = svg.selectAll('.vmg-run').data(run_data);
         run_points.exit().remove();
@@ -140,16 +135,7 @@ export function polarplot(container) {
 
         var lines = svg.selectAll('.line').data(vpp_data);
         lines.exit().remove();
-        lines
-            .enter()
-            .append('path')
-            .call(tws_series('line'))
-            .attr('data-legend', (d, i) => `${vpp.speeds[i]}kts`)
-            .attr('data-legend-pos', (d, i) => i)
-            .merge(lines)
-            .transition()
-            .duration(200)
-            .attr('d', line);
+        lines.enter().append('path').call(tws_series('line')).merge(lines).transition().duration(200).attr('d', line);
     };
 
     var highlight;
@@ -165,29 +151,35 @@ export function polarplot(container) {
         var parent = select(event.target.parentNode);
         var parentClass = parent ? parent.attr('class') : '';
 
-        if (targetClass && targetClass.substring(0, 4) === 'tws-' && parent && parentClass.substring(0, 4) === 'twa-') {
+        if (
+            targetClass &&
+            targetClass.substring(0, 4) === 'tws-' &&
+            parentClass &&
+            parentClass.substring(0, 4) === 'twa-'
+        ) {
             var tws = +targetClass.substring(4);
             var twa = +parentClass.substring(4);
 
             const speed = vpp[twa][vpp.speeds.indexOf(tws)];
-            highlight = svg.selectAll('.highlight').data([[twa * deg2rad, speed]]);
+            highlight = svg.selectAll('.highlight').data([[twa * DEG2RAD, speed]]);
         } else {
             highlight = svg.selectAll('.highlight').data([]);
         }
+
         highlight.exit().remove();
         highlight
             .enter()
             .append('path')
-            .merge(highlight)
+            .merge(highlight) // merge current selection
             .attr('class', 'highlight ' + (tws ? 'tws-' + tws : ''))
             .transition()
             .duration(50)
             .call(scatter(symbolCircle, 80));
     });
 
-    var originalSize = width();
+    var previousWidth = width();
     plot.resize = function () {
-        if (width() === originalSize) {
+        if (width() === previousWidth) {
             return;
         }
         select('svg').attr('width', width()).attr('height', height());
@@ -204,7 +196,7 @@ export function polarplot(container) {
         svg.selectAll('.line').transition().duration(200).attr('d', line);
         svg.selectAll('.vmg-run').transition().duration(200).call(scatter());
 
-        originalSize = width();
+        previousWidth = width();
     };
 
     return plot;

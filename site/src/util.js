@@ -1,7 +1,7 @@
-export const deg2rad = Math.PI / 180;
+export const DEG2RAD = Math.PI / 180;
 
 export function vmg2sog(beat_angle, vmg) {
-    return vmg / Math.cos(beat_angle * deg2rad);
+    return vmg / Math.cos(beat_angle * DEG2RAD);
 }
 export function round(x, n) {
     return n == null ? Math.round(x) : Math.round(x * (n = Math.pow(10, n))) / n;

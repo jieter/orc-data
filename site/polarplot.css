@@ -39,30 +39,37 @@ svg .axis text {
 
 .tws-6 {
     stroke: #1f77b4;
+    color: #1f77b4;
 }
 
 .tws-8 {
     stroke: #ff7f0e;
+    color: #ff7f0e;
 }
 
 .tws-10 {
     stroke: #2ca02c;
+    color: #2ca02c;
 }
 
 .tws-12 {
     stroke: #d62728;
+    color: #d62728;
 }
 
 .tws-14 {
     stroke: #9467bd;
+    color: #9467bd;
 }
 
 .tws-16 {
     stroke: #17becf;
+    color: #17becf;
 }
 
 .tws-20 {
     stroke: #e377c2;
+    color: #e377c2;
 }
 
 .polar-table td:hover {

@@ -1,8 +1,6 @@
 <script>
 export let number;
 
-let display;
-
 function formatNumber(sailnumber) {
     if (!sailnumber) {
         return;

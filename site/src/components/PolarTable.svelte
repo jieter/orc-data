@@ -7,21 +7,21 @@ export let vpp;
         <tr>
             <th>Wind velocity</th>
             {#each vpp.speeds as speed}
-                <th>{speed}kts</th>
+                <th class="tws-{speed}">{speed}kts</th>
             {/each}
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Beat angle</td>
-            {#each vpp.beat_angle as angle}
-                <td>{angle}°</td>
+            {#each vpp.beat_angle as angle, i}
+                <td class="tws-{vpp.speeds[i]}">{angle}°</td>
             {/each}
         </tr>
         <tr>
             <td>Beat VMG</td>
-            {#each vpp.beat_vmg as speed}
-                <td>{speed}</td>
+            {#each vpp.beat_vmg as speed, i}
+                <td class="tws-{vpp.speeds[i]}">{speed}</td>
             {/each}
         </tr>
         {#each vpp.angles as angle}
@@ -34,14 +34,14 @@ export let vpp;
         {/each}
         <tr>
             <td>Run VMG</td>
-            {#each vpp.run_vmg as vmg}
-                <td>{vmg}</td>
+            {#each vpp.run_vmg as vmg, i}
+                <td class="tws-{vpp.speeds[i]}">{vmg}</td>
             {/each}
         </tr>
         <tr>
             <td>Run angle</td>
-            {#each vpp.run_angle as angle}
-                <td>{angle}°</td>
+            {#each vpp.run_angle as angle, i}
+                <td class="tws-{vpp.speeds[i]}">{angle}°</td>
             {/each}
         </tr>
     </tbody>
