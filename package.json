@@ -30,7 +30,7 @@
         "d3-selection": "^3.0.0",
         "d3-shape": "^3.0.1",
         "d3-transition": "^3.0.1",
-        "svelecte": "^1.3.5",
+        "svelecte": "^1.3.6",
         "svelte": "^3.42.1"
     },
     "license": "MIT",
