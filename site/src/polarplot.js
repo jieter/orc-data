@@ -182,9 +182,11 @@ export function polarplot(container) {
         if (width() === previousWidth) {
             return;
         }
-        select('svg').attr('width', width()).attr('height', height());
-
-        svg.attr('transform', 'translate(' + 10 + ',' + height() / 2 + ')');
+        svg.attr({
+            width: width(),
+            height: height(),
+            transform: `translate(10, ${height() / 2}})`,
+        });
         r.range([0, radius()]);
 
         speedScale.selectAll('.axis.r circle').attr('r', r);
