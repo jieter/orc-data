@@ -4,6 +4,7 @@ import Sailnumber from './Sailnumber.svelte';
 import { getBoat } from '../api.js';
 
 export let sailnumber;
+export let mirrored;
 
 let boat;
 
@@ -17,5 +18,6 @@ $: sailnumber && loadBoat(sailnumber);
 {#if boat}
     <Sailnumber number={sailnumber} />
     {boat.name}
-    <PolarPlot {boat} />
+    mirrored={mirrored}
+    <PolarPlot {boat} {mirrored} />
 {/if}

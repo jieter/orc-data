@@ -33,7 +33,7 @@ function seriesFromVpp(vpp) {
     return { vpp_data, run_data };
 }
 
-export function polarplot(container) {
+export function polarplot(container, mirrored = false) {
     if (container.substring) {
         container = document.getElementById(container.substring(1));
     }
@@ -56,7 +56,15 @@ export function polarplot(container) {
         .attr('width', width())
         .attr('height', height())
         .append('g')
-        .attr('transform', `translate(10, ${height() / 2.2})`);
+        .attr('transform', () => {
+            let h = height() / 2.2;
+
+            if (mirrored) {
+                return `translate(${width() - 10}, ${h}) scale(-1, 1)`;
+            } else {
+                return `translate(10, ${h})`;
+            }
+        });
 
     // Speed rings
     const speedScale = svg

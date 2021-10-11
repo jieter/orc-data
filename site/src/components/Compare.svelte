@@ -39,9 +39,9 @@ $: sailnumbers = loadBoats([sailnumberA, sailnumberB]);
         </div>
     </div>
     <div class="row p-2 row-cols-2">
-        {#each sailnumbers as sailnumber}
+        {#each sailnumbers as sailnumber, i}
             <div class="col">
-                <CompareBoat {sailnumber} />
+                <CompareBoat {sailnumber} mirrored={i == 0} />
             </div>
         {/each}
     </div>
