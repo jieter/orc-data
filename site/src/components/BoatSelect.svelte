@@ -17,7 +17,7 @@ async function loadSelection(sailnumber) {
 $: sailnumber && loadSelection(sailnumber);
 function renderer(item) {
     const [number, name, type] = item;
-    return `<span class="sailnumber">${number}</span> ${name}`;
+    return `<span class="sailnumber">${number}</span> ${name} (${type})`;
 }
 </script>
 
@@ -40,6 +40,6 @@ function renderer(item) {
 
 <style>
 :global(.svelecte-control) {
-    min-width: 250px;
+    min-width: 275px;
 }
 </style>
