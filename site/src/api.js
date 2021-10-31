@@ -3,7 +3,15 @@ import { getRandomElement } from './util.js';
 let _index;
 export async function indexLoader() {
     if (!_index) {
-        _index = await fetch('index.json').then((response) => response.json());
+        _index = await fetch('index.json')
+            .then((response) => response.json())
+            .then((items) =>
+                items.map(([sailnumber, name, type]) => ({
+                    sailnumber,
+                    name,
+                    type,
+                }))
+            );
     }
     return _index;
 }

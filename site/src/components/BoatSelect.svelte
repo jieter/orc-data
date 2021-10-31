@@ -4,36 +4,17 @@ import { indexLoader } from '../api.js';
 
 export let sailnumber = undefined;
 
-let selection = null;
+let value = null;
 
-async function loadSelection(sailnumber) {
-    const index = await indexLoader();
-    if (sailnumber && !['extremes', 'customplot'].includes(sailnumber)) {
-        selection = [index.find((element) => element[0] == sailnumber)];
-    } else {
-        selection = null;
-    }
-}
-$: sailnumber && loadSelection(sailnumber);
-function renderer(item) {
-    const [number, name, type] = item;
-    return `<span class="sailnumber">${number}</span> ${name} (${type})`;
+$: value = !['extremes', 'customplot'].includes(sailnumber) ? sailnumber : null;
+
+function renderer({ sailnumber, name, type }) {
+    return `<span class="sailnumber">${sailnumber}</span> ${name} (${type})`;
 }
 </script>
 
 {#await indexLoader() then options}
-    <Svelecte
-        {options}
-        placeholder="Sailnumber, name or type"
-        virtualList={true}
-        bind:selection
-        {renderer}
-        on:change={(event) => {
-            if (event.detail) {
-                sailnumber = event.detail[0];
-            }
-        }}
-    />
+    <Svelecte {options} placeholder="Sailnumber, name or type" virtualList={true} bind:value {renderer} />
 {:catch}
     Error loading index
 {/await}
