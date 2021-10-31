@@ -7,11 +7,20 @@ import Compare from './components/Compare.svelte';
 import CustomPlot from './components/CustomPlot.svelte';
 import Extremes from './components/Extremes.svelte';
 
+export let route = 'extremes';
 export let sailnumber;
 
 function onhashchange() {
     const hash = window.location.hash;
-    sailnumber = hash.length > 1 ? hash.substring(1) : undefined;
+
+    route = hash.length > 1 ? hash.substring(1) : undefined;
+
+    if (['extremes', 'customplot', 'compare'].some((val) => route.startsWith(val))) {
+        sailnumber = null;
+    } else {
+        sailnumber = route;
+        route = 'boat';
+    }
 }
 
 onMount(() => {
@@ -61,11 +70,11 @@ $: {
         </div>
     </div>
 </nav>
-{#if !sailnumber || sailnumber == 'extremes'}
+{#if route == 'extremes'}
     <Extremes bind:sailnumber />
-{:else if sailnumber == 'customplot'}
+{:else if route == 'customplot'}
     <CustomPlot />
-{:else if sailnumber.startsWith('compare')}
+{:else if route.startsWith('compare')}
     <Compare />
 {:else}
     <Boat {sailnumber} />
