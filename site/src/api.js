@@ -18,7 +18,7 @@ export async function indexLoader() {
 
 export async function getRandomBoat() {
     const index = await indexLoader();
-    return getRandomElement(index)[0];
+    return getRandomElement(index).sailnumber;
 }
 
 let _boats = {};

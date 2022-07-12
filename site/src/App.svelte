@@ -8,7 +8,7 @@ import CustomPlot from './components/CustomPlot.svelte';
 import Extremes from './components/Extremes.svelte';
 
 export let route = 'extremes';
-export let sailnumber;
+export let sailnumber = null;
 
 // A route is custom if it starts with one of the route prefixes.
 const isCustomRoute = (value) => ['extremes', 'customplot', 'compare'].some((item) => value.startsWith(item));
