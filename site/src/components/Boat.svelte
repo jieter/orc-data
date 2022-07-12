@@ -53,7 +53,7 @@ function getSails() {
             </h1>
 
             <table class="table">
-                <tr><th>Sail number</th><th>Type</th><th>Desinger</th></tr>
+                <tr><th>Sail number</th><th>Type</th><th>Designer</th></tr>
                 <tr><td>{boat.sailnumber}</td><td>{boat.boat.type}</td><td>{boat.boat.designer}</td></tr>
                 <tr><th>Length</th><th>Beam</th><th>Draft</th><th>Displacement</th></tr>
                 <tr>
