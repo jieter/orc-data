@@ -5,3 +5,4 @@ meetbrieven/
 *.pyc
 __pycache__
 .python-version
+node_modules
