@@ -5,7 +5,7 @@ import { polarImport } from '../polar-csv.js';
 let polar = `twa/tws;6;8;10;12;14;16;20
 0;0;0;0;0;0;0;0
 
-# This is the polar of https://jieter.github.io/orc-data/site/#ITA14800
+# This is the polar of ITA14800, which is not in the database anymore
 
 # Zeros are not plotted, you can use this to add optimal beat/run angles for a
 # specific wind speed. In this case, VMG must be converted to SOG:
