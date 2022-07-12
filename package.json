@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "test": "npm run lint",
+        "test": "npm run eslint",
         "build": "rollup -c",
         "start": "sirv site --no-clear",
         "dev": "rollup -c -w",

@@ -14,7 +14,6 @@ let rating;
 let sails;
 
 async function loadBoat(sailnumber) {
-    console.log('loading', sailnumber)
     boat = await getBoat(sailnumber);
     sizes = boat.boat.sizes;
     rating = boat.rating;

@@ -11,7 +11,7 @@ export let route = 'extremes';
 export let sailnumber;
 
 // A route is custom if it starts with one of the route prefixes.
-const isCustomRoute = (value) => ['extremes', 'customplot', 'compare'].some(item => value.startsWith(item));
+const isCustomRoute = (value) => ['extremes', 'customplot', 'compare'].some((item) => value.startsWith(item));
 
 function onhashchange() {
     const hash = window.location.hash;
