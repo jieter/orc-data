@@ -35,21 +35,13 @@ def format_data(data):
             "triple_offshore": list(
                 map(
                     float,
-                    [
-                        data["TN_Offshore_Low"],
-                        data["TN_Offshore_Medium"],
-                        data["TN_Offshore_High"],
-                    ],
+                    [data["TN_Offshore_Low"], data["TN_Offshore_Medium"], data["TN_Offshore_High"]],
                 )
             ),
             "triple_inshore": list(
                 map(
                     float,
-                    [
-                        data["TN_Inshore_Low"],
-                        data["TN_Inshore_Medium"],
-                        data["TN_Inshore_High"],
-                    ],
+                    [data["TN_Inshore_Low"], data["TN_Inshore_Medium"], data["TN_Inshore_High"]],
                 )
             ),
         },
@@ -64,13 +56,13 @@ def format_data(data):
                 "draft": round(float(data["Draft"]), 2),
                 "displacement": float(data["Dspl_Measurement"]),
                 "genoa": float(data["Area_Jib"]),
-                "main": float(data["Area_Main"]),
-                "spinnaker": float(data["Area_Sym"]),
-                "spinnaker_asym": float(data.get("Area_Asym", data.get("Area_ASym"))),
+                "main": float(data["Area_Main"] or 0),
+                "spinnaker": float(data["Area_Sym"] or 0),
+                "spinnaker_asym": float(data.get("Area_Asym", data.get("Area_ASym")) or 0.0),
                 "crew": float(data["CrewWT"]),
                 "wetted_surface": float(data["WSS"]),
             },
-            "stability_index": float(data["Stability_Index"])
+            "stability_index": float(data["Stability_Index"]),
         },
     }
     # velocity prediction
@@ -146,11 +138,15 @@ def jsonwriter_extremes(rmsdata):
     long_boats = sorted(data, key=lambda boat: boat["boat"]["sizes"]["loa"], reverse=True)
     heavy_boats = sorted(data, key=lambda boat: boat["boat"]["sizes"]["displacement"], reverse=True)
 
-    sailno_vppmax = lambda boats: list([(boat["sailnumber"], boat["name"], boat["boat"]["type"], vppmax(boat)) for boat in boats])
+    sailno_vppmax = lambda boats: list(
+        [(boat["sailnumber"], boat["name"], boat["boat"]["type"], vppmax(boat)) for boat in boats]
+    )
 
     def sailno_sizekey(key, limit=10):
         boats = sorted(data, key=lambda boat: boat["boat"]["sizes"][key], reverse=True)[:limit]
-        return list([(boat["sailnumber"], boat["name"], boat["boat"]["type"], boat["boat"]["sizes"][key]) for boat in boats])
+        return list(
+            [(boat["sailnumber"], boat["name"], boat["boat"]["type"], boat["boat"]["sizes"][key]) for boat in boats]
+        )
 
     extremes = {}
     extremes["max_speed"] = sailno_vppmax(fast_boats[:10])
