@@ -10,12 +10,14 @@ import Extremes from './components/Extremes.svelte';
 export let route = 'extremes';
 export let sailnumber;
 
+// A route is custom if it starts with one of the route prefixes.
+const isCustomRoute = (value) => ['extremes', 'customplot', 'compare'].some(item => value.startsWith(item));
+
 function onhashchange() {
     const hash = window.location.hash;
-
     route = hash.length > 1 ? hash.substring(1) : 'extremes';
 
-    if (['extremes', 'customplot', 'compare'].some((val) => route.startsWith(val))) {
+    if (isCustomRoute(route)) {
         sailnumber = null;
     } else {
         sailnumber = route;
@@ -25,11 +27,12 @@ function onhashchange() {
 
 onMount(() => {
     window.addEventListener('hashchange', onhashchange, false);
+    onhashchange();
     return () => window.removeEventListener('hashchange', onhashchange, false);
 });
 
 $: {
-    if (sailnumber && !['extremes', 'customplot', 'compare'].some((val) => sailnumber.startsWith(val))) {
+    if (sailnumber && !isCustomRoute(sailnumber)) {
         window.location.hash = sailnumber;
     }
 }
