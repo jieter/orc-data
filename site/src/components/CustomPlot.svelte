@@ -37,11 +37,32 @@ let polar = `twa/tws;6;8;10;12;14;16;20
 159.4;0;0;0;0;7.71;0;0
 166.9;0;0;0;0;0;7.92;0
 173.1;0;0;0;0;0;0;8.54`;
+
+const EMPTY_BOAT = {
+    speeds: [],
+    angles: [],
+};
+let boat = EMPTY_BOAT;
+let error = undefined;
+$: {
+    try {
+        boat = polarImport(polar);
+        error = undefined;
+    } catch (e) {
+        boat = EMPTY_BOAT;
+        error = e;
+    }
+}
 </script>
 
 <div class="row">
     <div class="col-sm">
-        <PolarPlot boat={polarImport(polar)} />
+        {#if error}
+            <div class="alert alert-warning" role="alert">
+                {error}
+            </div>
+        {/if}
+        <PolarPlot {boat} />
     </div>
     <div class="col-sm">
         <textarea class="plot-only" bind:value={polar} />
