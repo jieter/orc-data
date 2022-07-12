@@ -3,7 +3,7 @@
 http://orc.org/index.asp?id=44 contains various attributes of sailing yachts with ORC certificate.
 Especially the velocity prediction programme (VPP) data is interesting to estimate boat speed.
 
-This tool presents the data in a table and a 'polar diagram'
+[This tool presents the data in a table and a 'polar diagram'](site/index.html)
 
 ## Columns in `.rms` file:
 
