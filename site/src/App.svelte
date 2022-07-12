@@ -13,7 +13,7 @@ export let sailnumber;
 function onhashchange() {
     const hash = window.location.hash;
 
-    route = hash.length > 1 ? hash.substring(1) : undefined;
+    route = hash.length > 1 ? hash.substring(1) : 'extremes';
 
     if (['extremes', 'customplot', 'compare'].some((val) => route.startsWith(val))) {
         sailnumber = null;

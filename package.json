@@ -2,7 +2,7 @@
     "scripts": {
         "test": "npm run lint",
         "build": "rollup -c",
-        "start": "sirv site --no-clear",
+        "start": "sirv site --no-clear --host",
         "dev": "rollup -c -w",
         "eslint": "eslint -c package.json site/src/",
         "format": "prettier --write --plugin-search-dir=. rollup.config.js site/src/* site/src/components/*.svelte"
