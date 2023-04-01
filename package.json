@@ -5,23 +5,22 @@
         "start": "sirv site --no-clear",
         "dev": "rollup -c -w",
         "eslint": "eslint -c package.json site/src/",
-        "format": "prettier --write --plugin-search-dir=. rollup.config.js site/src/* site/src/components/*.svelte"
+        "format": "prettier --write --plugin-search-dir=. rollup.config.mjs site/src/* site/src/components/*.svelte"
     },
     "devDependencies": {
-        "@rollup/plugin-commonjs": "^22.0.1",
-        "@rollup/plugin-node-resolve": "^13.3.0",
-        "eslint": "^8.19.0",
+        "@rollup/plugin-commonjs": "^24.0.1",
+        "@rollup/plugin-node-resolve": "^15.0.1",
+        "@rollup/plugin-terser": "^0.4.0",
+        "eslint": "^8.37.0",
         "eslint-plugin-svelte3": "^4.0.0",
-        "prettier": "^2.7.1",
-        "prettier-plugin-svelte": "^2.7.0",
-        "rollup": "^2.58.3",
+        "prettier": "^2.8.7",
+        "prettier-plugin-svelte": "^2.10.0",
+        "rollup": "^3.20.2",
         "rollup-plugin-analyzer": "^4.0.0",
-        "rollup-plugin-css-only": "^3.1.0",
+        "rollup-plugin-css-only": "^4.3.0",
         "rollup-plugin-livereload": "^2.0.5",
-        "rollup-plugin-svelte": "^7.1.0",
-        "rollup-plugin-terser": "^7.0.2",
-        "sirv-cli": "^2.0.2",
-        "terser-webpack-plugin": "^5.3.3"
+        "rollup-plugin-svelte": "^7.1.4",
+        "sirv-cli": "^2.0.2"
     },
     "dependencies": {
         "d3-array": "^3.2.0",

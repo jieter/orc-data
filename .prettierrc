@@ -1,6 +1,6 @@
 {
     "svelteSortOrder": "options-scripts-markup-styles",
-    "svelteBracketNewLine": true,
+    "bracketSameLine": true,
     "svelteIndentScriptAndStyle": false,
     "tabWidth": 4,
     "singleQuote": true,

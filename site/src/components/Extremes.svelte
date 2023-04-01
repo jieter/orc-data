@@ -69,8 +69,7 @@ const labels = {
                                     <li
                                         class="boat"
                                         on:click={() => (sailnumber = number)}
-                                        on:mouseenter={() => loadBoat(number)}
-                                    >
+                                        on:mouseenter={() => loadBoat(number)}>
                                         <Sailnumber {number} />
                                         {name || '?'}
                                         <span class="float-end">{value}</span>
