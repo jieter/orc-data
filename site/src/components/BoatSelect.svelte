@@ -17,6 +17,12 @@ function renderer({ sailnumber, name, type }) {
 
 <style>
 :global(.svelecte-control) {
-    min-width: 275px;
+    min-width: 500px;
+}
+
+@media only screen and (max-width: 1300px) {
+    :global(.svelecte-control) {
+        min-width: 275px;
+    }
 }
 </style>
