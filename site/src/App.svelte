@@ -40,7 +40,7 @@ $: {
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-        <a class="navbar-brand" href="#extremes">ORC sailboat data (2022)</a>
+        <a class="navbar-brand" href="#extremes">ORC sailboat data (2023)</a>
         <button
             class="navbar-toggler"
             type="button"
