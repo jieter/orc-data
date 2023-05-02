@@ -3,16 +3,16 @@
   "country": "AUS",
   "name": "Advanced Philosophy",
   "rating": {
-    "gph": 556.4,
+    "gph": 556.3,
     "osn": 543.1,
     "triple_offshore": [
       0.9696,
       1.203,
-      1.3354
+      1.3356
     ],
     "triple_inshore": [
       0.7547,
-      0.9831,
+      0.9832,
       1.1124
     ]
   },
@@ -33,7 +33,7 @@
       "crew": 763.0,
       "wetted_surface": 29.61
     },
-    "stability_index": 113.0
+    "stability_index": 113.1
   },
   "vpp": {
     "angles": [
