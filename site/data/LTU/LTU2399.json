@@ -3,12 +3,12 @@
   "country": "LTU",
   "name": "ARABELA",
   "rating": {
-    "gph": 591.4,
+    "gph": 591.5,
     "osn": 575.5,
     "triple_offshore": [
       0.8971,
       1.1418,
-      1.2576
+      1.2575
     ],
     "triple_inshore": [
       0.6966,
@@ -33,7 +33,7 @@
       "crew": 745.0,
       "wetted_surface": 30.34
     },
-    "stability_index": 108.7
+    "stability_index": 108.6
   },
   "vpp": {
     "angles": [
@@ -96,7 +96,7 @@
       7.29,
       7.89,
       8.32,
-      8.6,
+      8.59,
       8.83,
       9.25
     ],
@@ -134,7 +134,7 @@
       39.4,
       39.3,
       40,
-      40.8
+      40.6
     ],
     "beat_vmg": [
       3.62,

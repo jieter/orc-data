@@ -6,7 +6,7 @@
     "gph": 450.6,
     "osn": 439.2,
     "triple_offshore": [
-      1.1683,
+      1.1682,
       1.4923,
       1.7308
     ],
@@ -26,7 +26,7 @@
       "beam": 4.3,
       "draft": 3.3,
       "displacement": 7675.0,
-      "genoa": 61.24,
+      "genoa": 61.15,
       "main": 97.22,
       "spinnaker": 0.0,
       "spinnaker_asym": 247.73,
