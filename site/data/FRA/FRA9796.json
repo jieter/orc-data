@@ -1,7 +1,7 @@
 {
   "sailnumber": "FRA/FRA9796",
   "country": "FRA",
-  "name": "FREYA",
+  "name": "FREYJA",
   "rating": {
     "gph": 648.6,
     "osn": 629.1,
@@ -18,7 +18,7 @@
   },
   "boat": {
     "builder": "X-YACHTS",
-    "type": "X-332 DK",
+    "type": "X 332",
     "designer": "JEPPESEN Nielsen",
     "year": 1994,
     "sizes": {
