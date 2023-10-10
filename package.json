@@ -5,16 +5,16 @@
         "start": "sirv site --no-clear",
         "dev": "rollup -c -w",
         "eslint": "eslint -c package.json site/src/",
-        "format": "prettier --write --plugin-search-dir=. rollup.config.mjs site/src/* site/src/components/*.svelte"
+        "format": "prettier --write --plugin prettier-plugin-svelte rollup.config.mjs site/src/* site/src/components/*.svelte"
     },
     "devDependencies": {
-        "@rollup/plugin-commonjs": "^24.1.0",
+        "@rollup/plugin-commonjs": "^25.0.5",
         "@rollup/plugin-node-resolve": "^15.2.3",
         "@rollup/plugin-terser": "^0.4.4",
         "eslint": "^8.51.0",
-        "eslint-plugin-svelte3": "^4.0.0",
-        "prettier": "^2.8.8",
-        "prettier-plugin-svelte": "^2.10.1",
+        "eslint-plugin-svelte": "^2.34.0",
+        "prettier": "^3.0.3",
+        "prettier-plugin-svelte": "^3.0.3",
         "rollup": "^3.29.4",
         "rollup-plugin-analyzer": "^4.0.0",
         "rollup-plugin-css-only": "^4.3.0",
@@ -30,7 +30,7 @@
         "d3-shape": "^3.2.0",
         "d3-transition": "^3.0.1",
         "svelecte": "^3.17.2",
-        "svelte": "^3.59.2"
+        "svelte": "^4.2.1"
     },
     "license": "MIT",
     "repository": {
@@ -38,14 +38,12 @@
         "url": "https://github.com/jieter/orc-data.git"
     },
     "eslintConfig": {
-        "extends": "eslint:recommended",
+        "extends": "plugin:svelte/prettier",
         "parserOptions": {
-            "ecmaVersion": 2019,
+            "ecmaVersion": 2020,
             "sourceType": "module"
         },
-        "plugins": [
-            "svelte3"
-        ],
+
         "env": {
             "es6": true,
             "browser": true
@@ -54,6 +52,25 @@
             "semi": [
                 "error",
                 "always"
+            ],
+            "import/order": [
+                "error",
+                {
+                    "groups": [
+                        "builtin",
+                        "external",
+                        "internal",
+                        [
+                            "parent",
+                            "sibling"
+                        ]
+                    ],
+                    "newlines-between": "always",
+                    "alphabetize": {
+                        "order": "asc",
+                        "caseInsensitive": true
+                    }
+                }
             ]
         }
     },

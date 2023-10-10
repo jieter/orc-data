@@ -10,7 +10,7 @@ export async function indexLoader() {
                     sailnumber,
                     name,
                     type,
-                }))
+                })),
             );
     }
     return _index;

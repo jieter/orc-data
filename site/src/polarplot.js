@@ -14,7 +14,7 @@ function seriesFromVpp(vpp) {
     const vpp_data = vpp.speeds.map(function (windspeed, i) {
         var series = zip(
             vpp_angles,
-            vpp.angles.map((angle) => vpp[angle][i])
+            vpp.angles.map((angle) => vpp[angle][i]),
         );
         // filter points with zero SOG
         series = series.filter((a) => a[1] > 0);
