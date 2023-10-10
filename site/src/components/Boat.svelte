@@ -1,8 +1,8 @@
 <script>
 import PolarPlot from './PolarPlot.svelte';
 import PolarTable from './PolarTable.svelte';
-import { polarExport } from '../polar-csv.js';
 import { getBoat } from '../api.js';
+import { polarExport } from '../polar-csv.js';
 
 export let sailnumber;
 

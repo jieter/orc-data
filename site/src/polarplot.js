@@ -2,6 +2,7 @@ import { zip } from 'd3-array';
 import { scaleLinear } from 'd3-scale';
 import { select } from 'd3-selection';
 import { curveCardinal, lineRadial, symbol, symbolCircle, symbolDiamond } from 'd3-shape';
+
 import 'd3-transition';
 import { DEG2RAD, vmg2sog } from './util.js';
 

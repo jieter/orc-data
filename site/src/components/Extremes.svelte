@@ -1,8 +1,8 @@
 <script>
 import { onMount } from 'svelte';
 
-import Sailnumber from './Sailnumber.svelte';
 import PolarPlot from './PolarPlot.svelte';
+import Sailnumber from './Sailnumber.svelte';
 import { getBoat, getExtremes, getRandomBoat } from '../api.js';
 
 export let sailnumber;
