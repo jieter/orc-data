@@ -2,7 +2,7 @@ import json
 import os
 from itertools import count
 
-from . import COUNTRIES, WIND_ANGLES, WIND_SPEEDS
+from . import COUNTRIES
 from .util import time_allowance2speed
 
 # for boats without a sailnumber, give them a unique number
@@ -62,17 +62,18 @@ def format_data(data):
                 "crew": float(data["CrewWT"]),
                 "wetted_surface": float(data["WSS"]),
             },
-            "stability_index": float(data["Stability_Index"]),
+            "stability_index": float(data["Stability_Index"] if "Stability_Index" in data else -1),
         },
     }
+
     # velocity prediction
     ret["vpp"] = {
-        "angles": WIND_ANGLES,
-        "speeds": WIND_SPEEDS,
+        "angles": data["Allowances"]["WindAngles"],
+        "speeds": data["Allowances"]["WindSpeeds"],
     }
-    for i, twa in enumerate(WIND_ANGLES):
+    for i, twa in enumerate(data["Allowances"]["WindAngles"]):
         ret["vpp"][twa] = list(
-            [time_allowance2speed(data["Allowances"]["R%d" % twa][a]) for a, tws in enumerate(WIND_SPEEDS)]
+            [time_allowance2speed(data["Allowances"]["R%d" % twa][a]) for a, tws in enumerate(data["Allowances"]["WindSpeeds"])]
         )
 
     ret["vpp"]["beat_angle"] = data["Allowances"]["BeatAngle"]
