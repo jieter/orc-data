@@ -31,7 +31,7 @@
         "d3-shape": "^3.2.0",
         "d3-transition": "^3.0.1",
         "svelecte": "^3.17.2",
-        "svelte": "^4.2.1"
+        "svelte": "^4.2.19"
     },
     "license": "MIT",
     "repository": {
