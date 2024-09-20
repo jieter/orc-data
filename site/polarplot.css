@@ -72,6 +72,11 @@ svg .axis text {
     color: #e377c2;
 }
 
+.tws-24 {
+    stroke: #777;
+    color: #777;
+}
+
 .polar-table td:hover {
     background-color: #eee;
 }

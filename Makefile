@@ -1,13 +1,13 @@
 # Download orc.org RMS files and convert to json/csv using scoring.py
 #
 
-URL = http://data.orc.org/public/WPub.dll?action=DownRMS&ext=json&CountryId=
-COUNTRIES = AHO ARG AUS AUT BRA BUL CAN CRO CYP DEN ECU ESP EST FIN FRA GBR \
-            GER GRE HKG HUN ISR ITA JPN KOR LAT LTU MLT MNE NED NLS NOR PER \
+URL = http://data.orc.org/public/WPub.dll?action=DownRMS&ext=json&Family=1&VPPYear=$(YEAR)&CountryId=
+COUNTRIES = ARG AUS AUT BRA BUL CAN CRO CYP DEN ECU ESP EST FIN FRA GBR \
+            GER GRE HKG HUN ISR ITA JPN KOR LAT LTU MLT MNE NED NOR PER \
             POL POR ROU RSA RUS SLO SUI SWE TUR UKR USA
 
 
-YEAR = 2023
+YEAR = 2024
 
 JSON_FILES = $(addprefix data/$(YEAR)/, $(addsuffix $(YEAR).json, $(COUNTRIES)))
 
