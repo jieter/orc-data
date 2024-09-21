@@ -1,27 +1,19 @@
 {
+    "type": "module",
     "scripts": {
-        "test": "npm run eslint",
-        "build": "rollup -c",
-        "start": "sirv site --no-clear",
-        "dev": "rollup -c -w",
-        "eslint": "eslint -c package.json site/src/ --fix",
-        "format": "prettier --write --plugin prettier-plugin-svelte rollup.config.mjs site/src/* site/src/components/*.svelte"
+        "format": "prettier --write --plugin prettier-plugin-svelte site/src/* site/src/components/*",
+        "build": "vite build",
+        "dev": "vite",
+        "eslint": "eslint -c package.json site/src/ --fix"
     },
     "devDependencies": {
-        "@rollup/plugin-commonjs": "^25.0.5",
-        "@rollup/plugin-node-resolve": "^15.2.3",
-        "@rollup/plugin-terser": "^0.4.4",
+        "@sveltejs/vite-plugin-svelte": "^3.1.2",
         "eslint": "^8.51.0",
-        "eslint-plugin-svelte": "^2.34.0",
         "eslint-plugin-import": "^2.28.1",
+        "eslint-plugin-svelte": "^2.34.0",
         "prettier": "^3.0.3",
         "prettier-plugin-svelte": "^3.0.3",
-        "rollup": "^3.29.4",
-        "rollup-plugin-analyzer": "^4.0.0",
-        "rollup-plugin-css-only": "^4.3.0",
-        "rollup-plugin-livereload": "^2.0.5",
-        "rollup-plugin-svelte": "^7.1.6",
-        "sirv-cli": "^2.0.2"
+        "vite": "^5.4.7"
     },
     "dependencies": {
         "d3-array": "^3.2.4",
@@ -44,12 +36,13 @@
             "ecmaVersion": 2020,
             "sourceType": "module"
         },
-
         "env": {
             "es6": true,
             "browser": true
         },
-        "plugins":["import"],
+        "plugins": [
+            "import"
+        ],
         "rules": {
             "semi": [
                 "error",
