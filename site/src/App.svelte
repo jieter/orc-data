@@ -59,7 +59,7 @@ $: {
                         <BoatSelect bind:sailnumber />
                     </li>
                 {/if}
-                <li class="nav-item"><a href="#compare" class="nav-link">Compare boats</a></li>
+                <li class="nav-item"><a href="#compare-{sailnumber || ''}" class="nav-link">Compare boats</a></li>
                 <li class="nav-item"><a href="#customplot" class="nav-link">Plot custom CSV</a></li>
             </ul>
 
