@@ -37,6 +37,11 @@ svg .axis text {
     fill: #fff;
 }
 
+.tws-4 {
+    stroke: #8c564b;
+    color: #8c564b;
+}
+
 .tws-6 {
     stroke: #1f77b4;
     color: #1f77b4;
