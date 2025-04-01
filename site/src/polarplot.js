@@ -13,10 +13,7 @@ function seriesFromVpp(vpp) {
     let run_data = [];
 
     const vpp_data = vpp.speeds.map(function (windspeed, i) {
-        var series = zip(
-            vpp_angles,
-            vpp.angles.map((angle) => vpp[angle][i]),
-        );
+        var series = zip(vpp_angles, vpp.angles.map((angle) => vpp[angle][i]));
         // filter points with zero SOG
         series = series.filter((a) => a[1] > 0);
 
@@ -24,11 +21,10 @@ function seriesFromVpp(vpp) {
             series.unshift(deg2rad(vpp.beat_angle[i], vpp.beat_vmg[i]));
         }
         if (vpp.run_angle) {
-            var run = deg2rad(vpp.run_angle[i], -vpp.run_vmg[i]);
+            const run = deg2rad(vpp.run_angle[i], -vpp.run_vmg[i]);
             series.push(run);
             run_data.push(run);
         }
-
         return series.sort((a, b) => a[0] - b[0]);
     });
     return { vpp_data, run_data };
@@ -38,17 +34,10 @@ export function polarplot(container) {
     if (container.substring) {
         container = document.getElementById(container.substring(1));
     }
-    var width = function () {
-        return container.offsetWidth;
-    };
-    var height = function () {
-        const windowHeight = window.innerHeight;
-        return Math.min(width() * 1.8, windowHeight - 60);
-    };
+    var width = () => container.offsetWidth;
+    var height = () => Math.min(width() * 1.8, window.innerHeight - 60);
     // Radius of the visualization
-    const radius = function () {
-        return Math.min(height() / 1.8 - 20, width()) - 15;
-    };
+    const radius = () => Math.min(height() / 1.8 - 20, width()) - 15;
     // Radial speed scale (kts)
     const r = scaleLinear().domain([0, 10]).range([0, radius()]);
 
@@ -111,9 +100,8 @@ export function polarplot(container) {
         };
     };
 
-    var plot = function () {};
-
-    var vpp;
+    let vpp;
+    let plot = function () {};
     plot.render = function (data) {
         vpp = 'vpp' in data ? data.vpp : data;
 
@@ -142,31 +130,24 @@ export function polarplot(container) {
     var highlight;
 
     select(window).on('mouseover', function (event) {
-        var target = select(event.target);
-        var targetClass = target.attr('class');
-        if (!targetClass || targetClass.substring(0, 4) !== 'tws-') {
+        const targetClass = select(event.target).attr('class');
+        if (!targetClass || !targetClass.startsWith('tws-')) {
             svg.selectAll('.highlight').data([]).exit().remove();
             return;
         }
 
-        var parent = select(event.target.parentNode);
-        var parentClass = parent ? parent.attr('class') : '';
-
-        if (
-            targetClass &&
-            targetClass.substring(0, 4) === 'tws-' &&
-            parentClass &&
-            parentClass.substring(0, 4) === 'twa-'
-        ) {
-            var tws = +targetClass.substring(4);
-            var twa = +parentClass.substring(4);
+        const parent = select(event.target.parentNode);
+        const parentClass = parent ? parent.attr('class') : '';
+        let tws, twa;
+        if (targetClass?.startsWith('tws-') && parentClass?.startsWith('twa-')) {
+            tws = +targetClass.substring(4);
+            twa = +parentClass.substring(4);
 
             const speed = vpp[twa][vpp.speeds.indexOf(tws)];
             highlight = svg.selectAll('.highlight').data([[twa * DEG2RAD, speed]]);
         } else {
             highlight = svg.selectAll('.highlight').data([]);
         }
-
         highlight.exit().remove();
         highlight
             .enter()
