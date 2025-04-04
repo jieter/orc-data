@@ -53,8 +53,11 @@ function getSails() {
             </h1>
 
             <table class="table">
-                <tr><th>Sail number</th><th>Type</th><th>Designer</th></tr>
-                <tr><td>{boat.sailnumber}</td><td>{boat.boat.type}</td><td>{boat.boat.designer}</td></tr>
+                <tr><th>Sail number</th><th>Type</th><th>Designer</th><th>Builder</th></tr>
+                <tr
+                    ><td>{boat.sailnumber}</td><td>{boat.boat.type}</td><td>{boat.boat.designer}</td><td
+                        >{boat.boat.builder}</td
+                    ></tr>
                 <tr><th>Length</th><th>Beam</th><th>Draft</th><th>Displacement</th></tr>
                 <tr>
                     <td>{sizes.loa} m</td>
@@ -88,7 +91,7 @@ function getSails() {
                 <small>
                     <label>
                         <input type="checkbox" bind:checked={extended} />
-                        Extended CSV (including beat and run angles)
+                        <small>Extended CSV (including beat and run angles)</small>
                     </label>
                 </small>
             </h5>

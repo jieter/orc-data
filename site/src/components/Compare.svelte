@@ -6,6 +6,7 @@ import LineLegend from './LineLegend.svelte';
 import PolarPlot from './PolarPlot.svelte';
 import Sailnumber from './Sailnumber.svelte';
 import { getBoat } from '../api.js';
+import { max } from 'd3-array';
 
 let sailnumberA = undefined;
 let sailnumberB = undefined;
@@ -47,6 +48,36 @@ async function loadBoatB(sailnumber) {
 $: sailnumbers = updateUrl([sailnumberA, sailnumberB]);
 $: sailnumberA && loadBoatA(sailnumberA);
 $: sailnumberB && loadBoatB(sailnumberB);
+
+function topSpeed(boat) {
+    if (!boat) {
+        return;
+    }
+    const vpp = boat.vpp;
+    return Math.max(...vpp.angles.map((angle) => Math.max(...vpp[angle])));
+}
+const rows = [
+    { label: 'Name', value: (boat) => boat?.name },
+    { label: 'Type', value: (boat) => boat?.boat.type },
+    { label: 'Year', value: (boat) => boat?.boat.year },
+    { label: 'Designer', value: (boat) => boat?.boat.designer },
+    { label: 'Builder', value: (boat) => boat?.boat.builder },
+    { separator: true },
+    { label: 'LOA', value: (boat) => boat?.boat.sizes.loa, suffix: 'm' },
+    { label: 'Beam', value: (boat) => boat?.boat.sizes.beam, suffix: 'm' },
+    { label: 'Draft', value: (boat) => boat?.boat.sizes.draft, suffix: 'm' },
+    { label: 'Displacement', value: (boat) => boat?.boat.sizes.displacement, suffix: 'kg' },
+    { label: 'Wetted surface', value: (boat) => boat?.boat.sizes.wetted_surface, suffix: 'm<sup>2</sup>' },
+    { separator: true },
+    { label: 'Main', value: (boat) => boat?.boat.sizes.main, suffix: 'm<sup>2</sup>' },
+    { label: 'Genoa', value: (boat) => boat?.boat.sizes.genoa, suffix: 'm<sup>2</sup>' },
+    { label: 'Spinnaker', value: (boat) => boat?.boat.sizes.spinnaker, suffix: 'm<sup>2</sup>' },
+    { label: 'Spinnaker&nbsp;asym', value: (boat) => boat?.boat.sizes.spinnaker_asym, suffix: 'm<sup>2</sup>' },
+    { separator: true },
+    { label: 'GPH', value: (boat) => boat?.rating.gph },
+    { label: 'OSN', value: (boat) => boat?.rating.osn },
+    { label: 'Top speed', value: topSpeed, suffix: 'kts' },
+];
 </script>
 
 <div class="container-fluid">
@@ -84,75 +115,29 @@ $: sailnumberB && loadBoatB(sailnumberB);
                             </a>
                         </td>
                     </tr>
-
-                    <tr>
-                        <td>Name</td>
-                        <td>{boatA?.name}</td>
-                        <td>{boatB?.name}</td>
-                    </tr>
-                    <tr>
-                        <td>Type</td>
-                        <td>{boatA?.boat.type}</td>
-                        <td>{boatB?.boat.type}</td>
-                    </tr>
-                    <tr>
-                        <td>Year</td>
-                        <td>{boatA?.boat.year}</td>
-                        <td>{boatB?.boat.year}</td>
-                    </tr>
-                    <tr>
-                        <td>LOA</td>
-                        <td>{boatA?.boat.sizes.loa}m</td>
-                        <td>{boatB?.boat.sizes.loa}m</td>
-                    </tr>
-                    <tr>
-                        <td>Beam</td>
-                        <td>{boatA?.boat.sizes.beam}m</td>
-                        <td>{boatB?.boat.sizes.beam}m</td>
-                    </tr>
-                    <tr>
-                        <td>Draft</td>
-                        <td>{boatA?.boat.sizes.draft}m</td>
-                        <td>{boatB?.boat.sizes.draft}m</td>
-                    </tr>
-                    <tr>
-                        <td>Displacement</td>
-                        <td>{boatA?.boat.sizes.displacement}t</td>
-                        <td>{boatB?.boat.sizes.displacement}t</td>
-                    </tr>
-                    <tr><td colspan="3" class="separator"></td></tr>
-                    <tr>
-                        <td>Main</td>
-                        <td>{boatA?.boat.sizes.main}m<sup>2</sup></td>
-                        <td>{boatB?.boat.sizes.main}m<sup>2</sup></td>
-                    </tr>
-                    <tr>
-                        <td>Genoa</td>
-                        <td>{boatA?.boat.sizes.genoa}m<sup>2</sup></td>
-                        <td>{boatB?.boat.sizes.genoa}m<sup>2</sup></td>
-                    </tr>
-                    <tr>
-                        <td>Spinnaker</td>
-                        <td>{boatA?.boat.sizes.spinnaker}m<sup>2</sup></td>
-                        <td>{boatB?.boat.sizes.spinnaker}m<sup>2</sup></td>
-                    </tr>
-                    <tr>
-                        <td>Asym spinnaker</td>
-                        <td>{boatA?.boat.sizes.spinnaker_asym}m<sup>2</sup></td>
-                        <td>{boatB?.boat.sizes.spinnaker_asym}m<sup>2</sup></td>
-                    </tr>
-                    <tr><td colspan="3" class="separator"></td></tr>
-
-                    <tr>
-                        <td>GPH</td>
-                        <td>{boatA?.rating.gph}</td>
-                        <td>{boatB?.rating.gph}</td>
-                    </tr>
-                    <tr>
-                        <td>OSN</td>
-                        <td>{boatA?.rating.osn}</td>
-                        <td>{boatB?.rating.osn}</td>
-                    </tr>
+                    {#each rows as row}
+                        {#if row.separator}
+                            <tr><td colspan="3" class="separator"></td></tr>
+                        {:else}
+                            <tr>
+                                <td>{@html row.label}</td>
+                                <td class={row.suffix ? 'text-end' : ''}>
+                                    {#if row.value(boatA)}
+                                        {row.value(boatA)}{@html row.suffix || ''}
+                                    {:else}
+                                        -
+                                    {/if}
+                                </td>
+                                <td class={row.suffix ? 'text-end' : ''}>
+                                    {#if row.value(boatB)}
+                                        {row.value(boatB)}{@html row.suffix || ''}
+                                    {:else}
+                                        -
+                                    {/if}
+                                </td>
+                            </tr>
+                        {/if}
+                    {/each}
                 </table>
             </div>
         </div>
