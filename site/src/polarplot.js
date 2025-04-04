@@ -100,31 +100,36 @@ export function polarplot(container) {
         };
     };
 
-    let vpp;
+    let vpps = {};
     let plot = function () {};
-    plot.render = function (data) {
-        vpp = 'vpp' in data ? data.vpp : data;
+    plot.render = function (datasets) {
+        // Each dataset is rendered with a different series-<n> class
+        datasets.forEach(function (vpp, series) {
+            if (!vpp) {
+                return;
+            }
+            vpps[series] = vpp;
+            const { vpp_data, run_data } = seriesFromVpp(vpp);
 
-        const { vpp_data, run_data } = seriesFromVpp(vpp);
+            var tws_series = function (cssClass) {
+                return (selection) => selection.attr('class', (d, i) => `${cssClass} tws-${vpp.speeds[i]} series-${series}`);
+            };
 
-        var tws_series = function (cssClass) {
-            return (selection) => selection.attr('class', (d, i) => `${cssClass} tws-${vpp.speeds[i]}`);
-        };
+            var run_points = svg.selectAll('.vmg-run').data(run_data);
+            run_points.exit().remove();
+            run_points
+                .enter()
+                .append('path')
+                .call(tws_series('vmg-run'))
+                .merge(run_points)
+                .transition()
+                .duration(200)
+                .call(scatter());
 
-        var run_points = svg.selectAll('.vmg-run').data(run_data);
-        run_points.exit().remove();
-        run_points
-            .enter()
-            .append('path')
-            .call(tws_series('vmg-run'))
-            .merge(run_points)
-            .transition()
-            .duration(200)
-            .call(scatter());
-
-        var lines = svg.selectAll('.line').data(vpp_data);
-        lines.exit().remove();
-        lines.enter().append('path').call(tws_series('line')).merge(lines).transition().duration(200).attr('d', line);
+            var lines = svg.selectAll('.line.series-' +series).data(vpp_data);
+            lines.exit().remove();
+            lines.enter().append('path').call(tws_series('line')).merge(lines).transition().duration(200).attr('d', line);
+        });
     };
 
     var highlight;
@@ -135,7 +140,8 @@ export function polarplot(container) {
             svg.selectAll('.highlight').data([]).exit().remove();
             return;
         }
-
+        // Highlight the first series
+        const vpp = vpps[0];
         const parent = select(event.target.parentNode);
         const parentClass = parent ? parent.attr('class') : '';
         let tws, twa;

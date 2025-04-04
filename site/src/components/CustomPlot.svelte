@@ -46,7 +46,9 @@ let boat = EMPTY_BOAT;
 let error = undefined;
 $: {
     try {
-        boat = polarImport(polar);
+        boat = {
+            vpp: polarImport(polar)
+        };
         error = undefined;
     } catch (e) {
         boat = EMPTY_BOAT;
@@ -62,7 +64,7 @@ $: {
                 {error}
             </div>
         {/if}
-        <PolarPlot {boat} />
+        <PolarPlot boats={[boat]} />
     </div>
     <div class="col-sm">
         <textarea class="plot-only" bind:value={polar} />

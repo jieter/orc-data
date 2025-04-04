@@ -41,7 +41,7 @@ function getSails() {
 {#if boat}
     <div class="row p-2">
         <div class="col-sm">
-            <PolarPlot {boat} />
+            <PolarPlot boats={[boat]} />
         </div>
         <div class="col-sm">
             <h1>

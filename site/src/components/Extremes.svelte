@@ -85,7 +85,7 @@ const labels = {
             {#if boat}
                 <h6><Sailnumber number={boat.sailnumber} /> {boat.name} ({boat.boat.type})</h6>
 
-                <PolarPlot {boat} />
+                <PolarPlot boats={[boat]} />
             {/if}
         </div>
     </div>
