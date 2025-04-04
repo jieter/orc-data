@@ -78,6 +78,21 @@ const rows = [
     { label: 'OSN', value: (boat) => boat?.rating.osn },
     { label: 'Top speed', value: topSpeed, suffix: 'kts' },
 ];
+
+function renderCell(value, suffix) {
+    if (value){
+        let className = typeof(value) === 'number' ? 'text-end' : '';
+        return `<td class=${className}>${value}${suffix}</td>`;
+    } else {
+        return '<td></td>';
+    }
+}
+function renderCells(row, boatA, boatB) {
+    const valueA = row.value(boatA);
+    const valueB = row.value(boatB);
+    const suffix = row.suffix || '';
+    return renderCell(valueA, suffix) + renderCell(valueB, suffix);
+}
 </script>
 
 <div class="container-fluid">
@@ -119,23 +134,7 @@ const rows = [
                         {#if row.separator}
                             <tr><td colspan="3" class="separator"></td></tr>
                         {:else}
-                            <tr>
-                                <td>{@html row.label}</td>
-                                <td class={row.suffix ? 'text-end' : ''}>
-                                    {#if row.value(boatA)}
-                                        {row.value(boatA)}{@html row.suffix || ''}
-                                    {:else}
-                                        -
-                                    {/if}
-                                </td>
-                                <td class={row.suffix ? 'text-end' : ''}>
-                                    {#if row.value(boatB)}
-                                        {row.value(boatB)}{@html row.suffix || ''}
-                                    {:else}
-                                        -
-                                    {/if}
-                                </td>
-                            </tr>
+                            <tr><td>{@html row.label}</td>{@html renderCells(row, boatA, boatB)}</tr>
                         {/if}
                     {/each}
                 </table>

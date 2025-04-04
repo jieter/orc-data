@@ -12,7 +12,6 @@ let boat;
 
 async function loadRandomBoat() {
     sailnumber = await getRandomBoat();
-    console.log(sailnumber);
 }
 
 onMount(async () => {
