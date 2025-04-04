@@ -6,7 +6,6 @@ import LineLegend from './LineLegend.svelte';
 import PolarPlot from './PolarPlot.svelte';
 import Sailnumber from './Sailnumber.svelte';
 import { getBoat } from '../api.js';
-import { max } from 'd3-array';
 
 let sailnumberA = undefined;
 let sailnumberB = undefined;
@@ -74,9 +73,9 @@ const rows = [
     { label: 'Spinnaker', value: (boat) => boat?.boat.sizes.spinnaker, suffix: 'm<sup>2</sup>' },
     { label: 'Spinnaker&nbsp;asym', value: (boat) => boat?.boat.sizes.spinnaker_asym, suffix: 'm<sup>2</sup>' },
     { separator: true },
+    { label: 'Top speed', value: topSpeed, suffix: 'kts' },
     { label: 'GPH', value: (boat) => boat?.rating.gph },
     { label: 'OSN', value: (boat) => boat?.rating.osn },
-    { label: 'Top speed', value: topSpeed, suffix: 'kts' },
 ];
 
 function renderCell(value, suffix) {
@@ -87,11 +86,10 @@ function renderCell(value, suffix) {
         return '<td></td>';
     }
 }
-function renderCells(row, boatA, boatB) {
-    const valueA = row.value(boatA);
-    const valueB = row.value(boatB);
+function renderCells(row, boats) {
+    const values = boats.map(row.value);
     const suffix = row.suffix || '';
-    return renderCell(valueA, suffix) + renderCell(valueB, suffix);
+    return values.map((value) => renderCell(value, suffix)).join('');
 }
 </script>
 
@@ -134,7 +132,7 @@ function renderCells(row, boatA, boatB) {
                         {#if row.separator}
                             <tr><td colspan="3" class="separator"></td></tr>
                         {:else}
-                            <tr><td>{@html row.label}</td>{@html renderCells(row, boatA, boatB)}</tr>
+                            <tr><td>{@html row.label}</td>{@html renderCells(row, [boatA, boatB])}</tr>
                         {/if}
                     {/each}
                 </table>

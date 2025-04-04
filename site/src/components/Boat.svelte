@@ -54,10 +54,10 @@ function getSails() {
 
             <table class="table">
                 <tr><th>Sail number</th><th>Type</th><th>Designer</th><th>Builder</th></tr>
-                <tr
-                    ><td>{boat.sailnumber}</td><td>{boat.boat.type}</td><td>{boat.boat.designer}</td><td
-                        >{boat.boat.builder}</td
-                    ></tr>
+                <tr>
+                    <td>{boat.sailnumber}</td><td>{boat.boat.type}</td><td>{boat.boat.designer}</td>
+                    <td>{boat.boat.builder}</td>
+                </tr>
                 <tr><th>Length</th><th>Beam</th><th>Draft</th><th>Displacement</th></tr>
                 <tr>
                     <td>{sizes.loa} m</td>
