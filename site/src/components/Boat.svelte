@@ -41,7 +41,7 @@ function getSails() {
 {#if boat}
     <div class="row p-2">
         <div class="col-sm">
-            <PolarPlot {boat} />
+            <PolarPlot boats={[boat]} />
         </div>
         <div class="col-sm">
             <h1>
@@ -53,8 +53,11 @@ function getSails() {
             </h1>
 
             <table class="table">
-                <tr><th>Sail number</th><th>Type</th><th>Designer</th></tr>
-                <tr><td>{boat.sailnumber}</td><td>{boat.boat.type}</td><td>{boat.boat.designer}</td></tr>
+                <tr><th>Sail number</th><th>Type</th><th>Designer</th><th>Builder</th></tr>
+                <tr>
+                    <td>{boat.sailnumber}</td><td>{boat.boat.type}</td><td>{boat.boat.designer}</td>
+                    <td>{boat.boat.builder}</td>
+                </tr>
                 <tr><th>Length</th><th>Beam</th><th>Draft</th><th>Displacement</th></tr>
                 <tr>
                     <td>{sizes.loa} m</td>
@@ -73,7 +76,7 @@ function getSails() {
                     {/each}
                 </tr>
 
-                <tr><th>GPH</th><th>OSH</th><th>Stability index</th></tr>
+                <tr><th>GPH</th><th>OSN</th><th>Stability index</th></tr>
                 <tr><td>{rating.gph}</td><td>{rating.osn}</td><td>{boat.boat.stability_index || '?'}</td></tr>
                 <tr>
                     <th>Inshore TN</th><td colspan="3">{rating.triple_inshore.join(' ')}</td>
@@ -88,7 +91,7 @@ function getSails() {
                 <small>
                     <label>
                         <input type="checkbox" bind:checked={extended} />
-                        Extended CSV (including beat and run angles)
+                        <small>Extended CSV (including beat and run angles)</small>
                     </label>
                 </small>
             </h5>

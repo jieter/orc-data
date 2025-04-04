@@ -92,8 +92,8 @@ for `<twa>`:  [52, 60, 75, 90, 110, 120, 135, 150]
 
 - Update year in `Makefile`, `scoring.py` and `site/src/App.svelte`.
 - Download new data: `make json`
-- Tranfrom json's to site format: `make site`
-- Update year in site, update bundle (`npm run bundle`) en commit.
+- Transform json's to site format: `make site`
+- Update year in site, update bundle (`npm run build`) en commit.
 
 ## TODO
 

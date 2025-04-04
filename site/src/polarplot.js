@@ -24,11 +24,10 @@ function seriesFromVpp(vpp) {
             series.unshift(deg2rad(vpp.beat_angle[i], vpp.beat_vmg[i]));
         }
         if (vpp.run_angle) {
-            var run = deg2rad(vpp.run_angle[i], -vpp.run_vmg[i]);
+            const run = deg2rad(vpp.run_angle[i], -vpp.run_vmg[i]);
             series.push(run);
             run_data.push(run);
         }
-
         return series.sort((a, b) => a[0] - b[0]);
     });
     return { vpp_data, run_data };
@@ -38,17 +37,10 @@ export function polarplot(container) {
     if (container.substring) {
         container = document.getElementById(container.substring(1));
     }
-    var width = function () {
-        return container.offsetWidth;
-    };
-    var height = function () {
-        const windowHeight = window.innerHeight;
-        return Math.min(width() * 1.8, windowHeight - 60);
-    };
+    var width = () => container.offsetWidth;
+    var height = () => Math.min(width() * 1.8, window.innerHeight - 60);
     // Radius of the visualization
-    const radius = function () {
-        return Math.min(height() / 1.8 - 20, width()) - 15;
-    };
+    const radius = () => Math.min(height() / 1.8 - 20, width()) - 15;
     // Radial speed scale (kts)
     const r = scaleLinear().domain([0, 10]).range([0, radius()]);
 
@@ -111,62 +103,68 @@ export function polarplot(container) {
         };
     };
 
-    var plot = function () {};
+    let vpps = {};
+    let plot = function () {};
+    plot.render = function (datasets) {
+        // Each dataset is rendered with a different series-<n> class
+        datasets.forEach(function (vpp, series) {
+            if (!vpp) {
+                return;
+            }
+            vpps[series] = vpp;
+            const { vpp_data, run_data } = seriesFromVpp(vpp);
 
-    var vpp;
-    plot.render = function (data) {
-        vpp = 'vpp' in data ? data.vpp : data;
+            var tws_series = function (cssClass) {
+                return (selection) =>
+                    selection.attr('class', (d, i) => `${cssClass} tws-${vpp.speeds[i]} series-${series}`);
+            };
 
-        const { vpp_data, run_data } = seriesFromVpp(vpp);
+            var run_points = svg.selectAll('.vmg-run').data(run_data);
+            run_points.exit().remove();
+            run_points
+                .enter()
+                .append('path')
+                .call(tws_series('vmg-run'))
+                .merge(run_points)
+                .transition()
+                .duration(200)
+                .call(scatter());
 
-        var tws_series = function (cssClass) {
-            return (selection) => selection.attr('class', (d, i) => `${cssClass} tws-${vpp.speeds[i]}`);
-        };
-
-        var run_points = svg.selectAll('.vmg-run').data(run_data);
-        run_points.exit().remove();
-        run_points
-            .enter()
-            .append('path')
-            .call(tws_series('vmg-run'))
-            .merge(run_points)
-            .transition()
-            .duration(200)
-            .call(scatter());
-
-        var lines = svg.selectAll('.line').data(vpp_data);
-        lines.exit().remove();
-        lines.enter().append('path').call(tws_series('line')).merge(lines).transition().duration(200).attr('d', line);
+            var lines = svg.selectAll('.line.series-' + series).data(vpp_data);
+            lines.exit().remove();
+            lines
+                .enter()
+                .append('path')
+                .call(tws_series('line'))
+                .merge(lines)
+                .transition()
+                .duration(200)
+                .attr('d', line);
+        });
     };
 
     var highlight;
 
     select(window).on('mouseover', function (event) {
-        var target = select(event.target);
-        var targetClass = target.attr('class');
-        if (!targetClass || targetClass.substring(0, 4) !== 'tws-') {
+        const targetClass = select(event.target).attr('class');
+        if (!targetClass || !targetClass.startsWith('tws-')) {
             svg.selectAll('.highlight').data([]).exit().remove();
             return;
         }
-
-        var parent = select(event.target.parentNode);
-        var parentClass = parent ? parent.attr('class') : '';
-
-        if (
-            targetClass &&
-            targetClass.substring(0, 4) === 'tws-' &&
-            parentClass &&
-            parentClass.substring(0, 4) === 'twa-'
-        ) {
-            var tws = +targetClass.substring(4);
-            var twa = +parentClass.substring(4);
+        // Highlight the first series
+        const vpp = vpps[0];
+        const parent = select(event.target.parentNode);
+        const parentClass = parent ? parent.attr('class') : '';
+        let tws, twa;
+        if (targetClass?.startsWith('tws-') && parentClass?.startsWith('twa-')) {
+            tws = +targetClass.substring(4);
+            twa = +parentClass.substring(4);
 
             const speed = vpp[twa][vpp.speeds.indexOf(tws)];
             highlight = svg.selectAll('.highlight').data([[twa * DEG2RAD, speed]]);
         } else {
             highlight = svg.selectAll('.highlight').data([]);
         }
-
         highlight.exit().remove();
         highlight
             .enter()

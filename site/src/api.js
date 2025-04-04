@@ -1,19 +1,18 @@
 import { getRandomElement } from './util.js';
 
-let _index;
+let _indexPromise;
+
 export async function indexLoader() {
-    if (!_index) {
-        _index = await fetch('index.json')
-            .then((response) => response.json())
-            .then((items) =>
-                items.map(([sailnumber, name, type]) => ({
-                    sailnumber,
-                    name,
-                    type,
-                })),
-            );
-    }
-    return _index;
+    _indexPromise = await fetch('index.json')
+        .then((response) => response.json())
+        .then((items) =>
+            items.map(([sailnumber, name, type]) => ({
+                sailnumber,
+                name,
+                type,
+            })),
+        );
+    return await _indexPromise;
 }
 
 export async function getRandomBoat() {

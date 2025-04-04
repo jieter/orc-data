@@ -81,6 +81,9 @@ svg .axis text {
     stroke: #777;
     color: #777;
 }
+.series-1 {
+    stroke-dasharray: 3,3;
+}
 
 .polar-table td:hover {
     background-color: #eee;
