@@ -1,0 +1,57 @@
+<script>
+    import { zip } from 'd3-array';
+    import { curveCardinal, lineRadial, symbol, symbolCircle, symbolDiamond } from 'd3-shape';
+
+    import { DEG2RAD, vmg2sog } from '../util.js';
+
+    /* Component to render VPP data for a boat. */
+    export let vpp;
+    export let index = 0;
+    export let r;
+
+    const deg2rad = (degrees, vmg) => [degrees * DEG2RAD, vmg2sog(degrees, vmg)];
+
+    function seriesFromVpp(vpp) {
+        const vpp_angles = vpp.angles.map((d) => d * DEG2RAD);
+        let run_data = [];
+
+        const vpp_data = vpp.speeds.map(function (windspeed, i) {
+            var series = zip(
+                vpp_angles,
+                vpp.angles.map((angle) => vpp[angle][i]),
+            ).filter((a) => a[1] > 0);
+
+            if (vpp.beat_angle) {
+                series.unshift(deg2rad(vpp.beat_angle[i], vpp.beat_vmg[i]));
+            }
+            if (vpp.run_angle) {
+                const run = deg2rad(vpp.run_angle[i], -vpp.run_vmg[i]);
+                series.push(run);
+                run_data.push(run);
+            }
+            return series.sort((a, b) => a[0] - b[0]);
+        });
+        return { vpp: vpp_data, run: run_data };
+    }
+
+    $: data = seriesFromVpp(vpp);
+    $: console.log(data.run)
+
+    const line = lineRadial()
+            .angle((d) => d[0])
+            .radius((d) => r(d[1]))
+            .curve(curveCardinal.tension(0.5));
+</script>
+
+{#each data.vpp as tws, i}
+    <path
+        class="line series-{index} tws-{vpp.speeds[i]}"
+        d={line(tws)}
+        stroke-width="2"/>
+{/each}
+{#each data.run as [rad, vmg], i}
+    <path class="vmg-run series-{index} tws-{vpp.speeds[i]}"
+        d={symbol(symbolDiamond, 32)()}
+        transform="translate({r(vmg) * Math.sin(rad)}, {r(vmg) * -Math.cos(rad)})"
+        stroke-width="1"/>
+{/each}
