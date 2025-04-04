@@ -47,7 +47,7 @@ let error = undefined;
 $: {
     try {
         boat = {
-            vpp: polarImport(polar)
+            vpp: polarImport(polar),
         };
         error = undefined;
     } catch (e) {

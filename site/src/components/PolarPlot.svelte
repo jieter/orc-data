@@ -13,8 +13,8 @@ afterUpdate(() => {
         plot = polarplot(container);
     }
     if (boats) {
-        console.log(boats)
-        let series = boats.filter(x => x!== undefined).map((boat) => boat.vpp)
+        console.log(boats);
+        let series = boats.filter((x) => x !== undefined).map((boat) => boat.vpp);
         console.log(series);
         plot.render(series);
     }

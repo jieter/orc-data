@@ -73,7 +73,7 @@ function getSails() {
                     {/each}
                 </tr>
 
-                <tr><th>GPH</th><th>OSH</th><th>Stability index</th></tr>
+                <tr><th>GPH</th><th>OSN</th><th>Stability index</th></tr>
                 <tr><td>{rating.gph}</td><td>{rating.osn}</td><td>{boat.boat.stability_index || '?'}</td></tr>
                 <tr>
                     <th>Inshore TN</th><td colspan="3">{rating.triple_inshore.join(' ')}</td>

@@ -13,7 +13,10 @@ function seriesFromVpp(vpp) {
     let run_data = [];
 
     const vpp_data = vpp.speeds.map(function (windspeed, i) {
-        var series = zip(vpp_angles, vpp.angles.map((angle) => vpp[angle][i]));
+        var series = zip(
+            vpp_angles,
+            vpp.angles.map((angle) => vpp[angle][i]),
+        );
         // filter points with zero SOG
         series = series.filter((a) => a[1] > 0);
 
@@ -112,7 +115,8 @@ export function polarplot(container) {
             const { vpp_data, run_data } = seriesFromVpp(vpp);
 
             var tws_series = function (cssClass) {
-                return (selection) => selection.attr('class', (d, i) => `${cssClass} tws-${vpp.speeds[i]} series-${series}`);
+                return (selection) =>
+                    selection.attr('class', (d, i) => `${cssClass} tws-${vpp.speeds[i]} series-${series}`);
             };
 
             var run_points = svg.selectAll('.vmg-run').data(run_data);
@@ -126,9 +130,16 @@ export function polarplot(container) {
                 .duration(200)
                 .call(scatter());
 
-            var lines = svg.selectAll('.line.series-' +series).data(vpp_data);
+            var lines = svg.selectAll('.line.series-' + series).data(vpp_data);
             lines.exit().remove();
-            lines.enter().append('path').call(tws_series('line')).merge(lines).transition().duration(200).attr('d', line);
+            lines
+                .enter()
+                .append('path')
+                .call(tws_series('line'))
+                .merge(lines)
+                .transition()
+                .duration(200)
+                .attr('d', line);
         });
     };
 

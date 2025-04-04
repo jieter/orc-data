@@ -1,6 +1,6 @@
 import { getRandomElement } from './util.js';
 
-let _indexPromise
+let _indexPromise;
 
 export async function indexLoader() {
     _indexPromise = await fetch('index.json')
@@ -12,7 +12,7 @@ export async function indexLoader() {
                 type,
             })),
         );
-    return await _indexPromise    ;
+    return await _indexPromise;
 }
 
 export async function getRandomBoat() {
