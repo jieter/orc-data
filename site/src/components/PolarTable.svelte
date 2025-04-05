@@ -1,6 +1,10 @@
 <script>
 export let vpp;
 export let hover = () => {};
+
+function clearHighlight() {
+    hover(undefined);
+}
 </script>
 
 <table class="table table-sm polar-table">
@@ -22,28 +26,27 @@ export let hover = () => {};
         <tr>
             <td>Beat VMG</td>
             {#each vpp.beat_vmg as speed, i}
-                <td class="tws-{vpp.speeds[i]}">{speed}</td>
+                <td class="tws-{vpp.speeds[i]}">{speed.toFixed(2)}</td>
             {/each}
         </tr>
         {#each vpp.angles as angle}
             <tr class="twa-{angle}">
                 <td>{angle}°</td>
                 {#each vpp[angle] as speed, i}
+                    <!-- svelte-ignore a11y-mouse-events-have-key-events -->
                     <td
                         class="tws-{vpp.speeds[i]}"
                         on:mouseover={() => {
                             hover({ tws: vpp.speeds[i], sog: speed, cog: angle });
                         }}
-                        on:mouseout={() => {
-                            hover(undefined);
-                        }}>{speed}</td>
+                        on:mouseout={clearHighlight}>{speed.toFixed(2)}</td>
                 {/each}
             </tr>
         {/each}
         <tr>
             <td>Run VMG</td>
             {#each vpp.run_vmg as vmg, i}
-                <td class="tws-{vpp.speeds[i]}">{vmg}</td>
+                <td class="tws-{vpp.speeds[i]}">{vmg.toFixed(2)}</td>
             {/each}
         </tr>
         <tr>
@@ -54,3 +57,9 @@ export let hover = () => {};
         </tr>
     </tbody>
 </table>
+
+<style>
+.polar-table td {
+    text-align: right;
+}
+</style>

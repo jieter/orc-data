@@ -1,12 +1,12 @@
 <svelte:options accessors />
 
 <script>
-import { setContext } from 'svelte';
 import { scaleLinear } from 'd3-scale';
 import { symbol, symbolCircle } from 'd3-shape';
-import { DEG2RAD } from '../util.js';
+import { setContext } from 'svelte';
 
 import VppSeries from './VppSeries.svelte';
+import { DEG2RAD } from '../util.js';
 export let boats = [];
 
 let highlight = undefined;
@@ -26,6 +26,7 @@ setContext('polarplot', {
     },
 });
 const sogs = [2, 4, 6, 8, 10, 12, 14, 16];
+const maxSogLabel = 10;
 const angles = [0, 45, 52, 60, 75, 90, 110, 120, 135, 150, 165];
 </script>
 
@@ -36,7 +37,7 @@ const angles = [0, 45, 52, 60, 75, 90, 110, 120, 135, 150, 165];
             {#each sogs as sog}
                 <g class="r axis sog-{sog}">
                     <circle r={rScale(sog)}></circle>
-                    {#if sog <= 10}
+                    {#if sog <= maxSogLabel}
                         <text y={-rScale(sog) - 2} transform="rotate(25)" text-anchor="middle">
                             {sog} kts
                         </text>
@@ -60,7 +61,7 @@ const angles = [0, 45, 52, 60, 75, 90, 110, 120, 135, 150, 165];
             {#if highlight}
                 <path
                     class="highlight tws-{highlight.tws}"
-                    d={symbol(symbolCircle, 50)()}
+                    d={symbol(symbolCircle, 80)()}
                     transform="translate({rScale(highlight.sog) * Math.sin(highlight.cog * DEG2RAD)}, {rScale(
                         highlight.sog,
                     ) * -Math.cos(highlight.cog * DEG2RAD)})"

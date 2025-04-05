@@ -2,6 +2,7 @@
 import { zip } from 'd3-array';
 import { curveCardinal, lineRadial, symbol, symbolDiamond } from 'd3-shape';
 import { getContext } from 'svelte';
+
 import { DEG2RAD, vmg2sog } from '../util.js';
 
 /* Component to render VPP data for a boat. */
@@ -39,7 +40,7 @@ $: data = seriesFromVpp(vpp);
 const line = lineRadial()
     .angle((d) => d[0])
     .radius((d) => rScale(d[1]))
-    .curve(curveCardinal.tension(0.5));
+    .curve(curveCardinal.tension(0.2));
 </script>
 
 <!-- Curves for each true wind speed -->
