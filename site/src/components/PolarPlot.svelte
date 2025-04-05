@@ -1,10 +1,18 @@
+<svelte:options accessors />
+
 <script>
 import { setContext } from 'svelte';
 import { scaleLinear } from 'd3-scale';
+import { symbol, symbolCircle } from 'd3-shape';
+import { DEG2RAD } from '../util.js';
 
 import VppSeries from './VppSeries.svelte';
 export let boats = [];
 
+let highlight = undefined;
+export const hover = (_newHighlight) => {
+    highlight = _newHighlight;
+};
 let container;
 
 const radius = 300;
@@ -49,6 +57,16 @@ const angles = [0, 45, 52, 60, 75, 90, 110, 120, 135, 150, 165];
                     <VppSeries vpp={boat.vpp} />
                 {/if}
             {/each}
+            {#if highlight}
+                <path
+                    class="highlight tws-{highlight.tws}"
+                    d={symbol(symbolCircle, 50)()}
+                    transform="translate({rScale(highlight.sog) * Math.sin(highlight.cog * DEG2RAD)}, {rScale(
+                        highlight.sog,
+                    ) * -Math.cos(highlight.cog * DEG2RAD)})"
+                    transition="400ms"
+                    stroke-width="1" />
+            {/if}
         </g>
     </svg>
 </div>

@@ -1,5 +1,6 @@
 <script>
 export let vpp;
+export let hover = () => {};
 </script>
 
 <table class="table table-sm polar-table">
@@ -27,8 +28,15 @@ export let vpp;
         {#each vpp.angles as angle}
             <tr class="twa-{angle}">
                 <td>{angle}°</td>
-                {#each vpp['' + angle] as speed, i}
-                    <td class="tws-{vpp.speeds[i]}">{speed}</td>
+                {#each vpp[angle] as speed, i}
+                    <td
+                        class="tws-{vpp.speeds[i]}"
+                        on:mouseover={() => {
+                            hover({ tws: vpp.speeds[i], sog: speed, cog: angle });
+                        }}
+                        on:mouseout={() => {
+                            hover(undefined);
+                        }}>{speed}</td>
                 {/each}
             </tr>
         {/each}

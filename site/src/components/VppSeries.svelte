@@ -1,7 +1,7 @@
 <script>
 import { zip } from 'd3-array';
 import { curveCardinal, lineRadial, symbol, symbolDiamond } from 'd3-shape';
-import { getContext, setContext } from 'svelte';
+import { getContext } from 'svelte';
 import { DEG2RAD, vmg2sog } from '../util.js';
 
 /* Component to render VPP data for a boat. */

@@ -36,12 +36,13 @@ function getSails() {
     }
     return sails;
 }
+let plot;
 </script>
 
 {#if boat}
     <div class="row p-2">
         <div class="col-sm">
-            <PolarPlot boats={[boat]} />
+            <PolarPlot bind:this={plot} boats={[boat]} />
         </div>
         <div class="col-sm">
             <h1>
@@ -85,7 +86,7 @@ function getSails() {
                     <th>Offshore TN</th><td colspan="3">{rating.triple_offshore.join(' ')}</td>
                 </tr>
             </table>
-            <PolarTable vpp={boat.vpp} />
+            <PolarTable vpp={boat.vpp} hover={plot?.hover} />
             <h5>
                 Polar (CSV)
                 <small>
