@@ -1,8 +1,6 @@
 <script>
+import { setContext } from 'svelte';
 import { scaleLinear } from 'd3-scale';
-import { curveCardinal, lineRadial, symbol, symbolCircle, symbolDiamond } from 'd3-shape';
-import { afterUpdate } from 'svelte';
-import { getContext, setContext } from 'svelte';
 
 import VppSeries from './VppSeries.svelte';
 export let boats = [];
@@ -10,6 +8,7 @@ export let boats = [];
 let container;
 
 const radius = 300;
+// Scale for the r axis, mapping SOG to plot coordinates
 const rScale = scaleLinear().domain([0, 10]).range([0, radius]);
 
 let index = 0;
