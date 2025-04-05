@@ -5,8 +5,6 @@ import PolarPlot from './PolarPlot.svelte';
 import Sailnumber from './Sailnumber.svelte';
 import { getBoat, getExtremes, getRandomBoat, indexLoader } from '../api.js';
 
-export let sailnumber;
-
 let hoverSailnumber;
 let boat;
 
@@ -61,13 +59,12 @@ const labels = {
 
                             <ul class="list-unstyled">
                                 {#each boats as [number, name, type, value]}
-                                    <li
-                                        class="boat"
-                                        on:click={() => (sailnumber = number)}
-                                        on:mouseenter={() => loadBoat(number)}>
-                                        <Sailnumber {number} />
-                                        {name || '?'}
-                                        <span class="float-end">{value < 100 ? value.toFixed(2) : value}</span>
+                                    <li class="boat" on:mouseenter={() => loadBoat(number)}>
+                                        <a href="#{number}" class="link">
+                                            <Sailnumber {number} />
+                                            {name || '?'}
+                                            <span class="float-end">{value < 100 ? value.toFixed(2) : value}</span>
+                                        </a>
                                     </li>
                                 {/each}
                             </ul>
@@ -102,5 +99,10 @@ const labels = {
 
 h6 {
     white-space: nowrap;
+}
+
+.link {
+    color: inherit;
+    text-decoration: none;
 }
 </style>

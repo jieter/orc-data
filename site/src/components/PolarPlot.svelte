@@ -5,7 +5,8 @@ import { scaleLinear } from 'd3-scale';
 import { symbol, symbolCircle } from 'd3-shape';
 import { setContext } from 'svelte';
 
-import VppSeries from './VppSeries.svelte';
+import VppCurves from './VppCurves.svelte';
+
 import { DEG2RAD } from '../util.js';
 export let boats = [];
 
@@ -55,7 +56,7 @@ const angles = [0, 45, 52, 60, 75, 90, 110, 120, 135, 150, 165];
             {/each}
             {#each boats as boat}
                 {#if boat}
-                    <VppSeries vpp={boat.vpp} />
+                    <VppCurves vpp={boat.vpp} />
                 {/if}
             {/each}
             {#if highlight}

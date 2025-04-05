@@ -80,7 +80,7 @@ $: if (route == 'random') {
 </nav>
 
 {#if route == 'extremes'}
-    <Extremes bind:sailnumber />
+    <Extremes />
 {:else if route == 'customplot'}
     <CustomPlot />
 {:else if route.startsWith('compare')}
