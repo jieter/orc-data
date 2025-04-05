@@ -24,12 +24,7 @@ svg .axis text {
     fill: none;
     stroke: red;
     stroke-width: 1.5px;
-}
-
-.legend rect {
-    fill: #fff;
-    stroke: #000;
-    opacity: 0.8;
+    transition: 400ms;
 }
 
 .highlight {
@@ -84,6 +79,9 @@ svg .axis text {
 .series-1 {
     stroke-dasharray: 3,3;
 }
+.series-2 {
+    stroke-dasharray: 3,6;
+}
 
 .polar-table td:hover {
     background-color: #eee;
@@ -92,6 +90,7 @@ svg .axis text {
 .vmg-run,
 .vmg-beat {
     fill: #fff;
+    transition: 400ms
 }
 
 .meta span.meta-label {

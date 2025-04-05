@@ -36,12 +36,13 @@ function getSails() {
     }
     return sails;
 }
+let plot;
 </script>
 
 {#if boat}
     <div class="row p-2">
         <div class="col-sm">
-            <PolarPlot boats={[boat]} />
+            <PolarPlot bind:this={plot} boats={[boat]} />
         </div>
         <div class="col-sm">
             <h1>
@@ -55,7 +56,9 @@ function getSails() {
             <table class="table">
                 <tr><th>Sail number</th><th>Type</th><th>Designer</th><th>Builder</th></tr>
                 <tr>
-                    <td>{boat.sailnumber}</td><td>{boat.boat.type}</td><td>{boat.boat.designer}</td>
+                    <td>{boat.sailnumber}</td>
+                    <td><a href="#type-{boat.boat.type}">{boat.boat.type}</a></td>
+                    <td>{boat.boat.designer}</td>
                     <td>{boat.boat.builder}</td>
                 </tr>
                 <tr><th>Length</th><th>Beam</th><th>Draft</th><th>Displacement</th></tr>
@@ -85,7 +88,7 @@ function getSails() {
                     <th>Offshore TN</th><td colspan="3">{rating.triple_offshore.join(' ')}</td>
                 </tr>
             </table>
-            <PolarTable vpp={boat.vpp} />
+            <PolarTable vpp={boat.vpp} hover={plot?.hover} />
             <h5>
                 Polar (CSV)
                 <small>
@@ -104,5 +107,8 @@ function getSails() {
 th {
     color: #777;
     font-weight: 400;
+}
+td a {
+    padding: 0;
 }
 </style>

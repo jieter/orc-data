@@ -79,8 +79,8 @@ const rows = [
 ];
 
 function renderCell(value, suffix) {
-    if (value){
-        let className = typeof(value) === 'number' ? 'text-end' : '';
+    if (value) {
+        let className = typeof value === 'number' ? 'text-end' : '';
         return `<td class=${className}>${value}${suffix}</td>`;
     } else {
         return '<td></td>';
@@ -118,14 +118,18 @@ function renderCells(row, boats) {
                     <tr>
                         <td>Sailnumber</td>
                         <td>
-                            <a href="#{sailnumberA}">
-                                <Sailnumber number={sailnumberA} />
-                            </a>
+                            {#if sailnumberA}
+                                <a href="#{sailnumberA}">
+                                    <Sailnumber number={sailnumberA} />
+                                </a>
+                            {/if}
                         </td>
                         <td>
-                            <a href="#{sailnumberB}">
-                                <Sailnumber number={sailnumberB} />
-                            </a>
+                            {#if sailnumberB}
+                                <a href="#{sailnumberB}">
+                                    <Sailnumber number={sailnumberB} />
+                                </a>
+                            {/if}
                         </td>
                     </tr>
                     {#each rows as row}
