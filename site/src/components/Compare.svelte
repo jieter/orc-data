@@ -79,8 +79,8 @@ const rows = [
 ];
 
 function renderCell(value, suffix) {
-    if (value){
-        let className = typeof(value) === 'number' ? 'text-end' : '';
+    if (value) {
+        let className = typeof value === 'number' ? 'text-end' : '';
         return `<td class=${className}>${value}${suffix}</td>`;
     } else {
         return '<td></td>';
