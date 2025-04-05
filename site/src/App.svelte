@@ -7,12 +7,12 @@ import Compare from './components/Compare.svelte';
 import CustomPlot from './components/CustomPlot.svelte';
 import Extremes from './components/Extremes.svelte';
 import Table from './components/Table.svelte';
-
+import { getRandomBoat } from './api.js';
 export let route = 'extremes';
 export let sailnumber = null;
 
 // A route is custom if it starts with one of the route prefixes.
-const prefixes = ['extremes', 'customplot', 'compare', 'type'];
+const prefixes = ['extremes', 'customplot', 'compare', 'type', 'random'];
 const isCustomRoute = (value) => prefixes.some((item) => value.startsWith(item));
 
 function onhashchange() {
@@ -37,6 +37,11 @@ $: {
     if (sailnumber && !isCustomRoute(sailnumber)) {
         window.location.hash = sailnumber;
     }
+}
+$: if (route == 'random') {
+    getRandomBoat().then((sailnumber) => {
+        window.location.hash = sailnumber;
+    });
 }
 </script>
 

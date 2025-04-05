@@ -118,14 +118,18 @@ function renderCells(row, boats) {
                     <tr>
                         <td>Sailnumber</td>
                         <td>
-                            <a href="#{sailnumberA}">
-                                <Sailnumber number={sailnumberA} />
-                            </a>
+                            {#if sailnumberA}
+                                <a href="#{sailnumberA}">
+                                    <Sailnumber number={sailnumberA} />
+                                </a>
+                            {/if}
                         </td>
                         <td>
-                            <a href="#{sailnumberB}">
-                                <Sailnumber number={sailnumberB} />
-                            </a>
+                            {#if sailnumberB}
+                                <a href="#{sailnumberB}">
+                                    <Sailnumber number={sailnumberB} />
+                                </a>
+                            {/if}
                         </td>
                     </tr>
                     {#each rows as row}

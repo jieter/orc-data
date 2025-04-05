@@ -3,16 +3,12 @@ import { onMount } from 'svelte';
 
 import PolarPlot from './PolarPlot.svelte';
 import Sailnumber from './Sailnumber.svelte';
-import { getBoat, getExtremes, getRandomBoat } from '../api.js';
+import { getBoat, getExtremes, getRandomBoat, indexLoader } from '../api.js';
 
 export let sailnumber;
 
 let hoverSailnumber;
 let boat;
-
-async function loadRandomBoat() {
-    sailnumber = await getRandomBoat();
-}
 
 onMount(async () => {
     hoverSailnumber = await getRandomBoat();
@@ -39,9 +35,9 @@ const labels = {
     <div class="row gx-5">
         <div class="col col-sm-8 p-4">
             <p>
-                Polar diagrams for sailyachts with ORC certificates. Select one of the boats below, search by
-                sailnumber, name or type or select a
-                <span on:click={loadRandomBoat} class="link-primary">random boat</span>.
+                Polar diagrams for {#await indexLoader()}lots{:then index}{index.length}{/await} sailyachts with ORC certificates.
+                Select one of the boats below, search by sailnumber, name or type or select a
+                <a href="#random" class="link-primary">random boat</a>.
             </p>
 
             <p>
@@ -51,7 +47,7 @@ const labels = {
             </p>
         </div>
         <div class="col-sm-4 p-4">
-            <button class="btn btn-primary" on:click={loadRandomBoat}>Random boat</button>
+            <a href="#random" class="btn btn-primary">Random boat</a>
         </div>
     </div>
 
@@ -71,7 +67,7 @@ const labels = {
                                         on:mouseenter={() => loadBoat(number)}>
                                         <Sailnumber {number} />
                                         {name || '?'}
-                                        <span class="float-end">{value}</span>
+                                        <span class="float-end">{value < 100 ? value.toFixed(2) : value}</span>
                                     </li>
                                 {/each}
                             </ul>
