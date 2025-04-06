@@ -1,7 +1,7 @@
 <script>
 import Svelecte from 'svelecte';
 
-import { indexLoader } from '../api.js';
+import { index } from '../api.js';
 
 export let sailnumber = undefined;
 
@@ -10,11 +10,12 @@ function renderer({ sailnumber, name, type }) {
 }
 </script>
 
-{#await indexLoader() then options}
-    <Svelecte {options} placeholder="Sailnumber, name or type" virtualList={true} bind:value={sailnumber} {renderer} />
-{:catch}
-    Error loading index
-{/await}
+<Svelecte
+    options={$index}
+    placeholder="Sailnumber, name or type"
+    virtualList={true}
+    bind:value={sailnumber}
+    {renderer} />
 
 <style>
 :global(.svelecte-control) {

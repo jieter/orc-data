@@ -1,34 +1,32 @@
+import { derived, writable } from 'svelte/store';
+
 import { getRandomElement } from './util.js';
 
-let _indexPromise;
+export const index = writable([]);
+export const indexSize = derived(index, (_index) => index.length);
 
-export async function indexLoader() {
-    _indexPromise = await fetch('index.json')
-        .then((response) => response.json())
-        .then((items) =>
-            items.map(([sailnumber, name, type]) => ({
-                sailnumber,
-                name,
-                type,
-            })),
-        );
-    return await _indexPromise;
-}
+fetch('index.json')
+    .then((response) => response.json())
+    .then((items) => {
+        index.set(items.map(([sailnumber, name, type]) => ({ sailnumber, name, type })));
+    });
 
-export async function getRandomBoat() {
-    const index = await indexLoader();
-    return getRandomElement(index).sailnumber;
-}
+export const randomBoat = derived(index, (_index) => {
+    if (_index.length === 0) {
+        return null;
+    }
+    return getRandomElement(_index).sailnumber;
+});
 
-let _boats = {};
+let cache = {};
 
 export function getBoat(sailnumber) {
-    if (sailnumber in _boats) {
-        return new Promise((resolve) => resolve(_boats[sailnumber]));
+    if (sailnumber in cache) {
+        return new Promise((resolve) => resolve(cache[sailnumber]));
     } else {
         return fetch(`data/${sailnumber}.json`).then((response) => {
-            _boats[sailnumber] = response.json();
-            return _boats[sailnumber];
+            cache[sailnumber] = response.json();
+            return cache[sailnumber];
         });
     }
 }

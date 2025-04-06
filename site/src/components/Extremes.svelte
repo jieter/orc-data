@@ -3,14 +3,12 @@ import { onMount } from 'svelte';
 
 import PolarPlot from './PolarPlot.svelte';
 import Sailnumber from './Sailnumber.svelte';
-import { getBoat, getExtremes, getRandomBoat, indexLoader } from '../api.js';
+import { getBoat, getExtremes, randomBoat, indexSize } from '../api.js';
 
 let hoverSailnumber;
 let boat;
 
-onMount(async () => {
-    hoverSailnumber = await getRandomBoat();
-});
+hoverSailnumber = $randomBoat;
 
 async function loadBoat(number) {
     if (number) {
@@ -33,8 +31,8 @@ const labels = {
     <div class="row gx-5">
         <div class="col col-sm-8 p-4">
             <p>
-                Polar diagrams for {#await indexLoader()}lots of{:then index}{index.length}{/await} sailyachts with ORC certificates.
-                Select one of the boats below, search by sailnumber, name or type or select a
+                Polar diagrams for {$indexSize || 'lots of'} sailyachts with ORC certificates. Select one of the boats below,
+                search by sailnumber, name or type or select a
                 <a href="#random" class="link-primary">random boat</a>.
             </p>
 

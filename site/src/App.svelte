@@ -1,7 +1,7 @@
 <script>
 import { onMount } from 'svelte';
 
-import { getRandomBoat } from './api.js';
+import { randomBoat } from './api.js';
 import Boat from './components/Boat.svelte';
 import BoatSelect from './components/BoatSelect.svelte';
 import Compare from './components/Compare.svelte';
@@ -39,9 +39,7 @@ $: {
     }
 }
 $: if (route == 'random') {
-    getRandomBoat().then((sailnumber) => {
-        window.location.hash = sailnumber;
-    });
+    window.location.hash = $randomBoat;
 }
 </script>
 
