@@ -1,6 +1,7 @@
 import json
 import os
 from itertools import count
+from pathlib import Path
 
 from . import COUNTRIES
 from .util import time_allowance2speed
@@ -8,14 +9,13 @@ from .util import time_allowance2speed
 # for boats without a sailnumber, give them a unique number
 counter = count()
 
+SITE_PATH = Path("site")
+INDEX_PATH = SITE_PATH / "index.json"
+EXTREMES_PATH = SITE_PATH / "extremes.json"
+DATA_PATH = SITE_PATH / "data"
 
-def select(boats, key, value):
-    for boat in boats:
-        if boat[key] in (value, "NED%s" % value):
-            return boat
-
-    return None
-
+def floats(*args):
+    return list(map(float, args))
 
 def format_data(data):
     country = data["country"]
@@ -32,18 +32,8 @@ def format_data(data):
         "rating": {
             "gph": float(data["GPH"]),
             "osn": float(data["OSN"]),
-            "triple_offshore": list(
-                map(
-                    float,
-                    [data["TN_Offshore_Low"], data["TN_Offshore_Medium"], data["TN_Offshore_High"]],
-                )
-            ),
-            "triple_inshore": list(
-                map(
-                    float,
-                    [data["TN_Inshore_Low"], data["TN_Inshore_Medium"], data["TN_Inshore_High"]],
-                )
-            ),
+            "triple_offshore": floats(data["TN_Offshore_Low"], data["TN_Offshore_Medium"], data["TN_Offshore_High"]),
+            "triple_inshore": floats(data["TN_Inshore_Low"], data["TN_Inshore_Medium"], data["TN_Inshore_High"]),
         },
         "boat": {
             "builder": (data["Builder"] or "").strip(),
@@ -66,7 +56,7 @@ def format_data(data):
         },
     }
 
-    # velocity prediction
+    # Velocity prediction
     ret["vpp"] = {
         "angles": data["Allowances"]["WindAngles"],
         "speeds": data["Allowances"]["WindSpeeds"],
@@ -83,15 +73,6 @@ def format_data(data):
     ret["vpp"]["run_vmg"] = list([time_allowance2speed(v) for v in data["Allowances"]["Run"]])
 
     return ret
-
-
-def jsonwriter_single(rmsdata, sailnumber):
-    data = map(format_data, rmsdata)
-    data = select(data, "sailnumber", sailnumber)
-
-    print(data)
-    print(json.dumps(data, indent=2))
-
 
 def jsonwriter_list(rmsdata):
     data = list(map(format_data, rmsdata))
@@ -111,17 +92,13 @@ def jsonwriter_site(rmsdata):
     data = list(filter(lambda x: x["country"].upper() in COUNTRIES, data))
 
     # Write the index
-    with open("site/index.json", "w+") as outfile:
-        json.dump(
-            [[boat["sailnumber"], boat["name"], boat["boat"]["type"]] for boat in data],
-            outfile,
-        )
+    with INDEX_PATH.open("w+") as outfile:
+        index = [[boat["sailnumber"], boat["name"], boat["boat"]["type"]] for boat in data]
+        json.dump(index, outfile, separators=(',', ':'))
 
     # Create subdirectories for all countries
     for country in COUNTRIES:
-        country_directory = f"site/data/{country}/"
-        if not os.path.exists(country_directory):
-            os.makedirs(country_directory)
+        (SITE_PATH / f"data/{country}/").mkdir(parents=True, exist_ok=True)
 
     # Write data for each boat to json
     for boat in data:
@@ -130,15 +107,15 @@ def jsonwriter_site(rmsdata):
             json.dump(boat, outfile, indent=2)
 
 
-def jsonwriter_extremes(rmsdata):
-    data = list(map(format_data, rmsdata))
+def jsonwriter_extremes():
+    data = []
+    for boat_file in DATA_PATH.glob("**/*.json"):
+        data.append(json.loads(boat_file.read_text()) )
 
-    vppmax = lambda boat: max(max(boat["vpp"][s]) for s in boat["vpp"]["angles"])
+    print("Total boats loaded: ", len(data))
+    vppmax = lambda boat: max(max(boat["vpp"][str(s)]) for s in boat["vpp"]["angles"])
+
     fast_boats = sorted(data, key=vppmax, reverse=True)
-
-    long_boats = sorted(data, key=lambda boat: boat["boat"]["sizes"]["loa"], reverse=True)
-    heavy_boats = sorted(data, key=lambda boat: boat["boat"]["sizes"]["displacement"], reverse=True)
-
     sailno_vppmax = lambda boats: list(
         [(boat["sailnumber"], boat["name"], boat["boat"]["type"], vppmax(boat)) for boat in boats]
     )
@@ -149,13 +126,13 @@ def jsonwriter_extremes(rmsdata):
             [(boat["sailnumber"], boat["name"], boat["boat"]["type"], boat["boat"]["sizes"][key]) for boat in boats]
         )
 
-    extremes = {}
-    extremes["max_speed"] = sailno_vppmax(fast_boats[:10])
-    extremes["min_speed"] = sailno_vppmax(fast_boats[-10:])
+    extremes = {
+        "max_speed": sailno_vppmax(fast_boats[:10]),
+        "min_speed": sailno_vppmax(fast_boats[-10:]),
+        "max_length": sailno_sizekey("loa"),
+        "max_displacement": sailno_sizekey("displacement"),
+        "max_draft": sailno_sizekey("draft"),
+    }
 
-    extremes["max_length"] = sailno_sizekey("loa")
-    extremes["max_displacement"] = sailno_sizekey("displacement")
-    extremes["max_draft"] = sailno_sizekey("draft")
-
-    with open("site/extremes.json", "w+") as outfile:
+    with EXTREMES_PATH.open("w+") as outfile:
         json.dump(extremes, outfile, indent=2)

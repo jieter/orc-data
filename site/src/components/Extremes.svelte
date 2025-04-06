@@ -33,7 +33,7 @@ const labels = {
     <div class="row gx-5">
         <div class="col col-sm-8 p-4">
             <p>
-                Polar diagrams for {#await indexLoader()}lots{:then index}{index.length}{/await} sailyachts with ORC certificates.
+                Polar diagrams for {#await indexLoader()}lots of{:then index}{index.length}{/await} sailyachts with ORC certificates.
                 Select one of the boats below, search by sailnumber, name or type or select a
                 <a href="#random" class="link-primary">random boat</a>.
             </p>
@@ -75,7 +75,12 @@ const labels = {
         </div>
         <div class="col-sm-4 p-4">
             {#if boat}
-                <h6><Sailnumber number={boat.sailnumber} /> {boat.name} ({boat.boat.type})</h6>
+                <h6>
+                    <a href="#{boat.sailnumber}">
+                        <Sailnumber number={boat.sailnumber} />
+                    </a>
+                    {boat.name} ({boat.boat.type})
+                </h6>
 
                 <PolarPlot boats={[boat]} />
             {/if}

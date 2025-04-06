@@ -35,6 +35,6 @@ def parse_json_glob(pattern):
         data = parse_json(filename)
 
         ret.extend(data)
-        log(f"Loaded {len(data)} boats from {filename}")
+        log(f"Loaded {len(data):>3} boats from {filename}")
 
     return ret
