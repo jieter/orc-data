@@ -10,13 +10,13 @@ export let boats = [];
 
 let windowWidth;
 let container;
-let radius = 300;
+let width = 300;
 $: if (windowWidth && container) {
-    radius = container.offsetWidth;
+    width = container.offsetWidth;
 }
-$: height = radius * 1.8 + 10;
+$: height = container?.offsetHeight || 800;
+$: radius = Math.min(height / 1.8 - 20, width) - 25;
 $: rScale.range([0, radius]);
-$: console.log(windowWidth, radius);
 
 // Scale for the r axis, mapping SOG to plot coordinates
 $: rScale = scaleLinear().domain([0, 10]).range([0, radius]);
