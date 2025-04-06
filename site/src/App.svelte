@@ -1,13 +1,13 @@
 <script>
 import { onMount } from 'svelte';
 
+import { getRandomBoat } from './api.js';
 import Boat from './components/Boat.svelte';
 import BoatSelect from './components/BoatSelect.svelte';
 import Compare from './components/Compare.svelte';
 import CustomPlot from './components/CustomPlot.svelte';
 import Extremes from './components/Extremes.svelte';
 import Table from './components/Table.svelte';
-import { getRandomBoat } from './api.js';
 export let route = 'extremes';
 export let sailnumber = null;
 

@@ -1,14 +1,13 @@
 <script>
 import { zip } from 'd3-array';
 import { curveCardinal, lineRadial, symbol, symbolDiamond } from 'd3-shape';
-import { getContext } from 'svelte';
 
 import { DEG2RAD, vmg2sog } from '../util.js';
 
 /* Component to render VPP data for a boat. */
 export let vpp;
-
-let { rScale, index } = getContext('polarplot').getScale();
+export let rScale;
+export let index = 0;
 
 const deg2rad = (degrees, vmg) => [degrees * DEG2RAD, vmg2sog(degrees, vmg)];
 
@@ -21,7 +20,6 @@ function seriesFromVpp(vpp) {
             vpp_angles,
             vpp.angles.map((angle) => vpp[angle][i]),
         ).filter((a) => a[1] > 0);
-
         if (vpp.beat_angle) {
             series.unshift(deg2rad(vpp.beat_angle[i], vpp.beat_vmg[i]));
         }
@@ -36,8 +34,7 @@ function seriesFromVpp(vpp) {
 }
 
 $: data = seriesFromVpp(vpp);
-
-const line = lineRadial()
+$: line = lineRadial()
     .angle((d) => d[0])
     .radius((d) => rScale(d[1]))
     .curve(curveCardinal.tension(0.2));

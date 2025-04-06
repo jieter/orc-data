@@ -3,36 +3,38 @@
 <script>
 import { scaleLinear } from 'd3-scale';
 import { symbol, symbolCircle } from 'd3-shape';
-import { setContext } from 'svelte';
 
 import VppCurves from './VppCurves.svelte';
-
 import { DEG2RAD } from '../util.js';
 export let boats = [];
+
+let windowWidth;
+let container;
+let radius = 300;
+$: if (windowWidth && container) {
+    radius = container.offsetWidth;
+}
+$: height = radius * 1.8 + 10;
+$: rScale.range([0, radius]);
+$: console.log(windowWidth, radius);
+
+// Scale for the r axis, mapping SOG to plot coordinates
+$: rScale = scaleLinear().domain([0, 10]).range([0, radius]);
+
+const sogs = [2, 4, 6, 8, 10, 12, 14, 16];
+const maxSogLabel = 10;
+const angles = [0, 45, 52, 60, 75, 90, 110, 120, 135, 150, 165];
 
 let highlight = undefined;
 export const hover = (_newHighlight) => {
     highlight = _newHighlight;
 };
-let container;
-
-const radius = 300;
-// Scale for the r axis, mapping SOG to plot coordinates
-const rScale = scaleLinear().domain([0, 10]).range([0, radius]);
-
-let index = 0;
-setContext('polarplot', {
-    getScale: () => {
-        return { rScale, index: index++ };
-    },
-});
-const sogs = [2, 4, 6, 8, 10, 12, 14, 16];
-const maxSogLabel = 10;
-const angles = [0, 45, 52, 60, 75, 90, 110, 120, 135, 150, 165];
+$: container?.offsetWidth;
 </script>
 
+<svelte:window bind:innerWidth={windowWidth} />
 <div bind:this={container}>
-    <svg width={radius + 30} height={radius * 2 + 10}>
+    <svg width={radius + 30} {height}>
         <g transform="translate(10, 300)">
             <!-- Speed rings -->
             {#each sogs as sog}
@@ -54,9 +56,9 @@ const angles = [0, 45, 52, 60, 75, 90, 110, 120, 135, 150, 165];
                     </text>
                 </g>
             {/each}
-            {#each boats as boat}
+            {#each boats as boat, index}
                 {#if boat}
-                    <VppCurves vpp={boat.vpp} />
+                    <VppCurves vpp={boat.vpp} {index} {rScale} />
                 {/if}
             {/each}
             {#if highlight}
@@ -72,4 +74,3 @@ const angles = [0, 45, 52, 60, 75, 90, 110, 120, 135, 150, 165];
         </g>
     </svg>
 </div>
-<!-- <svelte:window on:resize={() => plot && plot.resize()} /> -->

@@ -57,7 +57,8 @@ let plot;
                 <tr><th>Sail number</th><th>Type</th><th>Designer</th><th>Builder</th></tr>
                 <tr>
                     <td>{boat.sailnumber}</td>
-                    <td>{#if boat.boat.type}<a href="#type-{boat.boat.type}">{boat.boat.type}</a>{:else}?{/if}</td>
+                    <td
+                        >{#if boat.boat.type}<a href="#type-{boat.boat.type}">{boat.boat.type}</a>{:else}?{/if}</td>
                     <td>{boat.boat.designer}</td>
                     <td>{boat.boat.builder}</td>
                 </tr>
