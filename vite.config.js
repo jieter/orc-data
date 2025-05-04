@@ -1,6 +1,7 @@
+import fs from 'fs';
+import path from 'path';
 import { defineConfig } from 'vite';
 import { svelte } from '@sveltejs/vite-plugin-svelte';
-
 // docs: https://vitejs.dev/guide/build.html
 export default defineConfig({
     base: '',
@@ -36,6 +37,19 @@ export default defineConfig({
                         res.end();
                     } else {
                         next();
+                    }
+                });
+            },
+        },
+        {
+            name: 'filter-public-dir',
+            apply: 'build',
+            generateBundle() {
+                const skipPaths = ['src', 'data'];
+                skipPaths.forEach((p) => {
+                    const target = path.resolve(__dirname, 'site', p);
+                    if (fs.existsSync(target)) {
+                        fs.rmSync(target, { recursive: true, force: true });
                     }
                 });
             },

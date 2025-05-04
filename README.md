@@ -99,3 +99,10 @@ for `<twa>`:  [52, 60, 75, 90, 110, 120, 135, 150]
 
  - allow switching between polar and cartesian axis
  - allow comparing two boats side by side
+
+
+## Development
+
+- `npm install`
+- `npm run dev` to start a development server at http://localhost:5173/
+- `npm run build` before committing the build files.
