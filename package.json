@@ -1,7 +1,7 @@
 {
     "type": "module",
     "scripts": {
-        "format": "prettier --write --plugin prettier-plugin-svelte site/src/* site/src/components/* vite.config.js",
+        "format": "prettier --write --plugin prettier-plugin-svelte src/* src/components/* vite.config.js",
         "build": "vite build",
         "dev": "vite",
         "eslint": "eslint -c package.json site/src/ --fix"
