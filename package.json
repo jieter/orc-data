@@ -4,7 +4,7 @@
         "format": "prettier --write --plugin prettier-plugin-svelte src/* src/components/* vite.config.js",
         "build": "vite build",
         "dev": "vite",
-        "eslint": "eslint -c package.json site/src/ --fix"
+        "eslint": "eslint -c package.json src/ --fix"
     },
     "devDependencies": {
         "@sveltejs/vite-plugin-svelte": "^3.1.2",
