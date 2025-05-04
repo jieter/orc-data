@@ -8,13 +8,16 @@ import VppCurves from './VppCurves.svelte';
 import { DEG2RAD } from '../util.js';
 export let boats = [];
 
-let windowWidth;
+let windowInnerHeight, windowInnerWidth;
 let container;
 let width = 300;
-$: if (windowWidth && container) {
+$: if (windowInnerWidth && container) {
     width = container.offsetWidth;
 }
-$: height = container?.offsetHeight || 800;
+let height = 700;
+$: if (windowInnerHeight && windowInnerWidth && container) {
+    height = Math.min(width * 1.8, windowInnerHeight - 60);
+}
 $: radius = Math.min(height / 1.8 - 20, width) - 25;
 $: rScale.range([0, radius]);
 
@@ -32,9 +35,9 @@ export const hover = (_newHighlight) => {
 $: container?.offsetWidth;
 </script>
 
-<svelte:window bind:innerWidth={windowWidth} />
+<svelte:window bind:innerHeight={windowInnerHeight} bind:innerWidth={windowInnerWidth}/>
 <div bind:this={container}>
-    <svg width={radius + 30} {height}>
+    <svg width={width} {height}>
         <g transform="translate(10, 300)">
             <!-- Speed rings -->
             {#each sogs as sog}

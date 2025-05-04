@@ -1,52 +1,16 @@
 {
   "max_speed": [
     [
-      "FRA/FRA9786",
-      "MUNDAKA",
-      "SUN FAST 36 Ir",
-      155.84
-    ],
-    [
       "ITA/ITA77774",
       "FLYINGNIKKA",
       null,
       42.3
     ],
     [
-      "GER/GER7865",
-      "QUAX",
-      "X-34",
-      31.06
-    ],
-    [
-      "NOR/NOR12548",
-      "Memora Bell",
-      "OCEANIS 423",
-      27.78
-    ],
-    [
-      "ESP/ESP11063_C",
-      "DARKNESS",
-      "OCEANIS 45",
-      27.59
-    ],
-    [
-      "ESP/ESP6551_C",
-      "SINSARABIN II",
-      "Sun Odyssey 440",
-      26.51
-    ],
-    [
       "ITA/ITA111U30",
       "BANDALARGA",
       "Ultimate 30",
       25.64
-    ],
-    [
-      "AUS/3946",
-      "Hummingbird",
-      "Farr 37 Modified",
-      25.6
     ],
     [
       "POL/POL20180",
@@ -59,6 +23,42 @@
       "SCALLYWAG",
       "SUPER MAXI",
       23.97
+    ],
+    [
+      "USA/USA60722",
+      "Proteus",
+      "Maxi 72",
+      21.73
+    ],
+    [
+      "AUS/ITA70",
+      "WILLOW",
+      "Volvo 70",
+      21.42
+    ],
+    [
+      "GBR/CAY007",
+      "Vesper",
+      "Maxi 72",
+      21.19
+    ],
+    [
+      "AUS/525100",
+      "BLACK JACK 100",
+      "Super maxi 100'",
+      21.1
+    ],
+    [
+      "GER/BOD49",
+      "WILD LADY",
+      "WILKE 49",
+      21.08
+    ],
+    [
+      "USA/USA28686",
+      "OC 86",
+      "MAXZ86",
+      21.02
     ]
   ],
   "min_speed": [

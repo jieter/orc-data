@@ -110,12 +110,22 @@ def jsonwriter_site(rmsdata):
 def jsonwriter_extremes():
     data = []
     for boat_file in DATA_PATH.glob("**/*.json"):
-        data.append(json.loads(boat_file.read_text()) )
+        data.append(json.loads(boat_file.read_text()))
 
     print("Total boats loaded: ", len(data))
-    vppmax = lambda boat: max(max(boat["vpp"][str(s)]) for s in boat["vpp"]["angles"])
+    def vppmax(boat):
+        twas = [str(twa) for twa in  boat["vpp"]["angles"]]
+        vppmax = max(sum([boat["vpp"][twa] for twa in twas], []))
+        twa_20 = [boat["vpp"][twa][-1] for twa in twas]
+        twa_20_avg = sum(twa_20) / len(twa_20)
+
+        # If the max VPP is more than twice the average of the boat speeds at 20 kts wind, discard the boat
+        if twa_20_avg * 2 > vppmax:
+            return vppmax
+        return -1
 
     fast_boats = sorted(data, key=vppmax, reverse=True)
+    fast_boats = list(filter(lambda boat: vppmax(boat) > 0, fast_boats))
     sailno_vppmax = lambda boats: list(
         [(boat["sailnumber"], boat["name"], boat["boat"]["type"], vppmax(boat)) for boat in boats]
     )
