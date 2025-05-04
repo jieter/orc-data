@@ -35,9 +35,9 @@ export const hover = (_newHighlight) => {
 $: container?.offsetWidth;
 </script>
 
-<svelte:window bind:innerHeight={windowInnerHeight} bind:innerWidth={windowInnerWidth}/>
+<svelte:window bind:innerHeight={windowInnerHeight} bind:innerWidth={windowInnerWidth} />
 <div bind:this={container}>
-    <svg width={width} {height}>
+    <svg {width} {height}>
         <g transform="translate(10, 300)">
             <!-- Speed rings -->
             {#each sogs as sog}
