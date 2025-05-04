@@ -3,7 +3,8 @@ import { svelte } from '@sveltejs/vite-plugin-svelte';
 // docs: https://vitejs.dev/guide/build.html
 export default defineConfig({
     base: '',
-    publicDir: 'site',
+    root: 'site',
+    publicDir: 'public',
     build: {
         outDir: './build/',
         emptyOutDir: false,
@@ -31,6 +32,6 @@ export default defineConfig({
                     }
                 });
             },
-        }
+        },
     ],
 });
