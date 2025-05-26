@@ -25,6 +25,12 @@
       23.97
     ],
     [
+      "AUS/AUS03",
+      "Noahs 2",
+      "Volvo 70",
+      22.87
+    ],
+    [
       "USA/USA60722",
       "Proteus",
       "Maxi 72",
@@ -53,12 +59,6 @@
       "WILD LADY",
       "WILKE 49",
       21.08
-    ],
-    [
-      "USA/USA28686",
-      "OC 86",
-      "MAXZ86",
-      21.02
     ]
   ],
   "min_speed": [
