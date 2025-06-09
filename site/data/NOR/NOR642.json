@@ -1,7 +1,7 @@
 {
   "sailnumber": "NOR/NOR642",
   "country": "NOR",
-  "name": "NN",
+  "name": "Stormfugl",
   "rating": {
     "gph": 722.9,
     "osn": 700.4,
@@ -20,7 +20,7 @@
     "builder": "Albin",
     "type": "Express",
     "designer": "Norlin",
-    "year": 1978,
+    "year": 1990,
     "sizes": {
       "loa": 7.77,
       "beam": 2.52,

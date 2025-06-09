@@ -33,7 +33,7 @@
       "crew": 600.0,
       "wetted_surface": 57.05
     },
-    "stability_index": 125.7
+    "stability_index": -1.0
   },
   "vpp": {
     "angles": [

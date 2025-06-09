@@ -22,7 +22,7 @@
     "designer": "Mark Mills",
     "year": 2006,
     "sizes": {
-      "loa": 13.073,
+      "loa": 13.074,
       "beam": 3.83,
       "draft": 2.71,
       "displacement": 7843.0,
@@ -33,7 +33,7 @@
       "crew": 920.0,
       "wetted_surface": 36.07
     },
-    "stability_index": -1.0
+    "stability_index": 147.9
   },
   "vpp": {
     "angles": [
