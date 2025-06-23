@@ -25,6 +25,12 @@
       23.97
     ],
     [
+      "AUS/525100",
+      "BLACK JACK 100",
+      "Super maxi 100'",
+      23.14
+    ],
+    [
       "AUS/AUS03",
       "Noahs 2",
       "Volvo 70",
@@ -43,22 +49,16 @@
       21.73
     ],
     [
+      "AUS/98888",
+      "NO LIMIT",
+      "R.P.63",
+      21.49
+    ],
+    [
       "AUS/ITA70",
       "WILLOW",
       "Volvo 70",
       21.42
-    ],
-    [
-      "GBR/CAY007",
-      "Vesper",
-      "Maxi 72",
-      21.19
-    ],
-    [
-      "AUS/525100",
-      "BLACK JACK 100",
-      "Super maxi 100'",
-      21.1
     ]
   ],
   "min_speed": [
@@ -303,9 +303,9 @@
       5.47
     ],
     [
-      "ESP/SY051",
-      "WINWIN",
-      "SUPERYACHT",
+      "AUS/525100",
+      "BLACK JACK 100",
+      "Super maxi 100'",
       5.47
     ]
   ]
