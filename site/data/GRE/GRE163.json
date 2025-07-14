@@ -4,16 +4,16 @@
   "name": "OKYROI II",
   "rating": {
     "gph": 637.5,
-    "osn": 619.3,
+    "osn": 619.2,
     "triple_offshore": [
       0.836,
       1.0562,
-      1.1708
+      1.1709
     ],
     "triple_inshore": [
-      0.6532,
+      0.6531,
       0.8664,
-      0.9709
+      0.9711
     ]
   },
   "boat": {
@@ -26,7 +26,7 @@
       "beam": 3.05,
       "draft": 1.93,
       "displacement": 2807.0,
-      "genoa": 27.03,
+      "genoa": 27.05,
       "main": 28.37,
       "spinnaker": 0.0,
       "spinnaker_asym": 85.76,
@@ -159,7 +159,7 @@
     "beat_vmg": [
       2.54,
       3.48,
-      4.22,
+      4.21,
       4.71,
       4.92,
       5.02,
