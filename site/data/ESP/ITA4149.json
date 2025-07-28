@@ -8,7 +8,7 @@
     "triple_offshore": [
       0.9384,
       1.195,
-      1.3328
+      1.3329
     ],
     "triple_inshore": [
       0.729,
@@ -30,7 +30,7 @@
       "main": 52.94,
       "spinnaker": 129.14,
       "spinnaker_asym": 107.62,
-      "crew": 784.0,
+      "crew": 785.0,
       "wetted_surface": 32.66
     },
     "stability_index": 129.3

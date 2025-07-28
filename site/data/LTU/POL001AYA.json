@@ -3,17 +3,17 @@
   "country": "LTU",
   "name": "LA CALMA",
   "rating": {
-    "gph": 671.9,
+    "gph": 672.0,
     "osn": 647.7,
     "triple_offshore": [
-      0.766,
+      0.7659,
       1.0148,
-      1.1497
+      1.1498
     ],
     "triple_inshore": [
       0.5959,
       0.8277,
-      0.9685
+      0.9687
     ]
   },
   "boat": {
@@ -30,7 +30,7 @@
       "main": 29.67,
       "spinnaker": 65.52,
       "spinnaker_asym": 0.0,
-      "crew": 620.0,
+      "crew": 623.0,
       "wetted_surface": 24.3
     },
     "stability_index": -1.0
@@ -88,7 +88,7 @@
       7.26,
       7.45,
       7.67,
-      7.76
+      7.77
     ],
     "90": [
       3.76,
