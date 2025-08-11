@@ -37,6 +37,12 @@
       22.87
     ],
     [
+      "AUT/AUT11",
+      "Monster Project",
+      "VOLVO 70",
+      22.4
+    ],
+    [
       "ITA/GBR25555",
       "SCHOKWAVE 3",
       "90' Sloop",
@@ -53,12 +59,6 @@
       "NO LIMIT",
       "R.P.63",
       21.49
-    ],
-    [
-      "GER/GER7111",
-      "VARUNA",
-      "KER 56",
-      21.45
     ]
   ],
   "min_speed": [
@@ -69,15 +69,15 @@
       6.81
     ],
     [
-      "GRE/GRE1505",
-      "ALMYRA",
-      "EVASION 28",
-      6.8
-    ],
-    [
       "ESP/ESP10497_C",
       "ISFAGEL",
       "CUTLASS 27",
+      6.8
+    ],
+    [
+      "GRE/GRE1505",
+      "ALMYRA",
+      "EVASION 28",
       6.8
     ],
     [
@@ -303,9 +303,9 @@
       5.47
     ],
     [
-      "AUS/525100",
-      "BLACK JACK 100",
-      "Super maxi 100'",
+      "ESP/SY051",
+      "WINWIN",
+      "SUPERYACHT",
       5.47
     ]
   ]
