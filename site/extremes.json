@@ -7,6 +7,12 @@
       42.3
     ],
     [
+      "SUI/SUI001",
+      "QFX",
+      "QFX FOILER",
+      35.71
+    ],
+    [
       "ITA/ITA111U30",
       "BANDALARGA",
       "Ultimate 30",
@@ -53,12 +59,6 @@
       "Proteus",
       "Maxi 72",
       21.73
-    ],
-    [
-      "AUS/98888",
-      "NO LIMIT",
-      "R.P.63",
-      21.49
     ]
   ],
   "min_speed": [
@@ -297,15 +297,15 @@
       5.53
     ],
     [
-      "MLT/MLT112",
-      "SHAGALA BAGALA",
-      "Baltic 112 R/P",
-      5.47
-    ],
-    [
       "ESP/SY051",
       "WINWIN",
       "SUPERYACHT",
+      5.47
+    ],
+    [
+      "AUS/525100",
+      "BLACK JACK 100",
+      "Super maxi 100'",
       5.47
     ]
   ]

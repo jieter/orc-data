@@ -1,7 +1,7 @@
 {
   "sailnumber": "NOR/NOR10576",
   "country": "NOR",
-  "name": "FARRout",
+  "name": "BesteFarr",
   "rating": {
     "gph": 555.9,
     "osn": 545.8,
@@ -17,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "Farr 395",
+    "builder": "Carrol Marine",
     "type": "FARR 395",
     "designer": "Farr",
     "year": 2000,
