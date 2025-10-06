@@ -4,14 +4,14 @@
   "name": "RAGE",
   "rating": {
     "gph": 635.1,
-    "osn": 616.1,
+    "osn": 616.0,
     "triple_offshore": [
       0.8226,
       1.0681,
       1.2009
     ],
     "triple_inshore": [
-      0.6345,
+      0.6346,
       0.8669,
       0.9976
     ]
@@ -28,7 +28,7 @@
       "displacement": 2898.0,
       "genoa": 26.73,
       "main": 28.6,
-      "spinnaker": 57.95,
+      "spinnaker": 57.98,
       "spinnaker_asym": 0.0,
       "crew": 460.0,
       "wetted_surface": 20.0
@@ -141,7 +141,7 @@
       5.98,
       6.81,
       7.33,
-      7.82,
+      7.83,
       8.92,
       10.38
     ],
