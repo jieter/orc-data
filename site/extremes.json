@@ -199,6 +199,12 @@
       174081.0
     ],
     [
+      "AUS/0100",
+      "Maritimo 100",
+      "Oyster 100",
+      115307.0
+    ],
+    [
       "MLT/SY293",
       "PERSEVERANCE",
       "Baltic 117",
@@ -239,12 +245,6 @@
       "WINWIN",
       "SUPERYACHT",
       79627.0
-    ],
-    [
-      "ITA/ITA17146",
-      "ALMAGORES II",
-      "SW102",
-      68994.0
     ]
   ],
   "max_draft": [
@@ -303,9 +303,9 @@
       5.53
     ],
     [
-      "AUS/525100",
-      "BLACK JACK 100",
-      "Super maxi 100'",
+      "ESP/SY051",
+      "WINWIN",
+      "SUPERYACHT",
       5.47
     ]
   ]
