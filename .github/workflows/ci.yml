@@ -4,6 +4,6 @@ jobs:
     eslint:
         runs-on: ubuntu-latest
         steps:
-          - uses: actions/checkout@v5
+          - uses: actions/checkout@v6
           - run: npm install eslint
           - run: npm run eslint
