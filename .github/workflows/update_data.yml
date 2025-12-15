@@ -16,7 +16,7 @@ jobs:
       - id: date
         run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@v8
         with:
           title: Update data from https://orc.org on ${{ env.date }}
           body: Automated update of data from https://orc.org
