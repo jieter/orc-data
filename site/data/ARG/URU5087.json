@@ -1,7 +1,7 @@
 {
   "sailnumber": "ARG/URU5087",
   "country": "ARG",
-  "name": "SIMBA",
+  "name": "CUTTY SARK",
   "rating": {
     "gph": 727.9,
     "osn": 705.2,
@@ -17,7 +17,7 @@
     ]
   },
   "boat": {
-    "builder": "J-BOATS",
+    "builder": "AST.CESPEDES",
     "type": "J-24",
     "designer": "JOHNSTONE",
     "year": 1977,
@@ -33,7 +33,7 @@
       "crew": 400.0,
       "wetted_surface": 12.05
     },
-    "stability_index": 93.1
+    "stability_index": -1.0
   },
   "vpp": {
     "angles": [
