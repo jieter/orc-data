@@ -16,7 +16,7 @@
       "ITA/ITA111U30",
       "BANDALARGA",
       "Ultimate 30",
-      25.64
+      30.23
     ],
     [
       "POL/POL20180",
@@ -29,6 +29,12 @@
       "SHK SCALLYWAG",
       "SUPER MAXI",
       23.92
+    ],
+    [
+      "CRO/HUN7002",
+      "Wild Joe",
+      "Reichel/Pugh 60",
+      23.7
     ],
     [
       "AUS/525100",
@@ -53,20 +59,14 @@
       "SCHOKWAVE 3",
       "90' Sloop",
       22.05
-    ],
-    [
-      "USA/USA60722",
-      "Proteus",
-      "Maxi 72",
-      21.73
     ]
   ],
   "min_speed": [
     [
-      "NED/NED2318",
-      "GoffelS",
-      "Loper",
-      6.81
+      "ESP/ESP10497_C",
+      "ISFAGEL",
+      "CUTLASS 27",
+      6.8
     ],
     [
       "GRE/GRE1505",
@@ -75,10 +75,10 @@
       6.8
     ],
     [
-      "ESP/ESP10497_C",
-      "ISFAGEL",
-      "CUTLASS 27",
-      6.8
+      "SUI/Z1",
+      "Pinguin",
+      "One Off Oldtimer",
+      6.79
     ],
     [
       "GRE/GRE49032",
@@ -303,10 +303,10 @@
       5.53
     ],
     [
-      "ESP/SY051",
-      "WINWIN",
-      "SUPERYACHT",
-      5.47
+      "GBR/GBR7772R",
+      "LIBERTY SQUARED",
+      "SWS 96#05",
+      5.52
     ]
   ]
 }
