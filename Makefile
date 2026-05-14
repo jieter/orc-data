@@ -7,7 +7,7 @@ COUNTRIES = ARG AUS AUT BRA BUL CAN CRO CYP DEN ECU ESP EST FIN FRA GBR \
             POL POR ROU RSA RUS SLO SUI SWE TUR UKR USA
 
 
-YEAR = $(shell date +%Y)
+YEAR = 2025
 
 JSON_FILES = $(addprefix data/$(YEAR)/, $(addsuffix $(YEAR).json, $(COUNTRIES)))
 
