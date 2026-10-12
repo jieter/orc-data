@@ -3,12 +3,13 @@
 from __future__ import print_function
 
 import sys
+from datetime import date
 
 from parser.json_output import jsonwriter_extremes, jsonwriter_site, jsonwriter_list
 from parser.parser import parse_json_glob
 from parser.util import log
 
-YEAR = 2025
+YEAR = date.today().year
 
 if __name__ == "__main__":
     # display help:
