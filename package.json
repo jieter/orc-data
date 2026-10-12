@@ -9,7 +9,7 @@
     "devDependencies": {
         "@sveltejs/vite-plugin-svelte": "^3.1.2",
         "eslint": "^8.51.0",
-        "eslint-plugin-svelte": "^2.34.0",
+        "eslint-plugin-svelte": "^3.23.1",
         "eslint-plugin-import": "^2.31.0",
         "prettier": "^3.5.3",
         "prettier-plugin-svelte": "^3.0.3",
