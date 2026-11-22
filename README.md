@@ -5,6 +5,8 @@ Especially the velocity prediction programme (VPP) data is interesting to estima
 
 [This tool presents the data in a table and a 'polar diagram'](site/index.html)
 
+![ORC sailboat data screenshot](site/screenshoot.png)
+
 ## Columns in `.rms` file:
 
 for `<tws>`:  [6, 8, 10, 12, 14, 16, 20]
@@ -94,12 +96,6 @@ for `<twa>`:  [52, 60, 75, 90, 110, 120, 135, 150]
 - Download new data: `make json`
 - Transform json's to site format: `make site`
 - Update year in site, update bundle (`npm run build`) en commit.
-
-## TODO
-
- - allow switching between polar and cartesian axis
- - allow comparing two boats side by side
-
 
 ## Development
 
