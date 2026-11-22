@@ -130,7 +130,7 @@ input {
 .meta-item textarea {
     width: 100%;
     height: 150px;
-    max-width: 500px;
+    /* max-width: 500px; */
     font-family: monospace;
     font-size: 10px;
 }
@@ -152,7 +152,28 @@ textarea.extended {
 
 .polar-table {
     font-size: 12px;
-    max-width: 500px;
+    width: 100%;
+    /* max-width: 500px; */
+    table-layout: fixed;
+}
+
+.polar-table thead th:first-child {
+    width: 30%;
+}
+
+@media (max-width: 576px) {
+    .polar-table {
+        font-size: 11px;
+    }
+
+    .polar-table th,
+    .polar-table td {
+        padding: 0.2rem 0.3rem;
+    }
+
+    .polar-table tr th {
+        white-space: normal;
+    }
 }
 
 .polar-table tr th {
@@ -190,9 +211,9 @@ textarea.extended {
     margin-top: 25px;
 }
 
-textarea {
+/* textarea {
     max-width: 500px;
-}
+} */
 
 #main {
     overflow-y: auto;
@@ -202,4 +223,41 @@ textarea {
 
 label {
     font-weight: normal;
+}
+
+.polar-table tr th {
+    color: var(--orc-navy-700, #0b4f7c);
+}
+
+/* Dark mode overrides (theme.css sets data-theme="dark" on <html>):
+ * light degree/wind-speed labels and grid lines; tws colors stay as-is. */
+html[data-theme='dark'] svg .axis text {
+    fill: var(--orc-text, #dce6ef);
+}
+
+html[data-theme='dark'] .axis line,
+html[data-theme='dark'] .axis circle {
+    stroke: #55677a;
+}
+
+html[data-theme='dark'] .axis.sog-10 circle {
+    stroke: #9db2c4 !important;
+}
+
+html[data-theme='dark'] .axis.sog-12 circle,
+html[data-theme='dark'] .axis.sog-14 circle,
+html[data-theme='dark'] .axis.sog-16 circle {
+    stroke: #55677a;
+}
+
+html[data-theme='dark'] .highlight {
+    stroke: var(--orc-text, #dce6ef);
+}
+
+html[data-theme='dark'] .polar-table td:hover {
+    background-color: #22303e;
+}
+
+html[data-theme='dark'] .polar-table tr th {
+    color: var(--orc-accent, #ff9f1c);
 }

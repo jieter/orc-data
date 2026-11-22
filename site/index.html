@@ -6,25 +6,93 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
     <title>ORC sailboat data</title>
 
+    <script>
+      (function () {
+        var t = null;
+        try { t = localStorage.getItem('orc-theme'); } catch (e) {}
+        if (t !== 'dark' && t !== 'light') {
+          t = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        }
+        document.documentElement.setAttribute('data-theme', t);
+      })();
+    </script>
+
     <link rel="stylesheet" href="polarplot.css">
     <link rel="stylesheet" href="build/index.css">
+    <link rel="stylesheet" href="theme.css">
 
 </head>
 <body>
     <div id="container"></div>
 
+    <footer class="site-footer">
+        Data &copy; <a href="https://orc.org/index.asp?id=44">ORC.org</a>
+        &middot; updated <span id="data-updated">&hellip;</span>
+        &middot; <a href="https://github.com/dakk/orc-data">GitHub</a>
+    </footer>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
 
     <script defer src="build/index.js"></script>
-    <script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-19828019-5']);
-      _gaq.push(['_trackPageview']);
-
-      (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    <script>
+      (function () {
+        var MOON = '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M6 .278a.768.768 0 0 1 .08.858 7.208 7.208 0 0 0-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 0 1 .81.316.733.733 0 0 1-.031.893A8.349 8.349 0 0 1 8.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 0 1 6 .278z"/></svg>';
+        var SUN = '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6zm0 1a4 4 0 1 0 0-8 4 4 0 0 0 0 8zM8 0a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 0zm0 13a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-1 0v-2A.5.5 0 0 1 8 13zm8-5a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zM3 8a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1 0-1h2a.5.5 0 0 1 .5.5zm10.657-5.657a.5.5 0 0 1 0 .707l-1.414 1.415a.5.5 0 1 1-.707-.708l1.414-1.414a.5.5 0 0 1 .707 0zm-9.193 9.193a.5.5 0 0 1 0 .707L3.05 13.657a.5.5 0 0 1-.707-.707l1.414-1.414a.5.5 0 0 1 .707 0zm9.193 2.121a.5.5 0 0 1-.707 0l-1.414-1.414a.5.5 0 0 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .707zM4.464 4.465a.5.5 0 0 1-.707 0L2.343 3.05a.5.5 0 1 1 .707-.707l1.414 1.414a.5.5 0 0 1 0 .708z"/></svg>';
+        function current() {
+          return document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light';
+        }
+        function apply(t) {
+          document.documentElement.setAttribute('data-theme', t);
+          try { localStorage.setItem('orc-theme', t); } catch (e) {}
+          updateButton();
+        }
+        function updateButton() {
+          var b = document.querySelector('.theme-toggle');
+          if (!b) return;
+          var t = current();
+          b.innerHTML = t === 'dark' ? SUN : MOON;
+          b.title = 'Switch to ' + (t === 'dark' ? 'light' : 'dark') + ' mode';
+          b.setAttribute('aria-label', b.title);
+        }
+        function addButton() {
+          if (document.querySelector('.theme-toggle')) return true;
+          var nav = document.querySelector('.navbar .container-fluid');
+          if (!nav) return false;
+          var b = document.createElement('button');
+          b.type = 'button';
+          b.className = 'theme-toggle';
+          b.addEventListener('click', function () {
+            apply(current() === 'dark' ? 'light' : 'dark');
+          });
+          nav.appendChild(b);
+          updateButton();
+          return true;
+        }
+        var observer = new MutationObserver(function () {
+          if (addButton()) observer.disconnect();
+        });
+        observer.observe(document.body, { childList: true, subtree: true });
+        document.addEventListener('DOMContentLoaded', function () {
+          if (addButton()) observer.disconnect();
+        });
+      })();
+    </script>
+    <script>
+      (function () {
+        var el = document.getElementById('data-updated');
+        function show(d) {
+          if (el && d && !isNaN(d)) {
+            el.textContent = d.toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' });
+          }
+        }
+        fetch('index.json', { method: 'HEAD' })
+          .then(function (res) {
+            var lm = res.headers.get('Last-Modified');
+            show(lm ? new Date(lm) : new Date(document.lastModified));
+          })
+          .catch(function () {
+            show(new Date(document.lastModified));
+          });
       })();
     </script>
 </body>

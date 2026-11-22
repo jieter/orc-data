@@ -68,11 +68,6 @@ $: if (route == 'random') {
                 <li class="nav-item"><a href="#customplot" class="nav-link">Plot custom CSV</a></li>
             </ul>
 
-            <div class="d-flex navbar-text">
-                <a href="https://github.com/dakk/orc-data/">GitHub</a>,
-                <a href="https://orc.org/index.asp?id=44">Data &copy; ORC.org</a>
-            </div>
-            &nbsp;
         </div>
     </div>
 </nav>
