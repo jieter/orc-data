@@ -10,13 +10,19 @@
       "SUI/SUI001",
       "QFX",
       "QFX FOILER",
-      35.71
+      35.64
     ],
     [
       "ITA/ITA111U30",
       "BANDALARGA",
       "Ultimate 30",
-      25.64
+      30.23
+    ],
+    [
+      "USA/USA2872",
+      "LUCKY",
+      "JUAN K 27",
+      25.32
     ],
     [
       "POL/POL20180",
@@ -25,48 +31,42 @@
       24.52
     ],
     [
+      "GRE/GRE7738",
+      "AIOLOS",
+      "VOLVO OPEN 70",
+      24.26
+    ],
+    [
       "AUS/HKG2276",
       "SHK SCALLYWAG",
       "SUPER MAXI",
       23.92
     ],
     [
-      "AUS/525100",
-      "BLACK JACK 100",
-      "Super maxi 100'",
-      23.14
+      "CRO/HUN7002",
+      "Wild Joe",
+      "Reichel/Pugh 60",
+      23.7
     ],
     [
-      "AUS/AUS03",
-      "Noahs 2",
-      "Volvo 70",
-      22.87
-    ],
-    [
-      "AUT/AUT11",
-      "Monster Project",
+      "GBR/CAY70007",
+      "GWEILO 70",
       "VOLVO 70",
-      22.4
+      23.23
     ],
     [
-      "ITA/GBR25555",
-      "SCHOKWAVE 3",
-      "90' Sloop",
-      22.05
-    ],
-    [
-      "USA/USA60722",
-      "Proteus",
-      "Maxi 72",
-      21.73
+      "FIN/FIN1527R",
+      "Tulikettu",
+      "Infiniti 52",
+      22.92
     ]
   ],
   "min_speed": [
     [
-      "NED/NED2318",
-      "GoffelS",
-      "Loper",
-      6.81
+      "ESP/ESP10497_C",
+      "ISFAGEL",
+      "CUTLASS 27",
+      6.8
     ],
     [
       "GRE/GRE1505",
@@ -75,10 +75,10 @@
       6.8
     ],
     [
-      "ESP/ESP10497_C",
-      "ISFAGEL",
-      "CUTLASS 27",
-      6.8
+      "SUI/Z1",
+      "Pinguin",
+      "One Off Oldtimer",
+      6.79
     ],
     [
       "GRE/GRE49032",
@@ -173,16 +173,16 @@
       33.035
     ],
     [
+      "GBR/_2",
+      "PS5 Playstation",
+      "SWAN 108",
+      33.03
+    ],
+    [
       "GRE/GBR106",
       "WALLY B",
       "BRENTA 106",
       33.0
-    ],
-    [
-      "ITA/ITA1946",
-      "ULISSE",
-      "Frers 105'",
-      32.777
     ]
   ],
   "max_displacement": [
@@ -197,6 +197,12 @@
       "PATH",
       "Baltic 146",
       174081.0
+    ],
+    [
+      "GBR/_1",
+      "FAR HORIZON",
+      "GAFF SCHOONER",
+      132602.0
     ],
     [
       "AUS/0100",
@@ -223,6 +229,12 @@
       95604.0
     ],
     [
+      "GBR/_2",
+      "PS5 Playstation",
+      "SWAN 108",
+      88391.0
+    ],
+    [
       "MLT/MLT112",
       "SHAGALA BAGALA",
       "Baltic 112 R/P",
@@ -233,21 +245,15 @@
       "WALLY B",
       "BRENTA 106",
       82098.0
-    ],
-    [
-      "USA/USA22261",
-      "WHITEHAWK",
-      "KING 104",
-      80999.0
-    ],
-    [
-      "ESP/SY051",
-      "WINWIN",
-      "SUPERYACHT",
-      79627.0
     ]
   ],
   "max_draft": [
+    [
+      "USA/USA2872",
+      "LUCKY",
+      "JUAN K 27",
+      7.0
+    ],
     [
       "GRE/SURAMA",
       "SURAMA",
@@ -301,12 +307,6 @@
       "HannaH",
       "Bestevaer 56",
       5.53
-    ],
-    [
-      "ESP/SY051",
-      "WINWIN",
-      "SUPERYACHT",
-      5.47
     ]
   ]
 }
