@@ -28,7 +28,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/jieter/orc-data.git"
+        "url": "https://github.com/dakk/orc-data.git"
     },
     "eslintConfig": {
         "extends": "plugin:svelte/prettier",

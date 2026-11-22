@@ -69,7 +69,7 @@ $: if (route == 'random') {
             </ul>
 
             <div class="d-flex navbar-text">
-                <a href="https://github.com/jieter/orc-data/">GitHub</a>,
+                <a href="https://github.com/dakk/orc-data/">GitHub</a>,
                 <a href="https://orc.org/index.asp?id=44">Data &copy; ORC.org</a>
             </div>
             &nbsp;
