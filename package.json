@@ -7,13 +7,13 @@
         "eslint": "eslint -c package.json src/ --fix"
     },
     "devDependencies": {
-        "@sveltejs/vite-plugin-svelte": "^3.1.2",
+        "@sveltejs/vite-plugin-svelte": "^7.1.2",
         "eslint": "^8.51.0",
         "eslint-plugin-svelte": "^2.34.0",
         "eslint-plugin-import": "^2.31.0",
         "prettier": "^3.5.3",
         "prettier-plugin-svelte": "^3.0.3",
-        "vite": "^5.4.21"
+        "vite": "^8.0.16"
     },
     "dependencies": {
         "d3-array": "^3.2.4",
